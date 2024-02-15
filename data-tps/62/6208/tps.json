@@ -1,0 +1,1586 @@
+[
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032002",
+        "tps": "6208032002001",
+        "url": "62\/6208\/620803\/6208032002\/6208032002001.json",
+        "nama": "TPS 001, AIR DUA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032002",
+        "tps": "6208032002002",
+        "url": "62\/6208\/620803\/6208032002\/6208032002002.json",
+        "nama": "TPS 002, AIR DUA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032006",
+        "tps": "6208032006001",
+        "url": "62\/6208\/620803\/6208032006\/6208032006001.json",
+        "nama": "TPS 001, BALAI RIAM, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032006",
+        "tps": "6208032006002",
+        "url": "62\/6208\/620803\/6208032006\/6208032006002.json",
+        "nama": "TPS 002, BALAI RIAM, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032006",
+        "tps": "6208032006003",
+        "url": "62\/6208\/620803\/6208032006\/6208032006003.json",
+        "nama": "TPS 003, BALAI RIAM, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032006",
+        "tps": "6208032006004",
+        "url": "62\/6208\/620803\/6208032006\/6208032006004.json",
+        "nama": "TPS 004, BALAI RIAM, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032006",
+        "tps": "6208032006005",
+        "url": "62\/6208\/620803\/6208032006\/6208032006005.json",
+        "nama": "TPS 005, BALAI RIAM, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032012",
+        "tps": "6208032012001",
+        "url": "62\/6208\/620803\/6208032012\/6208032012001.json",
+        "nama": "TPS 001, BANGUN JAYA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032012",
+        "tps": "6208032012002",
+        "url": "62\/6208\/620803\/6208032012\/6208032012002.json",
+        "nama": "TPS 002, BANGUN JAYA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032012",
+        "tps": "6208032012003",
+        "url": "62\/6208\/620803\/6208032012\/6208032012003.json",
+        "nama": "TPS 003, BANGUN JAYA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032012",
+        "tps": "6208032012004",
+        "url": "62\/6208\/620803\/6208032012\/6208032012004.json",
+        "nama": "TPS 004, BANGUN JAYA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032012",
+        "tps": "6208032012005",
+        "url": "62\/6208\/620803\/6208032012\/6208032012005.json",
+        "nama": "TPS 005, BANGUN JAYA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032012",
+        "tps": "6208032012006",
+        "url": "62\/6208\/620803\/6208032012\/6208032012006.json",
+        "nama": "TPS 006, BANGUN JAYA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032012",
+        "tps": "6208032012007",
+        "url": "62\/6208\/620803\/6208032012\/6208032012007.json",
+        "nama": "TPS 007, BANGUN JAYA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032012",
+        "tps": "6208032012008",
+        "url": "62\/6208\/620803\/6208032012\/6208032012008.json",
+        "nama": "TPS 008, BANGUN JAYA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032013",
+        "tps": "6208032013001",
+        "url": "62\/6208\/620803\/6208032013\/6208032013001.json",
+        "nama": "TPS 001, BUKIT SUNGKAI, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032013",
+        "tps": "6208032013002",
+        "url": "62\/6208\/620803\/6208032013\/6208032013002.json",
+        "nama": "TPS 002, BUKIT SUNGKAI, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032013",
+        "tps": "6208032013003",
+        "url": "62\/6208\/620803\/6208032013\/6208032013003.json",
+        "nama": "TPS 003, BUKIT SUNGKAI, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032013",
+        "tps": "6208032013004",
+        "url": "62\/6208\/620803\/6208032013\/6208032013004.json",
+        "nama": "TPS 004, BUKIT SUNGKAI, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032013",
+        "tps": "6208032013005",
+        "url": "62\/6208\/620803\/6208032013\/6208032013005.json",
+        "nama": "TPS 005, BUKIT SUNGKAI, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032001",
+        "tps": "6208032001001",
+        "url": "62\/6208\/620803\/6208032001\/6208032001001.json",
+        "nama": "TPS 001, JIHING, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032001",
+        "tps": "6208032001002",
+        "url": "62\/6208\/620803\/6208032001\/6208032001002.json",
+        "nama": "TPS 002, JIHING, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032001",
+        "tps": "6208032001003",
+        "url": "62\/6208\/620803\/6208032001\/6208032001003.json",
+        "nama": "TPS 003, JIHING, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032005",
+        "tps": "6208032005001",
+        "url": "62\/6208\/620803\/6208032005\/6208032005001.json",
+        "nama": "TPS 001, LUPU PERUCA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032005",
+        "tps": "6208032005002",
+        "url": "62\/6208\/620803\/6208032005\/6208032005002.json",
+        "nama": "TPS 002, LUPU PERUCA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032005",
+        "tps": "6208032005003",
+        "url": "62\/6208\/620803\/6208032005\/6208032005003.json",
+        "nama": "TPS 003, LUPU PERUCA, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032007",
+        "tps": "6208032007001",
+        "url": "62\/6208\/620803\/6208032007\/6208032007001.json",
+        "nama": "TPS 001, PEMPANING, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032011",
+        "tps": "6208032011001",
+        "url": "62\/6208\/620803\/6208032011\/6208032011001.json",
+        "nama": "TPS 001, SEKUNINGAN BARU, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032011",
+        "tps": "6208032011002",
+        "url": "62\/6208\/620803\/6208032011\/6208032011002.json",
+        "nama": "TPS 002, SEKUNINGAN BARU, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032011",
+        "tps": "6208032011003",
+        "url": "62\/6208\/620803\/6208032011\/6208032011003.json",
+        "nama": "TPS 003, SEKUNINGAN BARU, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032011",
+        "tps": "6208032011004",
+        "url": "62\/6208\/620803\/6208032011\/6208032011004.json",
+        "nama": "TPS 004, SEKUNINGAN BARU, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032011",
+        "tps": "6208032011005",
+        "url": "62\/6208\/620803\/6208032011\/6208032011005.json",
+        "nama": "TPS 005, SEKUNINGAN BARU, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620803",
+        "desa": "6208032011",
+        "tps": "6208032011006",
+        "url": "62\/6208\/620803\/6208032011\/6208032011006.json",
+        "nama": "TPS 006, SEKUNINGAN BARU, BALAI RIAM, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001001",
+        "url": "62\/6208\/620802\/6208021001\/6208021001001.json",
+        "nama": "TPS 001, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001002",
+        "url": "62\/6208\/620802\/6208021001\/6208021001002.json",
+        "nama": "TPS 002, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001003",
+        "url": "62\/6208\/620802\/6208021001\/6208021001003.json",
+        "nama": "TPS 003, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001004",
+        "url": "62\/6208\/620802\/6208021001\/6208021001004.json",
+        "nama": "TPS 004, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001005",
+        "url": "62\/6208\/620802\/6208021001\/6208021001005.json",
+        "nama": "TPS 005, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001006",
+        "url": "62\/6208\/620802\/6208021001\/6208021001006.json",
+        "nama": "TPS 006, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001007",
+        "url": "62\/6208\/620802\/6208021001\/6208021001007.json",
+        "nama": "TPS 007, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001008",
+        "url": "62\/6208\/620802\/6208021001\/6208021001008.json",
+        "nama": "TPS 008, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001009",
+        "url": "62\/6208\/620802\/6208021001\/6208021001009.json",
+        "nama": "TPS 009, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208021001",
+        "tps": "6208021001010",
+        "url": "62\/6208\/620802\/6208021001\/6208021001010.json",
+        "nama": "TPS 010, KUALA JELAI, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208022002",
+        "tps": "6208022002001",
+        "url": "62\/6208\/620802\/6208022002\/6208022002001.json",
+        "nama": "TPS 001, PULAU NIBUNG, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208022002",
+        "tps": "6208022002002",
+        "url": "62\/6208\/620802\/6208022002\/6208022002002.json",
+        "nama": "TPS 002, PULAU NIBUNG, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208022002",
+        "tps": "6208022002003",
+        "url": "62\/6208\/620802\/6208022002\/6208022002003.json",
+        "nama": "TPS 003, PULAU NIBUNG, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208022003",
+        "tps": "6208022003001",
+        "url": "62\/6208\/620802\/6208022003\/6208022003001.json",
+        "nama": "TPS 001, SUNGAI BARU, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208022004",
+        "tps": "6208022004001",
+        "url": "62\/6208\/620802\/6208022004\/6208022004001.json",
+        "nama": "TPS 001, SUNGAI BUNDUNG, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620802",
+        "desa": "6208022005",
+        "tps": "6208022005001",
+        "url": "62\/6208\/620802\/6208022005\/6208022005001.json",
+        "nama": "TPS 001, SUNGAI RAJA, JELAI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042003",
+        "tps": "6208042003001",
+        "url": "62\/6208\/620804\/6208042003\/6208042003001.json",
+        "nama": "TPS 001, SUNGAI CABANG BARAT, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042003",
+        "tps": "6208042003002",
+        "url": "62\/6208\/620804\/6208042003\/6208042003002.json",
+        "nama": "TPS 002, SUNGAI CABANG BARAT, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042003",
+        "tps": "6208042003003",
+        "url": "62\/6208\/620804\/6208042003\/6208042003003.json",
+        "nama": "TPS 003, SUNGAI CABANG BARAT, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042003",
+        "tps": "6208042003004",
+        "url": "62\/6208\/620804\/6208042003\/6208042003004.json",
+        "nama": "TPS 004, SUNGAI CABANG BARAT, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042003",
+        "tps": "6208042003005",
+        "url": "62\/6208\/620804\/6208042003\/6208042003005.json",
+        "nama": "TPS 005, SUNGAI CABANG BARAT, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042003",
+        "tps": "6208042003006",
+        "url": "62\/6208\/620804\/6208042003\/6208042003006.json",
+        "nama": "TPS 006, SUNGAI CABANG BARAT, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042001",
+        "tps": "6208042001001",
+        "url": "62\/6208\/620804\/6208042001\/6208042001001.json",
+        "nama": "TPS 001, SUNGAI DAMAR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042001",
+        "tps": "6208042001002",
+        "url": "62\/6208\/620804\/6208042001\/6208042001002.json",
+        "nama": "TPS 002, SUNGAI DAMAR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042001",
+        "tps": "6208042001003",
+        "url": "62\/6208\/620804\/6208042001\/6208042001003.json",
+        "nama": "TPS 003, SUNGAI DAMAR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042001",
+        "tps": "6208042001004",
+        "url": "62\/6208\/620804\/6208042001\/6208042001004.json",
+        "nama": "TPS 004, SUNGAI DAMAR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042004",
+        "tps": "6208042004001",
+        "url": "62\/6208\/620804\/6208042004\/6208042004001.json",
+        "nama": "TPS 001, SUNGAI PASIR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042004",
+        "tps": "6208042004002",
+        "url": "62\/6208\/620804\/6208042004\/6208042004002.json",
+        "nama": "TPS 002, SUNGAI PASIR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042004",
+        "tps": "6208042004003",
+        "url": "62\/6208\/620804\/6208042004\/6208042004003.json",
+        "nama": "TPS 003, SUNGAI PASIR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042004",
+        "tps": "6208042004004",
+        "url": "62\/6208\/620804\/6208042004\/6208042004004.json",
+        "nama": "TPS 004, SUNGAI PASIR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042004",
+        "tps": "6208042004005",
+        "url": "62\/6208\/620804\/6208042004\/6208042004005.json",
+        "nama": "TPS 005, SUNGAI PASIR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042004",
+        "tps": "6208042004006",
+        "url": "62\/6208\/620804\/6208042004\/6208042004006.json",
+        "nama": "TPS 006, SUNGAI PASIR, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042002",
+        "tps": "6208042002001",
+        "url": "62\/6208\/620804\/6208042002\/6208042002001.json",
+        "nama": "TPS 001, SUNGAI TABUK, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042002",
+        "tps": "6208042002002",
+        "url": "62\/6208\/620804\/6208042002\/6208042002002.json",
+        "nama": "TPS 002, SUNGAI TABUK, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620804",
+        "desa": "6208042002",
+        "tps": "6208042002003",
+        "url": "62\/6208\/620804\/6208042002\/6208042002003.json",
+        "nama": "TPS 003, SUNGAI TABUK, PANTAI LUNCI, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052003",
+        "tps": "6208052003001",
+        "url": "62\/6208\/620805\/6208052003\/6208052003001.json",
+        "nama": "TPS 001, AJANG, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052003",
+        "tps": "6208052003002",
+        "url": "62\/6208\/620805\/6208052003\/6208052003002.json",
+        "nama": "TPS 002, AJANG, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052003",
+        "tps": "6208052003003",
+        "url": "62\/6208\/620805\/6208052003\/6208052003003.json",
+        "nama": "TPS 003, AJANG, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052003",
+        "tps": "6208052003004",
+        "url": "62\/6208\/620805\/6208052003\/6208052003004.json",
+        "nama": "TPS 004, AJANG, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052003",
+        "tps": "6208052003005",
+        "url": "62\/6208\/620805\/6208052003\/6208052003005.json",
+        "nama": "TPS 005, AJANG, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052001",
+        "tps": "6208052001001",
+        "url": "62\/6208\/620805\/6208052001\/6208052001001.json",
+        "nama": "TPS 001, KENAWAN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052001",
+        "tps": "6208052001002",
+        "url": "62\/6208\/620805\/6208052001\/6208052001002.json",
+        "nama": "TPS 002, KENAWAN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052002",
+        "tps": "6208052002001",
+        "url": "62\/6208\/620805\/6208052002\/6208052002001.json",
+        "nama": "TPS 001, LAMAN BARU, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052002",
+        "tps": "6208052002002",
+        "url": "62\/6208\/620805\/6208052002\/6208052002002.json",
+        "nama": "TPS 002, LAMAN BARU, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052002",
+        "tps": "6208052002003",
+        "url": "62\/6208\/620805\/6208052002\/6208052002003.json",
+        "nama": "TPS 003, LAMAN BARU, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052006",
+        "tps": "6208052006001",
+        "url": "62\/6208\/620805\/6208052006\/6208052006001.json",
+        "nama": "TPS 001, NATAI KONDANG, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052006",
+        "tps": "6208052006002",
+        "url": "62\/6208\/620805\/6208052006\/6208052006002.json",
+        "nama": "TPS 002, NATAI KONDANG, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052006",
+        "tps": "6208052006003",
+        "url": "62\/6208\/620805\/6208052006\/6208052006003.json",
+        "nama": "TPS 003, NATAI KONDANG, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052006",
+        "tps": "6208052006004",
+        "url": "62\/6208\/620805\/6208052006\/6208052006004.json",
+        "nama": "TPS 004, NATAI KONDANG, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052005",
+        "tps": "6208052005001",
+        "url": "62\/6208\/620805\/6208052005\/6208052005001.json",
+        "nama": "TPS 001, NIBUNG TERJUN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052005",
+        "tps": "6208052005002",
+        "url": "62\/6208\/620805\/6208052005\/6208052005002.json",
+        "nama": "TPS 002, NIBUNG TERJUN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052005",
+        "tps": "6208052005003",
+        "url": "62\/6208\/620805\/6208052005\/6208052005003.json",
+        "nama": "TPS 003, NIBUNG TERJUN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052004",
+        "tps": "6208052004001",
+        "url": "62\/6208\/620805\/6208052004\/6208052004001.json",
+        "nama": "TPS 001, SEMANTUN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052004",
+        "tps": "6208052004002",
+        "url": "62\/6208\/620805\/6208052004\/6208052004002.json",
+        "nama": "TPS 002, SEMANTUN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052004",
+        "tps": "6208052004003",
+        "url": "62\/6208\/620805\/6208052004\/6208052004003.json",
+        "nama": "TPS 003, SEMANTUN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052004",
+        "tps": "6208052004004",
+        "url": "62\/6208\/620805\/6208052004\/6208052004004.json",
+        "nama": "TPS 004, SEMANTUN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052004",
+        "tps": "6208052004005",
+        "url": "62\/6208\/620805\/6208052004\/6208052004005.json",
+        "nama": "TPS 005, SEMANTUN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052007",
+        "tps": "6208052007001",
+        "url": "62\/6208\/620805\/6208052007\/6208052007001.json",
+        "nama": "TPS 001, SEMBIKUAN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052007",
+        "tps": "6208052007002",
+        "url": "62\/6208\/620805\/6208052007\/6208052007002.json",
+        "nama": "TPS 002, SEMBIKUAN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052007",
+        "tps": "6208052007003",
+        "url": "62\/6208\/620805\/6208052007\/6208052007003.json",
+        "nama": "TPS 003, SEMBIKUAN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620805",
+        "desa": "6208052007",
+        "tps": "6208052007004",
+        "url": "62\/6208\/620805\/6208052007\/6208052007004.json",
+        "nama": "TPS 004, SEMBIKUAN, PERMATA KECUBUNG, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005001",
+        "url": "62\/6208\/620801\/6208012005\/6208012005001.json",
+        "nama": "TPS 001, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005002",
+        "url": "62\/6208\/620801\/6208012005\/6208012005002.json",
+        "nama": "TPS 002, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005003",
+        "url": "62\/6208\/620801\/6208012005\/6208012005003.json",
+        "nama": "TPS 003, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005004",
+        "url": "62\/6208\/620801\/6208012005\/6208012005004.json",
+        "nama": "TPS 004, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005005",
+        "url": "62\/6208\/620801\/6208012005\/6208012005005.json",
+        "nama": "TPS 005, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005006",
+        "url": "62\/6208\/620801\/6208012005\/6208012005006.json",
+        "nama": "TPS 006, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005007",
+        "url": "62\/6208\/620801\/6208012005\/6208012005007.json",
+        "nama": "TPS 007, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005008",
+        "url": "62\/6208\/620801\/6208012005\/6208012005008.json",
+        "nama": "TPS 008, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005009",
+        "url": "62\/6208\/620801\/6208012005\/6208012005009.json",
+        "nama": "TPS 009, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005010",
+        "url": "62\/6208\/620801\/6208012005\/6208012005010.json",
+        "nama": "TPS 010, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005011",
+        "url": "62\/6208\/620801\/6208012005\/6208012005011.json",
+        "nama": "TPS 011, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005012",
+        "url": "62\/6208\/620801\/6208012005\/6208012005012.json",
+        "nama": "TPS 012, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005013",
+        "url": "62\/6208\/620801\/6208012005\/6208012005013.json",
+        "nama": "TPS 013, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012005",
+        "tps": "6208012005014",
+        "url": "62\/6208\/620801\/6208012005\/6208012005014.json",
+        "nama": "TPS 014, KARTAMULIA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003001",
+        "url": "62\/6208\/620801\/6208011003\/6208011003001.json",
+        "nama": "TPS 001, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003002",
+        "url": "62\/6208\/620801\/6208011003\/6208011003002.json",
+        "nama": "TPS 002, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003003",
+        "url": "62\/6208\/620801\/6208011003\/6208011003003.json",
+        "nama": "TPS 003, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003004",
+        "url": "62\/6208\/620801\/6208011003\/6208011003004.json",
+        "nama": "TPS 004, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003005",
+        "url": "62\/6208\/620801\/6208011003\/6208011003005.json",
+        "nama": "TPS 005, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003006",
+        "url": "62\/6208\/620801\/6208011003\/6208011003006.json",
+        "nama": "TPS 006, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003007",
+        "url": "62\/6208\/620801\/6208011003\/6208011003007.json",
+        "nama": "TPS 007, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003008",
+        "url": "62\/6208\/620801\/6208011003\/6208011003008.json",
+        "nama": "TPS 008, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003009",
+        "url": "62\/6208\/620801\/6208011003\/6208011003009.json",
+        "nama": "TPS 009, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003010",
+        "url": "62\/6208\/620801\/6208011003\/6208011003010.json",
+        "nama": "TPS 010, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003011",
+        "url": "62\/6208\/620801\/6208011003\/6208011003011.json",
+        "nama": "TPS 011, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003012",
+        "url": "62\/6208\/620801\/6208011003\/6208011003012.json",
+        "nama": "TPS 012, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003013",
+        "url": "62\/6208\/620801\/6208011003\/6208011003013.json",
+        "nama": "TPS 013, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003014",
+        "url": "62\/6208\/620801\/6208011003\/6208011003014.json",
+        "nama": "TPS 014, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003015",
+        "url": "62\/6208\/620801\/6208011003\/6208011003015.json",
+        "nama": "TPS 015, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003016",
+        "url": "62\/6208\/620801\/6208011003\/6208011003016.json",
+        "nama": "TPS 016, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003017",
+        "url": "62\/6208\/620801\/6208011003\/6208011003017.json",
+        "nama": "TPS 017, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003018",
+        "url": "62\/6208\/620801\/6208011003\/6208011003018.json",
+        "nama": "TPS 018, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003019",
+        "url": "62\/6208\/620801\/6208011003\/6208011003019.json",
+        "nama": "TPS 019, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003020",
+        "url": "62\/6208\/620801\/6208011003\/6208011003020.json",
+        "nama": "TPS 020, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003021",
+        "url": "62\/6208\/620801\/6208011003\/6208011003021.json",
+        "nama": "TPS 021, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003022",
+        "url": "62\/6208\/620801\/6208011003\/6208011003022.json",
+        "nama": "TPS 022, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003023",
+        "url": "62\/6208\/620801\/6208011003\/6208011003023.json",
+        "nama": "TPS 023, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003024",
+        "url": "62\/6208\/620801\/6208011003\/6208011003024.json",
+        "nama": "TPS 024, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003025",
+        "url": "62\/6208\/620801\/6208011003\/6208011003025.json",
+        "nama": "TPS 025, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003026",
+        "url": "62\/6208\/620801\/6208011003\/6208011003026.json",
+        "nama": "TPS 026, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011003",
+        "tps": "6208011003027",
+        "url": "62\/6208\/620801\/6208011003\/6208011003027.json",
+        "nama": "TPS 027, MENDAWAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012001",
+        "tps": "6208012001001",
+        "url": "62\/6208\/620801\/6208012001\/6208012001001.json",
+        "nama": "TPS 001, NATAI SEDAWAK, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012001",
+        "tps": "6208012001002",
+        "url": "62\/6208\/620801\/6208012001\/6208012001002.json",
+        "nama": "TPS 002, NATAI SEDAWAK, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012001",
+        "tps": "6208012001003",
+        "url": "62\/6208\/620801\/6208012001\/6208012001003.json",
+        "nama": "TPS 003, NATAI SEDAWAK, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012001",
+        "tps": "6208012001004",
+        "url": "62\/6208\/620801\/6208012001\/6208012001004.json",
+        "nama": "TPS 004, NATAI SEDAWAK, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012001",
+        "tps": "6208012001005",
+        "url": "62\/6208\/620801\/6208012001\/6208012001005.json",
+        "nama": "TPS 005, NATAI SEDAWAK, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012001",
+        "tps": "6208012001006",
+        "url": "62\/6208\/620801\/6208012001\/6208012001006.json",
+        "nama": "TPS 006, NATAI SEDAWAK, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012001",
+        "tps": "6208012001007",
+        "url": "62\/6208\/620801\/6208012001\/6208012001007.json",
+        "nama": "TPS 007, NATAI SEDAWAK, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012001",
+        "tps": "6208012001901",
+        "url": "62\/6208\/620801\/6208012001\/6208012001901.json",
+        "nama": "TPS 901, NATAI SEDAWAK, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004001",
+        "url": "62\/6208\/620801\/6208011004\/6208011004001.json",
+        "nama": "TPS 001, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004002",
+        "url": "62\/6208\/620801\/6208011004\/6208011004002.json",
+        "nama": "TPS 002, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004003",
+        "url": "62\/6208\/620801\/6208011004\/6208011004003.json",
+        "nama": "TPS 003, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004004",
+        "url": "62\/6208\/620801\/6208011004\/6208011004004.json",
+        "nama": "TPS 004, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004005",
+        "url": "62\/6208\/620801\/6208011004\/6208011004005.json",
+        "nama": "TPS 005, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004006",
+        "url": "62\/6208\/620801\/6208011004\/6208011004006.json",
+        "nama": "TPS 006, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004007",
+        "url": "62\/6208\/620801\/6208011004\/6208011004007.json",
+        "nama": "TPS 007, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004008",
+        "url": "62\/6208\/620801\/6208011004\/6208011004008.json",
+        "nama": "TPS 008, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004009",
+        "url": "62\/6208\/620801\/6208011004\/6208011004009.json",
+        "nama": "TPS 009, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004010",
+        "url": "62\/6208\/620801\/6208011004\/6208011004010.json",
+        "nama": "TPS 010, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004011",
+        "url": "62\/6208\/620801\/6208011004\/6208011004011.json",
+        "nama": "TPS 011, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004012",
+        "url": "62\/6208\/620801\/6208011004\/6208011004012.json",
+        "nama": "TPS 012, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004013",
+        "url": "62\/6208\/620801\/6208011004\/6208011004013.json",
+        "nama": "TPS 013, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004014",
+        "url": "62\/6208\/620801\/6208011004\/6208011004014.json",
+        "nama": "TPS 014, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004015",
+        "url": "62\/6208\/620801\/6208011004\/6208011004015.json",
+        "nama": "TPS 015, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004016",
+        "url": "62\/6208\/620801\/6208011004\/6208011004016.json",
+        "nama": "TPS 016, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004017",
+        "url": "62\/6208\/620801\/6208011004\/6208011004017.json",
+        "nama": "TPS 017, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208011004",
+        "tps": "6208011004018",
+        "url": "62\/6208\/620801\/6208011004\/6208011004018.json",
+        "nama": "TPS 018, PADANG, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012007",
+        "tps": "6208012007001",
+        "url": "62\/6208\/620801\/6208012007\/6208012007001.json",
+        "nama": "TPS 001, PANGKALAN MUNTAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012007",
+        "tps": "6208012007002",
+        "url": "62\/6208\/620801\/6208012007\/6208012007002.json",
+        "nama": "TPS 002, PANGKALAN MUNTAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012007",
+        "tps": "6208012007003",
+        "url": "62\/6208\/620801\/6208012007\/6208012007003.json",
+        "nama": "TPS 003, PANGKALAN MUNTAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012007",
+        "tps": "6208012007004",
+        "url": "62\/6208\/620801\/6208012007\/6208012007004.json",
+        "nama": "TPS 004, PANGKALAN MUNTAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012007",
+        "tps": "6208012007005",
+        "url": "62\/6208\/620801\/6208012007\/6208012007005.json",
+        "nama": "TPS 005, PANGKALAN MUNTAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012007",
+        "tps": "6208012007006",
+        "url": "62\/6208\/620801\/6208012007\/6208012007006.json",
+        "nama": "TPS 006, PANGKALAN MUNTAI, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012008",
+        "tps": "6208012008001",
+        "url": "62\/6208\/620801\/6208012008\/6208012008001.json",
+        "nama": "TPS 001, PETARIKAN, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012008",
+        "tps": "6208012008002",
+        "url": "62\/6208\/620801\/6208012008\/6208012008002.json",
+        "nama": "TPS 002, PETARIKAN, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012008",
+        "tps": "6208012008003",
+        "url": "62\/6208\/620801\/6208012008\/6208012008003.json",
+        "nama": "TPS 003, PETARIKAN, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012002",
+        "tps": "6208012002001",
+        "url": "62\/6208\/620801\/6208012002\/6208012002001.json",
+        "nama": "TPS 001, PUDU, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012002",
+        "tps": "6208012002002",
+        "url": "62\/6208\/620801\/6208012002\/6208012002002.json",
+        "nama": "TPS 002, PUDU, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012002",
+        "tps": "6208012002003",
+        "url": "62\/6208\/620801\/6208012002\/6208012002003.json",
+        "nama": "TPS 003, PUDU, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012002",
+        "tps": "6208012002004",
+        "url": "62\/6208\/620801\/6208012002\/6208012002004.json",
+        "nama": "TPS 004, PUDU, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012006",
+        "tps": "6208012006001",
+        "url": "62\/6208\/620801\/6208012006\/6208012006001.json",
+        "nama": "TPS 001, SUKARAJA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6208",
+        "kecamatan": "620801",
+        "desa": "6208012006",
+        "tps": "6208012006002",
+        "url": "62\/6208\/620801\/6208012006\/6208012006002.json",
+        "nama": "TPS 002, SUKARAJA, SUKAMARA, SUKAMARA, KALIMANTAN TENGAH"
+    }
+]

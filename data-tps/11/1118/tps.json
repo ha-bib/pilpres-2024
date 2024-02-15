@@ -1,0 +1,4358 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062038",
+        "tps": "1118062038001",
+        "url": "11\/1118\/111806\/1118062038\/1118062038001.json",
+        "nama": "TPS 001, ABAH LUENG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062038",
+        "tps": "1118062038002",
+        "url": "11\/1118\/111806\/1118062038\/1118062038002.json",
+        "nama": "TPS 002, ABAH LUENG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062039",
+        "tps": "1118062039001",
+        "url": "11\/1118\/111806\/1118062039\/1118062039001.json",
+        "nama": "TPS 001, AKI NEUNGOH, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062041",
+        "tps": "1118062041001",
+        "url": "11\/1118\/111806\/1118062041\/1118062041001.json",
+        "nama": "TPS 001, ALUE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062018",
+        "tps": "1118062018001",
+        "url": "11\/1118\/111806\/1118062018\/1118062018001.json",
+        "nama": "TPS 001, ARA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062018",
+        "tps": "1118062018002",
+        "url": "11\/1118\/111806\/1118062018\/1118062018002.json",
+        "nama": "TPS 002, ARA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062018",
+        "tps": "1118062018003",
+        "url": "11\/1118\/111806\/1118062018\/1118062018003.json",
+        "nama": "TPS 003, ARA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062016",
+        "tps": "1118062016001",
+        "url": "11\/1118\/111806\/1118062016\/1118062016001.json",
+        "nama": "TPS 001, BALEE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062016",
+        "tps": "1118062016002",
+        "url": "11\/1118\/111806\/1118062016\/1118062016002.json",
+        "nama": "TPS 002, BALEE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062016",
+        "tps": "1118062016003",
+        "url": "11\/1118\/111806\/1118062016\/1118062016003.json",
+        "nama": "TPS 003, BALEE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062003",
+        "tps": "1118062003001",
+        "url": "11\/1118\/111806\/1118062003\/1118062003001.json",
+        "nama": "TPS 001, BARO, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062003",
+        "tps": "1118062003002",
+        "url": "11\/1118\/111806\/1118062003\/1118062003002.json",
+        "nama": "TPS 002, BARO, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062028",
+        "tps": "1118062028001",
+        "url": "11\/1118\/111806\/1118062028\/1118062028001.json",
+        "nama": "TPS 001, BAROH COT, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062028",
+        "tps": "1118062028002",
+        "url": "11\/1118\/111806\/1118062028\/1118062028002.json",
+        "nama": "TPS 002, BAROH COT, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062028",
+        "tps": "1118062028003",
+        "url": "11\/1118\/111806\/1118062028\/1118062028003.json",
+        "nama": "TPS 003, BAROH COT, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062019",
+        "tps": "1118062019001",
+        "url": "11\/1118\/111806\/1118062019\/1118062019001.json",
+        "nama": "TPS 001, BAROH LANCOK, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062019",
+        "tps": "1118062019002",
+        "url": "11\/1118\/111806\/1118062019\/1118062019002.json",
+        "nama": "TPS 002, BAROH LANCOK, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062019",
+        "tps": "1118062019003",
+        "url": "11\/1118\/111806\/1118062019\/1118062019003.json",
+        "nama": "TPS 003, BAROH LANCOK, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062019",
+        "tps": "1118062019004",
+        "url": "11\/1118\/111806\/1118062019\/1118062019004.json",
+        "nama": "TPS 004, BAROH LANCOK, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062019",
+        "tps": "1118062019005",
+        "url": "11\/1118\/111806\/1118062019\/1118062019005.json",
+        "nama": "TPS 005, BAROH LANCOK, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062014",
+        "tps": "1118062014001",
+        "url": "11\/1118\/111806\/1118062014\/1118062014001.json",
+        "nama": "TPS 001, BAROH MUSA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062014",
+        "tps": "1118062014002",
+        "url": "11\/1118\/111806\/1118062014\/1118062014002.json",
+        "nama": "TPS 002, BAROH MUSA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062014",
+        "tps": "1118062014003",
+        "url": "11\/1118\/111806\/1118062014\/1118062014003.json",
+        "nama": "TPS 003, BAROH MUSA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062014",
+        "tps": "1118062014004",
+        "url": "11\/1118\/111806\/1118062014\/1118062014004.json",
+        "nama": "TPS 004, BAROH MUSA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062007",
+        "tps": "1118062007001",
+        "url": "11\/1118\/111806\/1118062007\/1118062007001.json",
+        "nama": "TPS 001, BEURANDEH, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062007",
+        "tps": "1118062007002",
+        "url": "11\/1118\/111806\/1118062007\/1118062007002.json",
+        "nama": "TPS 002, BEURANDEH, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062032",
+        "tps": "1118062032001",
+        "url": "11\/1118\/111806\/1118062032\/1118062032001.json",
+        "nama": "TPS 001, BLANG BARO, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062032",
+        "tps": "1118062032002",
+        "url": "11\/1118\/111806\/1118062032\/1118062032002.json",
+        "nama": "TPS 002, BLANG BARO, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062032",
+        "tps": "1118062032003",
+        "url": "11\/1118\/111806\/1118062032\/1118062032003.json",
+        "nama": "TPS 003, BLANG BARO, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062032",
+        "tps": "1118062032004",
+        "url": "11\/1118\/111806\/1118062032\/1118062032004.json",
+        "nama": "TPS 004, BLANG BARO, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062009",
+        "tps": "1118062009001",
+        "url": "11\/1118\/111806\/1118062009\/1118062009001.json",
+        "nama": "TPS 001, BLANG GLONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062009",
+        "tps": "1118062009002",
+        "url": "11\/1118\/111806\/1118062009\/1118062009002.json",
+        "nama": "TPS 002, BLANG GLONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062035",
+        "tps": "1118062035001",
+        "url": "11\/1118\/111806\/1118062035\/1118062035001.json",
+        "nama": "TPS 001, BLANG KRUENG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062030",
+        "tps": "1118062030001",
+        "url": "11\/1118\/111806\/1118062030\/1118062030001.json",
+        "nama": "TPS 001, BLANG SUKON, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062030",
+        "tps": "1118062030002",
+        "url": "11\/1118\/111806\/1118062030\/1118062030002.json",
+        "nama": "TPS 002, BLANG SUKON, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062030",
+        "tps": "1118062030003",
+        "url": "11\/1118\/111806\/1118062030\/1118062030003.json",
+        "nama": "TPS 003, BLANG SUKON, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062030",
+        "tps": "1118062030004",
+        "url": "11\/1118\/111806\/1118062030\/1118062030004.json",
+        "nama": "TPS 004, BLANG SUKON, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062025",
+        "tps": "1118062025001",
+        "url": "11\/1118\/111806\/1118062025\/1118062025001.json",
+        "nama": "TPS 001, CUT LANGIEN, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062025",
+        "tps": "1118062025002",
+        "url": "11\/1118\/111806\/1118062025\/1118062025002.json",
+        "nama": "TPS 002, CUT LANGIEN, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062001",
+        "tps": "1118062001001",
+        "url": "11\/1118\/111806\/1118062001\/1118062001001.json",
+        "nama": "TPS 001, CUT NYONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062001",
+        "tps": "1118062001002",
+        "url": "11\/1118\/111806\/1118062001\/1118062001002.json",
+        "nama": "TPS 002, CUT NYONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062006",
+        "tps": "1118062006001",
+        "url": "11\/1118\/111806\/1118062006\/1118062006001.json",
+        "nama": "TPS 001, DABOIH, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062006",
+        "tps": "1118062006002",
+        "url": "11\/1118\/111806\/1118062006\/1118062006002.json",
+        "nama": "TPS 002, DABOIH, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062027",
+        "tps": "1118062027001",
+        "url": "11\/1118\/111806\/1118062027\/1118062027001.json",
+        "nama": "TPS 001, DAYAH LANGIEN, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062005",
+        "tps": "1118062005001",
+        "url": "11\/1118\/111806\/1118062005\/1118062005001.json",
+        "nama": "TPS 001, DAYAH NYONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062005",
+        "tps": "1118062005002",
+        "url": "11\/1118\/111806\/1118062005\/1118062005002.json",
+        "nama": "TPS 002, DAYAH NYONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062036",
+        "tps": "1118062036001",
+        "url": "11\/1118\/111806\/1118062036\/1118062036001.json",
+        "nama": "TPS 001, JIJIEM, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062036",
+        "tps": "1118062036002",
+        "url": "11\/1118\/111806\/1118062036\/1118062036002.json",
+        "nama": "TPS 002, JIJIEM, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062008",
+        "tps": "1118062008001",
+        "url": "11\/1118\/111806\/1118062008\/1118062008001.json",
+        "nama": "TPS 001, KAYE RAYA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062008",
+        "tps": "1118062008002",
+        "url": "11\/1118\/111806\/1118062008\/1118062008002.json",
+        "nama": "TPS 002, KAYE RAYA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062031",
+        "tps": "1118062031001",
+        "url": "11\/1118\/111806\/1118062031\/1118062031001.json",
+        "nama": "TPS 001, KAYEE JATOE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062031",
+        "tps": "1118062031002",
+        "url": "11\/1118\/111806\/1118062031\/1118062031002.json",
+        "nama": "TPS 002, KAYEE JATOE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062031",
+        "tps": "1118062031003",
+        "url": "11\/1118\/111806\/1118062031\/1118062031003.json",
+        "nama": "TPS 003, KAYEE JATOE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062031",
+        "tps": "1118062031004",
+        "url": "11\/1118\/111806\/1118062031\/1118062031004.json",
+        "nama": "TPS 004, KAYEE JATOE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062012",
+        "tps": "1118062012001",
+        "url": "11\/1118\/111806\/1118062012\/1118062012001.json",
+        "nama": "TPS 001, KEUDE LUENG PUTU, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062012",
+        "tps": "1118062012002",
+        "url": "11\/1118\/111806\/1118062012\/1118062012002.json",
+        "nama": "TPS 002, KEUDE LUENG PUTU, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062012",
+        "tps": "1118062012003",
+        "url": "11\/1118\/111806\/1118062012\/1118062012003.json",
+        "nama": "TPS 003, KEUDE LUENG PUTU, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062012",
+        "tps": "1118062012004",
+        "url": "11\/1118\/111806\/1118062012\/1118062012004.json",
+        "nama": "TPS 004, KEUDE LUENG PUTU, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062012",
+        "tps": "1118062012005",
+        "url": "11\/1118\/111806\/1118062012\/1118062012005.json",
+        "nama": "TPS 005, KEUDE LUENG PUTU, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062033",
+        "tps": "1118062033001",
+        "url": "11\/1118\/111806\/1118062033\/1118062033001.json",
+        "nama": "TPS 001, LANCANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062033",
+        "tps": "1118062033002",
+        "url": "11\/1118\/111806\/1118062033\/1118062033002.json",
+        "nama": "TPS 002, LANCANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062033",
+        "tps": "1118062033003",
+        "url": "11\/1118\/111806\/1118062033\/1118062033003.json",
+        "nama": "TPS 003, LANCANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062033",
+        "tps": "1118062033004",
+        "url": "11\/1118\/111806\/1118062033\/1118062033004.json",
+        "nama": "TPS 004, LANCANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062020",
+        "tps": "1118062020001",
+        "url": "11\/1118\/111806\/1118062020\/1118062020001.json",
+        "nama": "TPS 001, MANYANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062020",
+        "tps": "1118062020002",
+        "url": "11\/1118\/111806\/1118062020\/1118062020002.json",
+        "nama": "TPS 002, MANYANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062021",
+        "tps": "1118062021001",
+        "url": "11\/1118\/111806\/1118062021\/1118062021001.json",
+        "nama": "TPS 001, MESJID, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062021",
+        "tps": "1118062021002",
+        "url": "11\/1118\/111806\/1118062021\/1118062021002.json",
+        "nama": "TPS 002, MESJID, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062029",
+        "tps": "1118062029001",
+        "url": "11\/1118\/111806\/1118062029\/1118062029001.json",
+        "nama": "TPS 001, MEUNASAH BLANG IBOIH, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062029",
+        "tps": "1118062029002",
+        "url": "11\/1118\/111806\/1118062029\/1118062029002.json",
+        "nama": "TPS 002, MEUNASAH BLANG IBOIH, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062002",
+        "tps": "1118062002001",
+        "url": "11\/1118\/111806\/1118062002\/1118062002001.json",
+        "nama": "TPS 001, MEUNASAH GAMPONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062002",
+        "tps": "1118062002002",
+        "url": "11\/1118\/111806\/1118062002\/1118062002002.json",
+        "nama": "TPS 002, MEUNASAH GAMPONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062043",
+        "tps": "1118062043001",
+        "url": "11\/1118\/111806\/1118062043\/1118062043001.json",
+        "nama": "TPS 001, PARU COT, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062043",
+        "tps": "1118062043002",
+        "url": "11\/1118\/111806\/1118062043\/1118062043002.json",
+        "nama": "TPS 002, PARU COT, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062034",
+        "tps": "1118062034001",
+        "url": "11\/1118\/111806\/1118062034\/1118062034001.json",
+        "nama": "TPS 001, PARU KEUDE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062034",
+        "tps": "1118062034002",
+        "url": "11\/1118\/111806\/1118062034\/1118062034002.json",
+        "nama": "TPS 002, PARU KEUDE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062034",
+        "tps": "1118062034003",
+        "url": "11\/1118\/111806\/1118062034\/1118062034003.json",
+        "nama": "TPS 003, PARU KEUDE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062034",
+        "tps": "1118062034004",
+        "url": "11\/1118\/111806\/1118062034\/1118062034004.json",
+        "nama": "TPS 004, PARU KEUDE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062034",
+        "tps": "1118062034005",
+        "url": "11\/1118\/111806\/1118062034\/1118062034005.json",
+        "nama": "TPS 005, PARU KEUDE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062034",
+        "tps": "1118062034006",
+        "url": "11\/1118\/111806\/1118062034\/1118062034006.json",
+        "nama": "TPS 006, PARU KEUDE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062034",
+        "tps": "1118062034007",
+        "url": "11\/1118\/111806\/1118062034\/1118062034007.json",
+        "nama": "TPS 007, PARU KEUDE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062013",
+        "tps": "1118062013001",
+        "url": "11\/1118\/111806\/1118062013\/1118062013001.json",
+        "nama": "TPS 001, PEUB LUENG NIBONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062013",
+        "tps": "1118062013002",
+        "url": "11\/1118\/111806\/1118062013\/1118062013002.json",
+        "nama": "TPS 002, PEUB LUENG NIBONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062013",
+        "tps": "1118062013003",
+        "url": "11\/1118\/111806\/1118062013\/1118062013003.json",
+        "nama": "TPS 003, PEUB LUENG NIBONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062022",
+        "tps": "1118062022001",
+        "url": "11\/1118\/111806\/1118062022\/1118062022001.json",
+        "nama": "TPS 001, PULO PUEB, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062022",
+        "tps": "1118062022002",
+        "url": "11\/1118\/111806\/1118062022\/1118062022002.json",
+        "nama": "TPS 002, PULO PUEB, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062022",
+        "tps": "1118062022003",
+        "url": "11\/1118\/111806\/1118062022\/1118062022003.json",
+        "nama": "TPS 003, PULO PUEB, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062004",
+        "tps": "1118062004001",
+        "url": "11\/1118\/111806\/1118062004\/1118062004001.json",
+        "nama": "TPS 001, PULO RHENG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062026",
+        "tps": "1118062026001",
+        "url": "11\/1118\/111806\/1118062026\/1118062026001.json",
+        "nama": "TPS 001, SAGOE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062026",
+        "tps": "1118062026002",
+        "url": "11\/1118\/111806\/1118062026\/1118062026002.json",
+        "nama": "TPS 002, SAGOE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062026",
+        "tps": "1118062026003",
+        "url": "11\/1118\/111806\/1118062026\/1118062026003.json",
+        "nama": "TPS 003, SAGOE, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062037",
+        "tps": "1118062037001",
+        "url": "11\/1118\/111806\/1118062037\/1118062037001.json",
+        "nama": "TPS 001, SARAH PANYANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062037",
+        "tps": "1118062037002",
+        "url": "11\/1118\/111806\/1118062037\/1118062037002.json",
+        "nama": "TPS 002, SARAH PANYANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062023",
+        "tps": "1118062023001",
+        "url": "11\/1118\/111806\/1118062023\/1118062023001.json",
+        "nama": "TPS 001, SAWANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062023",
+        "tps": "1118062023002",
+        "url": "11\/1118\/111806\/1118062023\/1118062023002.json",
+        "nama": "TPS 002, SAWANG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062011",
+        "tps": "1118062011001",
+        "url": "11\/1118\/111806\/1118062011\/1118062011001.json",
+        "nama": "TPS 001, SIREN, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062011",
+        "tps": "1118062011002",
+        "url": "11\/1118\/111806\/1118062011\/1118062011002.json",
+        "nama": "TPS 002, SIREN, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062011",
+        "tps": "1118062011003",
+        "url": "11\/1118\/111806\/1118062011\/1118062011003.json",
+        "nama": "TPS 003, SIREN, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062042",
+        "tps": "1118062042001",
+        "url": "11\/1118\/111806\/1118062042\/1118062042001.json",
+        "nama": "TPS 001, TANOH MIRAH, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062015",
+        "tps": "1118062015001",
+        "url": "11\/1118\/111806\/1118062015\/1118062015001.json",
+        "nama": "TPS 001, TEUNGOH MUSA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062015",
+        "tps": "1118062015002",
+        "url": "11\/1118\/111806\/1118062015\/1118062015002.json",
+        "nama": "TPS 002, TEUNGOH MUSA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062015",
+        "tps": "1118062015003",
+        "url": "11\/1118\/111806\/1118062015\/1118062015003.json",
+        "nama": "TPS 003, TEUNGOH MUSA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062024",
+        "tps": "1118062024001",
+        "url": "11\/1118\/111806\/1118062024\/1118062024001.json",
+        "nama": "TPS 001, TUALADA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062024",
+        "tps": "1118062024002",
+        "url": "11\/1118\/111806\/1118062024\/1118062024002.json",
+        "nama": "TPS 002, TUALADA, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062010",
+        "tps": "1118062010001",
+        "url": "11\/1118\/111806\/1118062010\/1118062010001.json",
+        "nama": "TPS 001, TUTONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062010",
+        "tps": "1118062010002",
+        "url": "11\/1118\/111806\/1118062010\/1118062010002.json",
+        "nama": "TPS 002, TUTONG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062017",
+        "tps": "1118062017001",
+        "url": "11\/1118\/111806\/1118062017\/1118062017001.json",
+        "nama": "TPS 001, UDEUNG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062017",
+        "tps": "1118062017002",
+        "url": "11\/1118\/111806\/1118062017\/1118062017002.json",
+        "nama": "TPS 002, UDEUNG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062017",
+        "tps": "1118062017003",
+        "url": "11\/1118\/111806\/1118062017\/1118062017003.json",
+        "nama": "TPS 003, UDEUNG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062017",
+        "tps": "1118062017004",
+        "url": "11\/1118\/111806\/1118062017\/1118062017004.json",
+        "nama": "TPS 004, UDEUNG, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062040",
+        "tps": "1118062040001",
+        "url": "11\/1118\/111806\/1118062040\/1118062040001.json",
+        "nama": "TPS 001, UJONG LEUBAT, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111806",
+        "desa": "1118062040",
+        "tps": "1118062040002",
+        "url": "11\/1118\/111806\/1118062040\/1118062040002.json",
+        "nama": "TPS 002, UJONG LEUBAT, BANDAR BARU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042025",
+        "tps": "1118042025001",
+        "url": "11\/1118\/111804\/1118042025\/1118042025001.json",
+        "nama": "TPS 001, ADAN, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042025",
+        "tps": "1118042025002",
+        "url": "11\/1118\/111804\/1118042025\/1118042025002.json",
+        "nama": "TPS 002, ADAN, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042008",
+        "tps": "1118042008001",
+        "url": "11\/1118\/111804\/1118042008\/1118042008001.json",
+        "nama": "TPS 001, ALUE KETAPANG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042008",
+        "tps": "1118042008002",
+        "url": "11\/1118\/111804\/1118042008\/1118042008002.json",
+        "nama": "TPS 002, ALUE KETAPANG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042014",
+        "tps": "1118042014001",
+        "url": "11\/1118\/111804\/1118042014\/1118042014001.json",
+        "nama": "TPS 001, ALUE MEE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042017",
+        "tps": "1118042017001",
+        "url": "11\/1118\/111804\/1118042017\/1118042017001.json",
+        "nama": "TPS 001, ALUE SANE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042017",
+        "tps": "1118042017002",
+        "url": "11\/1118\/111804\/1118042017\/1118042017002.json",
+        "nama": "TPS 002, ALUE SANE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042038",
+        "tps": "1118042038001",
+        "url": "11\/1118\/111804\/1118042038\/1118042038001.json",
+        "nama": "TPS 001, ASAN KUMBANG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042038",
+        "tps": "1118042038002",
+        "url": "11\/1118\/111804\/1118042038\/1118042038002.json",
+        "nama": "TPS 002, ASAN KUMBANG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042011",
+        "tps": "1118042011001",
+        "url": "11\/1118\/111804\/1118042011\/1118042011001.json",
+        "nama": "TPS 001, BABAH KRUENG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042011",
+        "tps": "1118042011002",
+        "url": "11\/1118\/111804\/1118042011\/1118042011002.json",
+        "nama": "TPS 002, BABAH KRUENG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042011",
+        "tps": "1118042011003",
+        "url": "11\/1118\/111804\/1118042011\/1118042011003.json",
+        "nama": "TPS 003, BABAH KRUENG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042005",
+        "tps": "1118042005001",
+        "url": "11\/1118\/111804\/1118042005\/1118042005001.json",
+        "nama": "TPS 001, BARO, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042035",
+        "tps": "1118042035001",
+        "url": "11\/1118\/111804\/1118042035\/1118042035001.json",
+        "nama": "TPS 001, BEURASAN, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042003",
+        "tps": "1118042003001",
+        "url": "11\/1118\/111804\/1118042003\/1118042003001.json",
+        "nama": "TPS 001, BLANG DALAM, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042003",
+        "tps": "1118042003002",
+        "url": "11\/1118\/111804\/1118042003\/1118042003002.json",
+        "nama": "TPS 002, BLANG DALAM, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042003",
+        "tps": "1118042003003",
+        "url": "11\/1118\/111804\/1118042003\/1118042003003.json",
+        "nama": "TPS 003, BLANG DALAM, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042015",
+        "tps": "1118042015001",
+        "url": "11\/1118\/111804\/1118042015\/1118042015001.json",
+        "nama": "TPS 001, BLANG KUTA, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042015",
+        "tps": "1118042015002",
+        "url": "11\/1118\/111804\/1118042015\/1118042015002.json",
+        "nama": "TPS 002, BLANG KUTA, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042015",
+        "tps": "1118042015003",
+        "url": "11\/1118\/111804\/1118042015\/1118042015003.json",
+        "nama": "TPS 003, BLANG KUTA, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042034",
+        "tps": "1118042034001",
+        "url": "11\/1118\/111804\/1118042034\/1118042034001.json",
+        "nama": "TPS 001, BLANG MIROE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042034",
+        "tps": "1118042034002",
+        "url": "11\/1118\/111804\/1118042034\/1118042034002.json",
+        "nama": "TPS 002, BLANG MIROE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042021",
+        "tps": "1118042021001",
+        "url": "11\/1118\/111804\/1118042021\/1118042021001.json",
+        "nama": "TPS 001, COT GEUREFAI, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042036",
+        "tps": "1118042036001",
+        "url": "11\/1118\/111804\/1118042036\/1118042036001.json",
+        "nama": "TPS 001, COT KENG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042039",
+        "tps": "1118042039001",
+        "url": "11\/1118\/111804\/1118042039\/1118042039001.json",
+        "nama": "TPS 001, DRIEN BUNGONG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042039",
+        "tps": "1118042039002",
+        "url": "11\/1118\/111804\/1118042039\/1118042039002.json",
+        "nama": "TPS 002, DRIEN BUNGONG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042016",
+        "tps": "1118042016001",
+        "url": "11\/1118\/111804\/1118042016\/1118042016001.json",
+        "nama": "TPS 001, DRIEN TUJOH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042016",
+        "tps": "1118042016002",
+        "url": "11\/1118\/111804\/1118042016\/1118042016002.json",
+        "nama": "TPS 002, DRIEN TUJOH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042018",
+        "tps": "1118042018001",
+        "url": "11\/1118\/111804\/1118042018\/1118042018001.json",
+        "nama": "TPS 001, GAHRU, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042018",
+        "tps": "1118042018002",
+        "url": "11\/1118\/111804\/1118042018\/1118042018002.json",
+        "nama": "TPS 002, GAHRU, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042009",
+        "tps": "1118042009001",
+        "url": "11\/1118\/111804\/1118042009\/1118042009001.json",
+        "nama": "TPS 001, JAULANGA BARAT, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042009",
+        "tps": "1118042009002",
+        "url": "11\/1118\/111804\/1118042009\/1118042009002.json",
+        "nama": "TPS 002, JAULANGA BARAT, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042009",
+        "tps": "1118042009003",
+        "url": "11\/1118\/111804\/1118042009\/1118042009003.json",
+        "nama": "TPS 003, JAULANGA BARAT, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042031",
+        "tps": "1118042031001",
+        "url": "11\/1118\/111804\/1118042031\/1118042031001.json",
+        "nama": "TPS 001, JEULANGA MATA IE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042032",
+        "tps": "1118042032001",
+        "url": "11\/1118\/111804\/1118042032\/1118042032001.json",
+        "nama": "TPS 001, JEULANGA MESJID, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042001",
+        "tps": "1118042001001",
+        "url": "11\/1118\/111804\/1118042001\/1118042001001.json",
+        "nama": "TPS 001, KEUDE ULEE GLE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042001",
+        "tps": "1118042001002",
+        "url": "11\/1118\/111804\/1118042001\/1118042001002.json",
+        "nama": "TPS 002, KEUDE ULEE GLE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042001",
+        "tps": "1118042001003",
+        "url": "11\/1118\/111804\/1118042001\/1118042001003.json",
+        "nama": "TPS 003, KEUDE ULEE GLE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042037",
+        "tps": "1118042037001",
+        "url": "11\/1118\/111804\/1118042037\/1118042037001.json",
+        "nama": "TPS 001, KRUENG KIRAN, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042037",
+        "tps": "1118042037002",
+        "url": "11\/1118\/111804\/1118042037\/1118042037002.json",
+        "nama": "TPS 002, KRUENG KIRAN, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042010",
+        "tps": "1118042010001",
+        "url": "11\/1118\/111804\/1118042010\/1118042010001.json",
+        "nama": "TPS 001, KUMBA, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042010",
+        "tps": "1118042010002",
+        "url": "11\/1118\/111804\/1118042010\/1118042010002.json",
+        "nama": "TPS 002, KUMBA, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042010",
+        "tps": "1118042010003",
+        "url": "11\/1118\/111804\/1118042010\/1118042010003.json",
+        "nama": "TPS 003, KUMBA, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042045",
+        "tps": "1118042045001",
+        "url": "11\/1118\/111804\/1118042045\/1118042045001.json",
+        "nama": "TPS 001, KUTA KRUENG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042045",
+        "tps": "1118042045002",
+        "url": "11\/1118\/111804\/1118042045\/1118042045002.json",
+        "nama": "TPS 002, KUTA KRUENG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042019",
+        "tps": "1118042019001",
+        "url": "11\/1118\/111804\/1118042019\/1118042019001.json",
+        "nama": "TPS 001, LHOK PUSONG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042019",
+        "tps": "1118042019002",
+        "url": "11\/1118\/111804\/1118042019\/1118042019002.json",
+        "nama": "TPS 002, LHOK PUSONG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042026",
+        "tps": "1118042026001",
+        "url": "11\/1118\/111804\/1118042026\/1118042026001.json",
+        "nama": "TPS 001, MEUGIT KAYEE PANYANG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042026",
+        "tps": "1118042026002",
+        "url": "11\/1118\/111804\/1118042026\/1118042026002.json",
+        "nama": "TPS 002, MEUGIT KAYEE PANYANG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042027",
+        "tps": "1118042027001",
+        "url": "11\/1118\/111804\/1118042027\/1118042027001.json",
+        "nama": "TPS 001, MEUGIT SAGOE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042027",
+        "tps": "1118042027002",
+        "url": "11\/1118\/111804\/1118042027\/1118042027002.json",
+        "nama": "TPS 002, MEUGIT SAGOE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042044",
+        "tps": "1118042044001",
+        "url": "11\/1118\/111804\/1118042044\/1118042044001.json",
+        "nama": "TPS 001, MEUKO BAROH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042044",
+        "tps": "1118042044002",
+        "url": "11\/1118\/111804\/1118042044\/1118042044002.json",
+        "nama": "TPS 002, MEUKO BAROH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042023",
+        "tps": "1118042023001",
+        "url": "11\/1118\/111804\/1118042023\/1118042023001.json",
+        "nama": "TPS 001, MEUKO BULOH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042006",
+        "tps": "1118042006001",
+        "url": "11\/1118\/111804\/1118042006\/1118042006001.json",
+        "nama": "TPS 001, MEUKO KUTHANG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042006",
+        "tps": "1118042006002",
+        "url": "11\/1118\/111804\/1118042006\/1118042006002.json",
+        "nama": "TPS 002, MEUKO KUTHANG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042006",
+        "tps": "1118042006003",
+        "url": "11\/1118\/111804\/1118042006\/1118042006003.json",
+        "nama": "TPS 003, MEUKO KUTHANG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042030",
+        "tps": "1118042030001",
+        "url": "11\/1118\/111804\/1118042030\/1118042030001.json",
+        "nama": "TPS 001, MEUNASAH PAKU, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042028",
+        "tps": "1118042028001",
+        "url": "11\/1118\/111804\/1118042028\/1118042028001.json",
+        "nama": "TPS 001, MEURANDEH ALUE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042028",
+        "tps": "1118042028002",
+        "url": "11\/1118\/111804\/1118042028\/1118042028002.json",
+        "nama": "TPS 002, MEURANDEH ALUE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042028",
+        "tps": "1118042028003",
+        "url": "11\/1118\/111804\/1118042028\/1118042028003.json",
+        "nama": "TPS 003, MEURANDEH ALUE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042028",
+        "tps": "1118042028004",
+        "url": "11\/1118\/111804\/1118042028\/1118042028004.json",
+        "nama": "TPS 004, MEURANDEH ALUE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042022",
+        "tps": "1118042022001",
+        "url": "11\/1118\/111804\/1118042022\/1118042022001.json",
+        "nama": "TPS 001, MUKO DAYAH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042022",
+        "tps": "1118042022002",
+        "url": "11\/1118\/111804\/1118042022\/1118042022002.json",
+        "nama": "TPS 002, MUKO DAYAH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042022",
+        "tps": "1118042022003",
+        "url": "11\/1118\/111804\/1118042022\/1118042022003.json",
+        "nama": "TPS 003, MUKO DAYAH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042043",
+        "tps": "1118042043001",
+        "url": "11\/1118\/111804\/1118042043\/1118042043001.json",
+        "nama": "TPS 001, PAYA BAROH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042043",
+        "tps": "1118042043002",
+        "url": "11\/1118\/111804\/1118042043\/1118042043002.json",
+        "nama": "TPS 002, PAYA BAROH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042020",
+        "tps": "1118042020001",
+        "url": "11\/1118\/111804\/1118042020\/1118042020001.json",
+        "nama": "TPS 001, PAYA PISANG KLAT, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042020",
+        "tps": "1118042020002",
+        "url": "11\/1118\/111804\/1118042020\/1118042020002.json",
+        "nama": "TPS 002, PAYA PISANG KLAT, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042020",
+        "tps": "1118042020003",
+        "url": "11\/1118\/111804\/1118042020\/1118042020003.json",
+        "nama": "TPS 003, PAYA PISANG KLAT, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042041",
+        "tps": "1118042041001",
+        "url": "11\/1118\/111804\/1118042041\/1118042041001.json",
+        "nama": "TPS 001, PAYA TUNONG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042040",
+        "tps": "1118042040001",
+        "url": "11\/1118\/111804\/1118042040\/1118042040001.json",
+        "nama": "TPS 001, PEULAKAN CIBREK, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042040",
+        "tps": "1118042040002",
+        "url": "11\/1118\/111804\/1118042040\/1118042040002.json",
+        "nama": "TPS 002, PEULAKAN CIBREK, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042042",
+        "tps": "1118042042001",
+        "url": "11\/1118\/111804\/1118042042\/1118042042001.json",
+        "nama": "TPS 001, PEULAKAN TAMBO, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042024",
+        "tps": "1118042024001",
+        "url": "11\/1118\/111804\/1118042024\/1118042024001.json",
+        "nama": "TPS 001, PEULAKAN TUNONG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042012",
+        "tps": "1118042012001",
+        "url": "11\/1118\/111804\/1118042012\/1118042012001.json",
+        "nama": "TPS 001, POHROH, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042004",
+        "tps": "1118042004001",
+        "url": "11\/1118\/111804\/1118042004\/1118042004001.json",
+        "nama": "TPS 001, PULO, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042004",
+        "tps": "1118042004002",
+        "url": "11\/1118\/111804\/1118042004\/1118042004002.json",
+        "nama": "TPS 002, PULO, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042004",
+        "tps": "1118042004003",
+        "url": "11\/1118\/111804\/1118042004\/1118042004003.json",
+        "nama": "TPS 003, PULO, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042033",
+        "tps": "1118042033001",
+        "url": "11\/1118\/111804\/1118042033\/1118042033001.json",
+        "nama": "TPS 001, PULO GAPU, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042029",
+        "tps": "1118042029001",
+        "url": "11\/1118\/111804\/1118042029\/1118042029001.json",
+        "nama": "TPS 001, REUDEUP MELAYU, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042013",
+        "tps": "1118042013001",
+        "url": "11\/1118\/111804\/1118042013\/1118042013001.json",
+        "nama": "TPS 001, SEUNONG, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042002",
+        "tps": "1118042002001",
+        "url": "11\/1118\/111804\/1118042002\/1118042002001.json",
+        "nama": "TPS 001, ULEE GLE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042002",
+        "tps": "1118042002002",
+        "url": "11\/1118\/111804\/1118042002\/1118042002002.json",
+        "nama": "TPS 002, ULEE GLE, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042007",
+        "tps": "1118042007001",
+        "url": "11\/1118\/111804\/1118042007\/1118042007001.json",
+        "nama": "TPS 001, UTEUN BAYU, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042007",
+        "tps": "1118042007002",
+        "url": "11\/1118\/111804\/1118042007\/1118042007002.json",
+        "nama": "TPS 002, UTEUN BAYU, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042007",
+        "tps": "1118042007003",
+        "url": "11\/1118\/111804\/1118042007\/1118042007003.json",
+        "nama": "TPS 003, UTEUN BAYU, BANDAR DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032012",
+        "tps": "1118032012001",
+        "url": "11\/1118\/111803\/1118032012\/1118032012001.json",
+        "nama": "TPS 001, BUKET TEUNGOH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032012",
+        "tps": "1118032012002",
+        "url": "11\/1118\/111803\/1118032012\/1118032012002.json",
+        "nama": "TPS 002, BUKET TEUNGOH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032014",
+        "tps": "1118032014001",
+        "url": "11\/1118\/111803\/1118032014\/1118032014001.json",
+        "nama": "TPS 001, GAMPONG COT, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032014",
+        "tps": "1118032014002",
+        "url": "11\/1118\/111803\/1118032014\/1118032014002.json",
+        "nama": "TPS 002, GAMPONG COT, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032017",
+        "tps": "1118032017001",
+        "url": "11\/1118\/111803\/1118032017\/1118032017001.json",
+        "nama": "TPS 001, JURONG ARA, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032017",
+        "tps": "1118032017002",
+        "url": "11\/1118\/111803\/1118032017\/1118032017002.json",
+        "nama": "TPS 002, JURONG ARA, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032015",
+        "tps": "1118032015001",
+        "url": "11\/1118\/111803\/1118032015\/1118032015001.json",
+        "nama": "TPS 001, JURONG BINJE, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032015",
+        "tps": "1118032015002",
+        "url": "11\/1118\/111803\/1118032015\/1118032015002.json",
+        "nama": "TPS 002, JURONG BINJE, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032015",
+        "tps": "1118032015003",
+        "url": "11\/1118\/111803\/1118032015\/1118032015003.json",
+        "nama": "TPS 003, JURONG BINJE, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032016",
+        "tps": "1118032016001",
+        "url": "11\/1118\/111803\/1118032016\/1118032016001.json",
+        "nama": "TPS 001, JURONG TEUNGOH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032016",
+        "tps": "1118032016002",
+        "url": "11\/1118\/111803\/1118032016\/1118032016002.json",
+        "nama": "TPS 002, JURONG TEUNGOH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032016",
+        "tps": "1118032016003",
+        "url": "11\/1118\/111803\/1118032016\/1118032016003.json",
+        "nama": "TPS 003, JURONG TEUNGOH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032016",
+        "tps": "1118032016004",
+        "url": "11\/1118\/111803\/1118032016\/1118032016004.json",
+        "nama": "TPS 004, JURONG TEUNGOH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032018",
+        "tps": "1118032018001",
+        "url": "11\/1118\/111803\/1118032018\/1118032018001.json",
+        "nama": "TPS 001, KEUDE JANGKA BUYA, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032008",
+        "tps": "1118032008001",
+        "url": "11\/1118\/111803\/1118032008\/1118032008001.json",
+        "nama": "TPS 001, KEURISI MEUNASAH BEUREMBANG, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032008",
+        "tps": "1118032008002",
+        "url": "11\/1118\/111803\/1118032008\/1118032008002.json",
+        "nama": "TPS 002, KEURISI MEUNASAH BEUREMBANG, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032007",
+        "tps": "1118032007001",
+        "url": "11\/1118\/111803\/1118032007\/1118032007001.json",
+        "nama": "TPS 001, KEURISI MEUNASAH LUENG, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032006",
+        "tps": "1118032006001",
+        "url": "11\/1118\/111803\/1118032006\/1118032006001.json",
+        "nama": "TPS 001, KEURISI MEUNASAH RAYA, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032006",
+        "tps": "1118032006002",
+        "url": "11\/1118\/111803\/1118032006\/1118032006002.json",
+        "nama": "TPS 002, KEURISI MEUNASAH RAYA, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032005",
+        "tps": "1118032005001",
+        "url": "11\/1118\/111803\/1118032005\/1118032005001.json",
+        "nama": "TPS 001, KIRAN BAROH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032005",
+        "tps": "1118032005002",
+        "url": "11\/1118\/111803\/1118032005\/1118032005002.json",
+        "nama": "TPS 002, KIRAN BAROH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032004",
+        "tps": "1118032004001",
+        "url": "11\/1118\/111803\/1118032004\/1118032004001.json",
+        "nama": "TPS 001, KIRAN DAYAH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032011",
+        "tps": "1118032011001",
+        "url": "11\/1118\/111803\/1118032011\/1118032011001.json",
+        "nama": "TPS 001, KIRAN KRUENG, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032011",
+        "tps": "1118032011002",
+        "url": "11\/1118\/111803\/1118032011\/1118032011002.json",
+        "nama": "TPS 002, KIRAN KRUENG, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032002",
+        "tps": "1118032002001",
+        "url": "11\/1118\/111803\/1118032002\/1118032002001.json",
+        "nama": "TPS 001, KUTA BAROH, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032001",
+        "tps": "1118032001001",
+        "url": "11\/1118\/111803\/1118032001\/1118032001001.json",
+        "nama": "TPS 001, MEUKO JURONG, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032003",
+        "tps": "1118032003001",
+        "url": "11\/1118\/111803\/1118032003\/1118032003001.json",
+        "nama": "TPS 001, MEUKO MEUGIT, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032010",
+        "tps": "1118032010001",
+        "url": "11\/1118\/111803\/1118032010\/1118032010001.json",
+        "nama": "TPS 001, MEUNASAH KUMBANG, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032010",
+        "tps": "1118032010002",
+        "url": "11\/1118\/111803\/1118032010\/1118032010002.json",
+        "nama": "TPS 002, MEUNASAH KUMBANG, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032009",
+        "tps": "1118032009001",
+        "url": "11\/1118\/111803\/1118032009\/1118032009001.json",
+        "nama": "TPS 001, MEUNASAH MEE, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032009",
+        "tps": "1118032009002",
+        "url": "11\/1118\/111803\/1118032009\/1118032009002.json",
+        "nama": "TPS 002, MEUNASAH MEE, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032013",
+        "tps": "1118032013001",
+        "url": "11\/1118\/111803\/1118032013\/1118032013001.json",
+        "nama": "TPS 001, REULUI MANGAT, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111803",
+        "desa": "1118032013",
+        "tps": "1118032013002",
+        "url": "11\/1118\/111803\/1118032013\/1118032013002.json",
+        "nama": "TPS 002, REULUI MANGAT, JANGKA BUYA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052016",
+        "tps": "1118052016001",
+        "url": "11\/1118\/111805\/1118052016\/1118052016001.json",
+        "nama": "TPS 001, BEURINGEN, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052016",
+        "tps": "1118052016002",
+        "url": "11\/1118\/111805\/1118052016\/1118052016002.json",
+        "nama": "TPS 002, BEURINGEN, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052016",
+        "tps": "1118052016003",
+        "url": "11\/1118\/111805\/1118052016\/1118052016003.json",
+        "nama": "TPS 003, BEURINGEN, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052011",
+        "tps": "1118052011001",
+        "url": "11\/1118\/111805\/1118052011\/1118052011001.json",
+        "nama": "TPS 001, BLANG CUT, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052011",
+        "tps": "1118052011002",
+        "url": "11\/1118\/111805\/1118052011\/1118052011002.json",
+        "nama": "TPS 002, BLANG CUT, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052017",
+        "tps": "1118052017001",
+        "url": "11\/1118\/111805\/1118052017\/1118052017001.json",
+        "nama": "TPS 001, BUANGAN, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052017",
+        "tps": "1118052017002",
+        "url": "11\/1118\/111805\/1118052017\/1118052017002.json",
+        "nama": "TPS 002, BUANGAN, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052012",
+        "tps": "1118052012001",
+        "url": "11\/1118\/111805\/1118052012\/1118052012001.json",
+        "nama": "TPS 001, DAYAH KRUET, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052012",
+        "tps": "1118052012002",
+        "url": "11\/1118\/111805\/1118052012\/1118052012002.json",
+        "nama": "TPS 002, DAYAH KRUET, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052014",
+        "tps": "1118052014001",
+        "url": "11\/1118\/111805\/1118052014\/1118052014001.json",
+        "nama": "TPS 001, DAYAH USEN, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052010",
+        "tps": "1118052010001",
+        "url": "11\/1118\/111805\/1118052010\/1118052010001.json",
+        "nama": "TPS 001, GAMPONG BLANG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052009",
+        "tps": "1118052009001",
+        "url": "11\/1118\/111805\/1118052009\/1118052009001.json",
+        "nama": "TPS 001, GEUNTENG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052009",
+        "tps": "1118052009002",
+        "url": "11\/1118\/111805\/1118052009\/1118052009002.json",
+        "nama": "TPS 002, GEUNTENG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052004",
+        "tps": "1118052004001",
+        "url": "11\/1118\/111805\/1118052004\/1118052004001.json",
+        "nama": "TPS 001, LANCOK, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052004",
+        "tps": "1118052004002",
+        "url": "11\/1118\/111805\/1118052004\/1118052004002.json",
+        "nama": "TPS 002, LANCOK, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052001",
+        "tps": "1118052001001",
+        "url": "11\/1118\/111805\/1118052001\/1118052001001.json",
+        "nama": "TPS 001, LHOK SANDENG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052015",
+        "tps": "1118052015001",
+        "url": "11\/1118\/111805\/1118052015\/1118052015001.json",
+        "nama": "TPS 001, LUENG BIMBA, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052015",
+        "tps": "1118052015002",
+        "url": "11\/1118\/111805\/1118052015\/1118052015002.json",
+        "nama": "TPS 002, LUENG BIMBA, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052015",
+        "tps": "1118052015003",
+        "url": "11\/1118\/111805\/1118052015\/1118052015003.json",
+        "nama": "TPS 003, LUENG BIMBA, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052007",
+        "tps": "1118052007001",
+        "url": "11\/1118\/111805\/1118052007\/1118052007001.json",
+        "nama": "TPS 001, MEUNASAH BIE, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052007",
+        "tps": "1118052007002",
+        "url": "11\/1118\/111805\/1118052007\/1118052007002.json",
+        "nama": "TPS 002, MEUNASAH BIE, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052007",
+        "tps": "1118052007003",
+        "url": "11\/1118\/111805\/1118052007\/1118052007003.json",
+        "nama": "TPS 003, MEUNASAH BIE, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052018",
+        "tps": "1118052018001",
+        "url": "11\/1118\/111805\/1118052018\/1118052018001.json",
+        "nama": "TPS 001, MEUNASAH JURONG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052018",
+        "tps": "1118052018002",
+        "url": "11\/1118\/111805\/1118052018\/1118052018002.json",
+        "nama": "TPS 002, MEUNASAH JURONG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052018",
+        "tps": "1118052018003",
+        "url": "11\/1118\/111805\/1118052018\/1118052018003.json",
+        "nama": "TPS 003, MEUNASAH JURONG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052005",
+        "tps": "1118052005001",
+        "url": "11\/1118\/111805\/1118052005\/1118052005001.json",
+        "nama": "TPS 001, MEUNASAH KULAM, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052005",
+        "tps": "1118052005002",
+        "url": "11\/1118\/111805\/1118052005\/1118052005002.json",
+        "nama": "TPS 002, MEUNASAH KULAM, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052013",
+        "tps": "1118052013001",
+        "url": "11\/1118\/111805\/1118052013\/1118052013001.json",
+        "nama": "TPS 001, MEUNASAH MANCANG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052013",
+        "tps": "1118052013002",
+        "url": "11\/1118\/111805\/1118052013\/1118052013002.json",
+        "nama": "TPS 002, MEUNASAH MANCANG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052008",
+        "tps": "1118052008001",
+        "url": "11\/1118\/111805\/1118052008\/1118052008001.json",
+        "nama": "TPS 001, MEUNASAH RAYA, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052008",
+        "tps": "1118052008002",
+        "url": "11\/1118\/111805\/1118052008\/1118052008002.json",
+        "nama": "TPS 002, MEUNASAH RAYA, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052008",
+        "tps": "1118052008003",
+        "url": "11\/1118\/111805\/1118052008\/1118052008003.json",
+        "nama": "TPS 003, MEUNASAH RAYA, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052006",
+        "tps": "1118052006001",
+        "url": "11\/1118\/111805\/1118052006\/1118052006001.json",
+        "nama": "TPS 001, MEUNASAH TEUNGOH, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052006",
+        "tps": "1118052006002",
+        "url": "11\/1118\/111805\/1118052006\/1118052006002.json",
+        "nama": "TPS 002, MEUNASAH TEUNGOH, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052019",
+        "tps": "1118052019001",
+        "url": "11\/1118\/111805\/1118052019\/1118052019001.json",
+        "nama": "TPS 001, PANTE BEUREUNE, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052002",
+        "tps": "1118052002001",
+        "url": "11\/1118\/111805\/1118052002\/1118052002001.json",
+        "nama": "TPS 001, SARAH MANE, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052003",
+        "tps": "1118052003001",
+        "url": "11\/1118\/111805\/1118052003\/1118052003001.json",
+        "nama": "TPS 001, SEUNONG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052003",
+        "tps": "1118052003002",
+        "url": "11\/1118\/111805\/1118052003\/1118052003002.json",
+        "nama": "TPS 002, SEUNONG, MEURAH DUA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012008",
+        "tps": "1118012008001",
+        "url": "11\/1118\/111801\/1118012008\/1118012008001.json",
+        "nama": "TPS 001, BEURAWANG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012008",
+        "tps": "1118012008002",
+        "url": "11\/1118\/111801\/1118012008\/1118012008002.json",
+        "nama": "TPS 002, BEURAWANG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012008",
+        "tps": "1118012008003",
+        "url": "11\/1118\/111801\/1118012008\/1118012008003.json",
+        "nama": "TPS 003, BEURAWANG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012005",
+        "tps": "1118012005001",
+        "url": "11\/1118\/111801\/1118012005\/1118012005001.json",
+        "nama": "TPS 001, BLANG AWE, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012005",
+        "tps": "1118012005002",
+        "url": "11\/1118\/111801\/1118012005\/1118012005002.json",
+        "nama": "TPS 002, BLANG AWE, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012005",
+        "tps": "1118012005003",
+        "url": "11\/1118\/111801\/1118012005\/1118012005003.json",
+        "nama": "TPS 003, BLANG AWE, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012017",
+        "tps": "1118012017001",
+        "url": "11\/1118\/111801\/1118012017\/1118012017001.json",
+        "nama": "TPS 001, BUNOT, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012017",
+        "tps": "1118012017002",
+        "url": "11\/1118\/111801\/1118012017\/1118012017002.json",
+        "nama": "TPS 002, BUNOT, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012016",
+        "tps": "1118012016001",
+        "url": "11\/1118\/111801\/1118012016\/1118012016001.json",
+        "nama": "TPS 001, DAYAH TIMU, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012024",
+        "tps": "1118012024001",
+        "url": "11\/1118\/111801\/1118012024\/1118012024001.json",
+        "nama": "TPS 001, DAYAH TUHA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012024",
+        "tps": "1118012024002",
+        "url": "11\/1118\/111801\/1118012024\/1118012024002.json",
+        "nama": "TPS 002, DAYAH TUHA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012015",
+        "tps": "1118012015001",
+        "url": "11\/1118\/111801\/1118012015\/1118012015001.json",
+        "nama": "TPS 001, GEULEUDAH, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012018",
+        "tps": "1118012018001",
+        "url": "11\/1118\/111801\/1118012018\/1118012018001.json",
+        "nama": "TPS 001, GLUMPANG TUTONG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012028",
+        "tps": "1118012028001",
+        "url": "11\/1118\/111801\/1118012028\/1118012028001.json",
+        "nama": "TPS 001, GRONG-GRONG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012028",
+        "tps": "1118012028002",
+        "url": "11\/1118\/111801\/1118012028\/1118012028002.json",
+        "nama": "TPS 002, GRONG-GRONG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012028",
+        "tps": "1118012028003",
+        "url": "11\/1118\/111801\/1118012028\/1118012028003.json",
+        "nama": "TPS 003, GRONG-GRONG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012002",
+        "tps": "1118012002001",
+        "url": "11\/1118\/111801\/1118012002\/1118012002001.json",
+        "nama": "TPS 001, KOTA MEUREUDU, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012002",
+        "tps": "1118012002002",
+        "url": "11\/1118\/111801\/1118012002\/1118012002002.json",
+        "nama": "TPS 002, KOTA MEUREUDU, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012021",
+        "tps": "1118012021001",
+        "url": "11\/1118\/111801\/1118012021\/1118012021001.json",
+        "nama": "TPS 001, KUDRANG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012029",
+        "tps": "1118012029001",
+        "url": "11\/1118\/111801\/1118012029\/1118012029001.json",
+        "nama": "TPS 001, KUTA TRIENG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012029",
+        "tps": "1118012029002",
+        "url": "11\/1118\/111801\/1118012029\/1118012029002.json",
+        "nama": "TPS 002, KUTA TRIENG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012022",
+        "tps": "1118012022001",
+        "url": "11\/1118\/111801\/1118012022\/1118012022001.json",
+        "nama": "TPS 001, LAMPOH LADA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012007",
+        "tps": "1118012007001",
+        "url": "11\/1118\/111801\/1118012007\/1118012007001.json",
+        "nama": "TPS 001, MANYANG CUT, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012007",
+        "tps": "1118012007002",
+        "url": "11\/1118\/111801\/1118012007\/1118012007002.json",
+        "nama": "TPS 002, MANYANG CUT, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012007",
+        "tps": "1118012007003",
+        "url": "11\/1118\/111801\/1118012007\/1118012007003.json",
+        "nama": "TPS 003, MANYANG CUT, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012007",
+        "tps": "1118012007004",
+        "url": "11\/1118\/111801\/1118012007\/1118012007004.json",
+        "nama": "TPS 004, MANYANG CUT, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012006",
+        "tps": "1118012006001",
+        "url": "11\/1118\/111801\/1118012006\/1118012006001.json",
+        "nama": "TPS 001, MANYANG LANCOK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012006",
+        "tps": "1118012006002",
+        "url": "11\/1118\/111801\/1118012006\/1118012006002.json",
+        "nama": "TPS 002, MANYANG LANCOK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012006",
+        "tps": "1118012006003",
+        "url": "11\/1118\/111801\/1118012006\/1118012006003.json",
+        "nama": "TPS 003, MANYANG LANCOK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012003",
+        "tps": "1118012003001",
+        "url": "11\/1118\/111801\/1118012003\/1118012003001.json",
+        "nama": "TPS 001, MESJID TUHA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012003",
+        "tps": "1118012003002",
+        "url": "11\/1118\/111801\/1118012003\/1118012003002.json",
+        "nama": "TPS 002, MESJID TUHA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012003",
+        "tps": "1118012003003",
+        "url": "11\/1118\/111801\/1118012003\/1118012003003.json",
+        "nama": "TPS 003, MESJID TUHA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012003",
+        "tps": "1118012003004",
+        "url": "11\/1118\/111801\/1118012003\/1118012003004.json",
+        "nama": "TPS 004, MESJID TUHA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012001",
+        "tps": "1118012001001",
+        "url": "11\/1118\/111801\/1118012001\/1118012001001.json",
+        "nama": "TPS 001, MEUNASAH BALEK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012001",
+        "tps": "1118012001002",
+        "url": "11\/1118\/111801\/1118012001\/1118012001002.json",
+        "nama": "TPS 002, MEUNASAH BALEK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012001",
+        "tps": "1118012001003",
+        "url": "11\/1118\/111801\/1118012001\/1118012001003.json",
+        "nama": "TPS 003, MEUNASAH BALEK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012001",
+        "tps": "1118012001004",
+        "url": "11\/1118\/111801\/1118012001\/1118012001004.json",
+        "nama": "TPS 004, MEUNASAH BALEK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012019",
+        "tps": "1118012019001",
+        "url": "11\/1118\/111801\/1118012019\/1118012019001.json",
+        "nama": "TPS 001, MEUNASAH HAGU, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012027",
+        "tps": "1118012027001",
+        "url": "11\/1118\/111801\/1118012027\/1118012027001.json",
+        "nama": "TPS 001, MEUNASAH KULAM, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012027",
+        "tps": "1118012027002",
+        "url": "11\/1118\/111801\/1118012027\/1118012027002.json",
+        "nama": "TPS 002, MEUNASAH KULAM, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012012",
+        "tps": "1118012012001",
+        "url": "11\/1118\/111801\/1118012012\/1118012012001.json",
+        "nama": "TPS 001, MEUNASAH LHOK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012012",
+        "tps": "1118012012002",
+        "url": "11\/1118\/111801\/1118012012\/1118012012002.json",
+        "nama": "TPS 002, MEUNASAH LHOK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012012",
+        "tps": "1118012012003",
+        "url": "11\/1118\/111801\/1118012012\/1118012012003.json",
+        "nama": "TPS 003, MEUNASAH LHOK, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012013",
+        "tps": "1118012013001",
+        "url": "11\/1118\/111801\/1118012013\/1118012013001.json",
+        "nama": "TPS 001, MEURAKSA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012013",
+        "tps": "1118012013002",
+        "url": "11\/1118\/111801\/1118012013\/1118012013002.json",
+        "nama": "TPS 002, MEURAKSA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012013",
+        "tps": "1118012013003",
+        "url": "11\/1118\/111801\/1118012013\/1118012013003.json",
+        "nama": "TPS 003, MEURAKSA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012013",
+        "tps": "1118012013004",
+        "url": "11\/1118\/111801\/1118012013\/1118012013004.json",
+        "nama": "TPS 004, MEURAKSA, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012023",
+        "tps": "1118012023001",
+        "url": "11\/1118\/111801\/1118012023\/1118012023001.json",
+        "nama": "TPS 001, MULIENG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012023",
+        "tps": "1118012023002",
+        "url": "11\/1118\/111801\/1118012023\/1118012023002.json",
+        "nama": "TPS 002, MULIENG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012020",
+        "tps": "1118012020001",
+        "url": "11\/1118\/111801\/1118012020\/1118012020001.json",
+        "nama": "TPS 001, POHROH, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012020",
+        "tps": "1118012020002",
+        "url": "11\/1118\/111801\/1118012020\/1118012020002.json",
+        "nama": "TPS 002, POHROH, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012014",
+        "tps": "1118012014001",
+        "url": "11\/1118\/111801\/1118012014\/1118012014001.json",
+        "nama": "TPS 001, PULO U, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012026",
+        "tps": "1118012026001",
+        "url": "11\/1118\/111801\/1118012026\/1118012026001.json",
+        "nama": "TPS 001, RAMBONG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012026",
+        "tps": "1118012026002",
+        "url": "11\/1118\/111801\/1118012026\/1118012026002.json",
+        "nama": "TPS 002, RAMBONG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012026",
+        "tps": "1118012026003",
+        "url": "11\/1118\/111801\/1118012026\/1118012026003.json",
+        "nama": "TPS 003, RAMBONG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012009",
+        "tps": "1118012009001",
+        "url": "11\/1118\/111801\/1118012009\/1118012009001.json",
+        "nama": "TPS 001, RHIENG BLANG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012009",
+        "tps": "1118012009002",
+        "url": "11\/1118\/111801\/1118012009\/1118012009002.json",
+        "nama": "TPS 002, RHIENG BLANG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012009",
+        "tps": "1118012009003",
+        "url": "11\/1118\/111801\/1118012009\/1118012009003.json",
+        "nama": "TPS 003, RHIENG BLANG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012010",
+        "tps": "1118012010001",
+        "url": "11\/1118\/111801\/1118012010\/1118012010001.json",
+        "nama": "TPS 001, RHIENG KRUENG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012010",
+        "tps": "1118012010002",
+        "url": "11\/1118\/111801\/1118012010\/1118012010002.json",
+        "nama": "TPS 002, RHIENG KRUENG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012011",
+        "tps": "1118012011001",
+        "url": "11\/1118\/111801\/1118012011\/1118012011001.json",
+        "nama": "TPS 001, RHIENG MANCANG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012011",
+        "tps": "1118012011002",
+        "url": "11\/1118\/111801\/1118012011\/1118012011002.json",
+        "nama": "TPS 002, RHIENG MANCANG, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012025",
+        "tps": "1118012025001",
+        "url": "11\/1118\/111801\/1118012025\/1118012025001.json",
+        "nama": "TPS 001, RUMPUEN, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012025",
+        "tps": "1118012025002",
+        "url": "11\/1118\/111801\/1118012025\/1118012025002.json",
+        "nama": "TPS 002, RUMPUEN, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012004",
+        "tps": "1118012004001",
+        "url": "11\/1118\/111801\/1118012004\/1118012004001.json",
+        "nama": "TPS 001, RUNGKOM, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012030",
+        "tps": "1118012030001",
+        "url": "11\/1118\/111801\/1118012030\/1118012030001.json",
+        "nama": "TPS 001, TEUPIN PEURAHO, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012030",
+        "tps": "1118012030002",
+        "url": "11\/1118\/111801\/1118012030\/1118012030002.json",
+        "nama": "TPS 002, TEUPIN PEURAHO, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012030",
+        "tps": "1118012030003",
+        "url": "11\/1118\/111801\/1118012030\/1118012030003.json",
+        "nama": "TPS 003, TEUPIN PEURAHO, MEUREUDU, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072003",
+        "tps": "1118072003001",
+        "url": "11\/1118\/111807\/1118072003\/1118072003001.json",
+        "nama": "TPS 001, HAGU, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072003",
+        "tps": "1118072003002",
+        "url": "11\/1118\/111807\/1118072003\/1118072003002.json",
+        "nama": "TPS 002, HAGU, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072001",
+        "tps": "1118072001001",
+        "url": "11\/1118\/111807\/1118072001\/1118072001001.json",
+        "nama": "TPS 001, KEUDE PANTERAJA, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072001",
+        "tps": "1118072001002",
+        "url": "11\/1118\/111807\/1118072001\/1118072001002.json",
+        "nama": "TPS 002, KEUDE PANTERAJA, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072001",
+        "tps": "1118072001003",
+        "url": "11\/1118\/111807\/1118072001\/1118072001003.json",
+        "nama": "TPS 003, KEUDE PANTERAJA, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072001",
+        "tps": "1118072001004",
+        "url": "11\/1118\/111807\/1118072001\/1118072001004.json",
+        "nama": "TPS 004, KEUDE PANTERAJA, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072001",
+        "tps": "1118072001005",
+        "url": "11\/1118\/111807\/1118072001\/1118072001005.json",
+        "nama": "TPS 005, KEUDE PANTERAJA, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072005",
+        "tps": "1118072005001",
+        "url": "11\/1118\/111807\/1118072005\/1118072005001.json",
+        "nama": "TPS 001, LHOK PUUK, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072005",
+        "tps": "1118072005002",
+        "url": "11\/1118\/111807\/1118072005\/1118072005002.json",
+        "nama": "TPS 002, LHOK PUUK, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072006",
+        "tps": "1118072006001",
+        "url": "11\/1118\/111807\/1118072006\/1118072006001.json",
+        "nama": "TPS 001, MESJID, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072006",
+        "tps": "1118072006002",
+        "url": "11\/1118\/111807\/1118072006\/1118072006002.json",
+        "nama": "TPS 002, MESJID, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072006",
+        "tps": "1118072006003",
+        "url": "11\/1118\/111807\/1118072006\/1118072006003.json",
+        "nama": "TPS 003, MESJID, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072004",
+        "tps": "1118072004001",
+        "url": "11\/1118\/111807\/1118072004\/1118072004001.json",
+        "nama": "TPS 001, MUKA BLANG, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072004",
+        "tps": "1118072004002",
+        "url": "11\/1118\/111807\/1118072004\/1118072004002.json",
+        "nama": "TPS 002, MUKA BLANG, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072009",
+        "tps": "1118072009001",
+        "url": "11\/1118\/111807\/1118072009\/1118072009001.json",
+        "nama": "TPS 001, PEURADE, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072009",
+        "tps": "1118072009002",
+        "url": "11\/1118\/111807\/1118072009\/1118072009002.json",
+        "nama": "TPS 002, PEURADE, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072009",
+        "tps": "1118072009003",
+        "url": "11\/1118\/111807\/1118072009\/1118072009003.json",
+        "nama": "TPS 003, PEURADE, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072010",
+        "tps": "1118072010001",
+        "url": "11\/1118\/111807\/1118072010\/1118072010001.json",
+        "nama": "TPS 001, REUDEUP, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072010",
+        "tps": "1118072010002",
+        "url": "11\/1118\/111807\/1118072010\/1118072010002.json",
+        "nama": "TPS 002, REUDEUP, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072010",
+        "tps": "1118072010003",
+        "url": "11\/1118\/111807\/1118072010\/1118072010003.json",
+        "nama": "TPS 003, REUDEUP, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072007",
+        "tps": "1118072007001",
+        "url": "11\/1118\/111807\/1118072007\/1118072007001.json",
+        "nama": "TPS 001, TEUNGOH, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072007",
+        "tps": "1118072007002",
+        "url": "11\/1118\/111807\/1118072007\/1118072007002.json",
+        "nama": "TPS 002, TEUNGOH, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072002",
+        "tps": "1118072002001",
+        "url": "11\/1118\/111807\/1118072002\/1118072002001.json",
+        "nama": "TPS 001, TU, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072002",
+        "tps": "1118072002002",
+        "url": "11\/1118\/111807\/1118072002\/1118072002002.json",
+        "nama": "TPS 002, TU, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072008",
+        "tps": "1118072008001",
+        "url": "11\/1118\/111807\/1118072008\/1118072008001.json",
+        "nama": "TPS 001, TUNONG, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111807",
+        "desa": "1118072008",
+        "tps": "1118072008002",
+        "url": "11\/1118\/111807\/1118072008\/1118072008002.json",
+        "nama": "TPS 002, TUNONG, PANTERAJA, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082023",
+        "tps": "1118082023001",
+        "url": "11\/1118\/111808\/1118082023\/1118082023001.json",
+        "nama": "TPS 001, BULOH, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082026",
+        "tps": "1118082026001",
+        "url": "11\/1118\/111808\/1118082026\/1118082026001.json",
+        "nama": "TPS 001, COT LHEUE RHENG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082026",
+        "tps": "1118082026002",
+        "url": "11\/1118\/111808\/1118082026\/1118082026002.json",
+        "nama": "TPS 002, COT LHEUE RHENG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082026",
+        "tps": "1118082026003",
+        "url": "11\/1118\/111808\/1118082026\/1118082026003.json",
+        "nama": "TPS 003, COT LHEUE RHENG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082022",
+        "tps": "1118082022001",
+        "url": "11\/1118\/111808\/1118082022\/1118082022001.json",
+        "nama": "TPS 001, COT MAKASO, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082022",
+        "tps": "1118082022002",
+        "url": "11\/1118\/111808\/1118082022\/1118082022002.json",
+        "nama": "TPS 002, COT MAKASO, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082020",
+        "tps": "1118082020001",
+        "url": "11\/1118\/111808\/1118082020\/1118082020001.json",
+        "nama": "TPS 001, DEAH PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082020",
+        "tps": "1118082020002",
+        "url": "11\/1118\/111808\/1118082020\/1118082020002.json",
+        "nama": "TPS 002, DEAH PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082020",
+        "tps": "1118082020003",
+        "url": "11\/1118\/111808\/1118082020\/1118082020003.json",
+        "nama": "TPS 003, DEAH PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082020",
+        "tps": "1118082020004",
+        "url": "11\/1118\/111808\/1118082020\/1118082020004.json",
+        "nama": "TPS 004, DEAH PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082020",
+        "tps": "1118082020005",
+        "url": "11\/1118\/111808\/1118082020\/1118082020005.json",
+        "nama": "TPS 005, DEAH PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082008",
+        "tps": "1118082008001",
+        "url": "11\/1118\/111808\/1118082008\/1118082008001.json",
+        "nama": "TPS 001, DEAH TEUMANAH, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082008",
+        "tps": "1118082008002",
+        "url": "11\/1118\/111808\/1118082008\/1118082008002.json",
+        "nama": "TPS 002, DEAH TEUMANAH, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082008",
+        "tps": "1118082008003",
+        "url": "11\/1118\/111808\/1118082008\/1118082008003.json",
+        "nama": "TPS 003, DEAH TEUMANAH, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082017",
+        "tps": "1118082017001",
+        "url": "11\/1118\/111808\/1118082017\/1118082017001.json",
+        "nama": "TPS 001, DEAH UJONG BAROH, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082017",
+        "tps": "1118082017002",
+        "url": "11\/1118\/111808\/1118082017\/1118082017002.json",
+        "nama": "TPS 002, DEAH UJONG BAROH, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082006",
+        "tps": "1118082006001",
+        "url": "11\/1118\/111808\/1118082006\/1118082006001.json",
+        "nama": "TPS 001, DEE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082010",
+        "tps": "1118082010001",
+        "url": "11\/1118\/111808\/1118082010\/1118082010001.json",
+        "nama": "TPS 001, KEUDE TRIENGGADENG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082010",
+        "tps": "1118082010002",
+        "url": "11\/1118\/111808\/1118082010\/1118082010002.json",
+        "nama": "TPS 002, KEUDE TRIENGGADENG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082025",
+        "tps": "1118082025001",
+        "url": "11\/1118\/111808\/1118082025\/1118082025001.json",
+        "nama": "TPS 001, KUTA PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082025",
+        "tps": "1118082025002",
+        "url": "11\/1118\/111808\/1118082025\/1118082025002.json",
+        "nama": "TPS 002, KUTA PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082016",
+        "tps": "1118082016001",
+        "url": "11\/1118\/111808\/1118082016\/1118082016001.json",
+        "nama": "TPS 001, MATANG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082024",
+        "tps": "1118082024001",
+        "url": "11\/1118\/111808\/1118082024\/1118082024001.json",
+        "nama": "TPS 001, MEE PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082024",
+        "tps": "1118082024002",
+        "url": "11\/1118\/111808\/1118082024\/1118082024002.json",
+        "nama": "TPS 002, MEE PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082024",
+        "tps": "1118082024003",
+        "url": "11\/1118\/111808\/1118082024\/1118082024003.json",
+        "nama": "TPS 003, MEE PANGWA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082002",
+        "tps": "1118082002001",
+        "url": "11\/1118\/111808\/1118082002\/1118082002001.json",
+        "nama": "TPS 001, MEE PEUDUEK, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082002",
+        "tps": "1118082002002",
+        "url": "11\/1118\/111808\/1118082002\/1118082002002.json",
+        "nama": "TPS 002, MEE PEUDUEK, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082003",
+        "tps": "1118082003001",
+        "url": "11\/1118\/111808\/1118082003\/1118082003001.json",
+        "nama": "TPS 001, MESJID PEUDUEK, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082003",
+        "tps": "1118082003002",
+        "url": "11\/1118\/111808\/1118082003\/1118082003002.json",
+        "nama": "TPS 002, MESJID PEUDUEK, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082003",
+        "tps": "1118082003003",
+        "url": "11\/1118\/111808\/1118082003\/1118082003003.json",
+        "nama": "TPS 003, MESJID PEUDUEK, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082014",
+        "tps": "1118082014001",
+        "url": "11\/1118\/111808\/1118082014\/1118082014001.json",
+        "nama": "TPS 001, MESJID TRIENGGADENG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082014",
+        "tps": "1118082014002",
+        "url": "11\/1118\/111808\/1118082014\/1118082014002.json",
+        "nama": "TPS 002, MESJID TRIENGGADENG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082021",
+        "tps": "1118082021001",
+        "url": "11\/1118\/111808\/1118082021\/1118082021001.json",
+        "nama": "TPS 001, MEUCAT, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082021",
+        "tps": "1118082021002",
+        "url": "11\/1118\/111808\/1118082021\/1118082021002.json",
+        "nama": "TPS 002, MEUCAT, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082013",
+        "tps": "1118082013001",
+        "url": "11\/1118\/111808\/1118082013\/1118082013001.json",
+        "nama": "TPS 001, MEUE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082013",
+        "tps": "1118082013002",
+        "url": "11\/1118\/111808\/1118082013\/1118082013002.json",
+        "nama": "TPS 002, MEUE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082013",
+        "tps": "1118082013003",
+        "url": "11\/1118\/111808\/1118082013\/1118082013003.json",
+        "nama": "TPS 003, MEUE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082013",
+        "tps": "1118082013004",
+        "url": "11\/1118\/111808\/1118082013\/1118082013004.json",
+        "nama": "TPS 004, MEUE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082013",
+        "tps": "1118082013005",
+        "url": "11\/1118\/111808\/1118082013\/1118082013005.json",
+        "nama": "TPS 005, MEUE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082007",
+        "tps": "1118082007001",
+        "url": "11\/1118\/111808\/1118082007\/1118082007001.json",
+        "nama": "TPS 001, PANTON RAYA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082007",
+        "tps": "1118082007002",
+        "url": "11\/1118\/111808\/1118082007\/1118082007002.json",
+        "nama": "TPS 002, PANTON RAYA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082012",
+        "tps": "1118082012001",
+        "url": "11\/1118\/111808\/1118082012\/1118082012001.json",
+        "nama": "TPS 001, PAYA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082012",
+        "tps": "1118082012002",
+        "url": "11\/1118\/111808\/1118082012\/1118082012002.json",
+        "nama": "TPS 002, PAYA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082012",
+        "tps": "1118082012003",
+        "url": "11\/1118\/111808\/1118082012\/1118082012003.json",
+        "nama": "TPS 003, PAYA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082018",
+        "tps": "1118082018001",
+        "url": "11\/1118\/111808\/1118082018\/1118082018001.json",
+        "nama": "TPS 001, PEULANDOK TEUNGOH, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082018",
+        "tps": "1118082018002",
+        "url": "11\/1118\/111808\/1118082018\/1118082018002.json",
+        "nama": "TPS 002, PEULANDOK TEUNGOH, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082019",
+        "tps": "1118082019001",
+        "url": "11\/1118\/111808\/1118082019\/1118082019001.json",
+        "nama": "TPS 001, PEULANDOK TUNONG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082019",
+        "tps": "1118082019002",
+        "url": "11\/1118\/111808\/1118082019\/1118082019002.json",
+        "nama": "TPS 002, PEULANDOK TUNONG, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082027",
+        "tps": "1118082027001",
+        "url": "11\/1118\/111808\/1118082027\/1118082027001.json",
+        "nama": "TPS 001, RAWASARI, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082027",
+        "tps": "1118082027002",
+        "url": "11\/1118\/111808\/1118082027\/1118082027002.json",
+        "nama": "TPS 002, RAWASARI, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082027",
+        "tps": "1118082027003",
+        "url": "11\/1118\/111808\/1118082027\/1118082027003.json",
+        "nama": "TPS 003, RAWASARI, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082011",
+        "tps": "1118082011001",
+        "url": "11\/1118\/111808\/1118082011\/1118082011001.json",
+        "nama": "TPS 001, RAYA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082011",
+        "tps": "1118082011002",
+        "url": "11\/1118\/111808\/1118082011\/1118082011002.json",
+        "nama": "TPS 002, RAYA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082011",
+        "tps": "1118082011003",
+        "url": "11\/1118\/111808\/1118082011\/1118082011003.json",
+        "nama": "TPS 003, RAYA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082005",
+        "tps": "1118082005001",
+        "url": "11\/1118\/111808\/1118082005\/1118082005001.json",
+        "nama": "TPS 001, REUSEB, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082005",
+        "tps": "1118082005002",
+        "url": "11\/1118\/111808\/1118082005\/1118082005002.json",
+        "nama": "TPS 002, REUSEB, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082001",
+        "tps": "1118082001001",
+        "url": "11\/1118\/111808\/1118082001\/1118082001001.json",
+        "nama": "TPS 001, SAGOE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082001",
+        "tps": "1118082001002",
+        "url": "11\/1118\/111808\/1118082001\/1118082001002.json",
+        "nama": "TPS 002, SAGOE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082001",
+        "tps": "1118082001003",
+        "url": "11\/1118\/111808\/1118082001\/1118082001003.json",
+        "nama": "TPS 003, SAGOE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082001",
+        "tps": "1118082001004",
+        "url": "11\/1118\/111808\/1118082001\/1118082001004.json",
+        "nama": "TPS 004, SAGOE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082001",
+        "tps": "1118082001005",
+        "url": "11\/1118\/111808\/1118082001\/1118082001005.json",
+        "nama": "TPS 005, SAGOE, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082009",
+        "tps": "1118082009001",
+        "url": "11\/1118\/111808\/1118082009\/1118082009001.json",
+        "nama": "TPS 001, TAMPUI, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082009",
+        "tps": "1118082009002",
+        "url": "11\/1118\/111808\/1118082009\/1118082009002.json",
+        "nama": "TPS 002, TAMPUI, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082009",
+        "tps": "1118082009003",
+        "url": "11\/1118\/111808\/1118082009\/1118082009003.json",
+        "nama": "TPS 003, TAMPUI, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082015",
+        "tps": "1118082015001",
+        "url": "11\/1118\/111808\/1118082015\/1118082015001.json",
+        "nama": "TPS 001, TEUNGKLUET, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082015",
+        "tps": "1118082015002",
+        "url": "11\/1118\/111808\/1118082015\/1118082015002.json",
+        "nama": "TPS 002, TEUNGKLUET, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082015",
+        "tps": "1118082015003",
+        "url": "11\/1118\/111808\/1118082015\/1118082015003.json",
+        "nama": "TPS 003, TEUNGKLUET, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082004",
+        "tps": "1118082004001",
+        "url": "11\/1118\/111808\/1118082004\/1118082004001.json",
+        "nama": "TPS 001, TUHA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111808",
+        "desa": "1118082004",
+        "tps": "1118082004002",
+        "url": "11\/1118\/111808\/1118082004\/1118082004002.json",
+        "nama": "TPS 002, TUHA, TRIENGGADENG, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022029",
+        "tps": "1118022029001",
+        "url": "11\/1118\/111802\/1118022029\/1118022029001.json",
+        "nama": "TPS 001, ALUE KEUMIKI, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022013",
+        "tps": "1118022013001",
+        "url": "11\/1118\/111802\/1118022013\/1118022013001.json",
+        "nama": "TPS 001, BALEE ULIM, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022013",
+        "tps": "1118022013002",
+        "url": "11\/1118\/111802\/1118022013\/1118022013002.json",
+        "nama": "TPS 002, BALEE ULIM, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022020",
+        "tps": "1118022020001",
+        "url": "11\/1118\/111802\/1118022020\/1118022020001.json",
+        "nama": "TPS 001, BIDOK, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022020",
+        "tps": "1118022020002",
+        "url": "11\/1118\/111802\/1118022020\/1118022020002.json",
+        "nama": "TPS 002, BIDOK, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022030",
+        "tps": "1118022030001",
+        "url": "11\/1118\/111802\/1118022030\/1118022030001.json",
+        "nama": "TPS 001, BLANG CARI, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022026",
+        "tps": "1118022026001",
+        "url": "11\/1118\/111802\/1118022026\/1118022026001.json",
+        "nama": "TPS 001, BLANG RHEUE, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022027",
+        "tps": "1118022027001",
+        "url": "11\/1118\/111802\/1118022027\/1118022027001.json",
+        "nama": "TPS 001, COT SEUTUI, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022001",
+        "tps": "1118022001001",
+        "url": "11\/1118\/111802\/1118022001\/1118022001001.json",
+        "nama": "TPS 001, DAYAH BAROH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022001",
+        "tps": "1118022001002",
+        "url": "11\/1118\/111802\/1118022001\/1118022001002.json",
+        "nama": "TPS 002, DAYAH BAROH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022001",
+        "tps": "1118022001003",
+        "url": "11\/1118\/111802\/1118022001\/1118022001003.json",
+        "nama": "TPS 003, DAYAH BAROH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022009",
+        "tps": "1118022009001",
+        "url": "11\/1118\/111802\/1118022009\/1118022009001.json",
+        "nama": "TPS 001, DAYAH LEUBUE, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022009",
+        "tps": "1118022009002",
+        "url": "11\/1118\/111802\/1118022009\/1118022009002.json",
+        "nama": "TPS 002, DAYAH LEUBUE, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022006",
+        "tps": "1118022006001",
+        "url": "11\/1118\/111802\/1118022006\/1118022006001.json",
+        "nama": "TPS 001, GEULANGGANG, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022006",
+        "tps": "1118022006002",
+        "url": "11\/1118\/111802\/1118022006\/1118022006002.json",
+        "nama": "TPS 002, GEULANGGANG, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022006",
+        "tps": "1118022006003",
+        "url": "11\/1118\/111802\/1118022006\/1118022006003.json",
+        "nama": "TPS 003, GEULANGGANG, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022014",
+        "tps": "1118022014001",
+        "url": "11\/1118\/111802\/1118022014\/1118022014001.json",
+        "nama": "TPS 001, GRONG GRONG CAPA, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022014",
+        "tps": "1118022014002",
+        "url": "11\/1118\/111802\/1118022014\/1118022014002.json",
+        "nama": "TPS 002, GRONG GRONG CAPA, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022014",
+        "tps": "1118022014003",
+        "url": "11\/1118\/111802\/1118022014\/1118022014003.json",
+        "nama": "TPS 003, GRONG GRONG CAPA, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022011",
+        "tps": "1118022011001",
+        "url": "11\/1118\/111802\/1118022011\/1118022011001.json",
+        "nama": "TPS 001, KEUDE ULIM, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022028",
+        "tps": "1118022028001",
+        "url": "11\/1118\/111802\/1118022028\/1118022028001.json",
+        "nama": "TPS 001, LHOK GAJAH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022007",
+        "tps": "1118022007001",
+        "url": "11\/1118\/111802\/1118022007\/1118022007001.json",
+        "nama": "TPS 001, MESJID ULIM BAROH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022007",
+        "tps": "1118022007002",
+        "url": "11\/1118\/111802\/1118022007\/1118022007002.json",
+        "nama": "TPS 002, MESJID ULIM BAROH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022017",
+        "tps": "1118022017001",
+        "url": "11\/1118\/111802\/1118022017\/1118022017001.json",
+        "nama": "TPS 001, MESJID ULIM TUNONG, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022012",
+        "tps": "1118022012001",
+        "url": "11\/1118\/111802\/1118022012\/1118022012001.json",
+        "nama": "TPS 001, MEUNASAH BUENG, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022012",
+        "tps": "1118022012002",
+        "url": "11\/1118\/111802\/1118022012\/1118022012002.json",
+        "nama": "TPS 002, MEUNASAH BUENG, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022005",
+        "tps": "1118022005001",
+        "url": "11\/1118\/111802\/1118022005\/1118022005001.json",
+        "nama": "TPS 001, MEUNASAH KRUENG, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022015",
+        "tps": "1118022015001",
+        "url": "11\/1118\/111802\/1118022015\/1118022015001.json",
+        "nama": "TPS 001, MEUNASAH KUMBANG, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022015",
+        "tps": "1118022015002",
+        "url": "11\/1118\/111802\/1118022015\/1118022015002.json",
+        "nama": "TPS 002, MEUNASAH KUMBANG, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022025",
+        "tps": "1118022025001",
+        "url": "11\/1118\/111802\/1118022025\/1118022025001.json",
+        "nama": "TPS 001, MEUNASAH MESJID, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022022",
+        "tps": "1118022022001",
+        "url": "11\/1118\/111802\/1118022022\/1118022022001.json",
+        "nama": "TPS 001, MEUNASAH PUPU, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022023",
+        "tps": "1118022023001",
+        "url": "11\/1118\/111802\/1118022023\/1118022023001.json",
+        "nama": "TPS 001, NANGRHOE BARAT, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022023",
+        "tps": "1118022023002",
+        "url": "11\/1118\/111802\/1118022023\/1118022023002.json",
+        "nama": "TPS 002, NANGRHOE BARAT, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022024",
+        "tps": "1118022024001",
+        "url": "11\/1118\/111802\/1118022024\/1118022024001.json",
+        "nama": "TPS 001, NANGRHOE TIMU, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022024",
+        "tps": "1118022024002",
+        "url": "11\/1118\/111802\/1118022024\/1118022024002.json",
+        "nama": "TPS 002, NANGRHOE TIMU, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022024",
+        "tps": "1118022024003",
+        "url": "11\/1118\/111802\/1118022024\/1118022024003.json",
+        "nama": "TPS 003, NANGRHOE TIMU, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022021",
+        "tps": "1118022021001",
+        "url": "11\/1118\/111802\/1118022021\/1118022021001.json",
+        "nama": "TPS 001, PANTANG COT BALOI, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022021",
+        "tps": "1118022021002",
+        "url": "11\/1118\/111802\/1118022021\/1118022021002.json",
+        "nama": "TPS 002, PANTANG COT BALOI, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022008",
+        "tps": "1118022008001",
+        "url": "11\/1118\/111802\/1118022008\/1118022008001.json",
+        "nama": "TPS 001, PULO LHOK, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022018",
+        "tps": "1118022018001",
+        "url": "11\/1118\/111802\/1118022018\/1118022018001.json",
+        "nama": "TPS 001, PULO ULIM, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022018",
+        "tps": "1118022018002",
+        "url": "11\/1118\/111802\/1118022018\/1118022018002.json",
+        "nama": "TPS 002, PULO ULIM, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022018",
+        "tps": "1118022018003",
+        "url": "11\/1118\/111802\/1118022018\/1118022018003.json",
+        "nama": "TPS 003, PULO ULIM, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022002",
+        "tps": "1118022002001",
+        "url": "11\/1118\/111802\/1118022002\/1118022002001.json",
+        "nama": "TPS 001, REULEUT, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022003",
+        "tps": "1118022003001",
+        "url": "11\/1118\/111802\/1118022003\/1118022003001.json",
+        "nama": "TPS 001, SAMBONGAN BARO, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022019",
+        "tps": "1118022019001",
+        "url": "11\/1118\/111802\/1118022019\/1118022019001.json",
+        "nama": "TPS 001, SIBLAH COH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022019",
+        "tps": "1118022019002",
+        "url": "11\/1118\/111802\/1118022019\/1118022019002.json",
+        "nama": "TPS 002, SIBLAH COH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022016",
+        "tps": "1118022016001",
+        "url": "11\/1118\/111802\/1118022016\/1118022016001.json",
+        "nama": "TPS 001, TANJONG ULIM, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022016",
+        "tps": "1118022016002",
+        "url": "11\/1118\/111802\/1118022016\/1118022016002.json",
+        "nama": "TPS 002, TANJONG ULIM, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022010",
+        "tps": "1118022010001",
+        "url": "11\/1118\/111802\/1118022010\/1118022010001.json",
+        "nama": "TPS 001, TIJIEN DABOH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022010",
+        "tps": "1118022010002",
+        "url": "11\/1118\/111802\/1118022010\/1118022010002.json",
+        "nama": "TPS 002, TIJIEN DABOH, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022004",
+        "tps": "1118022004001",
+        "url": "11\/1118\/111802\/1118022004\/1118022004001.json",
+        "nama": "TPS 001, TIJIEN HUSEN, ULIM, PIDIE JAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022004",
+        "tps": "1118022004002",
+        "url": "11\/1118\/111802\/1118022004\/1118022004002.json",
+        "nama": "TPS 002, TIJIEN HUSEN, ULIM, PIDIE JAYA, ACEH"
+    }
+]

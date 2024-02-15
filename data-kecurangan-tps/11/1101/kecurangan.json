@@ -1,0 +1,82 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1101",
+        "kecamatan": "110117",
+        "desa": "1101172001",
+        "tps": "1101172001001",
+        "nama": "TPS 001, BUKET GADENG, KOTA BAHAGIA, ACEH SELATAN, ACEH",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1101\/110117\/1101172001\/1101172001001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1101",
+        "kecamatan": "110105",
+        "desa": "1101052018",
+        "tps": "1101052018003",
+        "nama": "TPS 003, TANJUNG HARAPAN, MEUKEK, ACEH SELATAN, ACEH",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1101\/110105\/1101052018\/1101052018003"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1101",
+        "kecamatan": "110110",
+        "desa": "1101102010",
+        "tps": "1101102010001",
+        "nama": "TPS 001, LHOK SIALANG CUT, PASI RAJA, ACEH SELATAN, ACEH",
+        "selisih": 79,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1101\/110110\/1101102010\/1101102010001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1101",
+        "kecamatan": "110107",
+        "desa": "1101072005",
+        "tps": "1101072005002",
+        "nama": "TPS 002, SAWANG II, SAWANG, ACEH SELATAN, ACEH",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1101\/110107\/1101072005\/1101072005002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1101",
+        "kecamatan": "110108",
+        "desa": "1101082008",
+        "tps": "1101082008001",
+        "nama": "TPS 001, LHOK BENGKUANG, TAPAKTUAN, ACEH SELATAN, ACEH",
+        "selisih": 800,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1101\/110108\/1101082008\/1101082008001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1101",
+        "kecamatan": "110106",
+        "desa": "1101062003",
+        "tps": "1101062003001",
+        "nama": "TPS 001, KUTA BARU, SAMADUA, ACEH SELATAN, ACEH",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1101\/110106\/1101062003\/1101062003001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1101",
+        "kecamatan": "110106",
+        "desa": "1101062003",
+        "tps": "1101062003001",
+        "nama": "TPS 001, KUTA BARU, SAMADUA, ACEH SELATAN, ACEH",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1101\/110106\/1101062003\/1101062003001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1101",
+        "kecamatan": "110106",
+        "desa": "1101062003",
+        "tps": "1101062003001",
+        "nama": "TPS 001, KUTA BARU, SAMADUA, ACEH SELATAN, ACEH",
+        "selisih": 79,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1101\/110106\/1101062003\/1101062003001"
+    }
+]

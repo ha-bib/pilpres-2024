@@ -1,0 +1,4358 @@
+[
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192012",
+        "tps": "9106192012001",
+        "url": "91\/9106\/910619\/9106192012\/9106192012001.json",
+        "nama": "TPS 001, ANOBO, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192006",
+        "tps": "9106192006001",
+        "url": "91\/9106\/910619\/9106192006\/9106192006001.json",
+        "nama": "TPS 001, KARABAI, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192005",
+        "tps": "9106192005001",
+        "url": "91\/9106\/910619\/9106192005\/9106192005001.json",
+        "nama": "TPS 001, MBROMSI, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192001",
+        "tps": "9106192001001",
+        "url": "91\/9106\/910619\/9106192001\/9106192001001.json",
+        "nama": "TPS 001, MIOS MANGGUANDI, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192008",
+        "tps": "9106192008001",
+        "url": "91\/9106\/910619\/9106192008\/9106192008001.json",
+        "nama": "TPS 001, NYANSOREN, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192010",
+        "tps": "9106192010001",
+        "url": "91\/9106\/910619\/9106192010\/9106192010001.json",
+        "nama": "TPS 001, PADAIDO, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192004",
+        "tps": "9106192004001",
+        "url": "91\/9106\/910619\/9106192004\/9106192004001.json",
+        "nama": "TPS 001, PASI, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192003",
+        "tps": "9106192003001",
+        "url": "91\/9106\/910619\/9106192003\/9106192003001.json",
+        "nama": "TPS 001, SAMBER PASI, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192007",
+        "tps": "9106192007001",
+        "url": "91\/9106\/910619\/9106192007\/9106192007001.json",
+        "nama": "TPS 001, SARIBRA, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192009",
+        "tps": "9106192009001",
+        "url": "91\/9106\/910619\/9106192009\/9106192009001.json",
+        "nama": "TPS 001, SASARI, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192002",
+        "tps": "9106192002001",
+        "url": "91\/9106\/910619\/9106192002\/9106192002001.json",
+        "nama": "TPS 001, SUPRAIMA, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192013",
+        "tps": "9106192013001",
+        "url": "91\/9106\/910619\/9106192013\/9106192013001.json",
+        "nama": "TPS 001, YEN MANAINA, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910619",
+        "desa": "9106192011",
+        "tps": "9106192011001",
+        "url": "91\/9106\/910619\/9106192011\/9106192011001.json",
+        "nama": "TPS 001, YERI, AIMANDO PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142009",
+        "tps": "9106142009001",
+        "url": "91\/9106\/910614\/9106142009\/9106142009001.json",
+        "nama": "TPS 001, ARMNU, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142012",
+        "tps": "9106142012001",
+        "url": "91\/9106\/910614\/9106142012\/9106142012001.json",
+        "nama": "TPS 001, DASDO, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142008",
+        "tps": "9106142008001",
+        "url": "91\/9106\/910614\/9106142008\/9106142008001.json",
+        "nama": "TPS 001, FAKNIKDI, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142007",
+        "tps": "9106142007001",
+        "url": "91\/9106\/910614\/9106142007\/9106142007001.json",
+        "nama": "TPS 001, MAMORBO, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142003",
+        "tps": "9106142003001",
+        "url": "91\/9106\/910614\/9106142003\/9106142003001.json",
+        "nama": "TPS 001, RODIFU, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142001",
+        "tps": "9106142001001",
+        "url": "91\/9106\/910614\/9106142001\/9106142001001.json",
+        "nama": "TPS 001, RUMBIN, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142010",
+        "tps": "9106142010001",
+        "url": "91\/9106\/910614\/9106142010\/9106142010001.json",
+        "nama": "TPS 001, SUP MBRUR, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142002",
+        "tps": "9106142002001",
+        "url": "91\/9106\/910614\/9106142002\/9106142002001.json",
+        "nama": "TPS 001, WARBINSI, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142011",
+        "tps": "9106142011001",
+        "url": "91\/9106\/910614\/9106142011\/9106142011001.json",
+        "nama": "TPS 001, WODU, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142011",
+        "tps": "9106142011002",
+        "url": "91\/9106\/910614\/9106142011\/9106142011002.json",
+        "nama": "TPS 002, WODU, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142004",
+        "tps": "9106142004001",
+        "url": "91\/9106\/910614\/9106142004\/9106142004001.json",
+        "nama": "TPS 001, WONABRAIDI, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910614",
+        "desa": "9106142005",
+        "tps": "9106142005001",
+        "url": "91\/9106\/910614\/9106142005\/9106142005001.json",
+        "nama": "TPS 001, WOUNA, ANDEY, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082006",
+        "tps": "9106082006001",
+        "url": "91\/9106\/910608\/9106082006\/9106082006001.json",
+        "nama": "TPS 001, AMPUNBUKOR, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082001",
+        "tps": "9106082001001",
+        "url": "91\/9106\/910608\/9106082001\/9106082001001.json",
+        "nama": "TPS 001, ANDEI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082024",
+        "tps": "9106082024001",
+        "url": "91\/9106\/910608\/9106082024\/9106082024001.json",
+        "nama": "TPS 001, ASARKIR, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082003",
+        "tps": "9106082003001",
+        "url": "91\/9106\/910608\/9106082003\/9106082003001.json",
+        "nama": "TPS 001, ASARYENDI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082030",
+        "tps": "9106082030001",
+        "url": "91\/9106\/910608\/9106082030\/9106082030001.json",
+        "nama": "TPS 001, BANASRARES, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082032",
+        "tps": "9106082032001",
+        "url": "91\/9106\/910608\/9106082032\/9106082032001.json",
+        "nama": "TPS 001, DEDIFU, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082025",
+        "tps": "9106082025001",
+        "url": "91\/9106\/910608\/9106082025\/9106082025001.json",
+        "nama": "TPS 001, DOUSI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082021",
+        "tps": "9106082021001",
+        "url": "91\/9106\/910608\/9106082021\/9106082021001.json",
+        "nama": "TPS 001, INSIRI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082009",
+        "tps": "9106082009001",
+        "url": "91\/9106\/910608\/9106082009\/9106082009001.json",
+        "nama": "TPS 001, KABABUR, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082002",
+        "tps": "9106082002001",
+        "url": "91\/9106\/910608\/9106082002\/9106082002001.json",
+        "nama": "TPS 001, KANAAN, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082031",
+        "tps": "9106082031001",
+        "url": "91\/9106\/910608\/9106082031\/9106082031001.json",
+        "nama": "TPS 001, KARNINDI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082014",
+        "tps": "9106082014001",
+        "url": "91\/9106\/910608\/9106082014\/9106082014001.json",
+        "nama": "TPS 001, MAMORIBO, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082026",
+        "tps": "9106082026001",
+        "url": "91\/9106\/910608\/9106082026\/9106082026001.json",
+        "nama": "TPS 001, MARISEN, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082013",
+        "tps": "9106082013001",
+        "url": "91\/9106\/910608\/9106082013\/9106082013001.json",
+        "nama": "TPS 001, OPURI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082029",
+        "tps": "9106082029001",
+        "url": "91\/9106\/910608\/9106082029\/9106082029001.json",
+        "nama": "TPS 001, RARSBARI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082004",
+        "tps": "9106082004001",
+        "url": "91\/9106\/910608\/9106082004\/9106082004001.json",
+        "nama": "TPS 001, SOPENDO, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082033",
+        "tps": "9106082033001",
+        "url": "91\/9106\/910608\/9106082033\/9106082033001.json",
+        "nama": "TPS 001, SOPENDO SUP KARKIR, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082011",
+        "tps": "9106082011001",
+        "url": "91\/9106\/910608\/9106082011\/9106082011001.json",
+        "nama": "TPS 001, SOSMAI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082027",
+        "tps": "9106082027001",
+        "url": "91\/9106\/910608\/9106082027\/9106082027001.json",
+        "nama": "TPS 001, SUMBINYA, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082010",
+        "tps": "9106082010001",
+        "url": "91\/9106\/910608\/9106082010\/9106082010001.json",
+        "nama": "TPS 001, WARBERIK, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082008",
+        "tps": "9106082008001",
+        "url": "91\/9106\/910608\/9106082008\/9106082008001.json",
+        "nama": "TPS 001, WASYAI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082012",
+        "tps": "9106082012001",
+        "url": "91\/9106\/910608\/9106082012\/9106082012001.json",
+        "nama": "TPS 001, YOMDORI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910608",
+        "desa": "9106082012",
+        "tps": "9106082012002",
+        "url": "91\/9106\/910608\/9106082012\/9106082012002.json",
+        "nama": "TPS 002, YOMDORI, BIAK BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012014",
+        "tps": "9106012014001",
+        "url": "91\/9106\/910601\/9106012014\/9106012014001.json",
+        "nama": "TPS 001, ANGGRAIDI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012014",
+        "tps": "9106012014002",
+        "url": "91\/9106\/910601\/9106012014\/9106012014002.json",
+        "nama": "TPS 002, ANGGRAIDI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012021",
+        "tps": "9106012021001",
+        "url": "91\/9106\/910601\/9106012021\/9106012021001.json",
+        "nama": "TPS 001, BABRINBO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012021",
+        "tps": "9106012021002",
+        "url": "91\/9106\/910601\/9106012021\/9106012021002.json",
+        "nama": "TPS 002, BABRINBO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012021",
+        "tps": "9106012021003",
+        "url": "91\/9106\/910601\/9106012021\/9106012021003.json",
+        "nama": "TPS 003, BABRINBO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011004",
+        "tps": "9106011004001",
+        "url": "91\/9106\/910601\/9106011004\/9106011004001.json",
+        "nama": "TPS 001, BUROKUP, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011004",
+        "tps": "9106011004002",
+        "url": "91\/9106\/910601\/9106011004\/9106011004002.json",
+        "nama": "TPS 002, BUROKUP, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011004",
+        "tps": "9106011004003",
+        "url": "91\/9106\/910601\/9106011004\/9106011004003.json",
+        "nama": "TPS 003, BUROKUP, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011004",
+        "tps": "9106011004004",
+        "url": "91\/9106\/910601\/9106011004\/9106011004004.json",
+        "nama": "TPS 004, BUROKUP, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011004",
+        "tps": "9106011004005",
+        "url": "91\/9106\/910601\/9106011004\/9106011004005.json",
+        "nama": "TPS 005, BUROKUP, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011004",
+        "tps": "9106011004006",
+        "url": "91\/9106\/910601\/9106011004\/9106011004006.json",
+        "nama": "TPS 006, BUROKUP, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011004",
+        "tps": "9106011004007",
+        "url": "91\/9106\/910601\/9106011004\/9106011004007.json",
+        "nama": "TPS 007, BUROKUP, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011004",
+        "tps": "9106011004008",
+        "url": "91\/9106\/910601\/9106011004\/9106011004008.json",
+        "nama": "TPS 008, BUROKUP, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005001",
+        "url": "91\/9106\/910601\/9106011005\/9106011005001.json",
+        "nama": "TPS 001, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005002",
+        "url": "91\/9106\/910601\/9106011005\/9106011005002.json",
+        "nama": "TPS 002, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005003",
+        "url": "91\/9106\/910601\/9106011005\/9106011005003.json",
+        "nama": "TPS 003, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005004",
+        "url": "91\/9106\/910601\/9106011005\/9106011005004.json",
+        "nama": "TPS 004, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005005",
+        "url": "91\/9106\/910601\/9106011005\/9106011005005.json",
+        "nama": "TPS 005, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005006",
+        "url": "91\/9106\/910601\/9106011005\/9106011005006.json",
+        "nama": "TPS 006, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005007",
+        "url": "91\/9106\/910601\/9106011005\/9106011005007.json",
+        "nama": "TPS 007, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005008",
+        "url": "91\/9106\/910601\/9106011005\/9106011005008.json",
+        "nama": "TPS 008, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005009",
+        "url": "91\/9106\/910601\/9106011005\/9106011005009.json",
+        "nama": "TPS 009, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005010",
+        "url": "91\/9106\/910601\/9106011005\/9106011005010.json",
+        "nama": "TPS 010, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005011",
+        "url": "91\/9106\/910601\/9106011005\/9106011005011.json",
+        "nama": "TPS 011, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005012",
+        "url": "91\/9106\/910601\/9106011005\/9106011005012.json",
+        "nama": "TPS 012, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011005",
+        "tps": "9106011005013",
+        "url": "91\/9106\/910601\/9106011005\/9106011005013.json",
+        "nama": "TPS 013, FANDOI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012010",
+        "tps": "9106012010001",
+        "url": "91\/9106\/910601\/9106012010\/9106012010001.json",
+        "nama": "TPS 001, INGGIRI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012010",
+        "tps": "9106012010002",
+        "url": "91\/9106\/910601\/9106012010\/9106012010002.json",
+        "nama": "TPS 002, INGGIRI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012010",
+        "tps": "9106012010003",
+        "url": "91\/9106\/910601\/9106012010\/9106012010003.json",
+        "nama": "TPS 003, INGGIRI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012010",
+        "tps": "9106012010004",
+        "url": "91\/9106\/910601\/9106012010\/9106012010004.json",
+        "nama": "TPS 004, INGGIRI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012010",
+        "tps": "9106012010005",
+        "url": "91\/9106\/910601\/9106012010\/9106012010005.json",
+        "nama": "TPS 005, INGGIRI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012022",
+        "tps": "9106012022001",
+        "url": "91\/9106\/910601\/9106012022\/9106012022001.json",
+        "nama": "TPS 001, INGGUPI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012022",
+        "tps": "9106012022002",
+        "url": "91\/9106\/910601\/9106012022\/9106012022002.json",
+        "nama": "TPS 002, INGGUPI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012022",
+        "tps": "9106012022003",
+        "url": "91\/9106\/910601\/9106012022\/9106012022003.json",
+        "nama": "TPS 003, INGGUPI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012013",
+        "tps": "9106012013001",
+        "url": "91\/9106\/910601\/9106012013\/9106012013001.json",
+        "nama": "TPS 001, INSROM, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012013",
+        "tps": "9106012013002",
+        "url": "91\/9106\/910601\/9106012013\/9106012013002.json",
+        "nama": "TPS 002, INSROM, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012013",
+        "tps": "9106012013003",
+        "url": "91\/9106\/910601\/9106012013\/9106012013003.json",
+        "nama": "TPS 003, INSROM, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012013",
+        "tps": "9106012013004",
+        "url": "91\/9106\/910601\/9106012013\/9106012013004.json",
+        "nama": "TPS 004, INSROM, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012013",
+        "tps": "9106012013005",
+        "url": "91\/9106\/910601\/9106012013\/9106012013005.json",
+        "nama": "TPS 005, INSROM, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012020",
+        "tps": "9106012020001",
+        "url": "91\/9106\/910601\/9106012020\/9106012020001.json",
+        "nama": "TPS 001, KABABUR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012020",
+        "tps": "9106012020002",
+        "url": "91\/9106\/910601\/9106012020\/9106012020002.json",
+        "nama": "TPS 002, KABABUR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012019",
+        "tps": "9106012019001",
+        "url": "91\/9106\/910601\/9106012019\/9106012019001.json",
+        "nama": "TPS 001, KARYENDI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012019",
+        "tps": "9106012019002",
+        "url": "91\/9106\/910601\/9106012019\/9106012019002.json",
+        "nama": "TPS 002, KARYENDI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012019",
+        "tps": "9106012019003",
+        "url": "91\/9106\/910601\/9106012019\/9106012019003.json",
+        "nama": "TPS 003, KARYENDI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006001",
+        "url": "91\/9106\/910601\/9106011006\/9106011006001.json",
+        "nama": "TPS 001, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006002",
+        "url": "91\/9106\/910601\/9106011006\/9106011006002.json",
+        "nama": "TPS 002, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006003",
+        "url": "91\/9106\/910601\/9106011006\/9106011006003.json",
+        "nama": "TPS 003, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006004",
+        "url": "91\/9106\/910601\/9106011006\/9106011006004.json",
+        "nama": "TPS 004, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006005",
+        "url": "91\/9106\/910601\/9106011006\/9106011006005.json",
+        "nama": "TPS 005, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006006",
+        "url": "91\/9106\/910601\/9106011006\/9106011006006.json",
+        "nama": "TPS 006, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006007",
+        "url": "91\/9106\/910601\/9106011006\/9106011006007.json",
+        "nama": "TPS 007, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006008",
+        "url": "91\/9106\/910601\/9106011006\/9106011006008.json",
+        "nama": "TPS 008, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006009",
+        "url": "91\/9106\/910601\/9106011006\/9106011006009.json",
+        "nama": "TPS 009, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006010",
+        "url": "91\/9106\/910601\/9106011006\/9106011006010.json",
+        "nama": "TPS 010, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006011",
+        "url": "91\/9106\/910601\/9106011006\/9106011006011.json",
+        "nama": "TPS 011, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006012",
+        "url": "91\/9106\/910601\/9106011006\/9106011006012.json",
+        "nama": "TPS 012, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006013",
+        "url": "91\/9106\/910601\/9106011006\/9106011006013.json",
+        "nama": "TPS 013, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006014",
+        "url": "91\/9106\/910601\/9106011006\/9106011006014.json",
+        "nama": "TPS 014, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011006",
+        "tps": "9106011006015",
+        "url": "91\/9106\/910601\/9106011006\/9106011006015.json",
+        "nama": "TPS 015, MANDALA, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012018",
+        "tps": "9106012018001",
+        "url": "91\/9106\/910601\/9106012018\/9106012018001.json",
+        "nama": "TPS 001, MANGGANDISAPI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012015",
+        "tps": "9106012015001",
+        "url": "91\/9106\/910601\/9106012015\/9106012015001.json",
+        "nama": "TPS 001, MANSWAM, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012015",
+        "tps": "9106012015002",
+        "url": "91\/9106\/910601\/9106012015\/9106012015002.json",
+        "nama": "TPS 002, MANSWAM, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012015",
+        "tps": "9106012015003",
+        "url": "91\/9106\/910601\/9106012015\/9106012015003.json",
+        "nama": "TPS 003, MANSWAM, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012007",
+        "tps": "9106012007001",
+        "url": "91\/9106\/910601\/9106012007\/9106012007001.json",
+        "nama": "TPS 001, MNUBABO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012007",
+        "tps": "9106012007002",
+        "url": "91\/9106\/910601\/9106012007\/9106012007002.json",
+        "nama": "TPS 002, MNUBABO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012007",
+        "tps": "9106012007003",
+        "url": "91\/9106\/910601\/9106012007\/9106012007003.json",
+        "nama": "TPS 003, MNUBABO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012009",
+        "tps": "9106012009001",
+        "url": "91\/9106\/910601\/9106012009\/9106012009001.json",
+        "nama": "TPS 001, MOKMER, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012009",
+        "tps": "9106012009002",
+        "url": "91\/9106\/910601\/9106012009\/9106012009002.json",
+        "nama": "TPS 002, MOKMER, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012009",
+        "tps": "9106012009003",
+        "url": "91\/9106\/910601\/9106012009\/9106012009003.json",
+        "nama": "TPS 003, MOKMER, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012011",
+        "tps": "9106012011001",
+        "url": "91\/9106\/910601\/9106012011\/9106012011001.json",
+        "nama": "TPS 001, PARAI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012011",
+        "tps": "9106012011002",
+        "url": "91\/9106\/910601\/9106012011\/9106012011002.json",
+        "nama": "TPS 002, PARAI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012012",
+        "tps": "9106012012001",
+        "url": "91\/9106\/910601\/9106012012\/9106012012001.json",
+        "nama": "TPS 001, SAMAU, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012012",
+        "tps": "9106012012002",
+        "url": "91\/9106\/910601\/9106012012\/9106012012002.json",
+        "nama": "TPS 002, SAMAU, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012017",
+        "tps": "9106012017001",
+        "url": "91\/9106\/910601\/9106012017\/9106012017001.json",
+        "nama": "TPS 001, SANUMI, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011003",
+        "tps": "9106011003001",
+        "url": "91\/9106\/910601\/9106011003\/9106011003001.json",
+        "nama": "TPS 001, SARAMON, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011003",
+        "tps": "9106011003002",
+        "url": "91\/9106\/910601\/9106011003\/9106011003002.json",
+        "nama": "TPS 002, SARAMON, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011003",
+        "tps": "9106011003003",
+        "url": "91\/9106\/910601\/9106011003\/9106011003003.json",
+        "nama": "TPS 003, SARAMON, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011003",
+        "tps": "9106011003004",
+        "url": "91\/9106\/910601\/9106011003\/9106011003004.json",
+        "nama": "TPS 004, SARAMON, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011003",
+        "tps": "9106011003005",
+        "url": "91\/9106\/910601\/9106011003\/9106011003005.json",
+        "nama": "TPS 005, SARAMON, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011003",
+        "tps": "9106011003006",
+        "url": "91\/9106\/910601\/9106011003\/9106011003006.json",
+        "nama": "TPS 006, SARAMON, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011003",
+        "tps": "9106011003007",
+        "url": "91\/9106\/910601\/9106011003\/9106011003007.json",
+        "nama": "TPS 007, SARAMON, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001001",
+        "url": "91\/9106\/910601\/9106011001\/9106011001001.json",
+        "nama": "TPS 001, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001002",
+        "url": "91\/9106\/910601\/9106011001\/9106011001002.json",
+        "nama": "TPS 002, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001003",
+        "url": "91\/9106\/910601\/9106011001\/9106011001003.json",
+        "nama": "TPS 003, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001004",
+        "url": "91\/9106\/910601\/9106011001\/9106011001004.json",
+        "nama": "TPS 004, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001005",
+        "url": "91\/9106\/910601\/9106011001\/9106011001005.json",
+        "nama": "TPS 005, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001006",
+        "url": "91\/9106\/910601\/9106011001\/9106011001006.json",
+        "nama": "TPS 006, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001007",
+        "url": "91\/9106\/910601\/9106011001\/9106011001007.json",
+        "nama": "TPS 007, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001008",
+        "url": "91\/9106\/910601\/9106011001\/9106011001008.json",
+        "nama": "TPS 008, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001009",
+        "url": "91\/9106\/910601\/9106011001\/9106011001009.json",
+        "nama": "TPS 009, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001010",
+        "url": "91\/9106\/910601\/9106011001\/9106011001010.json",
+        "nama": "TPS 010, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001011",
+        "url": "91\/9106\/910601\/9106011001\/9106011001011.json",
+        "nama": "TPS 011, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001012",
+        "url": "91\/9106\/910601\/9106011001\/9106011001012.json",
+        "nama": "TPS 012, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001013",
+        "url": "91\/9106\/910601\/9106011001\/9106011001013.json",
+        "nama": "TPS 013, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001014",
+        "url": "91\/9106\/910601\/9106011001\/9106011001014.json",
+        "nama": "TPS 014, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011001",
+        "tps": "9106011001015",
+        "url": "91\/9106\/910601\/9106011001\/9106011001015.json",
+        "nama": "TPS 015, SORIDO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012008",
+        "tps": "9106012008001",
+        "url": "91\/9106\/910601\/9106012008\/9106012008001.json",
+        "nama": "TPS 001, SWAPODIBO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012008",
+        "tps": "9106012008002",
+        "url": "91\/9106\/910601\/9106012008\/9106012008002.json",
+        "nama": "TPS 002, SWAPODIBO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106012008",
+        "tps": "9106012008003",
+        "url": "91\/9106\/910601\/9106012008\/9106012008003.json",
+        "nama": "TPS 003, SWAPODIBO, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002001",
+        "url": "91\/9106\/910601\/9106011002\/9106011002001.json",
+        "nama": "TPS 001, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002002",
+        "url": "91\/9106\/910601\/9106011002\/9106011002002.json",
+        "nama": "TPS 002, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002003",
+        "url": "91\/9106\/910601\/9106011002\/9106011002003.json",
+        "nama": "TPS 003, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002004",
+        "url": "91\/9106\/910601\/9106011002\/9106011002004.json",
+        "nama": "TPS 004, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002005",
+        "url": "91\/9106\/910601\/9106011002\/9106011002005.json",
+        "nama": "TPS 005, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002006",
+        "url": "91\/9106\/910601\/9106011002\/9106011002006.json",
+        "nama": "TPS 006, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002007",
+        "url": "91\/9106\/910601\/9106011002\/9106011002007.json",
+        "nama": "TPS 007, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002008",
+        "url": "91\/9106\/910601\/9106011002\/9106011002008.json",
+        "nama": "TPS 008, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002009",
+        "url": "91\/9106\/910601\/9106011002\/9106011002009.json",
+        "nama": "TPS 009, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002010",
+        "url": "91\/9106\/910601\/9106011002\/9106011002010.json",
+        "nama": "TPS 010, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011002",
+        "tps": "9106011002011",
+        "url": "91\/9106\/910601\/9106011002\/9106011002011.json",
+        "nama": "TPS 011, WAUPNOR, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011016",
+        "tps": "9106011016001",
+        "url": "91\/9106\/910601\/9106011016\/9106011016001.json",
+        "nama": "TPS 001, YENURES, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011016",
+        "tps": "9106011016002",
+        "url": "91\/9106\/910601\/9106011016\/9106011016002.json",
+        "nama": "TPS 002, YENURES, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011016",
+        "tps": "9106011016003",
+        "url": "91\/9106\/910601\/9106011016\/9106011016003.json",
+        "nama": "TPS 003, YENURES, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011016",
+        "tps": "9106011016004",
+        "url": "91\/9106\/910601\/9106011016\/9106011016004.json",
+        "nama": "TPS 004, YENURES, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910601",
+        "desa": "9106011016",
+        "tps": "9106011016005",
+        "url": "91\/9106\/910601\/9106011016\/9106011016005.json",
+        "nama": "TPS 005, YENURES, BIAK KOTA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032031",
+        "tps": "9106032031001",
+        "url": "91\/9106\/910603\/9106032031\/9106032031001.json",
+        "nama": "TPS 001, ADORBARI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032038",
+        "tps": "9106032038001",
+        "url": "91\/9106\/910603\/9106032038\/9106032038001.json",
+        "nama": "TPS 001, AFEFBO, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032014",
+        "tps": "9106032014001",
+        "url": "91\/9106\/910603\/9106032014\/9106032014001.json",
+        "nama": "TPS 001, BINDUSI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032014",
+        "tps": "9106032014002",
+        "url": "91\/9106\/910603\/9106032014\/9106032014002.json",
+        "nama": "TPS 002, BINDUSI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032032",
+        "tps": "9106032032001",
+        "url": "91\/9106\/910603\/9106032032\/9106032032001.json",
+        "nama": "TPS 001, BOSNIK SUP, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032039",
+        "tps": "9106032039001",
+        "url": "91\/9106\/910603\/9106032039\/9106032039001.json",
+        "nama": "TPS 001, INMDI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032033",
+        "tps": "9106032033001",
+        "url": "91\/9106\/910603\/9106032033\/9106032033001.json",
+        "nama": "TPS 001, INOFI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032028",
+        "tps": "9106032028001",
+        "url": "91\/9106\/910603\/9106032028\/9106032028001.json",
+        "nama": "TPS 001, INSUMARIRES, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032017",
+        "tps": "9106032017001",
+        "url": "91\/9106\/910603\/9106032017\/9106032017001.json",
+        "nama": "TPS 001, KAJASBO, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032005",
+        "tps": "9106032005001",
+        "url": "91\/9106\/910603\/9106032005\/9106032005001.json",
+        "nama": "TPS 001, KAJASI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032005",
+        "tps": "9106032005002",
+        "url": "91\/9106\/910603\/9106032005\/9106032005002.json",
+        "nama": "TPS 002, KAJASI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032022",
+        "tps": "9106032022001",
+        "url": "91\/9106\/910603\/9106032022\/9106032022001.json",
+        "nama": "TPS 001, MANDON, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032015",
+        "tps": "9106032015001",
+        "url": "91\/9106\/910603\/9106032015\/9106032015001.json",
+        "nama": "TPS 001, ORWER, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032003",
+        "tps": "9106032003001",
+        "url": "91\/9106\/910603\/9106032003\/9106032003001.json",
+        "nama": "TPS 001, OWI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032030",
+        "tps": "9106032030001",
+        "url": "91\/9106\/910603\/9106032030\/9106032030001.json",
+        "nama": "TPS 001, RIM, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032002",
+        "tps": "9106032002001",
+        "url": "91\/9106\/910603\/9106032002\/9106032002001.json",
+        "nama": "TPS 001, RIMBA JAYA, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032002",
+        "tps": "9106032002002",
+        "url": "91\/9106\/910603\/9106032002\/9106032002002.json",
+        "nama": "TPS 002, RIMBA JAYA, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032021",
+        "tps": "9106032021001",
+        "url": "91\/9106\/910603\/9106032021\/9106032021001.json",
+        "nama": "TPS 001, RUAR, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032013",
+        "tps": "9106032013001",
+        "url": "91\/9106\/910603\/9106032013\/9106032013001.json",
+        "nama": "TPS 001, SAREIDI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032011",
+        "tps": "9106032011001",
+        "url": "91\/9106\/910603\/9106032011\/9106032011001.json",
+        "nama": "TPS 001, SEPSE, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032012",
+        "tps": "9106032012001",
+        "url": "91\/9106\/910603\/9106032012\/9106032012001.json",
+        "nama": "TPS 001, SOON, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032023",
+        "tps": "9106032023001",
+        "url": "91\/9106\/910603\/9106032023\/9106032023001.json",
+        "nama": "TPS 001, SORYAR, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032010",
+        "tps": "9106032010001",
+        "url": "91\/9106\/910603\/9106032010\/9106032010001.json",
+        "nama": "TPS 001, SUNDE, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032037",
+        "tps": "9106032037001",
+        "url": "91\/9106\/910603\/9106032037\/9106032037001.json",
+        "nama": "TPS 001, WADERBO, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032035",
+        "tps": "9106032035001",
+        "url": "91\/9106\/910603\/9106032035\/9106032035001.json",
+        "nama": "TPS 001, WASORI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032004",
+        "tps": "9106032004001",
+        "url": "91\/9106\/910603\/9106032004\/9106032004001.json",
+        "nama": "TPS 001, WONIKI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032004",
+        "tps": "9106032004002",
+        "url": "91\/9106\/910603\/9106032004\/9106032004002.json",
+        "nama": "TPS 002, WONIKI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032034",
+        "tps": "9106032034001",
+        "url": "91\/9106\/910603\/9106032034\/9106032034001.json",
+        "nama": "TPS 001, YENBEROK, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032036",
+        "tps": "9106032036001",
+        "url": "91\/9106\/910603\/9106032036\/9106032036001.json",
+        "nama": "TPS 001, YENDAKEM, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032016",
+        "tps": "9106032016001",
+        "url": "91\/9106\/910603\/9106032016\/9106032016001.json",
+        "nama": "TPS 001, YENUSI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910603",
+        "desa": "9106032016",
+        "tps": "9106032016002",
+        "url": "91\/9106\/910603\/9106032016\/9106032016002.json",
+        "nama": "TPS 002, YENUSI, BIAK TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022002",
+        "tps": "9106022002001",
+        "url": "91\/9106\/910602\/9106022002\/9106022002001.json",
+        "nama": "TPS 001, ANDEI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022002",
+        "tps": "9106022002002",
+        "url": "91\/9106\/910602\/9106022002\/9106022002002.json",
+        "nama": "TPS 002, ANDEI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022012",
+        "tps": "9106022012001",
+        "url": "91\/9106\/910602\/9106022012\/9106022012001.json",
+        "nama": "TPS 001, DERNAFI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022012",
+        "tps": "9106022012002",
+        "url": "91\/9106\/910602\/9106022012\/9106022012002.json",
+        "nama": "TPS 002, DERNAFI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022020",
+        "tps": "9106022020001",
+        "url": "91\/9106\/910602\/9106022020\/9106022020001.json",
+        "nama": "TPS 001, DOFYO WAFOR, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022006",
+        "tps": "9106022006001",
+        "url": "91\/9106\/910602\/9106022006\/9106022006001.json",
+        "nama": "TPS 001, KOBEOSER, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022006",
+        "tps": "9106022006002",
+        "url": "91\/9106\/910602\/9106022006\/9106022006002.json",
+        "nama": "TPS 002, KOBEOSER, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022018",
+        "tps": "9106022018001",
+        "url": "91\/9106\/910602\/9106022018\/9106022018001.json",
+        "nama": "TPS 001, KOREM, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022018",
+        "tps": "9106022018002",
+        "url": "91\/9106\/910602\/9106022018\/9106022018002.json",
+        "nama": "TPS 002, KOREM, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022007",
+        "tps": "9106022007001",
+        "url": "91\/9106\/910602\/9106022007\/9106022007001.json",
+        "nama": "TPS 001, MAMBESAK, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022007",
+        "tps": "9106022007002",
+        "url": "91\/9106\/910602\/9106022007\/9106022007002.json",
+        "nama": "TPS 002, MAMBESAK, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022019",
+        "tps": "9106022019001",
+        "url": "91\/9106\/910602\/9106022019\/9106022019001.json",
+        "nama": "TPS 001, MNUSWOR, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022017",
+        "tps": "9106022017001",
+        "url": "91\/9106\/910602\/9106022017\/9106022017001.json",
+        "nama": "TPS 001, NERMNU, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022017",
+        "tps": "9106022017002",
+        "url": "91\/9106\/910602\/9106022017\/9106022017002.json",
+        "nama": "TPS 002, NERMNU, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022013",
+        "tps": "9106022013001",
+        "url": "91\/9106\/910602\/9106022013\/9106022013001.json",
+        "nama": "TPS 001, ROSAYENDI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022013",
+        "tps": "9106022013002",
+        "url": "91\/9106\/910602\/9106022013\/9106022013002.json",
+        "nama": "TPS 002, ROSAYENDI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022001",
+        "tps": "9106022001001",
+        "url": "91\/9106\/910602\/9106022001\/9106022001001.json",
+        "nama": "TPS 001, SARWOM, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022001",
+        "tps": "9106022001002",
+        "url": "91\/9106\/910602\/9106022001\/9106022001002.json",
+        "nama": "TPS 002, SARWOM, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022008",
+        "tps": "9106022008001",
+        "url": "91\/9106\/910602\/9106022008\/9106022008001.json",
+        "nama": "TPS 001, SAUKOBYE, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022008",
+        "tps": "9106022008002",
+        "url": "91\/9106\/910602\/9106022008\/9106022008002.json",
+        "nama": "TPS 002, SAUKOBYE, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022021",
+        "tps": "9106022021001",
+        "url": "91\/9106\/910602\/9106022021\/9106022021001.json",
+        "nama": "TPS 001, WARBON, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022022",
+        "tps": "9106022022001",
+        "url": "91\/9106\/910602\/9106022022\/9106022022001.json",
+        "nama": "TPS 001, WARI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022004",
+        "tps": "9106022004001",
+        "url": "91\/9106\/910602\/9106022004\/9106022004001.json",
+        "nama": "TPS 001, WAROMI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022016",
+        "tps": "9106022016001",
+        "url": "91\/9106\/910602\/9106022016\/9106022016001.json",
+        "nama": "TPS 001, WARSANSAN, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022016",
+        "tps": "9106022016002",
+        "url": "91\/9106\/910602\/9106022016\/9106022016002.json",
+        "nama": "TPS 002, WARSANSAN, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022010",
+        "tps": "9106022010001",
+        "url": "91\/9106\/910602\/9106022010\/9106022010001.json",
+        "nama": "TPS 001, YOBDI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910602",
+        "desa": "9106022010",
+        "tps": "9106022010002",
+        "url": "91\/9106\/910602\/9106022010\/9106022010002.json",
+        "nama": "TPS 002, YOBDI, BIAK UTARA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910621",
+        "desa": "9106212003",
+        "tps": "9106212003001",
+        "url": "91\/9106\/910621\/9106212003\/9106212003001.json",
+        "nama": "TPS 001, DOUBO, BONDIFUAR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910621",
+        "desa": "9106212005",
+        "tps": "9106212005001",
+        "url": "91\/9106\/910621\/9106212005\/9106212005001.json",
+        "nama": "TPS 001, SANSUNDI, BONDIFUAR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910621",
+        "desa": "9106212004",
+        "tps": "9106212004001",
+        "url": "91\/9106\/910621\/9106212004\/9106212004001.json",
+        "nama": "TPS 001, SYURDORI, BONDIFUAR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910621",
+        "desa": "9106212002",
+        "tps": "9106212002001",
+        "url": "91\/9106\/910621\/9106212002\/9106212002001.json",
+        "nama": "TPS 001, WANDOS, BONDIFUAR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910621",
+        "desa": "9106212001",
+        "tps": "9106212001001",
+        "url": "91\/9106\/910621\/9106212001\/9106212001001.json",
+        "nama": "TPS 001, WOPES, BONDIFUAR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162004",
+        "tps": "9106162004001",
+        "url": "91\/9106\/910616\/9106162004\/9106162004001.json",
+        "nama": "TPS 001, AMBERPAREM, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162009",
+        "tps": "9106162009001",
+        "url": "91\/9106\/910616\/9106162009\/9106162009001.json",
+        "nama": "TPS 001, ARIMI JAYA, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162002",
+        "tps": "9106162002001",
+        "url": "91\/9106\/910616\/9106162002\/9106162002001.json",
+        "nama": "TPS 001, BRUYADORI, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162003",
+        "tps": "9106162003001",
+        "url": "91\/9106\/910616\/9106162003\/9106162003001.json",
+        "nama": "TPS 001, DAFI, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162006",
+        "tps": "9106162006001",
+        "url": "91\/9106\/910616\/9106162006\/9106162006001.json",
+        "nama": "TPS 001, DUAI, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162008",
+        "tps": "9106162008001",
+        "url": "91\/9106\/910616\/9106162008\/9106162008001.json",
+        "nama": "TPS 001, KAMUMI, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162005",
+        "tps": "9106162005001",
+        "url": "91\/9106\/910616\/9106162005\/9106162005001.json",
+        "nama": "TPS 001, MANDORI, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162007",
+        "tps": "9106162007001",
+        "url": "91\/9106\/910616\/9106162007\/9106162007001.json",
+        "nama": "TPS 001, MANDORI SUP, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162001",
+        "tps": "9106162001001",
+        "url": "91\/9106\/910616\/9106162001\/9106162001001.json",
+        "nama": "TPS 001, SANDAU, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910616",
+        "desa": "9106162010",
+        "tps": "9106162010001",
+        "url": "91\/9106\/910616\/9106162010\/9106162010001.json",
+        "nama": "TPS 001, WARBUKOR, BRUYADORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042004",
+        "tps": "9106042004001",
+        "url": "91\/9106\/910604\/9106042004\/9106042004001.json",
+        "nama": "TPS 001, BARUKI, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042005",
+        "tps": "9106042005001",
+        "url": "91\/9106\/910604\/9106042005\/9106042005001.json",
+        "nama": "TPS 001, KAMERI, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042014",
+        "tps": "9106042014001",
+        "url": "91\/9106\/910604\/9106042014\/9106042014001.json",
+        "nama": "TPS 001, KANSAI, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042020",
+        "tps": "9106042020001",
+        "url": "91\/9106\/910604\/9106042020\/9106042020001.json",
+        "nama": "TPS 001, MAMBODO SAWAI, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042003",
+        "tps": "9106042003001",
+        "url": "91\/9106\/910604\/9106042003\/9106042003001.json",
+        "nama": "TPS 001, NAMBER, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042015",
+        "tps": "9106042015001",
+        "url": "91\/9106\/910604\/9106042015\/9106042015001.json",
+        "nama": "TPS 001, POMDORI, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042022",
+        "tps": "9106042022001",
+        "url": "91\/9106\/910604\/9106042022\/9106042022001.json",
+        "nama": "TPS 001, POMDORI SUP, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042021",
+        "tps": "9106042021001",
+        "url": "91\/9106\/910604\/9106042021\/9106042021001.json",
+        "nama": "TPS 001, RIMBARAYA, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042019",
+        "tps": "9106042019001",
+        "url": "91\/9106\/910604\/9106042019\/9106042019001.json",
+        "nama": "TPS 001, SEMAYEN, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042013",
+        "tps": "9106042013001",
+        "url": "91\/9106\/910604\/9106042013\/9106042013001.json",
+        "nama": "TPS 001, SERBIN, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042012",
+        "tps": "9106042012001",
+        "url": "91\/9106\/910604\/9106042012\/9106042012001.json",
+        "nama": "TPS 001, SUB MANGGUNSI, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910604",
+        "desa": "9106042008",
+        "tps": "9106042008001",
+        "url": "91\/9106\/910604\/9106042008\/9106042008001.json",
+        "nama": "TPS 001, WARIDO, NUMFOR BARAT, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910605",
+        "desa": "9106052020",
+        "tps": "9106052020001",
+        "url": "91\/9106\/910605\/9106052020\/9106052020001.json",
+        "nama": "TPS 001, ASAIBORI, NUMFOR TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910605",
+        "desa": "9106052015",
+        "tps": "9106052015001",
+        "url": "91\/9106\/910605\/9106052015\/9106052015001.json",
+        "nama": "TPS 001, ASARYENDI, NUMFOR TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910605",
+        "desa": "9106052019",
+        "tps": "9106052019001",
+        "url": "91\/9106\/910605\/9106052019\/9106052019001.json",
+        "nama": "TPS 001, BARKORI, NUMFOR TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910605",
+        "desa": "9106052018",
+        "tps": "9106052018001",
+        "url": "91\/9106\/910605\/9106052018\/9106052018001.json",
+        "nama": "TPS 001, INDAIBORI, NUMFOR TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910605",
+        "desa": "9106052011",
+        "tps": "9106052011001",
+        "url": "91\/9106\/910605\/9106052011\/9106052011001.json",
+        "nama": "TPS 001, KORNASOREN, NUMFOR TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910605",
+        "desa": "9106052017",
+        "tps": "9106052017001",
+        "url": "91\/9106\/910605\/9106052017\/9106052017001.json",
+        "nama": "TPS 001, PYEFURI, NUMFOR TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910605",
+        "desa": "9106052014",
+        "tps": "9106052014001",
+        "url": "91\/9106\/910605\/9106052014\/9106052014001.json",
+        "nama": "TPS 001, RARSIBO, NUMFOR TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910605",
+        "desa": "9106052006",
+        "tps": "9106052006001",
+        "url": "91\/9106\/910605\/9106052006\/9106052006001.json",
+        "nama": "TPS 001, YENBURWO, NUMFOR TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910605",
+        "desa": "9106052016",
+        "tps": "9106052016001",
+        "url": "91\/9106\/910605\/9106052016\/9106052016001.json",
+        "nama": "TPS 001, YENMANU, NUMFOR TIMUR, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202007",
+        "tps": "9106202007001",
+        "url": "91\/9106\/910620\/9106202007\/9106202007001.json",
+        "nama": "TPS 001, ANGGADUBER, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202007",
+        "tps": "9106202007002",
+        "url": "91\/9106\/910620\/9106202007\/9106202007002.json",
+        "nama": "TPS 002, ANGGADUBER, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202006",
+        "tps": "9106202006001",
+        "url": "91\/9106\/910620\/9106202006\/9106202006001.json",
+        "nama": "TPS 001, ANGGOPI, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202006",
+        "tps": "9106202006002",
+        "url": "91\/9106\/910620\/9106202006\/9106202006002.json",
+        "nama": "TPS 002, ANGGOPI, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202008",
+        "tps": "9106202008001",
+        "url": "91\/9106\/910620\/9106202008\/9106202008001.json",
+        "nama": "TPS 001, ANIMI, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202002",
+        "tps": "9106202002001",
+        "url": "91\/9106\/910620\/9106202002\/9106202002001.json",
+        "nama": "TPS 001, BAKRIBO, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202009",
+        "tps": "9106202009001",
+        "url": "91\/9106\/910620\/9106202009\/9106202009001.json",
+        "nama": "TPS 001, KAKUR, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202013",
+        "tps": "9106202013001",
+        "url": "91\/9106\/910620\/9106202013\/9106202013001.json",
+        "nama": "TPS 001, MAKMAKERBO, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202004",
+        "tps": "9106202004001",
+        "url": "91\/9106\/910620\/9106202004\/9106202004001.json",
+        "nama": "TPS 001, MARAUW, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202004",
+        "tps": "9106202004002",
+        "url": "91\/9106\/910620\/9106202004\/9106202004002.json",
+        "nama": "TPS 002, MARAUW, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202001",
+        "tps": "9106202001001",
+        "url": "91\/9106\/910620\/9106202001\/9106202001001.json",
+        "nama": "TPS 001, OPIAREF, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202001",
+        "tps": "9106202001002",
+        "url": "91\/9106\/910620\/9106202001\/9106202001002.json",
+        "nama": "TPS 002, OPIAREF, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202012",
+        "tps": "9106202012001",
+        "url": "91\/9106\/910620\/9106202012\/9106202012001.json",
+        "nama": "TPS 001, SAURI, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202003",
+        "tps": "9106202003001",
+        "url": "91\/9106\/910620\/9106202003\/9106202003001.json",
+        "nama": "TPS 001, SAWA, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202003",
+        "tps": "9106202003002",
+        "url": "91\/9106\/910620\/9106202003\/9106202003002.json",
+        "nama": "TPS 002, SAWA, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202011",
+        "tps": "9106202011001",
+        "url": "91\/9106\/910620\/9106202011\/9106202011001.json",
+        "nama": "TPS 001, SAWADORI, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202010",
+        "tps": "9106202010001",
+        "url": "91\/9106\/910620\/9106202010\/9106202010001.json",
+        "nama": "TPS 001, TANJUNG BARARI, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202010",
+        "tps": "9106202010002",
+        "url": "91\/9106\/910620\/9106202010\/9106202010002.json",
+        "nama": "TPS 002, TANJUNG BARARI, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202005",
+        "tps": "9106202005001",
+        "url": "91\/9106\/910620\/9106202005\/9106202005001.json",
+        "nama": "TPS 001, WADIBU, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202005",
+        "tps": "9106202005002",
+        "url": "91\/9106\/910620\/9106202005\/9106202005002.json",
+        "nama": "TPS 002, WADIBU, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910620",
+        "desa": "9106202014",
+        "tps": "9106202014001",
+        "url": "91\/9106\/910620\/9106202014\/9106202014001.json",
+        "nama": "TPS 001, YENSAMA, ORIDEK, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910617",
+        "desa": "9106172009",
+        "tps": "9106172009001",
+        "url": "91\/9106\/910617\/9106172009\/9106172009001.json",
+        "nama": "TPS 001, MANWOR INDAH, ORKERI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910617",
+        "desa": "9106172007",
+        "tps": "9106172007001",
+        "url": "91\/9106\/910617\/9106172007\/9106172007001.json",
+        "nama": "TPS 001, MASYARAH, ORKERI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910617",
+        "desa": "9106172006",
+        "tps": "9106172006001",
+        "url": "91\/9106\/910617\/9106172006\/9106172006001.json",
+        "nama": "TPS 001, PAKREKI, ORKERI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910617",
+        "desa": "9106172005",
+        "tps": "9106172005001",
+        "url": "91\/9106\/910617\/9106172005\/9106172005001.json",
+        "nama": "TPS 001, RAWAR, ORKERI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910617",
+        "desa": "9106172003",
+        "tps": "9106172003001",
+        "url": "91\/9106\/910617\/9106172003\/9106172003001.json",
+        "nama": "TPS 001, SARIBI, ORKERI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910617",
+        "desa": "9106172004",
+        "tps": "9106172004001",
+        "url": "91\/9106\/910617\/9106172004\/9106172004001.json",
+        "nama": "TPS 001, SUB MANDER, ORKERI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910617",
+        "desa": "9106172008",
+        "tps": "9106172008001",
+        "url": "91\/9106\/910617\/9106172008\/9106172008001.json",
+        "nama": "TPS 001, WANSRA, ORKERI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910617",
+        "desa": "9106172001",
+        "tps": "9106172001001",
+        "url": "91\/9106\/910617\/9106172001\/9106172001001.json",
+        "nama": "TPS 001, YENBEBA, ORKERI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910617",
+        "desa": "9106172002",
+        "tps": "9106172002001",
+        "url": "91\/9106\/910617\/9106172002\/9106172002001.json",
+        "nama": "TPS 001, YENBEPON, ORKERI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102002",
+        "tps": "9106102002001",
+        "url": "91\/9106\/910610\/9106102002\/9106102002001.json",
+        "nama": "TPS 001, AUKI, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102014",
+        "tps": "9106102014001",
+        "url": "91\/9106\/910610\/9106102014\/9106102014001.json",
+        "nama": "TPS 001, INBEYOMI, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102021",
+        "tps": "9106102021001",
+        "url": "91\/9106\/910610\/9106102021\/9106102021001.json",
+        "nama": "TPS 001, KANAI, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102005",
+        "tps": "9106102005001",
+        "url": "91\/9106\/910610\/9106102005\/9106102005001.json",
+        "nama": "TPS 001, NUSI, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102004",
+        "tps": "9106102004001",
+        "url": "91\/9106\/910610\/9106102004\/9106102004001.json",
+        "nama": "TPS 001, NUSI BABARUK, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102001",
+        "tps": "9106102001001",
+        "url": "91\/9106\/910610\/9106102001\/9106102001001.json",
+        "nama": "TPS 001, PAI, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102020",
+        "tps": "9106102020001",
+        "url": "91\/9106\/910610\/9106102020\/9106102020001.json",
+        "nama": "TPS 001, PAIDORI, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102016",
+        "tps": "9106102016001",
+        "url": "91\/9106\/910610\/9106102016\/9106102016001.json",
+        "nama": "TPS 001, SANDIDORI, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102022",
+        "tps": "9106102022001",
+        "url": "91\/9106\/910610\/9106102022\/9106102022001.json",
+        "nama": "TPS 001, SOKANI, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102015",
+        "tps": "9106102015001",
+        "url": "91\/9106\/910610\/9106102015\/9106102015001.json",
+        "nama": "TPS 001, SORINA, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910610",
+        "desa": "9106102003",
+        "tps": "9106102003001",
+        "url": "91\/9106\/910610\/9106102003\/9106102003001.json",
+        "nama": "TPS 001, WUNDI, PADAIDO, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910618",
+        "desa": "9106182001",
+        "tps": "9106182001001",
+        "url": "91\/9106\/910618\/9106182001\/9106182001001.json",
+        "nama": "TPS 001, ANDEI, POIRU, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910618",
+        "desa": "9106182007",
+        "tps": "9106182007001",
+        "url": "91\/9106\/910618\/9106182007\/9106182007001.json",
+        "nama": "TPS 001, ANDEI SUP, POIRU, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910618",
+        "desa": "9106182005",
+        "tps": "9106182005001",
+        "url": "91\/9106\/910618\/9106182005\/9106182005001.json",
+        "nama": "TPS 001, BAWEI, POIRU, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910618",
+        "desa": "9106182009",
+        "tps": "9106182009001",
+        "url": "91\/9106\/910618\/9106182009\/9106182009001.json",
+        "nama": "TPS 001, KORYAKAM, POIRU, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910618",
+        "desa": "9106182004",
+        "tps": "9106182004001",
+        "url": "91\/9106\/910618\/9106182004\/9106182004001.json",
+        "nama": "TPS 001, MANGGARI, POIRU, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910618",
+        "desa": "9106182006",
+        "tps": "9106182006001",
+        "url": "91\/9106\/910618\/9106182006\/9106182006001.json",
+        "nama": "TPS 001, SAURI, POIRU, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910618",
+        "desa": "9106182003",
+        "tps": "9106182003001",
+        "url": "91\/9106\/910618\/9106182003\/9106182003001.json",
+        "nama": "TPS 001, SAURIBRU, POIRU, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910618",
+        "desa": "9106182008",
+        "tps": "9106182008001",
+        "url": "91\/9106\/910618\/9106182008\/9106182008001.json",
+        "nama": "TPS 001, SURDORI, POIRU, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910618",
+        "desa": "9106182002",
+        "tps": "9106182002001",
+        "url": "91\/9106\/910618\/9106182002\/9106182002001.json",
+        "nama": "TPS 001, SYORIBO, POIRU, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122008",
+        "tps": "9106122008001",
+        "url": "91\/9106\/910612\/9106122008\/9106122008001.json",
+        "nama": "TPS 001, ADAINASNOSEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122008",
+        "tps": "9106122008002",
+        "url": "91\/9106\/910612\/9106122008\/9106122008002.json",
+        "nama": "TPS 002, ADAINASNOSEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121014",
+        "tps": "9106121014001",
+        "url": "91\/9106\/910612\/9106121014\/9106121014001.json",
+        "nama": "TPS 001, ANJAREUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121014",
+        "tps": "9106121014002",
+        "url": "91\/9106\/910612\/9106121014\/9106121014002.json",
+        "nama": "TPS 002, ANJAREUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121014",
+        "tps": "9106121014003",
+        "url": "91\/9106\/910612\/9106121014\/9106121014003.json",
+        "nama": "TPS 003, ANJAREUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121014",
+        "tps": "9106121014004",
+        "url": "91\/9106\/910612\/9106121014\/9106121014004.json",
+        "nama": "TPS 004, ANJAREUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121014",
+        "tps": "9106121014005",
+        "url": "91\/9106\/910612\/9106121014\/9106121014005.json",
+        "nama": "TPS 005, ANJAREUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121014",
+        "tps": "9106121014006",
+        "url": "91\/9106\/910612\/9106121014\/9106121014006.json",
+        "nama": "TPS 006, ANJAREUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122016",
+        "tps": "9106122016001",
+        "url": "91\/9106\/910612\/9106122016\/9106122016001.json",
+        "nama": "TPS 001, ANJAREUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122016",
+        "tps": "9106122016002",
+        "url": "91\/9106\/910612\/9106122016\/9106122016002.json",
+        "nama": "TPS 002, ANJAREUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002001",
+        "url": "91\/9106\/910612\/9106121002\/9106121002001.json",
+        "nama": "TPS 001, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002002",
+        "url": "91\/9106\/910612\/9106121002\/9106121002002.json",
+        "nama": "TPS 002, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002003",
+        "url": "91\/9106\/910612\/9106121002\/9106121002003.json",
+        "nama": "TPS 003, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002004",
+        "url": "91\/9106\/910612\/9106121002\/9106121002004.json",
+        "nama": "TPS 004, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002005",
+        "url": "91\/9106\/910612\/9106121002\/9106121002005.json",
+        "nama": "TPS 005, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002006",
+        "url": "91\/9106\/910612\/9106121002\/9106121002006.json",
+        "nama": "TPS 006, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002007",
+        "url": "91\/9106\/910612\/9106121002\/9106121002007.json",
+        "nama": "TPS 007, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002008",
+        "url": "91\/9106\/910612\/9106121002\/9106121002008.json",
+        "nama": "TPS 008, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002009",
+        "url": "91\/9106\/910612\/9106121002\/9106121002009.json",
+        "nama": "TPS 009, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002010",
+        "url": "91\/9106\/910612\/9106121002\/9106121002010.json",
+        "nama": "TPS 010, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002011",
+        "url": "91\/9106\/910612\/9106121002\/9106121002011.json",
+        "nama": "TPS 011, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002012",
+        "url": "91\/9106\/910612\/9106121002\/9106121002012.json",
+        "nama": "TPS 012, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002013",
+        "url": "91\/9106\/910612\/9106121002\/9106121002013.json",
+        "nama": "TPS 013, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002014",
+        "url": "91\/9106\/910612\/9106121002\/9106121002014.json",
+        "nama": "TPS 014, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002015",
+        "url": "91\/9106\/910612\/9106121002\/9106121002015.json",
+        "nama": "TPS 015, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121002",
+        "tps": "9106121002016",
+        "url": "91\/9106\/910612\/9106121002\/9106121002016.json",
+        "nama": "TPS 016, BRAMBAKEN, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122009",
+        "tps": "9106122009001",
+        "url": "91\/9106\/910612\/9106122009\/9106122009001.json",
+        "nama": "TPS 001, DARMOPIS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122009",
+        "tps": "9106122009002",
+        "url": "91\/9106\/910612\/9106122009\/9106122009002.json",
+        "nama": "TPS 002, DARMOPIS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122015",
+        "tps": "9106122015001",
+        "url": "91\/9106\/910612\/9106122015\/9106122015001.json",
+        "nama": "TPS 001, KAMORFUAR, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122015",
+        "tps": "9106122015002",
+        "url": "91\/9106\/910612\/9106122015\/9106122015002.json",
+        "nama": "TPS 002, KAMORFUAR, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121010",
+        "tps": "9106121010001",
+        "url": "91\/9106\/910612\/9106121010\/9106121010001.json",
+        "nama": "TPS 001, KARANG MULIA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121010",
+        "tps": "9106121010002",
+        "url": "91\/9106\/910612\/9106121010\/9106121010002.json",
+        "nama": "TPS 002, KARANG MULIA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121010",
+        "tps": "9106121010003",
+        "url": "91\/9106\/910612\/9106121010\/9106121010003.json",
+        "nama": "TPS 003, KARANG MULIA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121010",
+        "tps": "9106121010004",
+        "url": "91\/9106\/910612\/9106121010\/9106121010004.json",
+        "nama": "TPS 004, KARANG MULIA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121010",
+        "tps": "9106121010005",
+        "url": "91\/9106\/910612\/9106121010\/9106121010005.json",
+        "nama": "TPS 005, KARANG MULIA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121010",
+        "tps": "9106121010006",
+        "url": "91\/9106\/910612\/9106121010\/9106121010006.json",
+        "nama": "TPS 006, KARANG MULIA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121010",
+        "tps": "9106121010007",
+        "url": "91\/9106\/910612\/9106121010\/9106121010007.json",
+        "nama": "TPS 007, KARANG MULIA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121010",
+        "tps": "9106121010008",
+        "url": "91\/9106\/910612\/9106121010\/9106121010008.json",
+        "nama": "TPS 008, KARANG MULIA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121010",
+        "tps": "9106121010009",
+        "url": "91\/9106\/910612\/9106121010\/9106121010009.json",
+        "nama": "TPS 009, KARANG MULIA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122018",
+        "tps": "9106122018001",
+        "url": "91\/9106\/910612\/9106122018\/9106122018001.json",
+        "nama": "TPS 001, KINMOM, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122018",
+        "tps": "9106122018002",
+        "url": "91\/9106\/910612\/9106122018\/9106122018002.json",
+        "nama": "TPS 002, KINMOM, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122003",
+        "tps": "9106122003001",
+        "url": "91\/9106\/910612\/9106122003\/9106122003001.json",
+        "nama": "TPS 001, MANDOUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122003",
+        "tps": "9106122003002",
+        "url": "91\/9106\/910612\/9106122003\/9106122003002.json",
+        "nama": "TPS 002, MANDOUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122003",
+        "tps": "9106122003003",
+        "url": "91\/9106\/910612\/9106122003\/9106122003003.json",
+        "nama": "TPS 003, MANDOUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122003",
+        "tps": "9106122003004",
+        "url": "91\/9106\/910612\/9106122003\/9106122003004.json",
+        "nama": "TPS 004, MANDOUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122003",
+        "tps": "9106122003005",
+        "url": "91\/9106\/910612\/9106122003\/9106122003005.json",
+        "nama": "TPS 005, MANDOUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122003",
+        "tps": "9106122003006",
+        "url": "91\/9106\/910612\/9106122003\/9106122003006.json",
+        "nama": "TPS 006, MANDOUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122003",
+        "tps": "9106122003007",
+        "url": "91\/9106\/910612\/9106122003\/9106122003007.json",
+        "nama": "TPS 007, MANDOUW, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121012",
+        "tps": "9106121012001",
+        "url": "91\/9106\/910612\/9106121012\/9106121012001.json",
+        "nama": "TPS 001, MANSINYAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121012",
+        "tps": "9106121012002",
+        "url": "91\/9106\/910612\/9106121012\/9106121012002.json",
+        "nama": "TPS 002, MANSINYAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122006",
+        "tps": "9106122006001",
+        "url": "91\/9106\/910612\/9106122006\/9106122006001.json",
+        "nama": "TPS 001, MARYENDI, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122006",
+        "tps": "9106122006002",
+        "url": "91\/9106\/910612\/9106122006\/9106122006002.json",
+        "nama": "TPS 002, MARYENDI, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122007",
+        "tps": "9106122007001",
+        "url": "91\/9106\/910612\/9106122007\/9106122007001.json",
+        "nama": "TPS 001, SAMBAWOFUAR, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122007",
+        "tps": "9106122007002",
+        "url": "91\/9106\/910612\/9106122007\/9106122007002.json",
+        "nama": "TPS 002, SAMBAWOFUAR, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122007",
+        "tps": "9106122007003",
+        "url": "91\/9106\/910612\/9106122007\/9106122007003.json",
+        "nama": "TPS 003, SAMBAWOFUAR, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001001",
+        "url": "91\/9106\/910612\/9106121001\/9106121001001.json",
+        "nama": "TPS 001, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001002",
+        "url": "91\/9106\/910612\/9106121001\/9106121001002.json",
+        "nama": "TPS 002, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001003",
+        "url": "91\/9106\/910612\/9106121001\/9106121001003.json",
+        "nama": "TPS 003, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001004",
+        "url": "91\/9106\/910612\/9106121001\/9106121001004.json",
+        "nama": "TPS 004, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001005",
+        "url": "91\/9106\/910612\/9106121001\/9106121001005.json",
+        "nama": "TPS 005, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001006",
+        "url": "91\/9106\/910612\/9106121001\/9106121001006.json",
+        "nama": "TPS 006, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001007",
+        "url": "91\/9106\/910612\/9106121001\/9106121001007.json",
+        "nama": "TPS 007, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001008",
+        "url": "91\/9106\/910612\/9106121001\/9106121001008.json",
+        "nama": "TPS 008, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001009",
+        "url": "91\/9106\/910612\/9106121001\/9106121001009.json",
+        "nama": "TPS 009, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001010",
+        "url": "91\/9106\/910612\/9106121001\/9106121001010.json",
+        "nama": "TPS 010, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001011",
+        "url": "91\/9106\/910612\/9106121001\/9106121001011.json",
+        "nama": "TPS 011, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001012",
+        "url": "91\/9106\/910612\/9106121001\/9106121001012.json",
+        "nama": "TPS 012, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001013",
+        "url": "91\/9106\/910612\/9106121001\/9106121001013.json",
+        "nama": "TPS 013, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001014",
+        "url": "91\/9106\/910612\/9106121001\/9106121001014.json",
+        "nama": "TPS 014, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001015",
+        "url": "91\/9106\/910612\/9106121001\/9106121001015.json",
+        "nama": "TPS 015, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001016",
+        "url": "91\/9106\/910612\/9106121001\/9106121001016.json",
+        "nama": "TPS 016, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121001",
+        "tps": "9106121001901",
+        "url": "91\/9106\/910612\/9106121001\/9106121001901.json",
+        "nama": "TPS 901, SAMOFA, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121013",
+        "tps": "9106121013001",
+        "url": "91\/9106\/910612\/9106121013\/9106121013001.json",
+        "nama": "TPS 001, SNERBO, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121013",
+        "tps": "9106121013002",
+        "url": "91\/9106\/910612\/9106121013\/9106121013002.json",
+        "nama": "TPS 002, SNERBO, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121013",
+        "tps": "9106121013003",
+        "url": "91\/9106\/910612\/9106121013\/9106121013003.json",
+        "nama": "TPS 003, SNERBO, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121013",
+        "tps": "9106121013004",
+        "url": "91\/9106\/910612\/9106121013\/9106121013004.json",
+        "nama": "TPS 004, SNERBO, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121013",
+        "tps": "9106121013005",
+        "url": "91\/9106\/910612\/9106121013\/9106121013005.json",
+        "nama": "TPS 005, SNERBO, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121013",
+        "tps": "9106121013006",
+        "url": "91\/9106\/910612\/9106121013\/9106121013006.json",
+        "nama": "TPS 006, SNERBO, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122004",
+        "tps": "9106122004001",
+        "url": "91\/9106\/910612\/9106122004\/9106122004001.json",
+        "nama": "TPS 001, SUMBERKER, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122004",
+        "tps": "9106122004002",
+        "url": "91\/9106\/910612\/9106122004\/9106122004002.json",
+        "nama": "TPS 002, SUMBERKER, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122004",
+        "tps": "9106122004003",
+        "url": "91\/9106\/910612\/9106122004\/9106122004003.json",
+        "nama": "TPS 003, SUMBERKER, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122004",
+        "tps": "9106122004004",
+        "url": "91\/9106\/910612\/9106122004\/9106122004004.json",
+        "nama": "TPS 004, SUMBERKER, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122004",
+        "tps": "9106122004005",
+        "url": "91\/9106\/910612\/9106122004\/9106122004005.json",
+        "nama": "TPS 005, SUMBERKER, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106122017",
+        "tps": "9106122017001",
+        "url": "91\/9106\/910612\/9106122017\/9106122017001.json",
+        "nama": "TPS 001, WISATA BINSARI, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011001",
+        "url": "91\/9106\/910612\/9106121011\/9106121011001.json",
+        "nama": "TPS 001, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011002",
+        "url": "91\/9106\/910612\/9106121011\/9106121011002.json",
+        "nama": "TPS 002, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011003",
+        "url": "91\/9106\/910612\/9106121011\/9106121011003.json",
+        "nama": "TPS 003, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011004",
+        "url": "91\/9106\/910612\/9106121011\/9106121011004.json",
+        "nama": "TPS 004, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011005",
+        "url": "91\/9106\/910612\/9106121011\/9106121011005.json",
+        "nama": "TPS 005, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011006",
+        "url": "91\/9106\/910612\/9106121011\/9106121011006.json",
+        "nama": "TPS 006, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011007",
+        "url": "91\/9106\/910612\/9106121011\/9106121011007.json",
+        "nama": "TPS 007, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011008",
+        "url": "91\/9106\/910612\/9106121011\/9106121011008.json",
+        "nama": "TPS 008, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011009",
+        "url": "91\/9106\/910612\/9106121011\/9106121011009.json",
+        "nama": "TPS 009, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011010",
+        "url": "91\/9106\/910612\/9106121011\/9106121011010.json",
+        "nama": "TPS 010, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011011",
+        "url": "91\/9106\/910612\/9106121011\/9106121011011.json",
+        "nama": "TPS 011, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910612",
+        "desa": "9106121011",
+        "tps": "9106121011012",
+        "url": "91\/9106\/910612\/9106121011\/9106121011012.json",
+        "nama": "TPS 012, YAFDAS, SAMOFA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152014",
+        "tps": "9106152014001",
+        "url": "91\/9106\/910615\/9106152014\/9106152014001.json",
+        "nama": "TPS 001, ANDOINA, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152010",
+        "tps": "9106152010001",
+        "url": "91\/9106\/910615\/9106152010\/9106152010001.json",
+        "nama": "TPS 001, BUSDORI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152001",
+        "tps": "9106152001001",
+        "url": "91\/9106\/910615\/9106152001\/9106152001001.json",
+        "nama": "TPS 001, FARUSI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152001",
+        "tps": "9106152001002",
+        "url": "91\/9106\/910615\/9106152001\/9106152001002.json",
+        "nama": "TPS 002, FARUSI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152015",
+        "tps": "9106152015001",
+        "url": "91\/9106\/910615\/9106152015\/9106152015001.json",
+        "nama": "TPS 001, INSUSBARI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152002",
+        "tps": "9106152002001",
+        "url": "91\/9106\/910615\/9106152002\/9106152002001.json",
+        "nama": "TPS 001, MANDENDERI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152004",
+        "tps": "9106152004001",
+        "url": "91\/9106\/910615\/9106152004\/9106152004001.json",
+        "nama": "TPS 001, MARDORI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152008",
+        "tps": "9106152008001",
+        "url": "91\/9106\/910615\/9106152008\/9106152008001.json",
+        "nama": "TPS 001, NAPDORI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152008",
+        "tps": "9106152008002",
+        "url": "91\/9106\/910615\/9106152008\/9106152008002.json",
+        "nama": "TPS 002, NAPDORI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152012",
+        "tps": "9106152012001",
+        "url": "91\/9106\/910615\/9106152012\/9106152012001.json",
+        "nama": "TPS 001, ORKDORI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152009",
+        "tps": "9106152009001",
+        "url": "91\/9106\/910615\/9106152009\/9106152009001.json",
+        "nama": "TPS 001, RAMDORI, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152007",
+        "tps": "9106152007001",
+        "url": "91\/9106\/910615\/9106152007\/9106152007001.json",
+        "nama": "TPS 001, SARWA, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152013",
+        "tps": "9106152013001",
+        "url": "91\/9106\/910615\/9106152013\/9106152013001.json",
+        "nama": "TPS 001, SASWARBO, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152003",
+        "tps": "9106152003001",
+        "url": "91\/9106\/910615\/9106152003\/9106152003001.json",
+        "nama": "TPS 001, SWAINOBER, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152005",
+        "tps": "9106152005001",
+        "url": "91\/9106\/910615\/9106152005\/9106152005001.json",
+        "nama": "TPS 001, SWAIPAK, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152011",
+        "tps": "9106152011001",
+        "url": "91\/9106\/910615\/9106152011\/9106152011001.json",
+        "nama": "TPS 001, WOMBRISAU, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152011",
+        "tps": "9106152011002",
+        "url": "91\/9106\/910615\/9106152011\/9106152011002.json",
+        "nama": "TPS 002, WOMBRISAU, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910615",
+        "desa": "9106152006",
+        "tps": "9106152006001",
+        "url": "91\/9106\/910615\/9106152006\/9106152006001.json",
+        "nama": "TPS 001, YENBEPIOPER, SWANDIWE, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092006",
+        "tps": "9106092006001",
+        "url": "91\/9106\/910609\/9106092006\/9106092006001.json",
+        "nama": "TPS 001, AMAN, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092008",
+        "tps": "9106092008001",
+        "url": "91\/9106\/910609\/9106092008\/9106092008001.json",
+        "nama": "TPS 001, AMOI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092028",
+        "tps": "9106092028001",
+        "url": "91\/9106\/910609\/9106092028\/9106092028001.json",
+        "nama": "TPS 001, BIAWER, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092004",
+        "tps": "9106092004001",
+        "url": "91\/9106\/910609\/9106092004\/9106092004001.json",
+        "nama": "TPS 001, DIANO, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092024",
+        "tps": "9106092024001",
+        "url": "91\/9106\/910609\/9106092024\/9106092024001.json",
+        "nama": "TPS 001, IMBARI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092009",
+        "tps": "9106092009001",
+        "url": "91\/9106\/910609\/9106092009\/9106092009001.json",
+        "nama": "TPS 001, INSWAMBESI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092009",
+        "tps": "9106092009002",
+        "url": "91\/9106\/910609\/9106092009\/9106092009002.json",
+        "nama": "TPS 002, INSWAMBESI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092020",
+        "tps": "9106092020001",
+        "url": "91\/9106\/910609\/9106092020\/9106092020001.json",
+        "nama": "TPS 001, INSWAMBESI SUP, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092021",
+        "tps": "9106092021001",
+        "url": "91\/9106\/910609\/9106092021\/9106092021001.json",
+        "nama": "TPS 001, INYOBI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092017",
+        "tps": "9106092017001",
+        "url": "91\/9106\/910609\/9106092017\/9106092017001.json",
+        "nama": "TPS 001, KARUIBERIK, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092018",
+        "tps": "9106092018001",
+        "url": "91\/9106\/910609\/9106092018\/9106092018001.json",
+        "nama": "TPS 001, KOMBOI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092010",
+        "tps": "9106092010001",
+        "url": "91\/9106\/910609\/9106092010\/9106092010001.json",
+        "nama": "TPS 001, KOYOMI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092029",
+        "tps": "9106092029001",
+        "url": "91\/9106\/910609\/9106092029\/9106092029001.json",
+        "nama": "TPS 001, MAMFIAS, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092025",
+        "tps": "9106092025001",
+        "url": "91\/9106\/910609\/9106092025\/9106092025001.json",
+        "nama": "TPS 001, MANBEORI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092023",
+        "tps": "9106092023001",
+        "url": "91\/9106\/910609\/9106092023\/9106092023001.json",
+        "nama": "TPS 001, MANIRI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092003",
+        "tps": "9106092003001",
+        "url": "91\/9106\/910609\/9106092003\/9106092003001.json",
+        "nama": "TPS 001, MARUR, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092005",
+        "tps": "9106092005001",
+        "url": "91\/9106\/910609\/9106092005\/9106092005001.json",
+        "nama": "TPS 001, SAWAI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092005",
+        "tps": "9106092005002",
+        "url": "91\/9106\/910609\/9106092005\/9106092005002.json",
+        "nama": "TPS 002, SAWAI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092026",
+        "tps": "9106092026001",
+        "url": "91\/9106\/910609\/9106092026\/9106092026001.json",
+        "nama": "TPS 001, WARAWAF, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092011",
+        "tps": "9106092011001",
+        "url": "91\/9106\/910609\/9106092011\/9106092011001.json",
+        "nama": "TPS 001, WASANI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092027",
+        "tps": "9106092027001",
+        "url": "91\/9106\/910609\/9106092027\/9106092027001.json",
+        "nama": "TPS 001, WIR INSOS, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910609",
+        "desa": "9106092007",
+        "tps": "9106092007001",
+        "url": "91\/9106\/910609\/9106092007\/9106092007001.json",
+        "nama": "TPS 001, YERUBOI, WARSA, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910613",
+        "desa": "9106132001",
+        "tps": "9106132001001",
+        "url": "91\/9106\/910613\/9106132001\/9106132001001.json",
+        "nama": "TPS 001, ASUR, YAWOSI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910613",
+        "desa": "9106132002",
+        "tps": "9106132002001",
+        "url": "91\/9106\/910613\/9106132002\/9106132002001.json",
+        "nama": "TPS 001, BOSNABRAIDI, YAWOSI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910613",
+        "desa": "9106132006",
+        "tps": "9106132006001",
+        "url": "91\/9106\/910613\/9106132006\/9106132006001.json",
+        "nama": "TPS 001, FANINDI, YAWOSI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910613",
+        "desa": "9106132008",
+        "tps": "9106132008001",
+        "url": "91\/9106\/910613\/9106132008\/9106132008001.json",
+        "nama": "TPS 001, INDAWI, YAWOSI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910613",
+        "desa": "9106132005",
+        "tps": "9106132005001",
+        "url": "91\/9106\/910613\/9106132005\/9106132005001.json",
+        "nama": "TPS 001, KARMON, YAWOSI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910613",
+        "desa": "9106132007",
+        "tps": "9106132007001",
+        "url": "91\/9106\/910613\/9106132007\/9106132007001.json",
+        "nama": "TPS 001, MADIRAI, YAWOSI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910613",
+        "desa": "9106132004",
+        "tps": "9106132004001",
+        "url": "91\/9106\/910613\/9106132004\/9106132004001.json",
+        "nama": "TPS 001, SOOR, YAWOSI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910613",
+        "desa": "9106132004",
+        "tps": "9106132004002",
+        "url": "91\/9106\/910613\/9106132004\/9106132004002.json",
+        "nama": "TPS 002, SOOR, YAWOSI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910613",
+        "desa": "9106132003",
+        "tps": "9106132003001",
+        "url": "91\/9106\/910613\/9106132003\/9106132003001.json",
+        "nama": "TPS 001, WASORI, YAWOSI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112002",
+        "tps": "9106112002001",
+        "url": "91\/9106\/910611\/9106112002\/9106112002001.json",
+        "nama": "TPS 001, ADOKI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112002",
+        "tps": "9106112002002",
+        "url": "91\/9106\/910611\/9106112002\/9106112002002.json",
+        "nama": "TPS 002, ADOKI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112002",
+        "tps": "9106112002003",
+        "url": "91\/9106\/910611\/9106112002\/9106112002003.json",
+        "nama": "TPS 003, ADOKI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112016",
+        "tps": "9106112016001",
+        "url": "91\/9106\/910611\/9106112016\/9106112016001.json",
+        "nama": "TPS 001, AMYAMBENRAM, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112018",
+        "tps": "9106112018001",
+        "url": "91\/9106\/910611\/9106112018\/9106112018001.json",
+        "nama": "TPS 001, BINYERI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112017",
+        "tps": "9106112017001",
+        "url": "91\/9106\/910611\/9106112017\/9106112017001.json",
+        "nama": "TPS 001, BIRUBI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112015",
+        "tps": "9106112015001",
+        "url": "91\/9106\/910611\/9106112015\/9106112015001.json",
+        "nama": "TPS 001, INPENDI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112005",
+        "tps": "9106112005001",
+        "url": "91\/9106\/910611\/9106112005\/9106112005001.json",
+        "nama": "TPS 001, KABIDON, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112007",
+        "tps": "9106112007001",
+        "url": "91\/9106\/910611\/9106112007\/9106112007001.json",
+        "nama": "TPS 001, MOIBAKEN, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112007",
+        "tps": "9106112007002",
+        "url": "91\/9106\/910611\/9106112007\/9106112007002.json",
+        "nama": "TPS 002, MOIBAKEN, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112013",
+        "tps": "9106112013001",
+        "url": "91\/9106\/910611\/9106112013\/9106112013001.json",
+        "nama": "TPS 001, PADWA, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112019",
+        "tps": "9106112019001",
+        "url": "91\/9106\/910611\/9106112019\/9106112019001.json",
+        "nama": "TPS 001, PADWA PANTAI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112012",
+        "tps": "9106112012001",
+        "url": "91\/9106\/910611\/9106112012\/9106112012001.json",
+        "nama": "TPS 001, RARNPIMBO, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112004",
+        "tps": "9106112004001",
+        "url": "91\/9106\/910611\/9106112004\/9106112004001.json",
+        "nama": "TPS 001, SAMBER, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112004",
+        "tps": "9106112004002",
+        "url": "91\/9106\/910611\/9106112004\/9106112004002.json",
+        "nama": "TPS 002, SAMBER, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112004",
+        "tps": "9106112004003",
+        "url": "91\/9106\/910611\/9106112004\/9106112004003.json",
+        "nama": "TPS 003, SAMBER, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112010",
+        "tps": "9106112010001",
+        "url": "91\/9106\/910611\/9106112010\/9106112010001.json",
+        "nama": "TPS 001, SAMBER SUP, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112011",
+        "tps": "9106112011001",
+        "url": "91\/9106\/910611\/9106112011\/9106112011001.json",
+        "nama": "TPS 001, SUNERI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112011",
+        "tps": "9106112011002",
+        "url": "91\/9106\/910611\/9106112011\/9106112011002.json",
+        "nama": "TPS 002, SUNERI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112006",
+        "tps": "9106112006001",
+        "url": "91\/9106\/910611\/9106112006\/9106112006001.json",
+        "nama": "TPS 001, SUNYAR, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112009",
+        "tps": "9106112009001",
+        "url": "91\/9106\/910611\/9106112009\/9106112009001.json",
+        "nama": "TPS 001, SYABES, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112009",
+        "tps": "9106112009002",
+        "url": "91\/9106\/910611\/9106112009\/9106112009002.json",
+        "nama": "TPS 002, SYABES, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112003",
+        "tps": "9106112003001",
+        "url": "91\/9106\/910611\/9106112003\/9106112003001.json",
+        "nama": "TPS 001, URFU, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112003",
+        "tps": "9106112003002",
+        "url": "91\/9106\/910611\/9106112003\/9106112003002.json",
+        "nama": "TPS 002, URFU, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112014",
+        "tps": "9106112014001",
+        "url": "91\/9106\/910611\/9106112014\/9106112014001.json",
+        "nama": "TPS 001, WAROI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112014",
+        "tps": "9106112014002",
+        "url": "91\/9106\/910611\/9106112014\/9106112014002.json",
+        "nama": "TPS 002, WAROI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112008",
+        "tps": "9106112008001",
+        "url": "91\/9106\/910611\/9106112008\/9106112008001.json",
+        "nama": "TPS 001, WIRMAKER, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112001",
+        "tps": "9106112001001",
+        "url": "91\/9106\/910611\/9106112001\/9106112001001.json",
+        "nama": "TPS 001, YENDIDORI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112001",
+        "tps": "9106112001002",
+        "url": "91\/9106\/910611\/9106112001\/9106112001002.json",
+        "nama": "TPS 002, YENDIDORI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112001",
+        "tps": "9106112001003",
+        "url": "91\/9106\/910611\/9106112001\/9106112001003.json",
+        "nama": "TPS 003, YENDIDORI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112001",
+        "tps": "9106112001004",
+        "url": "91\/9106\/910611\/9106112001\/9106112001004.json",
+        "nama": "TPS 004, YENDIDORI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9106",
+        "kecamatan": "910611",
+        "desa": "9106112001",
+        "tps": "9106112001005",
+        "url": "91\/9106\/910611\/9106112001\/9106112001005.json",
+        "nama": "TPS 005, YENDIDORI, YENDIDORI, BIAK NUMFOR, P A P U A"
+    }
+]

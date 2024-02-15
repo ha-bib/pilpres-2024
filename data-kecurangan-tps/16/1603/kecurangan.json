@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "16",
+        "kabupaten": "1603",
+        "kecamatan": "160307",
+        "desa": "1603071001",
+        "tps": "1603071001005",
+        "nama": "TPS 005, TANJUNG ENIM, LAWANG KIDUL, MUARA ENIM, SUMATERA SELATAN",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1603\/160307\/1603071001\/1603071001005"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1603",
+        "kecamatan": "160307",
+        "desa": "1603071003",
+        "tps": "1603071003021",
+        "nama": "TPS 021, TANJUNG ENIM SELATAN, LAWANG KIDUL, MUARA ENIM, SUMATERA SELATAN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1603\/160307\/1603071003\/1603071003021"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1603",
+        "kecamatan": "160322",
+        "desa": "1603222001",
+        "tps": "1603222001001",
+        "nama": "TPS 001, GEDUNG BURUK, MUARA BELIDA, MUARA ENIM, SUMATERA SELATAN",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1603\/160322\/1603222001\/1603222001001"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1603",
+        "kecamatan": "160301",
+        "desa": "1603012014",
+        "tps": "1603012014002",
+        "nama": "TPS 002, LESUNG BATU, TANJUNG AGUNG, MUARA ENIM, SUMATERA SELATAN",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1603\/160301\/1603012014\/1603012014002"
+    }
+]

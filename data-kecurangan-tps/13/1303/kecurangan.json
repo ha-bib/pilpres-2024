@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "13",
+        "kabupaten": "1303",
+        "kecamatan": "130307",
+        "desa": "1303072001",
+        "tps": "1303072001006",
+        "nama": "TPS 006, LUBUAK TAROK, LUBUAK TAROK, SIJUNJUNG, SUMATERA BARAT",
+        "selisih": -30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1303\/130307\/1303072001\/1303072001006"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1303",
+        "kecamatan": "130304",
+        "desa": "1303042001",
+        "tps": "1303042001901",
+        "nama": "TPS 901, MUARO, SIJUNJUNG, SIJUNJUNG, SUMATERA BARAT",
+        "selisih": 30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1303\/130304\/1303042001\/1303042001901"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1303",
+        "kecamatan": "130303",
+        "desa": "1303032003",
+        "tps": "1303032003002",
+        "nama": "TPS 002, TARATAK BARU, TANJUNG GADANG, SIJUNJUNG, SUMATERA BARAT",
+        "selisih": 50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1303\/130303\/1303032003\/1303032003002"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1303",
+        "kecamatan": "130304",
+        "desa": "1303042001",
+        "tps": "1303042001035",
+        "nama": "TPS 035, MUARO, SIJUNJUNG, SIJUNJUNG, SUMATERA BARAT",
+        "selisih": -30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1303\/130304\/1303042001\/1303042001035"
+    }
+]

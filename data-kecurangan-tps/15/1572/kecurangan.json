@@ -1,0 +1,82 @@
+[
+    {
+        "provinsi": "15",
+        "kabupaten": "1572",
+        "kecamatan": "157203",
+        "desa": "1572032002",
+        "tps": "1572032002002",
+        "nama": "TPS 002, KOTO BERINGIN, HAMPARAN RAWANG, KOTA SUNGAI PENUH, JAMBI",
+        "selisih": 9,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1572\/157203\/1572032002\/1572032002002"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1572",
+        "kecamatan": "157203",
+        "desa": "1572032012",
+        "tps": "1572032012002",
+        "nama": "TPS 002, TANJUNG MUDA, HAMPARAN RAWANG, KOTA SUNGAI PENUH, JAMBI",
+        "selisih": -66,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1572\/157203\/1572032012\/1572032012002"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1572",
+        "kecamatan": "157207",
+        "desa": "1572072001",
+        "tps": "1572072001001",
+        "nama": "TPS 001, KOTO BARU, KOTO BARU, KOTA SUNGAI PENUH, JAMBI",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1572\/157207\/1572072001\/1572072001001"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1572",
+        "kecamatan": "157206",
+        "desa": "1572062005",
+        "tps": "1572062005004",
+        "nama": "TPS 004, LAWANG AGUNG, PONDOK TINGGI, KOTA SUNGAI PENUH, JAMBI",
+        "selisih": 1546,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1572\/157206\/1572062005\/1572062005004"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1572",
+        "kecamatan": "157201",
+        "desa": "1572011001",
+        "tps": "1572011001001",
+        "nama": "TPS 001, SUNGAI PENUH, SUNGAI PENUH, KOTA SUNGAI PENUH, JAMBI",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1572\/157201\/1572011001\/1572011001001"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1572",
+        "kecamatan": "157204",
+        "desa": "1572042004",
+        "tps": "1572042004003",
+        "nama": "TPS 003, KOTO DUMO, TANAH KAMPUNG, KOTA SUNGAI PENUH, JAMBI",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1572\/157204\/1572042004\/1572042004003"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1572",
+        "kecamatan": "157203",
+        "desa": "1572032013",
+        "tps": "1572032013001",
+        "nama": "TPS 001, CEMPAKA, HAMPARAN RAWANG, KOTA SUNGAI PENUH, JAMBI",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1572\/157203\/1572032013\/1572032013001"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1572",
+        "kecamatan": "157203",
+        "desa": "1572032013",
+        "tps": "1572032013001",
+        "nama": "TPS 001, CEMPAKA, HAMPARAN RAWANG, KOTA SUNGAI PENUH, JAMBI",
+        "selisih": -14,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1572\/157203\/1572032013\/1572032013001"
+    }
+]

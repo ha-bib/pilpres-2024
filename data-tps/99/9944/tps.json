@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9944",
+        "kecamatan": "994401",
+        "desa": "9944010001",
+        "tps": "9944010001003",
+        "url": "99\/9944\/994401\/9944010001\/9944010001003.json",
+        "nama": "KSK 001, Hanoi, Vietnam, Hanoi, Vietnam, Hanoi, Vietnam, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9944",
+        "kecamatan": "994401",
+        "desa": "9944010001",
+        "tps": "9944010001001",
+        "url": "99\/9944\/994401\/9944010001\/9944010001001.json",
+        "nama": "POS 001, Hanoi, Vietnam, Hanoi, Vietnam, Hanoi, Vietnam, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9944",
+        "kecamatan": "994401",
+        "desa": "9944010001",
+        "tps": "9944010001002",
+        "url": "99\/9944\/994401\/9944010001\/9944010001002.json",
+        "nama": "TPS 001, Hanoi, Vietnam, Hanoi, Vietnam, Hanoi, Vietnam, Luar Negeri"
+    }
+]

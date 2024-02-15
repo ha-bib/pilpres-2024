@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "53",
+        "kabupaten": "5318",
+        "kecamatan": "531801",
+        "desa": "5318012001",
+        "tps": "5318012001002",
+        "nama": "TPS 002, BONDO BOGHILA, LOURA, SUMBA BARAT DAYA, NUSA TENGGARA TIMUR",
+        "selisih": -3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5318\/531801\/5318012001\/5318012001002"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5318",
+        "kecamatan": "531801",
+        "desa": "5318012004",
+        "tps": "5318012004002",
+        "nama": "TPS 002, TOTOK, LOURA, SUMBA BARAT DAYA, NUSA TENGGARA TIMUR",
+        "selisih": 941,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5318\/531801\/5318012004\/5318012004002"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5318",
+        "kecamatan": "531803",
+        "desa": "5318032015",
+        "tps": "5318032015003",
+        "nama": "TPS 003, WEE LIMA, WEWEWA TIMUR, SUMBA BARAT DAYA, NUSA TENGGARA TIMUR",
+        "selisih": -40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5318\/531803\/5318032015\/5318032015003"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5318",
+        "kecamatan": "531804",
+        "desa": "5318042004",
+        "tps": "5318042004006",
+        "nama": "TPS 006, KABALI DANA, WEWEWA BARAT, SUMBA BARAT DAYA, NUSA TENGGARA TIMUR",
+        "selisih": -3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5318\/531804\/5318042004\/5318042004006"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5318",
+        "kecamatan": "531804",
+        "desa": "5318042004",
+        "tps": "5318042004006",
+        "nama": "TPS 006, KABALI DANA, WEWEWA BARAT, SUMBA BARAT DAYA, NUSA TENGGARA TIMUR",
+        "selisih": 941,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5318\/531804\/5318042004\/5318042004006"
+    }
+]

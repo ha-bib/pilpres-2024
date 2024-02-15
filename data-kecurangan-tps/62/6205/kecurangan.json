@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "62",
+        "kabupaten": "6205",
+        "kecamatan": "620505",
+        "desa": "6205051014",
+        "tps": "6205051014039",
+        "nama": "TPS 039, MELAYU, TEWEH TENGAH, BARITO UTARA, KALIMANTAN TENGAH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/62\/6205\/620505\/6205051014\/6205051014039"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6205",
+        "kecamatan": "620504",
+        "desa": "6205042004",
+        "tps": "6205042004001",
+        "nama": "TPS 001, BENANGIN III, TEWEH TIMUR, BARITO UTARA, KALIMANTAN TENGAH",
+        "selisih": -3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/62\/6205\/620504\/6205042004\/6205042004001"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6205",
+        "kecamatan": "620503",
+        "desa": "6205032010",
+        "tps": "6205032010001",
+        "nama": "TPS 001, BAOK, GUNUNG PUREI, BARITO UTARA, KALIMANTAN TENGAH",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/62\/6205\/620503\/6205032010\/6205032010001"
+    }
+]

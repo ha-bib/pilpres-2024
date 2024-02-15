@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "17",
+        "kabupaten": "1705",
+        "kecamatan": "170505",
+        "desa": "1705052007",
+        "tps": "1705052007002",
+        "nama": "TPS 002, UJUNG PADANG, SEMIDANG ALAS MARAS, SELUMA, BENGKULU",
+        "selisih": 173,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1705\/170505\/1705052007\/1705052007002"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1705",
+        "kecamatan": "170512",
+        "desa": "1705122006",
+        "tps": "1705122006003",
+        "nama": "TPS 003, BAKAL DALAM, TALO KECIL, SELUMA, BENGKULU",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1705\/170512\/1705122006\/1705122006003"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1705",
+        "kecamatan": "170501",
+        "desa": "1705012002",
+        "tps": "1705012002002",
+        "nama": "TPS 002, NIUR, SUKARAJA, SELUMA, BENGKULU",
+        "selisih": 173,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1705\/170501\/1705012002\/1705012002002"
+    }
+]

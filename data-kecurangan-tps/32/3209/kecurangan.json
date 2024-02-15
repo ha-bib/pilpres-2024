@@ -1,0 +1,512 @@
+[
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320910",
+        "desa": "3209102010",
+        "tps": "3209102010015",
+        "nama": "TPS 015, KANCI, ASTANAJAPURA, CIREBON, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320910\/3209102010\/3209102010015"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320910",
+        "desa": "3209102007",
+        "tps": "3209102007006",
+        "nama": "TPS 006, MERTAPADA WETAN, ASTANAJAPURA, CIREBON, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320910\/3209102007\/3209102007006"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320905",
+        "desa": "3209052007",
+        "tps": "3209052007012",
+        "nama": "TPS 012, BABAKAN, BABAKAN, CIREBON, JAWA BARAT",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320905\/3209052007\/3209052007012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320905",
+        "desa": "3209052002",
+        "tps": "3209052002002",
+        "nama": "TPS 002, SERANG WETAN, BABAKAN, CIREBON, JAWA BARAT",
+        "selisih": 50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320905\/3209052002\/3209052002002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320913",
+        "desa": "3209132004",
+        "tps": "3209132004008",
+        "nama": "TPS 008, CIAWIGAJAH, BEBER, CIREBON, JAWA BARAT",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320913\/3209132004\/3209132004008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320913",
+        "desa": "3209132012",
+        "tps": "3209132012005",
+        "nama": "TPS 005, PATAPAN, BEBER, CIREBON, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320913\/3209132012\/3209132012005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320902",
+        "desa": "3209022016",
+        "tps": "3209022016004",
+        "nama": "TPS 004, CILEDUG TENGAH, CILEDUG, CIREBON, JAWA BARAT",
+        "selisih": 96,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320902\/3209022016\/3209022016004"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320902",
+        "desa": "3209022010",
+        "tps": "3209022010009",
+        "nama": "TPS 009, DAMARGUNA, CILEDUG, CIREBON, JAWA BARAT",
+        "selisih": 566,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320902\/3209022010\/3209022010009"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320902",
+        "desa": "3209022012",
+        "tps": "3209022012002",
+        "nama": "TPS 002, JATISEENG KIDUL, CILEDUG, CIREBON, JAWA BARAT",
+        "selisih": 6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320902\/3209022012\/3209022012002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320931",
+        "desa": "3209312004",
+        "tps": "3209312004015",
+        "nama": "TPS 015, WARUGEDE, DEPOK, CIREBON, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320931\/3209312004\/3209312004015"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320916",
+        "desa": "3209162006",
+        "tps": "3209162006002",
+        "nama": "TPS 002, CANGKOAK, DUKUPUNTANG, CIREBON, JAWA BARAT",
+        "selisih": 308,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320916\/3209162006\/3209162006002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320916",
+        "desa": "3209162002",
+        "tps": "3209162002005",
+        "nama": "TPS 005, CIKALAHANG, DUKUPUNTANG, CIREBON, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320916\/3209162002\/3209162002005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320930",
+        "desa": "3209302009",
+        "tps": "3209302009003",
+        "nama": "TPS 003, GEBANG ILIR, GEBANG, CIREBON, JAWA BARAT",
+        "selisih": 798,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320930\/3209302009\/3209302009003"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320930",
+        "desa": "3209302009",
+        "tps": "3209302009005",
+        "nama": "TPS 005, GEBANG ILIR, GEBANG, CIREBON, JAWA BARAT",
+        "selisih": 800,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320930\/3209302009\/3209302009005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320930",
+        "desa": "3209302009",
+        "tps": "3209302009014",
+        "nama": "TPS 014, GEBANG ILIR, GEBANG, CIREBON, JAWA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320930\/3209302009\/3209302009014"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320928",
+        "desa": "3209282005",
+        "tps": "3209282005010",
+        "nama": "TPS 010, GEGESIK LOR, GEGESIK, CIREBON, JAWA BARAT",
+        "selisih": 350,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320928\/3209282005\/3209282005010"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320928",
+        "desa": "3209282005",
+        "tps": "3209282005012",
+        "nama": "TPS 012, GEGESIK LOR, GEGESIK, CIREBON, JAWA BARAT",
+        "selisih": 54,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320928\/3209282005\/3209282005012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320928",
+        "desa": "3209282001",
+        "tps": "3209282001004",
+        "nama": "TPS 004, KEDUNGDALEM, GEGESIK, CIREBON, JAWA BARAT",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320928\/3209282001\/3209282001004"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320937",
+        "desa": "3209372003",
+        "tps": "3209372003016",
+        "nama": "TPS 016, KEDUNGBUNDER, GEMPOL, CIREBON, JAWA BARAT",
+        "selisih": 80,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320937\/3209372003\/3209372003016"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320937",
+        "desa": "3209372003",
+        "tps": "3209372003020",
+        "nama": "TPS 020, KEDUNGBUNDER, GEMPOL, CIREBON, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320937\/3209372003\/3209372003020"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320937",
+        "desa": "3209372008",
+        "tps": "3209372008014",
+        "nama": "TPS 014, WINONG, GEMPOL, CIREBON, JAWA BARAT",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320937\/3209372008\/3209372008014"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320938",
+        "desa": "3209382002",
+        "tps": "3209382002014",
+        "nama": "TPS 014, LEBAK MEKAR, GREGED, CIREBON, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320938\/3209382002\/3209382002014"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320938",
+        "desa": "3209382009",
+        "tps": "3209382009009",
+        "nama": "TPS 009, SINDANG KEMPENG, GREGED, CIREBON, JAWA BARAT",
+        "selisih": 30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320938\/3209382009\/3209382009009"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320921",
+        "desa": "3209212009",
+        "tps": "3209212009011",
+        "nama": "TPS 011, GROGOL, GUNUNG JATI, CIREBON, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320921\/3209212009\/3209212009011"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320921",
+        "desa": "3209212003",
+        "tps": "3209212003002",
+        "nama": "TPS 002, JADIMULYA, GUNUNG JATI, CIREBON, JAWA BARAT",
+        "selisih": -214,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320921\/3209212003\/3209212003002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320921",
+        "desa": "3209212003",
+        "tps": "3209212003021",
+        "nama": "TPS 021, JADIMULYA, GUNUNG JATI, CIREBON, JAWA BARAT",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320921\/3209212003\/3209212003021"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320934",
+        "desa": "3209342006",
+        "tps": "3209342006002",
+        "nama": "TPS 002, KARANGANYAR, KARANGWARENG, CIREBON, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320934\/3209342006\/3209342006002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320934",
+        "desa": "3209342007",
+        "tps": "3209342007008",
+        "nama": "TPS 008, KARANGWANGI, KARANGWARENG, CIREBON, JAWA BARAT",
+        "selisih": 35,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320934\/3209342007\/3209342007008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320920",
+        "desa": "3209202009",
+        "tps": "3209202009006",
+        "nama": "TPS 006, KERTAWINANGUN, KEDAWUNG, CIREBON, JAWA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320920\/3209202009\/3209202009006"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320920",
+        "desa": "3209202011",
+        "tps": "3209202011013",
+        "nama": "TPS 013, PILANGSARI, KEDAWUNG, CIREBON, JAWA BARAT",
+        "selisih": 27,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320920\/3209202011\/3209202011013"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320920",
+        "desa": "3209202010",
+        "tps": "3209202010002",
+        "nama": "TPS 002, SUTAWINANGUN, KEDAWUNG, CIREBON, JAWA BARAT",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320920\/3209202010\/3209202010002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320907",
+        "desa": "3209072005",
+        "tps": "3209072005003",
+        "nama": "TPS 003, SINDANGLAUT, LEMAHABANG, CIREBON, JAWA BARAT",
+        "selisih": 41,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320907\/3209072005\/3209072005003"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320903",
+        "desa": "3209032009",
+        "tps": "3209032009014",
+        "nama": "TPS 014, AMBULU, LOSARI, CIREBON, JAWA BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320903\/3209032009\/3209032009014"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320903",
+        "desa": "3209032007",
+        "tps": "3209032007014",
+        "nama": "TPS 014, KALIRAHAYU, LOSARI, CIREBON, JAWA BARAT",
+        "selisih": 365,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320903\/3209032007\/3209032007014"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320903",
+        "desa": "3209032007",
+        "tps": "3209032007021",
+        "nama": "TPS 021, KALIRAHAYU, LOSARI, CIREBON, JAWA BARAT",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320903\/3209032007\/3209032007021"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320903",
+        "desa": "3209032006",
+        "tps": "3209032006003",
+        "nama": "TPS 003, MULYASARI, LOSARI, CIREBON, JAWA BARAT",
+        "selisih": 400,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320903\/3209032006\/3209032006003"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320903",
+        "desa": "3209032004",
+        "tps": "3209032004016",
+        "nama": "TPS 016, PANGGANGSARI, LOSARI, CIREBON, JAWA BARAT",
+        "selisih": 200,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320903\/3209032004\/3209032004016"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320912",
+        "desa": "3209122010",
+        "tps": "3209122010020",
+        "nama": "TPS 020, BANJARWANGUNAN, MUNDU, CIREBON, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320912\/3209122010\/3209122010020"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320912",
+        "desa": "3209122002",
+        "tps": "3209122002019",
+        "nama": "TPS 019, PENPEN, MUNDU, CIREBON, JAWA BARAT",
+        "selisih": 80,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320912\/3209122002\/3209122002019"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320904",
+        "desa": "3209042005",
+        "tps": "3209042005007",
+        "nama": "TPS 007, SILIHASIH, PABEDILAN, CIREBON, JAWA BARAT",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320904\/3209042005\/3209042005007"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320936",
+        "desa": "3209362009",
+        "tps": "3209362009002",
+        "nama": "TPS 002, CANGKRING, PLERED, CIREBON, JAWA BARAT",
+        "selisih": 800,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320936\/3209362009\/3209362009002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320936",
+        "desa": "3209362005",
+        "tps": "3209362005002",
+        "nama": "TPS 002, TRUSMI KULON, PLERED, CIREBON, JAWA BARAT",
+        "selisih": -41,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320936\/3209362005\/3209362005002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320918",
+        "desa": "3209182012",
+        "tps": "3209182012008",
+        "nama": "TPS 008, KEBAREPAN, PLUMBON, CIREBON, JAWA BARAT",
+        "selisih": 206,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320918\/3209182012\/3209182012008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320918",
+        "desa": "3209182004",
+        "tps": "3209182004023",
+        "nama": "TPS 023, MARIKANGEN, PLUMBON, CIREBON, JAWA BARAT",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320918\/3209182004\/3209182004023"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320909",
+        "desa": "3209092006",
+        "tps": "3209092006008",
+        "nama": "TPS 008, KERTAWANGUN, SEDONG, CIREBON, JAWA BARAT",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320909\/3209092006\/3209092006008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320909",
+        "desa": "3209092002",
+        "tps": "3209092002007",
+        "nama": "TPS 007, SEDONG KIDUL, SEDONG, CIREBON, JAWA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320909\/3209092002\/3209092002007"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320939",
+        "desa": "3209392007",
+        "tps": "3209392007007",
+        "nama": "TPS 007, KARANGREJA, SURANENGGALA, CIREBON, JAWA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320939\/3209392007\/3209392007007"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320939",
+        "desa": "3209392003",
+        "tps": "3209392003009",
+        "nama": "TPS 009, MUARA, SURANENGGALA, CIREBON, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320939\/3209392003\/3209392003009"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320939",
+        "desa": "3209392009",
+        "tps": "3209392009002",
+        "nama": "TPS 002, SURANENGGALA KULON, SURANENGGALA, CIREBON, JAWA BARAT",
+        "selisih": 551,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320939\/3209392009\/3209392009002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320939",
+        "desa": "3209392009",
+        "tps": "3209392009011",
+        "nama": "TPS 011, SURANENGGALA KULON, SURANENGGALA, CIREBON, JAWA BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320939\/3209392009\/3209392009011"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3209",
+        "kecamatan": "320914",
+        "desa": "3209142003",
+        "tps": "3209142003014",
+        "nama": "TPS 014, KECOMBERAN, TALUN, CIREBON, JAWA BARAT",
+        "selisih": 680,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3209\/320914\/3209142003\/3209142003014"
+    }
+]

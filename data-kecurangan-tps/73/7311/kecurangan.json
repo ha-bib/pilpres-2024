@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "73",
+        "kabupaten": "7311",
+        "kecamatan": "731107",
+        "desa": "7311072003",
+        "tps": "7311072003006",
+        "nama": "TPS 006, LAMPOKO, BALUSU, BARRU, SULAWESI SELATAN",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7311\/731107\/7311072003\/7311072003006"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7311",
+        "kecamatan": "731107",
+        "desa": "7311072005",
+        "tps": "7311072005013",
+        "nama": "TPS 013, MADELLO, BALUSU, BARRU, SULAWESI SELATAN",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7311\/731107\/7311072005\/7311072005013"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7311",
+        "kecamatan": "731102",
+        "desa": "7311022003",
+        "tps": "7311022003003",
+        "nama": "TPS 003, PANCANA, TANETE RILAU, BARRU, SULAWESI SELATAN",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7311\/731102\/7311022003\/7311022003003"
+    }
+]

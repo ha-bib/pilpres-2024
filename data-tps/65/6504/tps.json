@@ -1,0 +1,758 @@
+[
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042002",
+        "tps": "6504042002001",
+        "url": "65\/6504\/650404\/6504042002\/6504042002001.json",
+        "nama": "TPS 001, BEBAKUNG, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042002",
+        "tps": "6504042002002",
+        "url": "65\/6504\/650404\/6504042002\/6504042002002.json",
+        "nama": "TPS 002, BEBAKUNG, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042001",
+        "tps": "6504042001001",
+        "url": "65\/6504\/650404\/6504042001\/6504042001001.json",
+        "nama": "TPS 001, BUONG BARU, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042001",
+        "tps": "6504042001002",
+        "url": "65\/6504\/650404\/6504042001\/6504042001002.json",
+        "nama": "TPS 002, BUONG BARU, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042001",
+        "tps": "6504042001003",
+        "url": "65\/6504\/650404\/6504042001\/6504042001003.json",
+        "nama": "TPS 003, BUONG BARU, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042003",
+        "tps": "6504042003001",
+        "url": "65\/6504\/650404\/6504042003\/6504042003001.json",
+        "nama": "TPS 001, KUJAU, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042003",
+        "tps": "6504042003002",
+        "url": "65\/6504\/650404\/6504042003\/6504042003002.json",
+        "nama": "TPS 002, KUJAU, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042005",
+        "tps": "6504042005001",
+        "url": "65\/6504\/650404\/6504042005\/6504042005001.json",
+        "nama": "TPS 001, MANING, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042005",
+        "tps": "6504042005002",
+        "url": "65\/6504\/650404\/6504042005\/6504042005002.json",
+        "nama": "TPS 002, MANING, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042004",
+        "tps": "6504042004001",
+        "url": "65\/6504\/650404\/6504042004\/6504042004001.json",
+        "nama": "TPS 001, MENDUPO, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650404",
+        "desa": "6504042006",
+        "tps": "6504042006001",
+        "url": "65\/6504\/650404\/6504042006\/6504042006001.json",
+        "nama": "TPS 001, PERIUK, BETAYAU, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650405",
+        "desa": "6504052003",
+        "tps": "6504052003001",
+        "url": "65\/6504\/650405\/6504052003\/6504052003001.json",
+        "nama": "TPS 001, BALAYAN ARI, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650405",
+        "desa": "6504052005",
+        "tps": "6504052005001",
+        "url": "65\/6504\/650405\/6504052005\/6504052005001.json",
+        "nama": "TPS 001, KAPUAK, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650405",
+        "desa": "6504052002",
+        "tps": "6504052002001",
+        "url": "65\/6504\/650405\/6504052002\/6504052002001.json",
+        "nama": "TPS 001, RIAN, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650405",
+        "desa": "6504052004",
+        "tps": "6504052004001",
+        "url": "65\/6504\/650405\/6504052004\/6504052004001.json",
+        "nama": "TPS 001, RIAN RAYO, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650405",
+        "desa": "6504052006",
+        "tps": "6504052006001",
+        "url": "65\/6504\/650405\/6504052006\/6504052006001.json",
+        "nama": "TPS 001, SAPARI, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650405",
+        "desa": "6504052001",
+        "tps": "6504052001001",
+        "url": "65\/6504\/650405\/6504052001\/6504052001001.json",
+        "nama": "TPS 001, SEPUTUK, MURUK RIAN, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012006",
+        "tps": "6504012006001",
+        "url": "65\/6504\/650401\/6504012006\/6504012006001.json",
+        "nama": "TPS 001, GUNAWAN, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012002",
+        "tps": "6504012002001",
+        "url": "65\/6504\/650401\/6504012002\/6504012002001.json",
+        "nama": "TPS 001, LIMBU SEDULUN, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012002",
+        "tps": "6504012002002",
+        "url": "65\/6504\/650401\/6504012002\/6504012002002.json",
+        "nama": "TPS 002, LIMBU SEDULUN, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012007",
+        "tps": "6504012007001",
+        "url": "65\/6504\/650401\/6504012007\/6504012007001.json",
+        "nama": "TPS 001, SEBAWANG, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012003",
+        "tps": "6504012003001",
+        "url": "65\/6504\/650401\/6504012003\/6504012003001.json",
+        "nama": "TPS 001, SEBIDAI, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012003",
+        "tps": "6504012003002",
+        "url": "65\/6504\/650401\/6504012003\/6504012003002.json",
+        "nama": "TPS 002, SEBIDAI, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012003",
+        "tps": "6504012003003",
+        "url": "65\/6504\/650401\/6504012003\/6504012003003.json",
+        "nama": "TPS 003, SEBIDAI, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012004",
+        "tps": "6504012004001",
+        "url": "65\/6504\/650401\/6504012004\/6504012004001.json",
+        "nama": "TPS 001, SEDULUN, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012004",
+        "tps": "6504012004002",
+        "url": "65\/6504\/650401\/6504012004\/6504012004002.json",
+        "nama": "TPS 002, SEDULUN, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001001",
+        "url": "65\/6504\/650401\/6504012001\/6504012001001.json",
+        "nama": "TPS 001, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001002",
+        "url": "65\/6504\/650401\/6504012001\/6504012001002.json",
+        "nama": "TPS 002, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001003",
+        "url": "65\/6504\/650401\/6504012001\/6504012001003.json",
+        "nama": "TPS 003, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001004",
+        "url": "65\/6504\/650401\/6504012001\/6504012001004.json",
+        "nama": "TPS 004, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001005",
+        "url": "65\/6504\/650401\/6504012001\/6504012001005.json",
+        "nama": "TPS 005, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001006",
+        "url": "65\/6504\/650401\/6504012001\/6504012001006.json",
+        "nama": "TPS 006, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001007",
+        "url": "65\/6504\/650401\/6504012001\/6504012001007.json",
+        "nama": "TPS 007, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001008",
+        "url": "65\/6504\/650401\/6504012001\/6504012001008.json",
+        "nama": "TPS 008, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001009",
+        "url": "65\/6504\/650401\/6504012001\/6504012001009.json",
+        "nama": "TPS 009, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001010",
+        "url": "65\/6504\/650401\/6504012001\/6504012001010.json",
+        "nama": "TPS 010, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001011",
+        "url": "65\/6504\/650401\/6504012001\/6504012001011.json",
+        "nama": "TPS 011, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001012",
+        "url": "65\/6504\/650401\/6504012001\/6504012001012.json",
+        "nama": "TPS 012, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001013",
+        "url": "65\/6504\/650401\/6504012001\/6504012001013.json",
+        "nama": "TPS 013, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012001",
+        "tps": "6504012001014",
+        "url": "65\/6504\/650401\/6504012001\/6504012001014.json",
+        "nama": "TPS 014, TIDENG PALE, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012005",
+        "tps": "6504012005001",
+        "url": "65\/6504\/650401\/6504012005\/6504012005001.json",
+        "nama": "TPS 001, TIDENG PALE TIMUR, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012005",
+        "tps": "6504012005002",
+        "url": "65\/6504\/650401\/6504012005\/6504012005002.json",
+        "nama": "TPS 002, TIDENG PALE TIMUR, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012005",
+        "tps": "6504012005003",
+        "url": "65\/6504\/650401\/6504012005\/6504012005003.json",
+        "nama": "TPS 003, TIDENG PALE TIMUR, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012005",
+        "tps": "6504012005004",
+        "url": "65\/6504\/650401\/6504012005\/6504012005004.json",
+        "nama": "TPS 004, TIDENG PALE TIMUR, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012005",
+        "tps": "6504012005005",
+        "url": "65\/6504\/650401\/6504012005\/6504012005005.json",
+        "nama": "TPS 005, TIDENG PALE TIMUR, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012005",
+        "tps": "6504012005006",
+        "url": "65\/6504\/650401\/6504012005\/6504012005006.json",
+        "nama": "TPS 006, TIDENG PALE TIMUR, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650401",
+        "desa": "6504012005",
+        "tps": "6504012005007",
+        "url": "65\/6504\/650401\/6504012005\/6504012005007.json",
+        "nama": "TPS 007, TIDENG PALE TIMUR, SESAYAP, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022004",
+        "tps": "6504022004001",
+        "url": "65\/6504\/650402\/6504022004\/6504022004001.json",
+        "nama": "TPS 001, BANDAN BIKIS, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022004",
+        "tps": "6504022004002",
+        "url": "65\/6504\/650402\/6504022004\/6504022004002.json",
+        "nama": "TPS 002, BANDAN BIKIS, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022003",
+        "tps": "6504022003001",
+        "url": "65\/6504\/650402\/6504022003\/6504022003001.json",
+        "nama": "TPS 001, BEBATU, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022003",
+        "tps": "6504022003002",
+        "url": "65\/6504\/650402\/6504022003\/6504022003002.json",
+        "nama": "TPS 002, BEBATU, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022007",
+        "tps": "6504022007001",
+        "url": "65\/6504\/650402\/6504022007\/6504022007001.json",
+        "nama": "TPS 001, MENJELUTUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022007",
+        "tps": "6504022007002",
+        "url": "65\/6504\/650402\/6504022007\/6504022007002.json",
+        "nama": "TPS 002, MENJELUTUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022007",
+        "tps": "6504022007003",
+        "url": "65\/6504\/650402\/6504022007\/6504022007003.json",
+        "nama": "TPS 003, MENJELUTUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022007",
+        "tps": "6504022007901",
+        "url": "65\/6504\/650402\/6504022007\/6504022007901.json",
+        "nama": "TPS 901, MENJELUTUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022007",
+        "tps": "6504022007902",
+        "url": "65\/6504\/650402\/6504022007\/6504022007902.json",
+        "nama": "TPS 902, MENJELUTUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022007",
+        "tps": "6504022007903",
+        "url": "65\/6504\/650402\/6504022007\/6504022007903.json",
+        "nama": "TPS 903, MENJELUTUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022007",
+        "tps": "6504022007904",
+        "url": "65\/6504\/650402\/6504022007\/6504022007904.json",
+        "nama": "TPS 904, MENJELUTUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022006",
+        "tps": "6504022006001",
+        "url": "65\/6504\/650402\/6504022006\/6504022006001.json",
+        "nama": "TPS 001, SELUDAU, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022006",
+        "tps": "6504022006002",
+        "url": "65\/6504\/650402\/6504022006\/6504022006002.json",
+        "nama": "TPS 002, SELUDAU, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022002",
+        "tps": "6504022002001",
+        "url": "65\/6504\/650402\/6504022002\/6504022002001.json",
+        "nama": "TPS 001, SENGKONG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022005",
+        "tps": "6504022005001",
+        "url": "65\/6504\/650402\/6504022005\/6504022005001.json",
+        "nama": "TPS 001, SEPALA DALUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022005",
+        "tps": "6504022005002",
+        "url": "65\/6504\/650402\/6504022005\/6504022005002.json",
+        "nama": "TPS 002, SEPALA DALUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022005",
+        "tps": "6504022005003",
+        "url": "65\/6504\/650402\/6504022005\/6504022005003.json",
+        "nama": "TPS 003, SEPALA DALUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022005",
+        "tps": "6504022005004",
+        "url": "65\/6504\/650402\/6504022005\/6504022005004.json",
+        "nama": "TPS 004, SEPALA DALUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022005",
+        "tps": "6504022005005",
+        "url": "65\/6504\/650402\/6504022005\/6504022005005.json",
+        "nama": "TPS 005, SEPALA DALUNG, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022001",
+        "tps": "6504022001001",
+        "url": "65\/6504\/650402\/6504022001\/6504022001001.json",
+        "nama": "TPS 001, SESAYAP, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022001",
+        "tps": "6504022001002",
+        "url": "65\/6504\/650402\/6504022001\/6504022001002.json",
+        "nama": "TPS 002, SESAYAP, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022001",
+        "tps": "6504022001003",
+        "url": "65\/6504\/650402\/6504022001\/6504022001003.json",
+        "nama": "TPS 003, SESAYAP, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022001",
+        "tps": "6504022001004",
+        "url": "65\/6504\/650402\/6504022001\/6504022001004.json",
+        "nama": "TPS 004, SESAYAP, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022008",
+        "tps": "6504022008001",
+        "url": "65\/6504\/650402\/6504022008\/6504022008001.json",
+        "nama": "TPS 001, SESAYAP SELOR, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650402",
+        "desa": "6504022008",
+        "tps": "6504022008002",
+        "url": "65\/6504\/650402\/6504022008\/6504022008002.json",
+        "nama": "TPS 002, SESAYAP SELOR, SESAYAP HILIR, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032003",
+        "tps": "6504032003001",
+        "url": "65\/6504\/650403\/6504032003\/6504032003001.json",
+        "nama": "TPS 001, SAMBUNGAN, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032003",
+        "tps": "6504032003002",
+        "url": "65\/6504\/650403\/6504032003\/6504032003002.json",
+        "nama": "TPS 002, SAMBUNGAN, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032005",
+        "tps": "6504032005001",
+        "url": "65\/6504\/650403\/6504032005\/6504032005001.json",
+        "nama": "TPS 001, SAMBUNGAN SELATAN, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032005",
+        "tps": "6504032005002",
+        "url": "65\/6504\/650403\/6504032005\/6504032005002.json",
+        "nama": "TPS 002, SAMBUNGAN SELATAN, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032001",
+        "tps": "6504032001001",
+        "url": "65\/6504\/650403\/6504032001\/6504032001001.json",
+        "nama": "TPS 001, TANAH MERAH, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032001",
+        "tps": "6504032001002",
+        "url": "65\/6504\/650403\/6504032001\/6504032001002.json",
+        "nama": "TPS 002, TANAH MERAH, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032001",
+        "tps": "6504032001003",
+        "url": "65\/6504\/650403\/6504032001\/6504032001003.json",
+        "nama": "TPS 003, TANAH MERAH, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032004",
+        "tps": "6504032004001",
+        "url": "65\/6504\/650403\/6504032004\/6504032004001.json",
+        "nama": "TPS 001, TANAH MERAH BARAT, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032004",
+        "tps": "6504032004002",
+        "url": "65\/6504\/650403\/6504032004\/6504032004002.json",
+        "nama": "TPS 002, TANAH MERAH BARAT, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032004",
+        "tps": "6504032004003",
+        "url": "65\/6504\/650403\/6504032004\/6504032004003.json",
+        "nama": "TPS 003, TANAH MERAH BARAT, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032002",
+        "tps": "6504032002001",
+        "url": "65\/6504\/650403\/6504032002\/6504032002001.json",
+        "nama": "TPS 001, TENGKU DACING, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6504",
+        "kecamatan": "650403",
+        "desa": "6504032002",
+        "tps": "6504032002002",
+        "url": "65\/6504\/650403\/6504032002\/6504032002002.json",
+        "nama": "TPS 002, TENGKU DACING, TANA LIA, TANA TIDUNG, KALIMANTAN UTARA"
+    }
+]

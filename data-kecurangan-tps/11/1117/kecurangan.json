@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1117",
+        "kecamatan": "111704",
+        "desa": "1117042013",
+        "tps": "1117042013002",
+        "nama": "TPS 002, LEWA JADI, BANDAR, BENER MERIAH, ACEH",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1117\/111704\/1117042013\/1117042013002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1117",
+        "kecamatan": "111708",
+        "desa": "1117082001",
+        "tps": "1117082001001",
+        "nama": "TPS 001, BANDAR JAYA, BENER KELIPAH, BENER MERIAH, ACEH",
+        "selisih": 399,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1117\/111708\/1117082001\/1117082001001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1117",
+        "kecamatan": "111702",
+        "desa": "1117022003",
+        "tps": "1117022003001",
+        "nama": "TPS 001, BINTANG PERMATA, PERMATA, BENER MERIAH, ACEH",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1117\/111702\/1117022003\/1117022003001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1117",
+        "kecamatan": "111702",
+        "desa": "1117022008",
+        "tps": "1117022008002",
+        "nama": "TPS 002, PENOSAN JAYA, PERMATA, BENER MERIAH, ACEH",
+        "selisih": -300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1117\/111702\/1117022008\/1117022008002"
+    }
+]

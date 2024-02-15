@@ -1,0 +1,20 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9910",
+        "kecamatan": "991001",
+        "desa": "9910010001",
+        "tps": "9910010001002",
+        "url": "99\/9910\/991001\/9910010001\/9910010001002.json",
+        "nama": "KSK 001, Baghdad, Irak, Baghdad, Irak, Baghdad, Irak, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9910",
+        "kecamatan": "991001",
+        "desa": "9910010001",
+        "tps": "9910010001001",
+        "url": "99\/9910\/991001\/9910010001\/9910010001001.json",
+        "nama": "TPS 001, Baghdad, Irak, Baghdad, Irak, Baghdad, Irak, Luar Negeri"
+    }
+]

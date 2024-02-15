@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9911",
+        "kecamatan": "991101",
+        "desa": "9911010001",
+        "tps": "9911010001003",
+        "url": "99\/9911\/991101\/9911010001\/9911010001003.json",
+        "nama": "KSK 001, Baku, Azerbaijan, Baku, Azerbaijan, Baku, Azerbaijan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9911",
+        "kecamatan": "991101",
+        "desa": "9911010001",
+        "tps": "9911010001001",
+        "url": "99\/9911\/991101\/9911010001\/9911010001001.json",
+        "nama": "POS 001, Baku, Azerbaijan, Baku, Azerbaijan, Baku, Azerbaijan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9911",
+        "kecamatan": "991101",
+        "desa": "9911010001",
+        "tps": "9911010001002",
+        "url": "99\/9911\/991101\/9911010001\/9911010001002.json",
+        "nama": "TPS 001, Baku, Azerbaijan, Baku, Azerbaijan, Baku, Azerbaijan, Luar Negeri"
+    }
+]

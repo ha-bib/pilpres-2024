@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1275",
+        "kecamatan": "127502",
+        "desa": "1275021005",
+        "tps": "1275021005009",
+        "nama": "TPS 009, TANGSI, BINJAI KOTA, KOTA BINJAI, SUMATERA UTARA",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1275\/127502\/1275021005\/1275021005009"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1275",
+        "kecamatan": "127501",
+        "desa": "1275011006",
+        "tps": "1275011006033",
+        "nama": "TPS 033, CENGKEH TURI, BINJAI UTARA, KOTA BINJAI, SUMATERA UTARA",
+        "selisih": -40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1275\/127501\/1275011006\/1275011006033"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1275",
+        "kecamatan": "127501",
+        "desa": "1275011009",
+        "tps": "1275011009016",
+        "nama": "TPS 016, JATI KARYA, BINJAI UTARA, KOTA BINJAI, SUMATERA UTARA",
+        "selisih": 2175,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1275\/127501\/1275011009\/1275011009016"
+    }
+]

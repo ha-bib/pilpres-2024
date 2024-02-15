@@ -1,0 +1,4007 @@
+[
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950815",
+        "desa": "9508152001",
+        "tps": "9508152001001",
+        "url": "95\/9508\/950815\/9508152001\/9508152001001.json",
+        "nama": "TPS 001, ALAMA, ALAMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950815",
+        "desa": "9508152001",
+        "tps": "9508152001002",
+        "url": "95\/9508\/950815\/9508152001\/9508152001002.json",
+        "nama": "TPS 002, ALAMA, ALAMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950815",
+        "desa": "9508152003",
+        "tps": "9508152003001",
+        "url": "95\/9508\/950815\/9508152003\/9508152003001.json",
+        "nama": "TPS 001, GIN, ALAMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950815",
+        "desa": "9508152003",
+        "tps": "9508152003002",
+        "url": "95\/9508\/950815\/9508152003\/9508152003002.json",
+        "nama": "TPS 002, GIN, ALAMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950815",
+        "desa": "9508152004",
+        "tps": "9508152004001",
+        "url": "95\/9508\/950815\/9508152004\/9508152004001.json",
+        "nama": "TPS 001, KULESA, ALAMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950815",
+        "desa": "9508152002",
+        "tps": "9508152002001",
+        "url": "95\/9508\/950815\/9508152002\/9508152002001.json",
+        "nama": "TPS 001, NOLIT, ALAMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950815",
+        "desa": "9508152002",
+        "tps": "9508152002002",
+        "url": "95\/9508\/950815\/9508152002\/9508152002002.json",
+        "nama": "TPS 002, NOLIT, ALAMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182001",
+        "tps": "9508182001001",
+        "url": "95\/9508\/950818\/9508182001\/9508182001001.json",
+        "nama": "TPS 001, DAL, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182001",
+        "tps": "9508182001002",
+        "url": "95\/9508\/950818\/9508182001\/9508182001002.json",
+        "nama": "TPS 002, DAL, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182001",
+        "tps": "9508182001003",
+        "url": "95\/9508\/950818\/9508182001\/9508182001003.json",
+        "nama": "TPS 003, DAL, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182001",
+        "tps": "9508182001004",
+        "url": "95\/9508\/950818\/9508182001\/9508182001004.json",
+        "nama": "TPS 004, DAL, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182006",
+        "tps": "9508182006001",
+        "url": "95\/9508\/950818\/9508182006\/9508182006001.json",
+        "nama": "TPS 001, GRINBUN, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182006",
+        "tps": "9508182006002",
+        "url": "95\/9508\/950818\/9508182006\/9508182006002.json",
+        "nama": "TPS 002, GRINBUN, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182003",
+        "tps": "9508182003001",
+        "url": "95\/9508\/950818\/9508182003\/9508182003001.json",
+        "nama": "TPS 001, GURUMBE, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182003",
+        "tps": "9508182003002",
+        "url": "95\/9508\/950818\/9508182003\/9508182003002.json",
+        "nama": "TPS 002, GURUMBE, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182004",
+        "tps": "9508182004001",
+        "url": "95\/9508\/950818\/9508182004\/9508182004001.json",
+        "nama": "TPS 001, KABONERI, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182004",
+        "tps": "9508182004002",
+        "url": "95\/9508\/950818\/9508182004\/9508182004002.json",
+        "nama": "TPS 002, KABONERI, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182002",
+        "tps": "9508182002001",
+        "url": "95\/9508\/950818\/9508182002\/9508182002001.json",
+        "nama": "TPS 001, SILAN, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182002",
+        "tps": "9508182002002",
+        "url": "95\/9508\/950818\/9508182002\/9508182002002.json",
+        "nama": "TPS 002, SILAN, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182005",
+        "tps": "9508182005001",
+        "url": "95\/9508\/950818\/9508182005\/9508182005001.json",
+        "nama": "TPS 001, SILANKURU, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950818",
+        "desa": "9508182005",
+        "tps": "9508182005002",
+        "url": "95\/9508\/950818\/9508182005\/9508182005002.json",
+        "nama": "TPS 002, SILANKURU, DAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242005",
+        "tps": "9508242005001",
+        "url": "95\/9508\/950824\/9508242005\/9508242005001.json",
+        "nama": "TPS 001, BISIKIMU, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242005",
+        "tps": "9508242005002",
+        "url": "95\/9508\/950824\/9508242005\/9508242005002.json",
+        "nama": "TPS 002, BISIKIMU, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242005",
+        "tps": "9508242005003",
+        "url": "95\/9508\/950824\/9508242005\/9508242005003.json",
+        "nama": "TPS 003, BISIKIMU, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242004",
+        "tps": "9508242004001",
+        "url": "95\/9508\/950824\/9508242004\/9508242004001.json",
+        "nama": "TPS 001, DIGILIMU, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242004",
+        "tps": "9508242004002",
+        "url": "95\/9508\/950824\/9508242004\/9508242004002.json",
+        "nama": "TPS 002, DIGILIMU, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242002",
+        "tps": "9508242002001",
+        "url": "95\/9508\/950824\/9508242002\/9508242002001.json",
+        "nama": "TPS 001, EMBETPEM, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242002",
+        "tps": "9508242002002",
+        "url": "95\/9508\/950824\/9508242002\/9508242002002.json",
+        "nama": "TPS 002, EMBETPEM, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242001",
+        "tps": "9508242001001",
+        "url": "95\/9508\/950824\/9508242001\/9508242001001.json",
+        "nama": "TPS 001, WENDAMA, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242001",
+        "tps": "9508242001002",
+        "url": "95\/9508\/950824\/9508242001\/9508242001002.json",
+        "nama": "TPS 002, WENDAMA, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242003",
+        "tps": "9508242003001",
+        "url": "95\/9508\/950824\/9508242003\/9508242003001.json",
+        "nama": "TPS 001, YENAI, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950824",
+        "desa": "9508242003",
+        "tps": "9508242003002",
+        "url": "95\/9508\/950824\/9508242003\/9508242003002.json",
+        "nama": "TPS 002, YENAI, EMBETPEN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082006",
+        "tps": "9508082006001",
+        "url": "95\/9508\/950808\/9508082006\/9508082006001.json",
+        "nama": "TPS 001, BOMEGI, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082006",
+        "tps": "9508082006002",
+        "url": "95\/9508\/950808\/9508082006\/9508082006002.json",
+        "nama": "TPS 002, BOMEGI, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082002",
+        "tps": "9508082002001",
+        "url": "95\/9508\/950808\/9508082002\/9508082002001.json",
+        "nama": "TPS 001, GEAREK, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082002",
+        "tps": "9508082002002",
+        "url": "95\/9508\/950808\/9508082002\/9508082002002.json",
+        "nama": "TPS 002, GEAREK, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082002",
+        "tps": "9508082002003",
+        "url": "95\/9508\/950808\/9508082002\/9508082002003.json",
+        "nama": "TPS 003, GEAREK, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082005",
+        "tps": "9508082005001",
+        "url": "95\/9508\/950808\/9508082005\/9508082005001.json",
+        "nama": "TPS 001, GEBEM, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082005",
+        "tps": "9508082005002",
+        "url": "95\/9508\/950808\/9508082005\/9508082005002.json",
+        "nama": "TPS 002, GEBEM, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082005",
+        "tps": "9508082005003",
+        "url": "95\/9508\/950808\/9508082005\/9508082005003.json",
+        "nama": "TPS 003, GEBEM, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082007",
+        "tps": "9508082007001",
+        "url": "95\/9508\/950808\/9508082007\/9508082007001.json",
+        "nama": "TPS 001, GILINGGA, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082007",
+        "tps": "9508082007002",
+        "url": "95\/9508\/950808\/9508082007\/9508082007002.json",
+        "nama": "TPS 002, GILINGGA, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082007",
+        "tps": "9508082007003",
+        "url": "95\/9508\/950808\/9508082007\/9508082007003.json",
+        "nama": "TPS 003, GILINGGA, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082003",
+        "tps": "9508082003001",
+        "url": "95\/9508\/950808\/9508082003\/9508082003001.json",
+        "nama": "TPS 001, KIBID, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082003",
+        "tps": "9508082003002",
+        "url": "95\/9508\/950808\/9508082003\/9508082003002.json",
+        "nama": "TPS 002, KIBID, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082001",
+        "tps": "9508082001001",
+        "url": "95\/9508\/950808\/9508082001\/9508082001001.json",
+        "nama": "TPS 001, TRIBID, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082001",
+        "tps": "9508082001002",
+        "url": "95\/9508\/950808\/9508082001\/9508082001002.json",
+        "nama": "TPS 002, TRIBID, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082001",
+        "tps": "9508082001003",
+        "url": "95\/9508\/950808\/9508082001\/9508082001003.json",
+        "nama": "TPS 003, TRIBID, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082004",
+        "tps": "9508082004001",
+        "url": "95\/9508\/950808\/9508082004\/9508082004001.json",
+        "nama": "TPS 001, WENEWORAROSA, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950808",
+        "desa": "9508082004",
+        "tps": "9508082004002",
+        "url": "95\/9508\/950808\/9508082004\/9508082004002.json",
+        "nama": "TPS 002, WENEWORAROSA, GEAREK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052001",
+        "tps": "9508052001001",
+        "url": "95\/9508\/950805\/9508052001\/9508052001001.json",
+        "nama": "TPS 001, GESELMA, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052001",
+        "tps": "9508052001002",
+        "url": "95\/9508\/950805\/9508052001\/9508052001002.json",
+        "nama": "TPS 002, GESELMA, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052001",
+        "tps": "9508052001003",
+        "url": "95\/9508\/950805\/9508052001\/9508052001003.json",
+        "nama": "TPS 003, GESELMA, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052001",
+        "tps": "9508052001004",
+        "url": "95\/9508\/950805\/9508052001\/9508052001004.json",
+        "nama": "TPS 004, GESELMA, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052001",
+        "tps": "9508052001005",
+        "url": "95\/9508\/950805\/9508052001\/9508052001005.json",
+        "nama": "TPS 005, GESELMA, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052001",
+        "tps": "9508052001006",
+        "url": "95\/9508\/950805\/9508052001\/9508052001006.json",
+        "nama": "TPS 006, GESELMA, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052003",
+        "tps": "9508052003001",
+        "url": "95\/9508\/950805\/9508052003\/9508052003001.json",
+        "nama": "TPS 001, KOSOLPEM, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052003",
+        "tps": "9508052003002",
+        "url": "95\/9508\/950805\/9508052003\/9508052003002.json",
+        "nama": "TPS 002, KOSOLPEM, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052003",
+        "tps": "9508052003003",
+        "url": "95\/9508\/950805\/9508052003\/9508052003003.json",
+        "nama": "TPS 003, KOSOLPEM, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052003",
+        "tps": "9508052003004",
+        "url": "95\/9508\/950805\/9508052003\/9508052003004.json",
+        "nama": "TPS 004, KOSOLPEM, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052003",
+        "tps": "9508052003005",
+        "url": "95\/9508\/950805\/9508052003\/9508052003005.json",
+        "nama": "TPS 005, KOSOLPEM, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052002",
+        "tps": "9508052002001",
+        "url": "95\/9508\/950805\/9508052002\/9508052002001.json",
+        "nama": "TPS 001, TALEM, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052002",
+        "tps": "9508052002002",
+        "url": "95\/9508\/950805\/9508052002\/9508052002002.json",
+        "nama": "TPS 002, TALEM, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052002",
+        "tps": "9508052002003",
+        "url": "95\/9508\/950805\/9508052002\/9508052002003.json",
+        "nama": "TPS 003, TALEM, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950805",
+        "desa": "9508052002",
+        "tps": "9508052002004",
+        "url": "95\/9508\/950805\/9508052002\/9508052002004.json",
+        "nama": "TPS 004, TALEM, GESELMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202003",
+        "tps": "9508202003001",
+        "url": "95\/9508\/950820\/9508202003\/9508202003001.json",
+        "nama": "TPS 001, ABUALAK, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202003",
+        "tps": "9508202003002",
+        "url": "95\/9508\/950820\/9508202003\/9508202003002.json",
+        "nama": "TPS 002, ABUALAK, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202005",
+        "tps": "9508202005001",
+        "url": "95\/9508\/950820\/9508202005\/9508202005001.json",
+        "nama": "TPS 001, AREA, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202005",
+        "tps": "9508202005002",
+        "url": "95\/9508\/950820\/9508202005\/9508202005002.json",
+        "nama": "TPS 002, AREA, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202001",
+        "tps": "9508202001001",
+        "url": "95\/9508\/950820\/9508202001\/9508202001001.json",
+        "nama": "TPS 001, BIRIPEM, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202001",
+        "tps": "9508202001002",
+        "url": "95\/9508\/950820\/9508202001\/9508202001002.json",
+        "nama": "TPS 002, BIRIPEM, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202001",
+        "tps": "9508202001003",
+        "url": "95\/9508\/950820\/9508202001\/9508202001003.json",
+        "nama": "TPS 003, BIRIPEM, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202002",
+        "tps": "9508202002001",
+        "url": "95\/9508\/950820\/9508202002\/9508202002001.json",
+        "nama": "TPS 001, DAKBRI, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202002",
+        "tps": "9508202002002",
+        "url": "95\/9508\/950820\/9508202002\/9508202002002.json",
+        "nama": "TPS 002, DAKBRI, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202002",
+        "tps": "9508202002003",
+        "url": "95\/9508\/950820\/9508202002\/9508202002003.json",
+        "nama": "TPS 003, DAKBRI, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202002",
+        "tps": "9508202002004",
+        "url": "95\/9508\/950820\/9508202002\/9508202002004.json",
+        "nama": "TPS 004, DAKBRI, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202007",
+        "tps": "9508202007001",
+        "url": "95\/9508\/950820\/9508202007\/9508202007001.json",
+        "nama": "TPS 001, GULAMA, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202007",
+        "tps": "9508202007002",
+        "url": "95\/9508\/950820\/9508202007\/9508202007002.json",
+        "nama": "TPS 002, GULAMA, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202008",
+        "tps": "9508202008001",
+        "url": "95\/9508\/950820\/9508202008\/9508202008001.json",
+        "nama": "TPS 001, KIGAM, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202008",
+        "tps": "9508202008002",
+        "url": "95\/9508\/950820\/9508202008\/9508202008002.json",
+        "nama": "TPS 002, KIGAM, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202004",
+        "tps": "9508202004001",
+        "url": "95\/9508\/950820\/9508202004\/9508202004001.json",
+        "nama": "TPS 001, URUGOM, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202006",
+        "tps": "9508202006001",
+        "url": "95\/9508\/950820\/9508202006\/9508202006001.json",
+        "nama": "TPS 001, WUMAGA, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950820",
+        "desa": "9508202006",
+        "tps": "9508202006002",
+        "url": "95\/9508\/950820\/9508202006\/9508202006002.json",
+        "nama": "TPS 002, WUMAGA, INIKGAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212002",
+        "tps": "9508212002001",
+        "url": "95\/9508\/950821\/9508212002\/9508212002001.json",
+        "nama": "TPS 001, BAKLEMA, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212002",
+        "tps": "9508212002002",
+        "url": "95\/9508\/950821\/9508212002\/9508212002002.json",
+        "nama": "TPS 002, BAKLEMA, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212002",
+        "tps": "9508212002003",
+        "url": "95\/9508\/950821\/9508212002\/9508212002003.json",
+        "nama": "TPS 003, BAKLEMA, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212005",
+        "tps": "9508212005001",
+        "url": "95\/9508\/950821\/9508212005\/9508212005001.json",
+        "nama": "TPS 001, EMBUKLEM, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212005",
+        "tps": "9508212005002",
+        "url": "95\/9508\/950821\/9508212005\/9508212005002.json",
+        "nama": "TPS 002, EMBUKLEM, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212001",
+        "tps": "9508212001001",
+        "url": "95\/9508\/950821\/9508212001\/9508212001001.json",
+        "nama": "TPS 001, INIYE, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212001",
+        "tps": "9508212001002",
+        "url": "95\/9508\/950821\/9508212001\/9508212001002.json",
+        "nama": "TPS 002, INIYE, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212001",
+        "tps": "9508212001003",
+        "url": "95\/9508\/950821\/9508212001\/9508212001003.json",
+        "nama": "TPS 003, INIYE, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212001",
+        "tps": "9508212001004",
+        "url": "95\/9508\/950821\/9508212001\/9508212001004.json",
+        "nama": "TPS 004, INIYE, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212001",
+        "tps": "9508212001005",
+        "url": "95\/9508\/950821\/9508212001\/9508212001005.json",
+        "nama": "TPS 005, INIYE, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212003",
+        "tps": "9508212003001",
+        "url": "95\/9508\/950821\/9508212003\/9508212003001.json",
+        "nama": "TPS 001, KIBENDUMU, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212003",
+        "tps": "9508212003002",
+        "url": "95\/9508\/950821\/9508212003\/9508212003002.json",
+        "nama": "TPS 002, KIBENDUMU, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212006",
+        "tps": "9508212006001",
+        "url": "95\/9508\/950821\/9508212006\/9508212006001.json",
+        "nama": "TPS 001, KOSOBAK, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212006",
+        "tps": "9508212006002",
+        "url": "95\/9508\/950821\/9508212006\/9508212006002.json",
+        "nama": "TPS 002, KOSOBAK, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212004",
+        "tps": "9508212004001",
+        "url": "95\/9508\/950821\/9508212004\/9508212004001.json",
+        "nama": "TPS 001, SIMIYE, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950821",
+        "desa": "9508212004",
+        "tps": "9508212004002",
+        "url": "95\/9508\/950821\/9508212004\/9508212004002.json",
+        "nama": "TPS 002, SIMIYE, INIYE, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102003",
+        "tps": "9508102003001",
+        "url": "95\/9508\/950810\/9508102003\/9508102003001.json",
+        "nama": "TPS 001, BAMBI, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102001",
+        "tps": "9508102001001",
+        "url": "95\/9508\/950810\/9508102001\/9508102001001.json",
+        "nama": "TPS 001, GILPID, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102001",
+        "tps": "9508102001002",
+        "url": "95\/9508\/950810\/9508102001\/9508102001002.json",
+        "nama": "TPS 002, GILPID, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102006",
+        "tps": "9508102006001",
+        "url": "95\/9508\/950810\/9508102006\/9508102006001.json",
+        "nama": "TPS 001, ININKWANING, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102005",
+        "tps": "9508102005001",
+        "url": "95\/9508\/950810\/9508102005\/9508102005001.json",
+        "nama": "TPS 001, KAGAYEM, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102007",
+        "tps": "9508102007001",
+        "url": "95\/9508\/950810\/9508102007\/9508102007001.json",
+        "nama": "TPS 001, KUMBUKLEMA, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102011",
+        "tps": "9508102011001",
+        "url": "95\/9508\/950810\/9508102011\/9508102011001.json",
+        "nama": "TPS 001, KUMBUN, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102010",
+        "tps": "9508102010001",
+        "url": "95\/9508\/950810\/9508102010\/9508102010001.json",
+        "nama": "TPS 001, KUSIT, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102010",
+        "tps": "9508102010002",
+        "url": "95\/9508\/950810\/9508102010\/9508102010002.json",
+        "nama": "TPS 002, KUSIT, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102013",
+        "tps": "9508102013001",
+        "url": "95\/9508\/950810\/9508102013\/9508102013001.json",
+        "nama": "TPS 001, NARUGU, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102013",
+        "tps": "9508102013002",
+        "url": "95\/9508\/950810\/9508102013\/9508102013002.json",
+        "nama": "TPS 002, NARUGU, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102004",
+        "tps": "9508102004001",
+        "url": "95\/9508\/950810\/9508102004\/9508102004001.json",
+        "nama": "TPS 001, OSAMA, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102012",
+        "tps": "9508102012001",
+        "url": "95\/9508\/950810\/9508102012\/9508102012001.json",
+        "nama": "TPS 001, PEYA-PEYA, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102009",
+        "tps": "9508102009001",
+        "url": "95\/9508\/950810\/9508102009\/9508102009001.json",
+        "nama": "TPS 001, SANWARUK, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102008",
+        "tps": "9508102008001",
+        "url": "95\/9508\/950810\/9508102008\/9508102008001.json",
+        "nama": "TPS 001, SIGIMBUT, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950810",
+        "desa": "9508102002",
+        "tps": "9508102002001",
+        "url": "95\/9508\/950810\/9508102002\/9508102002001.json",
+        "nama": "TPS 001, WIPDUMU, KEGAYEM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012009",
+        "tps": "9508012009001",
+        "url": "95\/9508\/950801\/9508012009\/9508012009001.json",
+        "nama": "TPS 001, BOMBAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012004",
+        "tps": "9508012004001",
+        "url": "95\/9508\/950801\/9508012004\/9508012004001.json",
+        "nama": "TPS 001, DELPEL, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012004",
+        "tps": "9508012004002",
+        "url": "95\/9508\/950801\/9508012004\/9508012004002.json",
+        "nama": "TPS 002, DELPEL, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012007",
+        "tps": "9508012007001",
+        "url": "95\/9508\/950801\/9508012007\/9508012007001.json",
+        "nama": "TPS 001, DIM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012002",
+        "tps": "9508012002001",
+        "url": "95\/9508\/950801\/9508012002\/9508012002001.json",
+        "nama": "TPS 001, KEMALI, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012001",
+        "tps": "9508012001001",
+        "url": "95\/9508\/950801\/9508012001\/9508012001001.json",
+        "nama": "TPS 001, KENYAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012001",
+        "tps": "9508012001002",
+        "url": "95\/9508\/950801\/9508012001\/9508012001002.json",
+        "nama": "TPS 002, KENYAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012001",
+        "tps": "9508012001003",
+        "url": "95\/9508\/950801\/9508012001\/9508012001003.json",
+        "nama": "TPS 003, KENYAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012001",
+        "tps": "9508012001004",
+        "url": "95\/9508\/950801\/9508012001\/9508012001004.json",
+        "nama": "TPS 004, KENYAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012001",
+        "tps": "9508012001005",
+        "url": "95\/9508\/950801\/9508012001\/9508012001005.json",
+        "nama": "TPS 005, KENYAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012001",
+        "tps": "9508012001006",
+        "url": "95\/9508\/950801\/9508012001\/9508012001006.json",
+        "nama": "TPS 006, KENYAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012001",
+        "tps": "9508012001007",
+        "url": "95\/9508\/950801\/9508012001\/9508012001007.json",
+        "nama": "TPS 007, KENYAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012001",
+        "tps": "9508012001008",
+        "url": "95\/9508\/950801\/9508012001\/9508012001008.json",
+        "nama": "TPS 008, KENYAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012001",
+        "tps": "9508012001009",
+        "url": "95\/9508\/950801\/9508012001\/9508012001009.json",
+        "nama": "TPS 009, KENYAM, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012003",
+        "tps": "9508012003001",
+        "url": "95\/9508\/950801\/9508012003\/9508012003001.json",
+        "nama": "TPS 001, SRALALA, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012008",
+        "tps": "9508012008001",
+        "url": "95\/9508\/950801\/9508012008\/9508012008001.json",
+        "nama": "TPS 001, ULUNMU, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012005",
+        "tps": "9508012005001",
+        "url": "95\/9508\/950801\/9508012005\/9508012005001.json",
+        "nama": "TPS 001, YIKE, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012006",
+        "tps": "9508012006001",
+        "url": "95\/9508\/950801\/9508012006\/9508012006001.json",
+        "nama": "TPS 001, YUNAT, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950801",
+        "desa": "9508012006",
+        "tps": "9508012006002",
+        "url": "95\/9508\/950801\/9508012006\/9508012006002.json",
+        "nama": "TPS 002, YUNAT, KENYAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142001",
+        "tps": "9508142001001",
+        "url": "95\/9508\/950814\/9508142001\/9508142001001.json",
+        "nama": "TPS 001, GEMAM, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142001",
+        "tps": "9508142001002",
+        "url": "95\/9508\/950814\/9508142001\/9508142001002.json",
+        "nama": "TPS 002, GEMAM, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142001",
+        "tps": "9508142001003",
+        "url": "95\/9508\/950814\/9508142001\/9508142001003.json",
+        "nama": "TPS 003, GEMAM, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142004",
+        "tps": "9508142004001",
+        "url": "95\/9508\/950814\/9508142004\/9508142004001.json",
+        "nama": "TPS 001, KILMID, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142004",
+        "tps": "9508142004002",
+        "url": "95\/9508\/950814\/9508142004\/9508142004002.json",
+        "nama": "TPS 002, KILMID, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142002",
+        "tps": "9508142002001",
+        "url": "95\/9508\/950814\/9508142002\/9508142002001.json",
+        "nama": "TPS 001, PURUWA, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142002",
+        "tps": "9508142002002",
+        "url": "95\/9508\/950814\/9508142002\/9508142002002.json",
+        "nama": "TPS 002, PURUWA, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142003",
+        "tps": "9508142003001",
+        "url": "95\/9508\/950814\/9508142003\/9508142003001.json",
+        "nama": "TPS 001, YUTPUL, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142003",
+        "tps": "9508142003002",
+        "url": "95\/9508\/950814\/9508142003\/9508142003002.json",
+        "nama": "TPS 002, YUTPUL, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142003",
+        "tps": "9508142003003",
+        "url": "95\/9508\/950814\/9508142003\/9508142003003.json",
+        "nama": "TPS 003, YUTPUL, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950814",
+        "desa": "9508142003",
+        "tps": "9508142003004",
+        "url": "95\/9508\/950814\/9508142003\/9508142003004.json",
+        "nama": "TPS 004, YUTPUL, KILMID, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950825",
+        "desa": "9508252005",
+        "tps": "9508252005001",
+        "url": "95\/9508\/950825\/9508252005\/9508252005001.json",
+        "nama": "TPS 001, BRUTNAI, KORA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950825",
+        "desa": "9508252001",
+        "tps": "9508252001001",
+        "url": "95\/9508\/950825\/9508252001\/9508252001001.json",
+        "nama": "TPS 001, KORA, KORA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950825",
+        "desa": "9508252001",
+        "tps": "9508252001002",
+        "url": "95\/9508\/950825\/9508252001\/9508252001002.json",
+        "nama": "TPS 002, KORA, KORA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950825",
+        "desa": "9508252002",
+        "tps": "9508252002001",
+        "url": "95\/9508\/950825\/9508252002\/9508252002001.json",
+        "nama": "TPS 001, NANGGOAL, KORA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950825",
+        "desa": "9508252003",
+        "tps": "9508252003001",
+        "url": "95\/9508\/950825\/9508252003\/9508252003001.json",
+        "nama": "TPS 001, WENAM, KORA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950825",
+        "desa": "9508252003",
+        "tps": "9508252003002",
+        "url": "95\/9508\/950825\/9508252003\/9508252003002.json",
+        "nama": "TPS 002, WENAM, KORA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950825",
+        "desa": "9508252004",
+        "tps": "9508252004001",
+        "url": "95\/9508\/950825\/9508252004\/9508252004001.json",
+        "nama": "TPS 001, WILIMI, KORA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950825",
+        "desa": "9508252004",
+        "tps": "9508252004002",
+        "url": "95\/9508\/950825\/9508252004\/9508252004002.json",
+        "nama": "TPS 002, WILIMI, KORA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092006",
+        "tps": "9508092006001",
+        "url": "95\/9508\/950809\/9508092006\/9508092006001.json",
+        "nama": "TPS 001, GOL, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092006",
+        "tps": "9508092006002",
+        "url": "95\/9508\/950809\/9508092006\/9508092006002.json",
+        "nama": "TPS 002, GOL, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092003",
+        "tps": "9508092003001",
+        "url": "95\/9508\/950809\/9508092003\/9508092003001.json",
+        "nama": "TPS 001, GOLPAREK, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092003",
+        "tps": "9508092003002",
+        "url": "95\/9508\/950809\/9508092003\/9508092003002.json",
+        "nama": "TPS 002, GOLPAREK, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092005",
+        "tps": "9508092005001",
+        "url": "95\/9508\/950809\/9508092005\/9508092005001.json",
+        "nama": "TPS 001, KOMOROAM, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092005",
+        "tps": "9508092005002",
+        "url": "95\/9508\/950809\/9508092005\/9508092005002.json",
+        "nama": "TPS 002, KOMOROAM, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092001",
+        "tps": "9508092001001",
+        "url": "95\/9508\/950809\/9508092001\/9508092001001.json",
+        "nama": "TPS 001, KROPTAK, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092001",
+        "tps": "9508092001002",
+        "url": "95\/9508\/950809\/9508092001\/9508092001002.json",
+        "nama": "TPS 002, KROPTAK, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092002",
+        "tps": "9508092002001",
+        "url": "95\/9508\/950809\/9508092002\/9508092002001.json",
+        "nama": "TPS 001, MINIEM, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092004",
+        "tps": "9508092004001",
+        "url": "95\/9508\/950809\/9508092004\/9508092004001.json",
+        "nama": "TPS 001, PESAT, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950809",
+        "desa": "9508092004",
+        "tps": "9508092004002",
+        "url": "95\/9508\/950809\/9508092004\/9508092004002.json",
+        "nama": "TPS 002, PESAT, KOROPTAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312002",
+        "tps": "9508312002001",
+        "url": "95\/9508\/950831\/9508312002\/9508312002001.json",
+        "nama": "TPS 001, ALGURU, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312002",
+        "tps": "9508312002002",
+        "url": "95\/9508\/950831\/9508312002\/9508312002002.json",
+        "nama": "TPS 002, ALGURU, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312006",
+        "tps": "9508312006001",
+        "url": "95\/9508\/950831\/9508312006\/9508312006001.json",
+        "nama": "TPS 001, BANGGABEAK, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312006",
+        "tps": "9508312006002",
+        "url": "95\/9508\/950831\/9508312006\/9508312006002.json",
+        "nama": "TPS 002, BANGGABEAK, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312005",
+        "tps": "9508312005001",
+        "url": "95\/9508\/950831\/9508312005\/9508312005001.json",
+        "nama": "TPS 001, GINID, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312005",
+        "tps": "9508312005002",
+        "url": "95\/9508\/950831\/9508312005\/9508312005002.json",
+        "nama": "TPS 002, GINID, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312001",
+        "tps": "9508312001001",
+        "url": "95\/9508\/950831\/9508312001\/9508312001001.json",
+        "nama": "TPS 001, KREPKURI, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312001",
+        "tps": "9508312001002",
+        "url": "95\/9508\/950831\/9508312001\/9508312001002.json",
+        "nama": "TPS 002, KREPKURI, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312004",
+        "tps": "9508312004001",
+        "url": "95\/9508\/950831\/9508312004\/9508312004001.json",
+        "nama": "TPS 001, MUMUGU, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312004",
+        "tps": "9508312004002",
+        "url": "95\/9508\/950831\/9508312004\/9508312004002.json",
+        "nama": "TPS 002, MUMUGU, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312003",
+        "tps": "9508312003001",
+        "url": "95\/9508\/950831\/9508312003\/9508312003001.json",
+        "nama": "TPS 001, SAGAPUSATU, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950831",
+        "desa": "9508312003",
+        "tps": "9508312003002",
+        "url": "95\/9508\/950831\/9508312003\/9508312003002.json",
+        "nama": "TPS 002, SAGAPUSATU, KREPKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172014",
+        "tps": "9508172014001",
+        "url": "95\/9508\/950817\/9508172014\/9508172014001.json",
+        "nama": "TPS 001, DARAKMA, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172014",
+        "tps": "9508172014002",
+        "url": "95\/9508\/950817\/9508172014\/9508172014002.json",
+        "nama": "TPS 002, DARAKMA, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172009",
+        "tps": "9508172009001",
+        "url": "95\/9508\/950817\/9508172009\/9508172009001.json",
+        "nama": "TPS 001, DENDAMBA, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172010",
+        "tps": "9508172010001",
+        "url": "95\/9508\/950817\/9508172010\/9508172010001.json",
+        "nama": "TPS 001, KIBIAREN, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172012",
+        "tps": "9508172012001",
+        "url": "95\/9508\/950817\/9508172012\/9508172012001.json",
+        "nama": "TPS 001, KIBO, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172006",
+        "tps": "9508172006001",
+        "url": "95\/9508\/950817\/9508172006\/9508172006001.json",
+        "nama": "TPS 001, LAKDA, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172006",
+        "tps": "9508172006002",
+        "url": "95\/9508\/950817\/9508172006\/9508172006002.json",
+        "nama": "TPS 002, LAKDA, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172008",
+        "tps": "9508172008001",
+        "url": "95\/9508\/950817\/9508172008\/9508172008001.json",
+        "nama": "TPS 001, LARUID, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172001",
+        "tps": "9508172001001",
+        "url": "95\/9508\/950817\/9508172001\/9508172001001.json",
+        "nama": "TPS 001, MAM, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172001",
+        "tps": "9508172001002",
+        "url": "95\/9508\/950817\/9508172001\/9508172001002.json",
+        "nama": "TPS 002, MAM, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172011",
+        "tps": "9508172011001",
+        "url": "95\/9508\/950817\/9508172011\/9508172011001.json",
+        "nama": "TPS 001, PARUAREM, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172002",
+        "tps": "9508172002001",
+        "url": "95\/9508\/950817\/9508172002\/9508172002001.json",
+        "nama": "TPS 001, PUKLE, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172013",
+        "tps": "9508172013001",
+        "url": "95\/9508\/950817\/9508172013\/9508172013001.json",
+        "nama": "TPS 001, PUTDUMU, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172013",
+        "tps": "9508172013002",
+        "url": "95\/9508\/950817\/9508172013\/9508172013002.json",
+        "nama": "TPS 002, PUTDUMU, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172004",
+        "tps": "9508172004001",
+        "url": "95\/9508\/950817\/9508172004\/9508172004001.json",
+        "nama": "TPS 001, WANDUAMA, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172004",
+        "tps": "9508172004002",
+        "url": "95\/9508\/950817\/9508172004\/9508172004002.json",
+        "nama": "TPS 002, WANDUAMA, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172003",
+        "tps": "9508172003001",
+        "url": "95\/9508\/950817\/9508172003\/9508172003001.json",
+        "nama": "TPS 001, WOLMBAM, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172003",
+        "tps": "9508172003002",
+        "url": "95\/9508\/950817\/9508172003\/9508172003002.json",
+        "nama": "TPS 002, WOLMBAM, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172007",
+        "tps": "9508172007001",
+        "url": "95\/9508\/950817\/9508172007\/9508172007001.json",
+        "nama": "TPS 001, YEBANDUI, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172005",
+        "tps": "9508172005001",
+        "url": "95\/9508\/950817\/9508172005\/9508172005001.json",
+        "nama": "TPS 001, YIBI, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950817",
+        "desa": "9508172005",
+        "tps": "9508172005002",
+        "url": "95\/9508\/950817\/9508172005\/9508172005002.json",
+        "nama": "TPS 002, YIBI, MAM, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022002",
+        "tps": "9508022002001",
+        "url": "95\/9508\/950802\/9508022002\/9508022002001.json",
+        "nama": "TPS 001, DUMA, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022002",
+        "tps": "9508022002002",
+        "url": "95\/9508\/950802\/9508022002\/9508022002002.json",
+        "nama": "TPS 002, DUMA, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022009",
+        "tps": "9508022009001",
+        "url": "95\/9508\/950802\/9508022009\/9508022009001.json",
+        "nama": "TPS 001, DUMDUM, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022005",
+        "tps": "9508022005001",
+        "url": "95\/9508\/950802\/9508022005\/9508022005001.json",
+        "nama": "TPS 001, ENDUMU, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022008",
+        "tps": "9508022008001",
+        "url": "95\/9508\/950802\/9508022008\/9508022008001.json",
+        "nama": "TPS 001, KELAPA DUA, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022006",
+        "tps": "9508022006001",
+        "url": "95\/9508\/950802\/9508022006\/9508022006001.json",
+        "nama": "TPS 001, LITKUI, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022010",
+        "tps": "9508022010001",
+        "url": "95\/9508\/950802\/9508022010\/9508022010001.json",
+        "nama": "TPS 001, LUNGGADUMU, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022001",
+        "tps": "9508022001001",
+        "url": "95\/9508\/950802\/9508022001\/9508022001001.json",
+        "nama": "TPS 001, MAPENDUMA, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022001",
+        "tps": "9508022001002",
+        "url": "95\/9508\/950802\/9508022001\/9508022001002.json",
+        "nama": "TPS 002, MAPENDUMA, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022001",
+        "tps": "9508022001003",
+        "url": "95\/9508\/950802\/9508022001\/9508022001003.json",
+        "nama": "TPS 003, MAPENDUMA, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022007",
+        "tps": "9508022007001",
+        "url": "95\/9508\/950802\/9508022007\/9508022007001.json",
+        "nama": "TPS 001, NOWOMLUSU, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022004",
+        "tps": "9508022004001",
+        "url": "95\/9508\/950802\/9508022004\/9508022004001.json",
+        "nama": "TPS 001, PALSAM, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022003",
+        "tps": "9508022003001",
+        "url": "95\/9508\/950802\/9508022003\/9508022003001.json",
+        "nama": "TPS 001, YOE, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950802",
+        "desa": "9508022003",
+        "tps": "9508022003002",
+        "url": "95\/9508\/950802\/9508022003\/9508022003002.json",
+        "nama": "TPS 002, YOE, MAPENDUMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232001",
+        "tps": "9508232001001",
+        "url": "95\/9508\/950823\/9508232001\/9508232001001.json",
+        "nama": "TPS 001, PARIS, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232004",
+        "tps": "9508232004001",
+        "url": "95\/9508\/950823\/9508232004\/9508232004001.json",
+        "nama": "TPS 001, PIRIM-PIRIM, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232004",
+        "tps": "9508232004002",
+        "url": "95\/9508\/950823\/9508232004\/9508232004002.json",
+        "nama": "TPS 002, PIRIM-PIRIM, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232009",
+        "tps": "9508232009001",
+        "url": "95\/9508\/950823\/9508232009\/9508232009001.json",
+        "nama": "TPS 001, RAPA, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232009",
+        "tps": "9508232009002",
+        "url": "95\/9508\/950823\/9508232009\/9508232009002.json",
+        "nama": "TPS 002, RAPA, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232002",
+        "tps": "9508232002001",
+        "url": "95\/9508\/950823\/9508232002\/9508232002001.json",
+        "nama": "TPS 001, SIMIE, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232007",
+        "tps": "9508232007001",
+        "url": "95\/9508\/950823\/9508232007\/9508232007001.json",
+        "nama": "TPS 001, SOKORE, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232007",
+        "tps": "9508232007002",
+        "url": "95\/9508\/950823\/9508232007\/9508232007002.json",
+        "nama": "TPS 002, SOKORE, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232008",
+        "tps": "9508232008001",
+        "url": "95\/9508\/950823\/9508232008\/9508232008001.json",
+        "nama": "TPS 001, TOBONGGOM, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232008",
+        "tps": "9508232008002",
+        "url": "95\/9508\/950823\/9508232008\/9508232008002.json",
+        "nama": "TPS 002, TOBONGGOM, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232005",
+        "tps": "9508232005001",
+        "url": "95\/9508\/950823\/9508232005\/9508232005001.json",
+        "nama": "TPS 001, TOMBISIK, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232005",
+        "tps": "9508232005002",
+        "url": "95\/9508\/950823\/9508232005\/9508232005002.json",
+        "nama": "TPS 002, TOMBISIK, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232003",
+        "tps": "9508232003001",
+        "url": "95\/9508\/950823\/9508232003\/9508232003001.json",
+        "nama": "TPS 001, URUGI, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232006",
+        "tps": "9508232006001",
+        "url": "95\/9508\/950823\/9508232006\/9508232006001.json",
+        "nama": "TPS 001, YEPMA, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950823",
+        "desa": "9508232006",
+        "tps": "9508232006002",
+        "url": "95\/9508\/950823\/9508232006\/9508232006002.json",
+        "nama": "TPS 002, YEPMA, MBUA TENGAH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222004",
+        "tps": "9508222004001",
+        "url": "95\/9508\/950822\/9508222004\/9508222004001.json",
+        "nama": "TPS 001, BRAMBEL, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222002",
+        "tps": "9508222002001",
+        "url": "95\/9508\/950822\/9508222002\/9508222002001.json",
+        "nama": "TPS 001, KABOLILANGEN, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222002",
+        "tps": "9508222002002",
+        "url": "95\/9508\/950822\/9508222002\/9508222002002.json",
+        "nama": "TPS 002, KABOLILANGEN, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222005",
+        "tps": "9508222005001",
+        "url": "95\/9508\/950822\/9508222005\/9508222005001.json",
+        "nama": "TPS 001, KIABYPMA, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222005",
+        "tps": "9508222005002",
+        "url": "95\/9508\/950822\/9508222005\/9508222005002.json",
+        "nama": "TPS 002, KIABYPMA, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222006",
+        "tps": "9508222006001",
+        "url": "95\/9508\/950822\/9508222006\/9508222006001.json",
+        "nama": "TPS 001, KIBISIM, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222006",
+        "tps": "9508222006002",
+        "url": "95\/9508\/950822\/9508222006\/9508222006002.json",
+        "nama": "TPS 002, KIBISIM, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222003",
+        "tps": "9508222003001",
+        "url": "95\/9508\/950822\/9508222003\/9508222003001.json",
+        "nama": "TPS 001, KOLMA, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222003",
+        "tps": "9508222003002",
+        "url": "95\/9508\/950822\/9508222003\/9508222003002.json",
+        "nama": "TPS 002, KOLMA, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222003",
+        "tps": "9508222003003",
+        "url": "95\/9508\/950822\/9508222003\/9508222003003.json",
+        "nama": "TPS 003, KOLMA, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222007",
+        "tps": "9508222007001",
+        "url": "95\/9508\/950822\/9508222007\/9508222007001.json",
+        "nama": "TPS 001, LABRIK, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222007",
+        "tps": "9508222007002",
+        "url": "95\/9508\/950822\/9508222007\/9508222007002.json",
+        "nama": "TPS 002, LABRIK, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222001",
+        "tps": "9508222001001",
+        "url": "95\/9508\/950822\/9508222001\/9508222001001.json",
+        "nama": "TPS 001, UBURU, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222001",
+        "tps": "9508222001002",
+        "url": "95\/9508\/950822\/9508222001\/9508222001002.json",
+        "nama": "TPS 002, UBURU, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950822",
+        "desa": "9508222001",
+        "tps": "9508222001003",
+        "url": "95\/9508\/950822\/9508222001\/9508222001003.json",
+        "nama": "TPS 003, UBURU, MBULMU YALMA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072003",
+        "tps": "9508072003001",
+        "url": "95\/9508\/950807\/9508072003\/9508072003001.json",
+        "nama": "TPS 001, ARUGIA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072003",
+        "tps": "9508072003002",
+        "url": "95\/9508\/950807\/9508072003\/9508072003002.json",
+        "nama": "TPS 002, ARUGIA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072005",
+        "tps": "9508072005001",
+        "url": "95\/9508\/950807\/9508072005\/9508072005001.json",
+        "nama": "TPS 001, DIGILIMU, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072005",
+        "tps": "9508072005002",
+        "url": "95\/9508\/950807\/9508072005\/9508072005002.json",
+        "nama": "TPS 002, DIGILIMU, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072005",
+        "tps": "9508072005003",
+        "url": "95\/9508\/950807\/9508072005\/9508072005003.json",
+        "nama": "TPS 003, DIGILIMU, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072006",
+        "tps": "9508072006001",
+        "url": "95\/9508\/950807\/9508072006\/9508072006001.json",
+        "nama": "TPS 001, KOGOMARU, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072006",
+        "tps": "9508072006002",
+        "url": "95\/9508\/950807\/9508072006\/9508072006002.json",
+        "nama": "TPS 002, KOGOMARU, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072001",
+        "tps": "9508072001001",
+        "url": "95\/9508\/950807\/9508072001\/9508072001001.json",
+        "nama": "TPS 001, MBUWA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072001",
+        "tps": "9508072001002",
+        "url": "95\/9508\/950807\/9508072001\/9508072001002.json",
+        "nama": "TPS 002, MBUWA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072001",
+        "tps": "9508072001003",
+        "url": "95\/9508\/950807\/9508072001\/9508072001003.json",
+        "nama": "TPS 003, MBUWA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072001",
+        "tps": "9508072001004",
+        "url": "95\/9508\/950807\/9508072001\/9508072001004.json",
+        "nama": "TPS 004, MBUWA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072001",
+        "tps": "9508072001005",
+        "url": "95\/9508\/950807\/9508072001\/9508072001005.json",
+        "nama": "TPS 005, MBUWA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072004",
+        "tps": "9508072004001",
+        "url": "95\/9508\/950807\/9508072004\/9508072004001.json",
+        "nama": "TPS 001, OPMU, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072004",
+        "tps": "9508072004002",
+        "url": "95\/9508\/950807\/9508072004\/9508072004002.json",
+        "nama": "TPS 002, OPMU, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072004",
+        "tps": "9508072004003",
+        "url": "95\/9508\/950807\/9508072004\/9508072004003.json",
+        "nama": "TPS 003, OPMU, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072002",
+        "tps": "9508072002001",
+        "url": "95\/9508\/950807\/9508072002\/9508072002001.json",
+        "nama": "TPS 001, OTALAMA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072002",
+        "tps": "9508072002002",
+        "url": "95\/9508\/950807\/9508072002\/9508072002002.json",
+        "nama": "TPS 002, OTALAMA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950807",
+        "desa": "9508072002",
+        "tps": "9508072002003",
+        "url": "95\/9508\/950807\/9508072002\/9508072002003.json",
+        "nama": "TPS 003, OTALAMA, MBUWA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122005",
+        "tps": "9508122005001",
+        "url": "95\/9508\/950812\/9508122005\/9508122005001.json",
+        "nama": "TPS 001, APTAM, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122005",
+        "tps": "9508122005002",
+        "url": "95\/9508\/950812\/9508122005\/9508122005002.json",
+        "nama": "TPS 002, APTAM, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122011",
+        "tps": "9508122011001",
+        "url": "95\/9508\/950812\/9508122011\/9508122011001.json",
+        "nama": "TPS 001, BONE, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122008",
+        "tps": "9508122008001",
+        "url": "95\/9508\/950812\/9508122008\/9508122008001.json",
+        "nama": "TPS 001, EREGENMANGGAL, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122003",
+        "tps": "9508122003001",
+        "url": "95\/9508\/950812\/9508122003\/9508122003001.json",
+        "nama": "TPS 001, LEMURAK, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122001",
+        "tps": "9508122001001",
+        "url": "95\/9508\/950812\/9508122001\/9508122001001.json",
+        "nama": "TPS 001, MEBOROK, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122001",
+        "tps": "9508122001002",
+        "url": "95\/9508\/950812\/9508122001\/9508122001002.json",
+        "nama": "TPS 002, MEBOROK, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122007",
+        "tps": "9508122007001",
+        "url": "95\/9508\/950812\/9508122007\/9508122007001.json",
+        "nama": "TPS 001, NARUGUM, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122006",
+        "tps": "9508122006001",
+        "url": "95\/9508\/950812\/9508122006\/9508122006001.json",
+        "nama": "TPS 001, NGENAMBA, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122012",
+        "tps": "9508122012001",
+        "url": "95\/9508\/950812\/9508122012\/9508122012001.json",
+        "nama": "TPS 001, OLUNMU, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122014",
+        "tps": "9508122014001",
+        "url": "95\/9508\/950812\/9508122014\/9508122014001.json",
+        "nama": "TPS 001, PEREKI, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122014",
+        "tps": "9508122014002",
+        "url": "95\/9508\/950812\/9508122014\/9508122014002.json",
+        "nama": "TPS 002, PEREKI, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122013",
+        "tps": "9508122013001",
+        "url": "95\/9508\/950812\/9508122013\/9508122013001.json",
+        "nama": "TPS 001, SABIEM, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122013",
+        "tps": "9508122013002",
+        "url": "95\/9508\/950812\/9508122013\/9508122013002.json",
+        "nama": "TPS 002, SABIEM, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122004",
+        "tps": "9508122004001",
+        "url": "95\/9508\/950812\/9508122004\/9508122004001.json",
+        "nama": "TPS 001, SETMIT, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122010",
+        "tps": "9508122010001",
+        "url": "95\/9508\/950812\/9508122010\/9508122010001.json",
+        "nama": "TPS 001, SIGINIMAREM, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122009",
+        "tps": "9508122009001",
+        "url": "95\/9508\/950812\/9508122009\/9508122009001.json",
+        "nama": "TPS 001, TALPAM, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122009",
+        "tps": "9508122009002",
+        "url": "95\/9508\/950812\/9508122009\/9508122009002.json",
+        "nama": "TPS 002, TALPAM, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950812",
+        "desa": "9508122002",
+        "tps": "9508122002001",
+        "url": "95\/9508\/950812\/9508122002\/9508122002001.json",
+        "nama": "TPS 001, YUGURU, MEBAROK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282006",
+        "tps": "9508282006001",
+        "url": "95\/9508\/950828\/9508282006\/9508282006001.json",
+        "nama": "TPS 001, ANGGULPA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282006",
+        "tps": "9508282006002",
+        "url": "95\/9508\/950828\/9508282006\/9508282006002.json",
+        "nama": "TPS 002, ANGGULPA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282002",
+        "tps": "9508282002001",
+        "url": "95\/9508\/950828\/9508282002\/9508282002001.json",
+        "nama": "TPS 001, GUNEA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282003",
+        "tps": "9508282003001",
+        "url": "95\/9508\/950828\/9508282003\/9508282003001.json",
+        "nama": "TPS 001, KWEGONO, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282004",
+        "tps": "9508282004001",
+        "url": "95\/9508\/950828\/9508282004\/9508282004001.json",
+        "nama": "TPS 001, LANGPANG, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282001",
+        "tps": "9508282001001",
+        "url": "95\/9508\/950828\/9508282001\/9508282001001.json",
+        "nama": "TPS 001, MOBA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282001",
+        "tps": "9508282001002",
+        "url": "95\/9508\/950828\/9508282001\/9508282001002.json",
+        "nama": "TPS 002, MOBA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282007",
+        "tps": "9508282007001",
+        "url": "95\/9508\/950828\/9508282007\/9508282007001.json",
+        "nama": "TPS 001, MOBA DUA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282007",
+        "tps": "9508282007002",
+        "url": "95\/9508\/950828\/9508282007\/9508282007002.json",
+        "nama": "TPS 002, MOBA DUA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282008",
+        "tps": "9508282008001",
+        "url": "95\/9508\/950828\/9508282008\/9508282008001.json",
+        "nama": "TPS 001, PIJAMA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282008",
+        "tps": "9508282008002",
+        "url": "95\/9508\/950828\/9508282008\/9508282008002.json",
+        "nama": "TPS 002, PIJAMA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950828",
+        "desa": "9508282005",
+        "tps": "9508282005001",
+        "url": "95\/9508\/950828\/9508282005\/9508282005001.json",
+        "nama": "TPS 001, YERETMA, MOBA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062008",
+        "tps": "9508062008001",
+        "url": "95\/9508\/950806\/9508062008\/9508062008001.json",
+        "nama": "TPS 001, DELIT, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062008",
+        "tps": "9508062008002",
+        "url": "95\/9508\/950806\/9508062008\/9508062008002.json",
+        "nama": "TPS 002, DELIT, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062003",
+        "tps": "9508062003001",
+        "url": "95\/9508\/950806\/9508062003\/9508062003001.json",
+        "nama": "TPS 001, DOBOPEM, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062002",
+        "tps": "9508062002001",
+        "url": "95\/9508\/950806\/9508062002\/9508062002001.json",
+        "nama": "TPS 001, DONDOKLEMA, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062017",
+        "tps": "9508062017001",
+        "url": "95\/9508\/950806\/9508062017\/9508062017001.json",
+        "nama": "TPS 001, GISAROK, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062018",
+        "tps": "9508062018001",
+        "url": "95\/9508\/950806\/9508062018\/9508062018001.json",
+        "nama": "TPS 001, ISIKLAK, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062006",
+        "tps": "9508062006001",
+        "url": "95\/9508\/950806\/9508062006\/9508062006001.json",
+        "nama": "TPS 001, KEMAMBURU, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062009",
+        "tps": "9508062009001",
+        "url": "95\/9508\/950806\/9508062009\/9508062009001.json",
+        "nama": "TPS 001, KERET ANGGOMA, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062009",
+        "tps": "9508062009002",
+        "url": "95\/9508\/950806\/9508062009\/9508062009002.json",
+        "nama": "TPS 002, KERET ANGGOMA, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062010",
+        "tps": "9508062010001",
+        "url": "95\/9508\/950806\/9508062010\/9508062010001.json",
+        "nama": "TPS 001, MANET, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062011",
+        "tps": "9508062011001",
+        "url": "95\/9508\/950806\/9508062011\/9508062011001.json",
+        "nama": "TPS 001, MIRI, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062015",
+        "tps": "9508062015001",
+        "url": "95\/9508\/950806\/9508062015\/9508062015001.json",
+        "nama": "TPS 001, MIRIKIL, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062001",
+        "tps": "9508062001001",
+        "url": "95\/9508\/950806\/9508062001\/9508062001001.json",
+        "nama": "TPS 001, MUGI, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062001",
+        "tps": "9508062001002",
+        "url": "95\/9508\/950806\/9508062001\/9508062001002.json",
+        "nama": "TPS 002, MUGI, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062004",
+        "tps": "9508062004001",
+        "url": "95\/9508\/950806\/9508062004\/9508062004001.json",
+        "nama": "TPS 001, PARU, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062016",
+        "tps": "9508062016001",
+        "url": "95\/9508\/950806\/9508062016\/9508062016001.json",
+        "nama": "TPS 001, SAMBUA, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062013",
+        "tps": "9508062013001",
+        "url": "95\/9508\/950806\/9508062013\/9508062013001.json",
+        "nama": "TPS 001, SARIT, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062014",
+        "tps": "9508062014001",
+        "url": "95\/9508\/950806\/9508062014\/9508062014001.json",
+        "nama": "TPS 001, UNUE, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062007",
+        "tps": "9508062007001",
+        "url": "95\/9508\/950806\/9508062007\/9508062007001.json",
+        "nama": "TPS 001, WOMSIT, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062007",
+        "tps": "9508062007002",
+        "url": "95\/9508\/950806\/9508062007\/9508062007002.json",
+        "nama": "TPS 002, WOMSIT, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062005",
+        "tps": "9508062005001",
+        "url": "95\/9508\/950806\/9508062005\/9508062005001.json",
+        "nama": "TPS 001, WUNDUI, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950806",
+        "desa": "9508062012",
+        "tps": "9508062012001",
+        "url": "95\/9508\/950806\/9508062012\/9508062012001.json",
+        "nama": "TPS 001, YELSENGGE, MUGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950830",
+        "desa": "9508302003",
+        "tps": "9508302003001",
+        "url": "95\/9508\/950830\/9508302003\/9508302003001.json",
+        "nama": "TPS 001, KOMBAMA, NENGGEAGIN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950830",
+        "desa": "9508302003",
+        "tps": "9508302003002",
+        "url": "95\/9508\/950830\/9508302003\/9508302003002.json",
+        "nama": "TPS 002, KOMBAMA, NENGGEAGIN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950830",
+        "desa": "9508302001",
+        "tps": "9508302001001",
+        "url": "95\/9508\/950830\/9508302001\/9508302001001.json",
+        "nama": "TPS 001, NEGGEA, NENGGEAGIN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950830",
+        "desa": "9508302005",
+        "tps": "9508302005001",
+        "url": "95\/9508\/950830\/9508302005\/9508302005001.json",
+        "nama": "TPS 001, NENGGEAGIN, NENGGEAGIN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950830",
+        "desa": "9508302005",
+        "tps": "9508302005002",
+        "url": "95\/9508\/950830\/9508302005\/9508302005002.json",
+        "nama": "TPS 002, NENGGEAGIN, NENGGEAGIN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950830",
+        "desa": "9508302005",
+        "tps": "9508302005003",
+        "url": "95\/9508\/950830\/9508302005\/9508302005003.json",
+        "nama": "TPS 003, NENGGEAGIN, NENGGEAGIN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950830",
+        "desa": "9508302004",
+        "tps": "9508302004001",
+        "url": "95\/9508\/950830\/9508302004\/9508302004001.json",
+        "nama": "TPS 001, WENGGENAMBUT, NENGGEAGIN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950830",
+        "desa": "9508302004",
+        "tps": "9508302004002",
+        "url": "95\/9508\/950830\/9508302004\/9508302004002.json",
+        "nama": "TPS 002, WENGGENAMBUT, NENGGEAGIN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950830",
+        "desa": "9508302002",
+        "tps": "9508302002001",
+        "url": "95\/9508\/950830\/9508302002\/9508302002001.json",
+        "nama": "TPS 001, WULAGUMI, NENGGEAGIN, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192002",
+        "tps": "9508192002001",
+        "url": "95\/9508\/950819\/9508192002\/9508192002001.json",
+        "nama": "TPS 001, BINIME, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192009",
+        "tps": "9508192009001",
+        "url": "95\/9508\/950819\/9508192009\/9508192009001.json",
+        "nama": "TPS 001, KOKUJONDUMU, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192009",
+        "tps": "9508192009002",
+        "url": "95\/9508\/950819\/9508192009\/9508192009002.json",
+        "nama": "TPS 002, KOKUJONDUMU, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192010",
+        "tps": "9508192010001",
+        "url": "95\/9508\/950819\/9508192010\/9508192010001.json",
+        "nama": "TPS 001, KURIGI, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192010",
+        "tps": "9508192010002",
+        "url": "95\/9508\/950819\/9508192010\/9508192010002.json",
+        "nama": "TPS 002, KURIGI, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192008",
+        "tps": "9508192008001",
+        "url": "95\/9508\/950819\/9508192008\/9508192008001.json",
+        "nama": "TPS 001, LIKUBUK, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192008",
+        "tps": "9508192008002",
+        "url": "95\/9508\/950819\/9508192008\/9508192008002.json",
+        "nama": "TPS 002, LIKUBUK, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192006",
+        "tps": "9508192006001",
+        "url": "95\/9508\/950819\/9508192006\/9508192006001.json",
+        "nama": "TPS 001, NIRIGIMBIRIK, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192006",
+        "tps": "9508192006002",
+        "url": "95\/9508\/950819\/9508192006\/9508192006002.json",
+        "nama": "TPS 002, NIRIGIMBIRIK, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192001",
+        "tps": "9508192001001",
+        "url": "95\/9508\/950819\/9508192001\/9508192001001.json",
+        "nama": "TPS 001, NIRKURI, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192007",
+        "tps": "9508192007001",
+        "url": "95\/9508\/950819\/9508192007\/9508192007001.json",
+        "nama": "TPS 001, OLDOBO, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192004",
+        "tps": "9508192004001",
+        "url": "95\/9508\/950819\/9508192004\/9508192004001.json",
+        "nama": "TPS 001, PASEBEM, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192005",
+        "tps": "9508192005001",
+        "url": "95\/9508\/950819\/9508192005\/9508192005001.json",
+        "nama": "TPS 001, SIGMIE, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192005",
+        "tps": "9508192005002",
+        "url": "95\/9508\/950819\/9508192005\/9508192005002.json",
+        "nama": "TPS 002, SIGMIE, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192003",
+        "tps": "9508192003001",
+        "url": "95\/9508\/950819\/9508192003\/9508192003001.json",
+        "nama": "TPS 001, UENOMA, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950819",
+        "desa": "9508192003",
+        "tps": "9508192003002",
+        "url": "95\/9508\/950819\/9508192003\/9508192003002.json",
+        "nama": "TPS 002, UENOMA, NIRKURI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112003",
+        "tps": "9508112003001",
+        "url": "95\/9508\/950811\/9508112003\/9508112003001.json",
+        "nama": "TPS 001, ANIMAREM, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112003",
+        "tps": "9508112003002",
+        "url": "95\/9508\/950811\/9508112003\/9508112003002.json",
+        "nama": "TPS 002, ANIMAREM, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112005",
+        "tps": "9508112005001",
+        "url": "95\/9508\/950811\/9508112005\/9508112005001.json",
+        "nama": "TPS 001, LOARABA, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112005",
+        "tps": "9508112005002",
+        "url": "95\/9508\/950811\/9508112005\/9508112005002.json",
+        "nama": "TPS 002, LOARABA, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112002",
+        "tps": "9508112002001",
+        "url": "95\/9508\/950811\/9508112002\/9508112002001.json",
+        "nama": "TPS 001, LOMBRIK, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112002",
+        "tps": "9508112002002",
+        "url": "95\/9508\/950811\/9508112002\/9508112002002.json",
+        "nama": "TPS 002, LOMBRIK, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112001",
+        "tps": "9508112001001",
+        "url": "95\/9508\/950811\/9508112001\/9508112001001.json",
+        "nama": "TPS 001, PARO, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112001",
+        "tps": "9508112001002",
+        "url": "95\/9508\/950811\/9508112001\/9508112001002.json",
+        "nama": "TPS 002, PARO, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112001",
+        "tps": "9508112001003",
+        "url": "95\/9508\/950811\/9508112001\/9508112001003.json",
+        "nama": "TPS 003, PARO, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112004",
+        "tps": "9508112004001",
+        "url": "95\/9508\/950811\/9508112004\/9508112004001.json",
+        "nama": "TPS 001, TAWELMA, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950811",
+        "desa": "9508112004",
+        "tps": "9508112004002",
+        "url": "95\/9508\/950811\/9508112004\/9508112004002.json",
+        "nama": "TPS 002, TAWELMA, PARO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950832",
+        "desa": "9508322003",
+        "tps": "9508322003001",
+        "url": "95\/9508\/950832\/9508322003\/9508322003001.json",
+        "nama": "TPS 001, BENGGEM, PASIR PUTIH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950832",
+        "desa": "9508322003",
+        "tps": "9508322003002",
+        "url": "95\/9508\/950832\/9508322003\/9508322003002.json",
+        "nama": "TPS 002, BENGGEM, PASIR PUTIH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950832",
+        "desa": "9508322001",
+        "tps": "9508322001001",
+        "url": "95\/9508\/950832\/9508322001\/9508322001001.json",
+        "nama": "TPS 001, MANDALA, PASIR PUTIH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950832",
+        "desa": "9508322001",
+        "tps": "9508322001002",
+        "url": "95\/9508\/950832\/9508322001\/9508322001002.json",
+        "nama": "TPS 002, MANDALA, PASIR PUTIH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950832",
+        "desa": "9508322004",
+        "tps": "9508322004001",
+        "url": "95\/9508\/950832\/9508322004\/9508322004001.json",
+        "nama": "TPS 001, PASIR PUTIH, PASIR PUTIH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950832",
+        "desa": "9508322002",
+        "tps": "9508322002001",
+        "url": "95\/9508\/950832\/9508322002\/9508322002001.json",
+        "nama": "TPS 001, TRIM, PASIR PUTIH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950832",
+        "desa": "9508322002",
+        "tps": "9508322002002",
+        "url": "95\/9508\/950832\/9508322002\/9508322002002.json",
+        "nama": "TPS 002, TRIM, PASIR PUTIH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950832",
+        "desa": "9508322002",
+        "tps": "9508322002003",
+        "url": "95\/9508\/950832\/9508322002\/9508322002003.json",
+        "nama": "TPS 003, TRIM, PASIR PUTIH, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950827",
+        "desa": "9508272005",
+        "tps": "9508272005001",
+        "url": "95\/9508\/950827\/9508272005\/9508272005001.json",
+        "nama": "TPS 001, MURUPBAYE, PIJA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950827",
+        "desa": "9508272001",
+        "tps": "9508272001001",
+        "url": "95\/9508\/950827\/9508272001\/9508272001001.json",
+        "nama": "TPS 001, NGANAI, PIJA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950827",
+        "desa": "9508272001",
+        "tps": "9508272001002",
+        "url": "95\/9508\/950827\/9508272001\/9508272001002.json",
+        "nama": "TPS 002, NGANAI, PIJA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950827",
+        "desa": "9508272002",
+        "tps": "9508272002001",
+        "url": "95\/9508\/950827\/9508272002\/9508272002001.json",
+        "nama": "TPS 001, PIJA, PIJA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950827",
+        "desa": "9508272004",
+        "tps": "9508272004001",
+        "url": "95\/9508\/950827\/9508272004\/9508272004001.json",
+        "nama": "TPS 001, SIAT, PIJA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950827",
+        "desa": "9508272004",
+        "tps": "9508272004002",
+        "url": "95\/9508\/950827\/9508272004\/9508272004002.json",
+        "nama": "TPS 002, SIAT, PIJA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950827",
+        "desa": "9508272003",
+        "tps": "9508272003001",
+        "url": "95\/9508\/950827\/9508272003\/9508272003001.json",
+        "nama": "TPS 001, SITGAMA, PIJA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042004",
+        "tps": "9508042004001",
+        "url": "95\/9508\/950804\/9508042004\/9508042004001.json",
+        "nama": "TPS 001, BAMBISIK, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042004",
+        "tps": "9508042004002",
+        "url": "95\/9508\/950804\/9508042004\/9508042004002.json",
+        "nama": "TPS 002, BAMBISIK, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042004",
+        "tps": "9508042004003",
+        "url": "95\/9508\/950804\/9508042004\/9508042004003.json",
+        "nama": "TPS 003, BAMBISIK, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042003",
+        "tps": "9508042003001",
+        "url": "95\/9508\/950804\/9508042003\/9508042003001.json",
+        "nama": "TPS 001, BIALA, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042003",
+        "tps": "9508042003002",
+        "url": "95\/9508\/950804\/9508042003\/9508042003002.json",
+        "nama": "TPS 002, BIALA, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042003",
+        "tps": "9508042003003",
+        "url": "95\/9508\/950804\/9508042003\/9508042003003.json",
+        "nama": "TPS 003, BIALA, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042002",
+        "tps": "9508042002001",
+        "url": "95\/9508\/950804\/9508042002\/9508042002001.json",
+        "nama": "TPS 001, NDUGWA, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042002",
+        "tps": "9508042002002",
+        "url": "95\/9508\/950804\/9508042002\/9508042002002.json",
+        "nama": "TPS 002, NDUGWA, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042001",
+        "tps": "9508042001001",
+        "url": "95\/9508\/950804\/9508042001\/9508042001001.json",
+        "nama": "TPS 001, PILINI, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042001",
+        "tps": "9508042001002",
+        "url": "95\/9508\/950804\/9508042001\/9508042001002.json",
+        "nama": "TPS 002, PILINI, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042001",
+        "tps": "9508042001003",
+        "url": "95\/9508\/950804\/9508042001\/9508042001003.json",
+        "nama": "TPS 003, PILINI, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042005",
+        "tps": "9508042005001",
+        "url": "95\/9508\/950804\/9508042005\/9508042005001.json",
+        "nama": "TPS 001, SITPOGOL, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950804",
+        "desa": "9508042005",
+        "tps": "9508042005002",
+        "url": "95\/9508\/950804\/9508042005\/9508042005002.json",
+        "nama": "TPS 002, SITPOGOL, WOSAK, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950826",
+        "desa": "9508262004",
+        "tps": "9508262004001",
+        "url": "95\/9508\/950826\/9508262004\/9508262004001.json",
+        "nama": "TPS 001, GIMIGIP, WUSI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950826",
+        "desa": "9508262004",
+        "tps": "9508262004002",
+        "url": "95\/9508\/950826\/9508262004\/9508262004002.json",
+        "nama": "TPS 002, GIMIGIP, WUSI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950826",
+        "desa": "9508262004",
+        "tps": "9508262004003",
+        "url": "95\/9508\/950826\/9508262004\/9508262004003.json",
+        "nama": "TPS 003, GIMIGIP, WUSI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950826",
+        "desa": "9508262002",
+        "tps": "9508262002001",
+        "url": "95\/9508\/950826\/9508262002\/9508262002001.json",
+        "nama": "TPS 001, GINIGIT, WUSI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950826",
+        "desa": "9508262003",
+        "tps": "9508262003001",
+        "url": "95\/9508\/950826\/9508262003\/9508262003001.json",
+        "nama": "TPS 001, PIJEMAE, WUSI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950826",
+        "desa": "9508262003",
+        "tps": "9508262003002",
+        "url": "95\/9508\/950826\/9508262003\/9508262003002.json",
+        "nama": "TPS 002, PIJEMAE, WUSI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950826",
+        "desa": "9508262003",
+        "tps": "9508262003003",
+        "url": "95\/9508\/950826\/9508262003\/9508262003003.json",
+        "nama": "TPS 003, PIJEMAE, WUSI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950826",
+        "desa": "9508262001",
+        "tps": "9508262001001",
+        "url": "95\/9508\/950826\/9508262001\/9508262001001.json",
+        "nama": "TPS 001, WUSI, WUSI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292004",
+        "tps": "9508292004001",
+        "url": "95\/9508\/950829\/9508292004\/9508292004001.json",
+        "nama": "TPS 001, LUAREN, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292001",
+        "tps": "9508292001001",
+        "url": "95\/9508\/950829\/9508292001\/9508292001001.json",
+        "nama": "TPS 001, MULI, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292002",
+        "tps": "9508292002001",
+        "url": "95\/9508\/950829\/9508292002\/9508292002001.json",
+        "nama": "TPS 001, TINIGELE, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292002",
+        "tps": "9508292002002",
+        "url": "95\/9508\/950829\/9508292002\/9508292002002.json",
+        "nama": "TPS 002, TINIGELE, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292005",
+        "tps": "9508292005001",
+        "url": "95\/9508\/950829\/9508292005\/9508292005001.json",
+        "nama": "TPS 001, WANGUN, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292005",
+        "tps": "9508292005002",
+        "url": "95\/9508\/950829\/9508292005\/9508292005002.json",
+        "nama": "TPS 002, WANGUN, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292003",
+        "tps": "9508292003001",
+        "url": "95\/9508\/950829\/9508292003\/9508292003001.json",
+        "nama": "TPS 001, WUONE, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292003",
+        "tps": "9508292003002",
+        "url": "95\/9508\/950829\/9508292003\/9508292003002.json",
+        "nama": "TPS 002, WUONE, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292006",
+        "tps": "9508292006001",
+        "url": "95\/9508\/950829\/9508292006\/9508292006001.json",
+        "nama": "TPS 001, WUTPAGA, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950829",
+        "desa": "9508292006",
+        "tps": "9508292006002",
+        "url": "95\/9508\/950829\/9508292006\/9508292006002.json",
+        "nama": "TPS 002, WUTPAGA, WUTPAGA, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162011",
+        "tps": "9508162011001",
+        "url": "95\/9508\/950816\/9508162011\/9508162011001.json",
+        "nama": "TPS 001, BETBERE, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162020",
+        "tps": "9508162020001",
+        "url": "95\/9508\/950816\/9508162020\/9508162020001.json",
+        "nama": "TPS 001, BILEDUMU, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162009",
+        "tps": "9508162009001",
+        "url": "95\/9508\/950816\/9508162009\/9508162009001.json",
+        "nama": "TPS 001, DANGENPEM, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162014",
+        "tps": "9508162014001",
+        "url": "95\/9508\/950816\/9508162014\/9508162014001.json",
+        "nama": "TPS 001, DENGPA, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162008",
+        "tps": "9508162008001",
+        "url": "95\/9508\/950816\/9508162008\/9508162008001.json",
+        "nama": "TPS 001, DIRINGGAMA, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162003",
+        "tps": "9508162003001",
+        "url": "95\/9508\/950816\/9508162003\/9508162003001.json",
+        "nama": "TPS 001, GIMI, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162015",
+        "tps": "9508162015001",
+        "url": "95\/9508\/950816\/9508162015\/9508162015001.json",
+        "nama": "TPS 001, GIRIMNAK, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162019",
+        "tps": "9508162019001",
+        "url": "95\/9508\/950816\/9508162019\/9508162019001.json",
+        "nama": "TPS 001, GULAREM, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162019",
+        "tps": "9508162019002",
+        "url": "95\/9508\/950816\/9508162019\/9508162019002.json",
+        "nama": "TPS 002, GULAREM, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162016",
+        "tps": "9508162016001",
+        "url": "95\/9508\/950816\/9508162016\/9508162016001.json",
+        "nama": "TPS 001, LAMBULE, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162004",
+        "tps": "9508162004001",
+        "url": "95\/9508\/950816\/9508162004\/9508162004001.json",
+        "nama": "TPS 001, MUGIAREM, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162012",
+        "tps": "9508162012001",
+        "url": "95\/9508\/950816\/9508162012\/9508162012001.json",
+        "nama": "TPS 001, MURULDUMU, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162005",
+        "tps": "9508162005001",
+        "url": "95\/9508\/950816\/9508162005\/9508162005001.json",
+        "nama": "TPS 001, PALPAM, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162006",
+        "tps": "9508162006001",
+        "url": "95\/9508\/950816\/9508162006\/9508162006001.json",
+        "nama": "TPS 001, SAMBA, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162006",
+        "tps": "9508162006002",
+        "url": "95\/9508\/950816\/9508162006\/9508162006002.json",
+        "nama": "TPS 002, SAMBA, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162007",
+        "tps": "9508162007001",
+        "url": "95\/9508\/950816\/9508162007\/9508162007001.json",
+        "nama": "TPS 001, SITDOBO, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162018",
+        "tps": "9508162018001",
+        "url": "95\/9508\/950816\/9508162018\/9508162018001.json",
+        "nama": "TPS 001, SUELAMA, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162017",
+        "tps": "9508162017001",
+        "url": "95\/9508\/950816\/9508162017\/9508162017001.json",
+        "nama": "TPS 001, SUJOMDOBO, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162010",
+        "tps": "9508162010001",
+        "url": "95\/9508\/950816\/9508162010\/9508162010001.json",
+        "nama": "TPS 001, UNDO, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162013",
+        "tps": "9508162013001",
+        "url": "95\/9508\/950816\/9508162013\/9508162013001.json",
+        "nama": "TPS 001, YABA, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162001",
+        "tps": "9508162001001",
+        "url": "95\/9508\/950816\/9508162001\/9508162001001.json",
+        "nama": "TPS 001, YAL, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162001",
+        "tps": "9508162001002",
+        "url": "95\/9508\/950816\/9508162001\/9508162001002.json",
+        "nama": "TPS 002, YAL, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162002",
+        "tps": "9508162002001",
+        "url": "95\/9508\/950816\/9508162002\/9508162002001.json",
+        "nama": "TPS 001, YIMOGI, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950816",
+        "desa": "9508162002",
+        "tps": "9508162002002",
+        "url": "95\/9508\/950816\/9508162002\/9508162002002.json",
+        "nama": "TPS 002, YIMOGI, YAL, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950813",
+        "desa": "9508132002",
+        "tps": "9508132002001",
+        "url": "95\/9508\/950813\/9508132002\/9508132002001.json",
+        "nama": "TPS 001, MAIMA, YENGGELO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950813",
+        "desa": "9508132002",
+        "tps": "9508132002002",
+        "url": "95\/9508\/950813\/9508132002\/9508132002002.json",
+        "nama": "TPS 002, MAIMA, YENGGELO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950813",
+        "desa": "9508132003",
+        "tps": "9508132003001",
+        "url": "95\/9508\/950813\/9508132003\/9508132003001.json",
+        "nama": "TPS 001, NOLO, YENGGELO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950813",
+        "desa": "9508132003",
+        "tps": "9508132003002",
+        "url": "95\/9508\/950813\/9508132003\/9508132003002.json",
+        "nama": "TPS 002, NOLO, YENGGELO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950813",
+        "desa": "9508132004",
+        "tps": "9508132004001",
+        "url": "95\/9508\/950813\/9508132004\/9508132004001.json",
+        "nama": "TPS 001, WUAREM, YENGGELO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950813",
+        "desa": "9508132004",
+        "tps": "9508132004002",
+        "url": "95\/9508\/950813\/9508132004\/9508132004002.json",
+        "nama": "TPS 002, WUAREM, YENGGELO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950813",
+        "desa": "9508132001",
+        "tps": "9508132001001",
+        "url": "95\/9508\/950813\/9508132001\/9508132001001.json",
+        "nama": "TPS 001, YENGGELO, YENGGELO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950813",
+        "desa": "9508132001",
+        "tps": "9508132001002",
+        "url": "95\/9508\/950813\/9508132001\/9508132001002.json",
+        "nama": "TPS 002, YENGGELO, YENGGELO, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032012",
+        "tps": "9508032012001",
+        "url": "95\/9508\/950803\/9508032012\/9508032012001.json",
+        "nama": "TPS 001, BOROT, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032012",
+        "tps": "9508032012002",
+        "url": "95\/9508\/950803\/9508032012\/9508032012002.json",
+        "nama": "TPS 002, BOROT, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032011",
+        "tps": "9508032011001",
+        "url": "95\/9508\/950803\/9508032011\/9508032011001.json",
+        "nama": "TPS 001, DELSA, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032011",
+        "tps": "9508032011002",
+        "url": "95\/9508\/950803\/9508032011\/9508032011002.json",
+        "nama": "TPS 002, DELSA, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032006",
+        "tps": "9508032006001",
+        "url": "95\/9508\/950803\/9508032006\/9508032006001.json",
+        "nama": "TPS 001, DISENDOBO, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032002",
+        "tps": "9508032002001",
+        "url": "95\/9508\/950803\/9508032002\/9508032002001.json",
+        "nama": "TPS 001, EKILAPO, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032002",
+        "tps": "9508032002002",
+        "url": "95\/9508\/950803\/9508032002\/9508032002002.json",
+        "nama": "TPS 002, EKILAPO, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032004",
+        "tps": "9508032004001",
+        "url": "95\/9508\/950803\/9508032004\/9508032004001.json",
+        "nama": "TPS 001, KARUNGGAME, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032009",
+        "tps": "9508032009001",
+        "url": "95\/9508\/950803\/9508032009\/9508032009001.json",
+        "nama": "TPS 001, LUMBUKDUMU, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032005",
+        "tps": "9508032005001",
+        "url": "95\/9508\/950803\/9508032005\/9508032005001.json",
+        "nama": "TPS 001, SIRIT, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032007",
+        "tps": "9508032007001",
+        "url": "95\/9508\/950803\/9508032007\/9508032007001.json",
+        "nama": "TPS 001, SUMBO, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032003",
+        "tps": "9508032003001",
+        "url": "95\/9508\/950803\/9508032003\/9508032003001.json",
+        "nama": "TPS 001, SUWENEM, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032010",
+        "tps": "9508032010001",
+        "url": "95\/9508\/950803\/9508032010\/9508032010001.json",
+        "nama": "TPS 001, WIRITLAK, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032010",
+        "tps": "9508032010002",
+        "url": "95\/9508\/950803\/9508032010\/9508032010002.json",
+        "nama": "TPS 002, WIRITLAK, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032008",
+        "tps": "9508032008001",
+        "url": "95\/9508\/950803\/9508032008\/9508032008001.json",
+        "nama": "TPS 001, YEBADOLMA, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032008",
+        "tps": "9508032008002",
+        "url": "95\/9508\/950803\/9508032008\/9508032008002.json",
+        "nama": "TPS 002, YEBADOLMA, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032001",
+        "tps": "9508032001001",
+        "url": "95\/9508\/950803\/9508032001\/9508032001001.json",
+        "nama": "TPS 001, YIGI, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032001",
+        "tps": "9508032001002",
+        "url": "95\/9508\/950803\/9508032001\/9508032001002.json",
+        "nama": "TPS 002, YIGI, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9508",
+        "kecamatan": "950803",
+        "desa": "9508032001",
+        "tps": "9508032001003",
+        "url": "95\/9508\/950803\/9508032001\/9508032001003.json",
+        "nama": "TPS 003, YIGI, YIGI, NDUGA, PAPUA PEGUNUNGAN"
+    }
+]

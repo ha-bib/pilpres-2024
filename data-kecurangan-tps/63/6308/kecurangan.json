@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "63",
+        "kabupaten": "6308",
+        "kecamatan": "630804",
+        "desa": "6308042024",
+        "tps": "6308042024002",
+        "nama": "TPS 002, CANGKERING, AMUNTAI SELATAN, HULU SUNGAI UTARA, KALIMANTAN SELATAN",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6308\/630804\/6308042024\/6308042024002"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6308",
+        "kecamatan": "630804",
+        "desa": "6308042028",
+        "tps": "6308042028003",
+        "nama": "TPS 003, TELAGA HANYAR, AMUNTAI SELATAN, HULU SUNGAI UTARA, KALIMANTAN SELATAN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6308\/630804\/6308042028\/6308042028003"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6308",
+        "kecamatan": "630805",
+        "desa": "6308052014",
+        "tps": "6308052014002",
+        "nama": "TPS 002, PINANGKARA, AMUNTAI TENGAH, HULU SUNGAI UTARA, KALIMANTAN SELATAN",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6308\/630805\/6308052014\/6308052014002"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6308",
+        "kecamatan": "630802",
+        "desa": "6308022013",
+        "tps": "6308022013004",
+        "nama": "TPS 004, SUNGAI DURAIT HULU, BABIRIK, HULU SUNGAI UTARA, KALIMANTAN SELATAN",
+        "selisih": 144,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6308\/630802\/6308022013\/6308022013004"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6308",
+        "kecamatan": "630801",
+        "desa": "6308012008",
+        "tps": "6308012008003",
+        "nama": "TPS 003, PANDAMAAN, DANAU PANGGANG, HULU SUNGAI UTARA, KALIMANTAN SELATAN",
+        "selisih": 20,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6308\/630801\/6308012008\/6308012008003"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6308",
+        "kecamatan": "630810",
+        "desa": "6308102017",
+        "tps": "6308102017001",
+        "nama": "TPS 001, TAMBALANG RAYA, SUNGAI TABUKAN, HULU SUNGAI UTARA, KALIMANTAN SELATAN",
+        "selisih": -101,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6308\/630810\/6308102017\/6308102017001"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6308",
+        "kecamatan": "630801",
+        "desa": "6308012011",
+        "tps": "6308012011002",
+        "nama": "TPS 002, MANARAP, DANAU PANGGANG, HULU SUNGAI UTARA, KALIMANTAN SELATAN",
+        "selisih": 144,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6308\/630801\/6308012011\/6308012011002"
+    }
+]

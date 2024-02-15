@@ -1,0 +1,112 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121007",
+        "desa": "1210072001",
+        "tps": "1210072001006",
+        "nama": "TPS 006, SIBARGOT, BILAH BARAT, LABUHANBATU, SUMATERA UTARA",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121007\/1210072001\/1210072001006"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121008",
+        "desa": "1210082005",
+        "tps": "1210082005004",
+        "nama": "TPS 004, PERKEBUNAN BILAH, BILAH HILIR, LABUHANBATU, SUMATERA UTARA",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121008\/1210082005\/1210082005004"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121009",
+        "desa": "1210092006",
+        "tps": "1210092006006",
+        "nama": "TPS 006, EMPLASEMEN AEK NABARA, BILAH HULU, LABUHANBATU, SUMATERA UTARA",
+        "selisih": -600,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121009\/1210092006\/1210092006006"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121009",
+        "desa": "1210092002",
+        "tps": "1210092002001",
+        "nama": "TPS 001, TANJUNG SIRAM, BILAH HULU, LABUHANBATU, SUMATERA UTARA",
+        "selisih": -88,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121009\/1210092002\/1210092002001"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121002",
+        "desa": "1210021001",
+        "tps": "1210021001017",
+        "nama": "TPS 017, BAKARAN BATU, RANTAU SELATAN, LABUHANBATU, SUMATERA UTARA",
+        "selisih": 742,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121002\/1210021001\/1210021001017"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121002",
+        "desa": "1210021008",
+        "tps": "1210021008017",
+        "nama": "TPS 017, DANAU BALE, RANTAU SELATAN, LABUHANBATU, SUMATERA UTARA",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121002\/1210021008\/1210021008017"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121001",
+        "desa": "1210011006",
+        "tps": "1210011006013",
+        "nama": "TPS 013, CENDANA, RANTAU UTARA, LABUHANBATU, SUMATERA UTARA",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121001\/1210011006\/1210011006013"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121001",
+        "desa": "1210011005",
+        "tps": "1210011005008",
+        "nama": "TPS 008, KARTINI, RANTAU UTARA, LABUHANBATU, SUMATERA UTARA",
+        "selisih": -46,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121001\/1210011005\/1210011005008"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121001",
+        "desa": "1210011001",
+        "tps": "1210011001033",
+        "nama": "TPS 033, PADANG MATINGGI, RANTAU UTARA, LABUHANBATU, SUMATERA UTARA",
+        "selisih": 620,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121001\/1210011001\/1210011001033"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121001",
+        "desa": "1210011003",
+        "tps": "1210011003006",
+        "nama": "TPS 006, SIRANDORUNG, RANTAU UTARA, LABUHANBATU, SUMATERA UTARA",
+        "selisih": -60,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121001\/1210011003\/1210011003006"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1210",
+        "kecamatan": "121002",
+        "desa": "1210021001",
+        "tps": "1210021001028",
+        "nama": "TPS 028, BAKARAN BATU, RANTAU SELATAN, LABUHANBATU, SUMATERA UTARA",
+        "selisih": 742,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1210\/121002\/1210021001\/1210021001028"
+    }
+]

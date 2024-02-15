@@ -1,0 +1,56 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99BA",
+        "kecamatan": "99BA01",
+        "desa": "99BA010001",
+        "tps": "99BA010001001",
+        "url": "99\/99BA\/99BA01\/99BA010001\/99BA010001001.json",
+        "nama": "POS 001, Wellington, Selandia Baru, Wellington, Selandia Baru, Wellington, Selandia Baru, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BA",
+        "kecamatan": "99BA01",
+        "desa": "99BA010001",
+        "tps": "99BA010001002",
+        "url": "99\/99BA\/99BA01\/99BA010001\/99BA010001002.json",
+        "nama": "POS 002, Wellington, Selandia Baru, Wellington, Selandia Baru, Wellington, Selandia Baru, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BA",
+        "kecamatan": "99BA01",
+        "desa": "99BA010001",
+        "tps": "99BA010001003",
+        "url": "99\/99BA\/99BA01\/99BA010001\/99BA010001003.json",
+        "nama": "POS 003, Wellington, Selandia Baru, Wellington, Selandia Baru, Wellington, Selandia Baru, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BA",
+        "kecamatan": "99BA01",
+        "desa": "99BA010001",
+        "tps": "99BA010001004",
+        "url": "99\/99BA\/99BA01\/99BA010001\/99BA010001004.json",
+        "nama": "POS 004, Wellington, Selandia Baru, Wellington, Selandia Baru, Wellington, Selandia Baru, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BA",
+        "kecamatan": "99BA01",
+        "desa": "99BA010001",
+        "tps": "99BA010001005",
+        "url": "99\/99BA\/99BA01\/99BA010001\/99BA010001005.json",
+        "nama": "TPS 001, Wellington, Selandia Baru, Wellington, Selandia Baru, Wellington, Selandia Baru, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BA",
+        "kecamatan": "99BA01",
+        "desa": "99BA010001",
+        "tps": "99BA010001006",
+        "url": "99\/99BA\/99BA01\/99BA010001\/99BA010001006.json",
+        "nama": "TPS 002, Wellington, Selandia Baru, Wellington, Selandia Baru, Wellington, Selandia Baru, Luar Negeri"
+    }
+]

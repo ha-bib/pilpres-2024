@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "33",
+        "kabupaten": "3321",
+        "kecamatan": "332109",
+        "desa": "3321092013",
+        "tps": "3321092013018",
+        "nama": "TPS 018, KEDUNGWARU KIDUL, KARANGANYAR, DEMAK, JAWA TENGAH",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3321\/332109\/3321092013\/3321092013018"
+    },
+    {
+        "provinsi": "33",
+        "kabupaten": "3321",
+        "kecamatan": "332105",
+        "desa": "3321052010",
+        "tps": "3321052010003",
+        "nama": "TPS 003, KARANGSARI, KARANGTENGAH, DEMAK, JAWA TENGAH",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3321\/332105\/3321052010\/3321052010003"
+    },
+    {
+        "provinsi": "33",
+        "kabupaten": "3321",
+        "kecamatan": "332105",
+        "desa": "3321052008",
+        "tps": "3321052008009",
+        "nama": "TPS 009, KEDUNGUTER, KARANGTENGAH, DEMAK, JAWA TENGAH",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3321\/332105\/3321052008\/3321052008009"
+    },
+    {
+        "provinsi": "33",
+        "kabupaten": "3321",
+        "kecamatan": "332101",
+        "desa": "3321012005",
+        "tps": "3321012005023",
+        "nama": "TPS 023, KANGKUNG, MRANGGEN, DEMAK, JAWA TENGAH",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3321\/332101\/3321012005\/3321012005023"
+    },
+    {
+        "provinsi": "33",
+        "kabupaten": "3321",
+        "kecamatan": "332104",
+        "desa": "3321042011",
+        "tps": "3321042011002",
+        "nama": "TPS 002, SRIWULAN, SAYUNG, DEMAK, JAWA TENGAH",
+        "selisih": -7,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3321\/332104\/3321042011\/3321042011002"
+    },
+    {
+        "provinsi": "33",
+        "kabupaten": "3321",
+        "kecamatan": "332104",
+        "desa": "3321042011",
+        "tps": "3321042011026",
+        "nama": "TPS 026, SRIWULAN, SAYUNG, DEMAK, JAWA TENGAH",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3321\/332104\/3321042011\/3321042011026"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1116",
+        "kecamatan": "111603",
+        "desa": "1116032034",
+        "tps": "1116032034001",
+        "nama": "TPS 001, BUKIT PANJANG, KARANG BARU, ACEH TAMIANG, ACEH",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1116\/111603\/1116032034\/1116032034001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1116",
+        "kecamatan": "111603",
+        "desa": "1116032009",
+        "tps": "1116032009007",
+        "nama": "TPS 007, BUNDAR, KARANG BARU, ACEH TAMIANG, ACEH",
+        "selisih": 80,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1116\/111603\/1116032009\/1116032009007"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1116",
+        "kecamatan": "111606",
+        "desa": "1116062006",
+        "tps": "1116062006005",
+        "nama": "TPS 005, GERENGGAM, KEJURUAN MUDA, ACEH TAMIANG, ACEH",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1116\/111606\/1116062006\/1116062006005"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1116",
+        "kecamatan": "111601",
+        "desa": "1116012035",
+        "tps": "1116012035004",
+        "nama": "TPS 004, BANDUNG JAYA, MANYAK PAYED, ACEH TAMIANG, ACEH",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1116\/111601\/1116012035\/1116012035004"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1116",
+        "kecamatan": "111601",
+        "desa": "1116012033",
+        "tps": "1116012033002",
+        "nama": "TPS 002, SAPTA MARGA, MANYAK PAYED, ACEH TAMIANG, ACEH",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1116\/111601\/1116012033\/1116012033002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1116",
+        "kecamatan": "111608",
+        "desa": "1116082004",
+        "tps": "1116082004007",
+        "nama": "TPS 007, INGIN JAYA, RANTAU, ACEH TAMIANG, ACEH",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1116\/111608\/1116082004\/1116082004007"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1116",
+        "kecamatan": "111608",
+        "desa": "1116082013",
+        "tps": "1116082013001",
+        "nama": "TPS 001, JAMUR JELATANG, RANTAU, ACEH TAMIANG, ACEH",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1116\/111608\/1116082013\/1116082013001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1116",
+        "kecamatan": "111604",
+        "desa": "1116042008",
+        "tps": "1116042008001",
+        "nama": "TPS 001, PERKEBUNAN SERUWAY, SERUWAY, ACEH TAMIANG, ACEH",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1116\/111604\/1116042008\/1116042008001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1116",
+        "kecamatan": "111601",
+        "desa": "1116012026",
+        "tps": "1116012026001",
+        "nama": "TPS 001, MATANG ARA JAWA, MANYAK PAYED, ACEH TAMIANG, ACEH",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1116\/111601\/1116012026\/1116012026001"
+    }
+]

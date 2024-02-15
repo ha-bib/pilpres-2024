@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "51",
+        "kabupaten": "5104",
+        "kecamatan": "510402",
+        "desa": "5104022009",
+        "tps": "5104022009014",
+        "nama": "TPS 014, BONA, BLAHBATUH, GIANYAR, BALI",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/51\/5104\/510402\/5104022009\/5104022009014"
+    },
+    {
+        "provinsi": "51",
+        "kabupaten": "5104",
+        "kecamatan": "510402",
+        "desa": "5104022003",
+        "tps": "5104022003015",
+        "nama": "TPS 015, KERAMAS, BLAHBATUH, GIANYAR, BALI",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/51\/5104\/510402\/5104022003\/5104022003015"
+    },
+    {
+        "provinsi": "51",
+        "kabupaten": "5104",
+        "kecamatan": "510401",
+        "desa": "5104012010",
+        "tps": "5104012010001",
+        "nama": "TPS 001, SINGAPADU TENGAH, SUKAWATI, GIANYAR, BALI",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/51\/5104\/510401\/5104012010\/5104012010001"
+    },
+    {
+        "provinsi": "51",
+        "kabupaten": "5104",
+        "kecamatan": "510405",
+        "desa": "5104052004",
+        "tps": "5104052004009",
+        "nama": "TPS 009, KEDEWATAN, UBUD, GIANYAR, BALI",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/51\/5104\/510405\/5104052004\/5104052004009"
+    },
+    {
+        "provinsi": "51",
+        "kabupaten": "5104",
+        "kecamatan": "510405",
+        "desa": "5104052004",
+        "tps": "5104052004018",
+        "nama": "TPS 018, KEDEWATAN, UBUD, GIANYAR, BALI",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/51\/5104\/510405\/5104052004\/5104052004018"
+    },
+    {
+        "provinsi": "51",
+        "kabupaten": "5104",
+        "kecamatan": "510405",
+        "desa": "5104052008",
+        "tps": "5104052008008",
+        "nama": "TPS 008, SAYAN, UBUD, GIANYAR, BALI",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/51\/5104\/510405\/5104052008\/5104052008008"
+    },
+    {
+        "provinsi": "51",
+        "kabupaten": "5104",
+        "kecamatan": "510405",
+        "desa": "5104052008",
+        "tps": "5104052008008",
+        "nama": "TPS 008, SAYAN, UBUD, GIANYAR, BALI",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/51\/5104\/510405\/5104052008\/5104052008008"
+    }
+]

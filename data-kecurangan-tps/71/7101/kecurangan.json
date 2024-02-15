@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "71",
+        "kabupaten": "7101",
+        "kecamatan": "710113",
+        "desa": "7101132004",
+        "tps": "7101132004003",
+        "nama": "TPS 003, BANGOMULUNOW, BOLAANG, BOLAANG MONGONDOW, SULAWESI UTARA",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7101\/710113\/7101132004\/7101132004003"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7101",
+        "kecamatan": "710134",
+        "desa": "7101342008",
+        "tps": "7101342008003",
+        "nama": "TPS 003, OSION, DUMOGA TENGGARA, BOLAANG MONGONDOW, SULAWESI UTARA",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7101\/710134\/7101342008\/7101342008003"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7101",
+        "kecamatan": "710105",
+        "desa": "7101052001",
+        "tps": "7101052001004",
+        "nama": "TPS 004, AYONG, SANG TOMBOLANG, BOLAANG MONGONDOW, SULAWESI UTARA",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7101\/710105\/7101052001\/7101052001004"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7101",
+        "kecamatan": "710114",
+        "desa": "7101142006",
+        "tps": "7101142006003",
+        "nama": "TPS 003, BAKAN, LOLAYAN, BOLAANG MONGONDOW, SULAWESI UTARA",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7101\/710114\/7101142006\/7101142006003"
+    }
+]

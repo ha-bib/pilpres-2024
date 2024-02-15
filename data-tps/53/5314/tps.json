@@ -1,0 +1,4025 @@
+[
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102001",
+        "tps": "5314102001001",
+        "url": "53\/5314\/531410\/5314102001\/5314102001001.json",
+        "nama": "TPS 001, BOLATENA, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102001",
+        "tps": "5314102001002",
+        "url": "53\/5314\/531410\/5314102001\/5314102001002.json",
+        "nama": "TPS 002, BOLATENA, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102001",
+        "tps": "5314102001003",
+        "url": "53\/5314\/531410\/5314102001\/5314102001003.json",
+        "nama": "TPS 003, BOLATENA, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102004",
+        "tps": "5314102004001",
+        "url": "53\/5314\/531410\/5314102004\/5314102004001.json",
+        "nama": "TPS 001, DAEURENDALE, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102004",
+        "tps": "5314102004002",
+        "url": "53\/5314\/531410\/5314102004\/5314102004002.json",
+        "nama": "TPS 002, DAEURENDALE, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102004",
+        "tps": "5314102004003",
+        "url": "53\/5314\/531410\/5314102004\/5314102004003.json",
+        "nama": "TPS 003, DAEURENDALE, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102005",
+        "tps": "5314102005001",
+        "url": "53\/5314\/531410\/5314102005\/5314102005001.json",
+        "nama": "TPS 001, DAIAMA, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102005",
+        "tps": "5314102005002",
+        "url": "53\/5314\/531410\/5314102005\/5314102005002.json",
+        "nama": "TPS 002, DAIAMA, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102005",
+        "tps": "5314102005003",
+        "url": "53\/5314\/531410\/5314102005\/5314102005003.json",
+        "nama": "TPS 003, DAIAMA, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102005",
+        "tps": "5314102005004",
+        "url": "53\/5314\/531410\/5314102005\/5314102005004.json",
+        "nama": "TPS 004, DAIAMA, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102002",
+        "tps": "5314102002001",
+        "url": "53\/5314\/531410\/5314102002\/5314102002001.json",
+        "nama": "TPS 001, LIFULEO, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102002",
+        "tps": "5314102002002",
+        "url": "53\/5314\/531410\/5314102002\/5314102002002.json",
+        "nama": "TPS 002, LIFULEO, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102002",
+        "tps": "5314102002003",
+        "url": "53\/5314\/531410\/5314102002\/5314102002003.json",
+        "nama": "TPS 003, LIFULEO, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102006",
+        "tps": "5314102006001",
+        "url": "53\/5314\/531410\/5314102006\/5314102006001.json",
+        "nama": "TPS 001, PUKUAFU, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102006",
+        "tps": "5314102006002",
+        "url": "53\/5314\/531410\/5314102006\/5314102006002.json",
+        "nama": "TPS 002, PUKUAFU, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102003",
+        "tps": "5314102003001",
+        "url": "53\/5314\/531410\/5314102003\/5314102003001.json",
+        "nama": "TPS 001, SOTIMORI, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102003",
+        "tps": "5314102003002",
+        "url": "53\/5314\/531410\/5314102003\/5314102003002.json",
+        "nama": "TPS 002, SOTIMORI, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102007",
+        "tps": "5314102007001",
+        "url": "53\/5314\/531410\/5314102007\/5314102007001.json",
+        "nama": "TPS 001, TENA LAI, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531410",
+        "desa": "5314102007",
+        "tps": "5314102007002",
+        "url": "53\/5314\/531410\/5314102007\/5314102007002.json",
+        "nama": "TPS 002, TENA LAI, LANDU LEKO, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112007",
+        "tps": "5314112007001",
+        "url": "53\/5314\/531411\/5314112007\/5314112007001.json",
+        "nama": "TPS 001, BALAOLI, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112007",
+        "tps": "5314112007002",
+        "url": "53\/5314\/531411\/5314112007\/5314112007002.json",
+        "nama": "TPS 002, BALAOLI, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112007",
+        "tps": "5314112007003",
+        "url": "53\/5314\/531411\/5314112007\/5314112007003.json",
+        "nama": "TPS 003, BALAOLI, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112006",
+        "tps": "5314112006001",
+        "url": "53\/5314\/531411\/5314112006\/5314112006001.json",
+        "nama": "TPS 001, BONI, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112006",
+        "tps": "5314112006002",
+        "url": "53\/5314\/531411\/5314112006\/5314112006002.json",
+        "nama": "TPS 002, BONI, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112006",
+        "tps": "5314112006003",
+        "url": "53\/5314\/531411\/5314112006\/5314112006003.json",
+        "nama": "TPS 003, BONI, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112002",
+        "tps": "5314112002001",
+        "url": "53\/5314\/531411\/5314112002\/5314112002001.json",
+        "nama": "TPS 001, HOLULAI, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112002",
+        "tps": "5314112002002",
+        "url": "53\/5314\/531411\/5314112002\/5314112002002.json",
+        "nama": "TPS 002, HOLULAI, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112002",
+        "tps": "5314112002003",
+        "url": "53\/5314\/531411\/5314112002\/5314112002003.json",
+        "nama": "TPS 003, HOLULAI, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112009",
+        "tps": "5314112009001",
+        "url": "53\/5314\/531411\/5314112009\/5314112009001.json",
+        "nama": "TPS 001, LIDOR, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112009",
+        "tps": "5314112009002",
+        "url": "53\/5314\/531411\/5314112009\/5314112009002.json",
+        "nama": "TPS 002, LIDOR, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112009",
+        "tps": "5314112009003",
+        "url": "53\/5314\/531411\/5314112009\/5314112009003.json",
+        "nama": "TPS 003, LIDOR, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112010",
+        "tps": "5314112010001",
+        "url": "53\/5314\/531411\/5314112010\/5314112010001.json",
+        "nama": "TPS 001, MUNDEK, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112010",
+        "tps": "5314112010002",
+        "url": "53\/5314\/531411\/5314112010\/5314112010002.json",
+        "nama": "TPS 002, MUNDEK, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112010",
+        "tps": "5314112010003",
+        "url": "53\/5314\/531411\/5314112010\/5314112010003.json",
+        "nama": "TPS 003, MUNDEK, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112008",
+        "tps": "5314112008001",
+        "url": "53\/5314\/531411\/5314112008\/5314112008001.json",
+        "nama": "TPS 001, OEBELA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112008",
+        "tps": "5314112008002",
+        "url": "53\/5314\/531411\/5314112008\/5314112008002.json",
+        "nama": "TPS 002, OEBELA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112008",
+        "tps": "5314112008003",
+        "url": "53\/5314\/531411\/5314112008\/5314112008003.json",
+        "nama": "TPS 003, OEBELA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112004",
+        "tps": "5314112004001",
+        "url": "53\/5314\/531411\/5314112004\/5314112004001.json",
+        "nama": "TPS 001, OEBOLE, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112004",
+        "tps": "5314112004002",
+        "url": "53\/5314\/531411\/5314112004\/5314112004002.json",
+        "nama": "TPS 002, OEBOLE, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112001",
+        "tps": "5314112001001",
+        "url": "53\/5314\/531411\/5314112001\/5314112001001.json",
+        "nama": "TPS 001, OELUA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112001",
+        "tps": "5314112001002",
+        "url": "53\/5314\/531411\/5314112001\/5314112001002.json",
+        "nama": "TPS 002, OELUA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112001",
+        "tps": "5314112001003",
+        "url": "53\/5314\/531411\/5314112001\/5314112001003.json",
+        "nama": "TPS 003, OELUA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112001",
+        "tps": "5314112001004",
+        "url": "53\/5314\/531411\/5314112001\/5314112001004.json",
+        "nama": "TPS 004, OELUA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112001",
+        "tps": "5314112001005",
+        "url": "53\/5314\/531411\/5314112001\/5314112001005.json",
+        "nama": "TPS 005, OELUA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112001",
+        "tps": "5314112001006",
+        "url": "53\/5314\/531411\/5314112001\/5314112001006.json",
+        "nama": "TPS 006, OELUA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112005",
+        "tps": "5314112005001",
+        "url": "53\/5314\/531411\/5314112005\/5314112005001.json",
+        "nama": "TPS 001, TASILO, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112005",
+        "tps": "5314112005002",
+        "url": "53\/5314\/531411\/5314112005\/5314112005002.json",
+        "nama": "TPS 002, TASILO, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112005",
+        "tps": "5314112005003",
+        "url": "53\/5314\/531411\/5314112005\/5314112005003.json",
+        "nama": "TPS 003, TASILO, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112003",
+        "tps": "5314112003001",
+        "url": "53\/5314\/531411\/5314112003\/5314112003001.json",
+        "nama": "TPS 001, TOLAMA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112003",
+        "tps": "5314112003002",
+        "url": "53\/5314\/531411\/5314112003\/5314112003002.json",
+        "nama": "TPS 002, TOLAMA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112003",
+        "tps": "5314112003003",
+        "url": "53\/5314\/531411\/5314112003\/5314112003003.json",
+        "nama": "TPS 003, TOLAMA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112003",
+        "tps": "5314112003004",
+        "url": "53\/5314\/531411\/5314112003\/5314112003004.json",
+        "nama": "TPS 004, TOLAMA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531411",
+        "desa": "5314112003",
+        "tps": "5314112003005",
+        "url": "53\/5314\/531411\/5314112003\/5314112003005.json",
+        "nama": "TPS 005, TOLAMA, LOAHOLU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032014",
+        "tps": "5314032014001",
+        "url": "53\/5314\/531403\/5314032014\/5314032014001.json",
+        "nama": "TPS 001, BAADALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032014",
+        "tps": "5314032014002",
+        "url": "53\/5314\/531403\/5314032014\/5314032014002.json",
+        "nama": "TPS 002, BAADALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032014",
+        "tps": "5314032014003",
+        "url": "53\/5314\/531403\/5314032014\/5314032014003.json",
+        "nama": "TPS 003, BAADALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032014",
+        "tps": "5314032014004",
+        "url": "53\/5314\/531403\/5314032014\/5314032014004.json",
+        "nama": "TPS 004, BAADALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032003",
+        "tps": "5314032003001",
+        "url": "53\/5314\/531403\/5314032003\/5314032003001.json",
+        "nama": "TPS 001, BEBALAIN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032003",
+        "tps": "5314032003002",
+        "url": "53\/5314\/531403\/5314032003\/5314032003002.json",
+        "nama": "TPS 002, BEBALAIN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032003",
+        "tps": "5314032003003",
+        "url": "53\/5314\/531403\/5314032003\/5314032003003.json",
+        "nama": "TPS 003, BEBALAIN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032005",
+        "tps": "5314032005001",
+        "url": "53\/5314\/531403\/5314032005\/5314032005001.json",
+        "nama": "TPS 001, HELEBEIK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032005",
+        "tps": "5314032005002",
+        "url": "53\/5314\/531403\/5314032005\/5314032005002.json",
+        "nama": "TPS 002, HELEBEIK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032005",
+        "tps": "5314032005003",
+        "url": "53\/5314\/531403\/5314032005\/5314032005003.json",
+        "nama": "TPS 003, HELEBEIK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032005",
+        "tps": "5314032005004",
+        "url": "53\/5314\/531403\/5314032005\/5314032005004.json",
+        "nama": "TPS 004, HELEBEIK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032005",
+        "tps": "5314032005005",
+        "url": "53\/5314\/531403\/5314032005\/5314032005005.json",
+        "nama": "TPS 005, HELEBEIK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032005",
+        "tps": "5314032005006",
+        "url": "53\/5314\/531403\/5314032005\/5314032005006.json",
+        "nama": "TPS 006, HELEBEIK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032007",
+        "tps": "5314032007001",
+        "url": "53\/5314\/531403\/5314032007\/5314032007001.json",
+        "nama": "TPS 001, HOLOAMA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032007",
+        "tps": "5314032007002",
+        "url": "53\/5314\/531403\/5314032007\/5314032007002.json",
+        "nama": "TPS 002, HOLOAMA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032007",
+        "tps": "5314032007003",
+        "url": "53\/5314\/531403\/5314032007\/5314032007003.json",
+        "nama": "TPS 003, HOLOAMA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032007",
+        "tps": "5314032007004",
+        "url": "53\/5314\/531403\/5314032007\/5314032007004.json",
+        "nama": "TPS 004, HOLOAMA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032007",
+        "tps": "5314032007005",
+        "url": "53\/5314\/531403\/5314032007\/5314032007005.json",
+        "nama": "TPS 005, HOLOAMA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032004",
+        "tps": "5314032004001",
+        "url": "53\/5314\/531403\/5314032004\/5314032004001.json",
+        "nama": "TPS 001, KOLOBOLON, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032004",
+        "tps": "5314032004002",
+        "url": "53\/5314\/531403\/5314032004\/5314032004002.json",
+        "nama": "TPS 002, KOLOBOLON, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032004",
+        "tps": "5314032004003",
+        "url": "53\/5314\/531403\/5314032004\/5314032004003.json",
+        "nama": "TPS 003, KOLOBOLON, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032004",
+        "tps": "5314032004004",
+        "url": "53\/5314\/531403\/5314032004\/5314032004004.json",
+        "nama": "TPS 004, KOLOBOLON, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032002",
+        "tps": "5314032002001",
+        "url": "53\/5314\/531403\/5314032002\/5314032002001.json",
+        "nama": "TPS 001, KULI, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032002",
+        "tps": "5314032002002",
+        "url": "53\/5314\/531403\/5314032002\/5314032002002.json",
+        "nama": "TPS 002, KULI, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032002",
+        "tps": "5314032002003",
+        "url": "53\/5314\/531403\/5314032002\/5314032002003.json",
+        "nama": "TPS 003, KULI, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032002",
+        "tps": "5314032002004",
+        "url": "53\/5314\/531403\/5314032002\/5314032002004.json",
+        "nama": "TPS 004, KULI, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032017",
+        "tps": "5314032017001",
+        "url": "53\/5314\/531403\/5314032017\/5314032017001.json",
+        "nama": "TPS 001, KULI AISELE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032017",
+        "tps": "5314032017002",
+        "url": "53\/5314\/531403\/5314032017\/5314032017002.json",
+        "nama": "TPS 002, KULI AISELE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032017",
+        "tps": "5314032017003",
+        "url": "53\/5314\/531403\/5314032017\/5314032017003.json",
+        "nama": "TPS 003, KULI AISELE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032015",
+        "tps": "5314032015001",
+        "url": "53\/5314\/531403\/5314032015\/5314032015001.json",
+        "nama": "TPS 001, LEKUNIK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032015",
+        "tps": "5314032015002",
+        "url": "53\/5314\/531403\/5314032015\/5314032015002.json",
+        "nama": "TPS 002, LEKUNIK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032015",
+        "tps": "5314032015003",
+        "url": "53\/5314\/531403\/5314032015\/5314032015003.json",
+        "nama": "TPS 003, LEKUNIK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032016",
+        "tps": "5314032016001",
+        "url": "53\/5314\/531403\/5314032016\/5314032016001.json",
+        "nama": "TPS 001, LOLEOEN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032016",
+        "tps": "5314032016002",
+        "url": "53\/5314\/531403\/5314032016\/5314032016002.json",
+        "nama": "TPS 002, LOLEOEN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032016",
+        "tps": "5314032016003",
+        "url": "53\/5314\/531403\/5314032016\/5314032016003.json",
+        "nama": "TPS 003, LOLEOEN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031011",
+        "tps": "5314031011001",
+        "url": "53\/5314\/531403\/5314031011\/5314031011001.json",
+        "nama": "TPS 001, METINA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031011",
+        "tps": "5314031011002",
+        "url": "53\/5314\/531403\/5314031011\/5314031011002.json",
+        "nama": "TPS 002, METINA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031011",
+        "tps": "5314031011003",
+        "url": "53\/5314\/531403\/5314031011\/5314031011003.json",
+        "nama": "TPS 003, METINA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031011",
+        "tps": "5314031011004",
+        "url": "53\/5314\/531403\/5314031011\/5314031011004.json",
+        "nama": "TPS 004, METINA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031011",
+        "tps": "5314031011005",
+        "url": "53\/5314\/531403\/5314031011\/5314031011005.json",
+        "nama": "TPS 005, METINA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031011",
+        "tps": "5314031011006",
+        "url": "53\/5314\/531403\/5314031011\/5314031011006.json",
+        "nama": "TPS 006, METINA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031011",
+        "tps": "5314031011007",
+        "url": "53\/5314\/531403\/5314031011\/5314031011007.json",
+        "nama": "TPS 007, METINA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031011",
+        "tps": "5314031011008",
+        "url": "53\/5314\/531403\/5314031011\/5314031011008.json",
+        "nama": "TPS 008, METINA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009001",
+        "url": "53\/5314\/531403\/5314031009\/5314031009001.json",
+        "nama": "TPS 001, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009002",
+        "url": "53\/5314\/531403\/5314031009\/5314031009002.json",
+        "nama": "TPS 002, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009003",
+        "url": "53\/5314\/531403\/5314031009\/5314031009003.json",
+        "nama": "TPS 003, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009004",
+        "url": "53\/5314\/531403\/5314031009\/5314031009004.json",
+        "nama": "TPS 004, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009005",
+        "url": "53\/5314\/531403\/5314031009\/5314031009005.json",
+        "nama": "TPS 005, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009006",
+        "url": "53\/5314\/531403\/5314031009\/5314031009006.json",
+        "nama": "TPS 006, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009007",
+        "url": "53\/5314\/531403\/5314031009\/5314031009007.json",
+        "nama": "TPS 007, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009008",
+        "url": "53\/5314\/531403\/5314031009\/5314031009008.json",
+        "nama": "TPS 008, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009009",
+        "url": "53\/5314\/531403\/5314031009\/5314031009009.json",
+        "nama": "TPS 009, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009010",
+        "url": "53\/5314\/531403\/5314031009\/5314031009010.json",
+        "nama": "TPS 010, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009011",
+        "url": "53\/5314\/531403\/5314031009\/5314031009011.json",
+        "nama": "TPS 011, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009012",
+        "url": "53\/5314\/531403\/5314031009\/5314031009012.json",
+        "nama": "TPS 012, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009013",
+        "url": "53\/5314\/531403\/5314031009\/5314031009013.json",
+        "nama": "TPS 013, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031009",
+        "tps": "5314031009901",
+        "url": "53\/5314\/531403\/5314031009\/5314031009901.json",
+        "nama": "TPS 901, MOKDALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031001",
+        "tps": "5314031001001",
+        "url": "53\/5314\/531403\/5314031001\/5314031001001.json",
+        "nama": "TPS 001, NAMODALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031001",
+        "tps": "5314031001002",
+        "url": "53\/5314\/531403\/5314031001\/5314031001002.json",
+        "nama": "TPS 002, NAMODALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031001",
+        "tps": "5314031001003",
+        "url": "53\/5314\/531403\/5314031001\/5314031001003.json",
+        "nama": "TPS 003, NAMODALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031001",
+        "tps": "5314031001004",
+        "url": "53\/5314\/531403\/5314031001\/5314031001004.json",
+        "nama": "TPS 004, NAMODALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031001",
+        "tps": "5314031001005",
+        "url": "53\/5314\/531403\/5314031001\/5314031001005.json",
+        "nama": "TPS 005, NAMODALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031001",
+        "tps": "5314031001006",
+        "url": "53\/5314\/531403\/5314031001\/5314031001006.json",
+        "nama": "TPS 006, NAMODALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031001",
+        "tps": "5314031001007",
+        "url": "53\/5314\/531403\/5314031001\/5314031001007.json",
+        "nama": "TPS 007, NAMODALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314031001",
+        "tps": "5314031001008",
+        "url": "53\/5314\/531403\/5314031001\/5314031001008.json",
+        "nama": "TPS 008, NAMODALE, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032018",
+        "tps": "5314032018001",
+        "url": "53\/5314\/531403\/5314032018\/5314032018001.json",
+        "nama": "TPS 001, OELEKA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032018",
+        "tps": "5314032018002",
+        "url": "53\/5314\/531403\/5314032018\/5314032018002.json",
+        "nama": "TPS 002, OELEKA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032018",
+        "tps": "5314032018003",
+        "url": "53\/5314\/531403\/5314032018\/5314032018003.json",
+        "nama": "TPS 003, OELEKA, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032010",
+        "tps": "5314032010001",
+        "url": "53\/5314\/531403\/5314032010\/5314032010001.json",
+        "nama": "TPS 001, OELUNGGU, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032010",
+        "tps": "5314032010002",
+        "url": "53\/5314\/531403\/5314032010\/5314032010002.json",
+        "nama": "TPS 002, OELUNGGU, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032010",
+        "tps": "5314032010003",
+        "url": "53\/5314\/531403\/5314032010\/5314032010003.json",
+        "nama": "TPS 003, OELUNGGU, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032010",
+        "tps": "5314032010004",
+        "url": "53\/5314\/531403\/5314032010\/5314032010004.json",
+        "nama": "TPS 004, OELUNGGU, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032012",
+        "tps": "5314032012001",
+        "url": "53\/5314\/531403\/5314032012\/5314032012001.json",
+        "nama": "TPS 001, OEMATAMBOLI, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032012",
+        "tps": "5314032012002",
+        "url": "53\/5314\/531403\/5314032012\/5314032012002.json",
+        "nama": "TPS 002, OEMATAMBOLI, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032012",
+        "tps": "5314032012003",
+        "url": "53\/5314\/531403\/5314032012\/5314032012003.json",
+        "nama": "TPS 003, OEMATAMBOLI, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032012",
+        "tps": "5314032012004",
+        "url": "53\/5314\/531403\/5314032012\/5314032012004.json",
+        "nama": "TPS 004, OEMATAMBOLI, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032006",
+        "tps": "5314032006001",
+        "url": "53\/5314\/531403\/5314032006\/5314032006001.json",
+        "nama": "TPS 001, SANGGAOEN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032006",
+        "tps": "5314032006002",
+        "url": "53\/5314\/531403\/5314032006\/5314032006002.json",
+        "nama": "TPS 002, SANGGAOEN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032006",
+        "tps": "5314032006003",
+        "url": "53\/5314\/531403\/5314032006\/5314032006003.json",
+        "nama": "TPS 003, SANGGAOEN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032006",
+        "tps": "5314032006004",
+        "url": "53\/5314\/531403\/5314032006\/5314032006004.json",
+        "nama": "TPS 004, SANGGAOEN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032006",
+        "tps": "5314032006005",
+        "url": "53\/5314\/531403\/5314032006\/5314032006005.json",
+        "nama": "TPS 005, SANGGAOEN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032006",
+        "tps": "5314032006006",
+        "url": "53\/5314\/531403\/5314032006\/5314032006006.json",
+        "nama": "TPS 006, SANGGAOEN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032013",
+        "tps": "5314032013001",
+        "url": "53\/5314\/531403\/5314032013\/5314032013001.json",
+        "nama": "TPS 001, SUELAIN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032013",
+        "tps": "5314032013002",
+        "url": "53\/5314\/531403\/5314032013\/5314032013002.json",
+        "nama": "TPS 002, SUELAIN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032013",
+        "tps": "5314032013003",
+        "url": "53\/5314\/531403\/5314032013\/5314032013003.json",
+        "nama": "TPS 003, SUELAIN, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032008",
+        "tps": "5314032008001",
+        "url": "53\/5314\/531403\/5314032008\/5314032008001.json",
+        "nama": "TPS 001, TUANATUK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032008",
+        "tps": "5314032008002",
+        "url": "53\/5314\/531403\/5314032008\/5314032008002.json",
+        "nama": "TPS 002, TUANATUK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531403",
+        "desa": "5314032008",
+        "tps": "5314032008003",
+        "url": "53\/5314\/531403\/5314032008\/5314032008003.json",
+        "nama": "TPS 003, TUANATUK, LOBALAIN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092002",
+        "tps": "5314092002001",
+        "url": "53\/5314\/531409\/5314092002\/5314092002001.json",
+        "nama": "TPS 001, ANARAE, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092002",
+        "tps": "5314092002002",
+        "url": "53\/5314\/531409\/5314092002\/5314092002002.json",
+        "nama": "TPS 002, ANARAE, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092001",
+        "tps": "5314092001001",
+        "url": "53\/5314\/531409\/5314092001\/5314092001001.json",
+        "nama": "TPS 001, MBALI LENDEIKI, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092001",
+        "tps": "5314092001002",
+        "url": "53\/5314\/531409\/5314092001\/5314092001002.json",
+        "nama": "TPS 002, MBALI LENDEIKI, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092001",
+        "tps": "5314092001003",
+        "url": "53\/5314\/531409\/5314092001\/5314092001003.json",
+        "nama": "TPS 003, MBALI LENDEIKI, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092003",
+        "tps": "5314092003001",
+        "url": "53\/5314\/531409\/5314092003\/5314092003001.json",
+        "nama": "TPS 001, MBIU LOMBO, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092003",
+        "tps": "5314092003002",
+        "url": "53\/5314\/531409\/5314092003\/5314092003002.json",
+        "nama": "TPS 002, MBIU LOMBO, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092005",
+        "tps": "5314092005001",
+        "url": "53\/5314\/531409\/5314092005\/5314092005001.json",
+        "nama": "TPS 001, NDAONUSE, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092005",
+        "tps": "5314092005002",
+        "url": "53\/5314\/531409\/5314092005\/5314092005002.json",
+        "nama": "TPS 002, NDAONUSE, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092005",
+        "tps": "5314092005003",
+        "url": "53\/5314\/531409\/5314092005\/5314092005003.json",
+        "nama": "TPS 003, NDAONUSE, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092005",
+        "tps": "5314092005004",
+        "url": "53\/5314\/531409\/5314092005\/5314092005004.json",
+        "nama": "TPS 004, NDAONUSE, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092004",
+        "tps": "5314092004001",
+        "url": "53\/5314\/531409\/5314092004\/5314092004001.json",
+        "nama": "TPS 001, NUSE, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531409",
+        "desa": "5314092004",
+        "tps": "5314092004002",
+        "url": "53\/5314\/531409\/5314092004\/5314092004002.json",
+        "nama": "TPS 002, NUSE, NDAO NUSE, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052002",
+        "tps": "5314052002001",
+        "url": "53\/5314\/531405\/5314052002\/5314052002001.json",
+        "nama": "TPS 001, BATULILOK, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052002",
+        "tps": "5314052002002",
+        "url": "53\/5314\/531405\/5314052002\/5314052002002.json",
+        "nama": "TPS 002, BATULILOK, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052002",
+        "tps": "5314052002003",
+        "url": "53\/5314\/531405\/5314052002\/5314052002003.json",
+        "nama": "TPS 003, BATULILOK, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052008",
+        "tps": "5314052008001",
+        "url": "53\/5314\/531405\/5314052008\/5314052008001.json",
+        "nama": "TPS 001, EDALODE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052008",
+        "tps": "5314052008002",
+        "url": "53\/5314\/531405\/5314052008\/5314052008002.json",
+        "nama": "TPS 002, EDALODE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052008",
+        "tps": "5314052008003",
+        "url": "53\/5314\/531405\/5314052008\/5314052008003.json",
+        "nama": "TPS 003, EDALODE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052008",
+        "tps": "5314052008004",
+        "url": "53\/5314\/531405\/5314052008\/5314052008004.json",
+        "nama": "TPS 004, EDALODE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052014",
+        "tps": "5314052014001",
+        "url": "53\/5314\/531405\/5314052014\/5314052014001.json",
+        "nama": "TPS 001, FATELILO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052014",
+        "tps": "5314052014002",
+        "url": "53\/5314\/531405\/5314052014\/5314052014002.json",
+        "nama": "TPS 002, FATELILO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052007",
+        "tps": "5314052007001",
+        "url": "53\/5314\/531405\/5314052007\/5314052007001.json",
+        "nama": "TPS 001, KEOEN, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052007",
+        "tps": "5314052007002",
+        "url": "53\/5314\/531405\/5314052007\/5314052007002.json",
+        "nama": "TPS 002, KEOEN, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052007",
+        "tps": "5314052007003",
+        "url": "53\/5314\/531405\/5314052007\/5314052007003.json",
+        "nama": "TPS 003, KEOEN, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052007",
+        "tps": "5314052007004",
+        "url": "53\/5314\/531405\/5314052007\/5314052007004.json",
+        "nama": "TPS 004, KEOEN, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052012",
+        "tps": "5314052012001",
+        "url": "53\/5314\/531405\/5314052012\/5314052012001.json",
+        "nama": "TPS 001, LEKONA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052012",
+        "tps": "5314052012002",
+        "url": "53\/5314\/531405\/5314052012\/5314052012002.json",
+        "nama": "TPS 002, LEKONA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052012",
+        "tps": "5314052012003",
+        "url": "53\/5314\/531405\/5314052012\/5314052012003.json",
+        "nama": "TPS 003, LEKONA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052003",
+        "tps": "5314052003001",
+        "url": "53\/5314\/531405\/5314052003\/5314052003001.json",
+        "nama": "TPS 001, LENUPETU, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052003",
+        "tps": "5314052003002",
+        "url": "53\/5314\/531405\/5314052003\/5314052003002.json",
+        "nama": "TPS 002, LENUPETU, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052001",
+        "tps": "5314052001001",
+        "url": "53\/5314\/531405\/5314052001\/5314052001001.json",
+        "nama": "TPS 001, NUSAKDALE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052001",
+        "tps": "5314052001002",
+        "url": "53\/5314\/531405\/5314052001\/5314052001002.json",
+        "nama": "TPS 002, NUSAKDALE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052001",
+        "tps": "5314052001003",
+        "url": "53\/5314\/531405\/5314052001\/5314052001003.json",
+        "nama": "TPS 003, NUSAKDALE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052001",
+        "tps": "5314052001004",
+        "url": "53\/5314\/531405\/5314052001\/5314052001004.json",
+        "nama": "TPS 004, NUSAKDALE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052005",
+        "tps": "5314052005001",
+        "url": "53\/5314\/531405\/5314052005\/5314052005001.json",
+        "nama": "TPS 001, OEBAU, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052005",
+        "tps": "5314052005002",
+        "url": "53\/5314\/531405\/5314052005\/5314052005002.json",
+        "nama": "TPS 002, OEBAU, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052005",
+        "tps": "5314052005003",
+        "url": "53\/5314\/531405\/5314052005\/5314052005003.json",
+        "nama": "TPS 003, OEBAU, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052006",
+        "tps": "5314052006001",
+        "url": "53\/5314\/531405\/5314052006\/5314052006001.json",
+        "nama": "TPS 001, OELEDO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052006",
+        "tps": "5314052006002",
+        "url": "53\/5314\/531405\/5314052006\/5314052006002.json",
+        "nama": "TPS 002, OELEDO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052006",
+        "tps": "5314052006003",
+        "url": "53\/5314\/531405\/5314052006\/5314052006003.json",
+        "nama": "TPS 003, OELEDO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052013",
+        "tps": "5314052013001",
+        "url": "53\/5314\/531405\/5314052013\/5314052013001.json",
+        "nama": "TPS 001, OENGGAE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052013",
+        "tps": "5314052013002",
+        "url": "53\/5314\/531405\/5314052013\/5314052013002.json",
+        "nama": "TPS 002, OENGGAE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052013",
+        "tps": "5314052013003",
+        "url": "53\/5314\/531405\/5314052013\/5314052013003.json",
+        "nama": "TPS 003, OENGGAE, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052015",
+        "tps": "5314052015001",
+        "url": "53\/5314\/531405\/5314052015\/5314052015001.json",
+        "nama": "TPS 001, OFALANGGA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052015",
+        "tps": "5314052015002",
+        "url": "53\/5314\/531405\/5314052015\/5314052015002.json",
+        "nama": "TPS 002, OFALANGGA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314051009",
+        "tps": "5314051009001",
+        "url": "53\/5314\/531405\/5314051009\/5314051009001.json",
+        "nama": "TPS 001, OLAFULIHAA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314051009",
+        "tps": "5314051009002",
+        "url": "53\/5314\/531405\/5314051009\/5314051009002.json",
+        "nama": "TPS 002, OLAFULIHAA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314051009",
+        "tps": "5314051009003",
+        "url": "53\/5314\/531405\/5314051009\/5314051009003.json",
+        "nama": "TPS 003, OLAFULIHAA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314051009",
+        "tps": "5314051009004",
+        "url": "53\/5314\/531405\/5314051009\/5314051009004.json",
+        "nama": "TPS 004, OLAFULIHAA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052004",
+        "tps": "5314052004001",
+        "url": "53\/5314\/531405\/5314052004\/5314052004001.json",
+        "nama": "TPS 001, SONIMANU, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052004",
+        "tps": "5314052004002",
+        "url": "53\/5314\/531405\/5314052004\/5314052004002.json",
+        "nama": "TPS 002, SONIMANU, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052011",
+        "tps": "5314052011001",
+        "url": "53\/5314\/531405\/5314052011\/5314052011001.json",
+        "nama": "TPS 001, TESA BELA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052011",
+        "tps": "5314052011002",
+        "url": "53\/5314\/531405\/5314052011\/5314052011002.json",
+        "nama": "TPS 002, TESA BELA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052011",
+        "tps": "5314052011003",
+        "url": "53\/5314\/531405\/5314052011\/5314052011003.json",
+        "nama": "TPS 003, TESA BELA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052011",
+        "tps": "5314052011004",
+        "url": "53\/5314\/531405\/5314052011\/5314052011004.json",
+        "nama": "TPS 004, TESA BELA, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052010",
+        "tps": "5314052010001",
+        "url": "53\/5314\/531405\/5314052010\/5314052010001.json",
+        "nama": "TPS 001, TUNGGANAMO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052010",
+        "tps": "5314052010002",
+        "url": "53\/5314\/531405\/5314052010\/5314052010002.json",
+        "nama": "TPS 002, TUNGGANAMO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052010",
+        "tps": "5314052010003",
+        "url": "53\/5314\/531405\/5314052010\/5314052010003.json",
+        "nama": "TPS 003, TUNGGANAMO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052010",
+        "tps": "5314052010004",
+        "url": "53\/5314\/531405\/5314052010\/5314052010004.json",
+        "nama": "TPS 004, TUNGGANAMO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531405",
+        "desa": "5314052010",
+        "tps": "5314052010005",
+        "url": "53\/5314\/531405\/5314052010\/5314052010005.json",
+        "nama": "TPS 005, TUNGGANAMO, PANTAI BARU, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072004",
+        "tps": "5314072004001",
+        "url": "53\/5314\/531407\/5314072004\/5314072004001.json",
+        "nama": "TPS 001, BO'A, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072004",
+        "tps": "5314072004002",
+        "url": "53\/5314\/531407\/5314072004\/5314072004002.json",
+        "nama": "TPS 002, BO'A, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072004",
+        "tps": "5314072004003",
+        "url": "53\/5314\/531407\/5314072004\/5314072004003.json",
+        "nama": "TPS 003, BO'A, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072007",
+        "tps": "5314072007001",
+        "url": "53\/5314\/531407\/5314072007\/5314072007001.json",
+        "nama": "TPS 001, MBUEAIN, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072007",
+        "tps": "5314072007002",
+        "url": "53\/5314\/531407\/5314072007\/5314072007002.json",
+        "nama": "TPS 002, MBUEAIN, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072007",
+        "tps": "5314072007003",
+        "url": "53\/5314\/531407\/5314072007\/5314072007003.json",
+        "nama": "TPS 003, MBUEAIN, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072002",
+        "tps": "5314072002001",
+        "url": "53\/5314\/531407\/5314072002\/5314072002001.json",
+        "nama": "TPS 001, NEMBERALA, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072002",
+        "tps": "5314072002002",
+        "url": "53\/5314\/531407\/5314072002\/5314072002002.json",
+        "nama": "TPS 002, NEMBERALA, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072002",
+        "tps": "5314072002003",
+        "url": "53\/5314\/531407\/5314072002\/5314072002003.json",
+        "nama": "TPS 003, NEMBERALA, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072002",
+        "tps": "5314072002004",
+        "url": "53\/5314\/531407\/5314072002\/5314072002004.json",
+        "nama": "TPS 004, NEMBERALA, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072006",
+        "tps": "5314072006001",
+        "url": "53\/5314\/531407\/5314072006\/5314072006001.json",
+        "nama": "TPS 001, OELOLOK, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072006",
+        "tps": "5314072006002",
+        "url": "53\/5314\/531407\/5314072006\/5314072006002.json",
+        "nama": "TPS 002, OELOLOK, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072006",
+        "tps": "5314072006003",
+        "url": "53\/5314\/531407\/5314072006\/5314072006003.json",
+        "nama": "TPS 003, OELOLOK, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072006",
+        "tps": "5314072006004",
+        "url": "53\/5314\/531407\/5314072006\/5314072006004.json",
+        "nama": "TPS 004, OELOLOK, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072003",
+        "tps": "5314072003001",
+        "url": "53\/5314\/531407\/5314072003\/5314072003001.json",
+        "nama": "TPS 001, OENGGAUT, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072003",
+        "tps": "5314072003002",
+        "url": "53\/5314\/531407\/5314072003\/5314072003002.json",
+        "nama": "TPS 002, OENGGAUT, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072003",
+        "tps": "5314072003003",
+        "url": "53\/5314\/531407\/5314072003\/5314072003003.json",
+        "nama": "TPS 003, OENGGAUT, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072003",
+        "tps": "5314072003004",
+        "url": "53\/5314\/531407\/5314072003\/5314072003004.json",
+        "nama": "TPS 004, OENGGAUT, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072005",
+        "tps": "5314072005001",
+        "url": "53\/5314\/531407\/5314072005\/5314072005001.json",
+        "nama": "TPS 001, OENITAS, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072005",
+        "tps": "5314072005002",
+        "url": "53\/5314\/531407\/5314072005\/5314072005002.json",
+        "nama": "TPS 002, OENITAS, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072005",
+        "tps": "5314072005003",
+        "url": "53\/5314\/531407\/5314072005\/5314072005003.json",
+        "nama": "TPS 003, OENITAS, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072005",
+        "tps": "5314072005004",
+        "url": "53\/5314\/531407\/5314072005\/5314072005004.json",
+        "nama": "TPS 004, OENITAS, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072005",
+        "tps": "5314072005005",
+        "url": "53\/5314\/531407\/5314072005\/5314072005005.json",
+        "nama": "TPS 005, OENITAS, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072005",
+        "tps": "5314072005006",
+        "url": "53\/5314\/531407\/5314072005\/5314072005006.json",
+        "nama": "TPS 006, OENITAS, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072001",
+        "tps": "5314072001001",
+        "url": "53\/5314\/531407\/5314072001\/5314072001001.json",
+        "nama": "TPS 001, SEDEOEN, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072001",
+        "tps": "5314072001002",
+        "url": "53\/5314\/531407\/5314072001\/5314072001002.json",
+        "nama": "TPS 002, SEDEOEN, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072001",
+        "tps": "5314072001003",
+        "url": "53\/5314\/531407\/5314072001\/5314072001003.json",
+        "nama": "TPS 003, SEDEOEN, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531407",
+        "desa": "5314072001",
+        "tps": "5314072001004",
+        "url": "53\/5314\/531407\/5314072001\/5314072001004.json",
+        "nama": "TPS 004, SEDEOEN, ROTE BARAT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012010",
+        "tps": "5314012010001",
+        "url": "53\/5314\/531401\/5314012010\/5314012010001.json",
+        "nama": "TPS 001, BATUTUA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012010",
+        "tps": "5314012010002",
+        "url": "53\/5314\/531401\/5314012010\/5314012010002.json",
+        "nama": "TPS 002, BATUTUA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012010",
+        "tps": "5314012010003",
+        "url": "53\/5314\/531401\/5314012010\/5314012010003.json",
+        "nama": "TPS 003, BATUTUA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012010",
+        "tps": "5314012010004",
+        "url": "53\/5314\/531401\/5314012010\/5314012010004.json",
+        "nama": "TPS 004, BATUTUA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012023",
+        "tps": "5314012023001",
+        "url": "53\/5314\/531401\/5314012023\/5314012023001.json",
+        "nama": "TPS 001, DALEK ESA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012023",
+        "tps": "5314012023002",
+        "url": "53\/5314\/531401\/5314012023\/5314012023002.json",
+        "nama": "TPS 002, DALEK ESA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012023",
+        "tps": "5314012023003",
+        "url": "53\/5314\/531401\/5314012023\/5314012023003.json",
+        "nama": "TPS 003, DALEK ESA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012016",
+        "tps": "5314012016001",
+        "url": "53\/5314\/531401\/5314012016\/5314012016001.json",
+        "nama": "TPS 001, DOLASI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012016",
+        "tps": "5314012016002",
+        "url": "53\/5314\/531401\/5314012016\/5314012016002.json",
+        "nama": "TPS 002, DOLASI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012016",
+        "tps": "5314012016003",
+        "url": "53\/5314\/531401\/5314012016\/5314012016003.json",
+        "nama": "TPS 003, DOLASI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012016",
+        "tps": "5314012016004",
+        "url": "53\/5314\/531401\/5314012016\/5314012016004.json",
+        "nama": "TPS 004, DOLASI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012022",
+        "tps": "5314012022001",
+        "url": "53\/5314\/531401\/5314012022\/5314012022001.json",
+        "nama": "TPS 001, FUAFUNI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012022",
+        "tps": "5314012022002",
+        "url": "53\/5314\/531401\/5314012022\/5314012022002.json",
+        "nama": "TPS 002, FUAFUNI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012022",
+        "tps": "5314012022003",
+        "url": "53\/5314\/531401\/5314012022\/5314012022003.json",
+        "nama": "TPS 003, FUAFUNI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012007",
+        "tps": "5314012007001",
+        "url": "53\/5314\/531401\/5314012007\/5314012007001.json",
+        "nama": "TPS 001, LALUKOEN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012007",
+        "tps": "5314012007002",
+        "url": "53\/5314\/531401\/5314012007\/5314012007002.json",
+        "nama": "TPS 002, LALUKOEN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012007",
+        "tps": "5314012007003",
+        "url": "53\/5314\/531401\/5314012007\/5314012007003.json",
+        "nama": "TPS 003, LALUKOEN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012007",
+        "tps": "5314012007004",
+        "url": "53\/5314\/531401\/5314012007\/5314012007004.json",
+        "nama": "TPS 004, LALUKOEN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012007",
+        "tps": "5314012007005",
+        "url": "53\/5314\/531401\/5314012007\/5314012007005.json",
+        "nama": "TPS 005, LALUKOEN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012018",
+        "tps": "5314012018001",
+        "url": "53\/5314\/531401\/5314012018\/5314012018001.json",
+        "nama": "TPS 001, LANDU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012018",
+        "tps": "5314012018002",
+        "url": "53\/5314\/531401\/5314012018\/5314012018002.json",
+        "nama": "TPS 002, LANDU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012018",
+        "tps": "5314012018003",
+        "url": "53\/5314\/531401\/5314012018\/5314012018003.json",
+        "nama": "TPS 003, LANDU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012015",
+        "tps": "5314012015001",
+        "url": "53\/5314\/531401\/5314012015\/5314012015001.json",
+        "nama": "TPS 001, LEKIK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012015",
+        "tps": "5314012015002",
+        "url": "53\/5314\/531401\/5314012015\/5314012015002.json",
+        "nama": "TPS 002, LEKIK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012015",
+        "tps": "5314012015003",
+        "url": "53\/5314\/531401\/5314012015\/5314012015003.json",
+        "nama": "TPS 003, LEKIK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012019",
+        "tps": "5314012019001",
+        "url": "53\/5314\/531401\/5314012019\/5314012019001.json",
+        "nama": "TPS 001, LENTERA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012019",
+        "tps": "5314012019002",
+        "url": "53\/5314\/531401\/5314012019\/5314012019002.json",
+        "nama": "TPS 002, LENTERA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012019",
+        "tps": "5314012019003",
+        "url": "53\/5314\/531401\/5314012019\/5314012019003.json",
+        "nama": "TPS 003, LENTERA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012019",
+        "tps": "5314012019004",
+        "url": "53\/5314\/531401\/5314012019\/5314012019004.json",
+        "nama": "TPS 004, LENTERA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012019",
+        "tps": "5314012019005",
+        "url": "53\/5314\/531401\/5314012019\/5314012019005.json",
+        "nama": "TPS 005, LENTERA, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012014",
+        "tps": "5314012014001",
+        "url": "53\/5314\/531401\/5314012014\/5314012014001.json",
+        "nama": "TPS 001, MBOKAK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012014",
+        "tps": "5314012014002",
+        "url": "53\/5314\/531401\/5314012014\/5314012014002.json",
+        "nama": "TPS 002, MBOKAK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012014",
+        "tps": "5314012014003",
+        "url": "53\/5314\/531401\/5314012014\/5314012014003.json",
+        "nama": "TPS 003, MBOKAK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012014",
+        "tps": "5314012014004",
+        "url": "53\/5314\/531401\/5314012014\/5314012014004.json",
+        "nama": "TPS 004, MBOKAK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012011",
+        "tps": "5314012011001",
+        "url": "53\/5314\/531401\/5314012011\/5314012011001.json",
+        "nama": "TPS 001, MEOAIN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012011",
+        "tps": "5314012011002",
+        "url": "53\/5314\/531401\/5314012011\/5314012011002.json",
+        "nama": "TPS 002, MEOAIN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012011",
+        "tps": "5314012011003",
+        "url": "53\/5314\/531401\/5314012011\/5314012011003.json",
+        "nama": "TPS 003, MEOAIN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012012",
+        "tps": "5314012012001",
+        "url": "53\/5314\/531401\/5314012012\/5314012012001.json",
+        "nama": "TPS 001, OEBAFOK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012012",
+        "tps": "5314012012002",
+        "url": "53\/5314\/531401\/5314012012\/5314012012002.json",
+        "nama": "TPS 002, OEBAFOK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012012",
+        "tps": "5314012012003",
+        "url": "53\/5314\/531401\/5314012012\/5314012012003.json",
+        "nama": "TPS 003, OEBAFOK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012012",
+        "tps": "5314012012004",
+        "url": "53\/5314\/531401\/5314012012\/5314012012004.json",
+        "nama": "TPS 004, OEBAFOK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012012",
+        "tps": "5314012012005",
+        "url": "53\/5314\/531401\/5314012012\/5314012012005.json",
+        "nama": "TPS 005, OEBAFOK, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012013",
+        "tps": "5314012013001",
+        "url": "53\/5314\/531401\/5314012013\/5314012013001.json",
+        "nama": "TPS 001, OEBATU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012013",
+        "tps": "5314012013002",
+        "url": "53\/5314\/531401\/5314012013\/5314012013002.json",
+        "nama": "TPS 002, OEBATU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012013",
+        "tps": "5314012013003",
+        "url": "53\/5314\/531401\/5314012013\/5314012013003.json",
+        "nama": "TPS 003, OEBATU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012013",
+        "tps": "5314012013004",
+        "url": "53\/5314\/531401\/5314012013\/5314012013004.json",
+        "nama": "TPS 004, OEBATU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012013",
+        "tps": "5314012013005",
+        "url": "53\/5314\/531401\/5314012013\/5314012013005.json",
+        "nama": "TPS 005, OEBATU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012006",
+        "tps": "5314012006001",
+        "url": "53\/5314\/531401\/5314012006\/5314012006001.json",
+        "nama": "TPS 001, OEBOU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012006",
+        "tps": "5314012006002",
+        "url": "53\/5314\/531401\/5314012006\/5314012006002.json",
+        "nama": "TPS 002, OEBOU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012006",
+        "tps": "5314012006003",
+        "url": "53\/5314\/531401\/5314012006\/5314012006003.json",
+        "nama": "TPS 003, OEBOU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012006",
+        "tps": "5314012006004",
+        "url": "53\/5314\/531401\/5314012006\/5314012006004.json",
+        "nama": "TPS 004, OEBOU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012006",
+        "tps": "5314012006005",
+        "url": "53\/5314\/531401\/5314012006\/5314012006005.json",
+        "nama": "TPS 005, OEBOU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012008",
+        "tps": "5314012008001",
+        "url": "53\/5314\/531401\/5314012008\/5314012008001.json",
+        "nama": "TPS 001, OEHANDI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012008",
+        "tps": "5314012008002",
+        "url": "53\/5314\/531401\/5314012008\/5314012008002.json",
+        "nama": "TPS 002, OEHANDI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012008",
+        "tps": "5314012008003",
+        "url": "53\/5314\/531401\/5314012008\/5314012008003.json",
+        "nama": "TPS 003, OEHANDI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012008",
+        "tps": "5314012008004",
+        "url": "53\/5314\/531401\/5314012008\/5314012008004.json",
+        "nama": "TPS 004, OEHANDI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012008",
+        "tps": "5314012008005",
+        "url": "53\/5314\/531401\/5314012008\/5314012008005.json",
+        "nama": "TPS 005, OEHANDI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012017",
+        "tps": "5314012017001",
+        "url": "53\/5314\/531401\/5314012017\/5314012017001.json",
+        "nama": "TPS 001, OELASIN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012017",
+        "tps": "5314012017002",
+        "url": "53\/5314\/531401\/5314012017\/5314012017002.json",
+        "nama": "TPS 002, OELASIN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012017",
+        "tps": "5314012017003",
+        "url": "53\/5314\/531401\/5314012017\/5314012017003.json",
+        "nama": "TPS 003, OELASIN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012017",
+        "tps": "5314012017004",
+        "url": "53\/5314\/531401\/5314012017\/5314012017004.json",
+        "nama": "TPS 004, OELASIN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012017",
+        "tps": "5314012017005",
+        "url": "53\/5314\/531401\/5314012017\/5314012017005.json",
+        "nama": "TPS 005, OELASIN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012005",
+        "tps": "5314012005001",
+        "url": "53\/5314\/531401\/5314012005\/5314012005001.json",
+        "nama": "TPS 001, OESELI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012005",
+        "tps": "5314012005002",
+        "url": "53\/5314\/531401\/5314012005\/5314012005002.json",
+        "nama": "TPS 002, OESELI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012005",
+        "tps": "5314012005003",
+        "url": "53\/5314\/531401\/5314012005\/5314012005003.json",
+        "nama": "TPS 003, OESELI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012005",
+        "tps": "5314012005004",
+        "url": "53\/5314\/531401\/5314012005\/5314012005004.json",
+        "nama": "TPS 004, OESELI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012005",
+        "tps": "5314012005005",
+        "url": "53\/5314\/531401\/5314012005\/5314012005005.json",
+        "nama": "TPS 005, OESELI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012005",
+        "tps": "5314012005006",
+        "url": "53\/5314\/531401\/5314012005\/5314012005006.json",
+        "nama": "TPS 006, OESELI, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012009",
+        "tps": "5314012009001",
+        "url": "53\/5314\/531401\/5314012009\/5314012009001.json",
+        "nama": "TPS 001, OETEFU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012009",
+        "tps": "5314012009002",
+        "url": "53\/5314\/531401\/5314012009\/5314012009002.json",
+        "nama": "TPS 002, OETEFU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012009",
+        "tps": "5314012009003",
+        "url": "53\/5314\/531401\/5314012009\/5314012009003.json",
+        "nama": "TPS 003, OETEFU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012009",
+        "tps": "5314012009004",
+        "url": "53\/5314\/531401\/5314012009\/5314012009004.json",
+        "nama": "TPS 004, OETEFU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012009",
+        "tps": "5314012009005",
+        "url": "53\/5314\/531401\/5314012009\/5314012009005.json",
+        "nama": "TPS 005, OETEFU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012021",
+        "tps": "5314012021001",
+        "url": "53\/5314\/531401\/5314012021\/5314012021001.json",
+        "nama": "TPS 001, SAKUBATUN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012021",
+        "tps": "5314012021002",
+        "url": "53\/5314\/531401\/5314012021\/5314012021002.json",
+        "nama": "TPS 002, SAKUBATUN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012021",
+        "tps": "5314012021003",
+        "url": "53\/5314\/531401\/5314012021\/5314012021003.json",
+        "nama": "TPS 003, SAKUBATUN, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012020",
+        "tps": "5314012020001",
+        "url": "53\/5314\/531401\/5314012020\/5314012020001.json",
+        "nama": "TPS 001, SANGGANDOLU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012020",
+        "tps": "5314012020002",
+        "url": "53\/5314\/531401\/5314012020\/5314012020002.json",
+        "nama": "TPS 002, SANGGANDOLU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531401",
+        "desa": "5314012020",
+        "tps": "5314012020003",
+        "url": "53\/5314\/531401\/5314012020\/5314012020003.json",
+        "nama": "TPS 003, SANGGANDOLU, ROTE BARAT DAYA, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314021008",
+        "tps": "5314021008001",
+        "url": "53\/5314\/531402\/5314021008\/5314021008001.json",
+        "nama": "TPS 001, BUSALANGGA, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314021008",
+        "tps": "5314021008002",
+        "url": "53\/5314\/531402\/5314021008\/5314021008002.json",
+        "nama": "TPS 002, BUSALANGGA, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314021008",
+        "tps": "5314021008003",
+        "url": "53\/5314\/531402\/5314021008\/5314021008003.json",
+        "nama": "TPS 003, BUSALANGGA, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314021008",
+        "tps": "5314021008004",
+        "url": "53\/5314\/531402\/5314021008\/5314021008004.json",
+        "nama": "TPS 004, BUSALANGGA, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314021008",
+        "tps": "5314021008005",
+        "url": "53\/5314\/531402\/5314021008\/5314021008005.json",
+        "nama": "TPS 005, BUSALANGGA, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022026",
+        "tps": "5314022026001",
+        "url": "53\/5314\/531402\/5314022026\/5314022026001.json",
+        "nama": "TPS 001, BUSALANGGA BARAT, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022026",
+        "tps": "5314022026002",
+        "url": "53\/5314\/531402\/5314022026\/5314022026002.json",
+        "nama": "TPS 002, BUSALANGGA BARAT, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022026",
+        "tps": "5314022026003",
+        "url": "53\/5314\/531402\/5314022026\/5314022026003.json",
+        "nama": "TPS 003, BUSALANGGA BARAT, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022026",
+        "tps": "5314022026004",
+        "url": "53\/5314\/531402\/5314022026\/5314022026004.json",
+        "nama": "TPS 004, BUSALANGGA BARAT, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022025",
+        "tps": "5314022025001",
+        "url": "53\/5314\/531402\/5314022025\/5314022025001.json",
+        "nama": "TPS 001, BUSALANGGA TIMUR, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022025",
+        "tps": "5314022025002",
+        "url": "53\/5314\/531402\/5314022025\/5314022025002.json",
+        "nama": "TPS 002, BUSALANGGA TIMUR, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022025",
+        "tps": "5314022025003",
+        "url": "53\/5314\/531402\/5314022025\/5314022025003.json",
+        "nama": "TPS 003, BUSALANGGA TIMUR, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022025",
+        "tps": "5314022025004",
+        "url": "53\/5314\/531402\/5314022025\/5314022025004.json",
+        "nama": "TPS 004, BUSALANGGA TIMUR, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022014",
+        "tps": "5314022014001",
+        "url": "53\/5314\/531402\/5314022014\/5314022014001.json",
+        "nama": "TPS 001, DAUDOLU, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022014",
+        "tps": "5314022014002",
+        "url": "53\/5314\/531402\/5314022014\/5314022014002.json",
+        "nama": "TPS 002, DAUDOLU, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022014",
+        "tps": "5314022014003",
+        "url": "53\/5314\/531402\/5314022014\/5314022014003.json",
+        "nama": "TPS 003, DAUDOLU, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022014",
+        "tps": "5314022014004",
+        "url": "53\/5314\/531402\/5314022014\/5314022014004.json",
+        "nama": "TPS 004, DAUDOLU, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022019",
+        "tps": "5314022019001",
+        "url": "53\/5314\/531402\/5314022019\/5314022019001.json",
+        "nama": "TPS 001, HUNDIHUK, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022019",
+        "tps": "5314022019002",
+        "url": "53\/5314\/531402\/5314022019\/5314022019002.json",
+        "nama": "TPS 002, HUNDIHUK, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022019",
+        "tps": "5314022019003",
+        "url": "53\/5314\/531402\/5314022019\/5314022019003.json",
+        "nama": "TPS 003, HUNDIHUK, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022019",
+        "tps": "5314022019004",
+        "url": "53\/5314\/531402\/5314022019\/5314022019004.json",
+        "nama": "TPS 004, HUNDIHUK, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022012",
+        "tps": "5314022012001",
+        "url": "53\/5314\/531402\/5314022012\/5314022012001.json",
+        "nama": "TPS 001, INGGUINAK, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022012",
+        "tps": "5314022012002",
+        "url": "53\/5314\/531402\/5314022012\/5314022012002.json",
+        "nama": "TPS 002, INGGUINAK, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022012",
+        "tps": "5314022012003",
+        "url": "53\/5314\/531402\/5314022012\/5314022012003.json",
+        "nama": "TPS 003, INGGUINAK, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022012",
+        "tps": "5314022012004",
+        "url": "53\/5314\/531402\/5314022012\/5314022012004.json",
+        "nama": "TPS 004, INGGUINAK, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022012",
+        "tps": "5314022012005",
+        "url": "53\/5314\/531402\/5314022012\/5314022012005.json",
+        "nama": "TPS 005, INGGUINAK, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022007",
+        "tps": "5314022007001",
+        "url": "53\/5314\/531402\/5314022007\/5314022007001.json",
+        "nama": "TPS 001, MODOSINAL, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022007",
+        "tps": "5314022007002",
+        "url": "53\/5314\/531402\/5314022007\/5314022007002.json",
+        "nama": "TPS 002, MODOSINAL, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022007",
+        "tps": "5314022007003",
+        "url": "53\/5314\/531402\/5314022007\/5314022007003.json",
+        "nama": "TPS 003, MODOSINAL, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022007",
+        "tps": "5314022007004",
+        "url": "53\/5314\/531402\/5314022007\/5314022007004.json",
+        "nama": "TPS 004, MODOSINAL, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022007",
+        "tps": "5314022007005",
+        "url": "53\/5314\/531402\/5314022007\/5314022007005.json",
+        "nama": "TPS 005, MODOSINAL, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022009",
+        "tps": "5314022009001",
+        "url": "53\/5314\/531402\/5314022009\/5314022009001.json",
+        "nama": "TPS 001, NETENAEN, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022009",
+        "tps": "5314022009002",
+        "url": "53\/5314\/531402\/5314022009\/5314022009002.json",
+        "nama": "TPS 002, NETENAEN, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022009",
+        "tps": "5314022009003",
+        "url": "53\/5314\/531402\/5314022009\/5314022009003.json",
+        "nama": "TPS 003, NETENAEN, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022013",
+        "tps": "5314022013001",
+        "url": "53\/5314\/531402\/5314022013\/5314022013001.json",
+        "nama": "TPS 001, OETUTULU, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022013",
+        "tps": "5314022013002",
+        "url": "53\/5314\/531402\/5314022013\/5314022013002.json",
+        "nama": "TPS 002, OETUTULU, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022013",
+        "tps": "5314022013003",
+        "url": "53\/5314\/531402\/5314022013\/5314022013003.json",
+        "nama": "TPS 003, OETUTULU, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022013",
+        "tps": "5314022013004",
+        "url": "53\/5314\/531402\/5314022013\/5314022013004.json",
+        "nama": "TPS 004, OETUTULU, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022021",
+        "tps": "5314022021001",
+        "url": "53\/5314\/531402\/5314022021\/5314022021001.json",
+        "nama": "TPS 001, SAINDULE, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022021",
+        "tps": "5314022021002",
+        "url": "53\/5314\/531402\/5314022021\/5314022021002.json",
+        "nama": "TPS 002, SAINDULE, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022004",
+        "tps": "5314022004001",
+        "url": "53\/5314\/531402\/5314022004\/5314022004001.json",
+        "nama": "TPS 001, TEMAS, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022004",
+        "tps": "5314022004002",
+        "url": "53\/5314\/531402\/5314022004\/5314022004002.json",
+        "nama": "TPS 002, TEMAS, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022004",
+        "tps": "5314022004003",
+        "url": "53\/5314\/531402\/5314022004\/5314022004003.json",
+        "nama": "TPS 003, TEMAS, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022004",
+        "tps": "5314022004004",
+        "url": "53\/5314\/531402\/5314022004\/5314022004004.json",
+        "nama": "TPS 004, TEMAS, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022017",
+        "tps": "5314022017001",
+        "url": "53\/5314\/531402\/5314022017\/5314022017001.json",
+        "nama": "TPS 001, TUALIMA, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531402",
+        "desa": "5314022017",
+        "tps": "5314022017002",
+        "url": "53\/5314\/531402\/5314022017\/5314022017002.json",
+        "nama": "TPS 002, TUALIMA, ROTE BARAT LAUT, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082002",
+        "tps": "5314082002001",
+        "url": "53\/5314\/531408\/5314082002\/5314082002001.json",
+        "nama": "TPS 001, DALEHOLU, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082002",
+        "tps": "5314082002002",
+        "url": "53\/5314\/531408\/5314082002\/5314082002002.json",
+        "nama": "TPS 002, DALEHOLU, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082002",
+        "tps": "5314082002003",
+        "url": "53\/5314\/531408\/5314082002\/5314082002003.json",
+        "nama": "TPS 003, DALEHOLU, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082002",
+        "tps": "5314082002004",
+        "url": "53\/5314\/531408\/5314082002\/5314082002004.json",
+        "nama": "TPS 004, DALEHOLU, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082003",
+        "tps": "5314082003001",
+        "url": "53\/5314\/531408\/5314082003\/5314082003001.json",
+        "nama": "TPS 001, DODAEK, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082003",
+        "tps": "5314082003002",
+        "url": "53\/5314\/531408\/5314082003\/5314082003002.json",
+        "nama": "TPS 002, DODAEK, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082005",
+        "tps": "5314082005001",
+        "url": "53\/5314\/531408\/5314082005\/5314082005001.json",
+        "nama": "TPS 001, INAOE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082005",
+        "tps": "5314082005002",
+        "url": "53\/5314\/531408\/5314082005\/5314082005002.json",
+        "nama": "TPS 002, INAOE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082005",
+        "tps": "5314082005003",
+        "url": "53\/5314\/531408\/5314082005\/5314082005003.json",
+        "nama": "TPS 003, INAOE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082001",
+        "tps": "5314082001001",
+        "url": "53\/5314\/531408\/5314082001\/5314082001001.json",
+        "nama": "TPS 001, LENGUSELU, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082001",
+        "tps": "5314082001002",
+        "url": "53\/5314\/531408\/5314082001\/5314082001002.json",
+        "nama": "TPS 002, LENGUSELU, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082006",
+        "tps": "5314082006001",
+        "url": "53\/5314\/531408\/5314082006\/5314082006001.json",
+        "nama": "TPS 001, NGGELODAE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082006",
+        "tps": "5314082006002",
+        "url": "53\/5314\/531408\/5314082006\/5314082006002.json",
+        "nama": "TPS 002, NGGELODAE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082007",
+        "tps": "5314082007001",
+        "url": "53\/5314\/531408\/5314082007\/5314082007001.json",
+        "nama": "TPS 001, PILASUE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082007",
+        "tps": "5314082007002",
+        "url": "53\/5314\/531408\/5314082007\/5314082007002.json",
+        "nama": "TPS 002, PILASUE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082007",
+        "tps": "5314082007003",
+        "url": "53\/5314\/531408\/5314082007\/5314082007003.json",
+        "nama": "TPS 003, PILASUE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082004",
+        "tps": "5314082004001",
+        "url": "53\/5314\/531408\/5314082004\/5314082004001.json",
+        "nama": "TPS 001, TEBOLE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082004",
+        "tps": "5314082004002",
+        "url": "53\/5314\/531408\/5314082004\/5314082004002.json",
+        "nama": "TPS 002, TEBOLE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531408",
+        "desa": "5314082004",
+        "tps": "5314082004003",
+        "url": "53\/5314\/531408\/5314082004\/5314082004003.json",
+        "nama": "TPS 003, TEBOLE, ROTE SELATAN, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042011",
+        "tps": "5314042011001",
+        "url": "53\/5314\/531404\/5314042011\/5314042011001.json",
+        "nama": "TPS 001, LIDABESI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042011",
+        "tps": "5314042011002",
+        "url": "53\/5314\/531404\/5314042011\/5314042011002.json",
+        "nama": "TPS 002, LIDABESI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042011",
+        "tps": "5314042011003",
+        "url": "53\/5314\/531404\/5314042011\/5314042011003.json",
+        "nama": "TPS 003, LIDABESI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042005",
+        "tps": "5314042005001",
+        "url": "53\/5314\/531404\/5314042005\/5314042005001.json",
+        "nama": "TPS 001, LIDAMANU, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042005",
+        "tps": "5314042005002",
+        "url": "53\/5314\/531404\/5314042005\/5314042005002.json",
+        "nama": "TPS 002, LIDAMANU, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042005",
+        "tps": "5314042005003",
+        "url": "53\/5314\/531404\/5314042005\/5314042005003.json",
+        "nama": "TPS 003, LIDAMANU, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042005",
+        "tps": "5314042005004",
+        "url": "53\/5314\/531404\/5314042005\/5314042005004.json",
+        "nama": "TPS 004, LIDAMANU, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042005",
+        "tps": "5314042005005",
+        "url": "53\/5314\/531404\/5314042005\/5314042005005.json",
+        "nama": "TPS 005, LIDAMANU, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042004",
+        "tps": "5314042004001",
+        "url": "53\/5314\/531404\/5314042004\/5314042004001.json",
+        "nama": "TPS 001, LIMAKOLI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042004",
+        "tps": "5314042004002",
+        "url": "53\/5314\/531404\/5314042004\/5314042004002.json",
+        "nama": "TPS 002, LIMAKOLI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042001",
+        "tps": "5314042001001",
+        "url": "53\/5314\/531404\/5314042001\/5314042001001.json",
+        "nama": "TPS 001, MAUBESI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042001",
+        "tps": "5314042001002",
+        "url": "53\/5314\/531404\/5314042001\/5314042001002.json",
+        "nama": "TPS 002, MAUBESI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042001",
+        "tps": "5314042001003",
+        "url": "53\/5314\/531404\/5314042001\/5314042001003.json",
+        "nama": "TPS 003, MAUBESI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042001",
+        "tps": "5314042001004",
+        "url": "53\/5314\/531404\/5314042001\/5314042001004.json",
+        "nama": "TPS 004, MAUBESI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042001",
+        "tps": "5314042001005",
+        "url": "53\/5314\/531404\/5314042001\/5314042001005.json",
+        "nama": "TPS 005, MAUBESI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042003",
+        "tps": "5314042003001",
+        "url": "53\/5314\/531404\/5314042003\/5314042003001.json",
+        "nama": "TPS 001, NGGODIMEDA, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042003",
+        "tps": "5314042003002",
+        "url": "53\/5314\/531404\/5314042003\/5314042003002.json",
+        "nama": "TPS 002, NGGODIMEDA, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042003",
+        "tps": "5314042003003",
+        "url": "53\/5314\/531404\/5314042003\/5314042003003.json",
+        "nama": "TPS 003, NGGODIMEDA, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314041002",
+        "tps": "5314041002001",
+        "url": "53\/5314\/531404\/5314041002\/5314041002001.json",
+        "nama": "TPS 001, ONATALI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314041002",
+        "tps": "5314041002002",
+        "url": "53\/5314\/531404\/5314041002\/5314041002002.json",
+        "nama": "TPS 002, ONATALI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314041002",
+        "tps": "5314041002003",
+        "url": "53\/5314\/531404\/5314041002\/5314041002003.json",
+        "nama": "TPS 003, ONATALI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314041002",
+        "tps": "5314041002004",
+        "url": "53\/5314\/531404\/5314041002\/5314041002004.json",
+        "nama": "TPS 004, ONATALI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314041002",
+        "tps": "5314041002005",
+        "url": "53\/5314\/531404\/5314041002\/5314041002005.json",
+        "nama": "TPS 005, ONATALI, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042013",
+        "tps": "5314042013001",
+        "url": "53\/5314\/531404\/5314042013\/5314042013001.json",
+        "nama": "TPS 001, SIOMEDA, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042013",
+        "tps": "5314042013002",
+        "url": "53\/5314\/531404\/5314042013\/5314042013002.json",
+        "nama": "TPS 002, SIOMEDA, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042013",
+        "tps": "5314042013003",
+        "url": "53\/5314\/531404\/5314042013\/5314042013003.json",
+        "nama": "TPS 003, SIOMEDA, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042010",
+        "tps": "5314042010001",
+        "url": "53\/5314\/531404\/5314042010\/5314042010001.json",
+        "nama": "TPS 001, SUEBELA, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042010",
+        "tps": "5314042010002",
+        "url": "53\/5314\/531404\/5314042010\/5314042010002.json",
+        "nama": "TPS 002, SUEBELA, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531404",
+        "desa": "5314042010",
+        "tps": "5314042010003",
+        "url": "53\/5314\/531404\/5314042010\/5314042010003.json",
+        "nama": "TPS 003, SUEBELA, ROTE TENGAH, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062015",
+        "tps": "5314062015001",
+        "url": "53\/5314\/531406\/5314062015\/5314062015001.json",
+        "nama": "TPS 001, BATEFALU, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062015",
+        "tps": "5314062015002",
+        "url": "53\/5314\/531406\/5314062015\/5314062015002.json",
+        "nama": "TPS 002, BATEFALU, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062015",
+        "tps": "5314062015003",
+        "url": "53\/5314\/531406\/5314062015\/5314062015003.json",
+        "nama": "TPS 003, BATEFALU, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062015",
+        "tps": "5314062015004",
+        "url": "53\/5314\/531406\/5314062015\/5314062015004.json",
+        "nama": "TPS 004, BATEFALU, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062002",
+        "tps": "5314062002001",
+        "url": "53\/5314\/531406\/5314062002\/5314062002001.json",
+        "nama": "TPS 001, FAIFUA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062002",
+        "tps": "5314062002002",
+        "url": "53\/5314\/531406\/5314062002\/5314062002002.json",
+        "nama": "TPS 002, FAIFUA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062002",
+        "tps": "5314062002003",
+        "url": "53\/5314\/531406\/5314062002\/5314062002003.json",
+        "nama": "TPS 003, FAIFUA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062003",
+        "tps": "5314062003001",
+        "url": "53\/5314\/531406\/5314062003\/5314062003001.json",
+        "nama": "TPS 001, HUNDIHOPO, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062003",
+        "tps": "5314062003002",
+        "url": "53\/5314\/531406\/5314062003\/5314062003002.json",
+        "nama": "TPS 002, HUNDIHOPO, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062003",
+        "tps": "5314062003003",
+        "url": "53\/5314\/531406\/5314062003\/5314062003003.json",
+        "nama": "TPS 003, HUNDIHOPO, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062006",
+        "tps": "5314062006001",
+        "url": "53\/5314\/531406\/5314062006\/5314062006001.json",
+        "nama": "TPS 001, LAKAMOLA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062006",
+        "tps": "5314062006002",
+        "url": "53\/5314\/531406\/5314062006\/5314062006002.json",
+        "nama": "TPS 002, LAKAMOLA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062006",
+        "tps": "5314062006003",
+        "url": "53\/5314\/531406\/5314062006\/5314062006003.json",
+        "nama": "TPS 003, LAKAMOLA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062006",
+        "tps": "5314062006004",
+        "url": "53\/5314\/531406\/5314062006\/5314062006004.json",
+        "nama": "TPS 004, LAKAMOLA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314061004",
+        "tps": "5314061004001",
+        "url": "53\/5314\/531406\/5314061004\/5314061004001.json",
+        "nama": "TPS 001, LONDALUSI, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314061004",
+        "tps": "5314061004002",
+        "url": "53\/5314\/531406\/5314061004\/5314061004002.json",
+        "nama": "TPS 002, LONDALUSI, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314061004",
+        "tps": "5314061004003",
+        "url": "53\/5314\/531406\/5314061004\/5314061004003.json",
+        "nama": "TPS 003, LONDALUSI, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314061004",
+        "tps": "5314061004004",
+        "url": "53\/5314\/531406\/5314061004\/5314061004004.json",
+        "nama": "TPS 004, LONDALUSI, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062017",
+        "tps": "5314062017001",
+        "url": "53\/5314\/531406\/5314062017\/5314062017001.json",
+        "nama": "TPS 001, MATANAE, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062017",
+        "tps": "5314062017002",
+        "url": "53\/5314\/531406\/5314062017\/5314062017002.json",
+        "nama": "TPS 002, MATANAE, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062017",
+        "tps": "5314062017003",
+        "url": "53\/5314\/531406\/5314062017\/5314062017003.json",
+        "nama": "TPS 003, MATANAE, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062007",
+        "tps": "5314062007001",
+        "url": "53\/5314\/531406\/5314062007\/5314062007001.json",
+        "nama": "TPS 001, MATASIO, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062007",
+        "tps": "5314062007002",
+        "url": "53\/5314\/531406\/5314062007\/5314062007002.json",
+        "nama": "TPS 002, MATASIO, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062007",
+        "tps": "5314062007003",
+        "url": "53\/5314\/531406\/5314062007\/5314062007003.json",
+        "nama": "TPS 003, MATASIO, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062001",
+        "tps": "5314062001001",
+        "url": "53\/5314\/531406\/5314062001\/5314062001001.json",
+        "nama": "TPS 001, MUKEKUKU, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062001",
+        "tps": "5314062001002",
+        "url": "53\/5314\/531406\/5314062001\/5314062001002.json",
+        "nama": "TPS 002, MUKEKUKU, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062001",
+        "tps": "5314062001003",
+        "url": "53\/5314\/531406\/5314062001\/5314062001003.json",
+        "nama": "TPS 003, MUKEKUKU, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062001",
+        "tps": "5314062001004",
+        "url": "53\/5314\/531406\/5314062001\/5314062001004.json",
+        "nama": "TPS 004, MUKEKUKU, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062016",
+        "tps": "5314062016001",
+        "url": "53\/5314\/531406\/5314062016\/5314062016001.json",
+        "nama": "TPS 001, PAPELA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062016",
+        "tps": "5314062016002",
+        "url": "53\/5314\/531406\/5314062016\/5314062016002.json",
+        "nama": "TPS 002, PAPELA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062016",
+        "tps": "5314062016003",
+        "url": "53\/5314\/531406\/5314062016\/5314062016003.json",
+        "nama": "TPS 003, PAPELA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062016",
+        "tps": "5314062016004",
+        "url": "53\/5314\/531406\/5314062016\/5314062016004.json",
+        "nama": "TPS 004, PAPELA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062016",
+        "tps": "5314062016005",
+        "url": "53\/5314\/531406\/5314062016\/5314062016005.json",
+        "nama": "TPS 005, PAPELA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062016",
+        "tps": "5314062016006",
+        "url": "53\/5314\/531406\/5314062016\/5314062016006.json",
+        "nama": "TPS 006, PAPELA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062014",
+        "tps": "5314062014001",
+        "url": "53\/5314\/531406\/5314062014\/5314062014001.json",
+        "nama": "TPS 001, PENGODUA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062014",
+        "tps": "5314062014002",
+        "url": "53\/5314\/531406\/5314062014\/5314062014002.json",
+        "nama": "TPS 002, PENGODUA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062014",
+        "tps": "5314062014003",
+        "url": "53\/5314\/531406\/5314062014\/5314062014003.json",
+        "nama": "TPS 003, PENGODUA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062014",
+        "tps": "5314062014004",
+        "url": "53\/5314\/531406\/5314062014\/5314062014004.json",
+        "nama": "TPS 004, PENGODUA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062005",
+        "tps": "5314062005001",
+        "url": "53\/5314\/531406\/5314062005\/5314062005001.json",
+        "nama": "TPS 001, SERUBEBA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062005",
+        "tps": "5314062005002",
+        "url": "53\/5314\/531406\/5314062005\/5314062005002.json",
+        "nama": "TPS 002, SERUBEBA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062005",
+        "tps": "5314062005003",
+        "url": "53\/5314\/531406\/5314062005\/5314062005003.json",
+        "nama": "TPS 003, SERUBEBA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062005",
+        "tps": "5314062005004",
+        "url": "53\/5314\/531406\/5314062005\/5314062005004.json",
+        "nama": "TPS 004, SERUBEBA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062005",
+        "tps": "5314062005005",
+        "url": "53\/5314\/531406\/5314062005\/5314062005005.json",
+        "nama": "TPS 005, SERUBEBA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5314",
+        "kecamatan": "531406",
+        "desa": "5314062005",
+        "tps": "5314062005006",
+        "url": "53\/5314\/531406\/5314062005\/5314062005006.json",
+        "nama": "TPS 006, SERUBEBA, ROTE TIMUR, ROTE NDAO, NUSA TENGGARA TIMUR"
+    }
+]

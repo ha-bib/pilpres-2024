@@ -1,0 +1,102 @@
+[
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710802",
+        "desa": "7108022011",
+        "tps": "7108022011003",
+        "nama": "TPS 003, MINANGA, BINTAUNA, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710802\/7108022011\/7108022011003"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710802",
+        "desa": "7108022006",
+        "tps": "7108022006001",
+        "nama": "TPS 001, PIMPI, BINTAUNA, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710802\/7108022006\/7108022006001"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710804",
+        "desa": "7108042014",
+        "tps": "7108042014003",
+        "nama": "TPS 003, BOLANGITANG II, BOLANGITANG BARAT, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710804\/7108042014\/7108042014003"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710804",
+        "desa": "7108042007",
+        "tps": "7108042007002",
+        "nama": "TPS 002, LANGI, BOLANGITANG BARAT, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710804\/7108042007\/7108042007002"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710803",
+        "desa": "7108032007",
+        "tps": "7108032007001",
+        "nama": "TPS 001, BIONTONG, BOLANGITANG TIMUR, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": 340,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710803\/7108032007\/7108032007001"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710805",
+        "desa": "7108052002",
+        "tps": "7108052002002",
+        "nama": "TPS 002, BOROKO, KAIDIPANG, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": 159,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710805\/7108052002\/7108052002002"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710805",
+        "desa": "7108052006",
+        "tps": "7108052006002",
+        "nama": "TPS 002, INOMUNGA, KAIDIPANG, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710805\/7108052006\/7108052006002"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710801",
+        "desa": "7108012005",
+        "tps": "7108012005001",
+        "nama": "TPS 001, PANGKUSA, SANGKUB, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": 90,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710801\/7108012005\/7108012005001"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710801",
+        "desa": "7108012006",
+        "tps": "7108012006002",
+        "nama": "TPS 002, SANGKUB II, SANGKUB, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": -56,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710801\/7108012006\/7108012006002"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7108",
+        "kecamatan": "710802",
+        "desa": "7108022009",
+        "tps": "7108022009001",
+        "nama": "TPS 001, BATULINTIK, BINTAUNA, BOLAANG MONGONDOW UTARA, SULAWESI UTARA",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7108\/710802\/7108022009\/7108022009001"
+    }
+]

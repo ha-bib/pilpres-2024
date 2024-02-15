@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AK",
+        "kecamatan": "99AK01",
+        "desa": "99AK010001",
+        "tps": "99AK010001003",
+        "url": "99\/99AK\/99AK01\/99AK010001\/99AK010001003.json",
+        "nama": "KSK 001, Suva, Fiji, Suva, Fiji, Suva, Fiji, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AK",
+        "kecamatan": "99AK01",
+        "desa": "99AK010001",
+        "tps": "99AK010001001",
+        "url": "99\/99AK\/99AK01\/99AK010001\/99AK010001001.json",
+        "nama": "POS 001, Suva, Fiji, Suva, Fiji, Suva, Fiji, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AK",
+        "kecamatan": "99AK01",
+        "desa": "99AK010001",
+        "tps": "99AK010001002",
+        "url": "99\/99AK\/99AK01\/99AK010001\/99AK010001002.json",
+        "nama": "TPS 001, Suva, Fiji, Suva, Fiji, Suva, Fiji, Luar Negeri"
+    }
+]

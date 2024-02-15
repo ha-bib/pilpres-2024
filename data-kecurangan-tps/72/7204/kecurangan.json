@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "72",
+        "kabupaten": "7204",
+        "kecamatan": "720407",
+        "desa": "7204071004",
+        "tps": "7204071004005",
+        "nama": "TPS 005, NALU, BAOLAN, TOLI TOLI, SULAWESI TENGAH",
+        "selisih": 1308,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7204\/720407\/7204071004\/7204071004005"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7204",
+        "kecamatan": "720407",
+        "desa": "7204071007",
+        "tps": "7204071007004",
+        "nama": "TPS 004, SIDOARJO, BAOLAN, TOLI TOLI, SULAWESI TENGAH",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7204\/720407\/7204071007\/7204071007004"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7204",
+        "kecamatan": "720409",
+        "desa": "7204092009",
+        "tps": "7204092009002",
+        "nama": "TPS 002, PINJAN, TOLI-TOLI UTARA, TOLI TOLI, SULAWESI TENGAH",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7204\/720409\/7204092009\/7204092009002"
+    }
+]

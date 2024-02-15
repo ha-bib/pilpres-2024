@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "82",
+        "kabupaten": "8202",
+        "kecamatan": "820201",
+        "desa": "8202012020",
+        "tps": "8202012020014",
+        "nama": "TPS 014, FIDY JAYA, WEDA, HALMAHERA TENGAH, MALUKU UTARA",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8202\/820201\/8202012020\/8202012020014"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8202",
+        "kecamatan": "820201",
+        "desa": "8202012020",
+        "tps": "8202012020023",
+        "nama": "TPS 023, FIDY JAYA, WEDA, HALMAHERA TENGAH, MALUKU UTARA",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8202\/820201\/8202012020\/8202012020023"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8202",
+        "kecamatan": "820201",
+        "desa": "8202012005",
+        "tps": "8202012005013",
+        "nama": "TPS 013, WERE, WEDA, HALMAHERA TENGAH, MALUKU UTARA",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8202\/820201\/8202012005\/8202012005013"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8202",
+        "kecamatan": "820205",
+        "desa": "8202052004",
+        "tps": "8202052004004",
+        "nama": "TPS 004, WAIRORO INDAH, WEDA SELATAN, HALMAHERA TENGAH, MALUKU UTARA",
+        "selisih": 1120,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8202\/820205\/8202052004\/8202052004004"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8202",
+        "kecamatan": "820202",
+        "desa": "8202022013",
+        "tps": "8202022013001",
+        "nama": "TPS 001, BAKA JAYA, PATANI, HALMAHERA TENGAH, MALUKU UTARA",
+        "selisih": 603,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8202\/820202\/8202022013\/8202022013001"
+    }
+]

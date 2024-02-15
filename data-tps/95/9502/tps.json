@@ -1,0 +1,4304 @@
+[
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082001",
+        "tps": "9502082001001",
+        "url": "95\/9502\/950208\/9502082001\/9502082001001.json",
+        "nama": "TPS 001, ABOY, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082004",
+        "tps": "9502082004001",
+        "url": "95\/9502\/950208\/9502082004\/9502082004001.json",
+        "nama": "TPS 001, ARMISE, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082004",
+        "tps": "9502082004002",
+        "url": "95\/9502\/950208\/9502082004\/9502082004002.json",
+        "nama": "TPS 002, ARMISE, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082003",
+        "tps": "9502082003001",
+        "url": "95\/9502\/950208\/9502082003\/9502082003001.json",
+        "nama": "TPS 001, JUBLY, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082003",
+        "tps": "9502082003002",
+        "url": "95\/9502\/950208\/9502082003\/9502082003002.json",
+        "nama": "TPS 002, JUBLY, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082002",
+        "tps": "9502082002001",
+        "url": "95\/9502\/950208\/9502082002\/9502082002001.json",
+        "nama": "TPS 001, LUBAN, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082002",
+        "tps": "9502082002002",
+        "url": "95\/9502\/950208\/9502082002\/9502082002002.json",
+        "nama": "TPS 002, LUBAN, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082002",
+        "tps": "9502082002003",
+        "url": "95\/9502\/950208\/9502082002\/9502082002003.json",
+        "nama": "TPS 003, LUBAN, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082007",
+        "tps": "9502082007001",
+        "url": "95\/9502\/950208\/9502082007\/9502082007001.json",
+        "nama": "TPS 001, LULIS WII, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082006",
+        "tps": "9502082006001",
+        "url": "95\/9502\/950208\/9502082006\/9502082006001.json",
+        "nama": "TPS 001, PIPAL, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082006",
+        "tps": "9502082006002",
+        "url": "95\/9502\/950208\/9502082006\/9502082006002.json",
+        "nama": "TPS 002, PIPAL, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082005",
+        "tps": "9502082005001",
+        "url": "95\/9502\/950208\/9502082005\/9502082005001.json",
+        "nama": "TPS 001, WORO, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950208",
+        "desa": "9502082005",
+        "tps": "9502082005002",
+        "url": "95\/9502\/950208\/9502082005\/9502082005002.json",
+        "nama": "TPS 002, WORO, ABOY, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112002",
+        "tps": "9502112002001",
+        "url": "95\/9502\/950211\/9502112002\/9502112002001.json",
+        "nama": "TPS 001, ALEMSOM, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112002",
+        "tps": "9502112002002",
+        "url": "95\/9502\/950211\/9502112002\/9502112002002.json",
+        "nama": "TPS 002, ALEMSOM, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112002",
+        "tps": "9502112002003",
+        "url": "95\/9502\/950211\/9502112002\/9502112002003.json",
+        "nama": "TPS 003, ALEMSOM, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112006",
+        "tps": "9502112006001",
+        "url": "95\/9502\/950211\/9502112006\/9502112006001.json",
+        "nama": "TPS 001, BAKWALIN YUB, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112011",
+        "tps": "9502112011001",
+        "url": "95\/9502\/950211\/9502112011\/9502112011001.json",
+        "nama": "TPS 001, BINALKOM, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112009",
+        "tps": "9502112009001",
+        "url": "95\/9502\/950211\/9502112009\/9502112009001.json",
+        "nama": "TPS 001, BONDIK, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112009",
+        "tps": "9502112009002",
+        "url": "95\/9502\/950211\/9502112009\/9502112009002.json",
+        "nama": "TPS 002, BONDIK, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112001",
+        "tps": "9502112001001",
+        "url": "95\/9502\/950211\/9502112001\/9502112001001.json",
+        "nama": "TPS 001, ERADUMAN, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112001",
+        "tps": "9502112001002",
+        "url": "95\/9502\/950211\/9502112001\/9502112001002.json",
+        "nama": "TPS 002, ERADUMAN, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112007",
+        "tps": "9502112007001",
+        "url": "95\/9502\/950211\/9502112007\/9502112007001.json",
+        "nama": "TPS 001, IMIRYI, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112010",
+        "tps": "9502112010001",
+        "url": "95\/9502\/950211\/9502112010\/9502112010001.json",
+        "nama": "TPS 001, MURUMAN, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112004",
+        "tps": "9502112004001",
+        "url": "95\/9502\/950211\/9502112004\/9502112004001.json",
+        "nama": "TPS 001, PAYOL MASUMKON, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112004",
+        "tps": "9502112004002",
+        "url": "95\/9502\/950211\/9502112004\/9502112004002.json",
+        "nama": "TPS 002, PAYOL MASUMKON, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112008",
+        "tps": "9502112008001",
+        "url": "95\/9502\/950211\/9502112008\/9502112008001.json",
+        "nama": "TPS 001, SUMTAMON, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112003",
+        "tps": "9502112003001",
+        "url": "95\/9502\/950211\/9502112003\/9502112003001.json",
+        "nama": "TPS 001, TAPASIK, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112005",
+        "tps": "9502112005001",
+        "url": "95\/9502\/950211\/9502112005\/9502112005001.json",
+        "nama": "TPS 001, TAPOB, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112012",
+        "tps": "9502112012001",
+        "url": "95\/9502\/950211\/9502112012\/9502112012001.json",
+        "nama": "TPS 001, TIBAL, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950211",
+        "desa": "9502112012",
+        "tps": "9502112012002",
+        "url": "95\/9502\/950211\/9502112012\/9502112012002.json",
+        "nama": "TPS 002, TIBAL, ALEMSOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950218",
+        "desa": "9502182001",
+        "tps": "9502182001001",
+        "url": "95\/9502\/950218\/9502182001\/9502182001001.json",
+        "nama": "TPS 001, AWINBON, AWINBON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950218",
+        "desa": "9502182001",
+        "tps": "9502182001002",
+        "url": "95\/9502\/950218\/9502182001\/9502182001002.json",
+        "nama": "TPS 002, AWINBON, AWINBON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950218",
+        "desa": "9502182004",
+        "tps": "9502182004001",
+        "url": "95\/9502\/950218\/9502182004\/9502182004001.json",
+        "nama": "TPS 001, KAWE, AWINBON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950218",
+        "desa": "9502182003",
+        "tps": "9502182003001",
+        "url": "95\/9502\/950218\/9502182003\/9502182003001.json",
+        "nama": "TPS 001, MIKIR, AWINBON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950218",
+        "desa": "9502182003",
+        "tps": "9502182003002",
+        "url": "95\/9502\/950218\/9502182003\/9502182003002.json",
+        "nama": "TPS 002, MIKIR, AWINBON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950218",
+        "desa": "9502182002",
+        "tps": "9502182002001",
+        "url": "95\/9502\/950218\/9502182002\/9502182002001.json",
+        "nama": "TPS 001, NANUM ANAIP, AWINBON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950218",
+        "desa": "9502182005",
+        "tps": "9502182005001",
+        "url": "95\/9502\/950218\/9502182005\/9502182005001.json",
+        "nama": "TPS 001, YELOBIB, AWINBON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950226",
+        "desa": "9502262007",
+        "tps": "9502262007001",
+        "url": "95\/9502\/950226\/9502262007\/9502262007001.json",
+        "nama": "TPS 001, BAKATA, BATANI, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950226",
+        "desa": "9502262002",
+        "tps": "9502262002001",
+        "url": "95\/9502\/950226\/9502262002\/9502262002001.json",
+        "nama": "TPS 001, BATANI, BATANI, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950226",
+        "desa": "9502262001",
+        "tps": "9502262001001",
+        "url": "95\/9502\/950226\/9502262001\/9502262001001.json",
+        "nama": "TPS 001, KARYE, BATANI, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950226",
+        "desa": "9502262001",
+        "tps": "9502262001002",
+        "url": "95\/9502\/950226\/9502262001\/9502262001002.json",
+        "nama": "TPS 002, KARYE, BATANI, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950226",
+        "desa": "9502262005",
+        "tps": "9502262005001",
+        "url": "95\/9502\/950226\/9502262005\/9502262005001.json",
+        "nama": "TPS 001, PALUR DUA, BATANI, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950226",
+        "desa": "9502262004",
+        "tps": "9502262004001",
+        "url": "95\/9502\/950226\/9502262004\/9502262004001.json",
+        "nama": "TPS 001, PALUR SATU, BATANI, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950226",
+        "desa": "9502262003",
+        "tps": "9502262003001",
+        "url": "95\/9502\/950226\/9502262003\/9502262003001.json",
+        "nama": "TPS 001, SEGAME, BATANI, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950226",
+        "desa": "9502262006",
+        "tps": "9502262006001",
+        "url": "95\/9502\/950226\/9502262006\/9502262006001.json",
+        "nama": "TPS 001, SOPLE, BATANI, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052011",
+        "tps": "9502052011001",
+        "url": "95\/9502\/950205\/9502052011\/9502052011001.json",
+        "nama": "TPS 001, ABUKEROM, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052008",
+        "tps": "9502052008001",
+        "url": "95\/9502\/950205\/9502052008\/9502052008001.json",
+        "nama": "TPS 001, AKYAKO, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052001",
+        "tps": "9502052001001",
+        "url": "95\/9502\/950205\/9502052001\/9502052001001.json",
+        "nama": "TPS 001, BATOM, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052007",
+        "tps": "9502052007001",
+        "url": "95\/9502\/950205\/9502052007\/9502052007001.json",
+        "nama": "TPS 001, BATOM DUA, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052010",
+        "tps": "9502052010001",
+        "url": "95\/9502\/950205\/9502052010\/9502052010001.json",
+        "nama": "TPS 001, BELOMO, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052003",
+        "tps": "9502052003001",
+        "url": "95\/9502\/950205\/9502052003\/9502052003001.json",
+        "nama": "TPS 001, MONGHAM, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052006",
+        "tps": "9502052006001",
+        "url": "95\/9502\/950205\/9502052006\/9502052006001.json",
+        "nama": "TPS 001, MUARA, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052005",
+        "tps": "9502052005001",
+        "url": "95\/9502\/950205\/9502052005\/9502052005001.json",
+        "nama": "TPS 001, NEEP, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052005",
+        "tps": "9502052005002",
+        "url": "95\/9502\/950205\/9502052005\/9502052005002.json",
+        "nama": "TPS 002, NEEP, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052005",
+        "tps": "9502052005003",
+        "url": "95\/9502\/950205\/9502052005\/9502052005003.json",
+        "nama": "TPS 003, NEEP, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052005",
+        "tps": "9502052005004",
+        "url": "95\/9502\/950205\/9502052005\/9502052005004.json",
+        "nama": "TPS 004, NEEP, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052005",
+        "tps": "9502052005005",
+        "url": "95\/9502\/950205\/9502052005\/9502052005005.json",
+        "nama": "TPS 005, NEEP, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052005",
+        "tps": "9502052005006",
+        "url": "95\/9502\/950205\/9502052005\/9502052005006.json",
+        "nama": "TPS 006, NEEP, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052002",
+        "tps": "9502052002001",
+        "url": "95\/9502\/950205\/9502052002\/9502052002001.json",
+        "nama": "TPS 001, OKSIP, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052002",
+        "tps": "9502052002002",
+        "url": "95\/9502\/950205\/9502052002\/9502052002002.json",
+        "nama": "TPS 002, OKSIP, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052009",
+        "tps": "9502052009001",
+        "url": "95\/9502\/950205\/9502052009\/9502052009001.json",
+        "nama": "TPS 001, PETENG, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950205",
+        "desa": "9502052004",
+        "tps": "9502052004001",
+        "url": "95\/9502\/950205\/9502052004\/9502052004001.json",
+        "nama": "TPS 001, SABI, BATOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102001",
+        "tps": "9502102001001",
+        "url": "95\/9502\/950210\/9502102001\/9502102001001.json",
+        "nama": "TPS 001, BIME, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102001",
+        "tps": "9502102001002",
+        "url": "95\/9502\/950210\/9502102001\/9502102001002.json",
+        "nama": "TPS 002, BIME, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102001",
+        "tps": "9502102001003",
+        "url": "95\/9502\/950210\/9502102001\/9502102001003.json",
+        "nama": "TPS 003, BIME, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102001",
+        "tps": "9502102001004",
+        "url": "95\/9502\/950210\/9502102001\/9502102001004.json",
+        "nama": "TPS 004, BIME, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102002",
+        "tps": "9502102002001",
+        "url": "95\/9502\/950210\/9502102002\/9502102002001.json",
+        "nama": "TPS 001, BOB, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102002",
+        "tps": "9502102002002",
+        "url": "95\/9502\/950210\/9502102002\/9502102002002.json",
+        "nama": "TPS 002, BOB, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102002",
+        "tps": "9502102002003",
+        "url": "95\/9502\/950210\/9502102002\/9502102002003.json",
+        "nama": "TPS 003, BOB, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102002",
+        "tps": "9502102002004",
+        "url": "95\/9502\/950210\/9502102002\/9502102002004.json",
+        "nama": "TPS 004, BOB, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102002",
+        "tps": "9502102002005",
+        "url": "95\/9502\/950210\/9502102002\/9502102002005.json",
+        "nama": "TPS 005, BOB, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102002",
+        "tps": "9502102002006",
+        "url": "95\/9502\/950210\/9502102002\/9502102002006.json",
+        "nama": "TPS 006, BOB, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102002",
+        "tps": "9502102002007",
+        "url": "95\/9502\/950210\/9502102002\/9502102002007.json",
+        "nama": "TPS 007, BOB, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102008",
+        "tps": "9502102008001",
+        "url": "95\/9502\/950210\/9502102008\/9502102008001.json",
+        "nama": "TPS 001, BUNGGON, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102008",
+        "tps": "9502102008002",
+        "url": "95\/9502\/950210\/9502102008\/9502102008002.json",
+        "nama": "TPS 002, BUNGGON, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102004",
+        "tps": "9502102004001",
+        "url": "95\/9502\/950210\/9502102004\/9502102004001.json",
+        "nama": "TPS 001, CALAB, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102004",
+        "tps": "9502102004002",
+        "url": "95\/9502\/950210\/9502102004\/9502102004002.json",
+        "nama": "TPS 002, CALAB, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102003",
+        "tps": "9502102003001",
+        "url": "95\/9502\/950210\/9502102003\/9502102003001.json",
+        "nama": "TPS 001, KAMEME, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102007",
+        "tps": "9502102007001",
+        "url": "95\/9502\/950210\/9502102007\/9502102007001.json",
+        "nama": "TPS 001, LIM LIM, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102007",
+        "tps": "9502102007002",
+        "url": "95\/9502\/950210\/9502102007\/9502102007002.json",
+        "nama": "TPS 002, LIM LIM, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102005",
+        "tps": "9502102005001",
+        "url": "95\/9502\/950210\/9502102005\/9502102005001.json",
+        "nama": "TPS 001, LIMIRI, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102005",
+        "tps": "9502102005002",
+        "url": "95\/9502\/950210\/9502102005\/9502102005002.json",
+        "nama": "TPS 002, LIMIRI, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102009",
+        "tps": "9502102009001",
+        "url": "95\/9502\/950210\/9502102009\/9502102009001.json",
+        "nama": "TPS 001, PEREM, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102009",
+        "tps": "9502102009002",
+        "url": "95\/9502\/950210\/9502102009\/9502102009002.json",
+        "nama": "TPS 002, PEREM, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102006",
+        "tps": "9502102006001",
+        "url": "95\/9502\/950210\/9502102006\/9502102006001.json",
+        "nama": "TPS 001, TELI, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102006",
+        "tps": "9502102006002",
+        "url": "95\/9502\/950210\/9502102006\/9502102006002.json",
+        "nama": "TPS 002, TELI, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950210",
+        "desa": "9502102010",
+        "tps": "9502102010001",
+        "url": "95\/9502\/950210\/9502102010\/9502102010001.json",
+        "nama": "TPS 001, TURWE, BIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062005",
+        "tps": "9502062005001",
+        "url": "95\/9502\/950206\/9502062005\/9502062005001.json",
+        "nama": "TPS 001, ARINA, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062005",
+        "tps": "9502062005002",
+        "url": "95\/9502\/950206\/9502062005\/9502062005002.json",
+        "nama": "TPS 002, ARINA, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062007",
+        "tps": "9502062007001",
+        "url": "95\/9502\/950206\/9502062007\/9502062007001.json",
+        "nama": "TPS 001, ARINGGON, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062006",
+        "tps": "9502062006001",
+        "url": "95\/9502\/950206\/9502062006\/9502062006001.json",
+        "nama": "TPS 001, BORDAMBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062006",
+        "tps": "9502062006002",
+        "url": "95\/9502\/950206\/9502062006\/9502062006002.json",
+        "nama": "TPS 002, BORDAMBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062006",
+        "tps": "9502062006003",
+        "url": "95\/9502\/950206\/9502062006\/9502062006003.json",
+        "nama": "TPS 003, BORDAMBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062001",
+        "tps": "9502062001001",
+        "url": "95\/9502\/950206\/9502062001\/9502062001001.json",
+        "nama": "TPS 001, BORME, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062001",
+        "tps": "9502062001002",
+        "url": "95\/9502\/950206\/9502062001\/9502062001002.json",
+        "nama": "TPS 002, BORME, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062001",
+        "tps": "9502062001003",
+        "url": "95\/9502\/950206\/9502062001\/9502062001003.json",
+        "nama": "TPS 003, BORME, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062001",
+        "tps": "9502062001004",
+        "url": "95\/9502\/950206\/9502062001\/9502062001004.json",
+        "nama": "TPS 004, BORME, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062001",
+        "tps": "9502062001005",
+        "url": "95\/9502\/950206\/9502062001\/9502062001005.json",
+        "nama": "TPS 005, BORME, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062001",
+        "tps": "9502062001006",
+        "url": "95\/9502\/950206\/9502062001\/9502062001006.json",
+        "nama": "TPS 006, BORME, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062008",
+        "tps": "9502062008001",
+        "url": "95\/9502\/950206\/9502062008\/9502062008001.json",
+        "nama": "TPS 001, BUKAM, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062011",
+        "tps": "9502062011001",
+        "url": "95\/9502\/950206\/9502062011\/9502062011001.json",
+        "nama": "TPS 001, CANGDAMBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062010",
+        "tps": "9502062010001",
+        "url": "95\/9502\/950206\/9502062010\/9502062010001.json",
+        "nama": "TPS 001, KOLGIR, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062009",
+        "tps": "9502062009001",
+        "url": "95\/9502\/950206\/9502062009\/9502062009001.json",
+        "nama": "TPS 001, KWIME, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062012",
+        "tps": "9502062012001",
+        "url": "95\/9502\/950206\/9502062012\/9502062012001.json",
+        "nama": "TPS 001, LAYDAMBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062002",
+        "tps": "9502062002001",
+        "url": "95\/9502\/950206\/9502062002\/9502062002001.json",
+        "nama": "TPS 001, OMBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062002",
+        "tps": "9502062002002",
+        "url": "95\/9502\/950206\/9502062002\/9502062002002.json",
+        "nama": "TPS 002, OMBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062002",
+        "tps": "9502062002003",
+        "url": "95\/9502\/950206\/9502062002\/9502062002003.json",
+        "nama": "TPS 003, OMBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062002",
+        "tps": "9502062002004",
+        "url": "95\/9502\/950206\/9502062002\/9502062002004.json",
+        "nama": "TPS 004, OMBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062004",
+        "tps": "9502062004001",
+        "url": "95\/9502\/950206\/9502062004\/9502062004001.json",
+        "nama": "TPS 001, ONYA, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062004",
+        "tps": "9502062004002",
+        "url": "95\/9502\/950206\/9502062004\/9502062004002.json",
+        "nama": "TPS 002, ONYA, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062013",
+        "tps": "9502062013001",
+        "url": "95\/9502\/950206\/9502062013\/9502062013001.json",
+        "nama": "TPS 001, SEBAN, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062003",
+        "tps": "9502062003001",
+        "url": "95\/9502\/950206\/9502062003\/9502062003001.json",
+        "nama": "TPS 001, SIKIBUR, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062003",
+        "tps": "9502062003002",
+        "url": "95\/9502\/950206\/9502062003\/9502062003002.json",
+        "nama": "TPS 002, SIKIBUR, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950206",
+        "desa": "9502062003",
+        "tps": "9502062003003",
+        "url": "95\/9502\/950206\/9502062003\/9502062003003.json",
+        "nama": "TPS 003, SIKIBUR, BORME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322008",
+        "tps": "9502322008001",
+        "url": "95\/9502\/950232\/9502322008\/9502322008001.json",
+        "nama": "TPS 001, BARAMA, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322007",
+        "tps": "9502322007001",
+        "url": "95\/9502\/950232\/9502322007\/9502322007001.json",
+        "nama": "TPS 001, BASIRINGE, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322006",
+        "tps": "9502322006001",
+        "url": "95\/9502\/950232\/9502322006\/9502322006001.json",
+        "nama": "TPS 001, BUNYIRYE, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322001",
+        "tps": "9502322001001",
+        "url": "95\/9502\/950232\/9502322001\/9502322001001.json",
+        "nama": "TPS 001, EIPUMEK, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322001",
+        "tps": "9502322001002",
+        "url": "95\/9502\/950232\/9502322001\/9502322001002.json",
+        "nama": "TPS 002, EIPUMEK, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322001",
+        "tps": "9502322001003",
+        "url": "95\/9502\/950232\/9502322001\/9502322001003.json",
+        "nama": "TPS 003, EIPUMEK, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322001",
+        "tps": "9502322001004",
+        "url": "95\/9502\/950232\/9502322001\/9502322001004.json",
+        "nama": "TPS 004, EIPUMEK, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322012",
+        "tps": "9502322012001",
+        "url": "95\/9502\/950232\/9502322012\/9502322012001.json",
+        "nama": "TPS 001, KWEREDALA, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322012",
+        "tps": "9502322012002",
+        "url": "95\/9502\/950232\/9502322012\/9502322012002.json",
+        "nama": "TPS 002, KWEREDALA, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322002",
+        "tps": "9502322002001",
+        "url": "95\/9502\/950232\/9502322002\/9502322002001.json",
+        "nama": "TPS 001, LALAKON, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322002",
+        "tps": "9502322002002",
+        "url": "95\/9502\/950232\/9502322002\/9502322002002.json",
+        "nama": "TPS 002, LALAKON, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322003",
+        "tps": "9502322003001",
+        "url": "95\/9502\/950232\/9502322003\/9502322003001.json",
+        "nama": "TPS 001, LONDININ, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322014",
+        "tps": "9502322014001",
+        "url": "95\/9502\/950232\/9502322014\/9502322014001.json",
+        "nama": "TPS 001, MALINGDAM, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322013",
+        "tps": "9502322013001",
+        "url": "95\/9502\/950232\/9502322013\/9502322013001.json",
+        "nama": "TPS 001, MUNGKONA, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322013",
+        "tps": "9502322013002",
+        "url": "95\/9502\/950232\/9502322013\/9502322013002.json",
+        "nama": "TPS 002, MUNGKONA, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322010",
+        "tps": "9502322010001",
+        "url": "95\/9502\/950232\/9502322010\/9502322010001.json",
+        "nama": "TPS 001, SERABUM, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322011",
+        "tps": "9502322011001",
+        "url": "95\/9502\/950232\/9502322011\/9502322011001.json",
+        "nama": "TPS 001, SUPLEYU, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322004",
+        "tps": "9502322004001",
+        "url": "95\/9502\/950232\/9502322004\/9502322004001.json",
+        "nama": "TPS 001, TALEMU, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322009",
+        "tps": "9502322009001",
+        "url": "95\/9502\/950232\/9502322009\/9502322009001.json",
+        "nama": "TPS 001, TANIME, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322009",
+        "tps": "9502322009002",
+        "url": "95\/9502\/950232\/9502322009\/9502322009002.json",
+        "nama": "TPS 002, TANIME, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322009",
+        "tps": "9502322009003",
+        "url": "95\/9502\/950232\/9502322009\/9502322009003.json",
+        "nama": "TPS 003, TANIME, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950232",
+        "desa": "9502322005",
+        "tps": "9502322005001",
+        "url": "95\/9502\/950232\/9502322005\/9502322005001.json",
+        "nama": "TPS 001, WAKIDAM, EIPUMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042004",
+        "tps": "9502042004001",
+        "url": "95\/9502\/950204\/9502042004\/9502042004001.json",
+        "nama": "TPS 001, DINMOT ARIM, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042007",
+        "tps": "9502042007001",
+        "url": "95\/9502\/950204\/9502042007\/9502042007001.json",
+        "nama": "TPS 001, DIPOL, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042005",
+        "tps": "9502042005001",
+        "url": "95\/9502\/950204\/9502042005\/9502042005001.json",
+        "nama": "TPS 001, EWENKATOP, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042005",
+        "tps": "9502042005002",
+        "url": "95\/9502\/950204\/9502042005\/9502042005002.json",
+        "nama": "TPS 002, EWENKATOP, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042001",
+        "tps": "9502042001001",
+        "url": "95\/9502\/950204\/9502042001\/9502042001001.json",
+        "nama": "TPS 001, IWUR, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042001",
+        "tps": "9502042001002",
+        "url": "95\/9502\/950204\/9502042001\/9502042001002.json",
+        "nama": "TPS 002, IWUR, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042010",
+        "tps": "9502042010001",
+        "url": "95\/9502\/950204\/9502042010\/9502042010001.json",
+        "nama": "TPS 001, KAMYOIM, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042002",
+        "tps": "9502042002001",
+        "url": "95\/9502\/950204\/9502042002\/9502042002001.json",
+        "nama": "TPS 001, KURUMKLIN, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042002",
+        "tps": "9502042002002",
+        "url": "95\/9502\/950204\/9502042002\/9502042002002.json",
+        "nama": "TPS 002, KURUMKLIN, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042009",
+        "tps": "9502042009001",
+        "url": "95\/9502\/950204\/9502042009\/9502042009001.json",
+        "nama": "TPS 001, NARNGER, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042008",
+        "tps": "9502042008001",
+        "url": "95\/9502\/950204\/9502042008\/9502042008001.json",
+        "nama": "TPS 001, NENGINUM, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042006",
+        "tps": "9502042006001",
+        "url": "95\/9502\/950204\/9502042006\/9502042006001.json",
+        "nama": "TPS 001, ULKUBI, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042003",
+        "tps": "9502042003001",
+        "url": "95\/9502\/950204\/9502042003\/9502042003001.json",
+        "nama": "TPS 001, WALAPKUBUN, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042003",
+        "tps": "9502042003002",
+        "url": "95\/9502\/950204\/9502042003\/9502042003002.json",
+        "nama": "TPS 002, WALAPKUBUN, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042003",
+        "tps": "9502042003003",
+        "url": "95\/9502\/950204\/9502042003\/9502042003003.json",
+        "nama": "TPS 003, WALAPKUBUN, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950204",
+        "desa": "9502042003",
+        "tps": "9502042003004",
+        "url": "95\/9502\/950204\/9502042003\/9502042003004.json",
+        "nama": "TPS 004, WALAPKUBUN, IWUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302006",
+        "tps": "9502302006001",
+        "url": "95\/9502\/950230\/9502302006\/9502302006001.json",
+        "nama": "TPS 001, BRIS, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302006",
+        "tps": "9502302006002",
+        "url": "95\/9502\/950230\/9502302006\/9502302006002.json",
+        "nama": "TPS 002, BRIS, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302001",
+        "tps": "9502302001001",
+        "url": "95\/9502\/950230\/9502302001\/9502302001001.json",
+        "nama": "TPS 001, JETFA, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302001",
+        "tps": "9502302001002",
+        "url": "95\/9502\/950230\/9502302001\/9502302001002.json",
+        "nama": "TPS 002, JETFA, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302001",
+        "tps": "9502302001003",
+        "url": "95\/9502\/950230\/9502302001\/9502302001003.json",
+        "nama": "TPS 003, JETFA, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302005",
+        "tps": "9502302005001",
+        "url": "95\/9502\/950230\/9502302005\/9502302005001.json",
+        "nama": "TPS 001, KALIMBU, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302005",
+        "tps": "9502302005002",
+        "url": "95\/9502\/950230\/9502302005\/9502302005002.json",
+        "nama": "TPS 002, KALIMBU, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302002",
+        "tps": "9502302002001",
+        "url": "95\/9502\/950230\/9502302002\/9502302002001.json",
+        "nama": "TPS 001, LULIS, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302002",
+        "tps": "9502302002002",
+        "url": "95\/9502\/950230\/9502302002\/9502302002002.json",
+        "nama": "TPS 002, LULIS, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302002",
+        "tps": "9502302002003",
+        "url": "95\/9502\/950230\/9502302002\/9502302002003.json",
+        "nama": "TPS 003, LULIS, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302004",
+        "tps": "9502302004001",
+        "url": "95\/9502\/950230\/9502302004\/9502302004001.json",
+        "nama": "TPS 001, TUPALMA DUA, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950230",
+        "desa": "9502302003",
+        "tps": "9502302003001",
+        "url": "95\/9502\/950230\/9502302003\/9502302003001.json",
+        "nama": "TPS 001, TUPALMA SATU, JETFA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950213",
+        "desa": "9502132004",
+        "tps": "9502132004001",
+        "url": "95\/9502\/950213\/9502132004\/9502132004001.json",
+        "nama": "TPS 001, ARINKOP, KALOMDOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950213",
+        "desa": "9502132001",
+        "tps": "9502132001001",
+        "url": "95\/9502\/950213\/9502132001\/9502132001001.json",
+        "nama": "TPS 001, DABOLDING, KALOMDOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950213",
+        "desa": "9502132001",
+        "tps": "9502132001002",
+        "url": "95\/9502\/950213\/9502132001\/9502132001002.json",
+        "nama": "TPS 002, DABOLDING, KALOMDOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950213",
+        "desa": "9502132001",
+        "tps": "9502132001003",
+        "url": "95\/9502\/950213\/9502132001\/9502132001003.json",
+        "nama": "TPS 003, DABOLDING, KALOMDOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950213",
+        "desa": "9502132001",
+        "tps": "9502132001004",
+        "url": "95\/9502\/950213\/9502132001\/9502132001004.json",
+        "nama": "TPS 004, DABOLDING, KALOMDOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950213",
+        "desa": "9502132001",
+        "tps": "9502132001005",
+        "url": "95\/9502\/950213\/9502132001\/9502132001005.json",
+        "nama": "TPS 005, DABOLDING, KALOMDOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950213",
+        "desa": "9502132005",
+        "tps": "9502132005001",
+        "url": "95\/9502\/950213\/9502132005\/9502132005001.json",
+        "nama": "TPS 001, IMIK, KALOMDOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950213",
+        "desa": "9502132002",
+        "tps": "9502132002001",
+        "url": "95\/9502\/950213\/9502132002\/9502132002001.json",
+        "nama": "TPS 001, KALOMDOL, KALOMDOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950213",
+        "desa": "9502132003",
+        "tps": "9502132003001",
+        "url": "95\/9502\/950213\/9502132003\/9502132003001.json",
+        "nama": "TPS 001, TULO, KALOMDOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172001",
+        "tps": "9502172001001",
+        "url": "95\/9502\/950217\/9502172001\/9502172001001.json",
+        "nama": "TPS 001, ARINTAP, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172001",
+        "tps": "9502172001002",
+        "url": "95\/9502\/950217\/9502172001\/9502172001002.json",
+        "nama": "TPS 002, ARINTAP, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172001",
+        "tps": "9502172001003",
+        "url": "95\/9502\/950217\/9502172001\/9502172001003.json",
+        "nama": "TPS 003, ARINTAP, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172007",
+        "tps": "9502172007001",
+        "url": "95\/9502\/950217\/9502172007\/9502172007001.json",
+        "nama": "TPS 001, ATER, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172003",
+        "tps": "9502172003001",
+        "url": "95\/9502\/950217\/9502172003\/9502172003001.json",
+        "nama": "TPS 001, KAWOR, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172003",
+        "tps": "9502172003002",
+        "url": "95\/9502\/950217\/9502172003\/9502172003002.json",
+        "nama": "TPS 002, KAWOR, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172003",
+        "tps": "9502172003003",
+        "url": "95\/9502\/950217\/9502172003\/9502172003003.json",
+        "nama": "TPS 003, KAWOR, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172006",
+        "tps": "9502172006001",
+        "url": "95\/9502\/950217\/9502172006\/9502172006001.json",
+        "nama": "TPS 001, NANUM, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172006",
+        "tps": "9502172006002",
+        "url": "95\/9502\/950217\/9502172006\/9502172006002.json",
+        "nama": "TPS 002, NANUM, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172004",
+        "tps": "9502172004001",
+        "url": "95\/9502\/950217\/9502172004\/9502172004001.json",
+        "nama": "TPS 001, SAKUP, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172004",
+        "tps": "9502172004002",
+        "url": "95\/9502\/950217\/9502172004\/9502172004002.json",
+        "nama": "TPS 002, SAKUP, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172002",
+        "tps": "9502172002001",
+        "url": "95\/9502\/950217\/9502172002\/9502172002001.json",
+        "nama": "TPS 001, TARNGOP, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172002",
+        "tps": "9502172002002",
+        "url": "95\/9502\/950217\/9502172002\/9502172002002.json",
+        "nama": "TPS 002, TARNGOP, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172002",
+        "tps": "9502172002003",
+        "url": "95\/9502\/950217\/9502172002\/9502172002003.json",
+        "nama": "TPS 003, TARNGOP, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172005",
+        "tps": "9502172005001",
+        "url": "95\/9502\/950217\/9502172005\/9502172005001.json",
+        "nama": "TPS 001, UMDING, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950217",
+        "desa": "9502172005",
+        "tps": "9502172005002",
+        "url": "95\/9502\/950217\/9502172005\/9502172005002.json",
+        "nama": "TPS 002, UMDING, KAWOR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022007",
+        "tps": "9502022007001",
+        "url": "95\/9502\/950202\/9502022007\/9502022007001.json",
+        "nama": "TPS 001, ASUA, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022004",
+        "tps": "9502022004001",
+        "url": "95\/9502\/950202\/9502022004\/9502022004001.json",
+        "nama": "TPS 001, BERUSAHA, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022004",
+        "tps": "9502022004002",
+        "url": "95\/9502\/950202\/9502022004\/9502022004002.json",
+        "nama": "TPS 002, BERUSAHA, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022011",
+        "tps": "9502022011001",
+        "url": "95\/9502\/950202\/9502022011\/9502022011001.json",
+        "nama": "TPS 001, DELPEM, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022010",
+        "tps": "9502022010001",
+        "url": "95\/9502\/950202\/9502022010\/9502022010001.json",
+        "nama": "TPS 001, DIIP, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022003",
+        "tps": "9502022003001",
+        "url": "95\/9502\/950202\/9502022003\/9502022003001.json",
+        "nama": "TPS 001, KIWI, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022003",
+        "tps": "9502022003002",
+        "url": "95\/9502\/950202\/9502022003\/9502022003002.json",
+        "nama": "TPS 002, KIWI, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022002",
+        "tps": "9502022002001",
+        "url": "95\/9502\/950202\/9502022002\/9502022002001.json",
+        "nama": "TPS 001, KUKIHIL, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022008",
+        "tps": "9502022008001",
+        "url": "95\/9502\/950202\/9502022008\/9502022008001.json",
+        "nama": "TPS 001, LOLIM, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022012",
+        "tps": "9502022012001",
+        "url": "95\/9502\/950202\/9502022012\/9502022012001.json",
+        "nama": "TPS 001, MANGOLDOKI, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022001",
+        "tps": "9502022001001",
+        "url": "95\/9502\/950202\/9502022001\/9502022001001.json",
+        "nama": "TPS 001, OKNANGGUL, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022001",
+        "tps": "9502022001002",
+        "url": "95\/9502\/950202\/9502022001\/9502022001002.json",
+        "nama": "TPS 002, OKNANGGUL, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022005",
+        "tps": "9502022005001",
+        "url": "95\/9502\/950202\/9502022005\/9502022005001.json",
+        "nama": "TPS 001, PELEBIB, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022005",
+        "tps": "9502022005002",
+        "url": "95\/9502\/950202\/9502022005\/9502022005002.json",
+        "nama": "TPS 002, PELEBIB, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022009",
+        "tps": "9502022009001",
+        "url": "95\/9502\/950202\/9502022009\/9502022009001.json",
+        "nama": "TPS 001, POMDING, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950202",
+        "desa": "9502022006",
+        "tps": "9502022006001",
+        "url": "95\/9502\/950202\/9502022006\/9502022006001.json",
+        "nama": "TPS 001, SOPAMIKMA, KIWIROK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072005",
+        "tps": "9502072005001",
+        "url": "95\/9502\/950207\/9502072005\/9502072005001.json",
+        "nama": "TPS 001, DIKDON, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072005",
+        "tps": "9502072005002",
+        "url": "95\/9502\/950207\/9502072005\/9502072005002.json",
+        "nama": "TPS 002, DIKDON, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072003",
+        "tps": "9502072003001",
+        "url": "95\/9502\/950207\/9502072003\/9502072003001.json",
+        "nama": "TPS 001, EHIPTEN, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072003",
+        "tps": "9502072003002",
+        "url": "95\/9502\/950207\/9502072003\/9502072003002.json",
+        "nama": "TPS 002, EHIPTEN, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072002",
+        "tps": "9502072002001",
+        "url": "95\/9502\/950207\/9502072002\/9502072002001.json",
+        "nama": "TPS 001, OKETUR, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072002",
+        "tps": "9502072002002",
+        "url": "95\/9502\/950207\/9502072002\/9502072002002.json",
+        "nama": "TPS 002, OKETUR, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072009",
+        "tps": "9502072009001",
+        "url": "95\/9502\/950207\/9502072009\/9502072009001.json",
+        "nama": "TPS 001, OKHIK, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072009",
+        "tps": "9502072009002",
+        "url": "95\/9502\/950207\/9502072009\/9502072009002.json",
+        "nama": "TPS 002, OKHIK, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072006",
+        "tps": "9502072006001",
+        "url": "95\/9502\/950207\/9502072006\/9502072006001.json",
+        "nama": "TPS 001, OKYAKO, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072007",
+        "tps": "9502072007001",
+        "url": "95\/9502\/950207\/9502072007\/9502072007001.json",
+        "nama": "TPS 001, OKYAOP, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072001",
+        "tps": "9502072001001",
+        "url": "95\/9502\/950207\/9502072001\/9502072001001.json",
+        "nama": "TPS 001, OKYOP, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072001",
+        "tps": "9502072001002",
+        "url": "95\/9502\/950207\/9502072001\/9502072001002.json",
+        "nama": "TPS 002, OKYOP, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072008",
+        "tps": "9502072008001",
+        "url": "95\/9502\/950207\/9502072008\/9502072008001.json",
+        "nama": "TPS 001, TATAM, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950207",
+        "desa": "9502072004",
+        "tps": "9502072004001",
+        "url": "95\/9502\/950207\/9502072004\/9502072004001.json",
+        "nama": "TPS 001, WANTEM, KIWIROK TIMUR, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950229",
+        "desa": "9502292002",
+        "tps": "9502292002001",
+        "url": "95\/9502\/950229\/9502292002\/9502292002001.json",
+        "nama": "TPS 001, MILKI, MOFINOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950229",
+        "desa": "9502292001",
+        "tps": "9502292001001",
+        "url": "95\/9502\/950229\/9502292001\/9502292001001.json",
+        "nama": "TPS 001, MOT, MOFINOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950229",
+        "desa": "9502292001",
+        "tps": "9502292001002",
+        "url": "95\/9502\/950229\/9502292001\/9502292001002.json",
+        "nama": "TPS 002, MOT, MOFINOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950229",
+        "desa": "9502292001",
+        "tps": "9502292001003",
+        "url": "95\/9502\/950229\/9502292001\/9502292001003.json",
+        "nama": "TPS 003, MOT, MOFINOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950229",
+        "desa": "9502292004",
+        "tps": "9502292004001",
+        "url": "95\/9502\/950229\/9502292004\/9502292004001.json",
+        "nama": "TPS 001, MUARA ASBI, MOFINOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950229",
+        "desa": "9502292005",
+        "tps": "9502292005001",
+        "url": "95\/9502\/950229\/9502292005\/9502292005001.json",
+        "nama": "TPS 001, TUAL, MOFINOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950229",
+        "desa": "9502292003",
+        "tps": "9502292003001",
+        "url": "95\/9502\/950229\/9502292003\/9502292003001.json",
+        "nama": "TPS 001, YUBU, MOFINOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950228",
+        "desa": "9502282001",
+        "tps": "9502282001001",
+        "url": "95\/9502\/950228\/9502282001\/9502282001001.json",
+        "nama": "TPS 001, BIAS, MURKIM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950228",
+        "desa": "9502282001",
+        "tps": "9502282001002",
+        "url": "95\/9502\/950228\/9502282001\/9502282001002.json",
+        "nama": "TPS 002, BIAS, MURKIM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950228",
+        "desa": "9502282002",
+        "tps": "9502282002001",
+        "url": "95\/9502\/950228\/9502282002\/9502282002001.json",
+        "nama": "TPS 001, BUMI, MURKIM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950228",
+        "desa": "9502282004",
+        "tps": "9502282004001",
+        "url": "95\/9502\/950228\/9502282004\/9502282004001.json",
+        "nama": "TPS 001, DELEMO, MURKIM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950228",
+        "desa": "9502282004",
+        "tps": "9502282004002",
+        "url": "95\/9502\/950228\/9502282004\/9502282004002.json",
+        "nama": "TPS 002, DELEMO, MURKIM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950228",
+        "desa": "9502282003",
+        "tps": "9502282003001",
+        "url": "95\/9502\/950228\/9502282003\/9502282003001.json",
+        "nama": "TPS 001, TERO, MURKIM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950234",
+        "desa": "9502342006",
+        "tps": "9502342006001",
+        "url": "95\/9502\/950234\/9502342006\/9502342006001.json",
+        "nama": "TPS 001, CANGPALLY, NONGME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950234",
+        "desa": "9502342007",
+        "tps": "9502342007001",
+        "url": "95\/9502\/950234\/9502342007\/9502342007001.json",
+        "nama": "TPS 001, KWARBAN, NONGME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950234",
+        "desa": "9502342001",
+        "tps": "9502342001001",
+        "url": "95\/9502\/950234\/9502342001\/9502342001001.json",
+        "nama": "TPS 001, NONGME, NONGME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950234",
+        "desa": "9502342001",
+        "tps": "9502342001002",
+        "url": "95\/9502\/950234\/9502342001\/9502342001002.json",
+        "nama": "TPS 002, NONGME, NONGME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950234",
+        "desa": "9502342005",
+        "tps": "9502342005001",
+        "url": "95\/9502\/950234\/9502342005\/9502342005001.json",
+        "nama": "TPS 001, OMTAMUR, NONGME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950234",
+        "desa": "9502342002",
+        "tps": "9502342002001",
+        "url": "95\/9502\/950234\/9502342002\/9502342002001.json",
+        "nama": "TPS 001, RUBOL, NONGME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950234",
+        "desa": "9502342004",
+        "tps": "9502342004001",
+        "url": "95\/9502\/950234\/9502342004\/9502342004001.json",
+        "nama": "TPS 001, YARIGON, NONGME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950234",
+        "desa": "9502342003",
+        "tps": "9502342003001",
+        "url": "95\/9502\/950234\/9502342003\/9502342003001.json",
+        "nama": "TPS 001, YOKOM, NONGME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162005",
+        "tps": "9502162005001",
+        "url": "95\/9502\/950216\/9502162005\/9502162005001.json",
+        "nama": "TPS 001, APLIM, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162002",
+        "tps": "9502162002001",
+        "url": "95\/9502\/950216\/9502162002\/9502162002001.json",
+        "nama": "TPS 001, BULANGKOP, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162002",
+        "tps": "9502162002002",
+        "url": "95\/9502\/950216\/9502162002\/9502162002002.json",
+        "nama": "TPS 002, BULANGKOP, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162002",
+        "tps": "9502162002003",
+        "url": "95\/9502\/950216\/9502162002\/9502162002003.json",
+        "nama": "TPS 003, BULANGKOP, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162001",
+        "tps": "9502162001001",
+        "url": "95\/9502\/950216\/9502162001\/9502162001001.json",
+        "nama": "TPS 001, KUNGULDING, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162001",
+        "tps": "9502162001002",
+        "url": "95\/9502\/950216\/9502162001\/9502162001002.json",
+        "nama": "TPS 002, KUNGULDING, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162003",
+        "tps": "9502162003001",
+        "url": "95\/9502\/950216\/9502162003\/9502162003001.json",
+        "nama": "TPS 001, LIMARUM, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162003",
+        "tps": "9502162003002",
+        "url": "95\/9502\/950216\/9502162003\/9502162003002.json",
+        "nama": "TPS 002, LIMARUM, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162006",
+        "tps": "9502162006001",
+        "url": "95\/9502\/950216\/9502162006\/9502162006001.json",
+        "nama": "TPS 001, OKDO, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950216",
+        "desa": "9502162004",
+        "tps": "9502162004001",
+        "url": "95\/9502\/950216\/9502162004\/9502162004001.json",
+        "nama": "TPS 001, YUMAKOT, OK AOM, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252009",
+        "tps": "9502252009001",
+        "url": "95\/9502\/950225\/9502252009\/9502252009001.json",
+        "nama": "TPS 001, ATEMBABOL, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252002",
+        "tps": "9502252002001",
+        "url": "95\/9502\/950225\/9502252002\/9502252002001.json",
+        "nama": "TPS 001, BORBAN, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252002",
+        "tps": "9502252002002",
+        "url": "95\/9502\/950225\/9502252002\/9502252002002.json",
+        "nama": "TPS 002, BORBAN, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252002",
+        "tps": "9502252002003",
+        "url": "95\/9502\/950225\/9502252002\/9502252002003.json",
+        "nama": "TPS 003, BORBAN, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252004",
+        "tps": "9502252004001",
+        "url": "95\/9502\/950225\/9502252004\/9502252004001.json",
+        "nama": "TPS 001, DUMPASI, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252004",
+        "tps": "9502252004002",
+        "url": "95\/9502\/950225\/9502252004\/9502252004002.json",
+        "nama": "TPS 002, DUMPASI, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252003",
+        "tps": "9502252003001",
+        "url": "95\/9502\/950225\/9502252003\/9502252003001.json",
+        "nama": "TPS 001, KIRIMU, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252003",
+        "tps": "9502252003002",
+        "url": "95\/9502\/950225\/9502252003\/9502252003002.json",
+        "nama": "TPS 002, KIRIMU, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252005",
+        "tps": "9502252005001",
+        "url": "95\/9502\/950225\/9502252005\/9502252005001.json",
+        "nama": "TPS 001, MAKSUM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252005",
+        "tps": "9502252005002",
+        "url": "95\/9502\/950225\/9502252005\/9502252005002.json",
+        "nama": "TPS 002, MAKSUM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252005",
+        "tps": "9502252005003",
+        "url": "95\/9502\/950225\/9502252005\/9502252005003.json",
+        "nama": "TPS 003, MAKSUM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252012",
+        "tps": "9502252012001",
+        "url": "95\/9502\/950225\/9502252012\/9502252012001.json",
+        "nama": "TPS 001, MARKOM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252012",
+        "tps": "9502252012002",
+        "url": "95\/9502\/950225\/9502252012\/9502252012002.json",
+        "nama": "TPS 002, MARKOM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252010",
+        "tps": "9502252010001",
+        "url": "95\/9502\/950225\/9502252010\/9502252010001.json",
+        "nama": "TPS 001, OMLIOM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252010",
+        "tps": "9502252010002",
+        "url": "95\/9502\/950225\/9502252010\/9502252010002.json",
+        "nama": "TPS 002, OMLIOM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252006",
+        "tps": "9502252006001",
+        "url": "95\/9502\/950225\/9502252006\/9502252006001.json",
+        "nama": "TPS 001, PEDAM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252006",
+        "tps": "9502252006002",
+        "url": "95\/9502\/950225\/9502252006\/9502252006002.json",
+        "nama": "TPS 002, PEDAM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252011",
+        "tps": "9502252011001",
+        "url": "95\/9502\/950225\/9502252011\/9502252011001.json",
+        "nama": "TPS 001, PENELI, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252011",
+        "tps": "9502252011002",
+        "url": "95\/9502\/950225\/9502252011\/9502252011002.json",
+        "nama": "TPS 002, PENELI, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252001",
+        "tps": "9502252001001",
+        "url": "95\/9502\/950225\/9502252001\/9502252001001.json",
+        "nama": "TPS 001, SABIN, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252001",
+        "tps": "9502252001002",
+        "url": "95\/9502\/950225\/9502252001\/9502252001002.json",
+        "nama": "TPS 002, SABIN, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252001",
+        "tps": "9502252001003",
+        "url": "95\/9502\/950225\/9502252001\/9502252001003.json",
+        "nama": "TPS 003, SABIN, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252007",
+        "tps": "9502252007001",
+        "url": "95\/9502\/950225\/9502252007\/9502252007001.json",
+        "nama": "TPS 001, TUPOPLYOM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252007",
+        "tps": "9502252007002",
+        "url": "95\/9502\/950225\/9502252007\/9502252007002.json",
+        "nama": "TPS 002, TUPOPLYOM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252007",
+        "tps": "9502252007003",
+        "url": "95\/9502\/950225\/9502252007\/9502252007003.json",
+        "nama": "TPS 003, TUPOPLYOM, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252008",
+        "tps": "9502252008001",
+        "url": "95\/9502\/950225\/9502252008\/9502252008001.json",
+        "nama": "TPS 001, YAPIL, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252008",
+        "tps": "9502252008002",
+        "url": "95\/9502\/950225\/9502252008\/9502252008002.json",
+        "nama": "TPS 002, YAPIL, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950225",
+        "desa": "9502252008",
+        "tps": "9502252008003",
+        "url": "95\/9502\/950225\/9502252008\/9502252008003.json",
+        "nama": "TPS 003, YAPIL, OKBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122003",
+        "tps": "9502122003001",
+        "url": "95\/9502\/950212\/9502122003\/9502122003001.json",
+        "nama": "TPS 001, AKMER, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122001",
+        "tps": "9502122001001",
+        "url": "95\/9502\/950212\/9502122001\/9502122001001.json",
+        "nama": "TPS 001, BAPE, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122001",
+        "tps": "9502122001002",
+        "url": "95\/9502\/950212\/9502122001\/9502122001002.json",
+        "nama": "TPS 002, BAPE, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122001",
+        "tps": "9502122001003",
+        "url": "95\/9502\/950212\/9502122001\/9502122001003.json",
+        "nama": "TPS 003, BAPE, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122006",
+        "tps": "9502122006001",
+        "url": "95\/9502\/950212\/9502122006\/9502122006001.json",
+        "nama": "TPS 001, IBOT, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122006",
+        "tps": "9502122006002",
+        "url": "95\/9502\/950212\/9502122006\/9502122006002.json",
+        "nama": "TPS 002, IBOT, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122004",
+        "tps": "9502122004001",
+        "url": "95\/9502\/950212\/9502122004\/9502122004001.json",
+        "nama": "TPS 001, KASAWI, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122004",
+        "tps": "9502122004002",
+        "url": "95\/9502\/950212\/9502122004\/9502122004002.json",
+        "nama": "TPS 002, KASAWI, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122002",
+        "tps": "9502122002001",
+        "url": "95\/9502\/950212\/9502122002\/9502122002001.json",
+        "nama": "TPS 001, MASIM, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122002",
+        "tps": "9502122002002",
+        "url": "95\/9502\/950212\/9502122002\/9502122002002.json",
+        "nama": "TPS 002, MASIM, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122002",
+        "tps": "9502122002003",
+        "url": "95\/9502\/950212\/9502122002\/9502122002003.json",
+        "nama": "TPS 003, MASIM, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122005",
+        "tps": "9502122005001",
+        "url": "95\/9502\/950212\/9502122005\/9502122005001.json",
+        "nama": "TPS 001, TAPASIK DUA BAPENKA, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950212",
+        "desa": "9502122005",
+        "tps": "9502122005002",
+        "url": "95\/9502\/950212\/9502122005\/9502122005002.json",
+        "nama": "TPS 002, TAPASIK DUA BAPENKA, OKBAPE, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232007",
+        "tps": "9502232007001",
+        "url": "95\/9502\/950223\/9502232007\/9502232007001.json",
+        "nama": "TPS 001, ATANG DOKI, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232005",
+        "tps": "9502232005001",
+        "url": "95\/9502\/950223\/9502232005\/9502232005001.json",
+        "nama": "TPS 001, BEMHIMIKU, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232006",
+        "tps": "9502232006001",
+        "url": "95\/9502\/950223\/9502232006\/9502232006001.json",
+        "nama": "TPS 001, BILIP BAYO, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232009",
+        "tps": "9502232009001",
+        "url": "95\/9502\/950223\/9502232009\/9502232009001.json",
+        "nama": "TPS 001, KAEP, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232008",
+        "tps": "9502232008001",
+        "url": "95\/9502\/950223\/9502232008\/9502232008001.json",
+        "nama": "TPS 001, OKALUT KUMAL, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232003",
+        "tps": "9502232003001",
+        "url": "95\/9502\/950223\/9502232003\/9502232003001.json",
+        "nama": "TPS 001, OKBEM, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232004",
+        "tps": "9502232004001",
+        "url": "95\/9502\/950223\/9502232004\/9502232004001.json",
+        "nama": "TPS 001, OKNGAM, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232004",
+        "tps": "9502232004002",
+        "url": "95\/9502\/950223\/9502232004\/9502232004002.json",
+        "nama": "TPS 002, OKNGAM, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232002",
+        "tps": "9502232002001",
+        "url": "95\/9502\/950223\/9502232002\/9502232002001.json",
+        "nama": "TPS 001, OKTARU, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950223",
+        "desa": "9502232001",
+        "tps": "9502232001001",
+        "url": "95\/9502\/950223\/9502232001\/9502232001001.json",
+        "nama": "TPS 001, OKTAU, OKBEMTAU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032002",
+        "tps": "9502032002001",
+        "url": "95\/9502\/950203\/9502032002\/9502032002001.json",
+        "nama": "TPS 001, ABMISIBIL, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032002",
+        "tps": "9502032002002",
+        "url": "95\/9502\/950203\/9502032002\/9502032002002.json",
+        "nama": "TPS 002, ABMISIBIL, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032002",
+        "tps": "9502032002003",
+        "url": "95\/9502\/950203\/9502032002\/9502032002003.json",
+        "nama": "TPS 003, ABMISIBIL, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032005",
+        "tps": "9502032005001",
+        "url": "95\/9502\/950203\/9502032005\/9502032005001.json",
+        "nama": "TPS 001, ATOLBOL, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032005",
+        "tps": "9502032005002",
+        "url": "95\/9502\/950203\/9502032005\/9502032005002.json",
+        "nama": "TPS 002, ATOLBOL, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032004",
+        "tps": "9502032004001",
+        "url": "95\/9502\/950203\/9502032004\/9502032004001.json",
+        "nama": "TPS 001, IRIDING, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032004",
+        "tps": "9502032004002",
+        "url": "95\/9502\/950203\/9502032004\/9502032004002.json",
+        "nama": "TPS 002, IRIDING, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032004",
+        "tps": "9502032004003",
+        "url": "95\/9502\/950203\/9502032004\/9502032004003.json",
+        "nama": "TPS 003, IRIDING, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032003",
+        "tps": "9502032003001",
+        "url": "95\/9502\/950203\/9502032003\/9502032003001.json",
+        "nama": "TPS 001, MANUNGGAL, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032003",
+        "tps": "9502032003002",
+        "url": "95\/9502\/950203\/9502032003\/9502032003002.json",
+        "nama": "TPS 002, MANUNGGAL, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032008",
+        "tps": "9502032008001",
+        "url": "95\/9502\/950203\/9502032008\/9502032008001.json",
+        "nama": "TPS 001, OKAPLO, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032001",
+        "tps": "9502032001001",
+        "url": "95\/9502\/950203\/9502032001\/9502032001001.json",
+        "nama": "TPS 001, OKBIFISIL, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032001",
+        "tps": "9502032001002",
+        "url": "95\/9502\/950203\/9502032001\/9502032001002.json",
+        "nama": "TPS 002, OKBIFISIL, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032007",
+        "tps": "9502032007001",
+        "url": "95\/9502\/950203\/9502032007\/9502032007001.json",
+        "nama": "TPS 001, OKSEMAR, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032007",
+        "tps": "9502032007002",
+        "url": "95\/9502\/950203\/9502032007\/9502032007002.json",
+        "nama": "TPS 002, OKSEMAR, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950203",
+        "desa": "9502032006",
+        "tps": "9502032006001",
+        "url": "95\/9502\/950203\/9502032006\/9502032006001.json",
+        "nama": "TPS 001, OKTANGLAP, OKBIBAB, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950220",
+        "desa": "9502202002",
+        "tps": "9502202002001",
+        "url": "95\/9502\/950220\/9502202002\/9502202002001.json",
+        "nama": "TPS 001, KOTYOBAKON, OKHIKA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950220",
+        "desa": "9502202002",
+        "tps": "9502202002002",
+        "url": "95\/9502\/950220\/9502202002\/9502202002002.json",
+        "nama": "TPS 002, KOTYOBAKON, OKHIKA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950220",
+        "desa": "9502202002",
+        "tps": "9502202002003",
+        "url": "95\/9502\/950220\/9502202002\/9502202002003.json",
+        "nama": "TPS 003, KOTYOBAKON, OKHIKA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950220",
+        "desa": "9502202001",
+        "tps": "9502202001001",
+        "url": "95\/9502\/950220\/9502202001\/9502202001001.json",
+        "nama": "TPS 001, OKELWEL, OKHIKA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950220",
+        "desa": "9502202001",
+        "tps": "9502202001002",
+        "url": "95\/9502\/950220\/9502202001\/9502202001002.json",
+        "nama": "TPS 002, OKELWEL, OKHIKA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950220",
+        "desa": "9502202003",
+        "tps": "9502202003001",
+        "url": "95\/9502\/950220\/9502202003\/9502202003001.json",
+        "nama": "TPS 001, OKTENENG, OKHIKA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950220",
+        "desa": "9502202003",
+        "tps": "9502202003002",
+        "url": "95\/9502\/950220\/9502202003\/9502202003002.json",
+        "nama": "TPS 002, OKTENENG, OKHIKA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950220",
+        "desa": "9502202003",
+        "tps": "9502202003003",
+        "url": "95\/9502\/950220\/9502202003\/9502202003003.json",
+        "nama": "TPS 003, OKTENENG, OKHIKA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950220",
+        "desa": "9502202004",
+        "tps": "9502202004001",
+        "url": "95\/9502\/950220\/9502202004\/9502202004001.json",
+        "nama": "TPS 001, TENGNONG, OKHIKA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222007",
+        "tps": "9502222007001",
+        "url": "95\/9502\/950222\/9502222007\/9502222007001.json",
+        "nama": "TPS 001, KOMOK, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222005",
+        "tps": "9502222005001",
+        "url": "95\/9502\/950222\/9502222005\/9502222005001.json",
+        "nama": "TPS 001, OKAMIN, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222004",
+        "tps": "9502222004001",
+        "url": "95\/9502\/950222\/9502222004\/9502222004001.json",
+        "nama": "TPS 001, OKBUMUL, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222002",
+        "tps": "9502222002001",
+        "url": "95\/9502\/950222\/9502222002\/9502222002001.json",
+        "nama": "TPS 001, OKHIM, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222002",
+        "tps": "9502222002002",
+        "url": "95\/9502\/950222\/9502222002\/9502222002002.json",
+        "nama": "TPS 002, OKHIM, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222002",
+        "tps": "9502222002003",
+        "url": "95\/9502\/950222\/9502222002\/9502222002003.json",
+        "nama": "TPS 003, OKHIM, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222001",
+        "tps": "9502222001001",
+        "url": "95\/9502\/950222\/9502222001\/9502222001001.json",
+        "nama": "TPS 001, OKLIP, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222001",
+        "tps": "9502222001002",
+        "url": "95\/9502\/950222\/9502222001\/9502222001002.json",
+        "nama": "TPS 002, OKLIP, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222003",
+        "tps": "9502222003001",
+        "url": "95\/9502\/950222\/9502222003\/9502222003001.json",
+        "nama": "TPS 001, OKTEM, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222003",
+        "tps": "9502222003002",
+        "url": "95\/9502\/950222\/9502222003\/9502222003002.json",
+        "nama": "TPS 002, OKTEM, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950222",
+        "desa": "9502222006",
+        "tps": "9502222006001",
+        "url": "95\/9502\/950222\/9502222006\/9502222006001.json",
+        "nama": "TPS 001, OKTUMI, OKLIP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212005",
+        "tps": "9502212005001",
+        "url": "95\/9502\/950221\/9502212005\/9502212005001.json",
+        "nama": "TPS 001, AUTPAHIK, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212010",
+        "tps": "9502212010001",
+        "url": "95\/9502\/950221\/9502212010\/9502212010001.json",
+        "nama": "TPS 001, BOMDING, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212009",
+        "tps": "9502212009001",
+        "url": "95\/9502\/950221\/9502212009\/9502212009001.json",
+        "nama": "TPS 001, HONKUDING, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212004",
+        "tps": "9502212004001",
+        "url": "95\/9502\/950221\/9502212004\/9502212004001.json",
+        "nama": "TPS 001, OKDILAM, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212011",
+        "tps": "9502212011001",
+        "url": "95\/9502\/950221\/9502212011\/9502212011001.json",
+        "nama": "TPS 001, OKDUNAM, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212008",
+        "tps": "9502212008001",
+        "url": "95\/9502\/950221\/9502212008\/9502212008001.json",
+        "nama": "TPS 001, OKHAKA, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212001",
+        "tps": "9502212001001",
+        "url": "95\/9502\/950221\/9502212001\/9502212001001.json",
+        "nama": "TPS 001, OKMA, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212001",
+        "tps": "9502212001002",
+        "url": "95\/9502\/950221\/9502212001\/9502212001002.json",
+        "nama": "TPS 002, OKMA, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212007",
+        "tps": "9502212007001",
+        "url": "95\/9502\/950221\/9502212007\/9502212007001.json",
+        "nama": "TPS 001, OKPA, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212007",
+        "tps": "9502212007002",
+        "url": "95\/9502\/950221\/9502212007\/9502212007002.json",
+        "nama": "TPS 002, OKPA, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212002",
+        "tps": "9502212002001",
+        "url": "95\/9502\/950221\/9502212002\/9502212002001.json",
+        "nama": "TPS 001, OKTAE, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212012",
+        "tps": "9502212012001",
+        "url": "95\/9502\/950221\/9502212012\/9502212012001.json",
+        "nama": "TPS 001, PAUNE, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212003",
+        "tps": "9502212003001",
+        "url": "95\/9502\/950221\/9502212003\/9502212003001.json",
+        "nama": "TPS 001, TINIBIL, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212006",
+        "tps": "9502212006001",
+        "url": "95\/9502\/950221\/9502212006\/9502212006001.json",
+        "nama": "TPS 001, TOMKA, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950221",
+        "desa": "9502212006",
+        "tps": "9502212006002",
+        "url": "95\/9502\/950221\/9502212006\/9502212006002.json",
+        "nama": "TPS 002, TOMKA, OKSAMOL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950224",
+        "desa": "9502242001",
+        "tps": "9502242001001",
+        "url": "95\/9502\/950224\/9502242001\/9502242001001.json",
+        "nama": "TPS 001, KUBIPHKOP, OKSEBANG, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950224",
+        "desa": "9502242001",
+        "tps": "9502242001002",
+        "url": "95\/9502\/950224\/9502242001\/9502242001002.json",
+        "nama": "TPS 002, KUBIPHKOP, OKSEBANG, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950224",
+        "desa": "9502242004",
+        "tps": "9502242004001",
+        "url": "95\/9502\/950224\/9502242004\/9502242004001.json",
+        "nama": "TPS 001, MANGABIP, OKSEBANG, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950224",
+        "desa": "9502242002",
+        "tps": "9502242002001",
+        "url": "95\/9502\/950224\/9502242002\/9502242002001.json",
+        "nama": "TPS 001, OKANO, OKSEBANG, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950224",
+        "desa": "9502242003",
+        "tps": "9502242003001",
+        "url": "95\/9502\/950224\/9502242003\/9502242003001.json",
+        "nama": "TPS 001, SEBUL, OKSEBANG, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012005",
+        "tps": "9502012005001",
+        "url": "95\/9502\/950201\/9502012005\/9502012005001.json",
+        "nama": "TPS 001, AKMAKOT, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012005",
+        "tps": "9502012005002",
+        "url": "95\/9502\/950201\/9502012005\/9502012005002.json",
+        "nama": "TPS 002, AKMAKOT, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012005",
+        "tps": "9502012005003",
+        "url": "95\/9502\/950201\/9502012005\/9502012005003.json",
+        "nama": "TPS 003, AKMAKOT, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012005",
+        "tps": "9502012005004",
+        "url": "95\/9502\/950201\/9502012005\/9502012005004.json",
+        "nama": "TPS 004, AKMAKOT, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012002",
+        "tps": "9502012002001",
+        "url": "95\/9502\/950201\/9502012002\/9502012002001.json",
+        "nama": "TPS 001, ALDOM, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012007",
+        "tps": "9502012007001",
+        "url": "95\/9502\/950201\/9502012007\/9502012007001.json",
+        "nama": "TPS 001, BUNAMDOL, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012001",
+        "tps": "9502012001001",
+        "url": "95\/9502\/950201\/9502012001\/9502012001001.json",
+        "nama": "TPS 001, KABIDING, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012001",
+        "tps": "9502012001002",
+        "url": "95\/9502\/950201\/9502012001\/9502012001002.json",
+        "nama": "TPS 002, KABIDING, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012001",
+        "tps": "9502012001003",
+        "url": "95\/9502\/950201\/9502012001\/9502012001003.json",
+        "nama": "TPS 003, KABIDING, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012001",
+        "tps": "9502012001004",
+        "url": "95\/9502\/950201\/9502012001\/9502012001004.json",
+        "nama": "TPS 004, KABIDING, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012001",
+        "tps": "9502012001005",
+        "url": "95\/9502\/950201\/9502012001\/9502012001005.json",
+        "nama": "TPS 005, KABIDING, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012001",
+        "tps": "9502012001006",
+        "url": "95\/9502\/950201\/9502012001\/9502012001006.json",
+        "nama": "TPS 006, KABIDING, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012001",
+        "tps": "9502012001007",
+        "url": "95\/9502\/950201\/9502012001\/9502012001007.json",
+        "nama": "TPS 007, KABIDING, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012001",
+        "tps": "9502012001008",
+        "url": "95\/9502\/950201\/9502012001\/9502012001008.json",
+        "nama": "TPS 008, KABIDING, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012003",
+        "tps": "9502012003001",
+        "url": "95\/9502\/950201\/9502012003\/9502012003001.json",
+        "nama": "TPS 001, KUTDOL, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012003",
+        "tps": "9502012003002",
+        "url": "95\/9502\/950201\/9502012003\/9502012003002.json",
+        "nama": "TPS 002, KUTDOL, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012006",
+        "tps": "9502012006001",
+        "url": "95\/9502\/950201\/9502012006\/9502012006001.json",
+        "nama": "TPS 001, MABILABOL, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012006",
+        "tps": "9502012006002",
+        "url": "95\/9502\/950201\/9502012006\/9502012006002.json",
+        "nama": "TPS 002, MABILABOL, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012006",
+        "tps": "9502012006003",
+        "url": "95\/9502\/950201\/9502012006\/9502012006003.json",
+        "nama": "TPS 003, MABILABOL, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012006",
+        "tps": "9502012006004",
+        "url": "95\/9502\/950201\/9502012006\/9502012006004.json",
+        "nama": "TPS 004, MABILABOL, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012006",
+        "tps": "9502012006005",
+        "url": "95\/9502\/950201\/9502012006\/9502012006005.json",
+        "nama": "TPS 005, MABILABOL, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012008",
+        "tps": "9502012008001",
+        "url": "95\/9502\/950201\/9502012008\/9502012008001.json",
+        "nama": "TPS 001, MOLBIB SILIBIB, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950201",
+        "desa": "9502012004",
+        "tps": "9502012004001",
+        "url": "95\/9502\/950201\/9502012004\/9502012004001.json",
+        "nama": "TPS 001, POLSAM, OKSIBIL, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142005",
+        "tps": "9502142005001",
+        "url": "95\/9502\/950214\/9502142005\/9502142005001.json",
+        "nama": "TPS 001, ALUTBAKON, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142005",
+        "tps": "9502142005002",
+        "url": "95\/9502\/950214\/9502142005\/9502142005002.json",
+        "nama": "TPS 002, ALUTBAKON, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142003",
+        "tps": "9502142003001",
+        "url": "95\/9502\/950214\/9502142003\/9502142003001.json",
+        "nama": "TPS 001, ATENOR, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142003",
+        "tps": "9502142003002",
+        "url": "95\/9502\/950214\/9502142003\/9502142003002.json",
+        "nama": "TPS 002, ATENOR, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142003",
+        "tps": "9502142003003",
+        "url": "95\/9502\/950214\/9502142003\/9502142003003.json",
+        "nama": "TPS 003, ATENOR, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142002",
+        "tps": "9502142002001",
+        "url": "95\/9502\/950214\/9502142002\/9502142002001.json",
+        "nama": "TPS 001, MIMIN, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142002",
+        "tps": "9502142002002",
+        "url": "95\/9502\/950214\/9502142002\/9502142002002.json",
+        "nama": "TPS 002, MIMIN, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142002",
+        "tps": "9502142002003",
+        "url": "95\/9502\/950214\/9502142002\/9502142002003.json",
+        "nama": "TPS 003, MIMIN, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142002",
+        "tps": "9502142002004",
+        "url": "95\/9502\/950214\/9502142002\/9502142002004.json",
+        "nama": "TPS 004, MIMIN, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142001",
+        "tps": "9502142001001",
+        "url": "95\/9502\/950214\/9502142001\/9502142001001.json",
+        "nama": "TPS 001, OKSOP, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142001",
+        "tps": "9502142001002",
+        "url": "95\/9502\/950214\/9502142001\/9502142001002.json",
+        "nama": "TPS 002, OKSOP, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142001",
+        "tps": "9502142001003",
+        "url": "95\/9502\/950214\/9502142001\/9502142001003.json",
+        "nama": "TPS 003, OKSOP, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142001",
+        "tps": "9502142001004",
+        "url": "95\/9502\/950214\/9502142001\/9502142001004.json",
+        "nama": "TPS 004, OKSOP, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950214",
+        "desa": "9502142004",
+        "tps": "9502142004001",
+        "url": "95\/9502\/950214\/9502142004\/9502142004001.json",
+        "nama": "TPS 001, OKTUMI, OKSOP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332007",
+        "tps": "9502332007001",
+        "url": "95\/9502\/950233\/9502332007\/9502332007001.json",
+        "nama": "TPS 001, BARAMIRYE, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332004",
+        "tps": "9502332004001",
+        "url": "95\/9502\/950233\/9502332004\/9502332004001.json",
+        "nama": "TPS 001, BARICE, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332005",
+        "tps": "9502332005001",
+        "url": "95\/9502\/950233\/9502332005\/9502332005001.json",
+        "nama": "TPS 001, IMDE, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332005",
+        "tps": "9502332005002",
+        "url": "95\/9502\/950233\/9502332005\/9502332005002.json",
+        "nama": "TPS 002, IMDE, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332010",
+        "tps": "9502332010001",
+        "url": "95\/9502\/950233\/9502332010\/9502332010001.json",
+        "nama": "TPS 001, KALEK, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332006",
+        "tps": "9502332006001",
+        "url": "95\/9502\/950233\/9502332006\/9502332006001.json",
+        "nama": "TPS 001, LUMDAKNA, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332008",
+        "tps": "9502332008001",
+        "url": "95\/9502\/950233\/9502332008\/9502332008001.json",
+        "nama": "TPS 001, MANDALAK, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332001",
+        "tps": "9502332001001",
+        "url": "95\/9502\/950233\/9502332001\/9502332001001.json",
+        "nama": "TPS 001, MARIKLA, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332001",
+        "tps": "9502332001002",
+        "url": "95\/9502\/950233\/9502332001\/9502332001002.json",
+        "nama": "TPS 002, MARIKLA, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332003",
+        "tps": "9502332003001",
+        "url": "95\/9502\/950233\/9502332003\/9502332003001.json",
+        "nama": "TPS 001, PAMEK, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332003",
+        "tps": "9502332003002",
+        "url": "95\/9502\/950233\/9502332003\/9502332003002.json",
+        "nama": "TPS 002, PAMEK, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332003",
+        "tps": "9502332003003",
+        "url": "95\/9502\/950233\/9502332003\/9502332003003.json",
+        "nama": "TPS 003, PAMEK, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332003",
+        "tps": "9502332003004",
+        "url": "95\/9502\/950233\/9502332003\/9502332003004.json",
+        "nama": "TPS 004, PAMEK, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332003",
+        "tps": "9502332003005",
+        "url": "95\/9502\/950233\/9502332003\/9502332003005.json",
+        "nama": "TPS 005, PAMEK, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332003",
+        "tps": "9502332003006",
+        "url": "95\/9502\/950233\/9502332003\/9502332003006.json",
+        "nama": "TPS 006, PAMEK, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332011",
+        "tps": "9502332011001",
+        "url": "95\/9502\/950233\/9502332011\/9502332011001.json",
+        "nama": "TPS 001, PINGGON, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332002",
+        "tps": "9502332002001",
+        "url": "95\/9502\/950233\/9502332002\/9502332002001.json",
+        "nama": "TPS 001, YABOSOROM, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332002",
+        "tps": "9502332002002",
+        "url": "95\/9502\/950233\/9502332002\/9502332002002.json",
+        "nama": "TPS 002, YABOSOROM, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950233",
+        "desa": "9502332009",
+        "tps": "9502332009001",
+        "url": "95\/9502\/950233\/9502332009\/9502332009001.json",
+        "nama": "TPS 001, YOKUL, PAMEK, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092005",
+        "tps": "9502092005001",
+        "url": "95\/9502\/950209\/9502092005\/9502092005001.json",
+        "nama": "TPS 001, BON YAKWOL, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092004",
+        "tps": "9502092004001",
+        "url": "95\/9502\/950209\/9502092004\/9502092004001.json",
+        "nama": "TPS 001, DENOM, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092004",
+        "tps": "9502092004002",
+        "url": "95\/9502\/950209\/9502092004\/9502092004002.json",
+        "nama": "TPS 002, DENOM, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092006",
+        "tps": "9502092006001",
+        "url": "95\/9502\/950209\/9502092006\/9502092006001.json",
+        "nama": "TPS 001, OK TELABE, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092002",
+        "tps": "9502092002001",
+        "url": "95\/9502\/950209\/9502092002\/9502092002001.json",
+        "nama": "TPS 001, OKBON, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092002",
+        "tps": "9502092002002",
+        "url": "95\/9502\/950209\/9502092002\/9502092002002.json",
+        "nama": "TPS 002, OKBON, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092001",
+        "tps": "9502092001001",
+        "url": "95\/9502\/950209\/9502092001\/9502092001001.json",
+        "nama": "TPS 001, PEPERA, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092001",
+        "tps": "9502092001002",
+        "url": "95\/9502\/950209\/9502092001\/9502092001002.json",
+        "nama": "TPS 002, PEPERA, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092001",
+        "tps": "9502092001003",
+        "url": "95\/9502\/950209\/9502092001\/9502092001003.json",
+        "nama": "TPS 003, PEPERA, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092007",
+        "tps": "9502092007001",
+        "url": "95\/9502\/950209\/9502092007\/9502092007001.json",
+        "nama": "TPS 001, WOK BAKON, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092003",
+        "tps": "9502092003001",
+        "url": "95\/9502\/950209\/9502092003\/9502092003001.json",
+        "nama": "TPS 001, YUN MUKU, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950209",
+        "desa": "9502092003",
+        "tps": "9502092003002",
+        "url": "95\/9502\/950209\/9502092003\/9502092003002.json",
+        "nama": "TPS 002, YUN MUKU, PEPERA, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152005",
+        "tps": "9502152005001",
+        "url": "95\/9502\/950215\/9502152005\/9502152005001.json",
+        "nama": "TPS 001, MODUSIT, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152008",
+        "tps": "9502152008001",
+        "url": "95\/9502\/950215\/9502152008\/9502152008001.json",
+        "nama": "TPS 001, OKATEM, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152003",
+        "tps": "9502152003001",
+        "url": "95\/9502\/950215\/9502152003\/9502152003001.json",
+        "nama": "TPS 001, PARIM, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152003",
+        "tps": "9502152003002",
+        "url": "95\/9502\/950215\/9502152003\/9502152003002.json",
+        "nama": "TPS 002, PARIM, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152002",
+        "tps": "9502152002001",
+        "url": "95\/9502\/950215\/9502152002\/9502152002001.json",
+        "nama": "TPS 001, SERAMKATOP, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152002",
+        "tps": "9502152002002",
+        "url": "95\/9502\/950215\/9502152002\/9502152002002.json",
+        "nama": "TPS 002, SERAMKATOP, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152004",
+        "tps": "9502152004001",
+        "url": "95\/9502\/950215\/9502152004\/9502152004001.json",
+        "nama": "TPS 001, SIMINBUK, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152006",
+        "tps": "9502152006001",
+        "url": "95\/9502\/950215\/9502152006\/9502152006001.json",
+        "nama": "TPS 001, WANBAKON, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152007",
+        "tps": "9502152007001",
+        "url": "95\/9502\/950215\/9502152007\/9502152007001.json",
+        "nama": "TPS 001, YAKMOR, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152001",
+        "tps": "9502152001001",
+        "url": "95\/9502\/950215\/9502152001\/9502152001001.json",
+        "nama": "TPS 001, YAPIMAKOT, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152001",
+        "tps": "9502152001002",
+        "url": "95\/9502\/950215\/9502152001\/9502152001002.json",
+        "nama": "TPS 002, YAPIMAKOT, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950215",
+        "desa": "9502152001",
+        "tps": "9502152001003",
+        "url": "95\/9502\/950215\/9502152001\/9502152001003.json",
+        "nama": "TPS 003, YAPIMAKOT, SERAMBAKON, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192006",
+        "tps": "9502192006001",
+        "url": "95\/9502\/950219\/9502192006\/9502192006001.json",
+        "nama": "TPS 001, BETEN DUA, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192004",
+        "tps": "9502192004001",
+        "url": "95\/9502\/950219\/9502192004\/9502192004001.json",
+        "nama": "TPS 001, BITIPDING, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192003",
+        "tps": "9502192003001",
+        "url": "95\/9502\/950219\/9502192003\/9502192003001.json",
+        "nama": "TPS 001, IMSIN, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192002",
+        "tps": "9502192002001",
+        "url": "95\/9502\/950219\/9502192002\/9502192002001.json",
+        "nama": "TPS 001, MARANG TIKING, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192002",
+        "tps": "9502192002002",
+        "url": "95\/9502\/950219\/9502192002\/9502192002002.json",
+        "nama": "TPS 002, MARANG TIKING, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192002",
+        "tps": "9502192002003",
+        "url": "95\/9502\/950219\/9502192002\/9502192002003.json",
+        "nama": "TPS 003, MARANG TIKING, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192002",
+        "tps": "9502192002004",
+        "url": "95\/9502\/950219\/9502192002\/9502192002004.json",
+        "nama": "TPS 004, MARANG TIKING, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192007",
+        "tps": "9502192007001",
+        "url": "95\/9502\/950219\/9502192007\/9502192007001.json",
+        "nama": "TPS 001, OMOR, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192007",
+        "tps": "9502192007002",
+        "url": "95\/9502\/950219\/9502192007\/9502192007002.json",
+        "nama": "TPS 002, OMOR, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192005",
+        "tps": "9502192005001",
+        "url": "95\/9502\/950219\/9502192005\/9502192005001.json",
+        "nama": "TPS 001, ONKOR, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192001",
+        "tps": "9502192001001",
+        "url": "95\/9502\/950219\/9502192001\/9502192001001.json",
+        "nama": "TPS 001, TARUP, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950219",
+        "desa": "9502192001",
+        "tps": "9502192001002",
+        "url": "95\/9502\/950219\/9502192001\/9502192001002.json",
+        "nama": "TPS 002, TARUP, TARUP, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312010",
+        "tps": "9502312010001",
+        "url": "95\/9502\/950231\/9502312010\/9502312010001.json",
+        "nama": "TPS 001, BAUTME, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312003",
+        "tps": "9502312003001",
+        "url": "95\/9502\/950231\/9502312003\/9502312003001.json",
+        "nama": "TPS 001, MAIGAME, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312003",
+        "tps": "9502312003002",
+        "url": "95\/9502\/950231\/9502312003\/9502312003002.json",
+        "nama": "TPS 002, MAIGAME, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312004",
+        "tps": "9502312004001",
+        "url": "95\/9502\/950231\/9502312004\/9502312004001.json",
+        "nama": "TPS 001, MURME, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312002",
+        "tps": "9502312002001",
+        "url": "95\/9502\/950231\/9502312002\/9502312002001.json",
+        "nama": "TPS 001, SINAMI, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312001",
+        "tps": "9502312001001",
+        "url": "95\/9502\/950231\/9502312001\/9502312001001.json",
+        "nama": "TPS 001, TEIRAPLU, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312001",
+        "tps": "9502312001002",
+        "url": "95\/9502\/950231\/9502312001\/9502312001002.json",
+        "nama": "TPS 002, TEIRAPLU, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312001",
+        "tps": "9502312001003",
+        "url": "95\/9502\/950231\/9502312001\/9502312001003.json",
+        "nama": "TPS 003, TEIRAPLU, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312007",
+        "tps": "9502312007001",
+        "url": "95\/9502\/950231\/9502312007\/9502312007001.json",
+        "nama": "TPS 001, TERAPDEI, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312009",
+        "tps": "9502312009001",
+        "url": "95\/9502\/950231\/9502312009\/9502312009001.json",
+        "nama": "TPS 001, TERIAME, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312008",
+        "tps": "9502312008001",
+        "url": "95\/9502\/950231\/9502312008\/9502312008001.json",
+        "nama": "TPS 001, YITARGET, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312006",
+        "tps": "9502312006001",
+        "url": "95\/9502\/950231\/9502312006\/9502312006001.json",
+        "nama": "TPS 001, YUABAN DUA, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312005",
+        "tps": "9502312005001",
+        "url": "95\/9502\/950231\/9502312005\/9502312005001.json",
+        "nama": "TPS 001, YUABAN SATU, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950231",
+        "desa": "9502312005",
+        "tps": "9502312005002",
+        "url": "95\/9502\/950231\/9502312005\/9502312005002.json",
+        "nama": "TPS 002, YUABAN SATU, TEIRAPLU, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272008",
+        "tps": "9502272008001",
+        "url": "95\/9502\/950227\/9502272008\/9502272008001.json",
+        "nama": "TPS 001, DALUBAN, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272005",
+        "tps": "9502272005001",
+        "url": "95\/9502\/950227\/9502272005\/9502272005001.json",
+        "nama": "TPS 001, LIMREPASIKNE, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272007",
+        "tps": "9502272007001",
+        "url": "95\/9502\/950227\/9502272007\/9502272007001.json",
+        "nama": "TPS 001, MEKDAMGON, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272001",
+        "tps": "9502272001001",
+        "url": "95\/9502\/950227\/9502272001\/9502272001001.json",
+        "nama": "TPS 001, MERPASIKNE, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272001",
+        "tps": "9502272001002",
+        "url": "95\/9502\/950227\/9502272001\/9502272001002.json",
+        "nama": "TPS 002, MERPASIKNE, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272004",
+        "tps": "9502272004001",
+        "url": "95\/9502\/950227\/9502272004\/9502272004001.json",
+        "nama": "TPS 001, MERYANG, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272009",
+        "tps": "9502272009001",
+        "url": "95\/9502\/950227\/9502272009\/9502272009001.json",
+        "nama": "TPS 001, NOMTEREN, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272002",
+        "tps": "9502272002001",
+        "url": "95\/9502\/950227\/9502272002\/9502272002001.json",
+        "nama": "TPS 001, TARAMLU, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272002",
+        "tps": "9502272002002",
+        "url": "95\/9502\/950227\/9502272002\/9502272002002.json",
+        "nama": "TPS 002, TARAMLU, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272002",
+        "tps": "9502272002003",
+        "url": "95\/9502\/950227\/9502272002\/9502272002003.json",
+        "nama": "TPS 003, TARAMLU, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272003",
+        "tps": "9502272003001",
+        "url": "95\/9502\/950227\/9502272003\/9502272003001.json",
+        "nama": "TPS 001, WEIME, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272003",
+        "tps": "9502272003002",
+        "url": "95\/9502\/950227\/9502272003\/9502272003002.json",
+        "nama": "TPS 002, WEIME, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272003",
+        "tps": "9502272003003",
+        "url": "95\/9502\/950227\/9502272003\/9502272003003.json",
+        "nama": "TPS 003, WEIME, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9502",
+        "kecamatan": "950227",
+        "desa": "9502272006",
+        "tps": "9502272006001",
+        "url": "95\/9502\/950227\/9502272006\/9502272006001.json",
+        "nama": "TPS 001, YOULBAN, WEIME, KAB PEGUNUNGAN BINTANG, PAPUA PEGUNUNGAN"
+    }
+]

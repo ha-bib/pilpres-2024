@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "18",
+        "kabupaten": "1810",
+        "kecamatan": "181002",
+        "desa": "1810022022",
+        "tps": "1810022022001",
+        "nama": "TPS 001, WONODADI UTARA, GADING REJO, PRINGSEWU, LAMPUNG",
+        "selisih": -60,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/18\/1810\/181002\/1810022022\/1810022022001"
+    },
+    {
+        "provinsi": "18",
+        "kabupaten": "1810",
+        "kecamatan": "181005",
+        "desa": "1810052027",
+        "tps": "1810052027004",
+        "nama": "TPS 004, PUJI HARJO, PAGELARAN, PRINGSEWU, LAMPUNG",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/18\/1810\/181005\/1810052027\/1810052027004"
+    },
+    {
+        "provinsi": "18",
+        "kabupaten": "1810",
+        "kecamatan": "181004",
+        "desa": "1810042007",
+        "tps": "1810042007006",
+        "nama": "TPS 006, SUKOREJO, PARDASUKA, PRINGSEWU, LAMPUNG",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/18\/1810\/181004\/1810042007\/1810042007006"
+    },
+    {
+        "provinsi": "18",
+        "kabupaten": "1810",
+        "kecamatan": "181008",
+        "desa": "1810082012",
+        "tps": "1810082012017",
+        "nama": "TPS 017, WARINGINSARI BARAT, SUKOHARJO, PRINGSEWU, LAMPUNG",
+        "selisih": 50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/18\/1810\/181008\/1810082012\/1810082012017"
+    },
+    {
+        "provinsi": "18",
+        "kabupaten": "1810",
+        "kecamatan": "181001",
+        "desa": "1810011002",
+        "tps": "1810011002006",
+        "nama": "TPS 006, PRINGSEWU UTARA, PRINGSEWU, PRINGSEWU, LAMPUNG",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/18\/1810\/181001\/1810011002\/1810011002006"
+    }
+]

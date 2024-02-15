@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "32",
+        "kabupaten": "3214",
+        "kecamatan": "321413",
+        "desa": "3214132006",
+        "tps": "3214132006010",
+        "nama": "TPS 010, WANAKERTA, BUNGURSARI, PURWAKARTA, JAWA BARAT",
+        "selisih": 60,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3214\/321413\/3214132006\/3214132006010"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3214",
+        "kecamatan": "321403",
+        "desa": "3214032005",
+        "tps": "3214032005031",
+        "nama": "TPS 031, KEMBANGKUNING, JATILUHUR, PURWAKARTA, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3214\/321403\/3214032005\/3214032005031"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3214",
+        "kecamatan": "321401",
+        "desa": "3214011001",
+        "tps": "3214011001009",
+        "nama": "TPS 009, NAGRI KIDUL, PURWAKARTA, PURWAKARTA, JAWA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3214\/321401\/3214011001\/3214011001009"
+    }
+]

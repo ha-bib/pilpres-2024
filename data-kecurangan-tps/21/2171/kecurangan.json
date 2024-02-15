@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "21",
+        "kabupaten": "2171",
+        "kecamatan": "217110",
+        "desa": "2171101001",
+        "tps": "2171101001014",
+        "nama": "TPS 014, BALOI PERMAI, BATAM KOTA, KOTA BATAM, KEPULAUAN RIAU",
+        "selisih": -551,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2171\/217110\/2171101001\/2171101001014"
+    },
+    {
+        "provinsi": "21",
+        "kabupaten": "2171",
+        "kecamatan": "217112",
+        "desa": "2171121002",
+        "tps": "2171121002029",
+        "nama": "TPS 029, BULIANG, BATU AJI, KOTA BATAM, KEPULAUAN RIAU",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2171\/217112\/2171121002\/2171121002029"
+    },
+    {
+        "provinsi": "21",
+        "kabupaten": "2171",
+        "kecamatan": "217101",
+        "desa": "2171011007",
+        "tps": "2171011007019",
+        "nama": "TPS 019, SEKANAK RAYA, BELAKANG PADANG, KOTA BATAM, KEPULAUAN RIAU",
+        "selisih": -3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2171\/217101\/2171011007\/2171011007019"
+    },
+    {
+        "provinsi": "21",
+        "kabupaten": "2171",
+        "kecamatan": "217111",
+        "desa": "2171111005",
+        "tps": "2171111005070",
+        "nama": "TPS 070, SUNGAI LANGKAI, SAGULUNG, KOTA BATAM, KEPULAUAN RIAU",
+        "selisih": 809,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2171\/217111\/2171111005\/2171111005070"
+    }
+]

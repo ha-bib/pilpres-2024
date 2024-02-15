@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AP",
+        "kecamatan": "99AP01",
+        "desa": "99AP010001",
+        "tps": "99AP010001001",
+        "url": "99\/99AP\/99AP01\/99AP010001\/99AP010001001.json",
+        "nama": "POS 001, Tehran, Iran, Tehran, Iran, Tehran, Iran, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AP",
+        "kecamatan": "99AP01",
+        "desa": "99AP010001",
+        "tps": "99AP010001002",
+        "url": "99\/99AP\/99AP01\/99AP010001\/99AP010001002.json",
+        "nama": "TPS 001, Tehran, Iran, Tehran, Iran, Tehran, Iran, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AP",
+        "kecamatan": "99AP01",
+        "desa": "99AP010001",
+        "tps": "99AP010001003",
+        "url": "99\/99AP\/99AP01\/99AP010001\/99AP010001003.json",
+        "nama": "TPS 002, Tehran, Iran, Tehran, Iran, Tehran, Iran, Luar Negeri"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9925",
+        "kecamatan": "992501",
+        "desa": "9925010001",
+        "tps": "9925010001003",
+        "url": "99\/9925\/992501\/9925010001\/9925010001003.json",
+        "nama": "KSK 001, Buenos Aires, Argentina, Buenos Aires, Argentina, Buenos Aires, Argentina, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9925",
+        "kecamatan": "992501",
+        "desa": "9925010001",
+        "tps": "9925010001001",
+        "url": "99\/9925\/992501\/9925010001\/9925010001001.json",
+        "nama": "POS 001, Buenos Aires, Argentina, Buenos Aires, Argentina, Buenos Aires, Argentina, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9925",
+        "kecamatan": "992501",
+        "desa": "9925010001",
+        "tps": "9925010001002",
+        "url": "99\/9925\/992501\/9925010001\/9925010001002.json",
+        "nama": "TPS 001, Buenos Aires, Argentina, Buenos Aires, Argentina, Buenos Aires, Argentina, Luar Negeri"
+    }
+]

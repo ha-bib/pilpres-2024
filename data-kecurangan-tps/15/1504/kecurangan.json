@@ -1,0 +1,82 @@
+[
+    {
+        "provinsi": "15",
+        "kabupaten": "1504",
+        "kecamatan": "150407",
+        "desa": "1504071004",
+        "tps": "1504071004011",
+        "nama": "TPS 011, BAJUBANG, BAJUBANG, BATANGHARI, JAMBI",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1504\/150407\/1504071004\/1504071004011"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1504",
+        "kecamatan": "150404",
+        "desa": "1504042011",
+        "tps": "1504042011002",
+        "nama": "TPS 002, KARMEO, BATIN XXIV, BATANGHARI, JAMBI",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1504\/150404\/1504042011\/1504042011002"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1504",
+        "kecamatan": "150404",
+        "desa": "1504042011",
+        "tps": "1504042011006",
+        "nama": "TPS 006, KARMEO, BATIN XXIV, BATANGHARI, JAMBI",
+        "selisih": -15,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1504\/150404\/1504042011\/1504042011006"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1504",
+        "kecamatan": "150406",
+        "desa": "1504062011",
+        "tps": "1504062011005",
+        "nama": "TPS 005, SUNGAI LINGKAR, MARO SEBO ULU, BATANGHARI, JAMBI",
+        "selisih": -18,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1504\/150406\/1504062011\/1504062011005"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1504",
+        "kecamatan": "150406",
+        "desa": "1504062012",
+        "tps": "1504062012005",
+        "nama": "TPS 005, SUNGAI RUAN ULU, MARO SEBO ULU, BATANGHARI, JAMBI",
+        "selisih": 296,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1504\/150406\/1504062012\/1504062012005"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1504",
+        "kecamatan": "150403",
+        "desa": "1504032020",
+        "tps": "1504032020004",
+        "nama": "TPS 004, KILANGAN, MUARA BULIAN, BATANGHARI, JAMBI",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1504\/150403\/1504032020\/1504032020004"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1504",
+        "kecamatan": "150405",
+        "desa": "1504052008",
+        "tps": "1504052008009",
+        "nama": "TPS 009, TURE, PEMAYUNG, BATANGHARI, JAMBI",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1504\/150405\/1504052008\/1504052008009"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1504",
+        "kecamatan": "150403",
+        "desa": "1504032008",
+        "tps": "1504032008001",
+        "nama": "TPS 001, MALAPARI, MUARA BULIAN, BATANGHARI, JAMBI",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1504\/150403\/1504032008\/1504032008001"
+    }
+]

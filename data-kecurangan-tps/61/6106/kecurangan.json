@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "61",
+        "kabupaten": "6106",
+        "kecamatan": "610601",
+        "desa": "6106012008",
+        "tps": "6106012008002",
+        "nama": "TPS 002, SIBAU HULU, PUTUSSIBAU UTARA, KAPUAS HULU, KALIMANTAN BARAT",
+        "selisih": -80,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6106\/610601\/6106012008\/6106012008002"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6106",
+        "kecamatan": "610609",
+        "desa": "6106092002",
+        "tps": "6106092002005",
+        "nama": "TPS 005, GUDANG HILIR, SELIMBAU, KAPUAS HULU, KALIMANTAN BARAT",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6106\/610609\/6106092002\/6106092002005"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6106",
+        "kecamatan": "610609",
+        "desa": "6106092005",
+        "tps": "6106092005003",
+        "nama": "TPS 003, PIASAK HILIR, SELIMBAU, KAPUAS HULU, KALIMANTAN BARAT",
+        "selisih": 330,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6106\/610609\/6106092005\/6106092005003"
+    }
+]

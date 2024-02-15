@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "35",
+        "kabupaten": "3571",
+        "kecamatan": "357102",
+        "desa": "3571021013",
+        "tps": "3571021013015",
+        "nama": "TPS 015, KALIOMBO, KOTA, KOTA KEDIRI, JAWA TIMUR",
+        "selisih": 1525,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/35\/3571\/357102\/3571021013\/3571021013015"
+    },
+    {
+        "provinsi": "35",
+        "kabupaten": "3571",
+        "kecamatan": "357101",
+        "desa": "3571011013",
+        "tps": "3571011013013",
+        "nama": "TPS 013, LIRBOYO, MOJOROTO, KOTA KEDIRI, JAWA TIMUR",
+        "selisih": 7,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/35\/3571\/357101\/3571011013\/3571011013013"
+    },
+    {
+        "provinsi": "35",
+        "kabupaten": "3571",
+        "kecamatan": "357103",
+        "desa": "3571031008",
+        "tps": "3571031008016",
+        "nama": "TPS 016, TINALAN, PESANTREN, KOTA KEDIRI, JAWA TIMUR",
+        "selisih": 698,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/35\/3571\/357103\/3571031008\/3571031008016"
+    },
+    {
+        "provinsi": "35",
+        "kabupaten": "3571",
+        "kecamatan": "357101",
+        "desa": "3571011011",
+        "tps": "3571011011902",
+        "nama": "TPS 902, MOJOROTO, MOJOROTO, KOTA KEDIRI, JAWA TIMUR",
+        "selisih": 7,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/35\/3571\/357101\/3571011011\/3571011011902"
+    }
+]

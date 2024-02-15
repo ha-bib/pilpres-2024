@@ -1,0 +1,3980 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062013",
+        "tps": "1112062013001",
+        "url": "11\/1112\/111206\/1112062013\/1112062013001.json",
+        "nama": "TPS 001, ALUE DAWAH, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062013",
+        "tps": "1112062013002",
+        "url": "11\/1112\/111206\/1112062013\/1112062013002.json",
+        "nama": "TPS 002, ALUE DAWAH, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062004",
+        "tps": "1112062004001",
+        "url": "11\/1112\/111206\/1112062004\/1112062004001.json",
+        "nama": "TPS 001, ALUE JEUREJAK, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062004",
+        "tps": "1112062004002",
+        "url": "11\/1112\/111206\/1112062004\/1112062004002.json",
+        "nama": "TPS 002, ALUE JEUREJAK, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062004",
+        "tps": "1112062004003",
+        "url": "11\/1112\/111206\/1112062004\/1112062004003.json",
+        "nama": "TPS 003, ALUE JEUREJAK, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062004",
+        "tps": "1112062004004",
+        "url": "11\/1112\/111206\/1112062004\/1112062004004.json",
+        "nama": "TPS 004, ALUE JEUREJAK, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062006",
+        "tps": "1112062006001",
+        "url": "11\/1112\/111206\/1112062006\/1112062006001.json",
+        "nama": "TPS 001, ALUE PEUNAWA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062006",
+        "tps": "1112062006002",
+        "url": "11\/1112\/111206\/1112062006\/1112062006002.json",
+        "nama": "TPS 002, ALUE PEUNAWA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062006",
+        "tps": "1112062006003",
+        "url": "11\/1112\/111206\/1112062006\/1112062006003.json",
+        "nama": "TPS 003, ALUE PEUNAWA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062005",
+        "tps": "1112062005001",
+        "url": "11\/1112\/111206\/1112062005\/1112062005001.json",
+        "nama": "TPS 001, BLANG DALAM, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062005",
+        "tps": "1112062005002",
+        "url": "11\/1112\/111206\/1112062005\/1112062005002.json",
+        "nama": "TPS 002, BLANG DALAM, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062005",
+        "tps": "1112062005003",
+        "url": "11\/1112\/111206\/1112062005\/1112062005003.json",
+        "nama": "TPS 003, BLANG DALAM, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062005",
+        "tps": "1112062005004",
+        "url": "11\/1112\/111206\/1112062005\/1112062005004.json",
+        "nama": "TPS 004, BLANG DALAM, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062005",
+        "tps": "1112062005005",
+        "url": "11\/1112\/111206\/1112062005\/1112062005005.json",
+        "nama": "TPS 005, BLANG DALAM, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062008",
+        "tps": "1112062008001",
+        "url": "11\/1112\/111206\/1112062008\/1112062008001.json",
+        "nama": "TPS 001, BLANG RAJA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062008",
+        "tps": "1112062008002",
+        "url": "11\/1112\/111206\/1112062008\/1112062008002.json",
+        "nama": "TPS 002, BLANG RAJA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062008",
+        "tps": "1112062008003",
+        "url": "11\/1112\/111206\/1112062008\/1112062008003.json",
+        "nama": "TPS 003, BLANG RAJA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062008",
+        "tps": "1112062008004",
+        "url": "11\/1112\/111206\/1112062008\/1112062008004.json",
+        "nama": "TPS 004, BLANG RAJA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062014",
+        "tps": "1112062014001",
+        "url": "11\/1112\/111206\/1112062014\/1112062014001.json",
+        "nama": "TPS 001, COT SEUMANTOK, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062014",
+        "tps": "1112062014002",
+        "url": "11\/1112\/111206\/1112062014\/1112062014002.json",
+        "nama": "TPS 002, COT SEUMANTOK, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062014",
+        "tps": "1112062014003",
+        "url": "11\/1112\/111206\/1112062014\/1112062014003.json",
+        "nama": "TPS 003, COT SEUMANTOK, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062014",
+        "tps": "1112062014004",
+        "url": "11\/1112\/111206\/1112062014\/1112062014004.json",
+        "nama": "TPS 004, COT SEUMANTOK, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062003",
+        "tps": "1112062003001",
+        "url": "11\/1112\/111206\/1112062003\/1112062003001.json",
+        "nama": "TPS 001, GUNUNG SAMARINDA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062003",
+        "tps": "1112062003002",
+        "url": "11\/1112\/111206\/1112062003\/1112062003002.json",
+        "nama": "TPS 002, GUNUNG SAMARINDA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062003",
+        "tps": "1112062003003",
+        "url": "11\/1112\/111206\/1112062003\/1112062003003.json",
+        "nama": "TPS 003, GUNUNG SAMARINDA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062003",
+        "tps": "1112062003004",
+        "url": "11\/1112\/111206\/1112062003\/1112062003004.json",
+        "nama": "TPS 004, GUNUNG SAMARINDA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062003",
+        "tps": "1112062003005",
+        "url": "11\/1112\/111206\/1112062003\/1112062003005.json",
+        "nama": "TPS 005, GUNUNG SAMARINDA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062002",
+        "tps": "1112062002001",
+        "url": "11\/1112\/111206\/1112062002\/1112062002001.json",
+        "nama": "TPS 001, IE MIRAH, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062002",
+        "tps": "1112062002002",
+        "url": "11\/1112\/111206\/1112062002\/1112062002002.json",
+        "nama": "TPS 002, IE MIRAH, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062002",
+        "tps": "1112062002003",
+        "url": "11\/1112\/111206\/1112062002\/1112062002003.json",
+        "nama": "TPS 003, IE MIRAH, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062002",
+        "tps": "1112062002004",
+        "url": "11\/1112\/111206\/1112062002\/1112062002004.json",
+        "nama": "TPS 004, IE MIRAH, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062002",
+        "tps": "1112062002005",
+        "url": "11\/1112\/111206\/1112062002\/1112062002005.json",
+        "nama": "TPS 005, IE MIRAH, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062012",
+        "tps": "1112062012001",
+        "url": "11\/1112\/111206\/1112062012\/1112062012001.json",
+        "nama": "TPS 001, LHOK GAYO, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062012",
+        "tps": "1112062012002",
+        "url": "11\/1112\/111206\/1112062012\/1112062012002.json",
+        "nama": "TPS 002, LHOK GAYO, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062012",
+        "tps": "1112062012003",
+        "url": "11\/1112\/111206\/1112062012\/1112062012003.json",
+        "nama": "TPS 003, LHOK GAYO, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062007",
+        "tps": "1112062007001",
+        "url": "11\/1112\/111206\/1112062007\/1112062007001.json",
+        "nama": "TPS 001, PANTE CERMIN, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062007",
+        "tps": "1112062007002",
+        "url": "11\/1112\/111206\/1112062007\/1112062007002.json",
+        "nama": "TPS 002, PANTE CERMIN, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062007",
+        "tps": "1112062007003",
+        "url": "11\/1112\/111206\/1112062007\/1112062007003.json",
+        "nama": "TPS 003, PANTE CERMIN, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062001",
+        "tps": "1112062001001",
+        "url": "11\/1112\/111206\/1112062001\/1112062001001.json",
+        "nama": "TPS 001, PANTE RAKYAT, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062001",
+        "tps": "1112062001002",
+        "url": "11\/1112\/111206\/1112062001\/1112062001002.json",
+        "nama": "TPS 002, PANTE RAKYAT, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062001",
+        "tps": "1112062001003",
+        "url": "11\/1112\/111206\/1112062001\/1112062001003.json",
+        "nama": "TPS 003, PANTE RAKYAT, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062001",
+        "tps": "1112062001004",
+        "url": "11\/1112\/111206\/1112062001\/1112062001004.json",
+        "nama": "TPS 004, PANTE RAKYAT, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062001",
+        "tps": "1112062001005",
+        "url": "11\/1112\/111206\/1112062001\/1112062001005.json",
+        "nama": "TPS 005, PANTE RAKYAT, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062001",
+        "tps": "1112062001006",
+        "url": "11\/1112\/111206\/1112062001\/1112062001006.json",
+        "nama": "TPS 006, PANTE RAKYAT, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062001",
+        "tps": "1112062001007",
+        "url": "11\/1112\/111206\/1112062001\/1112062001007.json",
+        "nama": "TPS 007, PANTE RAKYAT, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062001",
+        "tps": "1112062001008",
+        "url": "11\/1112\/111206\/1112062001\/1112062001008.json",
+        "nama": "TPS 008, PANTE RAKYAT, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062009",
+        "tps": "1112062009001",
+        "url": "11\/1112\/111206\/1112062009\/1112062009001.json",
+        "nama": "TPS 001, RUKOEN DAME, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062009",
+        "tps": "1112062009002",
+        "url": "11\/1112\/111206\/1112062009\/1112062009002.json",
+        "nama": "TPS 002, RUKOEN DAME, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062009",
+        "tps": "1112062009003",
+        "url": "11\/1112\/111206\/1112062009\/1112062009003.json",
+        "nama": "TPS 003, RUKOEN DAME, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062009",
+        "tps": "1112062009004",
+        "url": "11\/1112\/111206\/1112062009\/1112062009004.json",
+        "nama": "TPS 004, RUKOEN DAME, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062010",
+        "tps": "1112062010001",
+        "url": "11\/1112\/111206\/1112062010\/1112062010001.json",
+        "nama": "TPS 001, SIMPANG GADENG, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062010",
+        "tps": "1112062010002",
+        "url": "11\/1112\/111206\/1112062010\/1112062010002.json",
+        "nama": "TPS 002, SIMPANG GADENG, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062010",
+        "tps": "1112062010003",
+        "url": "11\/1112\/111206\/1112062010\/1112062010003.json",
+        "nama": "TPS 003, SIMPANG GADENG, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062011",
+        "tps": "1112062011001",
+        "url": "11\/1112\/111206\/1112062011\/1112062011001.json",
+        "nama": "TPS 001, TELADAN JAYA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062011",
+        "tps": "1112062011002",
+        "url": "11\/1112\/111206\/1112062011\/1112062011002.json",
+        "nama": "TPS 002, TELADAN JAYA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062011",
+        "tps": "1112062011003",
+        "url": "11\/1112\/111206\/1112062011\/1112062011003.json",
+        "nama": "TPS 003, TELADAN JAYA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111206",
+        "desa": "1112062011",
+        "tps": "1112062011004",
+        "url": "11\/1112\/111206\/1112062011\/1112062011004.json",
+        "nama": "TPS 004, TELADAN JAYA, BABAH ROT, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012022",
+        "tps": "1112012022001",
+        "url": "11\/1112\/111201\/1112012022\/1112012022001.json",
+        "nama": "TPS 001, ALUE MANGGOTA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012022",
+        "tps": "1112012022002",
+        "url": "11\/1112\/111201\/1112012022\/1112012022002.json",
+        "nama": "TPS 002, ALUE MANGGOTA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012022",
+        "tps": "1112012022003",
+        "url": "11\/1112\/111201\/1112012022\/1112012022003.json",
+        "nama": "TPS 003, ALUE MANGGOTA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012030",
+        "tps": "1112012030001",
+        "url": "11\/1112\/111201\/1112012030\/1112012030001.json",
+        "nama": "TPS 001, BABAH LHUNG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012030",
+        "tps": "1112012030002",
+        "url": "11\/1112\/111201\/1112012030\/1112012030002.json",
+        "nama": "TPS 002, BABAH LHUNG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012030",
+        "tps": "1112012030003",
+        "url": "11\/1112\/111201\/1112012030\/1112012030003.json",
+        "nama": "TPS 003, BABAH LHUNG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012030",
+        "tps": "1112012030004",
+        "url": "11\/1112\/111201\/1112012030\/1112012030004.json",
+        "nama": "TPS 004, BABAH LHUNG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012024",
+        "tps": "1112012024001",
+        "url": "11\/1112\/111201\/1112012024\/1112012024001.json",
+        "nama": "TPS 001, BAHARU, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012024",
+        "tps": "1112012024002",
+        "url": "11\/1112\/111201\/1112012024\/1112012024002.json",
+        "nama": "TPS 002, BAHARU, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012024",
+        "tps": "1112012024003",
+        "url": "11\/1112\/111201\/1112012024\/1112012024003.json",
+        "nama": "TPS 003, BAHARU, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012014",
+        "tps": "1112012014001",
+        "url": "11\/1112\/111201\/1112012014\/1112012014001.json",
+        "nama": "TPS 001, COT JEURAT, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012014",
+        "tps": "1112012014002",
+        "url": "11\/1112\/111201\/1112012014\/1112012014002.json",
+        "nama": "TPS 002, COT JEURAT, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012020",
+        "tps": "1112012020001",
+        "url": "11\/1112\/111201\/1112012020\/1112012020001.json",
+        "nama": "TPS 001, GEULUMPANG PAYONG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012020",
+        "tps": "1112012020002",
+        "url": "11\/1112\/111201\/1112012020\/1112012020002.json",
+        "nama": "TPS 002, GEULUMPANG PAYONG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012020",
+        "tps": "1112012020003",
+        "url": "11\/1112\/111201\/1112012020\/1112012020003.json",
+        "nama": "TPS 003, GEULUMPANG PAYONG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012020",
+        "tps": "1112012020004",
+        "url": "11\/1112\/111201\/1112012020\/1112012020004.json",
+        "nama": "TPS 004, GEULUMPANG PAYONG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012020",
+        "tps": "1112012020005",
+        "url": "11\/1112\/111201\/1112012020\/1112012020005.json",
+        "nama": "TPS 005, GEULUMPANG PAYONG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012029",
+        "tps": "1112012029001",
+        "url": "11\/1112\/111201\/1112012029\/1112012029001.json",
+        "nama": "TPS 001, GUDANG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012029",
+        "tps": "1112012029002",
+        "url": "11\/1112\/111201\/1112012029\/1112012029002.json",
+        "nama": "TPS 002, GUDANG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012006",
+        "tps": "1112012006001",
+        "url": "11\/1112\/111201\/1112012006\/1112012006001.json",
+        "nama": "TPS 001, GUHANG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012006",
+        "tps": "1112012006002",
+        "url": "11\/1112\/111201\/1112012006\/1112012006002.json",
+        "nama": "TPS 002, GUHANG, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012025",
+        "tps": "1112012025001",
+        "url": "11\/1112\/111201\/1112012025\/1112012025001.json",
+        "nama": "TPS 001, KEUDE PAYA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012025",
+        "tps": "1112012025002",
+        "url": "11\/1112\/111201\/1112012025\/1112012025002.json",
+        "nama": "TPS 002, KEUDE PAYA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012025",
+        "tps": "1112012025003",
+        "url": "11\/1112\/111201\/1112012025\/1112012025003.json",
+        "nama": "TPS 003, KEUDE PAYA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012016",
+        "tps": "1112012016001",
+        "url": "11\/1112\/111201\/1112012016\/1112012016001.json",
+        "nama": "TPS 001, KEUDE SIBLAH, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012016",
+        "tps": "1112012016002",
+        "url": "11\/1112\/111201\/1112012016\/1112012016002.json",
+        "nama": "TPS 002, KEUDE SIBLAH, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012016",
+        "tps": "1112012016003",
+        "url": "11\/1112\/111201\/1112012016\/1112012016003.json",
+        "nama": "TPS 003, KEUDE SIBLAH, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012016",
+        "tps": "1112012016004",
+        "url": "11\/1112\/111201\/1112012016\/1112012016004.json",
+        "nama": "TPS 004, KEUDE SIBLAH, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012016",
+        "tps": "1112012016005",
+        "url": "11\/1112\/111201\/1112012016\/1112012016005.json",
+        "nama": "TPS 005, KEUDE SIBLAH, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012016",
+        "tps": "1112012016006",
+        "url": "11\/1112\/111201\/1112012016\/1112012016006.json",
+        "nama": "TPS 006, KEUDE SIBLAH, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012017",
+        "tps": "1112012017001",
+        "url": "11\/1112\/111201\/1112012017\/1112012017001.json",
+        "nama": "TPS 001, KUTA BAHAGIA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012017",
+        "tps": "1112012017002",
+        "url": "11\/1112\/111201\/1112012017\/1112012017002.json",
+        "nama": "TPS 002, KUTA BAHAGIA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012018",
+        "tps": "1112012018001",
+        "url": "11\/1112\/111201\/1112012018\/1112012018001.json",
+        "nama": "TPS 001, KUTA TINGGI, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012018",
+        "tps": "1112012018002",
+        "url": "11\/1112\/111201\/1112012018\/1112012018002.json",
+        "nama": "TPS 002, KUTA TINGGI, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012018",
+        "tps": "1112012018003",
+        "url": "11\/1112\/111201\/1112012018\/1112012018003.json",
+        "nama": "TPS 003, KUTA TINGGI, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012018",
+        "tps": "1112012018004",
+        "url": "11\/1112\/111201\/1112012018\/1112012018004.json",
+        "nama": "TPS 004, KUTA TINGGI, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012028",
+        "tps": "1112012028001",
+        "url": "11\/1112\/111201\/1112012028\/1112012028001.json",
+        "nama": "TPS 001, KUTA TUHA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012028",
+        "tps": "1112012028002",
+        "url": "11\/1112\/111201\/1112012028\/1112012028002.json",
+        "nama": "TPS 002, KUTA TUHA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012028",
+        "tps": "1112012028003",
+        "url": "11\/1112\/111201\/1112012028\/1112012028003.json",
+        "nama": "TPS 003, KUTA TUHA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012028",
+        "tps": "1112012028004",
+        "url": "11\/1112\/111201\/1112012028\/1112012028004.json",
+        "nama": "TPS 004, KUTA TUHA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012023",
+        "tps": "1112012023001",
+        "url": "11\/1112\/111201\/1112012023\/1112012023001.json",
+        "nama": "TPS 001, LAM KUTA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012023",
+        "tps": "1112012023002",
+        "url": "11\/1112\/111201\/1112012023\/1112012023002.json",
+        "nama": "TPS 002, LAM KUTA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012008",
+        "tps": "1112012008001",
+        "url": "11\/1112\/111201\/1112012008\/1112012008001.json",
+        "nama": "TPS 001, LHUNG ASAN, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012008",
+        "tps": "1112012008002",
+        "url": "11\/1112\/111201\/1112012008\/1112012008002.json",
+        "nama": "TPS 002, LHUNG ASAN, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012010",
+        "tps": "1112012010001",
+        "url": "11\/1112\/111201\/1112012010\/1112012010001.json",
+        "nama": "TPS 001, LHUNG TAROK, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012010",
+        "tps": "1112012010002",
+        "url": "11\/1112\/111201\/1112012010\/1112012010002.json",
+        "nama": "TPS 002, LHUNG TAROK, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012019",
+        "tps": "1112012019001",
+        "url": "11\/1112\/111201\/1112012019\/1112012019001.json",
+        "nama": "TPS 001, MATA IE, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012019",
+        "tps": "1112012019002",
+        "url": "11\/1112\/111201\/1112012019\/1112012019002.json",
+        "nama": "TPS 002, MATA IE, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012019",
+        "tps": "1112012019003",
+        "url": "11\/1112\/111201\/1112012019\/1112012019003.json",
+        "nama": "TPS 003, MATA IE, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012019",
+        "tps": "1112012019004",
+        "url": "11\/1112\/111201\/1112012019\/1112012019004.json",
+        "nama": "TPS 004, MATA IE, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012019",
+        "tps": "1112012019005",
+        "url": "11\/1112\/111201\/1112012019\/1112012019005.json",
+        "nama": "TPS 005, MATA IE, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012019",
+        "tps": "1112012019006",
+        "url": "11\/1112\/111201\/1112012019\/1112012019006.json",
+        "nama": "TPS 006, MATA IE, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012015",
+        "tps": "1112012015001",
+        "url": "11\/1112\/111201\/1112012015\/1112012015001.json",
+        "nama": "TPS 001, MEUDANG ARA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012015",
+        "tps": "1112012015002",
+        "url": "11\/1112\/111201\/1112012015\/1112012015002.json",
+        "nama": "TPS 002, MEUDANG ARA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012015",
+        "tps": "1112012015003",
+        "url": "11\/1112\/111201\/1112012015\/1112012015003.json",
+        "nama": "TPS 003, MEUDANG ARA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012015",
+        "tps": "1112012015004",
+        "url": "11\/1112\/111201\/1112012015\/1112012015004.json",
+        "nama": "TPS 004, MEUDANG ARA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012015",
+        "tps": "1112012015005",
+        "url": "11\/1112\/111201\/1112012015\/1112012015005.json",
+        "nama": "TPS 005, MEUDANG ARA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012015",
+        "tps": "1112012015006",
+        "url": "11\/1112\/111201\/1112012015\/1112012015006.json",
+        "nama": "TPS 006, MEUDANG ARA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012015",
+        "tps": "1112012015007",
+        "url": "11\/1112\/111201\/1112012015\/1112012015007.json",
+        "nama": "TPS 007, MEUDANG ARA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012021",
+        "tps": "1112012021001",
+        "url": "11\/1112\/111201\/1112012021\/1112012021001.json",
+        "nama": "TPS 001, PANTON RAYA, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012026",
+        "tps": "1112012026001",
+        "url": "11\/1112\/111201\/1112012026\/1112012026001.json",
+        "nama": "TPS 001, PASAR BLANGPIDIE, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012026",
+        "tps": "1112012026002",
+        "url": "11\/1112\/111201\/1112012026\/1112012026002.json",
+        "nama": "TPS 002, PASAR BLANGPIDIE, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012007",
+        "tps": "1112012007001",
+        "url": "11\/1112\/111201\/1112012007\/1112012007001.json",
+        "nama": "TPS 001, SEUNALOH, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012007",
+        "tps": "1112012007002",
+        "url": "11\/1112\/111201\/1112012007\/1112012007002.json",
+        "nama": "TPS 002, SEUNALOH, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111201",
+        "desa": "1112012007",
+        "tps": "1112012007003",
+        "url": "11\/1112\/111201\/1112012007\/1112012007003.json",
+        "nama": "TPS 003, SEUNALOH, BLANGPIDIE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082002",
+        "tps": "1112082002001",
+        "url": "11\/1112\/111208\/1112082002\/1112082002001.json",
+        "nama": "TPS 001, ALUE RAMBOT, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082002",
+        "tps": "1112082002002",
+        "url": "11\/1112\/111208\/1112082002\/1112082002002.json",
+        "nama": "TPS 002, ALUE RAMBOT, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082012",
+        "tps": "1112082012001",
+        "url": "11\/1112\/111208\/1112082012\/1112082012001.json",
+        "nama": "TPS 001, ALUE SEULASEH, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082012",
+        "tps": "1112082012002",
+        "url": "11\/1112\/111208\/1112082012\/1112082012002.json",
+        "nama": "TPS 002, ALUE SEULASEH, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082012",
+        "tps": "1112082012003",
+        "url": "11\/1112\/111208\/1112082012\/1112082012003.json",
+        "nama": "TPS 003, ALUE SEULASEH, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082004",
+        "tps": "1112082004001",
+        "url": "11\/1112\/111208\/1112082004\/1112082004001.json",
+        "nama": "TPS 001, ALUE SUNGAI PINANG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082004",
+        "tps": "1112082004002",
+        "url": "11\/1112\/111208\/1112082004\/1112082004002.json",
+        "nama": "TPS 002, ALUE SUNGAI PINANG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082004",
+        "tps": "1112082004003",
+        "url": "11\/1112\/111208\/1112082004\/1112082004003.json",
+        "nama": "TPS 003, ALUE SUNGAI PINANG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082004",
+        "tps": "1112082004004",
+        "url": "11\/1112\/111208\/1112082004\/1112082004004.json",
+        "nama": "TPS 004, ALUE SUNGAI PINANG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082004",
+        "tps": "1112082004005",
+        "url": "11\/1112\/111208\/1112082004\/1112082004005.json",
+        "nama": "TPS 005, ALUE SUNGAI PINANG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082007",
+        "tps": "1112082007001",
+        "url": "11\/1112\/111208\/1112082007\/1112082007001.json",
+        "nama": "TPS 001, ASOE NANGGROE, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082001",
+        "tps": "1112082001001",
+        "url": "11\/1112\/111208\/1112082001\/1112082001001.json",
+        "nama": "TPS 001, BARU, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082001",
+        "tps": "1112082001002",
+        "url": "11\/1112\/111208\/1112082001\/1112082001002.json",
+        "nama": "TPS 002, BARU, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082005",
+        "tps": "1112082005001",
+        "url": "11\/1112\/111208\/1112082005\/1112082005001.json",
+        "nama": "TPS 001, COT MANE, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082005",
+        "tps": "1112082005002",
+        "url": "11\/1112\/111208\/1112082005\/1112082005002.json",
+        "nama": "TPS 002, COT MANE, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082005",
+        "tps": "1112082005003",
+        "url": "11\/1112\/111208\/1112082005\/1112082005003.json",
+        "nama": "TPS 003, COT MANE, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082005",
+        "tps": "1112082005004",
+        "url": "11\/1112\/111208\/1112082005\/1112082005004.json",
+        "nama": "TPS 004, COT MANE, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082009",
+        "tps": "1112082009001",
+        "url": "11\/1112\/111208\/1112082009\/1112082009001.json",
+        "nama": "TPS 001, IKUE LHUNG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082009",
+        "tps": "1112082009002",
+        "url": "11\/1112\/111208\/1112082009\/1112082009002.json",
+        "nama": "TPS 002, IKUE LHUNG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082009",
+        "tps": "1112082009003",
+        "url": "11\/1112\/111208\/1112082009\/1112082009003.json",
+        "nama": "TPS 003, IKUE LHUNG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082011",
+        "tps": "1112082011001",
+        "url": "11\/1112\/111208\/1112082011\/1112082011001.json",
+        "nama": "TPS 001, JEUMPA BARAT, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082011",
+        "tps": "1112082011002",
+        "url": "11\/1112\/111208\/1112082011\/1112082011002.json",
+        "nama": "TPS 002, JEUMPA BARAT, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082011",
+        "tps": "1112082011003",
+        "url": "11\/1112\/111208\/1112082011\/1112082011003.json",
+        "nama": "TPS 003, JEUMPA BARAT, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082003",
+        "tps": "1112082003001",
+        "url": "11\/1112\/111208\/1112082003\/1112082003001.json",
+        "nama": "TPS 001, KUTA JEUMPA, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082003",
+        "tps": "1112082003002",
+        "url": "11\/1112\/111208\/1112082003\/1112082003002.json",
+        "nama": "TPS 002, KUTA JEUMPA, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082003",
+        "tps": "1112082003003",
+        "url": "11\/1112\/111208\/1112082003\/1112082003003.json",
+        "nama": "TPS 003, KUTA JEUMPA, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082010",
+        "tps": "1112082010001",
+        "url": "11\/1112\/111208\/1112082010\/1112082010001.json",
+        "nama": "TPS 001, KUTA MAKMUR, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082010",
+        "tps": "1112082010002",
+        "url": "11\/1112\/111208\/1112082010\/1112082010002.json",
+        "nama": "TPS 002, KUTA MAKMUR, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082010",
+        "tps": "1112082010003",
+        "url": "11\/1112\/111208\/1112082010\/1112082010003.json",
+        "nama": "TPS 003, KUTA MAKMUR, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082006",
+        "tps": "1112082006001",
+        "url": "11\/1112\/111208\/1112082006\/1112082006001.json",
+        "nama": "TPS 001, LADANG NEUBOK, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082006",
+        "tps": "1112082006002",
+        "url": "11\/1112\/111208\/1112082006\/1112082006002.json",
+        "nama": "TPS 002, LADANG NEUBOK, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082006",
+        "tps": "1112082006003",
+        "url": "11\/1112\/111208\/1112082006\/1112082006003.json",
+        "nama": "TPS 003, LADANG NEUBOK, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082008",
+        "tps": "1112082008001",
+        "url": "11\/1112\/111208\/1112082008\/1112082008001.json",
+        "nama": "TPS 001, PADANG GEULUMPANG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111208",
+        "desa": "1112082008",
+        "tps": "1112082008002",
+        "url": "11\/1112\/111208\/1112082008\/1112082008002.json",
+        "nama": "TPS 002, PADANG GEULUMPANG, JEUMPA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052007",
+        "tps": "1112052007001",
+        "url": "11\/1112\/111205\/1112052007\/1112052007001.json",
+        "nama": "TPS 001, ALUE PADEE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052007",
+        "tps": "1112052007002",
+        "url": "11\/1112\/111205\/1112052007\/1112052007002.json",
+        "nama": "TPS 002, ALUE PADEE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052007",
+        "tps": "1112052007003",
+        "url": "11\/1112\/111205\/1112052007\/1112052007003.json",
+        "nama": "TPS 003, ALUE PADEE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052007",
+        "tps": "1112052007004",
+        "url": "11\/1112\/111205\/1112052007\/1112052007004.json",
+        "nama": "TPS 004, ALUE PADEE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052014",
+        "tps": "1112052014001",
+        "url": "11\/1112\/111205\/1112052014\/1112052014001.json",
+        "nama": "TPS 001, ALUE PISANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052014",
+        "tps": "1112052014002",
+        "url": "11\/1112\/111205\/1112052014\/1112052014002.json",
+        "nama": "TPS 002, ALUE PISANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052014",
+        "tps": "1112052014003",
+        "url": "11\/1112\/111205\/1112052014\/1112052014003.json",
+        "nama": "TPS 003, ALUE PISANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052005",
+        "tps": "1112052005001",
+        "url": "11\/1112\/111205\/1112052005\/1112052005001.json",
+        "nama": "TPS 001, BLANG MAKMUR, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052005",
+        "tps": "1112052005002",
+        "url": "11\/1112\/111205\/1112052005\/1112052005002.json",
+        "nama": "TPS 002, BLANG MAKMUR, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052005",
+        "tps": "1112052005003",
+        "url": "11\/1112\/111205\/1112052005\/1112052005003.json",
+        "nama": "TPS 003, BLANG MAKMUR, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052005",
+        "tps": "1112052005004",
+        "url": "11\/1112\/111205\/1112052005\/1112052005004.json",
+        "nama": "TPS 004, BLANG MAKMUR, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052012",
+        "tps": "1112052012001",
+        "url": "11\/1112\/111205\/1112052012\/1112052012001.json",
+        "nama": "TPS 001, BLANG PANYANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052012",
+        "tps": "1112052012002",
+        "url": "11\/1112\/111205\/1112052012\/1112052012002.json",
+        "nama": "TPS 002, BLANG PANYANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052019",
+        "tps": "1112052019001",
+        "url": "11\/1112\/111205\/1112052019\/1112052019001.json",
+        "nama": "TPS 001, DRIEN BERUMBANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052019",
+        "tps": "1112052019002",
+        "url": "11\/1112\/111205\/1112052019\/1112052019002.json",
+        "nama": "TPS 002, DRIEN BERUMBANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052019",
+        "tps": "1112052019003",
+        "url": "11\/1112\/111205\/1112052019\/1112052019003.json",
+        "nama": "TPS 003, DRIEN BERUMBANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052003",
+        "tps": "1112052003001",
+        "url": "11\/1112\/111205\/1112052003\/1112052003001.json",
+        "nama": "TPS 001, GEULANGGANG GAJAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052003",
+        "tps": "1112052003002",
+        "url": "11\/1112\/111205\/1112052003\/1112052003002.json",
+        "nama": "TPS 002, GEULANGGANG GAJAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052003",
+        "tps": "1112052003003",
+        "url": "11\/1112\/111205\/1112052003\/1112052003003.json",
+        "nama": "TPS 003, GEULANGGANG GAJAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052003",
+        "tps": "1112052003004",
+        "url": "11\/1112\/111205\/1112052003\/1112052003004.json",
+        "nama": "TPS 004, GEULANGGANG GAJAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052016",
+        "tps": "1112052016001",
+        "url": "11\/1112\/111205\/1112052016\/1112052016001.json",
+        "nama": "TPS 001, IE MAMEH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052016",
+        "tps": "1112052016002",
+        "url": "11\/1112\/111205\/1112052016\/1112052016002.json",
+        "nama": "TPS 002, IE MAMEH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052016",
+        "tps": "1112052016003",
+        "url": "11\/1112\/111205\/1112052016\/1112052016003.json",
+        "nama": "TPS 003, IE MAMEH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052011",
+        "tps": "1112052011001",
+        "url": "11\/1112\/111205\/1112052011\/1112052011001.json",
+        "nama": "TPS 001, KAMPUNG TENGAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052011",
+        "tps": "1112052011002",
+        "url": "11\/1112\/111205\/1112052011\/1112052011002.json",
+        "nama": "TPS 002, KAMPUNG TENGAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052011",
+        "tps": "1112052011003",
+        "url": "11\/1112\/111205\/1112052011\/1112052011003.json",
+        "nama": "TPS 003, KAMPUNG TENGAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052011",
+        "tps": "1112052011004",
+        "url": "11\/1112\/111205\/1112052011\/1112052011004.json",
+        "nama": "TPS 004, KAMPUNG TENGAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052017",
+        "tps": "1112052017001",
+        "url": "11\/1112\/111205\/1112052017\/1112052017001.json",
+        "nama": "TPS 001, KEUDE BARO, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052017",
+        "tps": "1112052017002",
+        "url": "11\/1112\/111205\/1112052017\/1112052017002.json",
+        "nama": "TPS 002, KEUDE BARO, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052001",
+        "tps": "1112052001001",
+        "url": "11\/1112\/111205\/1112052001\/1112052001001.json",
+        "nama": "TPS 001, KOTA BAHAGIA, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052001",
+        "tps": "1112052001002",
+        "url": "11\/1112\/111205\/1112052001\/1112052001002.json",
+        "nama": "TPS 002, KOTA BAHAGIA, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052001",
+        "tps": "1112052001003",
+        "url": "11\/1112\/111205\/1112052001\/1112052001003.json",
+        "nama": "TPS 003, KOTA BAHAGIA, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052013",
+        "tps": "1112052013001",
+        "url": "11\/1112\/111205\/1112052013\/1112052013001.json",
+        "nama": "TPS 001, KRUENG BATEE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052013",
+        "tps": "1112052013002",
+        "url": "11\/1112\/111205\/1112052013\/1112052013002.json",
+        "nama": "TPS 002, KRUENG BATEE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052013",
+        "tps": "1112052013003",
+        "url": "11\/1112\/111205\/1112052013\/1112052013003.json",
+        "nama": "TPS 003, KRUENG BATEE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052013",
+        "tps": "1112052013004",
+        "url": "11\/1112\/111205\/1112052013\/1112052013004.json",
+        "nama": "TPS 004, KRUENG BATEE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052021",
+        "tps": "1112052021001",
+        "url": "11\/1112\/111205\/1112052021\/1112052021001.json",
+        "nama": "TPS 001, KRUENG PANTO, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052021",
+        "tps": "1112052021002",
+        "url": "11\/1112\/111205\/1112052021\/1112052021002.json",
+        "nama": "TPS 002, KRUENG PANTO, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052021",
+        "tps": "1112052021003",
+        "url": "11\/1112\/111205\/1112052021\/1112052021003.json",
+        "nama": "TPS 003, KRUENG PANTO, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052004",
+        "tps": "1112052004001",
+        "url": "11\/1112\/111205\/1112052004\/1112052004001.json",
+        "nama": "TPS 001, KUALA TERUBUE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052004",
+        "tps": "1112052004002",
+        "url": "11\/1112\/111205\/1112052004\/1112052004002.json",
+        "nama": "TPS 002, KUALA TERUBUE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052004",
+        "tps": "1112052004003",
+        "url": "11\/1112\/111205\/1112052004\/1112052004003.json",
+        "nama": "TPS 003, KUALA TERUBUE, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052018",
+        "tps": "1112052018001",
+        "url": "11\/1112\/111205\/1112052018\/1112052018001.json",
+        "nama": "TPS 001, LAMA TUHA, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052018",
+        "tps": "1112052018002",
+        "url": "11\/1112\/111205\/1112052018\/1112052018002.json",
+        "nama": "TPS 002, LAMA TUHA, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052015",
+        "tps": "1112052015001",
+        "url": "11\/1112\/111205\/1112052015\/1112052015001.json",
+        "nama": "TPS 001, LHOK GAJAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052015",
+        "tps": "1112052015002",
+        "url": "11\/1112\/111205\/1112052015\/1112052015002.json",
+        "nama": "TPS 002, LHOK GAJAH, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052009",
+        "tps": "1112052009001",
+        "url": "11\/1112\/111205\/1112052009\/1112052009001.json",
+        "nama": "TPS 001, LHUNG GEULUMPANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052008",
+        "tps": "1112052008001",
+        "url": "11\/1112\/111205\/1112052008\/1112052008001.json",
+        "nama": "TPS 001, MUKA BLANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052008",
+        "tps": "1112052008002",
+        "url": "11\/1112\/111205\/1112052008\/1112052008002.json",
+        "nama": "TPS 002, MUKA BLANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052010",
+        "tps": "1112052010001",
+        "url": "11\/1112\/111205\/1112052010\/1112052010001.json",
+        "nama": "TPS 001, PADANG SIKABU, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052010",
+        "tps": "1112052010002",
+        "url": "11\/1112\/111205\/1112052010\/1112052010002.json",
+        "nama": "TPS 002, PADANG SIKABU, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052010",
+        "tps": "1112052010003",
+        "url": "11\/1112\/111205\/1112052010\/1112052010003.json",
+        "nama": "TPS 003, PADANG SIKABU, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052010",
+        "tps": "1112052010004",
+        "url": "11\/1112\/111205\/1112052010\/1112052010004.json",
+        "nama": "TPS 004, PADANG SIKABU, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052006",
+        "tps": "1112052006001",
+        "url": "11\/1112\/111205\/1112052006\/1112052006001.json",
+        "nama": "TPS 001, PANTO CUT, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052006",
+        "tps": "1112052006002",
+        "url": "11\/1112\/111205\/1112052006\/1112052006002.json",
+        "nama": "TPS 002, PANTO CUT, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052006",
+        "tps": "1112052006003",
+        "url": "11\/1112\/111205\/1112052006\/1112052006003.json",
+        "nama": "TPS 003, PANTO CUT, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052002",
+        "tps": "1112052002001",
+        "url": "11\/1112\/111205\/1112052002\/1112052002001.json",
+        "nama": "TPS 001, PASAR KOTA BAHAGIA, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052002",
+        "tps": "1112052002002",
+        "url": "11\/1112\/111205\/1112052002\/1112052002002.json",
+        "nama": "TPS 002, PASAR KOTA BAHAGIA, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052002",
+        "tps": "1112052002003",
+        "url": "11\/1112\/111205\/1112052002\/1112052002003.json",
+        "nama": "TPS 003, PASAR KOTA BAHAGIA, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052002",
+        "tps": "1112052002004",
+        "url": "11\/1112\/111205\/1112052002\/1112052002004.json",
+        "nama": "TPS 004, PASAR KOTA BAHAGIA, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052020",
+        "tps": "1112052020001",
+        "url": "11\/1112\/111205\/1112052020\/1112052020001.json",
+        "nama": "TPS 001, RUMOH PANYANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052020",
+        "tps": "1112052020002",
+        "url": "11\/1112\/111205\/1112052020\/1112052020002.json",
+        "nama": "TPS 002, RUMOH PANYANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111205",
+        "desa": "1112052020",
+        "tps": "1112052020003",
+        "url": "11\/1112\/111205\/1112052020\/1112052020003.json",
+        "nama": "TPS 003, RUMOH PANYANG, KUALA BATEE, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092010",
+        "tps": "1112092010001",
+        "url": "11\/1112\/111209\/1112092010\/1112092010001.json",
+        "nama": "TPS 001, ALUE RAMBOT, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092010",
+        "tps": "1112092010002",
+        "url": "11\/1112\/111209\/1112092010\/1112092010002.json",
+        "nama": "TPS 002, ALUE RAMBOT, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092010",
+        "tps": "1112092010003",
+        "url": "11\/1112\/111209\/1112092010\/1112092010003.json",
+        "nama": "TPS 003, ALUE RAMBOT, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092003",
+        "tps": "1112092003001",
+        "url": "11\/1112\/111209\/1112092003\/1112092003001.json",
+        "nama": "TPS 001, COT BAK-U, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092003",
+        "tps": "1112092003002",
+        "url": "11\/1112\/111209\/1112092003\/1112092003002.json",
+        "nama": "TPS 002, COT BAK-U, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092003",
+        "tps": "1112092003003",
+        "url": "11\/1112\/111209\/1112092003\/1112092003003.json",
+        "nama": "TPS 003, COT BAK-U, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092006",
+        "tps": "1112092006001",
+        "url": "11\/1112\/111209\/1112092006\/1112092006001.json",
+        "nama": "TPS 001, GEULANGGANG BATEE, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092006",
+        "tps": "1112092006002",
+        "url": "11\/1112\/111209\/1112092006\/1112092006002.json",
+        "nama": "TPS 002, GEULANGGANG BATEE, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092014",
+        "tps": "1112092014001",
+        "url": "11\/1112\/111209\/1112092014\/1112092014001.json",
+        "nama": "TPS 001, KAYEE ACEH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092014",
+        "tps": "1112092014002",
+        "url": "11\/1112\/111209\/1112092014\/1112092014002.json",
+        "nama": "TPS 002, KAYEE ACEH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092014",
+        "tps": "1112092014003",
+        "url": "11\/1112\/111209\/1112092014\/1112092014003.json",
+        "nama": "TPS 003, KAYEE ACEH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092007",
+        "tps": "1112092007001",
+        "url": "11\/1112\/111209\/1112092007\/1112092007001.json",
+        "nama": "TPS 001, KUTA PAYA, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092011",
+        "tps": "1112092011001",
+        "url": "11\/1112\/111209\/1112092011\/1112092011001.json",
+        "nama": "TPS 001, LADANG TUHA I, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092011",
+        "tps": "1112092011002",
+        "url": "11\/1112\/111209\/1112092011\/1112092011002.json",
+        "nama": "TPS 002, LADANG TUHA I, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092011",
+        "tps": "1112092011003",
+        "url": "11\/1112\/111209\/1112092011\/1112092011003.json",
+        "nama": "TPS 003, LADANG TUHA I, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092012",
+        "tps": "1112092012001",
+        "url": "11\/1112\/111209\/1112092012\/1112092012001.json",
+        "nama": "TPS 001, LADANG TUHA II, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092012",
+        "tps": "1112092012002",
+        "url": "11\/1112\/111209\/1112092012\/1112092012002.json",
+        "nama": "TPS 002, LADANG TUHA II, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092012",
+        "tps": "1112092012003",
+        "url": "11\/1112\/111209\/1112092012\/1112092012003.json",
+        "nama": "TPS 003, LADANG TUHA II, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092004",
+        "tps": "1112092004001",
+        "url": "11\/1112\/111209\/1112092004\/1112092004001.json",
+        "nama": "TPS 001, MEUNASAH SUKON, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092004",
+        "tps": "1112092004002",
+        "url": "11\/1112\/111209\/1112092004\/1112092004002.json",
+        "nama": "TPS 002, MEUNASAH SUKON, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092005",
+        "tps": "1112092005001",
+        "url": "11\/1112\/111209\/1112092005\/1112092005001.json",
+        "nama": "TPS 001, MEUNASAH TENGAH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092005",
+        "tps": "1112092005002",
+        "url": "11\/1112\/111209\/1112092005\/1112092005002.json",
+        "nama": "TPS 002, MEUNASAH TENGAH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092005",
+        "tps": "1112092005003",
+        "url": "11\/1112\/111209\/1112092005\/1112092005003.json",
+        "nama": "TPS 003, MEUNASAH TENGAH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092001",
+        "tps": "1112092001001",
+        "url": "11\/1112\/111209\/1112092001\/1112092001001.json",
+        "nama": "TPS 001, MEURANDEH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092001",
+        "tps": "1112092001002",
+        "url": "11\/1112\/111209\/1112092001\/1112092001002.json",
+        "nama": "TPS 002, MEURANDEH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092001",
+        "tps": "1112092001003",
+        "url": "11\/1112\/111209\/1112092001\/1112092001003.json",
+        "nama": "TPS 003, MEURANDEH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092009",
+        "tps": "1112092009001",
+        "url": "11\/1112\/111209\/1112092009\/1112092009001.json",
+        "nama": "TPS 001, PADANG KEULELE, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092009",
+        "tps": "1112092009002",
+        "url": "11\/1112\/111209\/1112092009\/1112092009002.json",
+        "nama": "TPS 002, PADANG KEULELE, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092002",
+        "tps": "1112092002001",
+        "url": "11\/1112\/111209\/1112092002\/1112092002001.json",
+        "nama": "TPS 001, SUKADAMAI, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092002",
+        "tps": "1112092002002",
+        "url": "11\/1112\/111209\/1112092002\/1112092002002.json",
+        "nama": "TPS 002, SUKADAMAI, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092002",
+        "tps": "1112092002003",
+        "url": "11\/1112\/111209\/1112092002\/1112092002003.json",
+        "nama": "TPS 003, SUKADAMAI, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092013",
+        "tps": "1112092013001",
+        "url": "11\/1112\/111209\/1112092013\/1112092013001.json",
+        "nama": "TPS 001, TOKOH II, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092013",
+        "tps": "1112092013002",
+        "url": "11\/1112\/111209\/1112092013\/1112092013002.json",
+        "nama": "TPS 002, TOKOH II, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092008",
+        "tps": "1112092008001",
+        "url": "11\/1112\/111209\/1112092008\/1112092008001.json",
+        "nama": "TPS 001, UJUNG TANAH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111209",
+        "desa": "1112092008",
+        "tps": "1112092008002",
+        "url": "11\/1112\/111209\/1112092008\/1112092008002.json",
+        "nama": "TPS 002, UJUNG TANAH, LEMBAH SABIL, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032024",
+        "tps": "1112032024001",
+        "url": "11\/1112\/111203\/1112032024\/1112032024001.json",
+        "nama": "TPS 001, BLANG MANGGENG, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032024",
+        "tps": "1112032024002",
+        "url": "11\/1112\/111203\/1112032024\/1112032024002.json",
+        "nama": "TPS 002, BLANG MANGGENG, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032001",
+        "tps": "1112032001001",
+        "url": "11\/1112\/111203\/1112032001\/1112032001001.json",
+        "nama": "TPS 001, KEDAI, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032001",
+        "tps": "1112032001002",
+        "url": "11\/1112\/111203\/1112032001\/1112032001002.json",
+        "nama": "TPS 002, KEDAI, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032001",
+        "tps": "1112032001003",
+        "url": "11\/1112\/111203\/1112032001\/1112032001003.json",
+        "nama": "TPS 003, KEDAI, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032009",
+        "tps": "1112032009001",
+        "url": "11\/1112\/111203\/1112032009\/1112032009001.json",
+        "nama": "TPS 001, LADANG PANAH, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032009",
+        "tps": "1112032009002",
+        "url": "11\/1112\/111203\/1112032009\/1112032009002.json",
+        "nama": "TPS 002, LADANG PANAH, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032027",
+        "tps": "1112032027001",
+        "url": "11\/1112\/111203\/1112032027\/1112032027001.json",
+        "nama": "TPS 001, LHOK PAWOH, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032027",
+        "tps": "1112032027002",
+        "url": "11\/1112\/111203\/1112032027\/1112032027002.json",
+        "nama": "TPS 002, LHOK PAWOH, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032027",
+        "tps": "1112032027003",
+        "url": "11\/1112\/111203\/1112032027\/1112032027003.json",
+        "nama": "TPS 003, LHOK PAWOH, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032007",
+        "tps": "1112032007001",
+        "url": "11\/1112\/111203\/1112032007\/1112032007001.json",
+        "nama": "TPS 001, LHOK PUNTOY, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032022",
+        "tps": "1112032022001",
+        "url": "11\/1112\/111203\/1112032022\/1112032022001.json",
+        "nama": "TPS 001, LHUENG BARO, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032022",
+        "tps": "1112032022002",
+        "url": "11\/1112\/111203\/1112032022\/1112032022002.json",
+        "nama": "TPS 002, LHUENG BARO, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032002",
+        "tps": "1112032002001",
+        "url": "11\/1112\/111203\/1112032002\/1112032002001.json",
+        "nama": "TPS 001, PADANG, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032002",
+        "tps": "1112032002002",
+        "url": "11\/1112\/111203\/1112032002\/1112032002002.json",
+        "nama": "TPS 002, PADANG, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032002",
+        "tps": "1112032002003",
+        "url": "11\/1112\/111203\/1112032002\/1112032002003.json",
+        "nama": "TPS 003, PADANG, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032031",
+        "tps": "1112032031001",
+        "url": "11\/1112\/111203\/1112032031\/1112032031001.json",
+        "nama": "TPS 001, PANTE CERMIN, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032031",
+        "tps": "1112032031002",
+        "url": "11\/1112\/111203\/1112032031\/1112032031002.json",
+        "nama": "TPS 002, PANTE CERMIN, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032031",
+        "tps": "1112032031003",
+        "url": "11\/1112\/111203\/1112032031\/1112032031003.json",
+        "nama": "TPS 003, PANTE CERMIN, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032029",
+        "tps": "1112032029001",
+        "url": "11\/1112\/111203\/1112032029\/1112032029001.json",
+        "nama": "TPS 001, PANTE PIRAK, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032029",
+        "tps": "1112032029002",
+        "url": "11\/1112\/111203\/1112032029\/1112032029002.json",
+        "nama": "TPS 002, PANTE PIRAK, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032029",
+        "tps": "1112032029003",
+        "url": "11\/1112\/111203\/1112032029\/1112032029003.json",
+        "nama": "TPS 003, PANTE PIRAK, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032029",
+        "tps": "1112032029004",
+        "url": "11\/1112\/111203\/1112032029\/1112032029004.json",
+        "nama": "TPS 004, PANTE PIRAK, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032025",
+        "tps": "1112032025001",
+        "url": "11\/1112\/111203\/1112032025\/1112032025001.json",
+        "nama": "TPS 001, PANTE RAJA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032025",
+        "tps": "1112032025002",
+        "url": "11\/1112\/111203\/1112032025\/1112032025002.json",
+        "nama": "TPS 002, PANTE RAJA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032011",
+        "tps": "1112032011001",
+        "url": "11\/1112\/111203\/1112032011\/1112032011001.json",
+        "nama": "TPS 001, PANTON MAKMUR, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032011",
+        "tps": "1112032011002",
+        "url": "11\/1112\/111203\/1112032011\/1112032011002.json",
+        "nama": "TPS 002, PANTON MAKMUR, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032005",
+        "tps": "1112032005001",
+        "url": "11\/1112\/111203\/1112032005\/1112032005001.json",
+        "nama": "TPS 001, PAYA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032005",
+        "tps": "1112032005002",
+        "url": "11\/1112\/111203\/1112032005\/1112032005002.json",
+        "nama": "TPS 002, PAYA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032010",
+        "tps": "1112032010001",
+        "url": "11\/1112\/111203\/1112032010\/1112032010001.json",
+        "nama": "TPS 001, PUSU INGIN JAYA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032010",
+        "tps": "1112032010002",
+        "url": "11\/1112\/111203\/1112032010\/1112032010002.json",
+        "nama": "TPS 002, PUSU INGIN JAYA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032010",
+        "tps": "1112032010003",
+        "url": "11\/1112\/111203\/1112032010\/1112032010003.json",
+        "nama": "TPS 003, PUSU INGIN JAYA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032026",
+        "tps": "1112032026001",
+        "url": "11\/1112\/111203\/1112032026\/1112032026001.json",
+        "nama": "TPS 001, SEJAHTERA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032026",
+        "tps": "1112032026002",
+        "url": "11\/1112\/111203\/1112032026\/1112032026002.json",
+        "nama": "TPS 002, SEJAHTERA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032026",
+        "tps": "1112032026003",
+        "url": "11\/1112\/111203\/1112032026\/1112032026003.json",
+        "nama": "TPS 003, SEJAHTERA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032026",
+        "tps": "1112032026004",
+        "url": "11\/1112\/111203\/1112032026\/1112032026004.json",
+        "nama": "TPS 004, SEJAHTERA, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032006",
+        "tps": "1112032006001",
+        "url": "11\/1112\/111203\/1112032006\/1112032006001.json",
+        "nama": "TPS 001, SEUNEULOP, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032006",
+        "tps": "1112032006002",
+        "url": "11\/1112\/111203\/1112032006\/1112032006002.json",
+        "nama": "TPS 002, SEUNEULOP, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032006",
+        "tps": "1112032006003",
+        "url": "11\/1112\/111203\/1112032006\/1112032006003.json",
+        "nama": "TPS 003, SEUNEULOP, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032006",
+        "tps": "1112032006004",
+        "url": "11\/1112\/111203\/1112032006\/1112032006004.json",
+        "nama": "TPS 004, SEUNEULOP, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032003",
+        "tps": "1112032003001",
+        "url": "11\/1112\/111203\/1112032003\/1112032003001.json",
+        "nama": "TPS 001, TENGAH, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032003",
+        "tps": "1112032003002",
+        "url": "11\/1112\/111203\/1112032003\/1112032003002.json",
+        "nama": "TPS 002, TENGAH, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032023",
+        "tps": "1112032023001",
+        "url": "11\/1112\/111203\/1112032023\/1112032023001.json",
+        "nama": "TPS 001, TOKOH, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032023",
+        "tps": "1112032023002",
+        "url": "11\/1112\/111203\/1112032023\/1112032023002.json",
+        "nama": "TPS 002, TOKOH, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032030",
+        "tps": "1112032030001",
+        "url": "11\/1112\/111203\/1112032030\/1112032030001.json",
+        "nama": "TPS 001, UJUNG PADANG, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032030",
+        "tps": "1112032030002",
+        "url": "11\/1112\/111203\/1112032030\/1112032030002.json",
+        "nama": "TPS 002, UJUNG PADANG, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111203",
+        "desa": "1112032030",
+        "tps": "1112032030003",
+        "url": "11\/1112\/111203\/1112032030\/1112032030003.json",
+        "nama": "TPS 003, UJUNG PADANG, MANGGENG, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072005",
+        "tps": "1112072005001",
+        "url": "11\/1112\/111207\/1112072005\/1112072005001.json",
+        "nama": "TPS 001, ALUE DAMA, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072005",
+        "tps": "1112072005002",
+        "url": "11\/1112\/111207\/1112072005\/1112072005002.json",
+        "nama": "TPS 002, ALUE DAMA, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072005",
+        "tps": "1112072005003",
+        "url": "11\/1112\/111207\/1112072005\/1112072005003.json",
+        "nama": "TPS 003, ALUE DAMA, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072005",
+        "tps": "1112072005004",
+        "url": "11\/1112\/111207\/1112072005\/1112072005004.json",
+        "nama": "TPS 004, ALUE DAMA, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072005",
+        "tps": "1112072005901",
+        "url": "11\/1112\/111207\/1112072005\/1112072005901.json",
+        "nama": "TPS 901, ALUE DAMA, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072009",
+        "tps": "1112072009001",
+        "url": "11\/1112\/111207\/1112072009\/1112072009001.json",
+        "nama": "TPS 001, CINTA MAKMUR, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072009",
+        "tps": "1112072009002",
+        "url": "11\/1112\/111207\/1112072009\/1112072009002.json",
+        "nama": "TPS 002, CINTA MAKMUR, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072010",
+        "tps": "1112072010001",
+        "url": "11\/1112\/111207\/1112072010\/1112072010001.json",
+        "nama": "TPS 001, KUTA MURNI, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072010",
+        "tps": "1112072010002",
+        "url": "11\/1112\/111207\/1112072010\/1112072010002.json",
+        "nama": "TPS 002, KUTA MURNI, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072001",
+        "tps": "1112072001001",
+        "url": "11\/1112\/111207\/1112072001\/1112072001001.json",
+        "nama": "TPS 001, LHANG, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072001",
+        "tps": "1112072001002",
+        "url": "11\/1112\/111207\/1112072001\/1112072001002.json",
+        "nama": "TPS 002, LHANG, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072001",
+        "tps": "1112072001003",
+        "url": "11\/1112\/111207\/1112072001\/1112072001003.json",
+        "nama": "TPS 003, LHANG, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072001",
+        "tps": "1112072001004",
+        "url": "11\/1112\/111207\/1112072001\/1112072001004.json",
+        "nama": "TPS 004, LHANG, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072008",
+        "tps": "1112072008001",
+        "url": "11\/1112\/111207\/1112072008\/1112072008001.json",
+        "nama": "TPS 001, MON MAMEH, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072003",
+        "tps": "1112072003001",
+        "url": "11\/1112\/111207\/1112072003\/1112072003001.json",
+        "nama": "TPS 001, PISANG, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072003",
+        "tps": "1112072003002",
+        "url": "11\/1112\/111207\/1112072003\/1112072003002.json",
+        "nama": "TPS 002, PISANG, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072002",
+        "tps": "1112072002001",
+        "url": "11\/1112\/111207\/1112072002\/1112072002001.json",
+        "nama": "TPS 001, RAMBONG, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072002",
+        "tps": "1112072002002",
+        "url": "11\/1112\/111207\/1112072002\/1112072002002.json",
+        "nama": "TPS 002, RAMBONG, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072002",
+        "tps": "1112072002003",
+        "url": "11\/1112\/111207\/1112072002\/1112072002003.json",
+        "nama": "TPS 003, RAMBONG, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072007",
+        "tps": "1112072007001",
+        "url": "11\/1112\/111207\/1112072007\/1112072007001.json",
+        "nama": "TPS 001, TANGAN-TANGAN CUT, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072007",
+        "tps": "1112072007002",
+        "url": "11\/1112\/111207\/1112072007\/1112072007002.json",
+        "nama": "TPS 002, TANGAN-TANGAN CUT, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072007",
+        "tps": "1112072007003",
+        "url": "11\/1112\/111207\/1112072007\/1112072007003.json",
+        "nama": "TPS 003, TANGAN-TANGAN CUT, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072007",
+        "tps": "1112072007004",
+        "url": "11\/1112\/111207\/1112072007\/1112072007004.json",
+        "nama": "TPS 004, TANGAN-TANGAN CUT, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072004",
+        "tps": "1112072004001",
+        "url": "11\/1112\/111207\/1112072004\/1112072004001.json",
+        "nama": "TPS 001, UJUNG TANAH, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072004",
+        "tps": "1112072004002",
+        "url": "11\/1112\/111207\/1112072004\/1112072004002.json",
+        "nama": "TPS 002, UJUNG TANAH, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111207",
+        "desa": "1112072004",
+        "tps": "1112072004003",
+        "url": "11\/1112\/111207\/1112072004\/1112072004003.json",
+        "nama": "TPS 003, UJUNG TANAH, SETIA, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042010",
+        "tps": "1112042010001",
+        "url": "11\/1112\/111204\/1112042010\/1112042010001.json",
+        "nama": "TPS 001, BAHARU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042003",
+        "tps": "1112042003001",
+        "url": "11\/1112\/111204\/1112042003\/1112042003001.json",
+        "nama": "TPS 001, BARAT, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042003",
+        "tps": "1112042003002",
+        "url": "11\/1112\/111204\/1112042003\/1112042003002.json",
+        "nama": "TPS 002, BARAT, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042023",
+        "tps": "1112042023001",
+        "url": "11\/1112\/111204\/1112042023\/1112042023001.json",
+        "nama": "TPS 001, BLANG DALAM, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042023",
+        "tps": "1112042023002",
+        "url": "11\/1112\/111204\/1112042023\/1112042023002.json",
+        "nama": "TPS 002, BLANG DALAM, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042028",
+        "tps": "1112042028001",
+        "url": "11\/1112\/111204\/1112042028\/1112042028001.json",
+        "nama": "TPS 001, COT MANCANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042028",
+        "tps": "1112042028002",
+        "url": "11\/1112\/111204\/1112042028\/1112042028002.json",
+        "nama": "TPS 002, COT MANCANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042006",
+        "tps": "1112042006001",
+        "url": "11\/1112\/111204\/1112042006\/1112042006001.json",
+        "nama": "TPS 001, DURIAN JANGEK, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042002",
+        "tps": "1112042002001",
+        "url": "11\/1112\/111204\/1112042002\/1112042002001.json",
+        "nama": "TPS 001, DURIAN RAMPAK, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042002",
+        "tps": "1112042002002",
+        "url": "11\/1112\/111204\/1112042002\/1112042002002.json",
+        "nama": "TPS 002, DURIAN RAMPAK, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042002",
+        "tps": "1112042002003",
+        "url": "11\/1112\/111204\/1112042002\/1112042002003.json",
+        "nama": "TPS 003, DURIAN RAMPAK, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042021",
+        "tps": "1112042021001",
+        "url": "11\/1112\/111204\/1112042021\/1112042021001.json",
+        "nama": "TPS 001, GADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042021",
+        "tps": "1112042021002",
+        "url": "11\/1112\/111204\/1112042021\/1112042021002.json",
+        "nama": "TPS 002, GADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042021",
+        "tps": "1112042021003",
+        "url": "11\/1112\/111204\/1112042021\/1112042021003.json",
+        "nama": "TPS 003, GADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042029",
+        "tps": "1112042029001",
+        "url": "11\/1112\/111204\/1112042029\/1112042029001.json",
+        "nama": "TPS 001, GEULIMA JAYA, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042029",
+        "tps": "1112042029002",
+        "url": "11\/1112\/111204\/1112042029\/1112042029002.json",
+        "nama": "TPS 002, GEULIMA JAYA, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042029",
+        "tps": "1112042029003",
+        "url": "11\/1112\/111204\/1112042029\/1112042029003.json",
+        "nama": "TPS 003, GEULIMA JAYA, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042017",
+        "tps": "1112042017001",
+        "url": "11\/1112\/111204\/1112042017\/1112042017001.json",
+        "nama": "TPS 001, KEDAI PALAK KERAMBIL, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042017",
+        "tps": "1112042017002",
+        "url": "11\/1112\/111204\/1112042017\/1112042017002.json",
+        "nama": "TPS 002, KEDAI PALAK KERAMBIL, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042015",
+        "tps": "1112042015001",
+        "url": "11\/1112\/111204\/1112042015\/1112042015001.json",
+        "nama": "TPS 001, KEDAI SUSOH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042019",
+        "tps": "1112042019001",
+        "url": "11\/1112\/111204\/1112042019\/1112042019001.json",
+        "nama": "TPS 001, KEPALA BANDAR, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042019",
+        "tps": "1112042019002",
+        "url": "11\/1112\/111204\/1112042019\/1112042019002.json",
+        "nama": "TPS 002, KEPALA BANDAR, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042019",
+        "tps": "1112042019003",
+        "url": "11\/1112\/111204\/1112042019\/1112042019003.json",
+        "nama": "TPS 003, KEPALA BANDAR, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042019",
+        "tps": "1112042019004",
+        "url": "11\/1112\/111204\/1112042019\/1112042019004.json",
+        "nama": "TPS 004, KEPALA BANDAR, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042019",
+        "tps": "1112042019005",
+        "url": "11\/1112\/111204\/1112042019\/1112042019005.json",
+        "nama": "TPS 005, KEPALA BANDAR, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042018",
+        "tps": "1112042018001",
+        "url": "11\/1112\/111204\/1112042018\/1112042018001.json",
+        "nama": "TPS 001, LADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042018",
+        "tps": "1112042018002",
+        "url": "11\/1112\/111204\/1112042018\/1112042018002.json",
+        "nama": "TPS 002, LADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042018",
+        "tps": "1112042018003",
+        "url": "11\/1112\/111204\/1112042018\/1112042018003.json",
+        "nama": "TPS 003, LADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042018",
+        "tps": "1112042018004",
+        "url": "11\/1112\/111204\/1112042018\/1112042018004.json",
+        "nama": "TPS 004, LADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042025",
+        "tps": "1112042025001",
+        "url": "11\/1112\/111204\/1112042025\/1112042025001.json",
+        "nama": "TPS 001, LAMPOH DRIEN, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042025",
+        "tps": "1112042025002",
+        "url": "11\/1112\/111204\/1112042025\/1112042025002.json",
+        "nama": "TPS 002, LAMPOH DRIEN, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042024",
+        "tps": "1112042024001",
+        "url": "11\/1112\/111204\/1112042024\/1112042024001.json",
+        "nama": "TPS 001, MEUNASAH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042024",
+        "tps": "1112042024002",
+        "url": "11\/1112\/111204\/1112042024\/1112042024002.json",
+        "nama": "TPS 002, MEUNASAH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042012",
+        "tps": "1112042012001",
+        "url": "11\/1112\/111204\/1112042012\/1112042012001.json",
+        "nama": "TPS 001, PADANG BARU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042012",
+        "tps": "1112042012002",
+        "url": "11\/1112\/111204\/1112042012\/1112042012002.json",
+        "nama": "TPS 002, PADANG BARU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042012",
+        "tps": "1112042012003",
+        "url": "11\/1112\/111204\/1112042012\/1112042012003.json",
+        "nama": "TPS 003, PADANG BARU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042012",
+        "tps": "1112042012004",
+        "url": "11\/1112\/111204\/1112042012\/1112042012004.json",
+        "nama": "TPS 004, PADANG BARU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042012",
+        "tps": "1112042012005",
+        "url": "11\/1112\/111204\/1112042012\/1112042012005.json",
+        "nama": "TPS 005, PADANG BARU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042012",
+        "tps": "1112042012006",
+        "url": "11\/1112\/111204\/1112042012\/1112042012006.json",
+        "nama": "TPS 006, PADANG BARU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042022",
+        "tps": "1112042022001",
+        "url": "11\/1112\/111204\/1112042022\/1112042022001.json",
+        "nama": "TPS 001, PADANG HILIR, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042022",
+        "tps": "1112042022002",
+        "url": "11\/1112\/111204\/1112042022\/1112042022002.json",
+        "nama": "TPS 002, PADANG HILIR, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042022",
+        "tps": "1112042022003",
+        "url": "11\/1112\/111204\/1112042022\/1112042022003.json",
+        "nama": "TPS 003, PADANG HILIR, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042026",
+        "tps": "1112042026001",
+        "url": "11\/1112\/111204\/1112042026\/1112042026001.json",
+        "nama": "TPS 001, PADANG PANJANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042026",
+        "tps": "1112042026002",
+        "url": "11\/1112\/111204\/1112042026\/1112042026002.json",
+        "nama": "TPS 002, PADANG PANJANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042026",
+        "tps": "1112042026003",
+        "url": "11\/1112\/111204\/1112042026\/1112042026003.json",
+        "nama": "TPS 003, PADANG PANJANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042005",
+        "tps": "1112042005001",
+        "url": "11\/1112\/111204\/1112042005\/1112042005001.json",
+        "nama": "TPS 001, PALAK HILIR, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042004",
+        "tps": "1112042004001",
+        "url": "11\/1112\/111204\/1112042004\/1112042004001.json",
+        "nama": "TPS 001, PALAK HULU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042016",
+        "tps": "1112042016001",
+        "url": "11\/1112\/111204\/1112042016\/1112042016001.json",
+        "nama": "TPS 001, PANJANG BARU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042016",
+        "tps": "1112042016002",
+        "url": "11\/1112\/111204\/1112042016\/1112042016002.json",
+        "nama": "TPS 002, PANJANG BARU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042001",
+        "tps": "1112042001001",
+        "url": "11\/1112\/111204\/1112042001\/1112042001001.json",
+        "nama": "TPS 001, PANTAI PERAK, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042001",
+        "tps": "1112042001002",
+        "url": "11\/1112\/111204\/1112042001\/1112042001002.json",
+        "nama": "TPS 002, PANTAI PERAK, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042001",
+        "tps": "1112042001003",
+        "url": "11\/1112\/111204\/1112042001\/1112042001003.json",
+        "nama": "TPS 003, PANTAI PERAK, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042011",
+        "tps": "1112042011001",
+        "url": "11\/1112\/111204\/1112042011\/1112042011001.json",
+        "nama": "TPS 001, PAWOH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042011",
+        "tps": "1112042011002",
+        "url": "11\/1112\/111204\/1112042011\/1112042011002.json",
+        "nama": "TPS 002, PAWOH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042011",
+        "tps": "1112042011003",
+        "url": "11\/1112\/111204\/1112042011\/1112042011003.json",
+        "nama": "TPS 003, PAWOH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042011",
+        "tps": "1112042011004",
+        "url": "11\/1112\/111204\/1112042011\/1112042011004.json",
+        "nama": "TPS 004, PAWOH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042008",
+        "tps": "1112042008001",
+        "url": "11\/1112\/111204\/1112042008\/1112042008001.json",
+        "nama": "TPS 001, PINANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042008",
+        "tps": "1112042008002",
+        "url": "11\/1112\/111204\/1112042008\/1112042008002.json",
+        "nama": "TPS 002, PINANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042013",
+        "tps": "1112042013001",
+        "url": "11\/1112\/111204\/1112042013\/1112042013001.json",
+        "nama": "TPS 001, PULAU KAYU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042013",
+        "tps": "1112042013002",
+        "url": "11\/1112\/111204\/1112042013\/1112042013002.json",
+        "nama": "TPS 002, PULAU KAYU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042013",
+        "tps": "1112042013003",
+        "url": "11\/1112\/111204\/1112042013\/1112042013003.json",
+        "nama": "TPS 003, PULAU KAYU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042013",
+        "tps": "1112042013004",
+        "url": "11\/1112\/111204\/1112042013\/1112042013004.json",
+        "nama": "TPS 004, PULAU KAYU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042013",
+        "tps": "1112042013005",
+        "url": "11\/1112\/111204\/1112042013\/1112042013005.json",
+        "nama": "TPS 005, PULAU KAYU, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042027",
+        "tps": "1112042027001",
+        "url": "11\/1112\/111204\/1112042027\/1112042027001.json",
+        "nama": "TPS 001, RUBEK MEUPAYONG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042027",
+        "tps": "1112042027002",
+        "url": "11\/1112\/111204\/1112042027\/1112042027002.json",
+        "nama": "TPS 002, RUBEK MEUPAYONG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042027",
+        "tps": "1112042027003",
+        "url": "11\/1112\/111204\/1112042027\/1112042027003.json",
+        "nama": "TPS 003, RUBEK MEUPAYONG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042007",
+        "tps": "1112042007001",
+        "url": "11\/1112\/111204\/1112042007\/1112042007001.json",
+        "nama": "TPS 001, RUMAH DUA LAPIS, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042009",
+        "tps": "1112042009001",
+        "url": "11\/1112\/111204\/1112042009\/1112042009001.json",
+        "nama": "TPS 001, RUMAH PANJANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042020",
+        "tps": "1112042020001",
+        "url": "11\/1112\/111204\/1112042020\/1112042020001.json",
+        "nama": "TPS 001, TANGAH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042020",
+        "tps": "1112042020002",
+        "url": "11\/1112\/111204\/1112042020\/1112042020002.json",
+        "nama": "TPS 002, TANGAH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042020",
+        "tps": "1112042020003",
+        "url": "11\/1112\/111204\/1112042020\/1112042020003.json",
+        "nama": "TPS 003, TANGAH, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042014",
+        "tps": "1112042014001",
+        "url": "11\/1112\/111204\/1112042014\/1112042014001.json",
+        "nama": "TPS 001, UJUNG PADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042014",
+        "tps": "1112042014002",
+        "url": "11\/1112\/111204\/1112042014\/1112042014002.json",
+        "nama": "TPS 002, UJUNG PADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111204",
+        "desa": "1112042014",
+        "tps": "1112042014003",
+        "url": "11\/1112\/111204\/1112042014\/1112042014003.json",
+        "nama": "TPS 003, UJUNG PADANG, SUSOH, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022001",
+        "tps": "1112022001001",
+        "url": "11\/1112\/111202\/1112022001\/1112022001001.json",
+        "nama": "TPS 001, ADAN, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022001",
+        "tps": "1112022001002",
+        "url": "11\/1112\/111202\/1112022001\/1112022001002.json",
+        "nama": "TPS 002, ADAN, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022001",
+        "tps": "1112022001003",
+        "url": "11\/1112\/111202\/1112022001\/1112022001003.json",
+        "nama": "TPS 003, ADAN, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022001",
+        "tps": "1112022001004",
+        "url": "11\/1112\/111202\/1112022001\/1112022001004.json",
+        "nama": "TPS 004, ADAN, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022001",
+        "tps": "1112022001005",
+        "url": "11\/1112\/111202\/1112022001\/1112022001005.json",
+        "nama": "TPS 005, ADAN, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022014",
+        "tps": "1112022014001",
+        "url": "11\/1112\/111202\/1112022014\/1112022014001.json",
+        "nama": "TPS 001, BINEH KRUENG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022014",
+        "tps": "1112022014002",
+        "url": "11\/1112\/111202\/1112022014\/1112022014002.json",
+        "nama": "TPS 002, BINEH KRUENG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022014",
+        "tps": "1112022014003",
+        "url": "11\/1112\/111202\/1112022014\/1112022014003.json",
+        "nama": "TPS 003, BINEH KRUENG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022006",
+        "tps": "1112022006001",
+        "url": "11\/1112\/111202\/1112022006\/1112022006001.json",
+        "nama": "TPS 001, BLANG PADANG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022006",
+        "tps": "1112022006002",
+        "url": "11\/1112\/111202\/1112022006\/1112022006002.json",
+        "nama": "TPS 002, BLANG PADANG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022006",
+        "tps": "1112022006003",
+        "url": "11\/1112\/111202\/1112022006\/1112022006003.json",
+        "nama": "TPS 003, BLANG PADANG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022016",
+        "tps": "1112022016001",
+        "url": "11\/1112\/111202\/1112022016\/1112022016001.json",
+        "nama": "TPS 001, DRIEN JALO, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022016",
+        "tps": "1112022016002",
+        "url": "11\/1112\/111202\/1112022016\/1112022016002.json",
+        "nama": "TPS 002, DRIEN JALO, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022015",
+        "tps": "1112022015001",
+        "url": "11\/1112\/111202\/1112022015\/1112022015001.json",
+        "nama": "TPS 001, DRIEN KIPAH, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022015",
+        "tps": "1112022015002",
+        "url": "11\/1112\/111202\/1112022015\/1112022015002.json",
+        "nama": "TPS 002, DRIEN KIPAH, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022004",
+        "tps": "1112022004001",
+        "url": "11\/1112\/111202\/1112022004\/1112022004001.json",
+        "nama": "TPS 001, GUNONG CUT, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022004",
+        "tps": "1112022004002",
+        "url": "11\/1112\/111202\/1112022004\/1112022004002.json",
+        "nama": "TPS 002, GUNONG CUT, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022004",
+        "tps": "1112022004003",
+        "url": "11\/1112\/111202\/1112022004\/1112022004003.json",
+        "nama": "TPS 003, GUNONG CUT, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022004",
+        "tps": "1112022004004",
+        "url": "11\/1112\/111202\/1112022004\/1112022004004.json",
+        "nama": "TPS 004, GUNONG CUT, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022020",
+        "tps": "1112022020001",
+        "url": "11\/1112\/111202\/1112022020\/1112022020001.json",
+        "nama": "TPS 001, IE LHOB, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022020",
+        "tps": "1112022020002",
+        "url": "11\/1112\/111202\/1112022020\/1112022020002.json",
+        "nama": "TPS 002, IE LHOB, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022020",
+        "tps": "1112022020003",
+        "url": "11\/1112\/111202\/1112022020\/1112022020003.json",
+        "nama": "TPS 003, IE LHOB, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022020",
+        "tps": "1112022020004",
+        "url": "11\/1112\/111202\/1112022020\/1112022020004.json",
+        "nama": "TPS 004, IE LHOB, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022019",
+        "tps": "1112022019001",
+        "url": "11\/1112\/111202\/1112022019\/1112022019001.json",
+        "nama": "TPS 001, KUTA BAK DRIEN, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022019",
+        "tps": "1112022019002",
+        "url": "11\/1112\/111202\/1112022019\/1112022019002.json",
+        "nama": "TPS 002, KUTA BAK DRIEN, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022019",
+        "tps": "1112022019003",
+        "url": "11\/1112\/111202\/1112022019\/1112022019003.json",
+        "nama": "TPS 003, KUTA BAK DRIEN, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022019",
+        "tps": "1112022019004",
+        "url": "11\/1112\/111202\/1112022019\/1112022019004.json",
+        "nama": "TPS 004, KUTA BAK DRIEN, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022003",
+        "tps": "1112022003001",
+        "url": "11\/1112\/111202\/1112022003\/1112022003001.json",
+        "nama": "TPS 001, MESJID, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022007",
+        "tps": "1112022007001",
+        "url": "11\/1112\/111202\/1112022007\/1112022007001.json",
+        "nama": "TPS 001, PADANG BAK JEUMPA, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022007",
+        "tps": "1112022007002",
+        "url": "11\/1112\/111202\/1112022007\/1112022007002.json",
+        "nama": "TPS 002, PADANG BAK JEUMPA, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022007",
+        "tps": "1112022007003",
+        "url": "11\/1112\/111202\/1112022007\/1112022007003.json",
+        "nama": "TPS 003, PADANG BAK JEUMPA, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022017",
+        "tps": "1112022017001",
+        "url": "11\/1112\/111202\/1112022017\/1112022017001.json",
+        "nama": "TPS 001, PADANG BAK JOK, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022017",
+        "tps": "1112022017002",
+        "url": "11\/1112\/111202\/1112022017\/1112022017002.json",
+        "nama": "TPS 002, PADANG BAK JOK, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022005",
+        "tps": "1112022005001",
+        "url": "11\/1112\/111202\/1112022005\/1112022005001.json",
+        "nama": "TPS 001, PADANG KAWA, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022005",
+        "tps": "1112022005002",
+        "url": "11\/1112\/111202\/1112022005\/1112022005002.json",
+        "nama": "TPS 002, PADANG KAWA, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022002",
+        "tps": "1112022002001",
+        "url": "11\/1112\/111202\/1112022002\/1112022002001.json",
+        "nama": "TPS 001, PANTE GEULUMPANG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022002",
+        "tps": "1112022002002",
+        "url": "11\/1112\/111202\/1112022002\/1112022002002.json",
+        "nama": "TPS 002, PANTE GEULUMPANG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022008",
+        "tps": "1112022008001",
+        "url": "11\/1112\/111202\/1112022008\/1112022008001.json",
+        "nama": "TPS 001, SUAK LABU, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022008",
+        "tps": "1112022008002",
+        "url": "11\/1112\/111202\/1112022008\/1112022008002.json",
+        "nama": "TPS 002, SUAK LABU, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022018",
+        "tps": "1112022018001",
+        "url": "11\/1112\/111202\/1112022018\/1112022018001.json",
+        "nama": "TPS 001, SUAK NIBONG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1112",
+        "kecamatan": "111202",
+        "desa": "1112022018",
+        "tps": "1112022018002",
+        "url": "11\/1112\/111202\/1112022018\/1112022018002.json",
+        "nama": "TPS 002, SUAK NIBONG, TANGAN-TANGAN, ACEH BARAT DAYA, ACEH"
+    }
+]

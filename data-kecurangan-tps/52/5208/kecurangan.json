@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "52",
+        "kabupaten": "5208",
+        "kecamatan": "520804",
+        "desa": "5208042001",
+        "tps": "5208042001011",
+        "nama": "TPS 011, BAYAN, BAYAN, LOMBOK UTARA, NUSA TENGGARA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/52\/5208\/520804\/5208042001\/5208042001011"
+    },
+    {
+        "provinsi": "52",
+        "kabupaten": "5208",
+        "kecamatan": "520803",
+        "desa": "5208032005",
+        "tps": "5208032005020",
+        "nama": "TPS 020, GUMANTAR, KAYANGAN, LOMBOK UTARA, NUSA TENGGARA BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/52\/5208\/520803\/5208032005\/5208032005020"
+    },
+    {
+        "provinsi": "52",
+        "kabupaten": "5208",
+        "kecamatan": "520805",
+        "desa": "5208052004",
+        "tps": "5208052004016",
+        "nama": "TPS 016, MALAKA, PEMENANG, LOMBOK UTARA, NUSA TENGGARA BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/52\/5208\/520805\/5208052004\/5208052004016"
+    }
+]

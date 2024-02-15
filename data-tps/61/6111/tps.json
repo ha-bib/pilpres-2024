@@ -1,0 +1,3404 @@
+[
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062002",
+        "tps": "6111062002001",
+        "url": "61\/6111\/611106\/6111062002\/6111062002001.json",
+        "nama": "TPS 001, BETOK JAYA, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062002",
+        "tps": "6111062002002",
+        "url": "61\/6111\/611106\/6111062002\/6111062002002.json",
+        "nama": "TPS 002, BETOK JAYA, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062002",
+        "tps": "6111062002003",
+        "url": "61\/6111\/611106\/6111062002\/6111062002003.json",
+        "nama": "TPS 003, BETOK JAYA, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062002",
+        "tps": "6111062002004",
+        "url": "61\/6111\/611106\/6111062002\/6111062002004.json",
+        "nama": "TPS 004, BETOK JAYA, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062003",
+        "tps": "6111062003001",
+        "url": "61\/6111\/611106\/6111062003\/6111062003001.json",
+        "nama": "TPS 001, PADANG, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062003",
+        "tps": "6111062003002",
+        "url": "61\/6111\/611106\/6111062003\/6111062003002.json",
+        "nama": "TPS 002, PADANG, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062003",
+        "tps": "6111062003003",
+        "url": "61\/6111\/611106\/6111062003\/6111062003003.json",
+        "nama": "TPS 003, PADANG, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062003",
+        "tps": "6111062003004",
+        "url": "61\/6111\/611106\/6111062003\/6111062003004.json",
+        "nama": "TPS 004, PADANG, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062003",
+        "tps": "6111062003005",
+        "url": "61\/6111\/611106\/6111062003\/6111062003005.json",
+        "nama": "TPS 005, PADANG, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062003",
+        "tps": "6111062003006",
+        "url": "61\/6111\/611106\/6111062003\/6111062003006.json",
+        "nama": "TPS 006, PADANG, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062001",
+        "tps": "6111062001001",
+        "url": "61\/6111\/611106\/6111062001\/6111062001001.json",
+        "nama": "TPS 001, PELAPIS, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062001",
+        "tps": "6111062001002",
+        "url": "61\/6111\/611106\/6111062001\/6111062001002.json",
+        "nama": "TPS 002, PELAPIS, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062001",
+        "tps": "6111062001003",
+        "url": "61\/6111\/611106\/6111062001\/6111062001003.json",
+        "nama": "TPS 003, PELAPIS, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611106",
+        "desa": "6111062001",
+        "tps": "6111062001004",
+        "url": "61\/6111\/611106\/6111062001\/6111062001004.json",
+        "nama": "TPS 004, PELAPIS, KEPULAUAN KARIMATA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004001",
+        "url": "61\/6111\/611104\/6111042004\/6111042004001.json",
+        "nama": "TPS 001, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004002",
+        "url": "61\/6111\/611104\/6111042004\/6111042004002.json",
+        "nama": "TPS 002, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004003",
+        "url": "61\/6111\/611104\/6111042004\/6111042004003.json",
+        "nama": "TPS 003, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004004",
+        "url": "61\/6111\/611104\/6111042004\/6111042004004.json",
+        "nama": "TPS 004, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004005",
+        "url": "61\/6111\/611104\/6111042004\/6111042004005.json",
+        "nama": "TPS 005, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004006",
+        "url": "61\/6111\/611104\/6111042004\/6111042004006.json",
+        "nama": "TPS 006, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004007",
+        "url": "61\/6111\/611104\/6111042004\/6111042004007.json",
+        "nama": "TPS 007, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004008",
+        "url": "61\/6111\/611104\/6111042004\/6111042004008.json",
+        "nama": "TPS 008, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004009",
+        "url": "61\/6111\/611104\/6111042004\/6111042004009.json",
+        "nama": "TPS 009, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004010",
+        "url": "61\/6111\/611104\/6111042004\/6111042004010.json",
+        "nama": "TPS 010, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004011",
+        "url": "61\/6111\/611104\/6111042004\/6111042004011.json",
+        "nama": "TPS 011, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042004",
+        "tps": "6111042004012",
+        "url": "61\/6111\/611104\/6111042004\/6111042004012.json",
+        "nama": "TPS 012, DUSUN BESAR, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042003",
+        "tps": "6111042003001",
+        "url": "61\/6111\/611104\/6111042003\/6111042003001.json",
+        "nama": "TPS 001, DUSUN KECIL, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042003",
+        "tps": "6111042003002",
+        "url": "61\/6111\/611104\/6111042003\/6111042003002.json",
+        "nama": "TPS 002, DUSUN KECIL, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042003",
+        "tps": "6111042003003",
+        "url": "61\/6111\/611104\/6111042003\/6111042003003.json",
+        "nama": "TPS 003, DUSUN KECIL, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042003",
+        "tps": "6111042003004",
+        "url": "61\/6111\/611104\/6111042003\/6111042003004.json",
+        "nama": "TPS 004, DUSUN KECIL, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042003",
+        "tps": "6111042003005",
+        "url": "61\/6111\/611104\/6111042003\/6111042003005.json",
+        "nama": "TPS 005, DUSUN KECIL, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042003",
+        "tps": "6111042003006",
+        "url": "61\/6111\/611104\/6111042003\/6111042003006.json",
+        "nama": "TPS 006, DUSUN KECIL, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042003",
+        "tps": "6111042003007",
+        "url": "61\/6111\/611104\/6111042003\/6111042003007.json",
+        "nama": "TPS 007, DUSUN KECIL, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042003",
+        "tps": "6111042003008",
+        "url": "61\/6111\/611104\/6111042003\/6111042003008.json",
+        "nama": "TPS 008, DUSUN KECIL, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002001",
+        "url": "61\/6111\/611104\/6111042002\/6111042002001.json",
+        "nama": "TPS 001, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002002",
+        "url": "61\/6111\/611104\/6111042002\/6111042002002.json",
+        "nama": "TPS 002, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002003",
+        "url": "61\/6111\/611104\/6111042002\/6111042002003.json",
+        "nama": "TPS 003, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002004",
+        "url": "61\/6111\/611104\/6111042002\/6111042002004.json",
+        "nama": "TPS 004, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002005",
+        "url": "61\/6111\/611104\/6111042002\/6111042002005.json",
+        "nama": "TPS 005, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002006",
+        "url": "61\/6111\/611104\/6111042002\/6111042002006.json",
+        "nama": "TPS 006, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002007",
+        "url": "61\/6111\/611104\/6111042002\/6111042002007.json",
+        "nama": "TPS 007, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002008",
+        "url": "61\/6111\/611104\/6111042002\/6111042002008.json",
+        "nama": "TPS 008, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002009",
+        "url": "61\/6111\/611104\/6111042002\/6111042002009.json",
+        "nama": "TPS 009, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002010",
+        "url": "61\/6111\/611104\/6111042002\/6111042002010.json",
+        "nama": "TPS 010, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042002",
+        "tps": "6111042002011",
+        "url": "61\/6111\/611104\/6111042002\/6111042002011.json",
+        "nama": "TPS 011, KEMBOJA, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006001",
+        "url": "61\/6111\/611104\/6111042006\/6111042006001.json",
+        "nama": "TPS 001, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006002",
+        "url": "61\/6111\/611104\/6111042006\/6111042006002.json",
+        "nama": "TPS 002, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006003",
+        "url": "61\/6111\/611104\/6111042006\/6111042006003.json",
+        "nama": "TPS 003, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006004",
+        "url": "61\/6111\/611104\/6111042006\/6111042006004.json",
+        "nama": "TPS 004, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006005",
+        "url": "61\/6111\/611104\/6111042006\/6111042006005.json",
+        "nama": "TPS 005, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006006",
+        "url": "61\/6111\/611104\/6111042006\/6111042006006.json",
+        "nama": "TPS 006, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006007",
+        "url": "61\/6111\/611104\/6111042006\/6111042006007.json",
+        "nama": "TPS 007, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006008",
+        "url": "61\/6111\/611104\/6111042006\/6111042006008.json",
+        "nama": "TPS 008, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006009",
+        "url": "61\/6111\/611104\/6111042006\/6111042006009.json",
+        "nama": "TPS 009, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006010",
+        "url": "61\/6111\/611104\/6111042006\/6111042006010.json",
+        "nama": "TPS 010, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042006",
+        "tps": "6111042006011",
+        "url": "61\/6111\/611104\/6111042006\/6111042006011.json",
+        "nama": "TPS 011, SATAI LESTARI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042001",
+        "tps": "6111042001001",
+        "url": "61\/6111\/611104\/6111042001\/6111042001001.json",
+        "nama": "TPS 001, TANJUNGSATAI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042001",
+        "tps": "6111042001002",
+        "url": "61\/6111\/611104\/6111042001\/6111042001002.json",
+        "nama": "TPS 002, TANJUNGSATAI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042001",
+        "tps": "6111042001003",
+        "url": "61\/6111\/611104\/6111042001\/6111042001003.json",
+        "nama": "TPS 003, TANJUNGSATAI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042001",
+        "tps": "6111042001004",
+        "url": "61\/6111\/611104\/6111042001\/6111042001004.json",
+        "nama": "TPS 004, TANJUNGSATAI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042001",
+        "tps": "6111042001005",
+        "url": "61\/6111\/611104\/6111042001\/6111042001005.json",
+        "nama": "TPS 005, TANJUNGSATAI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042001",
+        "tps": "6111042001006",
+        "url": "61\/6111\/611104\/6111042001\/6111042001006.json",
+        "nama": "TPS 006, TANJUNGSATAI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042001",
+        "tps": "6111042001007",
+        "url": "61\/6111\/611104\/6111042001\/6111042001007.json",
+        "nama": "TPS 007, TANJUNGSATAI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611104",
+        "desa": "6111042001",
+        "tps": "6111042001008",
+        "url": "61\/6111\/611104\/6111042001\/6111042001008.json",
+        "nama": "TPS 008, TANJUNGSATAI, PULAU MAYA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052006",
+        "tps": "6111052006001",
+        "url": "61\/6111\/611105\/6111052006\/6111052006001.json",
+        "nama": "TPS 001, DURIAN SEBATANG, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052006",
+        "tps": "6111052006002",
+        "url": "61\/6111\/611105\/6111052006\/6111052006002.json",
+        "nama": "TPS 002, DURIAN SEBATANG, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052006",
+        "tps": "6111052006003",
+        "url": "61\/6111\/611105\/6111052006\/6111052006003.json",
+        "nama": "TPS 003, DURIAN SEBATANG, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052006",
+        "tps": "6111052006004",
+        "url": "61\/6111\/611105\/6111052006\/6111052006004.json",
+        "nama": "TPS 004, DURIAN SEBATANG, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052006",
+        "tps": "6111052006005",
+        "url": "61\/6111\/611105\/6111052006\/6111052006005.json",
+        "nama": "TPS 005, DURIAN SEBATANG, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052006",
+        "tps": "6111052006006",
+        "url": "61\/6111\/611105\/6111052006\/6111052006006.json",
+        "nama": "TPS 006, DURIAN SEBATANG, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052004",
+        "tps": "6111052004001",
+        "url": "61\/6111\/611105\/6111052004\/6111052004001.json",
+        "nama": "TPS 001, PODORUKUN, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052004",
+        "tps": "6111052004002",
+        "url": "61\/6111\/611105\/6111052004\/6111052004002.json",
+        "nama": "TPS 002, PODORUKUN, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052004",
+        "tps": "6111052004003",
+        "url": "61\/6111\/611105\/6111052004\/6111052004003.json",
+        "nama": "TPS 003, PODORUKUN, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052004",
+        "tps": "6111052004004",
+        "url": "61\/6111\/611105\/6111052004\/6111052004004.json",
+        "nama": "TPS 004, PODORUKUN, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052004",
+        "tps": "6111052004005",
+        "url": "61\/6111\/611105\/6111052004\/6111052004005.json",
+        "nama": "TPS 005, PODORUKUN, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052004",
+        "tps": "6111052004006",
+        "url": "61\/6111\/611105\/6111052004\/6111052004006.json",
+        "nama": "TPS 006, PODORUKUN, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052001",
+        "tps": "6111052001001",
+        "url": "61\/6111\/611105\/6111052001\/6111052001001.json",
+        "nama": "TPS 001, SEPONTI JAYA, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052001",
+        "tps": "6111052001002",
+        "url": "61\/6111\/611105\/6111052001\/6111052001002.json",
+        "nama": "TPS 002, SEPONTI JAYA, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052001",
+        "tps": "6111052001003",
+        "url": "61\/6111\/611105\/6111052001\/6111052001003.json",
+        "nama": "TPS 003, SEPONTI JAYA, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052001",
+        "tps": "6111052001004",
+        "url": "61\/6111\/611105\/6111052001\/6111052001004.json",
+        "nama": "TPS 004, SEPONTI JAYA, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052001",
+        "tps": "6111052001005",
+        "url": "61\/6111\/611105\/6111052001\/6111052001005.json",
+        "nama": "TPS 005, SEPONTI JAYA, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052001",
+        "tps": "6111052001006",
+        "url": "61\/6111\/611105\/6111052001\/6111052001006.json",
+        "nama": "TPS 006, SEPONTI JAYA, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052001",
+        "tps": "6111052001007",
+        "url": "61\/6111\/611105\/6111052001\/6111052001007.json",
+        "nama": "TPS 007, SEPONTI JAYA, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052001",
+        "tps": "6111052001008",
+        "url": "61\/6111\/611105\/6111052001\/6111052001008.json",
+        "nama": "TPS 008, SEPONTI JAYA, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052001",
+        "tps": "6111052001009",
+        "url": "61\/6111\/611105\/6111052001\/6111052001009.json",
+        "nama": "TPS 009, SEPONTI JAYA, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052005",
+        "tps": "6111052005001",
+        "url": "61\/6111\/611105\/6111052005\/6111052005001.json",
+        "nama": "TPS 001, SUNGAI SEPETI, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052005",
+        "tps": "6111052005002",
+        "url": "61\/6111\/611105\/6111052005\/6111052005002.json",
+        "nama": "TPS 002, SUNGAI SEPETI, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052005",
+        "tps": "6111052005003",
+        "url": "61\/6111\/611105\/6111052005\/6111052005003.json",
+        "nama": "TPS 003, SUNGAI SEPETI, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052005",
+        "tps": "6111052005004",
+        "url": "61\/6111\/611105\/6111052005\/6111052005004.json",
+        "nama": "TPS 004, SUNGAI SEPETI, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052005",
+        "tps": "6111052005005",
+        "url": "61\/6111\/611105\/6111052005\/6111052005005.json",
+        "nama": "TPS 005, SUNGAI SEPETI, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052005",
+        "tps": "6111052005006",
+        "url": "61\/6111\/611105\/6111052005\/6111052005006.json",
+        "nama": "TPS 006, SUNGAI SEPETI, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052005",
+        "tps": "6111052005007",
+        "url": "61\/6111\/611105\/6111052005\/6111052005007.json",
+        "nama": "TPS 007, SUNGAI SEPETI, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052002",
+        "tps": "6111052002001",
+        "url": "61\/6111\/611105\/6111052002\/6111052002001.json",
+        "nama": "TPS 001, TELAGA ARUM, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052002",
+        "tps": "6111052002002",
+        "url": "61\/6111\/611105\/6111052002\/6111052002002.json",
+        "nama": "TPS 002, TELAGA ARUM, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052002",
+        "tps": "6111052002003",
+        "url": "61\/6111\/611105\/6111052002\/6111052002003.json",
+        "nama": "TPS 003, TELAGA ARUM, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052002",
+        "tps": "6111052002004",
+        "url": "61\/6111\/611105\/6111052002\/6111052002004.json",
+        "nama": "TPS 004, TELAGA ARUM, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052002",
+        "tps": "6111052002005",
+        "url": "61\/6111\/611105\/6111052002\/6111052002005.json",
+        "nama": "TPS 005, TELAGA ARUM, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052002",
+        "tps": "6111052002006",
+        "url": "61\/6111\/611105\/6111052002\/6111052002006.json",
+        "nama": "TPS 006, TELAGA ARUM, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052002",
+        "tps": "6111052002007",
+        "url": "61\/6111\/611105\/6111052002\/6111052002007.json",
+        "nama": "TPS 007, TELAGA ARUM, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052003",
+        "tps": "6111052003001",
+        "url": "61\/6111\/611105\/6111052003\/6111052003001.json",
+        "nama": "TPS 001, WONOREJO, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052003",
+        "tps": "6111052003002",
+        "url": "61\/6111\/611105\/6111052003\/6111052003002.json",
+        "nama": "TPS 002, WONOREJO, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052003",
+        "tps": "6111052003003",
+        "url": "61\/6111\/611105\/6111052003\/6111052003003.json",
+        "nama": "TPS 003, WONOREJO, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052003",
+        "tps": "6111052003004",
+        "url": "61\/6111\/611105\/6111052003\/6111052003004.json",
+        "nama": "TPS 004, WONOREJO, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611105",
+        "desa": "6111052003",
+        "tps": "6111052003005",
+        "url": "61\/6111\/611105\/6111052003\/6111052003005.json",
+        "nama": "TPS 005, WONOREJO, SEPONTI, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022007",
+        "tps": "6111022007001",
+        "url": "61\/6111\/611102\/6111022007\/6111022007001.json",
+        "nama": "TPS 001, BATU BARAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022007",
+        "tps": "6111022007002",
+        "url": "61\/6111\/611102\/6111022007\/6111022007002.json",
+        "nama": "TPS 002, BATU BARAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022007",
+        "tps": "6111022007003",
+        "url": "61\/6111\/611102\/6111022007\/6111022007003.json",
+        "nama": "TPS 003, BATU BARAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022007",
+        "tps": "6111022007004",
+        "url": "61\/6111\/611102\/6111022007\/6111022007004.json",
+        "nama": "TPS 004, BATU BARAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022007",
+        "tps": "6111022007005",
+        "url": "61\/6111\/611102\/6111022007\/6111022007005.json",
+        "nama": "TPS 005, BATU BARAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022007",
+        "tps": "6111022007006",
+        "url": "61\/6111\/611102\/6111022007\/6111022007006.json",
+        "nama": "TPS 006, BATU BARAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022007",
+        "tps": "6111022007007",
+        "url": "61\/6111\/611102\/6111022007\/6111022007007.json",
+        "nama": "TPS 007, BATU BARAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022007",
+        "tps": "6111022007008",
+        "url": "61\/6111\/611102\/6111022007\/6111022007008.json",
+        "nama": "TPS 008, BATU BARAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022012",
+        "tps": "6111022012001",
+        "url": "61\/6111\/611102\/6111022012\/6111022012001.json",
+        "nama": "TPS 001, LUBUK BATU, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022012",
+        "tps": "6111022012002",
+        "url": "61\/6111\/611102\/6111022012\/6111022012002.json",
+        "nama": "TPS 002, LUBUK BATU, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022012",
+        "tps": "6111022012003",
+        "url": "61\/6111\/611102\/6111022012\/6111022012003.json",
+        "nama": "TPS 003, LUBUK BATU, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022012",
+        "tps": "6111022012004",
+        "url": "61\/6111\/611102\/6111022012\/6111022012004.json",
+        "nama": "TPS 004, LUBUK BATU, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022012",
+        "tps": "6111022012005",
+        "url": "61\/6111\/611102\/6111022012\/6111022012005.json",
+        "nama": "TPS 005, LUBUK BATU, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022012",
+        "tps": "6111022012901",
+        "url": "61\/6111\/611102\/6111022012\/6111022012901.json",
+        "nama": "TPS 901, LUBUK BATU, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010001",
+        "url": "61\/6111\/611102\/6111022010\/6111022010001.json",
+        "nama": "TPS 001, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010002",
+        "url": "61\/6111\/611102\/6111022010\/6111022010002.json",
+        "nama": "TPS 002, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010003",
+        "url": "61\/6111\/611102\/6111022010\/6111022010003.json",
+        "nama": "TPS 003, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010004",
+        "url": "61\/6111\/611102\/6111022010\/6111022010004.json",
+        "nama": "TPS 004, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010005",
+        "url": "61\/6111\/611102\/6111022010\/6111022010005.json",
+        "nama": "TPS 005, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010006",
+        "url": "61\/6111\/611102\/6111022010\/6111022010006.json",
+        "nama": "TPS 006, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010007",
+        "url": "61\/6111\/611102\/6111022010\/6111022010007.json",
+        "nama": "TPS 007, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010008",
+        "url": "61\/6111\/611102\/6111022010\/6111022010008.json",
+        "nama": "TPS 008, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010009",
+        "url": "61\/6111\/611102\/6111022010\/6111022010009.json",
+        "nama": "TPS 009, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010010",
+        "url": "61\/6111\/611102\/6111022010\/6111022010010.json",
+        "nama": "TPS 010, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010011",
+        "url": "61\/6111\/611102\/6111022010\/6111022010011.json",
+        "nama": "TPS 011, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010901",
+        "url": "61\/6111\/611102\/6111022010\/6111022010901.json",
+        "nama": "TPS 901, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010902",
+        "url": "61\/6111\/611102\/6111022010\/6111022010902.json",
+        "nama": "TPS 902, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022010",
+        "tps": "6111022010903",
+        "url": "61\/6111\/611102\/6111022010\/6111022010903.json",
+        "nama": "TPS 903, MATAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022011",
+        "tps": "6111022011001",
+        "url": "61\/6111\/611102\/6111022011\/6111022011001.json",
+        "nama": "TPS 001, MEDAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022011",
+        "tps": "6111022011002",
+        "url": "61\/6111\/611102\/6111022011\/6111022011002.json",
+        "nama": "TPS 002, MEDAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022011",
+        "tps": "6111022011003",
+        "url": "61\/6111\/611102\/6111022011\/6111022011003.json",
+        "nama": "TPS 003, MEDAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022011",
+        "tps": "6111022011004",
+        "url": "61\/6111\/611102\/6111022011\/6111022011004.json",
+        "nama": "TPS 004, MEDAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022011",
+        "tps": "6111022011005",
+        "url": "61\/6111\/611102\/6111022011\/6111022011005.json",
+        "nama": "TPS 005, MEDAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022011",
+        "tps": "6111022011006",
+        "url": "61\/6111\/611102\/6111022011\/6111022011006.json",
+        "nama": "TPS 006, MEDAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022011",
+        "tps": "6111022011007",
+        "url": "61\/6111\/611102\/6111022011\/6111022011007.json",
+        "nama": "TPS 007, MEDAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022011",
+        "tps": "6111022011008",
+        "url": "61\/6111\/611102\/6111022011\/6111022011008.json",
+        "nama": "TPS 008, MEDAN JAYA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022002",
+        "tps": "6111022002001",
+        "url": "61\/6111\/611102\/6111022002\/6111022002001.json",
+        "nama": "TPS 001, NIPAH KUNING, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022002",
+        "tps": "6111022002002",
+        "url": "61\/6111\/611102\/6111022002\/6111022002002.json",
+        "nama": "TPS 002, NIPAH KUNING, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022002",
+        "tps": "6111022002003",
+        "url": "61\/6111\/611102\/6111022002\/6111022002003.json",
+        "nama": "TPS 003, NIPAH KUNING, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022002",
+        "tps": "6111022002004",
+        "url": "61\/6111\/611102\/6111022002\/6111022002004.json",
+        "nama": "TPS 004, NIPAH KUNING, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022002",
+        "tps": "6111022002005",
+        "url": "61\/6111\/611102\/6111022002\/6111022002005.json",
+        "nama": "TPS 005, NIPAH KUNING, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022002",
+        "tps": "6111022002006",
+        "url": "61\/6111\/611102\/6111022002\/6111022002006.json",
+        "nama": "TPS 006, NIPAH KUNING, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022002",
+        "tps": "6111022002007",
+        "url": "61\/6111\/611102\/6111022002\/6111022002007.json",
+        "nama": "TPS 007, NIPAH KUNING, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022002",
+        "tps": "6111022002008",
+        "url": "61\/6111\/611102\/6111022002\/6111022002008.json",
+        "nama": "TPS 008, NIPAH KUNING, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022002",
+        "tps": "6111022002009",
+        "url": "61\/6111\/611102\/6111022002\/6111022002009.json",
+        "nama": "TPS 009, NIPAH KUNING, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004001",
+        "url": "61\/6111\/611102\/6111022004\/6111022004001.json",
+        "nama": "TPS 001, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004002",
+        "url": "61\/6111\/611102\/6111022004\/6111022004002.json",
+        "nama": "TPS 002, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004003",
+        "url": "61\/6111\/611102\/6111022004\/6111022004003.json",
+        "nama": "TPS 003, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004004",
+        "url": "61\/6111\/611102\/6111022004\/6111022004004.json",
+        "nama": "TPS 004, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004005",
+        "url": "61\/6111\/611102\/6111022004\/6111022004005.json",
+        "nama": "TPS 005, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004006",
+        "url": "61\/6111\/611102\/6111022004\/6111022004006.json",
+        "nama": "TPS 006, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004007",
+        "url": "61\/6111\/611102\/6111022004\/6111022004007.json",
+        "nama": "TPS 007, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004008",
+        "url": "61\/6111\/611102\/6111022004\/6111022004008.json",
+        "nama": "TPS 008, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004009",
+        "url": "61\/6111\/611102\/6111022004\/6111022004009.json",
+        "nama": "TPS 009, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022004",
+        "tps": "6111022004010",
+        "url": "61\/6111\/611102\/6111022004\/6111022004010.json",
+        "nama": "TPS 010, PADU BANJAR, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022003",
+        "tps": "6111022003001",
+        "url": "61\/6111\/611102\/6111022003\/6111022003001.json",
+        "nama": "TPS 001, PEMANGKAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022003",
+        "tps": "6111022003002",
+        "url": "61\/6111\/611102\/6111022003\/6111022003002.json",
+        "nama": "TPS 002, PEMANGKAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022003",
+        "tps": "6111022003003",
+        "url": "61\/6111\/611102\/6111022003\/6111022003003.json",
+        "nama": "TPS 003, PEMANGKAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022003",
+        "tps": "6111022003004",
+        "url": "61\/6111\/611102\/6111022003\/6111022003004.json",
+        "nama": "TPS 004, PEMANGKAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022003",
+        "tps": "6111022003005",
+        "url": "61\/6111\/611102\/6111022003\/6111022003005.json",
+        "nama": "TPS 005, PEMANGKAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022003",
+        "tps": "6111022003006",
+        "url": "61\/6111\/611102\/6111022003\/6111022003006.json",
+        "nama": "TPS 006, PEMANGKAT, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022005",
+        "tps": "6111022005001",
+        "url": "61\/6111\/611102\/6111022005\/6111022005001.json",
+        "nama": "TPS 001, PENJALAAN, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022005",
+        "tps": "6111022005002",
+        "url": "61\/6111\/611102\/6111022005\/6111022005002.json",
+        "nama": "TPS 002, PENJALAAN, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022005",
+        "tps": "6111022005003",
+        "url": "61\/6111\/611102\/6111022005\/6111022005003.json",
+        "nama": "TPS 003, PENJALAAN, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022005",
+        "tps": "6111022005004",
+        "url": "61\/6111\/611102\/6111022005\/6111022005004.json",
+        "nama": "TPS 004, PENJALAAN, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022005",
+        "tps": "6111022005005",
+        "url": "61\/6111\/611102\/6111022005\/6111022005005.json",
+        "nama": "TPS 005, PENJALAAN, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022005",
+        "tps": "6111022005006",
+        "url": "61\/6111\/611102\/6111022005\/6111022005006.json",
+        "nama": "TPS 006, PENJALAAN, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022005",
+        "tps": "6111022005007",
+        "url": "61\/6111\/611102\/6111022005\/6111022005007.json",
+        "nama": "TPS 007, PENJALAAN, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022005",
+        "tps": "6111022005008",
+        "url": "61\/6111\/611102\/6111022005\/6111022005008.json",
+        "nama": "TPS 008, PENJALAAN, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022008",
+        "tps": "6111022008001",
+        "url": "61\/6111\/611102\/6111022008\/6111022008001.json",
+        "nama": "TPS 001, PULAU KUMBANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022008",
+        "tps": "6111022008002",
+        "url": "61\/6111\/611102\/6111022008\/6111022008002.json",
+        "nama": "TPS 002, PULAU KUMBANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022008",
+        "tps": "6111022008003",
+        "url": "61\/6111\/611102\/6111022008\/6111022008003.json",
+        "nama": "TPS 003, PULAU KUMBANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022008",
+        "tps": "6111022008004",
+        "url": "61\/6111\/611102\/6111022008\/6111022008004.json",
+        "nama": "TPS 004, PULAU KUMBANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022008",
+        "tps": "6111022008005",
+        "url": "61\/6111\/611102\/6111022008\/6111022008005.json",
+        "nama": "TPS 005, PULAU KUMBANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022008",
+        "tps": "6111022008006",
+        "url": "61\/6111\/611102\/6111022008\/6111022008006.json",
+        "nama": "TPS 006, PULAU KUMBANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022008",
+        "tps": "6111022008007",
+        "url": "61\/6111\/611102\/6111022008\/6111022008007.json",
+        "nama": "TPS 007, PULAU KUMBANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022008",
+        "tps": "6111022008008",
+        "url": "61\/6111\/611102\/6111022008\/6111022008008.json",
+        "nama": "TPS 008, PULAU KUMBANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009001",
+        "url": "61\/6111\/611102\/6111022009\/6111022009001.json",
+        "nama": "TPS 001, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009002",
+        "url": "61\/6111\/611102\/6111022009\/6111022009002.json",
+        "nama": "TPS 002, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009003",
+        "url": "61\/6111\/611102\/6111022009\/6111022009003.json",
+        "nama": "TPS 003, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009004",
+        "url": "61\/6111\/611102\/6111022009\/6111022009004.json",
+        "nama": "TPS 004, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009005",
+        "url": "61\/6111\/611102\/6111022009\/6111022009005.json",
+        "nama": "TPS 005, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009006",
+        "url": "61\/6111\/611102\/6111022009\/6111022009006.json",
+        "nama": "TPS 006, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009007",
+        "url": "61\/6111\/611102\/6111022009\/6111022009007.json",
+        "nama": "TPS 007, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009008",
+        "url": "61\/6111\/611102\/6111022009\/6111022009008.json",
+        "nama": "TPS 008, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009009",
+        "url": "61\/6111\/611102\/6111022009\/6111022009009.json",
+        "nama": "TPS 009, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009010",
+        "url": "61\/6111\/611102\/6111022009\/6111022009010.json",
+        "nama": "TPS 010, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009011",
+        "url": "61\/6111\/611102\/6111022009\/6111022009011.json",
+        "nama": "TPS 011, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009012",
+        "url": "61\/6111\/611102\/6111022009\/6111022009012.json",
+        "nama": "TPS 012, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009013",
+        "url": "61\/6111\/611102\/6111022009\/6111022009013.json",
+        "nama": "TPS 013, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022009",
+        "tps": "6111022009014",
+        "url": "61\/6111\/611102\/6111022009\/6111022009014.json",
+        "nama": "TPS 014, RANTAU PANJANG, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006001",
+        "url": "61\/6111\/611102\/6111022006\/6111022006001.json",
+        "nama": "TPS 001, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006002",
+        "url": "61\/6111\/611102\/6111022006\/6111022006002.json",
+        "nama": "TPS 002, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006003",
+        "url": "61\/6111\/611102\/6111022006\/6111022006003.json",
+        "nama": "TPS 003, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006004",
+        "url": "61\/6111\/611102\/6111022006\/6111022006004.json",
+        "nama": "TPS 004, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006005",
+        "url": "61\/6111\/611102\/6111022006\/6111022006005.json",
+        "nama": "TPS 005, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006006",
+        "url": "61\/6111\/611102\/6111022006\/6111022006006.json",
+        "nama": "TPS 006, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006007",
+        "url": "61\/6111\/611102\/6111022006\/6111022006007.json",
+        "nama": "TPS 007, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006008",
+        "url": "61\/6111\/611102\/6111022006\/6111022006008.json",
+        "nama": "TPS 008, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006009",
+        "url": "61\/6111\/611102\/6111022006\/6111022006009.json",
+        "nama": "TPS 009, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006010",
+        "url": "61\/6111\/611102\/6111022006\/6111022006010.json",
+        "nama": "TPS 010, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006011",
+        "url": "61\/6111\/611102\/6111022006\/6111022006011.json",
+        "nama": "TPS 011, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006012",
+        "url": "61\/6111\/611102\/6111022006\/6111022006012.json",
+        "nama": "TPS 012, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006013",
+        "url": "61\/6111\/611102\/6111022006\/6111022006013.json",
+        "nama": "TPS 013, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022006",
+        "tps": "6111022006014",
+        "url": "61\/6111\/611102\/6111022006\/6111022006014.json",
+        "nama": "TPS 014, SUNGAI MATA - MATA, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022001",
+        "tps": "6111022001001",
+        "url": "61\/6111\/611102\/6111022001\/6111022001001.json",
+        "nama": "TPS 001, TELUK MELANO, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022001",
+        "tps": "6111022001002",
+        "url": "61\/6111\/611102\/6111022001\/6111022001002.json",
+        "nama": "TPS 002, TELUK MELANO, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022001",
+        "tps": "6111022001003",
+        "url": "61\/6111\/611102\/6111022001\/6111022001003.json",
+        "nama": "TPS 003, TELUK MELANO, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022001",
+        "tps": "6111022001004",
+        "url": "61\/6111\/611102\/6111022001\/6111022001004.json",
+        "nama": "TPS 004, TELUK MELANO, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022001",
+        "tps": "6111022001005",
+        "url": "61\/6111\/611102\/6111022001\/6111022001005.json",
+        "nama": "TPS 005, TELUK MELANO, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022001",
+        "tps": "6111022001006",
+        "url": "61\/6111\/611102\/6111022001\/6111022001006.json",
+        "nama": "TPS 006, TELUK MELANO, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022001",
+        "tps": "6111022001007",
+        "url": "61\/6111\/611102\/6111022001\/6111022001007.json",
+        "nama": "TPS 007, TELUK MELANO, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022001",
+        "tps": "6111022001008",
+        "url": "61\/6111\/611102\/6111022001\/6111022001008.json",
+        "nama": "TPS 008, TELUK MELANO, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611102",
+        "desa": "6111022001",
+        "tps": "6111022001009",
+        "url": "61\/6111\/611102\/6111022001\/6111022001009.json",
+        "nama": "TPS 009, TELUK MELANO, SIMPANG HILIR, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012005",
+        "tps": "6111012005001",
+        "url": "61\/6111\/611101\/6111012005\/6111012005001.json",
+        "nama": "TPS 001, BENAWAI AGUNG, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012005",
+        "tps": "6111012005002",
+        "url": "61\/6111\/611101\/6111012005\/6111012005002.json",
+        "nama": "TPS 002, BENAWAI AGUNG, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012005",
+        "tps": "6111012005003",
+        "url": "61\/6111\/611101\/6111012005\/6111012005003.json",
+        "nama": "TPS 003, BENAWAI AGUNG, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012005",
+        "tps": "6111012005004",
+        "url": "61\/6111\/611101\/6111012005\/6111012005004.json",
+        "nama": "TPS 004, BENAWAI AGUNG, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012005",
+        "tps": "6111012005005",
+        "url": "61\/6111\/611101\/6111012005\/6111012005005.json",
+        "nama": "TPS 005, BENAWAI AGUNG, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012005",
+        "tps": "6111012005006",
+        "url": "61\/6111\/611101\/6111012005\/6111012005006.json",
+        "nama": "TPS 006, BENAWAI AGUNG, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012005",
+        "tps": "6111012005007",
+        "url": "61\/6111\/611101\/6111012005\/6111012005007.json",
+        "nama": "TPS 007, BENAWAI AGUNG, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012005",
+        "tps": "6111012005008",
+        "url": "61\/6111\/611101\/6111012005\/6111012005008.json",
+        "nama": "TPS 008, BENAWAI AGUNG, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012009",
+        "tps": "6111012009001",
+        "url": "61\/6111\/611101\/6111012009\/6111012009001.json",
+        "nama": "TPS 001, GUNUNGSEMBILAN, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012009",
+        "tps": "6111012009002",
+        "url": "61\/6111\/611101\/6111012009\/6111012009002.json",
+        "nama": "TPS 002, GUNUNGSEMBILAN, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012009",
+        "tps": "6111012009003",
+        "url": "61\/6111\/611101\/6111012009\/6111012009003.json",
+        "nama": "TPS 003, GUNUNGSEMBILAN, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012009",
+        "tps": "6111012009004",
+        "url": "61\/6111\/611101\/6111012009\/6111012009004.json",
+        "nama": "TPS 004, GUNUNGSEMBILAN, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012006",
+        "tps": "6111012006001",
+        "url": "61\/6111\/611101\/6111012006\/6111012006001.json",
+        "nama": "TPS 001, HARAPAN MULIA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012006",
+        "tps": "6111012006002",
+        "url": "61\/6111\/611101\/6111012006\/6111012006002.json",
+        "nama": "TPS 002, HARAPAN MULIA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012006",
+        "tps": "6111012006003",
+        "url": "61\/6111\/611101\/6111012006\/6111012006003.json",
+        "nama": "TPS 003, HARAPAN MULIA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012006",
+        "tps": "6111012006004",
+        "url": "61\/6111\/611101\/6111012006\/6111012006004.json",
+        "nama": "TPS 004, HARAPAN MULIA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012006",
+        "tps": "6111012006005",
+        "url": "61\/6111\/611101\/6111012006\/6111012006005.json",
+        "nama": "TPS 005, HARAPAN MULIA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012006",
+        "tps": "6111012006006",
+        "url": "61\/6111\/611101\/6111012006\/6111012006006.json",
+        "nama": "TPS 006, HARAPAN MULIA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012006",
+        "tps": "6111012006007",
+        "url": "61\/6111\/611101\/6111012006\/6111012006007.json",
+        "nama": "TPS 007, HARAPAN MULIA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012006",
+        "tps": "6111012006008",
+        "url": "61\/6111\/611101\/6111012006\/6111012006008.json",
+        "nama": "TPS 008, HARAPAN MULIA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012006",
+        "tps": "6111012006009",
+        "url": "61\/6111\/611101\/6111012006\/6111012006009.json",
+        "nama": "TPS 009, HARAPAN MULIA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012007",
+        "tps": "6111012007001",
+        "url": "61\/6111\/611101\/6111012007\/6111012007001.json",
+        "nama": "TPS 001, PAMPANG HARAPAN, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012007",
+        "tps": "6111012007002",
+        "url": "61\/6111\/611101\/6111012007\/6111012007002.json",
+        "nama": "TPS 002, PAMPANG HARAPAN, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012007",
+        "tps": "6111012007003",
+        "url": "61\/6111\/611101\/6111012007\/6111012007003.json",
+        "nama": "TPS 003, PAMPANG HARAPAN, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012007",
+        "tps": "6111012007004",
+        "url": "61\/6111\/611101\/6111012007\/6111012007004.json",
+        "nama": "TPS 004, PAMPANG HARAPAN, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012007",
+        "tps": "6111012007005",
+        "url": "61\/6111\/611101\/6111012007\/6111012007005.json",
+        "nama": "TPS 005, PAMPANG HARAPAN, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002001",
+        "url": "61\/6111\/611101\/6111012002\/6111012002001.json",
+        "nama": "TPS 001, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002002",
+        "url": "61\/6111\/611101\/6111012002\/6111012002002.json",
+        "nama": "TPS 002, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002003",
+        "url": "61\/6111\/611101\/6111012002\/6111012002003.json",
+        "nama": "TPS 003, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002004",
+        "url": "61\/6111\/611101\/6111012002\/6111012002004.json",
+        "nama": "TPS 004, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002005",
+        "url": "61\/6111\/611101\/6111012002\/6111012002005.json",
+        "nama": "TPS 005, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002006",
+        "url": "61\/6111\/611101\/6111012002\/6111012002006.json",
+        "nama": "TPS 006, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002007",
+        "url": "61\/6111\/611101\/6111012002\/6111012002007.json",
+        "nama": "TPS 007, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002008",
+        "url": "61\/6111\/611101\/6111012002\/6111012002008.json",
+        "nama": "TPS 008, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002009",
+        "url": "61\/6111\/611101\/6111012002\/6111012002009.json",
+        "nama": "TPS 009, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002010",
+        "url": "61\/6111\/611101\/6111012002\/6111012002010.json",
+        "nama": "TPS 010, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002011",
+        "url": "61\/6111\/611101\/6111012002\/6111012002011.json",
+        "nama": "TPS 011, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002012",
+        "url": "61\/6111\/611101\/6111012002\/6111012002012.json",
+        "nama": "TPS 012, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002013",
+        "url": "61\/6111\/611101\/6111012002\/6111012002013.json",
+        "nama": "TPS 013, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002014",
+        "url": "61\/6111\/611101\/6111012002\/6111012002014.json",
+        "nama": "TPS 014, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012002",
+        "tps": "6111012002015",
+        "url": "61\/6111\/611101\/6111012002\/6111012002015.json",
+        "nama": "TPS 015, PANGKALAN BUTON, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012010",
+        "tps": "6111012010001",
+        "url": "61\/6111\/611101\/6111012010\/6111012010001.json",
+        "nama": "TPS 001, RIAM BERASAP JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012010",
+        "tps": "6111012010002",
+        "url": "61\/6111\/611101\/6111012010\/6111012010002.json",
+        "nama": "TPS 002, RIAM BERASAP JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012010",
+        "tps": "6111012010003",
+        "url": "61\/6111\/611101\/6111012010\/6111012010003.json",
+        "nama": "TPS 003, RIAM BERASAP JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012010",
+        "tps": "6111012010004",
+        "url": "61\/6111\/611101\/6111012010\/6111012010004.json",
+        "nama": "TPS 004, RIAM BERASAP JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012010",
+        "tps": "6111012010005",
+        "url": "61\/6111\/611101\/6111012010\/6111012010005.json",
+        "nama": "TPS 005, RIAM BERASAP JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012010",
+        "tps": "6111012010006",
+        "url": "61\/6111\/611101\/6111012010\/6111012010006.json",
+        "nama": "TPS 006, RIAM BERASAP JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012010",
+        "tps": "6111012010007",
+        "url": "61\/6111\/611101\/6111012010\/6111012010007.json",
+        "nama": "TPS 007, RIAM BERASAP JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012008",
+        "tps": "6111012008001",
+        "url": "61\/6111\/611101\/6111012008\/6111012008001.json",
+        "nama": "TPS 001, SEDAHAN JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012008",
+        "tps": "6111012008002",
+        "url": "61\/6111\/611101\/6111012008\/6111012008002.json",
+        "nama": "TPS 002, SEDAHAN JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012008",
+        "tps": "6111012008003",
+        "url": "61\/6111\/611101\/6111012008\/6111012008003.json",
+        "nama": "TPS 003, SEDAHAN JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012008",
+        "tps": "6111012008004",
+        "url": "61\/6111\/611101\/6111012008\/6111012008004.json",
+        "nama": "TPS 004, SEDAHAN JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012008",
+        "tps": "6111012008005",
+        "url": "61\/6111\/611101\/6111012008\/6111012008005.json",
+        "nama": "TPS 005, SEDAHAN JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012008",
+        "tps": "6111012008006",
+        "url": "61\/6111\/611101\/6111012008\/6111012008006.json",
+        "nama": "TPS 006, SEDAHAN JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012008",
+        "tps": "6111012008007",
+        "url": "61\/6111\/611101\/6111012008\/6111012008007.json",
+        "nama": "TPS 007, SEDAHAN JAYA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012003",
+        "tps": "6111012003001",
+        "url": "61\/6111\/611101\/6111012003\/6111012003001.json",
+        "nama": "TPS 001, SEJAHTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012003",
+        "tps": "6111012003002",
+        "url": "61\/6111\/611101\/6111012003\/6111012003002.json",
+        "nama": "TPS 002, SEJAHTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012003",
+        "tps": "6111012003003",
+        "url": "61\/6111\/611101\/6111012003\/6111012003003.json",
+        "nama": "TPS 003, SEJAHTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012003",
+        "tps": "6111012003004",
+        "url": "61\/6111\/611101\/6111012003\/6111012003004.json",
+        "nama": "TPS 004, SEJAHTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012003",
+        "tps": "6111012003005",
+        "url": "61\/6111\/611101\/6111012003\/6111012003005.json",
+        "nama": "TPS 005, SEJAHTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012003",
+        "tps": "6111012003006",
+        "url": "61\/6111\/611101\/6111012003\/6111012003006.json",
+        "nama": "TPS 006, SEJAHTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012003",
+        "tps": "6111012003007",
+        "url": "61\/6111\/611101\/6111012003\/6111012003007.json",
+        "nama": "TPS 007, SEJAHTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012004",
+        "tps": "6111012004001",
+        "url": "61\/6111\/611101\/6111012004\/6111012004001.json",
+        "nama": "TPS 001, SIMPANG TIGA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012004",
+        "tps": "6111012004002",
+        "url": "61\/6111\/611101\/6111012004\/6111012004002.json",
+        "nama": "TPS 002, SIMPANG TIGA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012004",
+        "tps": "6111012004003",
+        "url": "61\/6111\/611101\/6111012004\/6111012004003.json",
+        "nama": "TPS 003, SIMPANG TIGA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012004",
+        "tps": "6111012004004",
+        "url": "61\/6111\/611101\/6111012004\/6111012004004.json",
+        "nama": "TPS 004, SIMPANG TIGA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012004",
+        "tps": "6111012004005",
+        "url": "61\/6111\/611101\/6111012004\/6111012004005.json",
+        "nama": "TPS 005, SIMPANG TIGA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012004",
+        "tps": "6111012004006",
+        "url": "61\/6111\/611101\/6111012004\/6111012004006.json",
+        "nama": "TPS 006, SIMPANG TIGA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012004",
+        "tps": "6111012004007",
+        "url": "61\/6111\/611101\/6111012004\/6111012004007.json",
+        "nama": "TPS 007, SIMPANG TIGA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001001",
+        "url": "61\/6111\/611101\/6111012001\/6111012001001.json",
+        "nama": "TPS 001, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001002",
+        "url": "61\/6111\/611101\/6111012001\/6111012001002.json",
+        "nama": "TPS 002, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001003",
+        "url": "61\/6111\/611101\/6111012001\/6111012001003.json",
+        "nama": "TPS 003, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001004",
+        "url": "61\/6111\/611101\/6111012001\/6111012001004.json",
+        "nama": "TPS 004, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001005",
+        "url": "61\/6111\/611101\/6111012001\/6111012001005.json",
+        "nama": "TPS 005, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001006",
+        "url": "61\/6111\/611101\/6111012001\/6111012001006.json",
+        "nama": "TPS 006, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001007",
+        "url": "61\/6111\/611101\/6111012001\/6111012001007.json",
+        "nama": "TPS 007, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001008",
+        "url": "61\/6111\/611101\/6111012001\/6111012001008.json",
+        "nama": "TPS 008, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001009",
+        "url": "61\/6111\/611101\/6111012001\/6111012001009.json",
+        "nama": "TPS 009, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001010",
+        "url": "61\/6111\/611101\/6111012001\/6111012001010.json",
+        "nama": "TPS 010, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001011",
+        "url": "61\/6111\/611101\/6111012001\/6111012001011.json",
+        "nama": "TPS 011, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001012",
+        "url": "61\/6111\/611101\/6111012001\/6111012001012.json",
+        "nama": "TPS 012, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001013",
+        "url": "61\/6111\/611101\/6111012001\/6111012001013.json",
+        "nama": "TPS 013, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001014",
+        "url": "61\/6111\/611101\/6111012001\/6111012001014.json",
+        "nama": "TPS 014, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001015",
+        "url": "61\/6111\/611101\/6111012001\/6111012001015.json",
+        "nama": "TPS 015, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001016",
+        "url": "61\/6111\/611101\/6111012001\/6111012001016.json",
+        "nama": "TPS 016, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001017",
+        "url": "61\/6111\/611101\/6111012001\/6111012001017.json",
+        "nama": "TPS 017, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001018",
+        "url": "61\/6111\/611101\/6111012001\/6111012001018.json",
+        "nama": "TPS 018, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001019",
+        "url": "61\/6111\/611101\/6111012001\/6111012001019.json",
+        "nama": "TPS 019, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001020",
+        "url": "61\/6111\/611101\/6111012001\/6111012001020.json",
+        "nama": "TPS 020, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001021",
+        "url": "61\/6111\/611101\/6111012001\/6111012001021.json",
+        "nama": "TPS 021, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611101",
+        "desa": "6111012001",
+        "tps": "6111012001022",
+        "url": "61\/6111\/611101\/6111012001\/6111012001022.json",
+        "nama": "TPS 022, SUTERA, SUKADANA, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032002",
+        "tps": "6111032002001",
+        "url": "61\/6111\/611103\/6111032002\/6111032002001.json",
+        "nama": "TPS 001, ALUR BANDUNG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032002",
+        "tps": "6111032002002",
+        "url": "61\/6111\/611103\/6111032002\/6111032002002.json",
+        "nama": "TPS 002, ALUR BANDUNG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032002",
+        "tps": "6111032002003",
+        "url": "61\/6111\/611103\/6111032002\/6111032002003.json",
+        "nama": "TPS 003, ALUR BANDUNG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032002",
+        "tps": "6111032002004",
+        "url": "61\/6111\/611103\/6111032002\/6111032002004.json",
+        "nama": "TPS 004, ALUR BANDUNG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032002",
+        "tps": "6111032002005",
+        "url": "61\/6111\/611103\/6111032002\/6111032002005.json",
+        "nama": "TPS 005, ALUR BANDUNG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032002",
+        "tps": "6111032002006",
+        "url": "61\/6111\/611103\/6111032002\/6111032002006.json",
+        "nama": "TPS 006, ALUR BANDUNG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032002",
+        "tps": "6111032002007",
+        "url": "61\/6111\/611103\/6111032002\/6111032002007.json",
+        "nama": "TPS 007, ALUR BANDUNG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032002",
+        "tps": "6111032002008",
+        "url": "61\/6111\/611103\/6111032002\/6111032002008.json",
+        "nama": "TPS 008, ALUR BANDUNG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032005",
+        "tps": "6111032005001",
+        "url": "61\/6111\/611103\/6111032005\/6111032005001.json",
+        "nama": "TPS 001, BANYU ABANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032005",
+        "tps": "6111032005002",
+        "url": "61\/6111\/611103\/6111032005\/6111032005002.json",
+        "nama": "TPS 002, BANYU ABANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032005",
+        "tps": "6111032005003",
+        "url": "61\/6111\/611103\/6111032005\/6111032005003.json",
+        "nama": "TPS 003, BANYU ABANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032005",
+        "tps": "6111032005004",
+        "url": "61\/6111\/611103\/6111032005\/6111032005004.json",
+        "nama": "TPS 004, BANYU ABANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032005",
+        "tps": "6111032005005",
+        "url": "61\/6111\/611103\/6111032005\/6111032005005.json",
+        "nama": "TPS 005, BANYU ABANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032005",
+        "tps": "6111032005006",
+        "url": "61\/6111\/611103\/6111032005\/6111032005006.json",
+        "nama": "TPS 006, BANYU ABANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032005",
+        "tps": "6111032005007",
+        "url": "61\/6111\/611103\/6111032005\/6111032005007.json",
+        "nama": "TPS 007, BANYU ABANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032005",
+        "tps": "6111032005008",
+        "url": "61\/6111\/611103\/6111032005\/6111032005008.json",
+        "nama": "TPS 008, BANYU ABANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032005",
+        "tps": "6111032005009",
+        "url": "61\/6111\/611103\/6111032005\/6111032005009.json",
+        "nama": "TPS 009, BANYU ABANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001001",
+        "url": "61\/6111\/611103\/6111032001\/6111032001001.json",
+        "nama": "TPS 001, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001002",
+        "url": "61\/6111\/611103\/6111032001\/6111032001002.json",
+        "nama": "TPS 002, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001003",
+        "url": "61\/6111\/611103\/6111032001\/6111032001003.json",
+        "nama": "TPS 003, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001004",
+        "url": "61\/6111\/611103\/6111032001\/6111032001004.json",
+        "nama": "TPS 004, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001005",
+        "url": "61\/6111\/611103\/6111032001\/6111032001005.json",
+        "nama": "TPS 005, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001006",
+        "url": "61\/6111\/611103\/6111032001\/6111032001006.json",
+        "nama": "TPS 006, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001007",
+        "url": "61\/6111\/611103\/6111032001\/6111032001007.json",
+        "nama": "TPS 007, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001008",
+        "url": "61\/6111\/611103\/6111032001\/6111032001008.json",
+        "nama": "TPS 008, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001009",
+        "url": "61\/6111\/611103\/6111032001\/6111032001009.json",
+        "nama": "TPS 009, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001010",
+        "url": "61\/6111\/611103\/6111032001\/6111032001010.json",
+        "nama": "TPS 010, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032001",
+        "tps": "6111032001011",
+        "url": "61\/6111\/611103\/6111032001\/6111032001011.json",
+        "nama": "TPS 011, MAS BANGUN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004001",
+        "url": "61\/6111\/611103\/6111032004\/6111032004001.json",
+        "nama": "TPS 001, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004002",
+        "url": "61\/6111\/611103\/6111032004\/6111032004002.json",
+        "nama": "TPS 002, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004003",
+        "url": "61\/6111\/611103\/6111032004\/6111032004003.json",
+        "nama": "TPS 003, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004004",
+        "url": "61\/6111\/611103\/6111032004\/6111032004004.json",
+        "nama": "TPS 004, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004005",
+        "url": "61\/6111\/611103\/6111032004\/6111032004005.json",
+        "nama": "TPS 005, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004006",
+        "url": "61\/6111\/611103\/6111032004\/6111032004006.json",
+        "nama": "TPS 006, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004007",
+        "url": "61\/6111\/611103\/6111032004\/6111032004007.json",
+        "nama": "TPS 007, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004008",
+        "url": "61\/6111\/611103\/6111032004\/6111032004008.json",
+        "nama": "TPS 008, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004009",
+        "url": "61\/6111\/611103\/6111032004\/6111032004009.json",
+        "nama": "TPS 009, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004010",
+        "url": "61\/6111\/611103\/6111032004\/6111032004010.json",
+        "nama": "TPS 010, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004011",
+        "url": "61\/6111\/611103\/6111032004\/6111032004011.json",
+        "nama": "TPS 011, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032004",
+        "tps": "6111032004012",
+        "url": "61\/6111\/611103\/6111032004\/6111032004012.json",
+        "nama": "TPS 012, SUNGAIPADUAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003001",
+        "url": "61\/6111\/611103\/6111032003\/6111032003001.json",
+        "nama": "TPS 001, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003002",
+        "url": "61\/6111\/611103\/6111032003\/6111032003002.json",
+        "nama": "TPS 002, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003003",
+        "url": "61\/6111\/611103\/6111032003\/6111032003003.json",
+        "nama": "TPS 003, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003004",
+        "url": "61\/6111\/611103\/6111032003\/6111032003004.json",
+        "nama": "TPS 004, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003005",
+        "url": "61\/6111\/611103\/6111032003\/6111032003005.json",
+        "nama": "TPS 005, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003006",
+        "url": "61\/6111\/611103\/6111032003\/6111032003006.json",
+        "nama": "TPS 006, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003007",
+        "url": "61\/6111\/611103\/6111032003\/6111032003007.json",
+        "nama": "TPS 007, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003008",
+        "url": "61\/6111\/611103\/6111032003\/6111032003008.json",
+        "nama": "TPS 008, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003009",
+        "url": "61\/6111\/611103\/6111032003\/6111032003009.json",
+        "nama": "TPS 009, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003010",
+        "url": "61\/6111\/611103\/6111032003\/6111032003010.json",
+        "nama": "TPS 010, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032003",
+        "tps": "6111032003011",
+        "url": "61\/6111\/611103\/6111032003\/6111032003011.json",
+        "nama": "TPS 011, TELUKBATANG, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032006",
+        "tps": "6111032006001",
+        "url": "61\/6111\/611103\/6111032006\/6111032006001.json",
+        "nama": "TPS 001, TELUKBATANG SELATAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032006",
+        "tps": "6111032006002",
+        "url": "61\/6111\/611103\/6111032006\/6111032006002.json",
+        "nama": "TPS 002, TELUKBATANG SELATAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032006",
+        "tps": "6111032006003",
+        "url": "61\/6111\/611103\/6111032006\/6111032006003.json",
+        "nama": "TPS 003, TELUKBATANG SELATAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032006",
+        "tps": "6111032006004",
+        "url": "61\/6111\/611103\/6111032006\/6111032006004.json",
+        "nama": "TPS 004, TELUKBATANG SELATAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032006",
+        "tps": "6111032006005",
+        "url": "61\/6111\/611103\/6111032006\/6111032006005.json",
+        "nama": "TPS 005, TELUKBATANG SELATAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032006",
+        "tps": "6111032006006",
+        "url": "61\/6111\/611103\/6111032006\/6111032006006.json",
+        "nama": "TPS 006, TELUKBATANG SELATAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032006",
+        "tps": "6111032006007",
+        "url": "61\/6111\/611103\/6111032006\/6111032006007.json",
+        "nama": "TPS 007, TELUKBATANG SELATAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032006",
+        "tps": "6111032006008",
+        "url": "61\/6111\/611103\/6111032006\/6111032006008.json",
+        "nama": "TPS 008, TELUKBATANG SELATAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032006",
+        "tps": "6111032006009",
+        "url": "61\/6111\/611103\/6111032006\/6111032006009.json",
+        "nama": "TPS 009, TELUKBATANG SELATAN, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032007",
+        "tps": "6111032007001",
+        "url": "61\/6111\/611103\/6111032007\/6111032007001.json",
+        "nama": "TPS 001, TELUKBATANG UTARA, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032007",
+        "tps": "6111032007002",
+        "url": "61\/6111\/611103\/6111032007\/6111032007002.json",
+        "nama": "TPS 002, TELUKBATANG UTARA, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032007",
+        "tps": "6111032007003",
+        "url": "61\/6111\/611103\/6111032007\/6111032007003.json",
+        "nama": "TPS 003, TELUKBATANG UTARA, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032007",
+        "tps": "6111032007004",
+        "url": "61\/6111\/611103\/6111032007\/6111032007004.json",
+        "nama": "TPS 004, TELUKBATANG UTARA, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032007",
+        "tps": "6111032007005",
+        "url": "61\/6111\/611103\/6111032007\/6111032007005.json",
+        "nama": "TPS 005, TELUKBATANG UTARA, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032007",
+        "tps": "6111032007006",
+        "url": "61\/6111\/611103\/6111032007\/6111032007006.json",
+        "nama": "TPS 006, TELUKBATANG UTARA, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032007",
+        "tps": "6111032007007",
+        "url": "61\/6111\/611103\/6111032007\/6111032007007.json",
+        "nama": "TPS 007, TELUKBATANG UTARA, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032007",
+        "tps": "6111032007008",
+        "url": "61\/6111\/611103\/6111032007\/6111032007008.json",
+        "nama": "TPS 008, TELUKBATANG UTARA, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6111",
+        "kecamatan": "611103",
+        "desa": "6111032007",
+        "tps": "6111032007009",
+        "url": "61\/6111\/611103\/6111032007\/6111032007009.json",
+        "nama": "TPS 009, TELUKBATANG UTARA, TELUK BATANG, KAYONG UTARA, KALIMANTAN BARAT"
+    }
+]

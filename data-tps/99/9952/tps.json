@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9952",
+        "kecamatan": "995201",
+        "desa": "9952010001",
+        "tps": "9952010001003",
+        "url": "99\/9952\/995201\/9952010001\/9952010001003.json",
+        "nama": "KSK 001, Istanbul, Turki, Istanbul, Turki, Istanbul, Turki, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9952",
+        "kecamatan": "995201",
+        "desa": "9952010001",
+        "tps": "9952010001001",
+        "url": "99\/9952\/995201\/9952010001\/9952010001001.json",
+        "nama": "POS 001, Istanbul, Turki, Istanbul, Turki, Istanbul, Turki, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9952",
+        "kecamatan": "995201",
+        "desa": "9952010001",
+        "tps": "9952010001002",
+        "url": "99\/9952\/995201\/9952010001\/9952010001002.json",
+        "nama": "TPS 001, Istanbul, Turki, Istanbul, Turki, Istanbul, Turki, Luar Negeri"
+    }
+]

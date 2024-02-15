@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "14",
+        "kabupaten": "1408",
+        "kecamatan": "140807",
+        "desa": "1408072003",
+        "tps": "1408072003001",
+        "nama": "TPS 001, BUANA BAKTI, KERINCI KANAN, SIAK, RIAU",
+        "selisih": -101,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1408\/140807\/1408072003\/1408072003001"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1408",
+        "kecamatan": "140807",
+        "desa": "1408072004",
+        "tps": "1408072004002",
+        "nama": "TPS 002, BUKIT HARAPAN, KERINCI KANAN, SIAK, RIAU",
+        "selisih": -30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1408\/140807\/1408072004\/1408072004002"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1408",
+        "kecamatan": "140801",
+        "desa": "1408012012",
+        "tps": "1408012012003",
+        "nama": "TPS 003, MEREMPAN HULU, SIAK, SIAK, RIAU",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1408\/140801\/1408012012\/1408012012003"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1408",
+        "kecamatan": "140802",
+        "desa": "1408022014",
+        "tps": "1408022014005",
+        "nama": "TPS 005, TELUK BATIL, SUNGAI APIT, SIAK, RIAU",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1408\/140802\/1408022014\/1408022014005"
+    }
+]

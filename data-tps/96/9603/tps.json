@@ -1,0 +1,1883 @@
+[
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960305",
+        "desa": "9603052006",
+        "tps": "9603052006001",
+        "url": "96\/9603\/960305\/9603052006\/9603052006001.json",
+        "nama": "TPS 001, BOISERAN, AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960305",
+        "desa": "9603052001",
+        "tps": "9603052001001",
+        "url": "96\/9603\/960305\/9603052001\/9603052001001.json",
+        "nama": "TPS 001, DOREHKAR, AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960305",
+        "desa": "9603052007",
+        "tps": "9603052007001",
+        "url": "96\/9603\/960305\/9603052007\/9603052007001.json",
+        "nama": "TPS 001, RUNI, AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960305",
+        "desa": "9603052008",
+        "tps": "9603052008001",
+        "url": "96\/9603\/960305\/9603052008\/9603052008001.json",
+        "nama": "TPS 001, YENKANFAN, AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960305",
+        "desa": "9603052003",
+        "tps": "9603052003001",
+        "url": "96\/9603\/960305\/9603052003\/9603052003001.json",
+        "nama": "TPS 001, YENKAWIR, AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960325",
+        "desa": "9603252002",
+        "tps": "9603252002001",
+        "url": "96\/9603\/960325\/9603252002\/9603252002001.json",
+        "nama": "TPS 001, AMDUI, BATANTA SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960325",
+        "desa": "9603252002",
+        "tps": "9603252002002",
+        "url": "96\/9603\/960325\/9603252002\/9603252002002.json",
+        "nama": "TPS 002, AMDUI, BATANTA SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960325",
+        "desa": "9603252003",
+        "tps": "9603252003001",
+        "url": "96\/9603\/960325\/9603252003\/9603252003001.json",
+        "nama": "TPS 001, WAILEBET, BATANTA SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960325",
+        "desa": "9603252004",
+        "tps": "9603252004001",
+        "url": "96\/9603\/960325\/9603252004\/9603252004001.json",
+        "nama": "TPS 001, WAIMAN KEC BATANTA SELATAN, BATANTA SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960325",
+        "desa": "9603252001",
+        "tps": "9603252001001",
+        "url": "96\/9603\/960325\/9603252001\/9603252001001.json",
+        "nama": "TPS 001, YENANAS, BATANTA SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960320",
+        "desa": "9603202004",
+        "tps": "9603202004001",
+        "url": "96\/9603\/960320\/9603202004\/9603202004001.json",
+        "nama": "TPS 001, AREFI SELATAN, BATANTA UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960320",
+        "desa": "9603202004",
+        "tps": "9603202004002",
+        "url": "96\/9603\/960320\/9603202004\/9603202004002.json",
+        "nama": "TPS 002, AREFI SELATAN, BATANTA UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960320",
+        "desa": "9603202003",
+        "tps": "9603202003001",
+        "url": "96\/9603\/960320\/9603202003\/9603202003001.json",
+        "nama": "TPS 001, AREFI TIMUR, BATANTA UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960320",
+        "desa": "9603202002",
+        "tps": "9603202002001",
+        "url": "96\/9603\/960320\/9603202002\/9603202002001.json",
+        "nama": "TPS 001, YENSAWAI BARAT, BATANTA UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960320",
+        "desa": "9603202002",
+        "tps": "9603202002002",
+        "url": "96\/9603\/960320\/9603202002\/9603202002002.json",
+        "nama": "TPS 002, YENSAWAI BARAT, BATANTA UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960320",
+        "desa": "9603202001",
+        "tps": "9603202001001",
+        "url": "96\/9603\/960320\/9603202001\/9603202001001.json",
+        "nama": "TPS 001, YENSAWAI TIMUR, BATANTA UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960324",
+        "desa": "9603242001",
+        "tps": "9603242001001",
+        "url": "96\/9603\/960324\/9603242001\/9603242001001.json",
+        "nama": "TPS 001, ABIDON, KEPULAUAN AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960324",
+        "desa": "9603242004",
+        "tps": "9603242004001",
+        "url": "96\/9603\/960324\/9603242004\/9603242004001.json",
+        "nama": "TPS 001, MEOSBEKWAN, KEPULAUAN AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960324",
+        "desa": "9603242003",
+        "tps": "9603242003001",
+        "url": "96\/9603\/960324\/9603242003\/9603242003001.json",
+        "nama": "TPS 001, RENI, KEPULAUAN AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960324",
+        "desa": "9603242002",
+        "tps": "9603242002001",
+        "url": "96\/9603\/960324\/9603242002\/9603242002001.json",
+        "nama": "TPS 001, RUTUM, KEPULAUAN AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960324",
+        "desa": "9603242002",
+        "tps": "9603242002002",
+        "url": "96\/9603\/960324\/9603242002\/9603242002002.json",
+        "nama": "TPS 002, RUTUM, KEPULAUAN AYAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960317",
+        "desa": "9603172004",
+        "tps": "9603172004001",
+        "url": "96\/9603\/960317\/9603172004\/9603172004001.json",
+        "nama": "TPS 001, PULAU TIKUS, KEPULAUAN SEMBILAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960317",
+        "desa": "9603172003",
+        "tps": "9603172003001",
+        "url": "96\/9603\/960317\/9603172003\/9603172003001.json",
+        "nama": "TPS 001, SATOKURANO, KEPULAUAN SEMBILAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960317",
+        "desa": "9603172001",
+        "tps": "9603172001001",
+        "url": "96\/9603\/960317\/9603172001\/9603172001001.json",
+        "nama": "TPS 001, WEIJIM BARAT, KEPULAUAN SEMBILAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960317",
+        "desa": "9603172001",
+        "tps": "9603172001002",
+        "url": "96\/9603\/960317\/9603172001\/9603172001002.json",
+        "nama": "TPS 002, WEIJIM BARAT, KEPULAUAN SEMBILAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960317",
+        "desa": "9603172002",
+        "tps": "9603172002001",
+        "url": "96\/9603\/960317\/9603172002\/9603172002001.json",
+        "nama": "TPS 001, WEIJIM TIMUR, KEPULAUAN SEMBILAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960317",
+        "desa": "9603172002",
+        "tps": "9603172002002",
+        "url": "96\/9603\/960317\/9603172002\/9603172002002.json",
+        "nama": "TPS 002, WEIJIM TIMUR, KEPULAUAN SEMBILAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960310",
+        "desa": "9603102005",
+        "tps": "9603102005001",
+        "url": "96\/9603\/960310\/9603102005\/9603102005001.json",
+        "nama": "TPS 001, AWAT, KOFIAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960310",
+        "desa": "9603102003",
+        "tps": "9603102003001",
+        "url": "96\/9603\/960310\/9603102003\/9603102003001.json",
+        "nama": "TPS 001, DEER, KOFIAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960310",
+        "desa": "9603102003",
+        "tps": "9603102003002",
+        "url": "96\/9603\/960310\/9603102003\/9603102003002.json",
+        "nama": "TPS 002, DEER, KOFIAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960310",
+        "desa": "9603102003",
+        "tps": "9603102003003",
+        "url": "96\/9603\/960310\/9603102003\/9603102003003.json",
+        "nama": "TPS 003, DEER, KOFIAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960310",
+        "desa": "9603102001",
+        "tps": "9603102001001",
+        "url": "96\/9603\/960310\/9603102001\/9603102001001.json",
+        "nama": "TPS 001, DIBALAL, KOFIAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960310",
+        "desa": "9603102001",
+        "tps": "9603102001002",
+        "url": "96\/9603\/960310\/9603102001\/9603102001002.json",
+        "nama": "TPS 002, DIBALAL, KOFIAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960310",
+        "desa": "9603102004",
+        "tps": "9603102004001",
+        "url": "96\/9603\/960310\/9603102004\/9603102004001.json",
+        "nama": "TPS 001, MIKIRAN, KOFIAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960310",
+        "desa": "9603102002",
+        "tps": "9603102002001",
+        "url": "96\/9603\/960310\/9603102002\/9603102002001.json",
+        "nama": "TPS 001, TOLOBI, KOFIAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960310",
+        "desa": "9603102002",
+        "tps": "9603102002002",
+        "url": "96\/9603\/960310\/9603102002\/9603102002002.json",
+        "nama": "TPS 002, TOLOBI, KOFIAU, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181003",
+        "tps": "9603181003001",
+        "url": "96\/9603\/960318\/9603181003\/9603181003001.json",
+        "nama": "TPS 001, BONKAWIR, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181003",
+        "tps": "9603181003002",
+        "url": "96\/9603\/960318\/9603181003\/9603181003002.json",
+        "nama": "TPS 002, BONKAWIR, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181003",
+        "tps": "9603181003003",
+        "url": "96\/9603\/960318\/9603181003\/9603181003003.json",
+        "nama": "TPS 003, BONKAWIR, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181003",
+        "tps": "9603181003004",
+        "url": "96\/9603\/960318\/9603181003\/9603181003004.json",
+        "nama": "TPS 004, BONKAWIR, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181003",
+        "tps": "9603181003005",
+        "url": "96\/9603\/960318\/9603181003\/9603181003005.json",
+        "nama": "TPS 005, BONKAWIR, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002001",
+        "url": "96\/9603\/960318\/9603181002\/9603181002001.json",
+        "nama": "TPS 001, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002002",
+        "url": "96\/9603\/960318\/9603181002\/9603181002002.json",
+        "nama": "TPS 002, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002003",
+        "url": "96\/9603\/960318\/9603181002\/9603181002003.json",
+        "nama": "TPS 003, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002004",
+        "url": "96\/9603\/960318\/9603181002\/9603181002004.json",
+        "nama": "TPS 004, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002005",
+        "url": "96\/9603\/960318\/9603181002\/9603181002005.json",
+        "nama": "TPS 005, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002006",
+        "url": "96\/9603\/960318\/9603181002\/9603181002006.json",
+        "nama": "TPS 006, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002007",
+        "url": "96\/9603\/960318\/9603181002\/9603181002007.json",
+        "nama": "TPS 007, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002008",
+        "url": "96\/9603\/960318\/9603181002\/9603181002008.json",
+        "nama": "TPS 008, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002009",
+        "url": "96\/9603\/960318\/9603181002\/9603181002009.json",
+        "nama": "TPS 009, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002010",
+        "url": "96\/9603\/960318\/9603181002\/9603181002010.json",
+        "nama": "TPS 010, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002011",
+        "url": "96\/9603\/960318\/9603181002\/9603181002011.json",
+        "nama": "TPS 011, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002012",
+        "url": "96\/9603\/960318\/9603181002\/9603181002012.json",
+        "nama": "TPS 012, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181002",
+        "tps": "9603181002013",
+        "url": "96\/9603\/960318\/9603181002\/9603181002013.json",
+        "nama": "TPS 013, SAPORDANCO, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001001",
+        "url": "96\/9603\/960318\/9603181001\/9603181001001.json",
+        "nama": "TPS 001, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001002",
+        "url": "96\/9603\/960318\/9603181001\/9603181001002.json",
+        "nama": "TPS 002, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001003",
+        "url": "96\/9603\/960318\/9603181001\/9603181001003.json",
+        "nama": "TPS 003, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001004",
+        "url": "96\/9603\/960318\/9603181001\/9603181001004.json",
+        "nama": "TPS 004, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001005",
+        "url": "96\/9603\/960318\/9603181001\/9603181001005.json",
+        "nama": "TPS 005, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001006",
+        "url": "96\/9603\/960318\/9603181001\/9603181001006.json",
+        "nama": "TPS 006, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001007",
+        "url": "96\/9603\/960318\/9603181001\/9603181001007.json",
+        "nama": "TPS 007, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001008",
+        "url": "96\/9603\/960318\/9603181001\/9603181001008.json",
+        "nama": "TPS 008, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001009",
+        "url": "96\/9603\/960318\/9603181001\/9603181001009.json",
+        "nama": "TPS 009, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001010",
+        "url": "96\/9603\/960318\/9603181001\/9603181001010.json",
+        "nama": "TPS 010, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001011",
+        "url": "96\/9603\/960318\/9603181001\/9603181001011.json",
+        "nama": "TPS 011, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001012",
+        "url": "96\/9603\/960318\/9603181001\/9603181001012.json",
+        "nama": "TPS 012, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001013",
+        "url": "96\/9603\/960318\/9603181001\/9603181001013.json",
+        "nama": "TPS 013, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001014",
+        "url": "96\/9603\/960318\/9603181001\/9603181001014.json",
+        "nama": "TPS 014, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001015",
+        "url": "96\/9603\/960318\/9603181001\/9603181001015.json",
+        "nama": "TPS 015, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001016",
+        "url": "96\/9603\/960318\/9603181001\/9603181001016.json",
+        "nama": "TPS 016, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001017",
+        "url": "96\/9603\/960318\/9603181001\/9603181001017.json",
+        "nama": "TPS 017, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001018",
+        "url": "96\/9603\/960318\/9603181001\/9603181001018.json",
+        "nama": "TPS 018, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001019",
+        "url": "96\/9603\/960318\/9603181001\/9603181001019.json",
+        "nama": "TPS 019, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001020",
+        "url": "96\/9603\/960318\/9603181001\/9603181001020.json",
+        "nama": "TPS 020, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001021",
+        "url": "96\/9603\/960318\/9603181001\/9603181001021.json",
+        "nama": "TPS 021, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181001",
+        "tps": "9603181001022",
+        "url": "96\/9603\/960318\/9603181001\/9603181001022.json",
+        "nama": "TPS 022, WAISAI, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181004",
+        "tps": "9603181004001",
+        "url": "96\/9603\/960318\/9603181004\/9603181004001.json",
+        "nama": "TPS 001, WARMASEN, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181004",
+        "tps": "9603181004002",
+        "url": "96\/9603\/960318\/9603181004\/9603181004002.json",
+        "nama": "TPS 002, WARMASEN, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181004",
+        "tps": "9603181004003",
+        "url": "96\/9603\/960318\/9603181004\/9603181004003.json",
+        "nama": "TPS 003, WARMASEN, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181004",
+        "tps": "9603181004004",
+        "url": "96\/9603\/960318\/9603181004\/9603181004004.json",
+        "nama": "TPS 004, WARMASEN, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181004",
+        "tps": "9603181004005",
+        "url": "96\/9603\/960318\/9603181004\/9603181004005.json",
+        "nama": "TPS 005, WARMASEN, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181004",
+        "tps": "9603181004006",
+        "url": "96\/9603\/960318\/9603181004\/9603181004006.json",
+        "nama": "TPS 006, WARMASEN, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960318",
+        "desa": "9603181004",
+        "tps": "9603181004007",
+        "url": "96\/9603\/960318\/9603181004\/9603181004007.json",
+        "nama": "TPS 007, WARMASEN, KOTA WAISAI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960311",
+        "desa": "9603112005",
+        "tps": "9603112005001",
+        "url": "96\/9603\/960311\/9603112005\/9603112005001.json",
+        "nama": "TPS 001, ARBOREK, MEOS MANSAR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960311",
+        "desa": "9603112007",
+        "tps": "9603112007001",
+        "url": "96\/9603\/960311\/9603112007\/9603112007001.json",
+        "nama": "TPS 001, KABUY, MEOS MANSAR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960311",
+        "desa": "9603112002",
+        "tps": "9603112002001",
+        "url": "96\/9603\/960311\/9603112002\/9603112002001.json",
+        "nama": "TPS 001, KAPISAWAR, MEOS MANSAR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960311",
+        "desa": "9603112008",
+        "tps": "9603112008001",
+        "url": "96\/9603\/960311\/9603112008\/9603112008001.json",
+        "nama": "TPS 001, KURKAPA, MEOS MANSAR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960311",
+        "desa": "9603112009",
+        "tps": "9603112009001",
+        "url": "96\/9603\/960311\/9603112009\/9603112009001.json",
+        "nama": "TPS 001, SAUANDAREK, MEOS MANSAR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960311",
+        "desa": "9603112003",
+        "tps": "9603112003001",
+        "url": "96\/9603\/960311\/9603112003\/9603112003001.json",
+        "nama": "TPS 001, SAWINGGRAI, MEOS MANSAR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960311",
+        "desa": "9603112001",
+        "tps": "9603112001001",
+        "url": "96\/9603\/960311\/9603112001\/9603112001001.json",
+        "nama": "TPS 001, YENBEKWAN, MEOS MANSAR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960311",
+        "desa": "9603112006",
+        "tps": "9603112006001",
+        "url": "96\/9603\/960311\/9603112006\/9603112006001.json",
+        "nama": "TPS 001, YENBUBA, MEOS MANSAR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960311",
+        "desa": "9603112004",
+        "tps": "9603112004001",
+        "url": "96\/9603\/960311\/9603112004\/9603112004001.json",
+        "nama": "TPS 001, YENWAUPNOR, MEOS MANSAR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960301",
+        "desa": "9603012006",
+        "tps": "9603012006001",
+        "url": "96\/9603\/960301\/9603012006\/9603012006001.json",
+        "nama": "TPS 001, ADUWEI, MISOOL (MISOOL UTARA), RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960301",
+        "desa": "9603012007",
+        "tps": "9603012007001",
+        "url": "96\/9603\/960301\/9603012007\/9603012007001.json",
+        "nama": "TPS 001, ATKARI, MISOOL (MISOOL UTARA), RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960301",
+        "desa": "9603012007",
+        "tps": "9603012007002",
+        "url": "96\/9603\/960301\/9603012007\/9603012007002.json",
+        "nama": "TPS 002, ATKARI, MISOOL (MISOOL UTARA), RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960301",
+        "desa": "9603012005",
+        "tps": "9603012005001",
+        "url": "96\/9603\/960301\/9603012005\/9603012005001.json",
+        "nama": "TPS 001, SALAFEN, MISOOL (MISOOL UTARA), RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960301",
+        "desa": "9603012014",
+        "tps": "9603012014001",
+        "url": "96\/9603\/960301\/9603012014\/9603012014001.json",
+        "nama": "TPS 001, SOLAL, MISOOL (MISOOL UTARA), RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960301",
+        "desa": "9603012001",
+        "tps": "9603012001001",
+        "url": "96\/9603\/960301\/9603012001\/9603012001001.json",
+        "nama": "TPS 001, WAIGAMA, MISOOL (MISOOL UTARA), RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960301",
+        "desa": "9603012001",
+        "tps": "9603012001002",
+        "url": "96\/9603\/960301\/9603012001\/9603012001002.json",
+        "nama": "TPS 002, WAIGAMA, MISOOL (MISOOL UTARA), RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960301",
+        "desa": "9603012001",
+        "tps": "9603012001003",
+        "url": "96\/9603\/960301\/9603012001\/9603012001003.json",
+        "nama": "TPS 003, WAIGAMA, MISOOL (MISOOL UTARA), RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960316",
+        "desa": "9603162003",
+        "tps": "9603162003001",
+        "url": "96\/9603\/960316\/9603162003\/9603162003001.json",
+        "nama": "TPS 001, BIGA, MISOOL BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960316",
+        "desa": "9603162002",
+        "tps": "9603162002001",
+        "url": "96\/9603\/960316\/9603162002\/9603162002001.json",
+        "nama": "TPS 001, GAMTA, MISOOL BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960316",
+        "desa": "9603162004",
+        "tps": "9603162004001",
+        "url": "96\/9603\/960316\/9603162004\/9603162004001.json",
+        "nama": "TPS 001, KAPATCOL, MISOOL BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960316",
+        "desa": "9603162001",
+        "tps": "9603162001001",
+        "url": "96\/9603\/960316\/9603162001\/9603162001001.json",
+        "nama": "TPS 001, LILINTA, MISOOL BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960316",
+        "desa": "9603162001",
+        "tps": "9603162001002",
+        "url": "96\/9603\/960316\/9603162001\/9603162001002.json",
+        "nama": "TPS 002, LILINTA, MISOOL BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960316",
+        "desa": "9603162005",
+        "tps": "9603162005001",
+        "url": "96\/9603\/960316\/9603162005\/9603162005001.json",
+        "nama": "TPS 001, MAGEY, MISOOL BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132010",
+        "tps": "9603132010001",
+        "url": "96\/9603\/960313\/9603132010\/9603132010001.json",
+        "nama": "TPS 001, DABATAN, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132010",
+        "tps": "9603132010002",
+        "url": "96\/9603\/960313\/9603132010\/9603132010002.json",
+        "nama": "TPS 002, DABATAN, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132002",
+        "tps": "9603132002001",
+        "url": "96\/9603\/960313\/9603132002\/9603132002001.json",
+        "nama": "TPS 001, FAFANLAP, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132002",
+        "tps": "9603132002002",
+        "url": "96\/9603\/960313\/9603132002\/9603132002002.json",
+        "nama": "TPS 002, FAFANLAP, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132002",
+        "tps": "9603132002003",
+        "url": "96\/9603\/960313\/9603132002\/9603132002003.json",
+        "nama": "TPS 003, FAFANLAP, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132007",
+        "tps": "9603132007001",
+        "url": "96\/9603\/960313\/9603132007\/9603132007001.json",
+        "nama": "TPS 001, HARAPAN JAYA, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132007",
+        "tps": "9603132007002",
+        "url": "96\/9603\/960313\/9603132007\/9603132007002.json",
+        "nama": "TPS 002, HARAPAN JAYA, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132009",
+        "tps": "9603132009001",
+        "url": "96\/9603\/960313\/9603132009\/9603132009001.json",
+        "nama": "TPS 001, KAREYEPOP, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132006",
+        "tps": "9603132006001",
+        "url": "96\/9603\/960313\/9603132006\/9603132006001.json",
+        "nama": "TPS 001, YELLU, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132006",
+        "tps": "9603132006002",
+        "url": "96\/9603\/960313\/9603132006\/9603132006002.json",
+        "nama": "TPS 002, YELLU, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132006",
+        "tps": "9603132006003",
+        "url": "96\/9603\/960313\/9603132006\/9603132006003.json",
+        "nama": "TPS 003, YELLU, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960313",
+        "desa": "9603132006",
+        "tps": "9603132006004",
+        "url": "96\/9603\/960313\/9603132006\/9603132006004.json",
+        "nama": "TPS 004, YELLU, MISOOL SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960306",
+        "desa": "9603062016",
+        "tps": "9603062016001",
+        "url": "96\/9603\/960306\/9603062016\/9603062016001.json",
+        "nama": "TPS 001, AUDAM, MISOOL TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960306",
+        "desa": "9603062001",
+        "tps": "9603062001001",
+        "url": "96\/9603\/960306\/9603062001\/9603062001001.json",
+        "nama": "TPS 001, FOLEY, MISOOL TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960306",
+        "desa": "9603062001",
+        "tps": "9603062001002",
+        "url": "96\/9603\/960306\/9603062001\/9603062001002.json",
+        "nama": "TPS 002, FOLEY, MISOOL TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960306",
+        "desa": "9603062017",
+        "tps": "9603062017001",
+        "url": "96\/9603\/960306\/9603062017\/9603062017001.json",
+        "nama": "TPS 001, LIMALAS BARAT, MISOOL TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960306",
+        "desa": "9603062012",
+        "tps": "9603062012001",
+        "url": "96\/9603\/960306\/9603062012\/9603062012001.json",
+        "nama": "TPS 001, LIMALAS TIMUR, MISOOL TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960306",
+        "desa": "9603062003",
+        "tps": "9603062003001",
+        "url": "96\/9603\/960306\/9603062003\/9603062003001.json",
+        "nama": "TPS 001, TOMOLOL, MISOOL TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960306",
+        "desa": "9603062003",
+        "tps": "9603062003002",
+        "url": "96\/9603\/960306\/9603062003\/9603062003002.json",
+        "nama": "TPS 002, TOMOLOL, MISOOL TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960306",
+        "desa": "9603062011",
+        "tps": "9603062011001",
+        "url": "96\/9603\/960306\/9603062011\/9603062011001.json",
+        "nama": "TPS 001, USAHA JAYA, MISOOL TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960306",
+        "desa": "9603062011",
+        "tps": "9603062011002",
+        "url": "96\/9603\/960306\/9603062011\/9603062011002.json",
+        "nama": "TPS 002, USAHA JAYA, MISOOL TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960321",
+        "desa": "9603212003",
+        "tps": "9603212003001",
+        "url": "96\/9603\/960321\/9603212003\/9603212003001.json",
+        "nama": "TPS 001, KALIAM, SALAWATI BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960321",
+        "desa": "9603212003",
+        "tps": "9603212003002",
+        "url": "96\/9603\/960321\/9603212003\/9603212003002.json",
+        "nama": "TPS 002, KALIAM, SALAWATI BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960321",
+        "desa": "9603212004",
+        "tps": "9603212004001",
+        "url": "96\/9603\/960321\/9603212004\/9603212004001.json",
+        "nama": "TPS 001, KALWAL, SALAWATI BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960321",
+        "desa": "9603212002",
+        "tps": "9603212002001",
+        "url": "96\/9603\/960321\/9603212002\/9603212002001.json",
+        "nama": "TPS 001, SOLOL, SALAWATI BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960321",
+        "desa": "9603212002",
+        "tps": "9603212002002",
+        "url": "96\/9603\/960321\/9603212002\/9603212002002.json",
+        "nama": "TPS 002, SOLOL, SALAWATI BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960321",
+        "desa": "9603212001",
+        "tps": "9603212001001",
+        "url": "96\/9603\/960321\/9603212001\/9603212001001.json",
+        "nama": "TPS 001, WAIBON, SALAWATI BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960322",
+        "desa": "9603222001",
+        "tps": "9603222001001",
+        "url": "96\/9603\/960322\/9603222001\/9603222001001.json",
+        "nama": "TPS 001, KALOBO, SALAWATI TENGAH, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960322",
+        "desa": "9603222002",
+        "tps": "9603222002001",
+        "url": "96\/9603\/960322\/9603222002\/9603222002001.json",
+        "nama": "TPS 001, SAKABU, SALAWATI TENGAH, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960322",
+        "desa": "9603222002",
+        "tps": "9603222002002",
+        "url": "96\/9603\/960322\/9603222002\/9603222002002.json",
+        "nama": "TPS 002, SAKABU, SALAWATI TENGAH, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960322",
+        "desa": "9603222003",
+        "tps": "9603222003001",
+        "url": "96\/9603\/960322\/9603222003\/9603222003001.json",
+        "nama": "TPS 001, WAIBU, SALAWATI TENGAH, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960322",
+        "desa": "9603222003",
+        "tps": "9603222003002",
+        "url": "96\/9603\/960322\/9603222003\/9603222003002.json",
+        "nama": "TPS 002, WAIBU, SALAWATI TENGAH, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960322",
+        "desa": "9603222004",
+        "tps": "9603222004001",
+        "url": "96\/9603\/960322\/9603222004\/9603222004001.json",
+        "nama": "TPS 001, WAIJAN, SALAWATI TENGAH, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960322",
+        "desa": "9603222006",
+        "tps": "9603222006001",
+        "url": "96\/9603\/960322\/9603222006\/9603222006001.json",
+        "nama": "TPS 001, WAILABU, SALAWATI TENGAH, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960322",
+        "desa": "9603222007",
+        "tps": "9603222007001",
+        "url": "96\/9603\/960322\/9603222007\/9603222007001.json",
+        "nama": "TPS 001, WAILEN, SALAWATI TENGAH, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960322",
+        "desa": "9603222005",
+        "tps": "9603222005001",
+        "url": "96\/9603\/960322\/9603222005\/9603222005001.json",
+        "nama": "TPS 001, WAIMECI, SALAWATI TENGAH, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042003",
+        "tps": "9603042003001",
+        "url": "96\/9603\/960304\/9603042003\/9603042003001.json",
+        "nama": "TPS 001, JEFMAN BARAT, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042003",
+        "tps": "9603042003002",
+        "url": "96\/9603\/960304\/9603042003\/9603042003002.json",
+        "nama": "TPS 002, JEFMAN BARAT, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042016",
+        "tps": "9603042016001",
+        "url": "96\/9603\/960304\/9603042016\/9603042016001.json",
+        "nama": "TPS 001, JEFMAN TIMUR, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042002",
+        "tps": "9603042002001",
+        "url": "96\/9603\/960304\/9603042002\/9603042002001.json",
+        "nama": "TPS 001, KAPATLAP, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042002",
+        "tps": "9603042002002",
+        "url": "96\/9603\/960304\/9603042002\/9603042002002.json",
+        "nama": "TPS 002, KAPATLAP, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042001",
+        "tps": "9603042001001",
+        "url": "96\/9603\/960304\/9603042001\/9603042001001.json",
+        "nama": "TPS 001, SAMATE, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042001",
+        "tps": "9603042001002",
+        "url": "96\/9603\/960304\/9603042001\/9603042001002.json",
+        "nama": "TPS 002, SAMATE, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042017",
+        "tps": "9603042017001",
+        "url": "96\/9603\/960304\/9603042017\/9603042017001.json",
+        "nama": "TPS 001, WAIDIM, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042015",
+        "tps": "9603042015001",
+        "url": "96\/9603\/960304\/9603042015\/9603042015001.json",
+        "nama": "TPS 001, WAMEGA, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960304",
+        "desa": "9603042015",
+        "tps": "9603042015002",
+        "url": "96\/9603\/960304\/9603042015\/9603042015002.json",
+        "nama": "TPS 002, WAMEGA, SALAWATI UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960323",
+        "desa": "9603232003",
+        "tps": "9603232003001",
+        "url": "96\/9603\/960323\/9603232003\/9603232003001.json",
+        "nama": "TPS 001, DUBER, SUPNIN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960323",
+        "desa": "9603232004",
+        "tps": "9603232004001",
+        "url": "96\/9603\/960323\/9603232004\/9603232004001.json",
+        "nama": "TPS 001, KAPADIRI, SUPNIN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960323",
+        "desa": "9603232001",
+        "tps": "9603232001001",
+        "url": "96\/9603\/960323\/9603232001\/9603232001001.json",
+        "nama": "TPS 001, RAUKI, SUPNIN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960323",
+        "desa": "9603232002",
+        "tps": "9603232002001",
+        "url": "96\/9603\/960323\/9603232002\/9603232002001.json",
+        "nama": "TPS 001, URAI, SUPNIN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960309",
+        "desa": "9603092010",
+        "tps": "9603092010001",
+        "url": "96\/9603\/960309\/9603092010\/9603092010001.json",
+        "nama": "TPS 001, KALITOKO, TELUK MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960309",
+        "desa": "9603092001",
+        "tps": "9603092001001",
+        "url": "96\/9603\/960309\/9603092001\/9603092001001.json",
+        "nama": "TPS 001, LOPINTOL, TELUK MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960309",
+        "desa": "9603092009",
+        "tps": "9603092009001",
+        "url": "96\/9603\/960309\/9603092009\/9603092009001.json",
+        "nama": "TPS 001, MUMES, TELUK MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960309",
+        "desa": "9603092007",
+        "tps": "9603092007001",
+        "url": "96\/9603\/960309\/9603092007\/9603092007001.json",
+        "nama": "TPS 001, WARSAMDIN, TELUK MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960309",
+        "desa": "9603092007",
+        "tps": "9603092007002",
+        "url": "96\/9603\/960309\/9603092007\/9603092007002.json",
+        "nama": "TPS 002, WARSAMDIN, TELUK MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960319",
+        "desa": "9603192003",
+        "tps": "9603192003001",
+        "url": "96\/9603\/960319\/9603192003\/9603192003001.json",
+        "nama": "TPS 001, ARAWAI, TIPLOL MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960319",
+        "desa": "9603192004",
+        "tps": "9603192004001",
+        "url": "96\/9603\/960319\/9603192004\/9603192004001.json",
+        "nama": "TPS 001, BEO, TIPLOL MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960319",
+        "desa": "9603192001",
+        "tps": "9603192001001",
+        "url": "96\/9603\/960319\/9603192001\/9603192001001.json",
+        "nama": "TPS 001, GO, TIPLOL MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960319",
+        "desa": "9603192002",
+        "tps": "9603192002001",
+        "url": "96\/9603\/960319\/9603192002\/9603192002001.json",
+        "nama": "TPS 001, KABILOL, TIPLOL MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960319",
+        "desa": "9603192005",
+        "tps": "9603192005001",
+        "url": "96\/9603\/960319\/9603192005\/9603192005001.json",
+        "nama": "TPS 001, WAIFOI, TIPLOL MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960319",
+        "desa": "9603192006",
+        "tps": "9603192006001",
+        "url": "96\/9603\/960319\/9603192006\/9603192006001.json",
+        "nama": "TPS 001, WARIMAK, TIPLOL MAYALIBIT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960307",
+        "desa": "9603072007",
+        "tps": "9603072007001",
+        "url": "96\/9603\/960307\/9603072007\/9603072007001.json",
+        "nama": "TPS 001, BIANCI, WAIGEO BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960307",
+        "desa": "9603072005",
+        "tps": "9603072005001",
+        "url": "96\/9603\/960307\/9603072005\/9603072005001.json",
+        "nama": "TPS 001, MUTUS, WAIGEO BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960307",
+        "desa": "9603072011",
+        "tps": "9603072011001",
+        "url": "96\/9603\/960307\/9603072011\/9603072011001.json",
+        "nama": "TPS 001, SALEO, WAIGEO BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960307",
+        "desa": "9603072011",
+        "tps": "9603072011002",
+        "url": "96\/9603\/960307\/9603072011\/9603072011002.json",
+        "nama": "TPS 002, SALEO, WAIGEO BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960307",
+        "desa": "9603072001",
+        "tps": "9603072001001",
+        "url": "96\/9603\/960307\/9603072001\/9603072001001.json",
+        "nama": "TPS 001, SELPELE, WAIGEO BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960307",
+        "desa": "9603072012",
+        "tps": "9603072012001",
+        "url": "96\/9603\/960307\/9603072012\/9603072012001.json",
+        "nama": "TPS 001, WAISILIP, WAIGEO BARAT, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960315",
+        "desa": "9603152005",
+        "tps": "9603152005001",
+        "url": "96\/9603\/960315\/9603152005\/9603152005001.json",
+        "nama": "TPS 001, GAG, WAIGEO BARAT KEPULAUAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960315",
+        "desa": "9603152005",
+        "tps": "9603152005002",
+        "url": "96\/9603\/960315\/9603152005\/9603152005002.json",
+        "nama": "TPS 002, GAG, WAIGEO BARAT KEPULAUAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960315",
+        "desa": "9603152005",
+        "tps": "9603152005003",
+        "url": "96\/9603\/960315\/9603152005\/9603152005003.json",
+        "nama": "TPS 003, GAG, WAIGEO BARAT KEPULAUAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960315",
+        "desa": "9603152001",
+        "tps": "9603152001001",
+        "url": "96\/9603\/960315\/9603152001\/9603152001001.json",
+        "nama": "TPS 001, MANYAIFUN, WAIGEO BARAT KEPULAUAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960315",
+        "desa": "9603152002",
+        "tps": "9603152002001",
+        "url": "96\/9603\/960315\/9603152002\/9603152002001.json",
+        "nama": "TPS 001, MIOSMANGGARA, WAIGEO BARAT KEPULAUAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960315",
+        "desa": "9603152003",
+        "tps": "9603152003001",
+        "url": "96\/9603\/960315\/9603152003\/9603152003001.json",
+        "nama": "TPS 001, PAM, WAIGEO BARAT KEPULAUAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960315",
+        "desa": "9603152003",
+        "tps": "9603152003002",
+        "url": "96\/9603\/960315\/9603152003\/9603152003002.json",
+        "nama": "TPS 002, PAM, WAIGEO BARAT KEPULAUAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960315",
+        "desa": "9603152004",
+        "tps": "9603152004001",
+        "url": "96\/9603\/960315\/9603152004\/9603152004001.json",
+        "nama": "TPS 001, SAUKABU, WAIGEO BARAT KEPULAUAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960315",
+        "desa": "9603152006",
+        "tps": "9603152006001",
+        "url": "96\/9603\/960315\/9603152006\/9603152006001.json",
+        "nama": "TPS 001, SAUPAPIR, WAIGEO BARAT KEPULAUAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960303",
+        "desa": "9603032016",
+        "tps": "9603032016001",
+        "url": "96\/9603\/960303\/9603032016\/9603032016001.json",
+        "nama": "TPS 001, FRIWEN, WAIGEO SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960303",
+        "desa": "9603032004",
+        "tps": "9603032004001",
+        "url": "96\/9603\/960303\/9603032004\/9603032004001.json",
+        "nama": "TPS 001, SAONEK, WAIGEO SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960303",
+        "desa": "9603032004",
+        "tps": "9603032004002",
+        "url": "96\/9603\/960303\/9603032004\/9603032004002.json",
+        "nama": "TPS 002, SAONEK, WAIGEO SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960303",
+        "desa": "9603032004",
+        "tps": "9603032004003",
+        "url": "96\/9603\/960303\/9603032004\/9603032004003.json",
+        "nama": "TPS 003, SAONEK, WAIGEO SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960303",
+        "desa": "9603032014",
+        "tps": "9603032014001",
+        "url": "96\/9603\/960303\/9603032014\/9603032014001.json",
+        "nama": "TPS 001, SAPORKREN, WAIGEO SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960303",
+        "desa": "9603032014",
+        "tps": "9603032014002",
+        "url": "96\/9603\/960303\/9603032014\/9603032014002.json",
+        "nama": "TPS 002, SAPORKREN, WAIGEO SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960303",
+        "desa": "9603032017",
+        "tps": "9603032017001",
+        "url": "96\/9603\/960303\/9603032017\/9603032017001.json",
+        "nama": "TPS 001, WAWIYAI, WAIGEO SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960303",
+        "desa": "9603032015",
+        "tps": "9603032015001",
+        "url": "96\/9603\/960303\/9603032015\/9603032015001.json",
+        "nama": "TPS 001, YENBESER, WAIGEO SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960303",
+        "desa": "9603032015",
+        "tps": "9603032015002",
+        "url": "96\/9603\/960303\/9603032015\/9603032015002.json",
+        "nama": "TPS 002, YENBESER, WAIGEO SELATAN, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960308",
+        "desa": "9603082001",
+        "tps": "9603082001001",
+        "url": "96\/9603\/960308\/9603082001\/9603082001001.json",
+        "nama": "TPS 001, PUPER, WAIGEO TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960308",
+        "desa": "9603082003",
+        "tps": "9603082003001",
+        "url": "96\/9603\/960308\/9603082003\/9603082003001.json",
+        "nama": "TPS 001, URBINASOPEN, WAIGEO TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960308",
+        "desa": "9603082003",
+        "tps": "9603082003002",
+        "url": "96\/9603\/960308\/9603082003\/9603082003002.json",
+        "nama": "TPS 002, URBINASOPEN, WAIGEO TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960308",
+        "desa": "9603082002",
+        "tps": "9603082002001",
+        "url": "96\/9603\/960308\/9603082002\/9603082002001.json",
+        "nama": "TPS 001, YENBEKAKI, WAIGEO TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960308",
+        "desa": "9603082004",
+        "tps": "9603082004001",
+        "url": "96\/9603\/960308\/9603082004\/9603082004001.json",
+        "nama": "TPS 001, YENSNER, WAIGEO TIMUR, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960302",
+        "desa": "9603022010",
+        "tps": "9603022010001",
+        "url": "96\/9603\/960302\/9603022010\/9603022010001.json",
+        "nama": "TPS 001, ANDEY, WAIGEO UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960302",
+        "desa": "9603022011",
+        "tps": "9603022011001",
+        "url": "96\/9603\/960302\/9603022011\/9603022011001.json",
+        "nama": "TPS 001, ASUKWERI, WAIGEO UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960302",
+        "desa": "9603022013",
+        "tps": "9603022013001",
+        "url": "96\/9603\/960302\/9603022013\/9603022013001.json",
+        "nama": "TPS 001, BONSAYOR, WAIGEO UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960302",
+        "desa": "9603022013",
+        "tps": "9603022013002",
+        "url": "96\/9603\/960302\/9603022013\/9603022013002.json",
+        "nama": "TPS 002, BONSAYOR, WAIGEO UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960302",
+        "desa": "9603022014",
+        "tps": "9603022014001",
+        "url": "96\/9603\/960302\/9603022014\/9603022014001.json",
+        "nama": "TPS 001, DARUMBAB, WAIGEO UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960302",
+        "desa": "9603022003",
+        "tps": "9603022003001",
+        "url": "96\/9603\/960302\/9603022003\/9603022003001.json",
+        "nama": "TPS 001, KABARE, WAIGEO UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960302",
+        "desa": "9603022003",
+        "tps": "9603022003002",
+        "url": "96\/9603\/960302\/9603022003\/9603022003002.json",
+        "nama": "TPS 002, KABARE, WAIGEO UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960302",
+        "desa": "9603022015",
+        "tps": "9603022015001",
+        "url": "96\/9603\/960302\/9603022015\/9603022015001.json",
+        "nama": "TPS 001, KALISADE, WAIGEO UTARA, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960314",
+        "desa": "9603142003",
+        "tps": "9603142003001",
+        "url": "96\/9603\/960314\/9603142003\/9603142003001.json",
+        "nama": "TPS 001, BONI, WARWARBOMI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960314",
+        "desa": "9603142002",
+        "tps": "9603142002001",
+        "url": "96\/9603\/960314\/9603142002\/9603142002001.json",
+        "nama": "TPS 001, MNIER, WARWARBOMI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960314",
+        "desa": "9603142004",
+        "tps": "9603142004001",
+        "url": "96\/9603\/960314\/9603142004\/9603142004001.json",
+        "nama": "TPS 001, WARKORI, WARWARBOMI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960314",
+        "desa": "9603142001",
+        "tps": "9603142001001",
+        "url": "96\/9603\/960314\/9603142001\/9603142001001.json",
+        "nama": "TPS 001, WARWANAI, WARWARBOMI, RAJA AMPAT, PAPUA BARAT DAYA"
+    },
+    {
+        "provinsi": "96",
+        "kabupaten": "9603",
+        "kecamatan": "960314",
+        "desa": "9603142001",
+        "tps": "9603142001002",
+        "url": "96\/9603\/960314\/9603142001\/9603142001002.json",
+        "nama": "TPS 002, WARWANAI, WARWARBOMI, RAJA AMPAT, PAPUA BARAT DAYA"
+    }
+]

@@ -1,0 +1,3485 @@
+[
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102008",
+        "tps": "1709102008001",
+        "url": "17\/1709\/170910\/1709102008\/1709102008001.json",
+        "nama": "TPS 001, AIR NAPAL, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102008",
+        "tps": "1709102008002",
+        "url": "17\/1709\/170910\/1709102008\/1709102008002.json",
+        "nama": "TPS 002, AIR NAPAL, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102011",
+        "tps": "1709102011001",
+        "url": "17\/1709\/170910\/1709102011\/1709102011001.json",
+        "nama": "TPS 001, BANG HAJI, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102011",
+        "tps": "1709102011002",
+        "url": "17\/1709\/170910\/1709102011\/1709102011002.json",
+        "nama": "TPS 002, BANG HAJI, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102009",
+        "tps": "1709102009001",
+        "url": "17\/1709\/170910\/1709102009\/1709102009001.json",
+        "nama": "TPS 001, GENTING, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102007",
+        "tps": "1709102007001",
+        "url": "17\/1709\/170910\/1709102007\/1709102007001.json",
+        "nama": "TPS 001, LUBUK LANGKAP, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102007",
+        "tps": "1709102007002",
+        "url": "17\/1709\/170910\/1709102007\/1709102007002.json",
+        "nama": "TPS 002, LUBUK LANGKAP, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102006",
+        "tps": "1709102006001",
+        "url": "17\/1709\/170910\/1709102006\/1709102006001.json",
+        "nama": "TPS 001, PADANG BERUNAI, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102006",
+        "tps": "1709102006002",
+        "url": "17\/1709\/170910\/1709102006\/1709102006002.json",
+        "nama": "TPS 002, PADANG BERUNAI, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102001",
+        "tps": "1709102001001",
+        "url": "17\/1709\/170910\/1709102001\/1709102001001.json",
+        "nama": "TPS 001, SEKAYUN, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102001",
+        "tps": "1709102001002",
+        "url": "17\/1709\/170910\/1709102001\/1709102001002.json",
+        "nama": "TPS 002, SEKAYUN, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102003",
+        "tps": "1709102003001",
+        "url": "17\/1709\/170910\/1709102003\/1709102003001.json",
+        "nama": "TPS 001, SEKAYUN HILIR, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102003",
+        "tps": "1709102003002",
+        "url": "17\/1709\/170910\/1709102003\/1709102003002.json",
+        "nama": "TPS 002, SEKAYUN HILIR, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102002",
+        "tps": "1709102002001",
+        "url": "17\/1709\/170910\/1709102002\/1709102002001.json",
+        "nama": "TPS 001, SEKAYUN MUDIK, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102002",
+        "tps": "1709102002002",
+        "url": "17\/1709\/170910\/1709102002\/1709102002002.json",
+        "nama": "TPS 002, SEKAYUN MUDIK, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102002",
+        "tps": "1709102002003",
+        "url": "17\/1709\/170910\/1709102002\/1709102002003.json",
+        "nama": "TPS 003, SEKAYUN MUDIK, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102012",
+        "tps": "1709102012001",
+        "url": "17\/1709\/170910\/1709102012\/1709102012001.json",
+        "nama": "TPS 001, SUNGKAI BERAYUN, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102005",
+        "tps": "1709102005001",
+        "url": "17\/1709\/170910\/1709102005\/1709102005001.json",
+        "nama": "TPS 001, TABA TENGAH, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102004",
+        "tps": "1709102004001",
+        "url": "17\/1709\/170910\/1709102004\/1709102004001.json",
+        "nama": "TPS 001, TALANG DONOK, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102004",
+        "tps": "1709102004002",
+        "url": "17\/1709\/170910\/1709102004\/1709102004002.json",
+        "nama": "TPS 002, TALANG DONOK, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102004",
+        "tps": "1709102004003",
+        "url": "17\/1709\/170910\/1709102004\/1709102004003.json",
+        "nama": "TPS 003, TALANG DONOK, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170910",
+        "desa": "1709102010",
+        "tps": "1709102010001",
+        "url": "17\/1709\/170910\/1709102010\/1709102010001.json",
+        "nama": "TPS 001, TALANG PANJANG, BANG HAJI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012004",
+        "tps": "1709012004001",
+        "url": "17\/1709\/170901\/1709012004\/1709012004001.json",
+        "nama": "TPS 001, DURIAN DEMANG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012004",
+        "tps": "1709012004002",
+        "url": "17\/1709\/170901\/1709012004\/1709012004002.json",
+        "nama": "TPS 002, DURIAN DEMANG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012004",
+        "tps": "1709012004003",
+        "url": "17\/1709\/170901\/1709012004\/1709012004003.json",
+        "nama": "TPS 003, DURIAN DEMANG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012004",
+        "tps": "1709012004004",
+        "url": "17\/1709\/170901\/1709012004\/1709012004004.json",
+        "nama": "TPS 004, DURIAN DEMANG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012004",
+        "tps": "1709012004005",
+        "url": "17\/1709\/170901\/1709012004\/1709012004005.json",
+        "nama": "TPS 005, DURIAN DEMANG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012007",
+        "tps": "1709012007001",
+        "url": "17\/1709\/170901\/1709012007\/1709012007001.json",
+        "nama": "TPS 001, DUSUN BARU II, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012007",
+        "tps": "1709012007002",
+        "url": "17\/1709\/170901\/1709012007\/1709012007002.json",
+        "nama": "TPS 002, DUSUN BARU II, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012007",
+        "tps": "1709012007003",
+        "url": "17\/1709\/170901\/1709012007\/1709012007003.json",
+        "nama": "TPS 003, DUSUN BARU II, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012007",
+        "tps": "1709012007004",
+        "url": "17\/1709\/170901\/1709012007\/1709012007004.json",
+        "nama": "TPS 004, DUSUN BARU II, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012011",
+        "tps": "1709012011001",
+        "url": "17\/1709\/170901\/1709012011\/1709012011001.json",
+        "nama": "TPS 001, KANCING, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012011",
+        "tps": "1709012011002",
+        "url": "17\/1709\/170901\/1709012011\/1709012011002.json",
+        "nama": "TPS 002, KANCING, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012009",
+        "tps": "1709012009001",
+        "url": "17\/1709\/170901\/1709012009\/1709012009001.json",
+        "nama": "TPS 001, KARANG TINGGI, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012009",
+        "tps": "1709012009002",
+        "url": "17\/1709\/170901\/1709012009\/1709012009002.json",
+        "nama": "TPS 002, KARANG TINGGI, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012009",
+        "tps": "1709012009003",
+        "url": "17\/1709\/170901\/1709012009\/1709012009003.json",
+        "nama": "TPS 003, KARANG TINGGI, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012009",
+        "tps": "1709012009004",
+        "url": "17\/1709\/170901\/1709012009\/1709012009004.json",
+        "nama": "TPS 004, KARANG TINGGI, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012009",
+        "tps": "1709012009005",
+        "url": "17\/1709\/170901\/1709012009\/1709012009005.json",
+        "nama": "TPS 005, KARANG TINGGI, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012003",
+        "tps": "1709012003001",
+        "url": "17\/1709\/170901\/1709012003\/1709012003001.json",
+        "nama": "TPS 001, PADANG TAMBAK, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012003",
+        "tps": "1709012003002",
+        "url": "17\/1709\/170901\/1709012003\/1709012003002.json",
+        "nama": "TPS 002, PADANG TAMBAK, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012003",
+        "tps": "1709012003003",
+        "url": "17\/1709\/170901\/1709012003\/1709012003003.json",
+        "nama": "TPS 003, PADANG TAMBAK, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012005",
+        "tps": "1709012005001",
+        "url": "17\/1709\/170901\/1709012005\/1709012005001.json",
+        "nama": "TPS 001, PELAJAU, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012005",
+        "tps": "1709012005002",
+        "url": "17\/1709\/170901\/1709012005\/1709012005002.json",
+        "nama": "TPS 002, PELAJAU, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012008",
+        "tps": "1709012008001",
+        "url": "17\/1709\/170901\/1709012008\/1709012008001.json",
+        "nama": "TPS 001, PENANDING, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012008",
+        "tps": "1709012008002",
+        "url": "17\/1709\/170901\/1709012008\/1709012008002.json",
+        "nama": "TPS 002, PENANDING, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012008",
+        "tps": "1709012008003",
+        "url": "17\/1709\/170901\/1709012008\/1709012008003.json",
+        "nama": "TPS 003, PENANDING, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012010",
+        "tps": "1709012010001",
+        "url": "17\/1709\/170901\/1709012010\/1709012010001.json",
+        "nama": "TPS 001, RENAH LEBAR, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012010",
+        "tps": "1709012010002",
+        "url": "17\/1709\/170901\/1709012010\/1709012010002.json",
+        "nama": "TPS 002, RENAH LEBAR, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012015",
+        "tps": "1709012015001",
+        "url": "17\/1709\/170901\/1709012015\/1709012015001.json",
+        "nama": "TPS 001, RENAH SEMANEK, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012015",
+        "tps": "1709012015002",
+        "url": "17\/1709\/170901\/1709012015\/1709012015002.json",
+        "nama": "TPS 002, RENAH SEMANEK, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012013",
+        "tps": "1709012013001",
+        "url": "17\/1709\/170901\/1709012013\/1709012013001.json",
+        "nama": "TPS 001, TABA MUTUNG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012013",
+        "tps": "1709012013002",
+        "url": "17\/1709\/170901\/1709012013\/1709012013002.json",
+        "nama": "TPS 002, TABA MUTUNG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012001",
+        "tps": "1709012001001",
+        "url": "17\/1709\/170901\/1709012001\/1709012001001.json",
+        "nama": "TPS 001, TABA TERUNJAM, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012001",
+        "tps": "1709012001002",
+        "url": "17\/1709\/170901\/1709012001\/1709012001002.json",
+        "nama": "TPS 002, TABA TERUNJAM, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012001",
+        "tps": "1709012001003",
+        "url": "17\/1709\/170901\/1709012001\/1709012001003.json",
+        "nama": "TPS 003, TABA TERUNJAM, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012002",
+        "tps": "1709012002001",
+        "url": "17\/1709\/170901\/1709012002\/1709012002001.json",
+        "nama": "TPS 001, TALANG EMPAT, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012002",
+        "tps": "1709012002002",
+        "url": "17\/1709\/170901\/1709012002\/1709012002002.json",
+        "nama": "TPS 002, TALANG EMPAT, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012002",
+        "tps": "1709012002003",
+        "url": "17\/1709\/170901\/1709012002\/1709012002003.json",
+        "nama": "TPS 003, TALANG EMPAT, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012012",
+        "tps": "1709012012001",
+        "url": "17\/1709\/170901\/1709012012\/1709012012001.json",
+        "nama": "TPS 001, UJUNG KARANG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012012",
+        "tps": "1709012012002",
+        "url": "17\/1709\/170901\/1709012012\/1709012012002.json",
+        "nama": "TPS 002, UJUNG KARANG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012012",
+        "tps": "1709012012003",
+        "url": "17\/1709\/170901\/1709012012\/1709012012003.json",
+        "nama": "TPS 003, UJUNG KARANG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170901",
+        "desa": "1709012012",
+        "tps": "1709012012004",
+        "url": "17\/1709\/170901\/1709012012\/1709012012004.json",
+        "nama": "TPS 004, UJUNG KARANG, KARANG TINGGI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072010",
+        "tps": "1709072010001",
+        "url": "17\/1709\/170907\/1709072010\/1709072010001.json",
+        "nama": "TPS 001, BAJAK II, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072010",
+        "tps": "1709072010002",
+        "url": "17\/1709\/170907\/1709072010\/1709072010002.json",
+        "nama": "TPS 002, BAJAK II, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072001",
+        "tps": "1709072001001",
+        "url": "17\/1709\/170907\/1709072001\/1709072001001.json",
+        "nama": "TPS 001, JAMBU, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072001",
+        "tps": "1709072001002",
+        "url": "17\/1709\/170907\/1709072001\/1709072001002.json",
+        "nama": "TPS 002, JAMBU, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072001",
+        "tps": "1709072001003",
+        "url": "17\/1709\/170907\/1709072001\/1709072001003.json",
+        "nama": "TPS 003, JAMBU, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072001",
+        "tps": "1709072001004",
+        "url": "17\/1709\/170907\/1709072001\/1709072001004.json",
+        "nama": "TPS 004, JAMBU, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072009",
+        "tps": "1709072009001",
+        "url": "17\/1709\/170907\/1709072009\/1709072009001.json",
+        "nama": "TPS 001, KELINDANG, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072009",
+        "tps": "1709072009002",
+        "url": "17\/1709\/170907\/1709072009\/1709072009002.json",
+        "nama": "TPS 002, KELINDANG, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072013",
+        "tps": "1709072013001",
+        "url": "17\/1709\/170907\/1709072013\/1709072013001.json",
+        "nama": "TPS 001, KELINDANG ATAS, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072013",
+        "tps": "1709072013002",
+        "url": "17\/1709\/170907\/1709072013\/1709072013002.json",
+        "nama": "TPS 002, KELINDANG ATAS, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072005",
+        "tps": "1709072005001",
+        "url": "17\/1709\/170907\/1709072005\/1709072005001.json",
+        "nama": "TPS 001, LUBUK UNEN, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072005",
+        "tps": "1709072005002",
+        "url": "17\/1709\/170907\/1709072005\/1709072005002.json",
+        "nama": "TPS 002, LUBUK UNEN, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072005",
+        "tps": "1709072005003",
+        "url": "17\/1709\/170907\/1709072005\/1709072005003.json",
+        "nama": "TPS 003, LUBUK UNEN, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072011",
+        "tps": "1709072011001",
+        "url": "17\/1709\/170907\/1709072011\/1709072011001.json",
+        "nama": "TPS 001, LUBUK UNEN BARU, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072011",
+        "tps": "1709072011002",
+        "url": "17\/1709\/170907\/1709072011\/1709072011002.json",
+        "nama": "TPS 002, LUBUK UNEN BARU, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072012",
+        "tps": "1709072012001",
+        "url": "17\/1709\/170907\/1709072012\/1709072012001.json",
+        "nama": "TPS 001, PADANG KEDEPER, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072002",
+        "tps": "1709072002001",
+        "url": "17\/1709\/170907\/1709072002\/1709072002001.json",
+        "nama": "TPS 001, PENEMBANG, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072002",
+        "tps": "1709072002002",
+        "url": "17\/1709\/170907\/1709072002\/1709072002002.json",
+        "nama": "TPS 002, PENEMBANG, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072007",
+        "tps": "1709072007001",
+        "url": "17\/1709\/170907\/1709072007\/1709072007001.json",
+        "nama": "TPS 001, PUNGGUK BERINGIN, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072007",
+        "tps": "1709072007002",
+        "url": "17\/1709\/170907\/1709072007\/1709072007002.json",
+        "nama": "TPS 002, PUNGGUK BERINGIN, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072006",
+        "tps": "1709072006001",
+        "url": "17\/1709\/170907\/1709072006\/1709072006001.json",
+        "nama": "TPS 001, PUNGGUK KETUPAK, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072006",
+        "tps": "1709072006002",
+        "url": "17\/1709\/170907\/1709072006\/1709072006002.json",
+        "nama": "TPS 002, PUNGGUK KETUPAK, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072004",
+        "tps": "1709072004001",
+        "url": "17\/1709\/170907\/1709072004\/1709072004001.json",
+        "nama": "TPS 001, TABA DURIAN SEBAKUL, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072004",
+        "tps": "1709072004002",
+        "url": "17\/1709\/170907\/1709072004\/1709072004002.json",
+        "nama": "TPS 002, TABA DURIAN SEBAKUL, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072003",
+        "tps": "1709072003001",
+        "url": "17\/1709\/170907\/1709072003\/1709072003001.json",
+        "nama": "TPS 001, TALANG AMBUNG, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072008",
+        "tps": "1709072008001",
+        "url": "17\/1709\/170907\/1709072008\/1709072008001.json",
+        "nama": "TPS 001, ULAK LEBAR, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170907",
+        "desa": "1709072008",
+        "tps": "1709072008002",
+        "url": "17\/1709\/170907\/1709072008\/1709072008002.json",
+        "nama": "TPS 002, ULAK LEBAR, MERIGI KELINDANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082006",
+        "tps": "1709082006001",
+        "url": "17\/1709\/170908\/1709082006\/1709082006001.json",
+        "nama": "TPS 001, ARGA INDAH II, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082006",
+        "tps": "1709082006002",
+        "url": "17\/1709\/170908\/1709082006\/1709082006002.json",
+        "nama": "TPS 002, ARGA INDAH II, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082006",
+        "tps": "1709082006003",
+        "url": "17\/1709\/170908\/1709082006\/1709082006003.json",
+        "nama": "TPS 003, ARGA INDAH II, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082002",
+        "tps": "1709082002001",
+        "url": "17\/1709\/170908\/1709082002\/1709082002001.json",
+        "nama": "TPS 001, BAJAK TIGA, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082007",
+        "tps": "1709082007001",
+        "url": "17\/1709\/170908\/1709082007\/1709082007001.json",
+        "nama": "TPS 001, CURUP, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082011",
+        "tps": "1709082011001",
+        "url": "17\/1709\/170908\/1709082011\/1709082011001.json",
+        "nama": "TPS 001, DURIAN LEBAR, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082011",
+        "tps": "1709082011002",
+        "url": "17\/1709\/170908\/1709082011\/1709082011002.json",
+        "nama": "TPS 002, DURIAN LEBAR, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082008",
+        "tps": "1709082008001",
+        "url": "17\/1709\/170908\/1709082008\/1709082008001.json",
+        "nama": "TPS 001, KARANG PANGGUNG, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082001",
+        "tps": "1709082001001",
+        "url": "17\/1709\/170908\/1709082001\/1709082001001.json",
+        "nama": "TPS 001, KOMERING, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082001",
+        "tps": "1709082001002",
+        "url": "17\/1709\/170908\/1709082001\/1709082001002.json",
+        "nama": "TPS 002, KOMERING, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082009",
+        "tps": "1709082009001",
+        "url": "17\/1709\/170908\/1709082009\/1709082009001.json",
+        "nama": "TPS 001, LUBUK PENDAM, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082010",
+        "tps": "1709082010001",
+        "url": "17\/1709\/170908\/1709082010\/1709082010001.json",
+        "nama": "TPS 001, LUBUK PUAR, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082012",
+        "tps": "1709082012001",
+        "url": "17\/1709\/170908\/1709082012\/1709082012001.json",
+        "nama": "TPS 001, PAGAR AGUNG, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082015",
+        "tps": "1709082015001",
+        "url": "17\/1709\/170908\/1709082015\/1709082015001.json",
+        "nama": "TPS 001, PAGAR BESI, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082015",
+        "tps": "1709082015002",
+        "url": "17\/1709\/170908\/1709082015\/1709082015002.json",
+        "nama": "TPS 002, PAGAR BESI, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082013",
+        "tps": "1709082013001",
+        "url": "17\/1709\/170908\/1709082013\/1709082013001.json",
+        "nama": "TPS 001, PUNGGUK JAYA, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082004",
+        "tps": "1709082004001",
+        "url": "17\/1709\/170908\/1709082004\/1709082004001.json",
+        "nama": "TPS 001, PUNJUNG, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082004",
+        "tps": "1709082004002",
+        "url": "17\/1709\/170908\/1709082004\/1709082004002.json",
+        "nama": "TPS 002, PUNJUNG, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082003",
+        "tps": "1709082003001",
+        "url": "17\/1709\/170908\/1709082003\/1709082003001.json",
+        "nama": "TPS 001, RAJAK BESI, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082003",
+        "tps": "1709082003002",
+        "url": "17\/1709\/170908\/1709082003\/1709082003002.json",
+        "nama": "TPS 002, RAJAK BESI, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082005",
+        "tps": "1709082005001",
+        "url": "17\/1709\/170908\/1709082005\/1709082005001.json",
+        "nama": "TPS 001, SUSUP, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082005",
+        "tps": "1709082005002",
+        "url": "17\/1709\/170908\/1709082005\/1709082005002.json",
+        "nama": "TPS 002, SUSUP, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170908",
+        "desa": "1709082014",
+        "tps": "1709082014001",
+        "url": "17\/1709\/170908\/1709082014\/1709082014001.json",
+        "nama": "TPS 001, TABA GEMANTUNG, MERIGI SAKTI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052018",
+        "tps": "1709052018001",
+        "url": "17\/1709\/170905\/1709052018\/1709052018001.json",
+        "nama": "TPS 001, ARGA INDAH I, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052018",
+        "tps": "1709052018002",
+        "url": "17\/1709\/170905\/1709052018\/1709052018002.json",
+        "nama": "TPS 002, ARGA INDAH I, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052013",
+        "tps": "1709052013001",
+        "url": "17\/1709\/170905\/1709052013\/1709052013001.json",
+        "nama": "TPS 001, DATAR PENOKAT, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052012",
+        "tps": "1709052012001",
+        "url": "17\/1709\/170905\/1709052012\/1709052012001.json",
+        "nama": "TPS 001, KARANG ARE, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052022",
+        "tps": "1709052022001",
+        "url": "17\/1709\/170905\/1709052022\/1709052022001.json",
+        "nama": "TPS 001, KEROYA, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052022",
+        "tps": "1709052022002",
+        "url": "17\/1709\/170905\/1709052022\/1709052022002.json",
+        "nama": "TPS 002, KEROYA, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052022",
+        "tps": "1709052022003",
+        "url": "17\/1709\/170905\/1709052022\/1709052022003.json",
+        "nama": "TPS 003, KEROYA, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052009",
+        "tps": "1709052009001",
+        "url": "17\/1709\/170905\/1709052009\/1709052009001.json",
+        "nama": "TPS 001, KERTA PATI, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052009",
+        "tps": "1709052009002",
+        "url": "17\/1709\/170905\/1709052009\/1709052009002.json",
+        "nama": "TPS 002, KERTA PATI, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052009",
+        "tps": "1709052009003",
+        "url": "17\/1709\/170905\/1709052009\/1709052009003.json",
+        "nama": "TPS 003, KERTA PATI, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052023",
+        "tps": "1709052023001",
+        "url": "17\/1709\/170905\/1709052023\/1709052023001.json",
+        "nama": "TPS 001, KERTAPATI MUDIK, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052023",
+        "tps": "1709052023002",
+        "url": "17\/1709\/170905\/1709052023\/1709052023002.json",
+        "nama": "TPS 002, KERTAPATI MUDIK, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052023",
+        "tps": "1709052023003",
+        "url": "17\/1709\/170905\/1709052023\/1709052023003.json",
+        "nama": "TPS 003, KERTAPATI MUDIK, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052014",
+        "tps": "1709052014001",
+        "url": "17\/1709\/170905\/1709052014\/1709052014001.json",
+        "nama": "TPS 001, LAYANG LEKAT, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052014",
+        "tps": "1709052014002",
+        "url": "17\/1709\/170905\/1709052014\/1709052014002.json",
+        "nama": "TPS 002, LAYANG LEKAT, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052010",
+        "tps": "1709052010001",
+        "url": "17\/1709\/170905\/1709052010\/1709052010001.json",
+        "nama": "TPS 001, PAGAR JATI, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052010",
+        "tps": "1709052010002",
+        "url": "17\/1709\/170905\/1709052010\/1709052010002.json",
+        "nama": "TPS 002, PAGAR JATI, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052024",
+        "tps": "1709052024001",
+        "url": "17\/1709\/170905\/1709052024\/1709052024001.json",
+        "nama": "TPS 001, RENA JAYA, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052017",
+        "tps": "1709052017001",
+        "url": "17\/1709\/170905\/1709052017\/1709052017001.json",
+        "nama": "TPS 001, RENA KANDIS, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052017",
+        "tps": "1709052017002",
+        "url": "17\/1709\/170905\/1709052017\/1709052017002.json",
+        "nama": "TPS 002, RENA KANDIS, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052008",
+        "tps": "1709052008001",
+        "url": "17\/1709\/170905\/1709052008\/1709052008001.json",
+        "nama": "TPS 001, TABA RENAH, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052016",
+        "tps": "1709052016001",
+        "url": "17\/1709\/170905\/1709052016\/1709052016001.json",
+        "nama": "TPS 001, TALANG CURUP, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052006",
+        "tps": "1709052006001",
+        "url": "17\/1709\/170905\/1709052006\/1709052006001.json",
+        "nama": "TPS 001, TEMIANG, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052006",
+        "tps": "1709052006002",
+        "url": "17\/1709\/170905\/1709052006\/1709052006002.json",
+        "nama": "TPS 002, TEMIANG, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052015",
+        "tps": "1709052015001",
+        "url": "17\/1709\/170905\/1709052015\/1709052015001.json",
+        "nama": "TPS 001, TUMBUK, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170905",
+        "desa": "1709052015",
+        "tps": "1709052015002",
+        "url": "17\/1709\/170905\/1709052015\/1709052015002.json",
+        "nama": "TPS 002, TUMBUK, PAGAR JATI, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042015",
+        "tps": "1709042015001",
+        "url": "17\/1709\/170904\/1709042015\/1709042015001.json",
+        "nama": "TPS 001, AIR KOTOK, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042015",
+        "tps": "1709042015002",
+        "url": "17\/1709\/170904\/1709042015\/1709042015002.json",
+        "nama": "TPS 002, AIR KOTOK, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042002",
+        "tps": "1709042002001",
+        "url": "17\/1709\/170904\/1709042002\/1709042002001.json",
+        "nama": "TPS 001, ATURAN MUMPO, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042002",
+        "tps": "1709042002002",
+        "url": "17\/1709\/170904\/1709042002\/1709042002002.json",
+        "nama": "TPS 002, ATURAN MUMPO, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042022",
+        "tps": "1709042022001",
+        "url": "17\/1709\/170904\/1709042022\/1709042022001.json",
+        "nama": "TPS 001, ATURAN MUMPO II, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042022",
+        "tps": "1709042022002",
+        "url": "17\/1709\/170904\/1709042022\/1709042022002.json",
+        "nama": "TPS 002, ATURAN MUMPO II, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042016",
+        "tps": "1709042016001",
+        "url": "17\/1709\/170904\/1709042016\/1709042016001.json",
+        "nama": "TPS 001, BATU BERIANG, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042016",
+        "tps": "1709042016002",
+        "url": "17\/1709\/170904\/1709042016\/1709042016002.json",
+        "nama": "TPS 002, BATU BERIANG, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042023",
+        "tps": "1709042023001",
+        "url": "17\/1709\/170904\/1709042023\/1709042023001.json",
+        "nama": "TPS 001, GENTING DABUK, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042023",
+        "tps": "1709042023002",
+        "url": "17\/1709\/170904\/1709042023\/1709042023002.json",
+        "nama": "TPS 002, GENTING DABUK, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042019",
+        "tps": "1709042019001",
+        "url": "17\/1709\/170904\/1709042019\/1709042019001.json",
+        "nama": "TPS 001, KEBUN LEBAR, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042019",
+        "tps": "1709042019002",
+        "url": "17\/1709\/170904\/1709042019\/1709042019002.json",
+        "nama": "TPS 002, KEBUN LEBAR, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042004",
+        "tps": "1709042004001",
+        "url": "17\/1709\/170904\/1709042004\/1709042004001.json",
+        "nama": "TPS 001, KOTA TITIK, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042017",
+        "tps": "1709042017001",
+        "url": "17\/1709\/170904\/1709042017\/1709042017001.json",
+        "nama": "TPS 001, PEMATANG TIGA, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042017",
+        "tps": "1709042017002",
+        "url": "17\/1709\/170904\/1709042017\/1709042017002.json",
+        "nama": "TPS 002, PEMATANG TIGA, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042021",
+        "tps": "1709042021001",
+        "url": "17\/1709\/170904\/1709042021\/1709042021001.json",
+        "nama": "TPS 001, PEMATANG TIGA LAMA, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042021",
+        "tps": "1709042021002",
+        "url": "17\/1709\/170904\/1709042021\/1709042021002.json",
+        "nama": "TPS 002, PEMATANG TIGA LAMA, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042007",
+        "tps": "1709042007001",
+        "url": "17\/1709\/170904\/1709042007\/1709042007001.json",
+        "nama": "TPS 001, SENABAH, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042007",
+        "tps": "1709042007002",
+        "url": "17\/1709\/170904\/1709042007\/1709042007002.json",
+        "nama": "TPS 002, SENABAH, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042003",
+        "tps": "1709042003001",
+        "url": "17\/1709\/170904\/1709042003\/1709042003001.json",
+        "nama": "TPS 001, TALANG TENGAH II, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042003",
+        "tps": "1709042003002",
+        "url": "17\/1709\/170904\/1709042003\/1709042003002.json",
+        "nama": "TPS 002, TALANG TENGAH II, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042020",
+        "tps": "1709042020001",
+        "url": "17\/1709\/170904\/1709042020\/1709042020001.json",
+        "nama": "TPS 001, TANJUNG KEPAHYANG, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042020",
+        "tps": "1709042020002",
+        "url": "17\/1709\/170904\/1709042020\/1709042020002.json",
+        "nama": "TPS 002, TANJUNG KEPAHYANG, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042018",
+        "tps": "1709042018001",
+        "url": "17\/1709\/170904\/1709042018\/1709042018001.json",
+        "nama": "TPS 001, TIAMBANG, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042018",
+        "tps": "1709042018002",
+        "url": "17\/1709\/170904\/1709042018\/1709042018002.json",
+        "nama": "TPS 002, TIAMBANG, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032024",
+        "tps": "1709032024001",
+        "url": "17\/1709\/170903\/1709032024\/1709032024001.json",
+        "nama": "TPS 001, ABU SAKIM, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032024",
+        "tps": "1709032024002",
+        "url": "17\/1709\/170903\/1709032024\/1709032024002.json",
+        "nama": "TPS 002, ABU SAKIM, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032024",
+        "tps": "1709032024003",
+        "url": "17\/1709\/170903\/1709032024\/1709032024003.json",
+        "nama": "TPS 003, ABU SAKIM, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032023",
+        "tps": "1709032023001",
+        "url": "17\/1709\/170903\/1709032023\/1709032023001.json",
+        "nama": "TPS 001, BINTANG SELATAN, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032023",
+        "tps": "1709032023002",
+        "url": "17\/1709\/170903\/1709032023\/1709032023002.json",
+        "nama": "TPS 002, BINTANG SELATAN, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032025",
+        "tps": "1709032025001",
+        "url": "17\/1709\/170903\/1709032025\/1709032025001.json",
+        "nama": "TPS 001, HARAPAN, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032025",
+        "tps": "1709032025002",
+        "url": "17\/1709\/170903\/1709032025\/1709032025002.json",
+        "nama": "TPS 002, HARAPAN, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032025",
+        "tps": "1709032025003",
+        "url": "17\/1709\/170903\/1709032025\/1709032025003.json",
+        "nama": "TPS 003, HARAPAN, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032025",
+        "tps": "1709032025004",
+        "url": "17\/1709\/170903\/1709032025\/1709032025004.json",
+        "nama": "TPS 004, HARAPAN, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032025",
+        "tps": "1709032025005",
+        "url": "17\/1709\/170903\/1709032025\/1709032025005.json",
+        "nama": "TPS 005, HARAPAN, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032020",
+        "tps": "1709032020001",
+        "url": "17\/1709\/170903\/1709032020\/1709032020001.json",
+        "nama": "TPS 001, KEMBANG AYUN, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032020",
+        "tps": "1709032020002",
+        "url": "17\/1709\/170903\/1709032020\/1709032020002.json",
+        "nama": "TPS 002, KEMBANG AYUN, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032015",
+        "tps": "1709032015001",
+        "url": "17\/1709\/170903\/1709032015\/1709032015001.json",
+        "nama": "TPS 001, PADANG BETUAH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032015",
+        "tps": "1709032015002",
+        "url": "17\/1709\/170903\/1709032015\/1709032015002.json",
+        "nama": "TPS 002, PADANG BETUAH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032015",
+        "tps": "1709032015003",
+        "url": "17\/1709\/170903\/1709032015\/1709032015003.json",
+        "nama": "TPS 003, PADANG BETUAH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032015",
+        "tps": "1709032015004",
+        "url": "17\/1709\/170903\/1709032015\/1709032015004.json",
+        "nama": "TPS 004, PADANG BETUAH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032019",
+        "tps": "1709032019001",
+        "url": "17\/1709\/170903\/1709032019\/1709032019001.json",
+        "nama": "TPS 001, PAGAR DEWA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032019",
+        "tps": "1709032019002",
+        "url": "17\/1709\/170903\/1709032019\/1709032019002.json",
+        "nama": "TPS 002, PAGAR DEWA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032021",
+        "tps": "1709032021001",
+        "url": "17\/1709\/170903\/1709032021\/1709032021001.json",
+        "nama": "TPS 001, PANCA MUKTI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032021",
+        "tps": "1709032021002",
+        "url": "17\/1709\/170903\/1709032021\/1709032021002.json",
+        "nama": "TPS 002, PANCA MUKTI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032021",
+        "tps": "1709032021003",
+        "url": "17\/1709\/170903\/1709032021\/1709032021003.json",
+        "nama": "TPS 003, PANCA MUKTI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032021",
+        "tps": "1709032021004",
+        "url": "17\/1709\/170903\/1709032021\/1709032021004.json",
+        "nama": "TPS 004, PANCA MUKTI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012001",
+        "url": "17\/1709\/170903\/1709032012\/1709032012001.json",
+        "nama": "TPS 001, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012002",
+        "url": "17\/1709\/170903\/1709032012\/1709032012002.json",
+        "nama": "TPS 002, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012003",
+        "url": "17\/1709\/170903\/1709032012\/1709032012003.json",
+        "nama": "TPS 003, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012004",
+        "url": "17\/1709\/170903\/1709032012\/1709032012004.json",
+        "nama": "TPS 004, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012005",
+        "url": "17\/1709\/170903\/1709032012\/1709032012005.json",
+        "nama": "TPS 005, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012006",
+        "url": "17\/1709\/170903\/1709032012\/1709032012006.json",
+        "nama": "TPS 006, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012007",
+        "url": "17\/1709\/170903\/1709032012\/1709032012007.json",
+        "nama": "TPS 007, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012008",
+        "url": "17\/1709\/170903\/1709032012\/1709032012008.json",
+        "nama": "TPS 008, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012009",
+        "url": "17\/1709\/170903\/1709032012\/1709032012009.json",
+        "nama": "TPS 009, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012010",
+        "url": "17\/1709\/170903\/1709032012\/1709032012010.json",
+        "nama": "TPS 010, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012011",
+        "url": "17\/1709\/170903\/1709032012\/1709032012011.json",
+        "nama": "TPS 011, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012012",
+        "url": "17\/1709\/170903\/1709032012\/1709032012012.json",
+        "nama": "TPS 012, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012013",
+        "url": "17\/1709\/170903\/1709032012\/1709032012013.json",
+        "nama": "TPS 013, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012014",
+        "url": "17\/1709\/170903\/1709032012\/1709032012014.json",
+        "nama": "TPS 014, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032012",
+        "tps": "1709032012015",
+        "url": "17\/1709\/170903\/1709032012\/1709032012015.json",
+        "nama": "TPS 015, PASAR PEDATI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011001",
+        "url": "17\/1709\/170903\/1709032011\/1709032011001.json",
+        "nama": "TPS 001, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011002",
+        "url": "17\/1709\/170903\/1709032011\/1709032011002.json",
+        "nama": "TPS 002, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011003",
+        "url": "17\/1709\/170903\/1709032011\/1709032011003.json",
+        "nama": "TPS 003, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011004",
+        "url": "17\/1709\/170903\/1709032011\/1709032011004.json",
+        "nama": "TPS 004, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011005",
+        "url": "17\/1709\/170903\/1709032011\/1709032011005.json",
+        "nama": "TPS 005, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011006",
+        "url": "17\/1709\/170903\/1709032011\/1709032011006.json",
+        "nama": "TPS 006, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011007",
+        "url": "17\/1709\/170903\/1709032011\/1709032011007.json",
+        "nama": "TPS 007, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011008",
+        "url": "17\/1709\/170903\/1709032011\/1709032011008.json",
+        "nama": "TPS 008, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011009",
+        "url": "17\/1709\/170903\/1709032011\/1709032011009.json",
+        "nama": "TPS 009, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011010",
+        "url": "17\/1709\/170903\/1709032011\/1709032011010.json",
+        "nama": "TPS 010, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011011",
+        "url": "17\/1709\/170903\/1709032011\/1709032011011.json",
+        "nama": "TPS 011, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011012",
+        "url": "17\/1709\/170903\/1709032011\/1709032011012.json",
+        "nama": "TPS 012, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032011",
+        "tps": "1709032011013",
+        "url": "17\/1709\/170903\/1709032011\/1709032011013.json",
+        "nama": "TPS 013, PEKIK NYARING, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014001",
+        "url": "17\/1709\/170903\/1709032014\/1709032014001.json",
+        "nama": "TPS 001, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014002",
+        "url": "17\/1709\/170903\/1709032014\/1709032014002.json",
+        "nama": "TPS 002, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014003",
+        "url": "17\/1709\/170903\/1709032014\/1709032014003.json",
+        "nama": "TPS 003, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014004",
+        "url": "17\/1709\/170903\/1709032014\/1709032014004.json",
+        "nama": "TPS 004, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014005",
+        "url": "17\/1709\/170903\/1709032014\/1709032014005.json",
+        "nama": "TPS 005, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014006",
+        "url": "17\/1709\/170903\/1709032014\/1709032014006.json",
+        "nama": "TPS 006, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014007",
+        "url": "17\/1709\/170903\/1709032014\/1709032014007.json",
+        "nama": "TPS 007, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014008",
+        "url": "17\/1709\/170903\/1709032014\/1709032014008.json",
+        "nama": "TPS 008, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014009",
+        "url": "17\/1709\/170903\/1709032014\/1709032014009.json",
+        "nama": "TPS 009, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014010",
+        "url": "17\/1709\/170903\/1709032014\/1709032014010.json",
+        "nama": "TPS 010, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014011",
+        "url": "17\/1709\/170903\/1709032014\/1709032014011.json",
+        "nama": "TPS 011, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014012",
+        "url": "17\/1709\/170903\/1709032014\/1709032014012.json",
+        "nama": "TPS 012, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032014",
+        "tps": "1709032014013",
+        "url": "17\/1709\/170903\/1709032014\/1709032014013.json",
+        "nama": "TPS 013, PONDOK KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032017",
+        "tps": "1709032017001",
+        "url": "17\/1709\/170903\/1709032017\/1709032017001.json",
+        "nama": "TPS 001, SIDODADI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032017",
+        "tps": "1709032017002",
+        "url": "17\/1709\/170903\/1709032017\/1709032017002.json",
+        "nama": "TPS 002, SIDODADI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032017",
+        "tps": "1709032017003",
+        "url": "17\/1709\/170903\/1709032017\/1709032017003.json",
+        "nama": "TPS 003, SIDODADI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032017",
+        "tps": "1709032017004",
+        "url": "17\/1709\/170903\/1709032017\/1709032017004.json",
+        "nama": "TPS 004, SIDODADI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032017",
+        "tps": "1709032017005",
+        "url": "17\/1709\/170903\/1709032017\/1709032017005.json",
+        "nama": "TPS 005, SIDODADI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032017",
+        "tps": "1709032017006",
+        "url": "17\/1709\/170903\/1709032017\/1709032017006.json",
+        "nama": "TPS 006, SIDODADI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032017",
+        "tps": "1709032017007",
+        "url": "17\/1709\/170903\/1709032017\/1709032017007.json",
+        "nama": "TPS 007, SIDODADI, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032016",
+        "tps": "1709032016001",
+        "url": "17\/1709\/170903\/1709032016\/1709032016001.json",
+        "nama": "TPS 001, SIDOREJO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032016",
+        "tps": "1709032016002",
+        "url": "17\/1709\/170903\/1709032016\/1709032016002.json",
+        "nama": "TPS 002, SIDOREJO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032016",
+        "tps": "1709032016003",
+        "url": "17\/1709\/170903\/1709032016\/1709032016003.json",
+        "nama": "TPS 003, SIDOREJO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032016",
+        "tps": "1709032016004",
+        "url": "17\/1709\/170903\/1709032016\/1709032016004.json",
+        "nama": "TPS 004, SIDOREJO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032016",
+        "tps": "1709032016005",
+        "url": "17\/1709\/170903\/1709032016\/1709032016005.json",
+        "nama": "TPS 005, SIDOREJO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032022",
+        "tps": "1709032022001",
+        "url": "17\/1709\/170903\/1709032022\/1709032022001.json",
+        "nama": "TPS 001, SRI KUNCORO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032022",
+        "tps": "1709032022002",
+        "url": "17\/1709\/170903\/1709032022\/1709032022002.json",
+        "nama": "TPS 002, SRI KUNCORO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032022",
+        "tps": "1709032022003",
+        "url": "17\/1709\/170903\/1709032022\/1709032022003.json",
+        "nama": "TPS 003, SRI KUNCORO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032022",
+        "tps": "1709032022004",
+        "url": "17\/1709\/170903\/1709032022\/1709032022004.json",
+        "nama": "TPS 004, SRI KUNCORO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032022",
+        "tps": "1709032022005",
+        "url": "17\/1709\/170903\/1709032022\/1709032022005.json",
+        "nama": "TPS 005, SRI KUNCORO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032010",
+        "tps": "1709032010001",
+        "url": "17\/1709\/170903\/1709032010\/1709032010001.json",
+        "nama": "TPS 001, SRIKATON, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032010",
+        "tps": "1709032010002",
+        "url": "17\/1709\/170903\/1709032010\/1709032010002.json",
+        "nama": "TPS 002, SRIKATON, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032010",
+        "tps": "1709032010003",
+        "url": "17\/1709\/170903\/1709032010\/1709032010003.json",
+        "nama": "TPS 003, SRIKATON, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032013",
+        "tps": "1709032013001",
+        "url": "17\/1709\/170903\/1709032013\/1709032013001.json",
+        "nama": "TPS 001, SUNDA KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032013",
+        "tps": "1709032013002",
+        "url": "17\/1709\/170903\/1709032013\/1709032013002.json",
+        "nama": "TPS 002, SUNDA KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032013",
+        "tps": "1709032013003",
+        "url": "17\/1709\/170903\/1709032013\/1709032013003.json",
+        "nama": "TPS 003, SUNDA KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032013",
+        "tps": "1709032013004",
+        "url": "17\/1709\/170903\/1709032013\/1709032013004.json",
+        "nama": "TPS 004, SUNDA KELAPA, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032018",
+        "tps": "1709032018001",
+        "url": "17\/1709\/170903\/1709032018\/1709032018001.json",
+        "nama": "TPS 001, TALANG BOSENG, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032018",
+        "tps": "1709032018002",
+        "url": "17\/1709\/170903\/1709032018\/1709032018002.json",
+        "nama": "TPS 002, TALANG BOSENG, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032009",
+        "tps": "1709032009001",
+        "url": "17\/1709\/170903\/1709032009\/1709032009001.json",
+        "nama": "TPS 001, TALANG PAUH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032009",
+        "tps": "1709032009002",
+        "url": "17\/1709\/170903\/1709032009\/1709032009002.json",
+        "nama": "TPS 002, TALANG PAUH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032009",
+        "tps": "1709032009003",
+        "url": "17\/1709\/170903\/1709032009\/1709032009003.json",
+        "nama": "TPS 003, TALANG PAUH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032009",
+        "tps": "1709032009004",
+        "url": "17\/1709\/170903\/1709032009\/1709032009004.json",
+        "nama": "TPS 004, TALANG PAUH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032009",
+        "tps": "1709032009005",
+        "url": "17\/1709\/170903\/1709032009\/1709032009005.json",
+        "nama": "TPS 005, TALANG PAUH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032009",
+        "tps": "1709032009006",
+        "url": "17\/1709\/170903\/1709032009\/1709032009006.json",
+        "nama": "TPS 006, TALANG PAUH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092002",
+        "tps": "1709092002001",
+        "url": "17\/1709\/170909\/1709092002\/1709092002001.json",
+        "nama": "TPS 001, BATU RAJA, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092002",
+        "tps": "1709092002002",
+        "url": "17\/1709\/170909\/1709092002\/1709092002002.json",
+        "nama": "TPS 002, BATU RAJA, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092003",
+        "tps": "1709092003001",
+        "url": "17\/1709\/170909\/1709092003\/1709092003001.json",
+        "nama": "TPS 001, DUSUN ANYAR, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092009",
+        "tps": "1709092009001",
+        "url": "17\/1709\/170909\/1709092009\/1709092009001.json",
+        "nama": "TPS 001, DUSUN BARU I, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092009",
+        "tps": "1709092009002",
+        "url": "17\/1709\/170909\/1709092009\/1709092009002.json",
+        "nama": "TPS 002, DUSUN BARU I, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092009",
+        "tps": "1709092009003",
+        "url": "17\/1709\/170909\/1709092009\/1709092009003.json",
+        "nama": "TPS 003, DUSUN BARU I, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092010",
+        "tps": "1709092010001",
+        "url": "17\/1709\/170909\/1709092010\/1709092010001.json",
+        "nama": "TPS 001, HARAPAN MAKMUR, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092010",
+        "tps": "1709092010002",
+        "url": "17\/1709\/170909\/1709092010\/1709092010002.json",
+        "nama": "TPS 002, HARAPAN MAKMUR, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092010",
+        "tps": "1709092010003",
+        "url": "17\/1709\/170909\/1709092010\/1709092010003.json",
+        "nama": "TPS 003, HARAPAN MAKMUR, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092010",
+        "tps": "1709092010004",
+        "url": "17\/1709\/170909\/1709092010\/1709092010004.json",
+        "nama": "TPS 004, HARAPAN MAKMUR, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092008",
+        "tps": "1709092008001",
+        "url": "17\/1709\/170909\/1709092008\/1709092008001.json",
+        "nama": "TPS 001, LINGGAR GALING, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092008",
+        "tps": "1709092008002",
+        "url": "17\/1709\/170909\/1709092008\/1709092008002.json",
+        "nama": "TPS 002, LINGGAR GALING, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092008",
+        "tps": "1709092008003",
+        "url": "17\/1709\/170909\/1709092008\/1709092008003.json",
+        "nama": "TPS 003, LINGGAR GALING, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092011",
+        "tps": "1709092011001",
+        "url": "17\/1709\/170909\/1709092011\/1709092011001.json",
+        "nama": "TPS 001, MARGO MULYO, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092011",
+        "tps": "1709092011002",
+        "url": "17\/1709\/170909\/1709092011\/1709092011002.json",
+        "nama": "TPS 002, MARGO MULYO, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092011",
+        "tps": "1709092011003",
+        "url": "17\/1709\/170909\/1709092011\/1709092011003.json",
+        "nama": "TPS 003, MARGO MULYO, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092011",
+        "tps": "1709092011004",
+        "url": "17\/1709\/170909\/1709092011\/1709092011004.json",
+        "nama": "TPS 004, MARGO MULYO, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092006",
+        "tps": "1709092006001",
+        "url": "17\/1709\/170909\/1709092006\/1709092006001.json",
+        "nama": "TPS 001, PAKU HAJI, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092006",
+        "tps": "1709092006002",
+        "url": "17\/1709\/170909\/1709092006\/1709092006002.json",
+        "nama": "TPS 002, PAKU HAJI, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092001",
+        "tps": "1709092001001",
+        "url": "17\/1709\/170909\/1709092001\/1709092001001.json",
+        "nama": "TPS 001, PONDOK KUBANG, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092001",
+        "tps": "1709092001002",
+        "url": "17\/1709\/170909\/1709092001\/1709092001002.json",
+        "nama": "TPS 002, PONDOK KUBANG, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092001",
+        "tps": "1709092001003",
+        "url": "17\/1709\/170909\/1709092001\/1709092001003.json",
+        "nama": "TPS 003, PONDOK KUBANG, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092012",
+        "tps": "1709092012001",
+        "url": "17\/1709\/170909\/1709092012\/1709092012001.json",
+        "nama": "TPS 001, TABA JAMBU, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092012",
+        "tps": "1709092012002",
+        "url": "17\/1709\/170909\/1709092012\/1709092012002.json",
+        "nama": "TPS 002, TABA JAMBU, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092012",
+        "tps": "1709092012003",
+        "url": "17\/1709\/170909\/1709092012\/1709092012003.json",
+        "nama": "TPS 003, TABA JAMBU, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092012",
+        "tps": "1709092012004",
+        "url": "17\/1709\/170909\/1709092012\/1709092012004.json",
+        "nama": "TPS 004, TABA JAMBU, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092005",
+        "tps": "1709092005001",
+        "url": "17\/1709\/170909\/1709092005\/1709092005001.json",
+        "nama": "TPS 001, TALANG TENGAH I, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092005",
+        "tps": "1709092005002",
+        "url": "17\/1709\/170909\/1709092005\/1709092005002.json",
+        "nama": "TPS 002, TALANG TENGAH I, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092004",
+        "tps": "1709092004001",
+        "url": "17\/1709\/170909\/1709092004\/1709092004001.json",
+        "nama": "TPS 001, TANJUNG DALAM, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092007",
+        "tps": "1709092007001",
+        "url": "17\/1709\/170909\/1709092007\/1709092007001.json",
+        "nama": "TPS 001, TANJUNG TERDANA, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092007",
+        "tps": "1709092007002",
+        "url": "17\/1709\/170909\/1709092007\/1709092007002.json",
+        "nama": "TPS 002, TANJUNG TERDANA, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092007",
+        "tps": "1709092007003",
+        "url": "17\/1709\/170909\/1709092007\/1709092007003.json",
+        "nama": "TPS 003, TANJUNG TERDANA, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170909",
+        "desa": "1709092007",
+        "tps": "1709092007004",
+        "url": "17\/1709\/170909\/1709092007\/1709092007004.json",
+        "nama": "TPS 004, TANJUNG TERDANA, PONDOK KUBANG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112010",
+        "tps": "1709112010001",
+        "url": "17\/1709\/170911\/1709112010\/1709112010001.json",
+        "nama": "TPS 001, BUKIT, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112010",
+        "tps": "1709112010002",
+        "url": "17\/1709\/170911\/1709112010\/1709112010002.json",
+        "nama": "TPS 002, BUKIT, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112010",
+        "tps": "1709112010003",
+        "url": "17\/1709\/170911\/1709112010\/1709112010003.json",
+        "nama": "TPS 003, BUKIT, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112004",
+        "tps": "1709112004001",
+        "url": "17\/1709\/170911\/1709112004\/1709112004001.json",
+        "nama": "TPS 001, GAJAH MATI, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112004",
+        "tps": "1709112004002",
+        "url": "17\/1709\/170911\/1709112004\/1709112004002.json",
+        "nama": "TPS 002, GAJAH MATI, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112002",
+        "tps": "1709112002001",
+        "url": "17\/1709\/170911\/1709112002\/1709112002001.json",
+        "nama": "TPS 001, KARANG NANDING, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112002",
+        "tps": "1709112002002",
+        "url": "17\/1709\/170911\/1709112002\/1709112002002.json",
+        "nama": "TPS 002, KARANG NANDING, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112011",
+        "tps": "1709112011001",
+        "url": "17\/1709\/170911\/1709112011\/1709112011001.json",
+        "nama": "TPS 001, KOTA NIUR, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112011",
+        "tps": "1709112011002",
+        "url": "17\/1709\/170911\/1709112011\/1709112011002.json",
+        "nama": "TPS 002, KOTA NIUR, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112009",
+        "tps": "1709112009001",
+        "url": "17\/1709\/170911\/1709112009\/1709112009001.json",
+        "nama": "TPS 001, LAGAN, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112009",
+        "tps": "1709112009002",
+        "url": "17\/1709\/170911\/1709112009\/1709112009002.json",
+        "nama": "TPS 002, LAGAN, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112006",
+        "tps": "1709112006001",
+        "url": "17\/1709\/170911\/1709112006\/1709112006001.json",
+        "nama": "TPS 001, LAGAN BUNGIN, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112006",
+        "tps": "1709112006002",
+        "url": "17\/1709\/170911\/1709112006\/1709112006002.json",
+        "nama": "TPS 002, LAGAN BUNGIN, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112005",
+        "tps": "1709112005001",
+        "url": "17\/1709\/170911\/1709112005\/1709112005001.json",
+        "nama": "TPS 001, PADANG SIRING, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112001",
+        "tps": "1709112001001",
+        "url": "17\/1709\/170911\/1709112001\/1709112001001.json",
+        "nama": "TPS 001, PAGAR GUNUNG, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112007",
+        "tps": "1709112007001",
+        "url": "17\/1709\/170911\/1709112007\/1709112007001.json",
+        "nama": "TPS 001, PAGAR JATI, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112007",
+        "tps": "1709112007002",
+        "url": "17\/1709\/170911\/1709112007\/1709112007002.json",
+        "nama": "TPS 002, PAGAR JATI, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112003",
+        "tps": "1709112003001",
+        "url": "17\/1709\/170911\/1709112003\/1709112003001.json",
+        "nama": "TPS 001, SEMIDANG, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112003",
+        "tps": "1709112003002",
+        "url": "17\/1709\/170911\/1709112003\/1709112003002.json",
+        "nama": "TPS 002, SEMIDANG, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112008",
+        "tps": "1709112008001",
+        "url": "17\/1709\/170911\/1709112008\/1709112008001.json",
+        "nama": "TPS 001, TABA LAGAN, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112008",
+        "tps": "1709112008002",
+        "url": "17\/1709\/170911\/1709112008\/1709112008002.json",
+        "nama": "TPS 002, TABA LAGAN, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112008",
+        "tps": "1709112008003",
+        "url": "17\/1709\/170911\/1709112008\/1709112008003.json",
+        "nama": "TPS 003, TABA LAGAN, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062023",
+        "tps": "1709062023001",
+        "url": "17\/1709\/170906\/1709062023\/1709062023001.json",
+        "nama": "TPS 001, BAJAK I, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062023",
+        "tps": "1709062023002",
+        "url": "17\/1709\/170906\/1709062023\/1709062023002.json",
+        "nama": "TPS 002, BAJAK I, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062023",
+        "tps": "1709062023003",
+        "url": "17\/1709\/170906\/1709062023\/1709062023003.json",
+        "nama": "TPS 003, BAJAK I, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062023",
+        "tps": "1709062023004",
+        "url": "17\/1709\/170906\/1709062023\/1709062023004.json",
+        "nama": "TPS 004, BAJAK I, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062023",
+        "tps": "1709062023005",
+        "url": "17\/1709\/170906\/1709062023\/1709062023005.json",
+        "nama": "TPS 005, BAJAK I, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062012",
+        "tps": "1709062012001",
+        "url": "17\/1709\/170906\/1709062012\/1709062012001.json",
+        "nama": "TPS 001, DATAR LEBAR, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062012",
+        "tps": "1709062012002",
+        "url": "17\/1709\/170906\/1709062012\/1709062012002.json",
+        "nama": "TPS 002, DATAR LEBAR, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062004",
+        "tps": "1709062004001",
+        "url": "17\/1709\/170906\/1709062004\/1709062004001.json",
+        "nama": "TPS 001, KARANG TENGAH, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062004",
+        "tps": "1709062004002",
+        "url": "17\/1709\/170906\/1709062004\/1709062004002.json",
+        "nama": "TPS 002, KARANG TENGAH, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062005",
+        "tps": "1709062005001",
+        "url": "17\/1709\/170906\/1709062005\/1709062005001.json",
+        "nama": "TPS 001, LUBUK SINI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062005",
+        "tps": "1709062005002",
+        "url": "17\/1709\/170906\/1709062005\/1709062005002.json",
+        "nama": "TPS 002, LUBUK SINI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062005",
+        "tps": "1709062005003",
+        "url": "17\/1709\/170906\/1709062005\/1709062005003.json",
+        "nama": "TPS 003, LUBUK SINI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062005",
+        "tps": "1709062005004",
+        "url": "17\/1709\/170906\/1709062005\/1709062005004.json",
+        "nama": "TPS 004, LUBUK SINI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062013",
+        "tps": "1709062013001",
+        "url": "17\/1709\/170906\/1709062013\/1709062013001.json",
+        "nama": "TPS 001, PENUM, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062013",
+        "tps": "1709062013002",
+        "url": "17\/1709\/170906\/1709062013\/1709062013002.json",
+        "nama": "TPS 002, PENUM, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062010",
+        "tps": "1709062010001",
+        "url": "17\/1709\/170906\/1709062010\/1709062010001.json",
+        "nama": "TPS 001, RINDU HATI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062010",
+        "tps": "1709062010002",
+        "url": "17\/1709\/170906\/1709062010\/1709062010002.json",
+        "nama": "TPS 002, RINDU HATI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062010",
+        "tps": "1709062010003",
+        "url": "17\/1709\/170906\/1709062010\/1709062010003.json",
+        "nama": "TPS 003, RINDU HATI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062003",
+        "tps": "1709062003001",
+        "url": "17\/1709\/170906\/1709062003\/1709062003001.json",
+        "nama": "TPS 001, SUKARAMI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062003",
+        "tps": "1709062003002",
+        "url": "17\/1709\/170906\/1709062003\/1709062003002.json",
+        "nama": "TPS 002, SUKARAMI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062003",
+        "tps": "1709062003003",
+        "url": "17\/1709\/170906\/1709062003\/1709062003003.json",
+        "nama": "TPS 003, SUKARAMI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062003",
+        "tps": "1709062003004",
+        "url": "17\/1709\/170906\/1709062003\/1709062003004.json",
+        "nama": "TPS 004, SUKARAMI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062003",
+        "tps": "1709062003005",
+        "url": "17\/1709\/170906\/1709062003\/1709062003005.json",
+        "nama": "TPS 005, SUKARAMI, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062009",
+        "tps": "1709062009001",
+        "url": "17\/1709\/170906\/1709062009\/1709062009001.json",
+        "nama": "TPS 001, SURAU, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062009",
+        "tps": "1709062009002",
+        "url": "17\/1709\/170906\/1709062009\/1709062009002.json",
+        "nama": "TPS 002, SURAU, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062024",
+        "tps": "1709062024001",
+        "url": "17\/1709\/170906\/1709062024\/1709062024001.json",
+        "nama": "TPS 001, TABA BARU, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062024",
+        "tps": "1709062024002",
+        "url": "17\/1709\/170906\/1709062024\/1709062024002.json",
+        "nama": "TPS 002, TABA BARU, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709061007",
+        "tps": "1709061007001",
+        "url": "17\/1709\/170906\/1709061007\/1709061007001.json",
+        "nama": "TPS 001, TABA PENANJUNG, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709061007",
+        "tps": "1709061007002",
+        "url": "17\/1709\/170906\/1709061007\/1709061007002.json",
+        "nama": "TPS 002, TABA PENANJUNG, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709061007",
+        "tps": "1709061007003",
+        "url": "17\/1709\/170906\/1709061007\/1709061007003.json",
+        "nama": "TPS 003, TABA PENANJUNG, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709061007",
+        "tps": "1709061007004",
+        "url": "17\/1709\/170906\/1709061007\/1709061007004.json",
+        "nama": "TPS 004, TABA PENANJUNG, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062008",
+        "tps": "1709062008001",
+        "url": "17\/1709\/170906\/1709062008\/1709062008001.json",
+        "nama": "TPS 001, TABA TERET, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062008",
+        "tps": "1709062008002",
+        "url": "17\/1709\/170906\/1709062008\/1709062008002.json",
+        "nama": "TPS 002, TABA TERET, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062011",
+        "tps": "1709062011001",
+        "url": "17\/1709\/170906\/1709062011\/1709062011001.json",
+        "nama": "TPS 001, TANJUNG HERAN, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062011",
+        "tps": "1709062011002",
+        "url": "17\/1709\/170906\/1709062011\/1709062011002.json",
+        "nama": "TPS 002, TANJUNG HERAN, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062002",
+        "tps": "1709062002001",
+        "url": "17\/1709\/170906\/1709062002\/1709062002001.json",
+        "nama": "TPS 001, TANJUNG RAMAN, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170906",
+        "desa": "1709062002",
+        "tps": "1709062002002",
+        "url": "17\/1709\/170906\/1709062002\/1709062002002.json",
+        "nama": "TPS 002, TANJUNG RAMAN, TABA PENANJUNG, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022017",
+        "tps": "1709022017001",
+        "url": "17\/1709\/170902\/1709022017\/1709022017001.json",
+        "nama": "TPS 001, AIR PUTIH, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022017",
+        "tps": "1709022017002",
+        "url": "17\/1709\/170902\/1709022017\/1709022017002.json",
+        "nama": "TPS 002, AIR PUTIH, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022001",
+        "tps": "1709022001001",
+        "url": "17\/1709\/170902\/1709022001\/1709022001001.json",
+        "nama": "TPS 001, AIR SEBAKUL, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022001",
+        "tps": "1709022001002",
+        "url": "17\/1709\/170902\/1709022001\/1709022001002.json",
+        "nama": "TPS 002, AIR SEBAKUL, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022001",
+        "tps": "1709022001003",
+        "url": "17\/1709\/170902\/1709022001\/1709022001003.json",
+        "nama": "TPS 003, AIR SEBAKUL, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022001",
+        "tps": "1709022001004",
+        "url": "17\/1709\/170902\/1709022001\/1709022001004.json",
+        "nama": "TPS 004, AIR SEBAKUL, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022001",
+        "tps": "1709022001005",
+        "url": "17\/1709\/170902\/1709022001\/1709022001005.json",
+        "nama": "TPS 005, AIR SEBAKUL, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022007",
+        "tps": "1709022007001",
+        "url": "17\/1709\/170902\/1709022007\/1709022007001.json",
+        "nama": "TPS 001, JAYAKARTA, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022007",
+        "tps": "1709022007002",
+        "url": "17\/1709\/170902\/1709022007\/1709022007002.json",
+        "nama": "TPS 002, JAYAKARTA, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022007",
+        "tps": "1709022007003",
+        "url": "17\/1709\/170902\/1709022007\/1709022007003.json",
+        "nama": "TPS 003, JAYAKARTA, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022014",
+        "tps": "1709022014001",
+        "url": "17\/1709\/170902\/1709022014\/1709022014001.json",
+        "nama": "TPS 001, JUM'AT, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022014",
+        "tps": "1709022014002",
+        "url": "17\/1709\/170902\/1709022014\/1709022014002.json",
+        "nama": "TPS 002, JUM'AT, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022005",
+        "tps": "1709022005001",
+        "url": "17\/1709\/170902\/1709022005\/1709022005001.json",
+        "nama": "TPS 001, KEMBANG SERI, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022005",
+        "tps": "1709022005002",
+        "url": "17\/1709\/170902\/1709022005\/1709022005002.json",
+        "nama": "TPS 002, KEMBANG SERI, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022005",
+        "tps": "1709022005003",
+        "url": "17\/1709\/170902\/1709022005\/1709022005003.json",
+        "nama": "TPS 003, KEMBANG SERI, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022005",
+        "tps": "1709022005004",
+        "url": "17\/1709\/170902\/1709022005\/1709022005004.json",
+        "nama": "TPS 004, KEMBANG SERI, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022005",
+        "tps": "1709022005005",
+        "url": "17\/1709\/170902\/1709022005\/1709022005005.json",
+        "nama": "TPS 005, KEMBANG SERI, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022005",
+        "tps": "1709022005006",
+        "url": "17\/1709\/170902\/1709022005\/1709022005006.json",
+        "nama": "TPS 006, KEMBANG SERI, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022005",
+        "tps": "1709022005007",
+        "url": "17\/1709\/170902\/1709022005\/1709022005007.json",
+        "nama": "TPS 007, KEMBANG SERI, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022005",
+        "tps": "1709022005008",
+        "url": "17\/1709\/170902\/1709022005\/1709022005008.json",
+        "nama": "TPS 008, KEMBANG SERI, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022005",
+        "tps": "1709022005009",
+        "url": "17\/1709\/170902\/1709022005\/1709022005009.json",
+        "nama": "TPS 009, KEMBANG SERI, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022008",
+        "tps": "1709022008001",
+        "url": "17\/1709\/170902\/1709022008\/1709022008001.json",
+        "nama": "TPS 001, NAKAU, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022008",
+        "tps": "1709022008002",
+        "url": "17\/1709\/170902\/1709022008\/1709022008002.json",
+        "nama": "TPS 002, NAKAU, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022008",
+        "tps": "1709022008003",
+        "url": "17\/1709\/170902\/1709022008\/1709022008003.json",
+        "nama": "TPS 003, NAKAU, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022015",
+        "tps": "1709022015001",
+        "url": "17\/1709\/170902\/1709022015\/1709022015001.json",
+        "nama": "TPS 001, PADANG ULAK TANJUNG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022015",
+        "tps": "1709022015002",
+        "url": "17\/1709\/170902\/1709022015\/1709022015002.json",
+        "nama": "TPS 002, PADANG ULAK TANJUNG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022015",
+        "tps": "1709022015003",
+        "url": "17\/1709\/170902\/1709022015\/1709022015003.json",
+        "nama": "TPS 003, PADANG ULAK TANJUNG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022009",
+        "tps": "1709022009001",
+        "url": "17\/1709\/170902\/1709022009\/1709022009001.json",
+        "nama": "TPS 001, PULAU PANGGUNG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022009",
+        "tps": "1709022009002",
+        "url": "17\/1709\/170902\/1709022009\/1709022009002.json",
+        "nama": "TPS 002, PULAU PANGGUNG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022009",
+        "tps": "1709022009003",
+        "url": "17\/1709\/170902\/1709022009\/1709022009003.json",
+        "nama": "TPS 003, PULAU PANGGUNG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022004",
+        "tps": "1709022004001",
+        "url": "17\/1709\/170902\/1709022004\/1709022004001.json",
+        "nama": "TPS 001, TABA PASMAH, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022004",
+        "tps": "1709022004002",
+        "url": "17\/1709\/170902\/1709022004\/1709022004002.json",
+        "nama": "TPS 002, TABA PASMAH, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022004",
+        "tps": "1709022004003",
+        "url": "17\/1709\/170902\/1709022004\/1709022004003.json",
+        "nama": "TPS 003, TABA PASMAH, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022006",
+        "tps": "1709022006001",
+        "url": "17\/1709\/170902\/1709022006\/1709022006001.json",
+        "nama": "TPS 001, TENGAH PADANG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022006",
+        "tps": "1709022006002",
+        "url": "17\/1709\/170902\/1709022006\/1709022006002.json",
+        "nama": "TPS 002, TENGAH PADANG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022006",
+        "tps": "1709022006003",
+        "url": "17\/1709\/170902\/1709022006\/1709022006003.json",
+        "nama": "TPS 003, TENGAH PADANG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022006",
+        "tps": "1709022006004",
+        "url": "17\/1709\/170902\/1709022006\/1709022006004.json",
+        "nama": "TPS 004, TENGAH PADANG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU"
+    }
+]

@@ -1,0 +1,2324 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052009",
+        "tps": "1175052009001",
+        "url": "11\/1175\/117505\/1175052009\/1175052009001.json",
+        "nama": "TPS 001, BANGUN SARI, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052007",
+        "tps": "1175052007001",
+        "url": "11\/1175\/117505\/1175052007\/1175052007001.json",
+        "nama": "TPS 001, BUKIT ALIM, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052007",
+        "tps": "1175052007002",
+        "url": "11\/1175\/117505\/1175052007\/1175052007002.json",
+        "nama": "TPS 002, BUKIT ALIM, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052008",
+        "tps": "1175052008001",
+        "url": "11\/1175\/117505\/1175052008\/1175052008001.json",
+        "nama": "TPS 001, DARUL AMAN, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052008",
+        "tps": "1175052008002",
+        "url": "11\/1175\/117505\/1175052008\/1175052008002.json",
+        "nama": "TPS 002, DARUL AMAN, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052008",
+        "tps": "1175052008003",
+        "url": "11\/1175\/117505\/1175052008\/1175052008003.json",
+        "nama": "TPS 003, DARUL AMAN, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052010",
+        "tps": "1175052010001",
+        "url": "11\/1175\/117505\/1175052010\/1175052010001.json",
+        "nama": "TPS 001, DARUSSALAM, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052004",
+        "tps": "1175052004001",
+        "url": "11\/1175\/117505\/1175052004\/1175052004001.json",
+        "nama": "TPS 001, LAE SAGA, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052004",
+        "tps": "1175052004002",
+        "url": "11\/1175\/117505\/1175052004\/1175052004002.json",
+        "nama": "TPS 002, LAE SAGA, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052004",
+        "tps": "1175052004003",
+        "url": "11\/1175\/117505\/1175052004\/1175052004003.json",
+        "nama": "TPS 003, LAE SAGA, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052001",
+        "tps": "1175052001001",
+        "url": "11\/1175\/117505\/1175052001\/1175052001001.json",
+        "nama": "TPS 001, LONGKIB, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052003",
+        "tps": "1175052003001",
+        "url": "11\/1175\/117505\/1175052003\/1175052003001.json",
+        "nama": "TPS 001, PANJI, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052003",
+        "tps": "1175052003002",
+        "url": "11\/1175\/117505\/1175052003\/1175052003002.json",
+        "nama": "TPS 002, PANJI, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052006",
+        "tps": "1175052006001",
+        "url": "11\/1175\/117505\/1175052006\/1175052006001.json",
+        "nama": "TPS 001, RANTAU PANJANG, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052006",
+        "tps": "1175052006002",
+        "url": "11\/1175\/117505\/1175052006\/1175052006002.json",
+        "nama": "TPS 002, RANTAU PANJANG, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052006",
+        "tps": "1175052006003",
+        "url": "11\/1175\/117505\/1175052006\/1175052006003.json",
+        "nama": "TPS 003, RANTAU PANJANG, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052002",
+        "tps": "1175052002001",
+        "url": "11\/1175\/117505\/1175052002\/1175052002001.json",
+        "nama": "TPS 001, SEPANG, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052002",
+        "tps": "1175052002002",
+        "url": "11\/1175\/117505\/1175052002\/1175052002002.json",
+        "nama": "TPS 002, SEPANG, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052005",
+        "tps": "1175052005001",
+        "url": "11\/1175\/117505\/1175052005\/1175052005001.json",
+        "nama": "TPS 001, SIKERABANG, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052005",
+        "tps": "1175052005002",
+        "url": "11\/1175\/117505\/1175052005\/1175052005002.json",
+        "nama": "TPS 002, SIKERABANG, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117505",
+        "desa": "1175052005",
+        "tps": "1175052005003",
+        "url": "11\/1175\/117505\/1175052005\/1175052005003.json",
+        "nama": "TPS 003, SIKERABANG, LONGKIB, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022002",
+        "tps": "1175022002001",
+        "url": "11\/1175\/117502\/1175022002\/1175022002001.json",
+        "nama": "TPS 001, CEPU, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022002",
+        "tps": "1175022002002",
+        "url": "11\/1175\/117502\/1175022002\/1175022002002.json",
+        "nama": "TPS 002, CEPU, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022011",
+        "tps": "1175022011001",
+        "url": "11\/1175\/117502\/1175022011\/1175022011001.json",
+        "nama": "TPS 001, DASAN RAJA, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022011",
+        "tps": "1175022011002",
+        "url": "11\/1175\/117502\/1175022011\/1175022011002.json",
+        "nama": "TPS 002, DASAN RAJA, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022011",
+        "tps": "1175022011003",
+        "url": "11\/1175\/117502\/1175022011\/1175022011003.json",
+        "nama": "TPS 003, DASAN RAJA, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022007",
+        "tps": "1175022007001",
+        "url": "11\/1175\/117502\/1175022007\/1175022007001.json",
+        "nama": "TPS 001, JONTOR, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022007",
+        "tps": "1175022007002",
+        "url": "11\/1175\/117502\/1175022007\/1175022007002.json",
+        "nama": "TPS 002, JONTOR, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022007",
+        "tps": "1175022007003",
+        "url": "11\/1175\/117502\/1175022007\/1175022007003.json",
+        "nama": "TPS 003, JONTOR, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022004",
+        "tps": "1175022004001",
+        "url": "11\/1175\/117502\/1175022004\/1175022004001.json",
+        "nama": "TPS 001, KAMPUNG BARU, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022004",
+        "tps": "1175022004002",
+        "url": "11\/1175\/117502\/1175022004\/1175022004002.json",
+        "nama": "TPS 002, KAMPUNG BARU, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022004",
+        "tps": "1175022004003",
+        "url": "11\/1175\/117502\/1175022004\/1175022004003.json",
+        "nama": "TPS 003, KAMPUNG BARU, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022003",
+        "tps": "1175022003001",
+        "url": "11\/1175\/117502\/1175022003\/1175022003001.json",
+        "nama": "TPS 001, KUTA TENGAH, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022003",
+        "tps": "1175022003002",
+        "url": "11\/1175\/117502\/1175022003\/1175022003002.json",
+        "nama": "TPS 002, KUTA TENGAH, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022010",
+        "tps": "1175022010001",
+        "url": "11\/1175\/117502\/1175022010\/1175022010001.json",
+        "nama": "TPS 001, LAE BERSIH, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022010",
+        "tps": "1175022010002",
+        "url": "11\/1175\/117502\/1175022010\/1175022010002.json",
+        "nama": "TPS 002, LAE BERSIH, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022010",
+        "tps": "1175022010003",
+        "url": "11\/1175\/117502\/1175022010\/1175022010003.json",
+        "nama": "TPS 003, LAE BERSIH, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022010",
+        "tps": "1175022010004",
+        "url": "11\/1175\/117502\/1175022010\/1175022010004.json",
+        "nama": "TPS 004, LAE BERSIH, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022010",
+        "tps": "1175022010005",
+        "url": "11\/1175\/117502\/1175022010\/1175022010005.json",
+        "nama": "TPS 005, LAE BERSIH, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022009",
+        "tps": "1175022009001",
+        "url": "11\/1175\/117502\/1175022009\/1175022009001.json",
+        "nama": "TPS 001, LAE IKAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022009",
+        "tps": "1175022009002",
+        "url": "11\/1175\/117502\/1175022009\/1175022009002.json",
+        "nama": "TPS 002, LAE IKAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022008",
+        "tps": "1175022008001",
+        "url": "11\/1175\/117502\/1175022008\/1175022008001.json",
+        "nama": "TPS 001, LAE MOTONG, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022008",
+        "tps": "1175022008002",
+        "url": "11\/1175\/117502\/1175022008\/1175022008002.json",
+        "nama": "TPS 002, LAE MOTONG, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022008",
+        "tps": "1175022008003",
+        "url": "11\/1175\/117502\/1175022008\/1175022008003.json",
+        "nama": "TPS 003, LAE MOTONG, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022008",
+        "tps": "1175022008004",
+        "url": "11\/1175\/117502\/1175022008\/1175022008004.json",
+        "nama": "TPS 004, LAE MOTONG, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022001",
+        "tps": "1175022001001",
+        "url": "11\/1175\/117502\/1175022001\/1175022001001.json",
+        "nama": "TPS 001, PENANGGALAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022001",
+        "tps": "1175022001002",
+        "url": "11\/1175\/117502\/1175022001\/1175022001002.json",
+        "nama": "TPS 002, PENANGGALAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022001",
+        "tps": "1175022001003",
+        "url": "11\/1175\/117502\/1175022001\/1175022001003.json",
+        "nama": "TPS 003, PENANGGALAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022001",
+        "tps": "1175022001004",
+        "url": "11\/1175\/117502\/1175022001\/1175022001004.json",
+        "nama": "TPS 004, PENANGGALAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022001",
+        "tps": "1175022001005",
+        "url": "11\/1175\/117502\/1175022001\/1175022001005.json",
+        "nama": "TPS 005, PENANGGALAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022001",
+        "tps": "1175022001006",
+        "url": "11\/1175\/117502\/1175022001\/1175022001006.json",
+        "nama": "TPS 006, PENANGGALAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022013",
+        "tps": "1175022013001",
+        "url": "11\/1175\/117502\/1175022013\/1175022013001.json",
+        "nama": "TPS 001, PENANGGALAN BARAT, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022013",
+        "tps": "1175022013002",
+        "url": "11\/1175\/117502\/1175022013\/1175022013002.json",
+        "nama": "TPS 002, PENANGGALAN BARAT, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022013",
+        "tps": "1175022013003",
+        "url": "11\/1175\/117502\/1175022013\/1175022013003.json",
+        "nama": "TPS 003, PENANGGALAN BARAT, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022013",
+        "tps": "1175022013004",
+        "url": "11\/1175\/117502\/1175022013\/1175022013004.json",
+        "nama": "TPS 004, PENANGGALAN BARAT, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022013",
+        "tps": "1175022013005",
+        "url": "11\/1175\/117502\/1175022013\/1175022013005.json",
+        "nama": "TPS 005, PENANGGALAN BARAT, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022013",
+        "tps": "1175022013006",
+        "url": "11\/1175\/117502\/1175022013\/1175022013006.json",
+        "nama": "TPS 006, PENANGGALAN BARAT, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022012",
+        "tps": "1175022012001",
+        "url": "11\/1175\/117502\/1175022012\/1175022012001.json",
+        "nama": "TPS 001, PENANGGALAN TIMUR, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022012",
+        "tps": "1175022012002",
+        "url": "11\/1175\/117502\/1175022012\/1175022012002.json",
+        "nama": "TPS 002, PENANGGALAN TIMUR, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022012",
+        "tps": "1175022012003",
+        "url": "11\/1175\/117502\/1175022012\/1175022012003.json",
+        "nama": "TPS 003, PENANGGALAN TIMUR, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022012",
+        "tps": "1175022012004",
+        "url": "11\/1175\/117502\/1175022012\/1175022012004.json",
+        "nama": "TPS 004, PENANGGALAN TIMUR, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022012",
+        "tps": "1175022012005",
+        "url": "11\/1175\/117502\/1175022012\/1175022012005.json",
+        "nama": "TPS 005, PENANGGALAN TIMUR, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022006",
+        "tps": "1175022006001",
+        "url": "11\/1175\/117502\/1175022006\/1175022006001.json",
+        "nama": "TPS 001, PENUNTUNGAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022006",
+        "tps": "1175022006002",
+        "url": "11\/1175\/117502\/1175022006\/1175022006002.json",
+        "nama": "TPS 002, PENUNTUNGAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022006",
+        "tps": "1175022006003",
+        "url": "11\/1175\/117502\/1175022006\/1175022006003.json",
+        "nama": "TPS 003, PENUNTUNGAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022006",
+        "tps": "1175022006004",
+        "url": "11\/1175\/117502\/1175022006\/1175022006004.json",
+        "nama": "TPS 004, PENUNTUNGAN, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022005",
+        "tps": "1175022005001",
+        "url": "11\/1175\/117502\/1175022005\/1175022005001.json",
+        "nama": "TPS 001, SIKELANG, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022005",
+        "tps": "1175022005002",
+        "url": "11\/1175\/117502\/1175022005\/1175022005002.json",
+        "nama": "TPS 002, SIKELANG, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117502",
+        "desa": "1175022005",
+        "tps": "1175022005003",
+        "url": "11\/1175\/117502\/1175022005\/1175022005003.json",
+        "nama": "TPS 003, SIKELANG, PENANGGALAN, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032015",
+        "tps": "1175032015001",
+        "url": "11\/1175\/117503\/1175032015\/1175032015001.json",
+        "nama": "TPS 001, BADAR, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032015",
+        "tps": "1175032015002",
+        "url": "11\/1175\/117503\/1175032015\/1175032015002.json",
+        "nama": "TPS 002, BADAR, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032015",
+        "tps": "1175032015003",
+        "url": "11\/1175\/117503\/1175032015\/1175032015003.json",
+        "nama": "TPS 003, BADAR, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032006",
+        "tps": "1175032006001",
+        "url": "11\/1175\/117503\/1175032006\/1175032006001.json",
+        "nama": "TPS 001, BINANGA, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032014",
+        "tps": "1175032014001",
+        "url": "11\/1175\/117503\/1175032014\/1175032014001.json",
+        "nama": "TPS 001, BULUKUR MAKMUR, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032014",
+        "tps": "1175032014002",
+        "url": "11\/1175\/117503\/1175032014\/1175032014002.json",
+        "nama": "TPS 002, BULUKUR MAKMUR, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032014",
+        "tps": "1175032014003",
+        "url": "11\/1175\/117503\/1175032014\/1175032014003.json",
+        "nama": "TPS 003, BULUKUR MAKMUR, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032002",
+        "tps": "1175032002001",
+        "url": "11\/1175\/117503\/1175032002\/1175032002001.json",
+        "nama": "TPS 001, DAH, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032002",
+        "tps": "1175032002002",
+        "url": "11\/1175\/117503\/1175032002\/1175032002002.json",
+        "nama": "TPS 002, DAH, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032002",
+        "tps": "1175032002003",
+        "url": "11\/1175\/117503\/1175032002\/1175032002003.json",
+        "nama": "TPS 003, DAH, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032019",
+        "tps": "1175032019001",
+        "url": "11\/1175\/117503\/1175032019\/1175032019001.json",
+        "nama": "TPS 001, GERUGUH, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032012",
+        "tps": "1175032012001",
+        "url": "11\/1175\/117503\/1175032012\/1175032012001.json",
+        "nama": "TPS 001, HARAPAN BARU, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032012",
+        "tps": "1175032012002",
+        "url": "11\/1175\/117503\/1175032012\/1175032012002.json",
+        "nama": "TPS 002, HARAPAN BARU, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032022",
+        "tps": "1175032022001",
+        "url": "11\/1175\/117503\/1175032022\/1175032022001.json",
+        "nama": "TPS 001, KUALA KEPENG, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032022",
+        "tps": "1175032022002",
+        "url": "11\/1175\/117503\/1175032022\/1175032022002.json",
+        "nama": "TPS 002, KUALA KEPENG, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032007",
+        "tps": "1175032007001",
+        "url": "11\/1175\/117503\/1175032007\/1175032007001.json",
+        "nama": "TPS 001, KUTA BERINGIN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032010",
+        "tps": "1175032010001",
+        "url": "11\/1175\/117503\/1175032010\/1175032010001.json",
+        "nama": "TPS 001, LAE MATE, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032010",
+        "tps": "1175032010002",
+        "url": "11\/1175\/117503\/1175032010\/1175032010002.json",
+        "nama": "TPS 002, LAE MATE, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032010",
+        "tps": "1175032010003",
+        "url": "11\/1175\/117503\/1175032010\/1175032010003.json",
+        "nama": "TPS 003, LAE MATE, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032010",
+        "tps": "1175032010004",
+        "url": "11\/1175\/117503\/1175032010\/1175032010004.json",
+        "nama": "TPS 004, LAE MATE, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032016",
+        "tps": "1175032016001",
+        "url": "11\/1175\/117503\/1175032016\/1175032016001.json",
+        "nama": "TPS 001, LAE PEMULAAN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032016",
+        "tps": "1175032016002",
+        "url": "11\/1175\/117503\/1175032016\/1175032016002.json",
+        "nama": "TPS 002, LAE PEMULAAN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032020",
+        "tps": "1175032020001",
+        "url": "11\/1175\/117503\/1175032020\/1175032020001.json",
+        "nama": "TPS 001, MANDILAM, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032008",
+        "tps": "1175032008001",
+        "url": "11\/1175\/117503\/1175032008\/1175032008001.json",
+        "nama": "TPS 001, MUARA BATU-BATU, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032008",
+        "tps": "1175032008002",
+        "url": "11\/1175\/117503\/1175032008\/1175032008002.json",
+        "nama": "TPS 002, MUARA BATU-BATU, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032008",
+        "tps": "1175032008003",
+        "url": "11\/1175\/117503\/1175032008\/1175032008003.json",
+        "nama": "TPS 003, MUARA BATU-BATU, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032003",
+        "tps": "1175032003001",
+        "url": "11\/1175\/117503\/1175032003\/1175032003001.json",
+        "nama": "TPS 001, OBOH, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032017",
+        "tps": "1175032017001",
+        "url": "11\/1175\/117503\/1175032017\/1175032017001.json",
+        "nama": "TPS 001, PANGLIMA SAMAN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032017",
+        "tps": "1175032017002",
+        "url": "11\/1175\/117503\/1175032017\/1175032017002.json",
+        "nama": "TPS 002, PANGLIMA SAMAN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032001",
+        "tps": "1175032001001",
+        "url": "11\/1175\/117503\/1175032001\/1175032001001.json",
+        "nama": "TPS 001, PASAR RUNDENG, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032001",
+        "tps": "1175032001002",
+        "url": "11\/1175\/117503\/1175032001\/1175032001002.json",
+        "nama": "TPS 002, PASAR RUNDENG, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032001",
+        "tps": "1175032001003",
+        "url": "11\/1175\/117503\/1175032001\/1175032001003.json",
+        "nama": "TPS 003, PASAR RUNDENG, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032004",
+        "tps": "1175032004001",
+        "url": "11\/1175\/117503\/1175032004\/1175032004001.json",
+        "nama": "TPS 001, SEPADAN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032004",
+        "tps": "1175032004002",
+        "url": "11\/1175\/117503\/1175032004\/1175032004002.json",
+        "nama": "TPS 002, SEPADAN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032004",
+        "tps": "1175032004003",
+        "url": "11\/1175\/117503\/1175032004\/1175032004003.json",
+        "nama": "TPS 003, SEPADAN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032005",
+        "tps": "1175032005001",
+        "url": "11\/1175\/117503\/1175032005\/1175032005001.json",
+        "nama": "TPS 001, SIBUASAN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032005",
+        "tps": "1175032005002",
+        "url": "11\/1175\/117503\/1175032005\/1175032005002.json",
+        "nama": "TPS 002, SIBUASAN, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032011",
+        "tps": "1175032011001",
+        "url": "11\/1175\/117503\/1175032011\/1175032011001.json",
+        "nama": "TPS 001, SIBUNGKE, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032011",
+        "tps": "1175032011002",
+        "url": "11\/1175\/117503\/1175032011\/1175032011002.json",
+        "nama": "TPS 002, SIBUNGKE, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032009",
+        "tps": "1175032009001",
+        "url": "11\/1175\/117503\/1175032009\/1175032009001.json",
+        "nama": "TPS 001, SIPERKAS, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032018",
+        "tps": "1175032018001",
+        "url": "11\/1175\/117503\/1175032018\/1175032018001.json",
+        "nama": "TPS 001, SUAK JAMPAK, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032023",
+        "tps": "1175032023001",
+        "url": "11\/1175\/117503\/1175032023\/1175032023001.json",
+        "nama": "TPS 001, TANAH TUMBUH, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032013",
+        "tps": "1175032013001",
+        "url": "11\/1175\/117503\/1175032013\/1175032013001.json",
+        "nama": "TPS 001, TELADAN BARU, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032013",
+        "tps": "1175032013002",
+        "url": "11\/1175\/117503\/1175032013\/1175032013002.json",
+        "nama": "TPS 002, TELADAN BARU, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032021",
+        "tps": "1175032021001",
+        "url": "11\/1175\/117503\/1175032021\/1175032021001.json",
+        "nama": "TPS 001, TUALANG, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117503",
+        "desa": "1175032021",
+        "tps": "1175032021002",
+        "url": "11\/1175\/117503\/1175032021\/1175032021002.json",
+        "nama": "TPS 002, TUALANG, RUNDENG, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012015",
+        "tps": "1175012015001",
+        "url": "11\/1175\/117501\/1175012015\/1175012015001.json",
+        "nama": "TPS 001, BELEGEN MULIA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012015",
+        "tps": "1175012015002",
+        "url": "11\/1175\/117501\/1175012015\/1175012015002.json",
+        "nama": "TPS 002, BELEGEN MULIA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012015",
+        "tps": "1175012015003",
+        "url": "11\/1175\/117501\/1175012015\/1175012015003.json",
+        "nama": "TPS 003, BELEGEN MULIA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012015",
+        "tps": "1175012015004",
+        "url": "11\/1175\/117501\/1175012015\/1175012015004.json",
+        "nama": "TPS 004, BELEGEN MULIA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012015",
+        "tps": "1175012015005",
+        "url": "11\/1175\/117501\/1175012015\/1175012015005.json",
+        "nama": "TPS 005, BELEGEN MULIA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012004",
+        "tps": "1175012004001",
+        "url": "11\/1175\/117501\/1175012004\/1175012004001.json",
+        "nama": "TPS 001, BULUH DORI, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012004",
+        "tps": "1175012004002",
+        "url": "11\/1175\/117501\/1175012004\/1175012004002.json",
+        "nama": "TPS 002, BULUH DORI, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012004",
+        "tps": "1175012004003",
+        "url": "11\/1175\/117501\/1175012004\/1175012004003.json",
+        "nama": "TPS 003, BULUH DORI, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012004",
+        "tps": "1175012004004",
+        "url": "11\/1175\/117501\/1175012004\/1175012004004.json",
+        "nama": "TPS 004, BULUH DORI, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012016",
+        "tps": "1175012016001",
+        "url": "11\/1175\/117501\/1175012016\/1175012016001.json",
+        "nama": "TPS 001, DANAU TRAS, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012016",
+        "tps": "1175012016002",
+        "url": "11\/1175\/117501\/1175012016\/1175012016002.json",
+        "nama": "TPS 002, DANAU TRAS, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012010",
+        "tps": "1175012010001",
+        "url": "11\/1175\/117501\/1175012010\/1175012010001.json",
+        "nama": "TPS 001, KUTA CEPU, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012010",
+        "tps": "1175012010002",
+        "url": "11\/1175\/117501\/1175012010\/1175012010002.json",
+        "nama": "TPS 002, KUTA CEPU, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012010",
+        "tps": "1175012010003",
+        "url": "11\/1175\/117501\/1175012010\/1175012010003.json",
+        "nama": "TPS 003, KUTA CEPU, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012013",
+        "tps": "1175012013001",
+        "url": "11\/1175\/117501\/1175012013\/1175012013001.json",
+        "nama": "TPS 001, LAE ORAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012013",
+        "tps": "1175012013002",
+        "url": "11\/1175\/117501\/1175012013\/1175012013002.json",
+        "nama": "TPS 002, LAE ORAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012013",
+        "tps": "1175012013003",
+        "url": "11\/1175\/117501\/1175012013\/1175012013003.json",
+        "nama": "TPS 003, LAE ORAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012013",
+        "tps": "1175012013004",
+        "url": "11\/1175\/117501\/1175012013\/1175012013004.json",
+        "nama": "TPS 004, LAE ORAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012013",
+        "tps": "1175012013005",
+        "url": "11\/1175\/117501\/1175012013\/1175012013005.json",
+        "nama": "TPS 005, LAE ORAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012014",
+        "tps": "1175012014001",
+        "url": "11\/1175\/117501\/1175012014\/1175012014001.json",
+        "nama": "TPS 001, MAKMUR JAYA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012014",
+        "tps": "1175012014002",
+        "url": "11\/1175\/117501\/1175012014\/1175012014002.json",
+        "nama": "TPS 002, MAKMUR JAYA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012014",
+        "tps": "1175012014003",
+        "url": "11\/1175\/117501\/1175012014\/1175012014003.json",
+        "nama": "TPS 003, MAKMUR JAYA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012014",
+        "tps": "1175012014004",
+        "url": "11\/1175\/117501\/1175012014\/1175012014004.json",
+        "nama": "TPS 004, MAKMUR JAYA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012014",
+        "tps": "1175012014005",
+        "url": "11\/1175\/117501\/1175012014\/1175012014005.json",
+        "nama": "TPS 005, MAKMUR JAYA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012012",
+        "tps": "1175012012001",
+        "url": "11\/1175\/117501\/1175012012\/1175012012001.json",
+        "nama": "TPS 001, MUKTI MAKMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012012",
+        "tps": "1175012012002",
+        "url": "11\/1175\/117501\/1175012012\/1175012012002.json",
+        "nama": "TPS 002, MUKTI MAKMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012012",
+        "tps": "1175012012003",
+        "url": "11\/1175\/117501\/1175012012\/1175012012003.json",
+        "nama": "TPS 003, MUKTI MAKMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012012",
+        "tps": "1175012012004",
+        "url": "11\/1175\/117501\/1175012012\/1175012012004.json",
+        "nama": "TPS 004, MUKTI MAKMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012011",
+        "tps": "1175012011001",
+        "url": "11\/1175\/117501\/1175012011\/1175012011001.json",
+        "nama": "TPS 001, PASAR PANJANG, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012011",
+        "tps": "1175012011002",
+        "url": "11\/1175\/117501\/1175012011\/1175012011002.json",
+        "nama": "TPS 002, PASAR PANJANG, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012011",
+        "tps": "1175012011003",
+        "url": "11\/1175\/117501\/1175012011\/1175012011003.json",
+        "nama": "TPS 003, PASAR PANJANG, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012002",
+        "tps": "1175012002001",
+        "url": "11\/1175\/117501\/1175012002\/1175012002001.json",
+        "nama": "TPS 001, PEGAYO, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012002",
+        "tps": "1175012002002",
+        "url": "11\/1175\/117501\/1175012002\/1175012002002.json",
+        "nama": "TPS 002, PEGAYO, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012002",
+        "tps": "1175012002003",
+        "url": "11\/1175\/117501\/1175012002\/1175012002003.json",
+        "nama": "TPS 003, PEGAYO, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012002",
+        "tps": "1175012002004",
+        "url": "11\/1175\/117501\/1175012002\/1175012002004.json",
+        "nama": "TPS 004, PEGAYO, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012002",
+        "tps": "1175012002005",
+        "url": "11\/1175\/117501\/1175012002\/1175012002005.json",
+        "nama": "TPS 005, PEGAYO, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012003",
+        "tps": "1175012003001",
+        "url": "11\/1175\/117501\/1175012003\/1175012003001.json",
+        "nama": "TPS 001, SIKALONDANG, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012003",
+        "tps": "1175012003002",
+        "url": "11\/1175\/117501\/1175012003\/1175012003002.json",
+        "nama": "TPS 002, SIKALONDANG, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012003",
+        "tps": "1175012003003",
+        "url": "11\/1175\/117501\/1175012003\/1175012003003.json",
+        "nama": "TPS 003, SIKALONDANG, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001001",
+        "url": "11\/1175\/117501\/1175012001\/1175012001001.json",
+        "nama": "TPS 001, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001002",
+        "url": "11\/1175\/117501\/1175012001\/1175012001002.json",
+        "nama": "TPS 002, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001003",
+        "url": "11\/1175\/117501\/1175012001\/1175012001003.json",
+        "nama": "TPS 003, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001004",
+        "url": "11\/1175\/117501\/1175012001\/1175012001004.json",
+        "nama": "TPS 004, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001005",
+        "url": "11\/1175\/117501\/1175012001\/1175012001005.json",
+        "nama": "TPS 005, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001006",
+        "url": "11\/1175\/117501\/1175012001\/1175012001006.json",
+        "nama": "TPS 006, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001007",
+        "url": "11\/1175\/117501\/1175012001\/1175012001007.json",
+        "nama": "TPS 007, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001008",
+        "url": "11\/1175\/117501\/1175012001\/1175012001008.json",
+        "nama": "TPS 008, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001009",
+        "url": "11\/1175\/117501\/1175012001\/1175012001009.json",
+        "nama": "TPS 009, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001010",
+        "url": "11\/1175\/117501\/1175012001\/1175012001010.json",
+        "nama": "TPS 010, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001011",
+        "url": "11\/1175\/117501\/1175012001\/1175012001011.json",
+        "nama": "TPS 011, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001012",
+        "url": "11\/1175\/117501\/1175012001\/1175012001012.json",
+        "nama": "TPS 012, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012001",
+        "tps": "1175012001013",
+        "url": "11\/1175\/117501\/1175012001\/1175012001013.json",
+        "nama": "TPS 013, SUBULUSSALAM, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012007",
+        "tps": "1175012007001",
+        "url": "11\/1175\/117501\/1175012007\/1175012007001.json",
+        "nama": "TPS 001, SUBULUSSALAM BARAT, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012007",
+        "tps": "1175012007002",
+        "url": "11\/1175\/117501\/1175012007\/1175012007002.json",
+        "nama": "TPS 002, SUBULUSSALAM BARAT, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012007",
+        "tps": "1175012007003",
+        "url": "11\/1175\/117501\/1175012007\/1175012007003.json",
+        "nama": "TPS 003, SUBULUSSALAM BARAT, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012007",
+        "tps": "1175012007004",
+        "url": "11\/1175\/117501\/1175012007\/1175012007004.json",
+        "nama": "TPS 004, SUBULUSSALAM BARAT, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012007",
+        "tps": "1175012007005",
+        "url": "11\/1175\/117501\/1175012007\/1175012007005.json",
+        "nama": "TPS 005, SUBULUSSALAM BARAT, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012007",
+        "tps": "1175012007006",
+        "url": "11\/1175\/117501\/1175012007\/1175012007006.json",
+        "nama": "TPS 006, SUBULUSSALAM BARAT, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012007",
+        "tps": "1175012007007",
+        "url": "11\/1175\/117501\/1175012007\/1175012007007.json",
+        "nama": "TPS 007, SUBULUSSALAM BARAT, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012007",
+        "tps": "1175012007008",
+        "url": "11\/1175\/117501\/1175012007\/1175012007008.json",
+        "nama": "TPS 008, SUBULUSSALAM BARAT, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012006",
+        "tps": "1175012006001",
+        "url": "11\/1175\/117501\/1175012006\/1175012006001.json",
+        "nama": "TPS 001, SUBULUSSALAM SELATAN, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012006",
+        "tps": "1175012006002",
+        "url": "11\/1175\/117501\/1175012006\/1175012006002.json",
+        "nama": "TPS 002, SUBULUSSALAM SELATAN, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012006",
+        "tps": "1175012006003",
+        "url": "11\/1175\/117501\/1175012006\/1175012006003.json",
+        "nama": "TPS 003, SUBULUSSALAM SELATAN, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012006",
+        "tps": "1175012006004",
+        "url": "11\/1175\/117501\/1175012006\/1175012006004.json",
+        "nama": "TPS 004, SUBULUSSALAM SELATAN, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012006",
+        "tps": "1175012006005",
+        "url": "11\/1175\/117501\/1175012006\/1175012006005.json",
+        "nama": "TPS 005, SUBULUSSALAM SELATAN, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012006",
+        "tps": "1175012006006",
+        "url": "11\/1175\/117501\/1175012006\/1175012006006.json",
+        "nama": "TPS 006, SUBULUSSALAM SELATAN, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012017",
+        "tps": "1175012017001",
+        "url": "11\/1175\/117501\/1175012017\/1175012017001.json",
+        "nama": "TPS 001, SUBULUSSALAM TIMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012017",
+        "tps": "1175012017002",
+        "url": "11\/1175\/117501\/1175012017\/1175012017002.json",
+        "nama": "TPS 002, SUBULUSSALAM TIMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012017",
+        "tps": "1175012017003",
+        "url": "11\/1175\/117501\/1175012017\/1175012017003.json",
+        "nama": "TPS 003, SUBULUSSALAM TIMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012017",
+        "tps": "1175012017004",
+        "url": "11\/1175\/117501\/1175012017\/1175012017004.json",
+        "nama": "TPS 004, SUBULUSSALAM TIMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012017",
+        "tps": "1175012017005",
+        "url": "11\/1175\/117501\/1175012017\/1175012017005.json",
+        "nama": "TPS 005, SUBULUSSALAM TIMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005001",
+        "url": "11\/1175\/117501\/1175012005\/1175012005001.json",
+        "nama": "TPS 001, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005002",
+        "url": "11\/1175\/117501\/1175012005\/1175012005002.json",
+        "nama": "TPS 002, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005003",
+        "url": "11\/1175\/117501\/1175012005\/1175012005003.json",
+        "nama": "TPS 003, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005004",
+        "url": "11\/1175\/117501\/1175012005\/1175012005004.json",
+        "nama": "TPS 004, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005005",
+        "url": "11\/1175\/117501\/1175012005\/1175012005005.json",
+        "nama": "TPS 005, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005006",
+        "url": "11\/1175\/117501\/1175012005\/1175012005006.json",
+        "nama": "TPS 006, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005007",
+        "url": "11\/1175\/117501\/1175012005\/1175012005007.json",
+        "nama": "TPS 007, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005008",
+        "url": "11\/1175\/117501\/1175012005\/1175012005008.json",
+        "nama": "TPS 008, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005009",
+        "url": "11\/1175\/117501\/1175012005\/1175012005009.json",
+        "nama": "TPS 009, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005010",
+        "url": "11\/1175\/117501\/1175012005\/1175012005010.json",
+        "nama": "TPS 010, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005011",
+        "url": "11\/1175\/117501\/1175012005\/1175012005011.json",
+        "nama": "TPS 011, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005012",
+        "url": "11\/1175\/117501\/1175012005\/1175012005012.json",
+        "nama": "TPS 012, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005013",
+        "url": "11\/1175\/117501\/1175012005\/1175012005013.json",
+        "nama": "TPS 013, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012005",
+        "tps": "1175012005014",
+        "url": "11\/1175\/117501\/1175012005\/1175012005014.json",
+        "nama": "TPS 014, SUBULUSSALAM UTARA, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012008",
+        "tps": "1175012008001",
+        "url": "11\/1175\/117501\/1175012008\/1175012008001.json",
+        "nama": "TPS 001, SUKA MAKMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012008",
+        "tps": "1175012008002",
+        "url": "11\/1175\/117501\/1175012008\/1175012008002.json",
+        "nama": "TPS 002, SUKA MAKMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012008",
+        "tps": "1175012008003",
+        "url": "11\/1175\/117501\/1175012008\/1175012008003.json",
+        "nama": "TPS 003, SUKA MAKMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012008",
+        "tps": "1175012008004",
+        "url": "11\/1175\/117501\/1175012008\/1175012008004.json",
+        "nama": "TPS 004, SUKA MAKMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012008",
+        "tps": "1175012008005",
+        "url": "11\/1175\/117501\/1175012008\/1175012008005.json",
+        "nama": "TPS 005, SUKA MAKMUR, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012009",
+        "tps": "1175012009001",
+        "url": "11\/1175\/117501\/1175012009\/1175012009001.json",
+        "nama": "TPS 001, TANGGA BESI, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012009",
+        "tps": "1175012009002",
+        "url": "11\/1175\/117501\/1175012009\/1175012009002.json",
+        "nama": "TPS 002, TANGGA BESI, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012009",
+        "tps": "1175012009003",
+        "url": "11\/1175\/117501\/1175012009\/1175012009003.json",
+        "nama": "TPS 003, TANGGA BESI, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117501",
+        "desa": "1175012009",
+        "tps": "1175012009004",
+        "url": "11\/1175\/117501\/1175012009\/1175012009004.json",
+        "nama": "TPS 004, TANGGA BESI, SIMPANG KIRI, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042020",
+        "tps": "1175042020001",
+        "url": "11\/1175\/117504\/1175042020\/1175042020001.json",
+        "nama": "TPS 001, BATU NAPAL, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042020",
+        "tps": "1175042020002",
+        "url": "11\/1175\/117504\/1175042020\/1175042020002.json",
+        "nama": "TPS 002, BATU NAPAL, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042002",
+        "tps": "1175042002001",
+        "url": "11\/1175\/117504\/1175042002\/1175042002001.json",
+        "nama": "TPS 001, BAWAN, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042015",
+        "tps": "1175042015001",
+        "url": "11\/1175\/117504\/1175042015\/1175042015001.json",
+        "nama": "TPS 001, BUNGA TANJUNG, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042015",
+        "tps": "1175042015002",
+        "url": "11\/1175\/117504\/1175042015\/1175042015002.json",
+        "nama": "TPS 002, BUNGA TANJUNG, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042016",
+        "tps": "1175042016001",
+        "url": "11\/1175\/117504\/1175042016\/1175042016001.json",
+        "nama": "TPS 001, CIPAR-PARI TIMUR, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042016",
+        "tps": "1175042016002",
+        "url": "11\/1175\/117504\/1175042016\/1175042016002.json",
+        "nama": "TPS 002, CIPAR-PARI TIMUR, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042016",
+        "tps": "1175042016003",
+        "url": "11\/1175\/117504\/1175042016\/1175042016003.json",
+        "nama": "TPS 003, CIPAR-PARI TIMUR, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042014",
+        "tps": "1175042014001",
+        "url": "11\/1175\/117504\/1175042014\/1175042014001.json",
+        "nama": "TPS 001, CIPARE PARE, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042014",
+        "tps": "1175042014002",
+        "url": "11\/1175\/117504\/1175042014\/1175042014002.json",
+        "nama": "TPS 002, CIPARE PARE, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042018",
+        "tps": "1175042018001",
+        "url": "11\/1175\/117504\/1175042018\/1175042018001.json",
+        "nama": "TPS 001, DARUL MAKMUR, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042008",
+        "tps": "1175042008001",
+        "url": "11\/1175\/117504\/1175042008\/1175042008001.json",
+        "nama": "TPS 001, GUNUNG BAKTI, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042008",
+        "tps": "1175042008002",
+        "url": "11\/1175\/117504\/1175042008\/1175042008002.json",
+        "nama": "TPS 002, GUNUNG BAKTI, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042008",
+        "tps": "1175042008003",
+        "url": "11\/1175\/117504\/1175042008\/1175042008003.json",
+        "nama": "TPS 003, GUNUNG BAKTI, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042008",
+        "tps": "1175042008004",
+        "url": "11\/1175\/117504\/1175042008\/1175042008004.json",
+        "nama": "TPS 004, GUNUNG BAKTI, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042008",
+        "tps": "1175042008005",
+        "url": "11\/1175\/117504\/1175042008\/1175042008005.json",
+        "nama": "TPS 005, GUNUNG BAKTI, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042004",
+        "tps": "1175042004001",
+        "url": "11\/1175\/117504\/1175042004\/1175042004001.json",
+        "nama": "TPS 001, JABI-JABI, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042004",
+        "tps": "1175042004002",
+        "url": "11\/1175\/117504\/1175042004\/1175042004002.json",
+        "nama": "TPS 002, JABI-JABI, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042004",
+        "tps": "1175042004003",
+        "url": "11\/1175\/117504\/1175042004\/1175042004003.json",
+        "nama": "TPS 003, JABI-JABI, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042019",
+        "tps": "1175042019001",
+        "url": "11\/1175\/117504\/1175042019\/1175042019001.json",
+        "nama": "TPS 001, JABI-JABI BARAT, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042019",
+        "tps": "1175042019002",
+        "url": "11\/1175\/117504\/1175042019\/1175042019002.json",
+        "nama": "TPS 002, JABI-JABI BARAT, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042009",
+        "tps": "1175042009001",
+        "url": "11\/1175\/117504\/1175042009\/1175042009001.json",
+        "nama": "TPS 001, JAMBI BARU, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042009",
+        "tps": "1175042009002",
+        "url": "11\/1175\/117504\/1175042009\/1175042009002.json",
+        "nama": "TPS 002, JAMBI BARU, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042009",
+        "tps": "1175042009003",
+        "url": "11\/1175\/117504\/1175042009\/1175042009003.json",
+        "nama": "TPS 003, JAMBI BARU, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042009",
+        "tps": "1175042009004",
+        "url": "11\/1175\/117504\/1175042009\/1175042009004.json",
+        "nama": "TPS 004, JAMBI BARU, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042006",
+        "tps": "1175042006001",
+        "url": "11\/1175\/117504\/1175042006\/1175042006001.json",
+        "nama": "TPS 001, LAE LANGGE, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042006",
+        "tps": "1175042006002",
+        "url": "11\/1175\/117504\/1175042006\/1175042006002.json",
+        "nama": "TPS 002, LAE LANGGE, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042006",
+        "tps": "1175042006003",
+        "url": "11\/1175\/117504\/1175042006\/1175042006003.json",
+        "nama": "TPS 003, LAE LANGGE, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042005",
+        "tps": "1175042005001",
+        "url": "11\/1175\/117504\/1175042005\/1175042005001.json",
+        "nama": "TPS 001, LAE SIMOLAP, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042005",
+        "tps": "1175042005002",
+        "url": "11\/1175\/117504\/1175042005\/1175042005002.json",
+        "nama": "TPS 002, LAE SIMOLAP, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042013",
+        "tps": "1175042013001",
+        "url": "11\/1175\/117504\/1175042013\/1175042013001.json",
+        "nama": "TPS 001, NAMO BUAYA, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042013",
+        "tps": "1175042013002",
+        "url": "11\/1175\/117504\/1175042013\/1175042013002.json",
+        "nama": "TPS 002, NAMO BUAYA, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042001",
+        "tps": "1175042001001",
+        "url": "11\/1175\/117504\/1175042001\/1175042001001.json",
+        "nama": "TPS 001, PASIR BELO, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042011",
+        "tps": "1175042011001",
+        "url": "11\/1175\/117504\/1175042011\/1175042011001.json",
+        "nama": "TPS 001, PULO BELEN, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042011",
+        "tps": "1175042011002",
+        "url": "11\/1175\/117504\/1175042011\/1175042011002.json",
+        "nama": "TPS 002, PULO BELEN, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042010",
+        "tps": "1175042010001",
+        "url": "11\/1175\/117504\/1175042010\/1175042010001.json",
+        "nama": "TPS 001, PULO KEDEP, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042010",
+        "tps": "1175042010002",
+        "url": "11\/1175\/117504\/1175042010\/1175042010002.json",
+        "nama": "TPS 002, PULO KEDEP, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042010",
+        "tps": "1175042010003",
+        "url": "11\/1175\/117504\/1175042010\/1175042010003.json",
+        "nama": "TPS 003, PULO KEDEP, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042010",
+        "tps": "1175042010004",
+        "url": "11\/1175\/117504\/1175042010\/1175042010004.json",
+        "nama": "TPS 004, PULO KEDEP, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042003",
+        "tps": "1175042003001",
+        "url": "11\/1175\/117504\/1175042003\/1175042003001.json",
+        "nama": "TPS 001, SIGRUN, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042003",
+        "tps": "1175042003002",
+        "url": "11\/1175\/117504\/1175042003\/1175042003002.json",
+        "nama": "TPS 002, SIGRUN, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042003",
+        "tps": "1175042003003",
+        "url": "11\/1175\/117504\/1175042003\/1175042003003.json",
+        "nama": "TPS 003, SIGRUN, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042012",
+        "tps": "1175042012001",
+        "url": "11\/1175\/117504\/1175042012\/1175042012001.json",
+        "nama": "TPS 001, SINGGERSING, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042012",
+        "tps": "1175042012002",
+        "url": "11\/1175\/117504\/1175042012\/1175042012002.json",
+        "nama": "TPS 002, SINGGERSING, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042007",
+        "tps": "1175042007001",
+        "url": "11\/1175\/117504\/1175042007\/1175042007001.json",
+        "nama": "TPS 001, SUKA MAJU, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042007",
+        "tps": "1175042007002",
+        "url": "11\/1175\/117504\/1175042007\/1175042007002.json",
+        "nama": "TPS 002, SUKA MAJU, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042007",
+        "tps": "1175042007003",
+        "url": "11\/1175\/117504\/1175042007\/1175042007003.json",
+        "nama": "TPS 003, SUKA MAJU, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042007",
+        "tps": "1175042007004",
+        "url": "11\/1175\/117504\/1175042007\/1175042007004.json",
+        "nama": "TPS 004, SUKA MAJU, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1175",
+        "kecamatan": "117504",
+        "desa": "1175042007",
+        "tps": "1175042007005",
+        "url": "11\/1175\/117504\/1175042007\/1175042007005.json",
+        "nama": "TPS 005, SUKA MAJU, SULTAN DAULAT, KOTA SUBULUSSALAM, ACEH"
+    }
+]

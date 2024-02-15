@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9920",
+        "kecamatan": "992001",
+        "desa": "9920010001",
+        "tps": "9920010001003",
+        "url": "99\/9920\/992001\/9920010001\/9920010001003.json",
+        "nama": "KSK 001, Brasilia, Brasil, Brasilia, Brasil, Brasilia, Brasil, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9920",
+        "kecamatan": "992001",
+        "desa": "9920010001",
+        "tps": "9920010001001",
+        "url": "99\/9920\/992001\/9920010001\/9920010001001.json",
+        "nama": "POS 001, Brasilia, Brasil, Brasilia, Brasil, Brasilia, Brasil, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9920",
+        "kecamatan": "992001",
+        "desa": "9920010001",
+        "tps": "9920010001002",
+        "url": "99\/9920\/992001\/9920010001\/9920010001002.json",
+        "nama": "TPS 001, Brasilia, Brasil, Brasilia, Brasil, Brasilia, Brasil, Luar Negeri"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1212",
+        "kecamatan": "121208",
+        "desa": "1212081009",
+        "tps": "1212081009003",
+        "nama": "TPS 003, PARSAORAN AJIBATA, AJIBATA, TOBA, SUMATERA UTARA",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1212\/121208\/1212081009\/1212081009003"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1212",
+        "kecamatan": "121223",
+        "desa": "1212232012",
+        "tps": "1212232012001",
+        "nama": "TPS 001, PARDOLOK LUMBAN LOBU, BONATUA LUNASI, TOBA, SUMATERA UTARA",
+        "selisih": 101,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1212\/121223\/1212232012\/1212232012001"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1212",
+        "kecamatan": "121223",
+        "desa": "1212232007",
+        "tps": "1212232007002",
+        "nama": "TPS 002, SILAMOSIK II, BONATUA LUNASI, TOBA, SUMATERA UTARA",
+        "selisih": -40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1212\/121223\/1212232007\/1212232007002"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1212",
+        "kecamatan": "121204",
+        "desa": "1212041009",
+        "tps": "1212041009012",
+        "nama": "TPS 012, PARSOBURAN TENGAH, HABINSARAN, TOBA, SUMATERA UTARA",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1212\/121204\/1212041009\/1212041009012"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1212",
+        "kecamatan": "121224",
+        "desa": "1212242004",
+        "tps": "1212242004002",
+        "nama": "TPS 002, TANGGA BATU I, PARMAKSIAN, TOBA, SUMATERA UTARA",
+        "selisih": 1346,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1212\/121224\/1212242004\/1212242004002"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1212",
+        "kecamatan": "121203",
+        "desa": "1212032026",
+        "tps": "1212032026001",
+        "nama": "TPS 001, SIBIDE BARAT, SILAEN, TOBA, SUMATERA UTARA",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1212\/121203\/1212032026\/1212032026001"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1212",
+        "kecamatan": "121207",
+        "desa": "1212072003",
+        "tps": "1212072003001",
+        "nama": "TPS 001, LUMBAN GURNING, PORSEA, TOBA, SUMATERA UTARA",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1212\/121207\/1212072003\/1212072003001"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1212",
+        "kecamatan": "121207",
+        "desa": "1212072003",
+        "tps": "1212072003001",
+        "nama": "TPS 001, LUMBAN GURNING, PORSEA, TOBA, SUMATERA UTARA",
+        "selisih": 1346,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1212\/121207\/1212072003\/1212072003001"
+    }
+]

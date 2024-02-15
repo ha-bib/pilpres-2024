@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AW",
+        "kecamatan": "99AW01",
+        "desa": "99AW010001",
+        "tps": "99AW010001001",
+        "url": "99\/99AW\/99AW01\/99AW010001\/99AW010001001.json",
+        "nama": "POS 001, Vatikan, Vatikan, Vatikan, Vatikan, Vatikan, Vatikan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AW",
+        "kecamatan": "99AW01",
+        "desa": "99AW010001",
+        "tps": "99AW010001002",
+        "url": "99\/99AW\/99AW01\/99AW010001\/99AW010001002.json",
+        "nama": "TPS 001, Vatikan, Vatikan, Vatikan, Vatikan, Vatikan, Vatikan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AW",
+        "kecamatan": "99AW01",
+        "desa": "99AW010001",
+        "tps": "99AW010001003",
+        "url": "99\/99AW\/99AW01\/99AW010001\/99AW010001003.json",
+        "nama": "TPS 002, Vatikan, Vatikan, Vatikan, Vatikan, Vatikan, Vatikan, Luar Negeri"
+    }
+]

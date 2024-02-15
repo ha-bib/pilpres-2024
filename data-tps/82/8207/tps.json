@@ -1,0 +1,2072 @@
+[
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032007",
+        "tps": "8207032007001",
+        "url": "82\/8207\/820703\/8207032007\/8207032007001.json",
+        "nama": "TPS 001, ARU, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032007",
+        "tps": "8207032007002",
+        "url": "82\/8207\/820703\/8207032007\/8207032007002.json",
+        "nama": "TPS 002, ARU, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032003",
+        "tps": "8207032003001",
+        "url": "82\/8207\/820703\/8207032003\/8207032003001.json",
+        "nama": "TPS 001, BERE BERE KECIL, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032003",
+        "tps": "8207032003002",
+        "url": "82\/8207\/820703\/8207032003\/8207032003002.json",
+        "nama": "TPS 002, BERE BERE KECIL, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032014",
+        "tps": "8207032014001",
+        "url": "82\/8207\/820703\/8207032014\/8207032014001.json",
+        "nama": "TPS 001, CEMPAKA, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032009",
+        "tps": "8207032009001",
+        "url": "82\/8207\/820703\/8207032009\/8207032009001.json",
+        "nama": "TPS 001, CENDANA, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032009",
+        "tps": "8207032009002",
+        "url": "82\/8207\/820703\/8207032009\/8207032009002.json",
+        "nama": "TPS 002, CENDANA, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032012",
+        "tps": "8207032012001",
+        "url": "82\/8207\/820703\/8207032012\/8207032012001.json",
+        "nama": "TPS 001, GORUGO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032012",
+        "tps": "8207032012002",
+        "url": "82\/8207\/820703\/8207032012\/8207032012002.json",
+        "nama": "TPS 002, GORUGO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032005",
+        "tps": "8207032005001",
+        "url": "82\/8207\/820703\/8207032005\/8207032005001.json",
+        "nama": "TPS 001, HAPO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032005",
+        "tps": "8207032005002",
+        "url": "82\/8207\/820703\/8207032005\/8207032005002.json",
+        "nama": "TPS 002, HAPO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032006",
+        "tps": "8207032006001",
+        "url": "82\/8207\/820703\/8207032006\/8207032006001.json",
+        "nama": "TPS 001, LIBANO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032006",
+        "tps": "8207032006002",
+        "url": "82\/8207\/820703\/8207032006\/8207032006002.json",
+        "nama": "TPS 002, LIBANO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032013",
+        "tps": "8207032013001",
+        "url": "82\/8207\/820703\/8207032013\/8207032013001.json",
+        "nama": "TPS 001, LOLEO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032013",
+        "tps": "8207032013002",
+        "url": "82\/8207\/820703\/8207032013\/8207032013002.json",
+        "nama": "TPS 002, LOLEO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032013",
+        "tps": "8207032013003",
+        "url": "82\/8207\/820703\/8207032013\/8207032013003.json",
+        "nama": "TPS 003, LOLEO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032001",
+        "tps": "8207032001001",
+        "url": "82\/8207\/820703\/8207032001\/8207032001001.json",
+        "nama": "TPS 001, PANGEO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032001",
+        "tps": "8207032001002",
+        "url": "82\/8207\/820703\/8207032001\/8207032001002.json",
+        "nama": "TPS 002, PANGEO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032001",
+        "tps": "8207032001003",
+        "url": "82\/8207\/820703\/8207032001\/8207032001003.json",
+        "nama": "TPS 003, PANGEO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032010",
+        "tps": "8207032010001",
+        "url": "82\/8207\/820703\/8207032010\/8207032010001.json",
+        "nama": "TPS 001, PODIMOR PADANGE, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032002",
+        "tps": "8207032002001",
+        "url": "82\/8207\/820703\/8207032002\/8207032002001.json",
+        "nama": "TPS 001, SOPI, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032002",
+        "tps": "8207032002002",
+        "url": "82\/8207\/820703\/8207032002\/8207032002002.json",
+        "nama": "TPS 002, SOPI, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032002",
+        "tps": "8207032002003",
+        "url": "82\/8207\/820703\/8207032002\/8207032002003.json",
+        "nama": "TPS 003, SOPI, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032011",
+        "tps": "8207032011001",
+        "url": "82\/8207\/820703\/8207032011\/8207032011001.json",
+        "nama": "TPS 001, SOPI MAJIKO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032011",
+        "tps": "8207032011002",
+        "url": "82\/8207\/820703\/8207032011\/8207032011002.json",
+        "nama": "TPS 002, SOPI MAJIKO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032011",
+        "tps": "8207032011003",
+        "url": "82\/8207\/820703\/8207032011\/8207032011003.json",
+        "nama": "TPS 003, SOPI MAJIKO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032011",
+        "tps": "8207032011004",
+        "url": "82\/8207\/820703\/8207032011\/8207032011004.json",
+        "nama": "TPS 004, SOPI MAJIKO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032011",
+        "tps": "8207032011005",
+        "url": "82\/8207\/820703\/8207032011\/8207032011005.json",
+        "nama": "TPS 005, SOPI MAJIKO, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032004",
+        "tps": "8207032004001",
+        "url": "82\/8207\/820703\/8207032004\/8207032004001.json",
+        "nama": "TPS 001, TITIGOGOLI, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032004",
+        "tps": "8207032004002",
+        "url": "82\/8207\/820703\/8207032004\/8207032004002.json",
+        "nama": "TPS 002, TITIGOGOLI, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032008",
+        "tps": "8207032008001",
+        "url": "82\/8207\/820703\/8207032008\/8207032008001.json",
+        "nama": "TPS 001, TOWARA, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820703",
+        "desa": "8207032008",
+        "tps": "8207032008002",
+        "url": "82\/8207\/820703\/8207032008\/8207032008002.json",
+        "nama": "TPS 002, TOWARA, MOROTAI JAYA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012018",
+        "tps": "8207012018001",
+        "url": "82\/8207\/820701\/8207012018\/8207012018001.json",
+        "nama": "TPS 001, AHA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012011",
+        "tps": "8207012011001",
+        "url": "82\/8207\/820701\/8207012011\/8207012011001.json",
+        "nama": "TPS 001, DAEO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012011",
+        "tps": "8207012011002",
+        "url": "82\/8207\/820701\/8207012011\/8207012011002.json",
+        "nama": "TPS 002, DAEO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012011",
+        "tps": "8207012011003",
+        "url": "82\/8207\/820701\/8207012011\/8207012011003.json",
+        "nama": "TPS 003, DAEO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012011",
+        "tps": "8207012011004",
+        "url": "82\/8207\/820701\/8207012011\/8207012011004.json",
+        "nama": "TPS 004, DAEO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012023",
+        "tps": "8207012023001",
+        "url": "82\/8207\/820701\/8207012023\/8207012023001.json",
+        "nama": "TPS 001, DAEO MAJIKO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012023",
+        "tps": "8207012023002",
+        "url": "82\/8207\/820701\/8207012023\/8207012023002.json",
+        "nama": "TPS 002, DAEO MAJIKO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012023",
+        "tps": "8207012023003",
+        "url": "82\/8207\/820701\/8207012023\/8207012023003.json",
+        "nama": "TPS 003, DAEO MAJIKO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012003",
+        "tps": "8207012003001",
+        "url": "82\/8207\/820701\/8207012003\/8207012003001.json",
+        "nama": "TPS 001, DARAME, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012003",
+        "tps": "8207012003002",
+        "url": "82\/8207\/820701\/8207012003\/8207012003002.json",
+        "nama": "TPS 002, DARAME, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012003",
+        "tps": "8207012003003",
+        "url": "82\/8207\/820701\/8207012003\/8207012003003.json",
+        "nama": "TPS 003, DARAME, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012003",
+        "tps": "8207012003004",
+        "url": "82\/8207\/820701\/8207012003\/8207012003004.json",
+        "nama": "TPS 004, DARAME, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012003",
+        "tps": "8207012003005",
+        "url": "82\/8207\/820701\/8207012003\/8207012003005.json",
+        "nama": "TPS 005, DARAME, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012003",
+        "tps": "8207012003006",
+        "url": "82\/8207\/820701\/8207012003\/8207012003006.json",
+        "nama": "TPS 006, DARAME, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012003",
+        "tps": "8207012003007",
+        "url": "82\/8207\/820701\/8207012003\/8207012003007.json",
+        "nama": "TPS 007, DARAME, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012002",
+        "tps": "8207012002001",
+        "url": "82\/8207\/820701\/8207012002\/8207012002001.json",
+        "nama": "TPS 001, DARUBA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012002",
+        "tps": "8207012002002",
+        "url": "82\/8207\/820701\/8207012002\/8207012002002.json",
+        "nama": "TPS 002, DARUBA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012002",
+        "tps": "8207012002003",
+        "url": "82\/8207\/820701\/8207012002\/8207012002003.json",
+        "nama": "TPS 003, DARUBA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012002",
+        "tps": "8207012002004",
+        "url": "82\/8207\/820701\/8207012002\/8207012002004.json",
+        "nama": "TPS 004, DARUBA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012002",
+        "tps": "8207012002005",
+        "url": "82\/8207\/820701\/8207012002\/8207012002005.json",
+        "nama": "TPS 005, DARUBA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012002",
+        "tps": "8207012002006",
+        "url": "82\/8207\/820701\/8207012002\/8207012002006.json",
+        "nama": "TPS 006, DARUBA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012002",
+        "tps": "8207012002007",
+        "url": "82\/8207\/820701\/8207012002\/8207012002007.json",
+        "nama": "TPS 007, DARUBA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012002",
+        "tps": "8207012002008",
+        "url": "82\/8207\/820701\/8207012002\/8207012002008.json",
+        "nama": "TPS 008, DARUBA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012012",
+        "tps": "8207012012001",
+        "url": "82\/8207\/820701\/8207012012\/8207012012001.json",
+        "nama": "TPS 001, DEHEGILA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012012",
+        "tps": "8207012012002",
+        "url": "82\/8207\/820701\/8207012012\/8207012012002.json",
+        "nama": "TPS 002, DEHEGILA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012012",
+        "tps": "8207012012003",
+        "url": "82\/8207\/820701\/8207012012\/8207012012003.json",
+        "nama": "TPS 003, DEHEGILA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012021",
+        "tps": "8207012021001",
+        "url": "82\/8207\/820701\/8207012021\/8207012021001.json",
+        "nama": "TPS 001, FALILA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012014",
+        "tps": "8207012014001",
+        "url": "82\/8207\/820701\/8207012014\/8207012014001.json",
+        "nama": "TPS 001, GALO-GALO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012014",
+        "tps": "8207012014002",
+        "url": "82\/8207\/820701\/8207012014\/8207012014002.json",
+        "nama": "TPS 002, GALO-GALO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012001",
+        "tps": "8207012001001",
+        "url": "82\/8207\/820701\/8207012001\/8207012001001.json",
+        "nama": "TPS 001, GOTALAMO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012001",
+        "tps": "8207012001002",
+        "url": "82\/8207\/820701\/8207012001\/8207012001002.json",
+        "nama": "TPS 002, GOTALAMO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012001",
+        "tps": "8207012001003",
+        "url": "82\/8207\/820701\/8207012001\/8207012001003.json",
+        "nama": "TPS 003, GOTALAMO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012001",
+        "tps": "8207012001004",
+        "url": "82\/8207\/820701\/8207012001\/8207012001004.json",
+        "nama": "TPS 004, GOTALAMO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012001",
+        "tps": "8207012001005",
+        "url": "82\/8207\/820701\/8207012001\/8207012001005.json",
+        "nama": "TPS 005, GOTALAMO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012001",
+        "tps": "8207012001006",
+        "url": "82\/8207\/820701\/8207012001\/8207012001006.json",
+        "nama": "TPS 006, GOTALAMO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012001",
+        "tps": "8207012001007",
+        "url": "82\/8207\/820701\/8207012001\/8207012001007.json",
+        "nama": "TPS 007, GOTALAMO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012001",
+        "tps": "8207012001008",
+        "url": "82\/8207\/820701\/8207012001\/8207012001008.json",
+        "nama": "TPS 008, GOTALAMO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012001",
+        "tps": "8207012001009",
+        "url": "82\/8207\/820701\/8207012001\/8207012001009.json",
+        "nama": "TPS 009, GOTALAMO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012017",
+        "tps": "8207012017001",
+        "url": "82\/8207\/820701\/8207012017\/8207012017001.json",
+        "nama": "TPS 001, JOUBELA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012017",
+        "tps": "8207012017002",
+        "url": "82\/8207\/820701\/8207012017\/8207012017002.json",
+        "nama": "TPS 002, JOUBELA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012017",
+        "tps": "8207012017003",
+        "url": "82\/8207\/820701\/8207012017\/8207012017003.json",
+        "nama": "TPS 003, JOUBELA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012006",
+        "tps": "8207012006001",
+        "url": "82\/8207\/820701\/8207012006\/8207012006001.json",
+        "nama": "TPS 001, JUANGA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012006",
+        "tps": "8207012006002",
+        "url": "82\/8207\/820701\/8207012006\/8207012006002.json",
+        "nama": "TPS 002, JUANGA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012006",
+        "tps": "8207012006003",
+        "url": "82\/8207\/820701\/8207012006\/8207012006003.json",
+        "nama": "TPS 003, JUANGA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012015",
+        "tps": "8207012015001",
+        "url": "82\/8207\/820701\/8207012015\/8207012015001.json",
+        "nama": "TPS 001, KOLORAY, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012015",
+        "tps": "8207012015002",
+        "url": "82\/8207\/820701\/8207012015\/8207012015002.json",
+        "nama": "TPS 002, KOLORAY, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012020",
+        "tps": "8207012020001",
+        "url": "82\/8207\/820701\/8207012020\/8207012020001.json",
+        "nama": "TPS 001, MANDIRI, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012008",
+        "tps": "8207012008001",
+        "url": "82\/8207\/820701\/8207012008\/8207012008001.json",
+        "nama": "TPS 001, MOMOJIU, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012008",
+        "tps": "8207012008002",
+        "url": "82\/8207\/820701\/8207012008\/8207012008002.json",
+        "nama": "TPS 002, MOMOJIU, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012024",
+        "tps": "8207012024001",
+        "url": "82\/8207\/820701\/8207012024\/8207012024001.json",
+        "nama": "TPS 001, MORODADI, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012024",
+        "tps": "8207012024002",
+        "url": "82\/8207\/820701\/8207012024\/8207012024002.json",
+        "nama": "TPS 002, MORODADI, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012024",
+        "tps": "8207012024003",
+        "url": "82\/8207\/820701\/8207012024\/8207012024003.json",
+        "nama": "TPS 003, MORODADI, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012019",
+        "tps": "8207012019001",
+        "url": "82\/8207\/820701\/8207012019\/8207012019001.json",
+        "nama": "TPS 001, MUHAJIRIN, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012019",
+        "tps": "8207012019002",
+        "url": "82\/8207\/820701\/8207012019\/8207012019002.json",
+        "nama": "TPS 002, MUHAJIRIN, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012019",
+        "tps": "8207012019003",
+        "url": "82\/8207\/820701\/8207012019\/8207012019003.json",
+        "nama": "TPS 003, MUHAJIRIN, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012019",
+        "tps": "8207012019004",
+        "url": "82\/8207\/820701\/8207012019\/8207012019004.json",
+        "nama": "TPS 004, MUHAJIRIN, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012025",
+        "tps": "8207012025001",
+        "url": "82\/8207\/820701\/8207012025\/8207012025001.json",
+        "nama": "TPS 001, NAKAMURA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012025",
+        "tps": "8207012025002",
+        "url": "82\/8207\/820701\/8207012025\/8207012025002.json",
+        "nama": "TPS 002, NAKAMURA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012005",
+        "tps": "8207012005001",
+        "url": "82\/8207\/820701\/8207012005\/8207012005001.json",
+        "nama": "TPS 001, PANDANGA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012005",
+        "tps": "8207012005002",
+        "url": "82\/8207\/820701\/8207012005\/8207012005002.json",
+        "nama": "TPS 002, PANDANGA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012005",
+        "tps": "8207012005003",
+        "url": "82\/8207\/820701\/8207012005\/8207012005003.json",
+        "nama": "TPS 003, PANDANGA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012005",
+        "tps": "8207012005004",
+        "url": "82\/8207\/820701\/8207012005\/8207012005004.json",
+        "nama": "TPS 004, PANDANGA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012013",
+        "tps": "8207012013001",
+        "url": "82\/8207\/820701\/8207012013\/8207012013001.json",
+        "nama": "TPS 001, PILOWO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012013",
+        "tps": "8207012013002",
+        "url": "82\/8207\/820701\/8207012013\/8207012013002.json",
+        "nama": "TPS 002, PILOWO, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012022",
+        "tps": "8207012022001",
+        "url": "82\/8207\/820701\/8207012022\/8207012022001.json",
+        "nama": "TPS 001, SABALA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012022",
+        "tps": "8207012022002",
+        "url": "82\/8207\/820701\/8207012022\/8207012022002.json",
+        "nama": "TPS 002, SABALA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012009",
+        "tps": "8207012009001",
+        "url": "82\/8207\/820701\/8207012009\/8207012009001.json",
+        "nama": "TPS 001, SABATAI BARU, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012009",
+        "tps": "8207012009002",
+        "url": "82\/8207\/820701\/8207012009\/8207012009002.json",
+        "nama": "TPS 002, SABATAI BARU, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012009",
+        "tps": "8207012009003",
+        "url": "82\/8207\/820701\/8207012009\/8207012009003.json",
+        "nama": "TPS 003, SABATAI BARU, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012010",
+        "tps": "8207012010001",
+        "url": "82\/8207\/820701\/8207012010\/8207012010001.json",
+        "nama": "TPS 001, SABATAI TUA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012010",
+        "tps": "8207012010002",
+        "url": "82\/8207\/820701\/8207012010\/8207012010002.json",
+        "nama": "TPS 002, SABATAI TUA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012010",
+        "tps": "8207012010003",
+        "url": "82\/8207\/820701\/8207012010\/8207012010003.json",
+        "nama": "TPS 003, SABATAI TUA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012007",
+        "tps": "8207012007001",
+        "url": "82\/8207\/820701\/8207012007\/8207012007001.json",
+        "nama": "TPS 001, TOTODOKU, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012007",
+        "tps": "8207012007002",
+        "url": "82\/8207\/820701\/8207012007\/8207012007002.json",
+        "nama": "TPS 002, TOTODOKU, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012004",
+        "tps": "8207012004001",
+        "url": "82\/8207\/820701\/8207012004\/8207012004001.json",
+        "nama": "TPS 001, WAWAMA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012004",
+        "tps": "8207012004002",
+        "url": "82\/8207\/820701\/8207012004\/8207012004002.json",
+        "nama": "TPS 002, WAWAMA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012004",
+        "tps": "8207012004003",
+        "url": "82\/8207\/820701\/8207012004\/8207012004003.json",
+        "nama": "TPS 003, WAWAMA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012004",
+        "tps": "8207012004004",
+        "url": "82\/8207\/820701\/8207012004\/8207012004004.json",
+        "nama": "TPS 004, WAWAMA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012004",
+        "tps": "8207012004005",
+        "url": "82\/8207\/820701\/8207012004\/8207012004005.json",
+        "nama": "TPS 005, WAWAMA, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012016",
+        "tps": "8207012016001",
+        "url": "82\/8207\/820701\/8207012016\/8207012016001.json",
+        "nama": "TPS 001, YAYASAN, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012016",
+        "tps": "8207012016002",
+        "url": "82\/8207\/820701\/8207012016\/8207012016002.json",
+        "nama": "TPS 002, YAYASAN, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012016",
+        "tps": "8207012016003",
+        "url": "82\/8207\/820701\/8207012016\/8207012016003.json",
+        "nama": "TPS 003, YAYASAN, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820701",
+        "desa": "8207012016",
+        "tps": "8207012016004",
+        "url": "82\/8207\/820701\/8207012016\/8207012016004.json",
+        "nama": "TPS 004, YAYASAN, MOROTAI SELATAN, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022005",
+        "tps": "8207022005001",
+        "url": "82\/8207\/820702\/8207022005\/8207022005001.json",
+        "nama": "TPS 001, ARU IRIAN, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022020",
+        "tps": "8207022020001",
+        "url": "82\/8207\/820702\/8207022020\/8207022020001.json",
+        "nama": "TPS 001, BOBULA, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022020",
+        "tps": "8207022020002",
+        "url": "82\/8207\/820702\/8207022020\/8207022020002.json",
+        "nama": "TPS 002, BOBULA, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022016",
+        "tps": "8207022016001",
+        "url": "82\/8207\/820702\/8207022016\/8207022016001.json",
+        "nama": "TPS 001, CIO DALAM, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022016",
+        "tps": "8207022016002",
+        "url": "82\/8207\/820702\/8207022016\/8207022016002.json",
+        "nama": "TPS 002, CIO DALAM, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022008",
+        "tps": "8207022008001",
+        "url": "82\/8207\/820702\/8207022008\/8207022008001.json",
+        "nama": "TPS 001, CIO GERONG, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022008",
+        "tps": "8207022008002",
+        "url": "82\/8207\/820702\/8207022008\/8207022008002.json",
+        "nama": "TPS 002, CIO GERONG, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022019",
+        "tps": "8207022019001",
+        "url": "82\/8207\/820702\/8207022019\/8207022019001.json",
+        "nama": "TPS 001, CIO MALOLEO, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022019",
+        "tps": "8207022019002",
+        "url": "82\/8207\/820702\/8207022019\/8207022019002.json",
+        "nama": "TPS 002, CIO MALOLEO, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022004",
+        "tps": "8207022004001",
+        "url": "82\/8207\/820702\/8207022004\/8207022004001.json",
+        "nama": "TPS 001, CUCUMARE, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022004",
+        "tps": "8207022004002",
+        "url": "82\/8207\/820702\/8207022004\/8207022004002.json",
+        "nama": "TPS 002, CUCUMARE, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022014",
+        "tps": "8207022014001",
+        "url": "82\/8207\/820702\/8207022014\/8207022014001.json",
+        "nama": "TPS 001, NGELE-NGELE BESAR, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022003",
+        "tps": "8207022003001",
+        "url": "82\/8207\/820702\/8207022003\/8207022003001.json",
+        "nama": "TPS 001, NGELE-NGELE KECIL, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022003",
+        "tps": "8207022003002",
+        "url": "82\/8207\/820702\/8207022003\/8207022003002.json",
+        "nama": "TPS 002, NGELE-NGELE KECIL, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022015",
+        "tps": "8207022015001",
+        "url": "82\/8207\/820702\/8207022015\/8207022015001.json",
+        "nama": "TPS 001, RAJA, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022015",
+        "tps": "8207022015002",
+        "url": "82\/8207\/820702\/8207022015\/8207022015002.json",
+        "nama": "TPS 002, RAJA, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022002",
+        "tps": "8207022002001",
+        "url": "82\/8207\/820702\/8207022002\/8207022002001.json",
+        "nama": "TPS 001, TILEY, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022002",
+        "tps": "8207022002002",
+        "url": "82\/8207\/820702\/8207022002\/8207022002002.json",
+        "nama": "TPS 002, TILEY, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022018",
+        "tps": "8207022018001",
+        "url": "82\/8207\/820702\/8207022018\/8207022018001.json",
+        "nama": "TPS 001, TILEY PANTAI, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022018",
+        "tps": "8207022018002",
+        "url": "82\/8207\/820702\/8207022018\/8207022018002.json",
+        "nama": "TPS 002, TILEY PANTAI, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022007",
+        "tps": "8207022007001",
+        "url": "82\/8207\/820702\/8207022007\/8207022007001.json",
+        "nama": "TPS 001, TUTUHU, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022007",
+        "tps": "8207022007002",
+        "url": "82\/8207\/820702\/8207022007\/8207022007002.json",
+        "nama": "TPS 002, TUTUHU, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022007",
+        "tps": "8207022007003",
+        "url": "82\/8207\/820702\/8207022007\/8207022007003.json",
+        "nama": "TPS 003, TUTUHU, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022017",
+        "tps": "8207022017001",
+        "url": "82\/8207\/820702\/8207022017\/8207022017001.json",
+        "nama": "TPS 001, USBAR PANTAI, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022006",
+        "tps": "8207022006001",
+        "url": "82\/8207\/820702\/8207022006\/8207022006001.json",
+        "nama": "TPS 001, WARINGIN, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022006",
+        "tps": "8207022006002",
+        "url": "82\/8207\/820702\/8207022006\/8207022006002.json",
+        "nama": "TPS 002, WARINGIN, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022001",
+        "tps": "8207022001001",
+        "url": "82\/8207\/820702\/8207022001\/8207022001001.json",
+        "nama": "TPS 001, WAYABULA, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022001",
+        "tps": "8207022001002",
+        "url": "82\/8207\/820702\/8207022001\/8207022001002.json",
+        "nama": "TPS 002, WAYABULA, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820702",
+        "desa": "8207022001",
+        "tps": "8207022001003",
+        "url": "82\/8207\/820702\/8207022001\/8207022001003.json",
+        "nama": "TPS 003, WAYABULA, MOROTAI SELATAN BARAT, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052001",
+        "tps": "8207052001001",
+        "url": "82\/8207\/820705\/8207052001\/8207052001001.json",
+        "nama": "TPS 001, BUHO-BUHO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052001",
+        "tps": "8207052001002",
+        "url": "82\/8207\/820705\/8207052001\/8207052001002.json",
+        "nama": "TPS 002, BUHO-BUHO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052015",
+        "tps": "8207052015001",
+        "url": "82\/8207\/820705\/8207052015\/8207052015001.json",
+        "nama": "TPS 001, DOKU MIRA, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052015",
+        "tps": "8207052015002",
+        "url": "82\/8207\/820705\/8207052015\/8207052015002.json",
+        "nama": "TPS 002, DOKU MIRA, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052014",
+        "tps": "8207052014001",
+        "url": "82\/8207\/820705\/8207052014\/8207052014001.json",
+        "nama": "TPS 001, GAMLAMO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052014",
+        "tps": "8207052014002",
+        "url": "82\/8207\/820705\/8207052014\/8207052014002.json",
+        "nama": "TPS 002, GAMLAMO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052013",
+        "tps": "8207052013001",
+        "url": "82\/8207\/820705\/8207052013\/8207052013001.json",
+        "nama": "TPS 001, GOSOMA MALUKU, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052013",
+        "tps": "8207052013002",
+        "url": "82\/8207\/820705\/8207052013\/8207052013002.json",
+        "nama": "TPS 002, GOSOMA MALUKU, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052012",
+        "tps": "8207052012001",
+        "url": "82\/8207\/820705\/8207052012\/8207052012001.json",
+        "nama": "TPS 001, HINO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052012",
+        "tps": "8207052012002",
+        "url": "82\/8207\/820705\/8207052012\/8207052012002.json",
+        "nama": "TPS 002, HINO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052004",
+        "tps": "8207052004001",
+        "url": "82\/8207\/820705\/8207052004\/8207052004001.json",
+        "nama": "TPS 001, LIFAO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052003",
+        "tps": "8207052003001",
+        "url": "82\/8207\/820705\/8207052003\/8207052003001.json",
+        "nama": "TPS 001, MIRA, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052003",
+        "tps": "8207052003002",
+        "url": "82\/8207\/820705\/8207052003\/8207052003002.json",
+        "nama": "TPS 002, MIRA, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052003",
+        "tps": "8207052003003",
+        "url": "82\/8207\/820705\/8207052003\/8207052003003.json",
+        "nama": "TPS 003, MIRA, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052005",
+        "tps": "8207052005001",
+        "url": "82\/8207\/820705\/8207052005\/8207052005001.json",
+        "nama": "TPS 001, RAHMAT, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052005",
+        "tps": "8207052005002",
+        "url": "82\/8207\/820705\/8207052005\/8207052005002.json",
+        "nama": "TPS 002, RAHMAT, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052008",
+        "tps": "8207052008001",
+        "url": "82\/8207\/820705\/8207052008\/8207052008001.json",
+        "nama": "TPS 001, SAMBIKI BARU, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052008",
+        "tps": "8207052008002",
+        "url": "82\/8207\/820705\/8207052008\/8207052008002.json",
+        "nama": "TPS 002, SAMBIKI BARU, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052008",
+        "tps": "8207052008003",
+        "url": "82\/8207\/820705\/8207052008\/8207052008003.json",
+        "nama": "TPS 003, SAMBIKI BARU, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052006",
+        "tps": "8207052006001",
+        "url": "82\/8207\/820705\/8207052006\/8207052006001.json",
+        "nama": "TPS 001, SAMBIKI TUA, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052006",
+        "tps": "8207052006002",
+        "url": "82\/8207\/820705\/8207052006\/8207052006002.json",
+        "nama": "TPS 002, SAMBIKI TUA, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052007",
+        "tps": "8207052007001",
+        "url": "82\/8207\/820705\/8207052007\/8207052007001.json",
+        "nama": "TPS 001, SANGOWO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052007",
+        "tps": "8207052007002",
+        "url": "82\/8207\/820705\/8207052007\/8207052007002.json",
+        "nama": "TPS 002, SANGOWO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052007",
+        "tps": "8207052007003",
+        "url": "82\/8207\/820705\/8207052007\/8207052007003.json",
+        "nama": "TPS 003, SANGOWO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052009",
+        "tps": "8207052009001",
+        "url": "82\/8207\/820705\/8207052009\/8207052009001.json",
+        "nama": "TPS 001, SANGOWO BARAT, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052009",
+        "tps": "8207052009002",
+        "url": "82\/8207\/820705\/8207052009\/8207052009002.json",
+        "nama": "TPS 002, SANGOWO BARAT, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052009",
+        "tps": "8207052009003",
+        "url": "82\/8207\/820705\/8207052009\/8207052009003.json",
+        "nama": "TPS 003, SANGOWO BARAT, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052010",
+        "tps": "8207052010001",
+        "url": "82\/8207\/820705\/8207052010\/8207052010001.json",
+        "nama": "TPS 001, SANGOWO TIMUR, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052010",
+        "tps": "8207052010002",
+        "url": "82\/8207\/820705\/8207052010\/8207052010002.json",
+        "nama": "TPS 002, SANGOWO TIMUR, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052010",
+        "tps": "8207052010003",
+        "url": "82\/8207\/820705\/8207052010\/8207052010003.json",
+        "nama": "TPS 003, SANGOWO TIMUR, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052011",
+        "tps": "8207052011001",
+        "url": "82\/8207\/820705\/8207052011\/8207052011001.json",
+        "nama": "TPS 001, SESELI JAYA, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052011",
+        "tps": "8207052011002",
+        "url": "82\/8207\/820705\/8207052011\/8207052011002.json",
+        "nama": "TPS 002, SESELI JAYA, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052002",
+        "tps": "8207052002001",
+        "url": "82\/8207\/820705\/8207052002\/8207052002001.json",
+        "nama": "TPS 001, WEWEMO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820705",
+        "desa": "8207052002",
+        "tps": "8207052002002",
+        "url": "82\/8207\/820705\/8207052002\/8207052002002.json",
+        "nama": "TPS 002, WEWEMO, MOROTAI TIMUR, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042001",
+        "tps": "8207042001001",
+        "url": "82\/8207\/820704\/8207042001\/8207042001001.json",
+        "nama": "TPS 001, BERE-BERE, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042001",
+        "tps": "8207042001002",
+        "url": "82\/8207\/820704\/8207042001\/8207042001002.json",
+        "nama": "TPS 002, BERE-BERE, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042005",
+        "tps": "8207042005001",
+        "url": "82\/8207\/820704\/8207042005\/8207042005001.json",
+        "nama": "TPS 001, BIDO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042005",
+        "tps": "8207042005002",
+        "url": "82\/8207\/820704\/8207042005\/8207042005002.json",
+        "nama": "TPS 002, BIDO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042005",
+        "tps": "8207042005003",
+        "url": "82\/8207\/820704\/8207042005\/8207042005003.json",
+        "nama": "TPS 003, BIDO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042013",
+        "tps": "8207042013001",
+        "url": "82\/8207\/820704\/8207042013\/8207042013001.json",
+        "nama": "TPS 001, GOA HIRA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042013",
+        "tps": "8207042013002",
+        "url": "82\/8207\/820704\/8207042013\/8207042013002.json",
+        "nama": "TPS 002, GOA HIRA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042006",
+        "tps": "8207042006001",
+        "url": "82\/8207\/820704\/8207042006\/8207042006001.json",
+        "nama": "TPS 001, GORUA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042006",
+        "tps": "8207042006002",
+        "url": "82\/8207\/820704\/8207042006\/8207042006002.json",
+        "nama": "TPS 002, GORUA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042014",
+        "tps": "8207042014001",
+        "url": "82\/8207\/820704\/8207042014\/8207042014001.json",
+        "nama": "TPS 001, GORUA SELATAN, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042014",
+        "tps": "8207042014002",
+        "url": "82\/8207\/820704\/8207042014\/8207042014002.json",
+        "nama": "TPS 002, GORUA SELATAN, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042009",
+        "tps": "8207042009001",
+        "url": "82\/8207\/820704\/8207042009\/8207042009001.json",
+        "nama": "TPS 001, KENARI, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042009",
+        "tps": "8207042009002",
+        "url": "82\/8207\/820704\/8207042009\/8207042009002.json",
+        "nama": "TPS 002, KENARI, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042009",
+        "tps": "8207042009003",
+        "url": "82\/8207\/820704\/8207042009\/8207042009003.json",
+        "nama": "TPS 003, KENARI, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042007",
+        "tps": "8207042007001",
+        "url": "82\/8207\/820704\/8207042007\/8207042007001.json",
+        "nama": "TPS 001, KORAGO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042007",
+        "tps": "8207042007002",
+        "url": "82\/8207\/820704\/8207042007\/8207042007002.json",
+        "nama": "TPS 002, KORAGO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042007",
+        "tps": "8207042007003",
+        "url": "82\/8207\/820704\/8207042007\/8207042007003.json",
+        "nama": "TPS 003, KORAGO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042010",
+        "tps": "8207042010001",
+        "url": "82\/8207\/820704\/8207042010\/8207042010001.json",
+        "nama": "TPS 001, LOLEO JAYA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042010",
+        "tps": "8207042010002",
+        "url": "82\/8207\/820704\/8207042010\/8207042010002.json",
+        "nama": "TPS 002, LOLEO JAYA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042010",
+        "tps": "8207042010003",
+        "url": "82\/8207\/820704\/8207042010\/8207042010003.json",
+        "nama": "TPS 003, LOLEO JAYA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042008",
+        "tps": "8207042008001",
+        "url": "82\/8207\/820704\/8207042008\/8207042008001.json",
+        "nama": "TPS 001, LUSUO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042008",
+        "tps": "8207042008002",
+        "url": "82\/8207\/820704\/8207042008\/8207042008002.json",
+        "nama": "TPS 002, LUSUO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042008",
+        "tps": "8207042008003",
+        "url": "82\/8207\/820704\/8207042008\/8207042008003.json",
+        "nama": "TPS 003, LUSUO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042008",
+        "tps": "8207042008004",
+        "url": "82\/8207\/820704\/8207042008\/8207042008004.json",
+        "nama": "TPS 004, LUSUO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042011",
+        "tps": "8207042011001",
+        "url": "82\/8207\/820704\/8207042011\/8207042011001.json",
+        "nama": "TPS 001, MABA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042011",
+        "tps": "8207042011002",
+        "url": "82\/8207\/820704\/8207042011\/8207042011002.json",
+        "nama": "TPS 002, MABA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042002",
+        "tps": "8207042002001",
+        "url": "82\/8207\/820704\/8207042002\/8207042002001.json",
+        "nama": "TPS 001, SAKITA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042002",
+        "tps": "8207042002002",
+        "url": "82\/8207\/820704\/8207042002\/8207042002002.json",
+        "nama": "TPS 002, SAKITA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042002",
+        "tps": "8207042002003",
+        "url": "82\/8207\/820704\/8207042002\/8207042002003.json",
+        "nama": "TPS 003, SAKITA, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042012",
+        "tps": "8207042012001",
+        "url": "82\/8207\/820704\/8207042012\/8207042012001.json",
+        "nama": "TPS 001, TANJUNG SALEH, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042012",
+        "tps": "8207042012002",
+        "url": "82\/8207\/820704\/8207042012\/8207042012002.json",
+        "nama": "TPS 002, TANJUNG SALEH, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042003",
+        "tps": "8207042003001",
+        "url": "82\/8207\/820704\/8207042003\/8207042003001.json",
+        "nama": "TPS 001, TAWAKALI, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042003",
+        "tps": "8207042003002",
+        "url": "82\/8207\/820704\/8207042003\/8207042003002.json",
+        "nama": "TPS 002, TAWAKALI, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042004",
+        "tps": "8207042004001",
+        "url": "82\/8207\/820704\/8207042004\/8207042004001.json",
+        "nama": "TPS 001, YAO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042004",
+        "tps": "8207042004002",
+        "url": "82\/8207\/820704\/8207042004\/8207042004002.json",
+        "nama": "TPS 002, YAO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820704",
+        "desa": "8207042004",
+        "tps": "8207042004003",
+        "url": "82\/8207\/820704\/8207042004\/8207042004003.json",
+        "nama": "TPS 003, YAO, MOROTAI UTARA, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062002",
+        "tps": "8207062002001",
+        "url": "82\/8207\/820706\/8207062002\/8207062002001.json",
+        "nama": "TPS 001, ARU BURUNG, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062002",
+        "tps": "8207062002002",
+        "url": "82\/8207\/820706\/8207062002\/8207062002002.json",
+        "nama": "TPS 002, ARU BURUNG, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062004",
+        "tps": "8207062004001",
+        "url": "82\/8207\/820706\/8207062004\/8207062004001.json",
+        "nama": "TPS 001, LEO-LEO, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062004",
+        "tps": "8207062004002",
+        "url": "82\/8207\/820706\/8207062004\/8207062004002.json",
+        "nama": "TPS 002, LEO-LEO, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062004",
+        "tps": "8207062004003",
+        "url": "82\/8207\/820706\/8207062004\/8207062004003.json",
+        "nama": "TPS 003, LEO-LEO, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062004",
+        "tps": "8207062004004",
+        "url": "82\/8207\/820706\/8207062004\/8207062004004.json",
+        "nama": "TPS 004, LEO-LEO, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062004",
+        "tps": "8207062004005",
+        "url": "82\/8207\/820706\/8207062004\/8207062004005.json",
+        "nama": "TPS 005, LEO-LEO, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062003",
+        "tps": "8207062003001",
+        "url": "82\/8207\/820706\/8207062003\/8207062003001.json",
+        "nama": "TPS 001, LOU MADORO, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062003",
+        "tps": "8207062003002",
+        "url": "82\/8207\/820706\/8207062003\/8207062003002.json",
+        "nama": "TPS 002, LOU MADORO, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062003",
+        "tps": "8207062003003",
+        "url": "82\/8207\/820706\/8207062003\/8207062003003.json",
+        "nama": "TPS 003, LOU MADORO, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062001",
+        "tps": "8207062001001",
+        "url": "82\/8207\/820706\/8207062001\/8207062001001.json",
+        "nama": "TPS 001, POSI-POSI, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062001",
+        "tps": "8207062001002",
+        "url": "82\/8207\/820706\/8207062001\/8207062001002.json",
+        "nama": "TPS 002, POSI-POSI, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062001",
+        "tps": "8207062001003",
+        "url": "82\/8207\/820706\/8207062001\/8207062001003.json",
+        "nama": "TPS 003, POSI-POSI, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062001",
+        "tps": "8207062001004",
+        "url": "82\/8207\/820706\/8207062001\/8207062001004.json",
+        "nama": "TPS 004, POSI-POSI, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062005",
+        "tps": "8207062005001",
+        "url": "82\/8207\/820706\/8207062005\/8207062005001.json",
+        "nama": "TPS 001, SAMI NYAMAU, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8207",
+        "kecamatan": "820706",
+        "desa": "8207062005",
+        "tps": "8207062005002",
+        "url": "82\/8207\/820706\/8207062005\/8207062005002.json",
+        "nama": "TPS 002, SAMI NYAMAU, PULAU RAO, PULAU MOROTAI, MALUKU UTARA"
+    }
+]

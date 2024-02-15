@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "13",
+        "kabupaten": "1308",
+        "kecamatan": "130807",
+        "desa": "1308072001",
+        "tps": "1308072001002",
+        "nama": "TPS 002, PANTI, PANTI, PASAMAN, SUMATERA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1308\/130807\/1308072001\/1308072001002"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1308",
+        "kecamatan": "130807",
+        "desa": "1308072004",
+        "tps": "1308072004019",
+        "nama": "TPS 019, PANTI SELATAN, PANTI, PASAMAN, SUMATERA BARAT",
+        "selisih": -380,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1308\/130807\/1308072004\/1308072004019"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1308",
+        "kecamatan": "130807",
+        "desa": "1308072001",
+        "tps": "1308072001003",
+        "nama": "TPS 003, PANTI, PANTI, PASAMAN, SUMATERA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1308\/130807\/1308072001\/1308072001003"
+    }
+]

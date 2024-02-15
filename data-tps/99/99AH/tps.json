@@ -1,0 +1,20 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AH",
+        "kecamatan": "99AH01",
+        "desa": "99AH010001",
+        "tps": "99AH010001001",
+        "url": "99\/99AH\/99AH01\/99AH010001\/99AH010001001.json",
+        "nama": "POS 001, Sofia, Bulgaria, Sofia, Bulgaria, Sofia, Bulgaria, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AH",
+        "kecamatan": "99AH01",
+        "desa": "99AH010001",
+        "tps": "99AH010001002",
+        "url": "99\/99AH\/99AH01\/99AH010001\/99AH010001002.json",
+        "nama": "TPS 001, Sofia, Bulgaria, Sofia, Bulgaria, Sofia, Bulgaria, Luar Negeri"
+    }
+]

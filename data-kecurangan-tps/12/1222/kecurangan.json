@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1222",
+        "kecamatan": "122203",
+        "desa": "1222032014",
+        "tps": "1222032014019",
+        "nama": "TPS 019, SEI MERANTI, TORGAMBA, LABUHANBATU SELATAN, SUMATERA UTARA",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1222\/122203\/1222032014\/1222032014019"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1222",
+        "kecamatan": "122203",
+        "desa": "1222032011",
+        "tps": "1222032011003",
+        "nama": "TPS 003, TORGANDA, TORGAMBA, LABUHANBATU SELATAN, SUMATERA UTARA",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1222\/122203\/1222032011\/1222032011003"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1222",
+        "kecamatan": "122203",
+        "desa": "1222032011",
+        "tps": "1222032011001",
+        "nama": "TPS 001, TORGANDA, TORGAMBA, LABUHANBATU SELATAN, SUMATERA UTARA",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1222\/122203\/1222032011\/1222032011001"
+    }
+]

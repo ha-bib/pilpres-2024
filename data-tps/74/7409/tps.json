@@ -1,0 +1,2342 @@
+[
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092014",
+        "tps": "7409092014001",
+        "url": "74\/7409\/740909\/7409092014\/7409092014001.json",
+        "nama": "TPS 001, AMBAKE, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092011",
+        "tps": "7409092011001",
+        "url": "74\/7409\/740909\/7409092011\/7409092011001.json",
+        "nama": "TPS 001, AMOLAME, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409091001",
+        "tps": "7409091001001",
+        "url": "74\/7409\/740909\/7409091001\/7409091001001.json",
+        "nama": "TPS 001, ANDOWIA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409091001",
+        "tps": "7409091001002",
+        "url": "74\/7409\/740909\/7409091001\/7409091001002.json",
+        "nama": "TPS 002, ANDOWIA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409091001",
+        "tps": "7409091001003",
+        "url": "74\/7409\/740909\/7409091001\/7409091001003.json",
+        "nama": "TPS 003, ANDOWIA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092012",
+        "tps": "7409092012001",
+        "url": "74\/7409\/740909\/7409092012\/7409092012001.json",
+        "nama": "TPS 001, ANGGOLOHIPO, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092010",
+        "tps": "7409092010001",
+        "url": "74\/7409\/740909\/7409092010\/7409092010001.json",
+        "nama": "TPS 001, BANGGAREMA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092010",
+        "tps": "7409092010002",
+        "url": "74\/7409\/740909\/7409092010\/7409092010002.json",
+        "nama": "TPS 002, BANGGAREMA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092006",
+        "tps": "7409092006001",
+        "url": "74\/7409\/740909\/7409092006\/7409092006001.json",
+        "nama": "TPS 001, LABUNGGA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092006",
+        "tps": "7409092006002",
+        "url": "74\/7409\/740909\/7409092006\/7409092006002.json",
+        "nama": "TPS 002, LABUNGGA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092002",
+        "tps": "7409092002001",
+        "url": "74\/7409\/740909\/7409092002\/7409092002001.json",
+        "nama": "TPS 001, LAHIMBUA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092002",
+        "tps": "7409092002002",
+        "url": "74\/7409\/740909\/7409092002\/7409092002002.json",
+        "nama": "TPS 002, LAHIMBUA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092004",
+        "tps": "7409092004001",
+        "url": "74\/7409\/740909\/7409092004\/7409092004001.json",
+        "nama": "TPS 001, LAMBUDONI, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092005",
+        "tps": "7409092005001",
+        "url": "74\/7409\/740909\/7409092005\/7409092005001.json",
+        "nama": "TPS 001, LAMONDOWO, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092005",
+        "tps": "7409092005002",
+        "url": "74\/7409\/740909\/7409092005\/7409092005002.json",
+        "nama": "TPS 002, LAMONDOWO, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092005",
+        "tps": "7409092005003",
+        "url": "74\/7409\/740909\/7409092005\/7409092005003.json",
+        "nama": "TPS 003, LAMONDOWO, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092008",
+        "tps": "7409092008001",
+        "url": "74\/7409\/740909\/7409092008\/7409092008001.json",
+        "nama": "TPS 001, LAROBENDE, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092008",
+        "tps": "7409092008002",
+        "url": "74\/7409\/740909\/7409092008\/7409092008002.json",
+        "nama": "TPS 002, LAROBENDE, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092003",
+        "tps": "7409092003001",
+        "url": "74\/7409\/740909\/7409092003\/7409092003001.json",
+        "nama": "TPS 001, LARONANGA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092003",
+        "tps": "7409092003002",
+        "url": "74\/7409\/740909\/7409092003\/7409092003002.json",
+        "nama": "TPS 002, LARONANGA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092007",
+        "tps": "7409092007001",
+        "url": "74\/7409\/740909\/7409092007\/7409092007001.json",
+        "nama": "TPS 001, MATAIWOI, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092007",
+        "tps": "7409092007002",
+        "url": "74\/7409\/740909\/7409092007\/7409092007002.json",
+        "nama": "TPS 002, MATAIWOI, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092009",
+        "tps": "7409092009001",
+        "url": "74\/7409\/740909\/7409092009\/7409092009001.json",
+        "nama": "TPS 001, PUUSULI, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092009",
+        "tps": "7409092009002",
+        "url": "74\/7409\/740909\/7409092009\/7409092009002.json",
+        "nama": "TPS 002, PUUSULI, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092013",
+        "tps": "7409092013001",
+        "url": "74\/7409\/740909\/7409092013\/7409092013001.json",
+        "nama": "TPS 001, PUUWONUA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092013",
+        "tps": "7409092013002",
+        "url": "74\/7409\/740909\/7409092013\/7409092013002.json",
+        "nama": "TPS 002, PUUWONUA, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740909",
+        "desa": "7409092015",
+        "tps": "7409092015001",
+        "url": "74\/7409\/740909\/7409092015\/7409092015001.json",
+        "nama": "TPS 001, WAWORATE, ANDOWIA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012036",
+        "tps": "7409012036001",
+        "url": "74\/7409\/740901\/7409012036\/7409012036001.json",
+        "nama": "TPS 001, ALAA WANGGUDU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012010",
+        "tps": "7409012010001",
+        "url": "74\/7409\/740901\/7409012010\/7409012010001.json",
+        "nama": "TPS 001, AMOROME, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012010",
+        "tps": "7409012010002",
+        "url": "74\/7409\/740901\/7409012010\/7409012010002.json",
+        "nama": "TPS 002, AMOROME, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012034",
+        "tps": "7409012034001",
+        "url": "74\/7409\/740901\/7409012034\/7409012034001.json",
+        "nama": "TPS 001, AMOROME UTAMA, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012035",
+        "tps": "7409012035001",
+        "url": "74\/7409\/740901\/7409012035\/7409012035001.json",
+        "nama": "TPS 001, ANDEDAO, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012027",
+        "tps": "7409012027001",
+        "url": "74\/7409\/740901\/7409012027\/7409012027001.json",
+        "nama": "TPS 001, ASEMINUNULAI, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409011009",
+        "tps": "7409011009001",
+        "url": "74\/7409\/740901\/7409011009\/7409011009001.json",
+        "nama": "TPS 001, ASERA, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409011009",
+        "tps": "7409011009002",
+        "url": "74\/7409\/740901\/7409011009\/7409011009002.json",
+        "nama": "TPS 002, ASERA, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012033",
+        "tps": "7409012033001",
+        "url": "74\/7409\/740901\/7409012033\/7409012033001.json",
+        "nama": "TPS 001, KOTA MULYA, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012032",
+        "tps": "7409012032001",
+        "url": "74\/7409\/740901\/7409012032\/7409012032001.json",
+        "nama": "TPS 001, LONGEO UTAMA, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012037",
+        "tps": "7409012037001",
+        "url": "74\/7409\/740901\/7409012037\/7409012037001.json",
+        "nama": "TPS 001, OHEO TRANS, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012030",
+        "tps": "7409012030001",
+        "url": "74\/7409\/740901\/7409012030\/7409012030001.json",
+        "nama": "TPS 001, PUUNGGOMOSI, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012030",
+        "tps": "7409012030002",
+        "url": "74\/7409\/740901\/7409012030\/7409012030002.json",
+        "nama": "TPS 002, PUUNGGOMOSI, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012031",
+        "tps": "7409012031001",
+        "url": "74\/7409\/740901\/7409012031\/7409012031001.json",
+        "nama": "TPS 001, PUUWANGGUDU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012031",
+        "tps": "7409012031002",
+        "url": "74\/7409\/740901\/7409012031\/7409012031002.json",
+        "nama": "TPS 002, PUUWANGGUDU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012008",
+        "tps": "7409012008001",
+        "url": "74\/7409\/740901\/7409012008\/7409012008001.json",
+        "nama": "TPS 001, TANGGULURI, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012024",
+        "tps": "7409012024001",
+        "url": "74\/7409\/740901\/7409012024\/7409012024001.json",
+        "nama": "TPS 001, TAPUWATU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012007",
+        "tps": "7409012007001",
+        "url": "74\/7409\/740901\/7409012007\/7409012007001.json",
+        "nama": "TPS 001, WALALINDU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012017",
+        "tps": "7409012017001",
+        "url": "74\/7409\/740901\/7409012017\/7409012017001.json",
+        "nama": "TPS 001, WALASOLO, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012017",
+        "tps": "7409012017002",
+        "url": "74\/7409\/740901\/7409012017\/7409012017002.json",
+        "nama": "TPS 002, WALASOLO, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409011005",
+        "tps": "7409011005001",
+        "url": "74\/7409\/740901\/7409011005\/7409011005001.json",
+        "nama": "TPS 001, WANGGUDU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409011005",
+        "tps": "7409011005002",
+        "url": "74\/7409\/740901\/7409011005\/7409011005002.json",
+        "nama": "TPS 002, WANGGUDU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409011005",
+        "tps": "7409011005003",
+        "url": "74\/7409\/740901\/7409011005\/7409011005003.json",
+        "nama": "TPS 003, WANGGUDU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409011005",
+        "tps": "7409011005004",
+        "url": "74\/7409\/740901\/7409011005\/7409011005004.json",
+        "nama": "TPS 004, WANGGUDU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409011005",
+        "tps": "7409011005005",
+        "url": "74\/7409\/740901\/7409011005\/7409011005005.json",
+        "nama": "TPS 005, WANGGUDU, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012006",
+        "tps": "7409012006001",
+        "url": "74\/7409\/740901\/7409012006\/7409012006001.json",
+        "nama": "TPS 001, WANGGUDU RAYA, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012016",
+        "tps": "7409012016001",
+        "url": "74\/7409\/740901\/7409012016\/7409012016001.json",
+        "nama": "TPS 001, WAWOLIMBUE, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012020",
+        "tps": "7409012020001",
+        "url": "74\/7409\/740901\/7409012020\/7409012020001.json",
+        "nama": "TPS 001, WUNDUHAKA, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740901",
+        "desa": "7409012020",
+        "tps": "7409012020002",
+        "url": "74\/7409\/740901\/7409012020\/7409012020002.json",
+        "nama": "TPS 002, WUNDUHAKA, ASERA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132011",
+        "tps": "7409132011001",
+        "url": "74\/7409\/740913\/7409132011\/7409132011001.json",
+        "nama": "TPS 001, HIALU, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132005",
+        "tps": "7409132005001",
+        "url": "74\/7409\/740913\/7409132005\/7409132005001.json",
+        "nama": "TPS 001, HIALU UTAMA, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132003",
+        "tps": "7409132003001",
+        "url": "74\/7409\/740913\/7409132003\/7409132003001.json",
+        "nama": "TPS 001, KOLOSUA, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132001",
+        "tps": "7409132001001",
+        "url": "74\/7409\/740913\/7409132001\/7409132001001.json",
+        "nama": "TPS 001, KURATAO, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132001",
+        "tps": "7409132001002",
+        "url": "74\/7409\/740913\/7409132001\/7409132001002.json",
+        "nama": "TPS 002, KURATAO, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132009",
+        "tps": "7409132009001",
+        "url": "74\/7409\/740913\/7409132009\/7409132009001.json",
+        "nama": "TPS 001, LANDAWE UTAMA, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132002",
+        "tps": "7409132002001",
+        "url": "74\/7409\/740913\/7409132002\/7409132002001.json",
+        "nama": "TPS 001, LANDIWO, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132004",
+        "tps": "7409132004001",
+        "url": "74\/7409\/740913\/7409132004\/7409132004001.json",
+        "nama": "TPS 001, LAUMOSO, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132010",
+        "tps": "7409132010001",
+        "url": "74\/7409\/740913\/7409132010\/7409132010001.json",
+        "nama": "TPS 001, MATA BENUA, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132008",
+        "tps": "7409132008001",
+        "url": "74\/7409\/740913\/7409132008\/7409132008001.json",
+        "nama": "TPS 001, MATABAHO, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132006",
+        "tps": "7409132006001",
+        "url": "74\/7409\/740913\/7409132006\/7409132006001.json",
+        "nama": "TPS 001, POLO-POLORA, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740913",
+        "desa": "7409132007",
+        "tps": "7409132007001",
+        "url": "74\/7409\/740913\/7409132007\/7409132007001.json",
+        "nama": "TPS 001, TAMBAKUA, LANDAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032009",
+        "tps": "7409032009001",
+        "url": "74\/7409\/740903\/7409032009\/7409032009001.json",
+        "nama": "TPS 001, ALENGGO, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032009",
+        "tps": "7409032009002",
+        "url": "74\/7409\/740903\/7409032009\/7409032009002.json",
+        "nama": "TPS 002, ALENGGO, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032002",
+        "tps": "7409032002001",
+        "url": "74\/7409\/740903\/7409032002\/7409032002001.json",
+        "nama": "TPS 001, LAMERURU, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032002",
+        "tps": "7409032002901",
+        "url": "74\/7409\/740903\/7409032002\/7409032002901.json",
+        "nama": "TPS 901, LAMERURU, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032002",
+        "tps": "7409032002902",
+        "url": "74\/7409\/740903\/7409032002\/7409032002902.json",
+        "nama": "TPS 902, LAMERURU, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032002",
+        "tps": "7409032002903",
+        "url": "74\/7409\/740903\/7409032002\/7409032002903.json",
+        "nama": "TPS 903, LAMERURU, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032002",
+        "tps": "7409032002904",
+        "url": "74\/7409\/740903\/7409032002\/7409032002904.json",
+        "nama": "TPS 904, LAMERURU, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032002",
+        "tps": "7409032002905",
+        "url": "74\/7409\/740903\/7409032002\/7409032002905.json",
+        "nama": "TPS 905, LAMERURU, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032002",
+        "tps": "7409032002906",
+        "url": "74\/7409\/740903\/7409032002\/7409032002906.json",
+        "nama": "TPS 906, LAMERURU, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032002",
+        "tps": "7409032002907",
+        "url": "74\/7409\/740903\/7409032002\/7409032002907.json",
+        "nama": "TPS 907, LAMERURU, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409031003",
+        "tps": "7409031003001",
+        "url": "74\/7409\/740903\/7409031003\/7409031003001.json",
+        "nama": "TPS 001, LANGGIKIMA, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409031003",
+        "tps": "7409031003002",
+        "url": "74\/7409\/740903\/7409031003\/7409031003002.json",
+        "nama": "TPS 002, LANGGIKIMA, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032010",
+        "tps": "7409032010001",
+        "url": "74\/7409\/740903\/7409032010\/7409032010001.json",
+        "nama": "TPS 001, MEKAR JAYA, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032001",
+        "tps": "7409032001001",
+        "url": "74\/7409\/740903\/7409032001\/7409032001001.json",
+        "nama": "TPS 001, MOLORE, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032001",
+        "tps": "7409032001002",
+        "url": "74\/7409\/740903\/7409032001\/7409032001002.json",
+        "nama": "TPS 002, MOLORE, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032011",
+        "tps": "7409032011001",
+        "url": "74\/7409\/740903\/7409032011\/7409032011001.json",
+        "nama": "TPS 001, MOLORE PANTAI, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032011",
+        "tps": "7409032011002",
+        "url": "74\/7409\/740903\/7409032011\/7409032011002.json",
+        "nama": "TPS 002, MOLORE PANTAI, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032005",
+        "tps": "7409032005001",
+        "url": "74\/7409\/740903\/7409032005\/7409032005001.json",
+        "nama": "TPS 001, MOROMBO PANTAI, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032005",
+        "tps": "7409032005002",
+        "url": "74\/7409\/740903\/7409032005\/7409032005002.json",
+        "nama": "TPS 002, MOROMBO PANTAI, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032012",
+        "tps": "7409032012001",
+        "url": "74\/7409\/740903\/7409032012\/7409032012001.json",
+        "nama": "TPS 001, NGAPA INIA, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032007",
+        "tps": "7409032007001",
+        "url": "74\/7409\/740903\/7409032007\/7409032007001.json",
+        "nama": "TPS 001, PARIAMA, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032007",
+        "tps": "7409032007002",
+        "url": "74\/7409\/740903\/7409032007\/7409032007002.json",
+        "nama": "TPS 002, PARIAMA, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032006",
+        "tps": "7409032006001",
+        "url": "74\/7409\/740903\/7409032006\/7409032006001.json",
+        "nama": "TPS 001, POLORA INDAH, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032004",
+        "tps": "7409032004001",
+        "url": "74\/7409\/740903\/7409032004\/7409032004001.json",
+        "nama": "TPS 001, SARIMUKTI, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032004",
+        "tps": "7409032004002",
+        "url": "74\/7409\/740903\/7409032004\/7409032004002.json",
+        "nama": "TPS 002, SARIMUKTI, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740903",
+        "desa": "7409032008",
+        "tps": "7409032008001",
+        "url": "74\/7409\/740903\/7409032008\/7409032008001.json",
+        "nama": "TPS 001, TOBIMEITA, LANGGIKIMA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052006",
+        "tps": "7409052006001",
+        "url": "74\/7409\/740905\/7409052006\/7409052006001.json",
+        "nama": "TPS 001, ABOLA, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052006",
+        "tps": "7409052006002",
+        "url": "74\/7409\/740905\/7409052006\/7409052006002.json",
+        "nama": "TPS 002, ABOLA, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052008",
+        "tps": "7409052008001",
+        "url": "74\/7409\/740905\/7409052008\/7409052008001.json",
+        "nama": "TPS 001, ANDEO, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052010",
+        "tps": "7409052010001",
+        "url": "74\/7409\/740905\/7409052010\/7409052010001.json",
+        "nama": "TPS 001, ANDUMOWU, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052010",
+        "tps": "7409052010002",
+        "url": "74\/7409\/740905\/7409052010\/7409052010002.json",
+        "nama": "TPS 002, ANDUMOWU, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052011",
+        "tps": "7409052011001",
+        "url": "74\/7409\/740905\/7409052011\/7409052011001.json",
+        "nama": "TPS 001, BASULE, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052011",
+        "tps": "7409052011002",
+        "url": "74\/7409\/740905\/7409052011\/7409052011002.json",
+        "nama": "TPS 002, BASULE, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052007",
+        "tps": "7409052007001",
+        "url": "74\/7409\/740905\/7409052007\/7409052007001.json",
+        "nama": "TPS 001, BELALO, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052007",
+        "tps": "7409052007002",
+        "url": "74\/7409\/740905\/7409052007\/7409052007002.json",
+        "nama": "TPS 002, BELALO, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052025",
+        "tps": "7409052025001",
+        "url": "74\/7409\/740905\/7409052025\/7409052025001.json",
+        "nama": "TPS 001, LALOWARU, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052017",
+        "tps": "7409052017001",
+        "url": "74\/7409\/740905\/7409052017\/7409052017001.json",
+        "nama": "TPS 001, LAMETONO, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052017",
+        "tps": "7409052017002",
+        "url": "74\/7409\/740905\/7409052017\/7409052017002.json",
+        "nama": "TPS 002, LAMETONO, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052020",
+        "tps": "7409052020001",
+        "url": "74\/7409\/740905\/7409052020\/7409052020001.json",
+        "nama": "TPS 001, LARODANGGE, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052020",
+        "tps": "7409052020002",
+        "url": "74\/7409\/740905\/7409052020\/7409052020002.json",
+        "nama": "TPS 002, LARODANGGE, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052030",
+        "tps": "7409052030001",
+        "url": "74\/7409\/740905\/7409052030\/7409052030001.json",
+        "nama": "TPS 001, MAROMBO PANTAI, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052009",
+        "tps": "7409052009001",
+        "url": "74\/7409\/740905\/7409052009\/7409052009001.json",
+        "nama": "TPS 001, MATAPILA, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052009",
+        "tps": "7409052009002",
+        "url": "74\/7409\/740905\/7409052009\/7409052009002.json",
+        "nama": "TPS 002, MATAPILA, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052026",
+        "tps": "7409052026001",
+        "url": "74\/7409\/740905\/7409052026\/7409052026001.json",
+        "nama": "TPS 001, MUARA TINOBU, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052026",
+        "tps": "7409052026002",
+        "url": "74\/7409\/740905\/7409052026\/7409052026002.json",
+        "nama": "TPS 002, MUARA TINOBU, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052013",
+        "tps": "7409052013001",
+        "url": "74\/7409\/740905\/7409052013\/7409052013001.json",
+        "nama": "TPS 001, OTOLE, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052013",
+        "tps": "7409052013002",
+        "url": "74\/7409\/740905\/7409052013\/7409052013002.json",
+        "nama": "TPS 002, OTOLE, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052024",
+        "tps": "7409052024001",
+        "url": "74\/7409\/740905\/7409052024\/7409052024001.json",
+        "nama": "TPS 001, TETELUPAI, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409051001",
+        "tps": "7409051001001",
+        "url": "74\/7409\/740905\/7409051001\/7409051001001.json",
+        "nama": "TPS 001, TINOBU, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409051001",
+        "tps": "7409051001002",
+        "url": "74\/7409\/740905\/7409051001\/7409051001002.json",
+        "nama": "TPS 002, TINOBU, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409051001",
+        "tps": "7409051001003",
+        "url": "74\/7409\/740905\/7409051001\/7409051001003.json",
+        "nama": "TPS 003, TINOBU, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052031",
+        "tps": "7409052031001",
+        "url": "74\/7409\/740905\/7409052031\/7409052031001.json",
+        "nama": "TPS 001, TOKOWUTA, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052016",
+        "tps": "7409052016001",
+        "url": "74\/7409\/740905\/7409052016\/7409052016001.json",
+        "nama": "TPS 001, WATUKILA, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052016",
+        "tps": "7409052016002",
+        "url": "74\/7409\/740905\/7409052016\/7409052016002.json",
+        "nama": "TPS 002, WATUKILA, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052012",
+        "tps": "7409052012001",
+        "url": "74\/7409\/740905\/7409052012\/7409052012001.json",
+        "nama": "TPS 001, WAWORAHA, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740905",
+        "desa": "7409052012",
+        "tps": "7409052012002",
+        "url": "74\/7409\/740905\/7409052012\/7409052012002.json",
+        "nama": "TPS 002, WAWORAHA, LASOLO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740912",
+        "desa": "7409122006",
+        "tps": "7409122006001",
+        "url": "74\/7409\/740912\/7409122006\/7409122006001.json",
+        "nama": "TPS 001, BOEDINGI, LASOLO KEPULAUAN, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740912",
+        "desa": "7409122001",
+        "tps": "7409122001001",
+        "url": "74\/7409\/740912\/7409122001\/7409122001001.json",
+        "nama": "TPS 001, BOENAGA, LASOLO KEPULAUAN, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740912",
+        "desa": "7409122001",
+        "tps": "7409122001002",
+        "url": "74\/7409\/740912\/7409122001\/7409122001002.json",
+        "nama": "TPS 002, BOENAGA, LASOLO KEPULAUAN, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740912",
+        "desa": "7409122003",
+        "tps": "7409122003001",
+        "url": "74\/7409\/740912\/7409122003\/7409122003001.json",
+        "nama": "TPS 001, LABENGKI, LASOLO KEPULAUAN, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740912",
+        "desa": "7409122004",
+        "tps": "7409122004001",
+        "url": "74\/7409\/740912\/7409122004\/7409122004001.json",
+        "nama": "TPS 001, MOROMBO, LASOLO KEPULAUAN, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740912",
+        "desa": "7409122004",
+        "tps": "7409122004002",
+        "url": "74\/7409\/740912\/7409122004\/7409122004002.json",
+        "nama": "TPS 002, MOROMBO, LASOLO KEPULAUAN, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740912",
+        "desa": "7409122005",
+        "tps": "7409122005001",
+        "url": "74\/7409\/740912\/7409122005\/7409122005001.json",
+        "nama": "TPS 001, TAPUNOPAKA, LASOLO KEPULAUAN, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740912",
+        "desa": "7409122002",
+        "tps": "7409122002001",
+        "url": "74\/7409\/740912\/7409122002\/7409122002001.json",
+        "nama": "TPS 001, WATURAMBAHA, LASOLO KEPULAUAN, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740912",
+        "desa": "7409122002",
+        "tps": "7409122002002",
+        "url": "74\/7409\/740912\/7409122002\/7409122002002.json",
+        "nama": "TPS 002, WATURAMBAHA, LASOLO KEPULAUAN, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062001",
+        "tps": "7409062001001",
+        "url": "74\/7409\/740906\/7409062001\/7409062001001.json",
+        "nama": "TPS 001, ALO ALO, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062005",
+        "tps": "7409062005001",
+        "url": "74\/7409\/740906\/7409062005\/7409062005001.json",
+        "nama": "TPS 001, BUNGGUOSU, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062011",
+        "tps": "7409062011001",
+        "url": "74\/7409\/740906\/7409062011\/7409062011001.json",
+        "nama": "TPS 001, LAPULU, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062010",
+        "tps": "7409062010001",
+        "url": "74\/7409\/740906\/7409062010\/7409062010001.json",
+        "nama": "TPS 001, LARAMO, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409061004",
+        "tps": "7409061004001",
+        "url": "74\/7409\/740906\/7409061004\/7409061004001.json",
+        "nama": "TPS 001, LEMBO, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409061004",
+        "tps": "7409061004002",
+        "url": "74\/7409\/740906\/7409061004\/7409061004002.json",
+        "nama": "TPS 002, LEMBO, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409061004",
+        "tps": "7409061004003",
+        "url": "74\/7409\/740906\/7409061004\/7409061004003.json",
+        "nama": "TPS 003, LEMBO, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062003",
+        "tps": "7409062003001",
+        "url": "74\/7409\/740906\/7409062003\/7409062003001.json",
+        "nama": "TPS 001, PADALEU, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062003",
+        "tps": "7409062003002",
+        "url": "74\/7409\/740906\/7409062003\/7409062003002.json",
+        "nama": "TPS 002, PADALEU, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062009",
+        "tps": "7409062009001",
+        "url": "74\/7409\/740906\/7409062009\/7409062009001.json",
+        "nama": "TPS 001, PASIR PUTIH, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062009",
+        "tps": "7409062009002",
+        "url": "74\/7409\/740906\/7409062009\/7409062009002.json",
+        "nama": "TPS 002, PASIR PUTIH, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062002",
+        "tps": "7409062002001",
+        "url": "74\/7409\/740906\/7409062002\/7409062002001.json",
+        "nama": "TPS 001, PUULEMO, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062002",
+        "tps": "7409062002002",
+        "url": "74\/7409\/740906\/7409062002\/7409062002002.json",
+        "nama": "TPS 002, PUULEMO, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062006",
+        "tps": "7409062006001",
+        "url": "74\/7409\/740906\/7409062006\/7409062006001.json",
+        "nama": "TPS 001, PUUSIAMBU, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062006",
+        "tps": "7409062006002",
+        "url": "74\/7409\/740906\/7409062006\/7409062006002.json",
+        "nama": "TPS 002, PUUSIAMBU, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062007",
+        "tps": "7409062007001",
+        "url": "74\/7409\/740906\/7409062007\/7409062007001.json",
+        "nama": "TPS 001, TAIPA, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062007",
+        "tps": "7409062007002",
+        "url": "74\/7409\/740906\/7409062007\/7409062007002.json",
+        "nama": "TPS 002, TAIPA, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062008",
+        "tps": "7409062008001",
+        "url": "74\/7409\/740906\/7409062008\/7409062008001.json",
+        "nama": "TPS 001, TONGALINO, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740906",
+        "desa": "7409062012",
+        "tps": "7409062012001",
+        "url": "74\/7409\/740906\/7409062012\/7409062012001.json",
+        "nama": "TPS 001, WATUWULA, LEMBO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042003",
+        "tps": "7409042003001",
+        "url": "74\/7409\/740904\/7409042003\/7409042003001.json",
+        "nama": "TPS 001, AWILA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042003",
+        "tps": "7409042003002",
+        "url": "74\/7409\/740904\/7409042003\/7409042003002.json",
+        "nama": "TPS 002, AWILA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042003",
+        "tps": "7409042003003",
+        "url": "74\/7409\/740904\/7409042003\/7409042003003.json",
+        "nama": "TPS 003, AWILA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042008",
+        "tps": "7409042008001",
+        "url": "74\/7409\/740904\/7409042008\/7409042008001.json",
+        "nama": "TPS 001, AWILA PUNCAK, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042008",
+        "tps": "7409042008002",
+        "url": "74\/7409\/740904\/7409042008\/7409042008002.json",
+        "nama": "TPS 002, AWILA PUNCAK, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042001",
+        "tps": "7409042001001",
+        "url": "74\/7409\/740904\/7409042001\/7409042001001.json",
+        "nama": "TPS 001, BANDAEHA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042001",
+        "tps": "7409042001002",
+        "url": "74\/7409\/740904\/7409042001\/7409042001002.json",
+        "nama": "TPS 002, BANDAEHA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042005",
+        "tps": "7409042005001",
+        "url": "74\/7409\/740904\/7409042005\/7409042005001.json",
+        "nama": "TPS 001, MANDIODO, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042005",
+        "tps": "7409042005002",
+        "url": "74\/7409\/740904\/7409042005\/7409042005002.json",
+        "nama": "TPS 002, MANDIODO, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042007",
+        "tps": "7409042007001",
+        "url": "74\/7409\/740904\/7409042007\/7409042007001.json",
+        "nama": "TPS 001, MATAIWOI, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042007",
+        "tps": "7409042007002",
+        "url": "74\/7409\/740904\/7409042007\/7409042007002.json",
+        "nama": "TPS 002, MATAIWOI, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409041002",
+        "tps": "7409041002001",
+        "url": "74\/7409\/740904\/7409041002\/7409041002001.json",
+        "nama": "TPS 001, MOLAWE, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409041002",
+        "tps": "7409041002002",
+        "url": "74\/7409\/740904\/7409041002\/7409041002002.json",
+        "nama": "TPS 002, MOLAWE, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409041002",
+        "tps": "7409041002003",
+        "url": "74\/7409\/740904\/7409041002\/7409041002003.json",
+        "nama": "TPS 003, MOLAWE, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409041002",
+        "tps": "7409041002004",
+        "url": "74\/7409\/740904\/7409041002\/7409041002004.json",
+        "nama": "TPS 004, MOLAWE, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042004",
+        "tps": "7409042004001",
+        "url": "74\/7409\/740904\/7409042004\/7409042004001.json",
+        "nama": "TPS 001, MOWUNDO, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042004",
+        "tps": "7409042004002",
+        "url": "74\/7409\/740904\/7409042004\/7409042004002.json",
+        "nama": "TPS 002, MOWUNDO, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042009",
+        "tps": "7409042009001",
+        "url": "74\/7409\/740904\/7409042009\/7409042009001.json",
+        "nama": "TPS 001, TAPUEMEA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042009",
+        "tps": "7409042009002",
+        "url": "74\/7409\/740904\/7409042009\/7409042009002.json",
+        "nama": "TPS 002, TAPUEMEA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042006",
+        "tps": "7409042006001",
+        "url": "74\/7409\/740904\/7409042006\/7409042006001.json",
+        "nama": "TPS 001, TAPUNGGAYA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042006",
+        "tps": "7409042006002",
+        "url": "74\/7409\/740904\/7409042006\/7409042006002.json",
+        "nama": "TPS 002, TAPUNGGAYA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740904",
+        "desa": "7409042006",
+        "tps": "7409042006003",
+        "url": "74\/7409\/740904\/7409042006\/7409042006003.json",
+        "nama": "TPS 003, TAPUNGGAYA, MOLAWE, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102004",
+        "tps": "7409102004001",
+        "url": "74\/7409\/740910\/7409102004\/7409102004001.json",
+        "nama": "TPS 001, BANGGINA, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409101002",
+        "tps": "7409101002001",
+        "url": "74\/7409\/740910\/7409101002\/7409101002001.json",
+        "nama": "TPS 001, BENDE, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102014",
+        "tps": "7409102014001",
+        "url": "74\/7409\/740910\/7409102014\/7409102014001.json",
+        "nama": "TPS 001, KAPOLANO, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102007",
+        "tps": "7409102007001",
+        "url": "74\/7409\/740910\/7409102007\/7409102007001.json",
+        "nama": "TPS 001, LAMBULUO, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102007",
+        "tps": "7409102007002",
+        "url": "74\/7409\/740910\/7409102007\/7409102007002.json",
+        "nama": "TPS 002, LAMBULUO, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102003",
+        "tps": "7409102003001",
+        "url": "74\/7409\/740910\/7409102003\/7409102003001.json",
+        "nama": "TPS 001, MATANDAHI, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102005",
+        "tps": "7409102005001",
+        "url": "74\/7409\/740910\/7409102005\/7409102005001.json",
+        "nama": "TPS 001, MOTUI, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102008",
+        "tps": "7409102008001",
+        "url": "74\/7409\/740910\/7409102008\/7409102008001.json",
+        "nama": "TPS 001, PONI PONIKI, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102010",
+        "tps": "7409102010001",
+        "url": "74\/7409\/740910\/7409102010\/7409102010001.json",
+        "nama": "TPS 001, PUNGGULAHI, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102009",
+        "tps": "7409102009001",
+        "url": "74\/7409\/740910\/7409102009\/7409102009001.json",
+        "nama": "TPS 001, PUUWONGGIA, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102012",
+        "tps": "7409102012001",
+        "url": "74\/7409\/740910\/7409102012\/7409102012001.json",
+        "nama": "TPS 001, RANOMBUPULU, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102011",
+        "tps": "7409102011001",
+        "url": "74\/7409\/740910\/7409102011\/7409102011001.json",
+        "nama": "TPS 001, SAMA SUBUR, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102015",
+        "tps": "7409102015001",
+        "url": "74\/7409\/740910\/7409102015\/7409102015001.json",
+        "nama": "TPS 001, SAMBASULE, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102013",
+        "tps": "7409102013001",
+        "url": "74\/7409\/740910\/7409102013\/7409102013001.json",
+        "nama": "TPS 001, TOBIMEITA, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102001",
+        "tps": "7409102001001",
+        "url": "74\/7409\/740910\/7409102001\/7409102001001.json",
+        "nama": "TPS 001, TONDOWATU, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102001",
+        "tps": "7409102001002",
+        "url": "74\/7409\/740910\/7409102001\/7409102001002.json",
+        "nama": "TPS 002, TONDOWATU, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102006",
+        "tps": "7409102006001",
+        "url": "74\/7409\/740910\/7409102006\/7409102006001.json",
+        "nama": "TPS 001, WAWOLURI, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740910",
+        "desa": "7409102006",
+        "tps": "7409102006002",
+        "url": "74\/7409\/740910\/7409102006\/7409102006002.json",
+        "nama": "TPS 002, WAWOLURI, MOTUI, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082002",
+        "tps": "7409082002001",
+        "url": "74\/7409\/740908\/7409082002\/7409082002001.json",
+        "nama": "TPS 001, BANDAEHA, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082015",
+        "tps": "7409082015001",
+        "url": "74\/7409\/740908\/7409082015\/7409082015001.json",
+        "nama": "TPS 001, BENDEWUTA, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082018",
+        "tps": "7409082018001",
+        "url": "74\/7409\/740908\/7409082018\/7409082018001.json",
+        "nama": "TPS 001, HOROE, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082003",
+        "tps": "7409082003001",
+        "url": "74\/7409\/740908\/7409082003\/7409082003001.json",
+        "nama": "TPS 001, KOTA MAJU, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082013",
+        "tps": "7409082013001",
+        "url": "74\/7409\/740908\/7409082013\/7409082013001.json",
+        "nama": "TPS 001, LAMEORU, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082004",
+        "tps": "7409082004001",
+        "url": "74\/7409\/740908\/7409082004\/7409082004001.json",
+        "nama": "TPS 001, LANDAWE, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082001",
+        "tps": "7409082001001",
+        "url": "74\/7409\/740908\/7409082001\/7409082001001.json",
+        "nama": "TPS 001, LARONAHA, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409081009",
+        "tps": "7409081009001",
+        "url": "74\/7409\/740908\/7409081009\/7409081009001.json",
+        "nama": "TPS 001, LINOMOIYO, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082006",
+        "tps": "7409082006001",
+        "url": "74\/7409\/740908\/7409082006\/7409082006001.json",
+        "nama": "TPS 001, MOPUTE, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082011",
+        "tps": "7409082011001",
+        "url": "74\/7409\/740908\/7409082011\/7409082011001.json",
+        "nama": "TPS 001, PAKA INDAH, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082008",
+        "tps": "7409082008001",
+        "url": "74\/7409\/740908\/7409082008\/7409082008001.json",
+        "nama": "TPS 001, PUUHIALU, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082010",
+        "tps": "7409082010001",
+        "url": "74\/7409\/740908\/7409082010\/7409082010001.json",
+        "nama": "TPS 001, SAMBANDETE, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082010",
+        "tps": "7409082010002",
+        "url": "74\/7409\/740908\/7409082010\/7409082010002.json",
+        "nama": "TPS 002, SAMBANDETE, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082007",
+        "tps": "7409082007001",
+        "url": "74\/7409\/740908\/7409082007\/7409082007001.json",
+        "nama": "TPS 001, TADOLOIYO, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082007",
+        "tps": "7409082007002",
+        "url": "74\/7409\/740908\/7409082007\/7409082007002.json",
+        "nama": "TPS 002, TADOLOIYO, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082019",
+        "tps": "7409082019001",
+        "url": "74\/7409\/740908\/7409082019\/7409082019001.json",
+        "nama": "TPS 001, TADOLOIYO TRANS, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082016",
+        "tps": "7409082016001",
+        "url": "74\/7409\/740908\/7409082016\/7409082016001.json",
+        "nama": "TPS 001, TINONDO, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082014",
+        "tps": "7409082014001",
+        "url": "74\/7409\/740908\/7409082014\/7409082014001.json",
+        "nama": "TPS 001, WALANDAWE, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740908",
+        "desa": "7409082005",
+        "tps": "7409082005001",
+        "url": "74\/7409\/740908\/7409082005\/7409082005001.json",
+        "nama": "TPS 001, WIWIRANO, OHEO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072008",
+        "tps": "7409072008001",
+        "url": "74\/7409\/740907\/7409072008\/7409072008001.json",
+        "nama": "TPS 001, KOKAPI, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072008",
+        "tps": "7409072008002",
+        "url": "74\/7409\/740907\/7409072008\/7409072008002.json",
+        "nama": "TPS 002, KOKAPI, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072004",
+        "tps": "7409072004001",
+        "url": "74\/7409\/740907\/7409072004\/7409072004001.json",
+        "nama": "TPS 001, LAIMEO, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072003",
+        "tps": "7409072003001",
+        "url": "74\/7409\/740907\/7409072003\/7409072003001.json",
+        "nama": "TPS 001, LALEMBO, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072007",
+        "tps": "7409072007001",
+        "url": "74\/7409\/740907\/7409072007\/7409072007001.json",
+        "nama": "TPS 001, MATANGGONAWE, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072023",
+        "tps": "7409072023001",
+        "url": "74\/7409\/740907\/7409072023\/7409072023001.json",
+        "nama": "TPS 001, PANGGULAWU, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072024",
+        "tps": "7409072024001",
+        "url": "74\/7409\/740907\/7409072024\/7409072024001.json",
+        "nama": "TPS 001, PEKAROA, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072005",
+        "tps": "7409072005001",
+        "url": "74\/7409\/740907\/7409072005\/7409072005001.json",
+        "nama": "TPS 001, PUDONGGALA, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072016",
+        "tps": "7409072016001",
+        "url": "74\/7409\/740907\/7409072016\/7409072016001.json",
+        "nama": "TPS 001, PUDONGGALA UTAMA, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072013",
+        "tps": "7409072013001",
+        "url": "74\/7409\/740907\/7409072013\/7409072013001.json",
+        "nama": "TPS 001, PUUPI, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072013",
+        "tps": "7409072013002",
+        "url": "74\/7409\/740907\/7409072013\/7409072013002.json",
+        "nama": "TPS 002, PUUPI, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409071002",
+        "tps": "7409071002001",
+        "url": "74\/7409\/740907\/7409071002\/7409071002001.json",
+        "nama": "TPS 001, SAWA, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409071002",
+        "tps": "7409071002002",
+        "url": "74\/7409\/740907\/7409071002\/7409071002002.json",
+        "nama": "TPS 002, SAWA, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072022",
+        "tps": "7409072022001",
+        "url": "74\/7409\/740907\/7409072022\/7409072022001.json",
+        "nama": "TPS 001, TANJUNG LAIMEO, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072012",
+        "tps": "7409072012001",
+        "url": "74\/7409\/740907\/7409072012\/7409072012001.json",
+        "nama": "TPS 001, TONGAUNA, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072021",
+        "tps": "7409072021001",
+        "url": "74\/7409\/740907\/7409072021\/7409072021001.json",
+        "nama": "TPS 001, TUDUNGANO, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740907",
+        "desa": "7409072017",
+        "tps": "7409072017001",
+        "url": "74\/7409\/740907\/7409072017\/7409072017001.json",
+        "nama": "TPS 001, ULU SAWA, SAWA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112004",
+        "tps": "7409112004001",
+        "url": "74\/7409\/740911\/7409112004\/7409112004001.json",
+        "nama": "TPS 001, BARASANGA, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112004",
+        "tps": "7409112004002",
+        "url": "74\/7409\/740911\/7409112004\/7409112004002.json",
+        "nama": "TPS 002, BARASANGA, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112002",
+        "tps": "7409112002001",
+        "url": "74\/7409\/740911\/7409112002\/7409112002001.json",
+        "nama": "TPS 001, KAMPOH BUNGA, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112002",
+        "tps": "7409112002002",
+        "url": "74\/7409\/740911\/7409112002\/7409112002002.json",
+        "nama": "TPS 002, KAMPOH BUNGA, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112009",
+        "tps": "7409112009001",
+        "url": "74\/7409\/740911\/7409112009\/7409112009001.json",
+        "nama": "TPS 001, KAMPOH CINA, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112003",
+        "tps": "7409112003001",
+        "url": "74\/7409\/740911\/7409112003\/7409112003001.json",
+        "nama": "TPS 001, LEMO BAJO, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112003",
+        "tps": "7409112003002",
+        "url": "74\/7409\/740911\/7409112003\/7409112003002.json",
+        "nama": "TPS 002, LEMO BAJO, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112007",
+        "tps": "7409112007001",
+        "url": "74\/7409\/740911\/7409112007\/7409112007001.json",
+        "nama": "TPS 001, OTIPULU, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112001",
+        "tps": "7409112001001",
+        "url": "74\/7409\/740911\/7409112001\/7409112001001.json",
+        "nama": "TPS 001, TANJUNG BUNGA, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112001",
+        "tps": "7409112001002",
+        "url": "74\/7409\/740911\/7409112001\/7409112001002.json",
+        "nama": "TPS 002, TANJUNG BUNGA, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112006",
+        "tps": "7409112006001",
+        "url": "74\/7409\/740911\/7409112006\/7409112006001.json",
+        "nama": "TPS 001, TOREO, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112006",
+        "tps": "7409112006002",
+        "url": "74\/7409\/740911\/7409112006\/7409112006002.json",
+        "nama": "TPS 002, TOREO, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112005",
+        "tps": "7409112005001",
+        "url": "74\/7409\/740911\/7409112005\/7409112005001.json",
+        "nama": "TPS 001, WAWOLESEA, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740911",
+        "desa": "7409112005",
+        "tps": "7409112005002",
+        "url": "74\/7409\/740911\/7409112005\/7409112005002.json",
+        "nama": "TPS 002, WAWOLESEA, WAWOLESEA, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022006",
+        "tps": "7409022006001",
+        "url": "74\/7409\/740902\/7409022006\/7409022006001.json",
+        "nama": "TPS 001, CULUMBATU, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409021001",
+        "tps": "7409021001001",
+        "url": "74\/7409\/740902\/7409021001\/7409021001001.json",
+        "nama": "TPS 001, LAMONAE, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409021001",
+        "tps": "7409021001002",
+        "url": "74\/7409\/740902\/7409021001\/7409021001002.json",
+        "nama": "TPS 002, LAMONAE, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022010",
+        "tps": "7409022010001",
+        "url": "74\/7409\/740902\/7409022010\/7409022010001.json",
+        "nama": "TPS 001, LAMONAE UTAMA, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022009",
+        "tps": "7409022009001",
+        "url": "74\/7409\/740902\/7409022009\/7409022009001.json",
+        "nama": "TPS 001, LAMPARINGA, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022022",
+        "tps": "7409022022001",
+        "url": "74\/7409\/740902\/7409022022\/7409022022001.json",
+        "nama": "TPS 001, LAROMPANA, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022013",
+        "tps": "7409022013001",
+        "url": "74\/7409\/740902\/7409022013\/7409022013001.json",
+        "nama": "TPS 001, MATA OSOLE, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022002",
+        "tps": "7409022002001",
+        "url": "74\/7409\/740902\/7409022002\/7409022002001.json",
+        "nama": "TPS 001, PADALERE, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022024",
+        "tps": "7409022024001",
+        "url": "74\/7409\/740902\/7409022024\/7409022024001.json",
+        "nama": "TPS 001, PADALERE UTAMA, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022014",
+        "tps": "7409022014001",
+        "url": "74\/7409\/740902\/7409022014\/7409022014001.json",
+        "nama": "TPS 001, PONDOA, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022004",
+        "tps": "7409022004001",
+        "url": "74\/7409\/740902\/7409022004\/7409022004001.json",
+        "nama": "TPS 001, TETEWATU, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022004",
+        "tps": "7409022004002",
+        "url": "74\/7409\/740902\/7409022004\/7409022004002.json",
+        "nama": "TPS 002, TETEWATU, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022023",
+        "tps": "7409022023001",
+        "url": "74\/7409\/740902\/7409022023\/7409022023001.json",
+        "nama": "TPS 001, WACU PINODO, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022012",
+        "tps": "7409022012001",
+        "url": "74\/7409\/740902\/7409022012\/7409022012001.json",
+        "nama": "TPS 001, WACUMELEWE, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022007",
+        "tps": "7409022007001",
+        "url": "74\/7409\/740902\/7409022007\/7409022007001.json",
+        "nama": "TPS 001, WAWOHEO, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022007",
+        "tps": "7409022007002",
+        "url": "74\/7409\/740902\/7409022007\/7409022007002.json",
+        "nama": "TPS 002, WAWOHEO, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022020",
+        "tps": "7409022020001",
+        "url": "74\/7409\/740902\/7409022020\/7409022020001.json",
+        "nama": "TPS 001, WAWONSANGI, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7409",
+        "kecamatan": "740902",
+        "desa": "7409022021",
+        "tps": "7409022021001",
+        "url": "74\/7409\/740902\/7409022021\/7409022021001.json",
+        "nama": "TPS 001, WAWONTOAHO, WIWIRANO, KONAWE UTARA, SULAWESI TENGGARA"
+    }
+]

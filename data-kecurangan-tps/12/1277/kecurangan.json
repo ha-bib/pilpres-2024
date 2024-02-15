@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1277",
+        "kecamatan": "127701",
+        "desa": "1277011003",
+        "tps": "1277011003002",
+        "nama": "TPS 002, WEK III, PADANGSIDIMPUAN UTARA, KOTA PADANG SIDEMPUAN, SUMATERA UTARA",
+        "selisih": 205,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1277\/127701\/1277011003\/1277011003002"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1277",
+        "kecamatan": "127701",
+        "desa": "1277011003",
+        "tps": "1277011003011",
+        "nama": "TPS 011, WEK III, PADANGSIDIMPUAN UTARA, KOTA PADANG SIDEMPUAN, SUMATERA UTARA",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1277\/127701\/1277011003\/1277011003011"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1277",
+        "kecamatan": "127701",
+        "desa": "1277011004",
+        "tps": "1277011004002",
+        "nama": "TPS 002, WEK IV, PADANGSIDIMPUAN UTARA, KOTA PADANG SIDEMPUAN, SUMATERA UTARA",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1277\/127701\/1277011004\/1277011004002"
+    }
+]

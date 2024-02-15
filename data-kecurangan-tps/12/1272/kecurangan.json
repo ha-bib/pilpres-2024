@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1272",
+        "kecamatan": "127202",
+        "desa": "1272021002",
+        "tps": "1272021002002",
+        "nama": "TPS 002, PROKLAMASI, SIANTAR BARAT, KOTA PEMATANGSIANTAR, SUMATERA UTARA",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1272\/127202\/1272021002\/1272021002002"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1272",
+        "kecamatan": "127207",
+        "desa": "1272071003",
+        "tps": "1272071003006",
+        "nama": "TPS 006, SETIA NEGARA, SIANTAR SITALASARI, KOTA PEMATANGSIANTAR, SUMATERA UTARA",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1272\/127207\/1272071003\/1272071003006"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1272",
+        "kecamatan": "127201",
+        "desa": "1272011002",
+        "tps": "1272011002019",
+        "nama": "TPS 019, TOMUAN, SIANTAR TIMUR, KOTA PEMATANGSIANTAR, SUMATERA UTARA",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1272\/127201\/1272011002\/1272011002019"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1272",
+        "kecamatan": "127203",
+        "desa": "1272031005",
+        "tps": "1272031005001",
+        "nama": "TPS 001, KAHEAN, SIANTAR UTARA, KOTA PEMATANGSIANTAR, SUMATERA UTARA",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1272\/127203\/1272031005\/1272031005001"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1272",
+        "kecamatan": "127203",
+        "desa": "1272031001",
+        "tps": "1272031001013",
+        "nama": "TPS 013, MELAYU, SIANTAR UTARA, KOTA PEMATANGSIANTAR, SUMATERA UTARA",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1272\/127203\/1272031001\/1272031001013"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1272",
+        "kecamatan": "127203",
+        "desa": "1272031001",
+        "tps": "1272031001020",
+        "nama": "TPS 020, MELAYU, SIANTAR UTARA, KOTA PEMATANGSIANTAR, SUMATERA UTARA",
+        "selisih": 785,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1272\/127203\/1272031001\/1272031001020"
+    }
+]

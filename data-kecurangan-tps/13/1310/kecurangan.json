@@ -1,0 +1,82 @@
+[
+    {
+        "provinsi": "13",
+        "kabupaten": "1310",
+        "kecamatan": "131001",
+        "desa": "1310012008",
+        "tps": "1310012008013",
+        "nama": "TPS 013, KOTO PADANG, KOTO BARU, DHARMASRAYA, SUMATERA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1310\/131001\/1310012008\/1310012008013"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1310",
+        "kecamatan": "131007",
+        "desa": "1310072003",
+        "tps": "1310072003001",
+        "nama": "TPS 001, PADUKUAN, KOTO SALAK, DHARMASRAYA, SUMATERA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1310\/131007\/1310072003\/1310072003001"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1310",
+        "kecamatan": "131002",
+        "desa": "1310022008",
+        "tps": "1310022008014",
+        "nama": "TPS 014, GUNUNG SELASIH, PULAU PUNJUNG, DHARMASRAYA, SUMATERA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1310\/131002\/1310022008\/1310022008014"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1310",
+        "kecamatan": "131003",
+        "desa": "1310032004",
+        "tps": "1310032004010",
+        "nama": "TPS 010, KURNIA KOTO SALAK, SUNGAI RUMBAI, DHARMASRAYA, SUMATERA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1310\/131003\/1310032004\/1310032004010"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1310",
+        "kecamatan": "131003",
+        "desa": "1310032008",
+        "tps": "1310032008009",
+        "nama": "TPS 009, KURNIA SELATAN, SUNGAI RUMBAI, DHARMASRAYA, SUMATERA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1310\/131003\/1310032008\/1310032008009"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1310",
+        "kecamatan": "131003",
+        "desa": "1310032007",
+        "tps": "1310032007009",
+        "nama": "TPS 009, SUNGAI RUMBAI TIMUR, SUNGAI RUMBAI, DHARMASRAYA, SUMATERA BARAT",
+        "selisih": 8,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1310\/131003\/1310032007\/1310032007009"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1310",
+        "kecamatan": "131004",
+        "desa": "1310042001",
+        "tps": "1310042001011",
+        "nama": "TPS 011, SITIUNG, SITIUNG, DHARMASRAYA, SUMATERA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1310\/131004\/1310042001\/1310042001011"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1310",
+        "kecamatan": "131004",
+        "desa": "1310042001",
+        "tps": "1310042001011",
+        "nama": "TPS 011, SITIUNG, SITIUNG, DHARMASRAYA, SUMATERA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1310\/131004\/1310042001\/1310042001011"
+    }
+]

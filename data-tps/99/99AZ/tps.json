@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AZ",
+        "kecamatan": "99AZ01",
+        "desa": "99AZ010001",
+        "tps": "99AZ010001001",
+        "url": "99\/99AZ\/99AZ01\/99AZ010001\/99AZ010001001.json",
+        "nama": "POS 001, Washington D.C., Amerika Serikat, Washington D.C., Amerika Serikat, Washington D.C., Amerika Serikat, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AZ",
+        "kecamatan": "99AZ01",
+        "desa": "99AZ010001",
+        "tps": "99AZ010001002",
+        "url": "99\/99AZ\/99AZ01\/99AZ010001\/99AZ010001002.json",
+        "nama": "TPS 001, Washington D.C., Amerika Serikat, Washington D.C., Amerika Serikat, Washington D.C., Amerika Serikat, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AZ",
+        "kecamatan": "99AZ01",
+        "desa": "99AZ010001",
+        "tps": "99AZ010001003",
+        "url": "99\/99AZ\/99AZ01\/99AZ010001\/99AZ010001003.json",
+        "nama": "TPS 002, Washington D.C., Amerika Serikat, Washington D.C., Amerika Serikat, Washington D.C., Amerika Serikat, Luar Negeri"
+    }
+]

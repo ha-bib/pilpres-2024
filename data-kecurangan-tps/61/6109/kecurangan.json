@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "61",
+        "kabupaten": "6109",
+        "kecamatan": "610904",
+        "desa": "6109042011",
+        "tps": "6109042011004",
+        "nama": "TPS 004, KARANG BETUNG, NANGA MAHAP, SEKADAU, KALIMANTAN BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6109\/610904\/6109042011\/6109042011004"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6109",
+        "kecamatan": "610901",
+        "desa": "6109012002",
+        "tps": "6109012002003",
+        "nama": "TPS 003, MUNGGUK, SEKADAU HILIR, SEKADAU, KALIMANTAN BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6109\/610901\/6109012002\/6109012002003"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6109",
+        "kecamatan": "610902",
+        "desa": "6109022002",
+        "tps": "6109022002010",
+        "nama": "TPS 010, RAWAK HULU, SEKADAU HULU, SEKADAU, KALIMANTAN BARAT",
+        "selisih": -200,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6109\/610902\/6109022002\/6109022002010"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6109",
+        "kecamatan": "610901",
+        "desa": "6109012007",
+        "tps": "6109012007006",
+        "nama": "TPS 006, SEBERANG KAPUAS, SEKADAU HILIR, SEKADAU, KALIMANTAN BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6109\/610901\/6109012007\/6109012007006"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6109",
+        "kecamatan": "610901",
+        "desa": "6109012007",
+        "tps": "6109012007006",
+        "nama": "TPS 006, SEBERANG KAPUAS, SEKADAU HILIR, SEKADAU, KALIMANTAN BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6109\/610901\/6109012007\/6109012007006"
+    }
+]

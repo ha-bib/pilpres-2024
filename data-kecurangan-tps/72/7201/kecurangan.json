@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "72",
+        "kabupaten": "7201",
+        "kecamatan": "720104",
+        "desa": "7201041012",
+        "tps": "7201041012013",
+        "nama": "TPS 013, BUNGIN, LUWUK, BANGGAI, SULAWESI TENGAH",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7201\/720104\/7201041012\/7201041012013"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7201",
+        "kecamatan": "720104",
+        "desa": "7201041009",
+        "tps": "7201041009020",
+        "nama": "TPS 020, LUWUK, LUWUK, BANGGAI, SULAWESI TENGAH",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7201\/720104\/7201041009\/7201041009020"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7201",
+        "kecamatan": "720120",
+        "desa": "7201202001",
+        "tps": "7201202001002",
+        "nama": "TPS 002, BUBUNG, LUWUK SELATAN, BANGGAI, SULAWESI TENGAH",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7201\/720120\/7201202001\/7201202001002"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7201",
+        "kecamatan": "720120",
+        "desa": "7201201005",
+        "tps": "7201201005002",
+        "nama": "TPS 002, HANGA-HANGA PERMAI, LUWUK SELATAN, BANGGAI, SULAWESI TENGAH",
+        "selisih": 3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7201\/720120\/7201201005\/7201201005002"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7201",
+        "kecamatan": "720120",
+        "desa": "7201201006",
+        "tps": "7201201006901",
+        "nama": "TPS 901, KOMPO, LUWUK SELATAN, BANGGAI, SULAWESI TENGAH",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7201\/720120\/7201201006\/7201201006901"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7201",
+        "kecamatan": "720107",
+        "desa": "7201072038",
+        "tps": "7201072038003",
+        "nama": "TPS 003, SAMMAJATEM, PAGIMANA, BANGGAI, SULAWESI TENGAH",
+        "selisih": 30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7201\/720107\/7201072038\/7201072038003"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7201",
+        "kecamatan": "720117",
+        "desa": "7201172002",
+        "tps": "7201172002003",
+        "nama": "TPS 003, RANTAU JAYA, SIMPANG RAYA, BANGGAI, SULAWESI TENGAH",
+        "selisih": 30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/72\/7201\/720117\/7201172002\/7201172002003"
+    }
+]

@@ -1,0 +1,4583 @@
+[
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092004",
+        "tps": "7503092004001",
+        "url": "75\/7503\/750309\/7503092004\/7503092004001.json",
+        "nama": "TPS 001, BILONLANTUNGA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092004",
+        "tps": "7503092004002",
+        "url": "75\/7503\/750309\/7503092004\/7503092004002.json",
+        "nama": "TPS 002, BILONLANTUNGA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092004",
+        "tps": "7503092004003",
+        "url": "75\/7503\/750309\/7503092004\/7503092004003.json",
+        "nama": "TPS 003, BILONLANTUNGA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092012",
+        "tps": "7503092012001",
+        "url": "75\/7503\/750309\/7503092012\/7503092012001.json",
+        "nama": "TPS 001, CENDANA PUTIH, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092012",
+        "tps": "7503092012002",
+        "url": "75\/7503\/750309\/7503092012\/7503092012002.json",
+        "nama": "TPS 002, CENDANA PUTIH, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092010",
+        "tps": "7503092010001",
+        "url": "75\/7503\/750309\/7503092010\/7503092010001.json",
+        "nama": "TPS 001, ILOHUUWA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092010",
+        "tps": "7503092010002",
+        "url": "75\/7503\/750309\/7503092010\/7503092010002.json",
+        "nama": "TPS 002, ILOHUUWA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092005",
+        "tps": "7503092005001",
+        "url": "75\/7503\/750309\/7503092005\/7503092005001.json",
+        "nama": "TPS 001, INOGALUMA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092005",
+        "tps": "7503092005002",
+        "url": "75\/7503\/750309\/7503092005\/7503092005002.json",
+        "nama": "TPS 002, INOGALUMA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092009",
+        "tps": "7503092009001",
+        "url": "75\/7503\/750309\/7503092009\/7503092009001.json",
+        "nama": "TPS 001, MASIAGA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092009",
+        "tps": "7503092009002",
+        "url": "75\/7503\/750309\/7503092009\/7503092009002.json",
+        "nama": "TPS 002, MASIAGA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092008",
+        "tps": "7503092008001",
+        "url": "75\/7503\/750309\/7503092008\/7503092008001.json",
+        "nama": "TPS 001, MOLAMAHU, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092008",
+        "tps": "7503092008002",
+        "url": "75\/7503\/750309\/7503092008\/7503092008002.json",
+        "nama": "TPS 002, MOLAMAHU, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092008",
+        "tps": "7503092008003",
+        "url": "75\/7503\/750309\/7503092008\/7503092008003.json",
+        "nama": "TPS 003, MOLAMAHU, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092006",
+        "tps": "7503092006001",
+        "url": "75\/7503\/750309\/7503092006\/7503092006001.json",
+        "nama": "TPS 001, MONANO, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092006",
+        "tps": "7503092006002",
+        "url": "75\/7503\/750309\/7503092006\/7503092006002.json",
+        "nama": "TPS 002, MONANO, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092003",
+        "tps": "7503092003001",
+        "url": "75\/7503\/750309\/7503092003\/7503092003001.json",
+        "nama": "TPS 001, MOODULIO, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092003",
+        "tps": "7503092003002",
+        "url": "75\/7503\/750309\/7503092003\/7503092003002.json",
+        "nama": "TPS 002, MOODULIO, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092003",
+        "tps": "7503092003003",
+        "url": "75\/7503\/750309\/7503092003\/7503092003003.json",
+        "nama": "TPS 003, MOODULIO, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092011",
+        "tps": "7503092011001",
+        "url": "75\/7503\/750309\/7503092011\/7503092011001.json",
+        "nama": "TPS 001, MUARA BONE, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092011",
+        "tps": "7503092011002",
+        "url": "75\/7503\/750309\/7503092011\/7503092011002.json",
+        "nama": "TPS 002, MUARA BONE, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092014",
+        "tps": "7503092014001",
+        "url": "75\/7503\/750309\/7503092014\/7503092014001.json",
+        "nama": "TPS 001, PERMATA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092014",
+        "tps": "7503092014002",
+        "url": "75\/7503\/750309\/7503092014\/7503092014002.json",
+        "nama": "TPS 002, PERMATA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092002",
+        "tps": "7503092002001",
+        "url": "75\/7503\/750309\/7503092002\/7503092002001.json",
+        "nama": "TPS 001, SOGITIA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092002",
+        "tps": "7503092002002",
+        "url": "75\/7503\/750309\/7503092002\/7503092002002.json",
+        "nama": "TPS 002, SOGITIA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092002",
+        "tps": "7503092002003",
+        "url": "75\/7503\/750309\/7503092002\/7503092002003.json",
+        "nama": "TPS 003, SOGITIA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092002",
+        "tps": "7503092002004",
+        "url": "75\/7503\/750309\/7503092002\/7503092002004.json",
+        "nama": "TPS 004, SOGITIA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092001",
+        "tps": "7503092001001",
+        "url": "75\/7503\/750309\/7503092001\/7503092001001.json",
+        "nama": "TPS 001, TALUDAA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092001",
+        "tps": "7503092001002",
+        "url": "75\/7503\/750309\/7503092001\/7503092001002.json",
+        "nama": "TPS 002, TALUDAA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092001",
+        "tps": "7503092001003",
+        "url": "75\/7503\/750309\/7503092001\/7503092001003.json",
+        "nama": "TPS 003, TALUDAA, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092007",
+        "tps": "7503092007001",
+        "url": "75\/7503\/750309\/7503092007\/7503092007001.json",
+        "nama": "TPS 001, TUMBUH MEKAR, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092007",
+        "tps": "7503092007002",
+        "url": "75\/7503\/750309\/7503092007\/7503092007002.json",
+        "nama": "TPS 002, TUMBUH MEKAR, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750309",
+        "desa": "7503092013",
+        "tps": "7503092013001",
+        "url": "75\/7503\/750309\/7503092013\/7503092013001.json",
+        "nama": "TPS 001, WALUHU, BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102011",
+        "tps": "7503102011001",
+        "url": "75\/7503\/750310\/7503102011\/7503102011001.json",
+        "nama": "TPS 001, ALO, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102011",
+        "tps": "7503102011002",
+        "url": "75\/7503\/750310\/7503102011\/7503102011002.json",
+        "nama": "TPS 002, ALO, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102011",
+        "tps": "7503102011003",
+        "url": "75\/7503\/750310\/7503102011\/7503102011003.json",
+        "nama": "TPS 003, ALO, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102014",
+        "tps": "7503102014001",
+        "url": "75\/7503\/750310\/7503102014\/7503102014001.json",
+        "nama": "TPS 001, BUNGA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102014",
+        "tps": "7503102014002",
+        "url": "75\/7503\/750310\/7503102014\/7503102014002.json",
+        "nama": "TPS 002, BUNGA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102001",
+        "tps": "7503102001001",
+        "url": "75\/7503\/750310\/7503102001\/7503102001001.json",
+        "nama": "TPS 001, INOMATA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102001",
+        "tps": "7503102001002",
+        "url": "75\/7503\/750310\/7503102001\/7503102001002.json",
+        "nama": "TPS 002, INOMATA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102001",
+        "tps": "7503102001003",
+        "url": "75\/7503\/750310\/7503102001\/7503102001003.json",
+        "nama": "TPS 003, INOMATA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102012",
+        "tps": "7503102012001",
+        "url": "75\/7503\/750310\/7503102012\/7503102012001.json",
+        "nama": "TPS 001, LAUT BIRU, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102012",
+        "tps": "7503102012002",
+        "url": "75\/7503\/750310\/7503102012\/7503102012002.json",
+        "nama": "TPS 002, LAUT BIRU, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102010",
+        "tps": "7503102010001",
+        "url": "75\/7503\/750310\/7503102010\/7503102010001.json",
+        "nama": "TPS 001, MOOPIYA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102010",
+        "tps": "7503102010002",
+        "url": "75\/7503\/750310\/7503102010\/7503102010002.json",
+        "nama": "TPS 002, MOOPIYA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102015",
+        "tps": "7503102015001",
+        "url": "75\/7503\/750310\/7503102015\/7503102015001.json",
+        "nama": "TPS 001, MOOTAWA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102015",
+        "tps": "7503102015002",
+        "url": "75\/7503\/750310\/7503102015\/7503102015002.json",
+        "nama": "TPS 002, MOOTAWA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102004",
+        "tps": "7503102004001",
+        "url": "75\/7503\/750310\/7503102004\/7503102004001.json",
+        "nama": "TPS 001, MOOTAYU, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102004",
+        "tps": "7503102004002",
+        "url": "75\/7503\/750310\/7503102004\/7503102004002.json",
+        "nama": "TPS 002, MOOTAYU, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102006",
+        "tps": "7503102006001",
+        "url": "75\/7503\/750310\/7503102006\/7503102006001.json",
+        "nama": "TPS 001, MOOTINELO, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102006",
+        "tps": "7503102006002",
+        "url": "75\/7503\/750310\/7503102006\/7503102006002.json",
+        "nama": "TPS 002, MOOTINELO, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102009",
+        "tps": "7503102009001",
+        "url": "75\/7503\/750310\/7503102009\/7503102009001.json",
+        "nama": "TPS 001, PELITA JAYA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102009",
+        "tps": "7503102009002",
+        "url": "75\/7503\/750310\/7503102009\/7503102009002.json",
+        "nama": "TPS 002, PELITA JAYA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102009",
+        "tps": "7503102009003",
+        "url": "75\/7503\/750310\/7503102009\/7503102009003.json",
+        "nama": "TPS 003, PELITA JAYA, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102003",
+        "tps": "7503102003001",
+        "url": "75\/7503\/750310\/7503102003\/7503102003001.json",
+        "nama": "TPS 001, TUMBULILATO, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750310",
+        "desa": "7503102003",
+        "tps": "7503102003002",
+        "url": "75\/7503\/750310\/7503102003\/7503102003002.json",
+        "nama": "TPS 002, TUMBULILATO, BONE RAYA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042029",
+        "tps": "7503042029001",
+        "url": "75\/7503\/750304\/7503042029\/7503042029001.json",
+        "nama": "TPS 001, BATU HIJAU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042029",
+        "tps": "7503042029002",
+        "url": "75\/7503\/750304\/7503042029\/7503042029002.json",
+        "nama": "TPS 002, BATU HIJAU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042004",
+        "tps": "7503042004001",
+        "url": "75\/7503\/750304\/7503042004\/7503042004001.json",
+        "nama": "TPS 001, BILUNGALA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042004",
+        "tps": "7503042004002",
+        "url": "75\/7503\/750304\/7503042004\/7503042004002.json",
+        "nama": "TPS 002, BILUNGALA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042004",
+        "tps": "7503042004003",
+        "url": "75\/7503\/750304\/7503042004\/7503042004003.json",
+        "nama": "TPS 003, BILUNGALA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042004",
+        "tps": "7503042004004",
+        "url": "75\/7503\/750304\/7503042004\/7503042004004.json",
+        "nama": "TPS 004, BILUNGALA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042004",
+        "tps": "7503042004005",
+        "url": "75\/7503\/750304\/7503042004\/7503042004005.json",
+        "nama": "TPS 005, BILUNGALA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042025",
+        "tps": "7503042025001",
+        "url": "75\/7503\/750304\/7503042025\/7503042025001.json",
+        "nama": "TPS 001, BILUNGALA UTARA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042025",
+        "tps": "7503042025002",
+        "url": "75\/7503\/750304\/7503042025\/7503042025002.json",
+        "nama": "TPS 002, BILUNGALA UTARA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042025",
+        "tps": "7503042025003",
+        "url": "75\/7503\/750304\/7503042025\/7503042025003.json",
+        "nama": "TPS 003, BILUNGALA UTARA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042032",
+        "tps": "7503042032001",
+        "url": "75\/7503\/750304\/7503042032\/7503042032001.json",
+        "nama": "TPS 001, KEMIRI, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042032",
+        "tps": "7503042032002",
+        "url": "75\/7503\/750304\/7503042032\/7503042032002.json",
+        "nama": "TPS 002, KEMIRI, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042028",
+        "tps": "7503042028001",
+        "url": "75\/7503\/750304\/7503042028\/7503042028001.json",
+        "nama": "TPS 001, LEMBAH HIJAU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042028",
+        "tps": "7503042028002",
+        "url": "75\/7503\/750304\/7503042028\/7503042028002.json",
+        "nama": "TPS 002, LEMBAH HIJAU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042028",
+        "tps": "7503042028003",
+        "url": "75\/7503\/750304\/7503042028\/7503042028003.json",
+        "nama": "TPS 003, LEMBAH HIJAU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042031",
+        "tps": "7503042031001",
+        "url": "75\/7503\/750304\/7503042031\/7503042031001.json",
+        "nama": "TPS 001, OMBULO HIJAU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042031",
+        "tps": "7503042031002",
+        "url": "75\/7503\/750304\/7503042031\/7503042031002.json",
+        "nama": "TPS 002, OMBULO HIJAU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042033",
+        "tps": "7503042033001",
+        "url": "75\/7503\/750304\/7503042033\/7503042033001.json",
+        "nama": "TPS 001, PELITA HIJAU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042033",
+        "tps": "7503042033002",
+        "url": "75\/7503\/750304\/7503042033\/7503042033002.json",
+        "nama": "TPS 002, PELITA HIJAU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042003",
+        "tps": "7503042003001",
+        "url": "75\/7503\/750304\/7503042003\/7503042003001.json",
+        "nama": "TPS 001, TAMBOO, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042003",
+        "tps": "7503042003002",
+        "url": "75\/7503\/750304\/7503042003\/7503042003002.json",
+        "nama": "TPS 002, TAMBOO, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042026",
+        "tps": "7503042026001",
+        "url": "75\/7503\/750304\/7503042026\/7503042026001.json",
+        "nama": "TPS 001, TIHU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042026",
+        "tps": "7503042026002",
+        "url": "75\/7503\/750304\/7503042026\/7503042026002.json",
+        "nama": "TPS 002, TIHU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042026",
+        "tps": "7503042026003",
+        "url": "75\/7503\/750304\/7503042026\/7503042026003.json",
+        "nama": "TPS 003, TIHU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042026",
+        "tps": "7503042026004",
+        "url": "75\/7503\/750304\/7503042026\/7503042026004.json",
+        "nama": "TPS 004, TIHU, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042008",
+        "tps": "7503042008001",
+        "url": "75\/7503\/750304\/7503042008\/7503042008001.json",
+        "nama": "TPS 001, TOLOTIO, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042008",
+        "tps": "7503042008002",
+        "url": "75\/7503\/750304\/7503042008\/7503042008002.json",
+        "nama": "TPS 002, TOLOTIO, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042012",
+        "tps": "7503042012001",
+        "url": "75\/7503\/750304\/7503042012\/7503042012001.json",
+        "nama": "TPS 001, TONGO, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042012",
+        "tps": "7503042012002",
+        "url": "75\/7503\/750304\/7503042012\/7503042012002.json",
+        "nama": "TPS 002, TONGO, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042012",
+        "tps": "7503042012003",
+        "url": "75\/7503\/750304\/7503042012\/7503042012003.json",
+        "nama": "TPS 003, TONGO, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042027",
+        "tps": "7503042027001",
+        "url": "75\/7503\/750304\/7503042027\/7503042027001.json",
+        "nama": "TPS 001, TUNAS JAYA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042027",
+        "tps": "7503042027002",
+        "url": "75\/7503\/750304\/7503042027\/7503042027002.json",
+        "nama": "TPS 002, TUNAS JAYA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042027",
+        "tps": "7503042027003",
+        "url": "75\/7503\/750304\/7503042027\/7503042027003.json",
+        "nama": "TPS 003, TUNAS JAYA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042005",
+        "tps": "7503042005001",
+        "url": "75\/7503\/750304\/7503042005\/7503042005001.json",
+        "nama": "TPS 001, UABANGA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042005",
+        "tps": "7503042005002",
+        "url": "75\/7503\/750304\/7503042005\/7503042005002.json",
+        "nama": "TPS 002, UABANGA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750304",
+        "desa": "7503042005",
+        "tps": "7503042005003",
+        "url": "75\/7503\/750304\/7503042005\/7503042005003.json",
+        "nama": "TPS 003, UABANGA, BONEPANTAI, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072004",
+        "tps": "7503072004001",
+        "url": "75\/7503\/750307\/7503072004\/7503072004001.json",
+        "nama": "TPS 001, BUATA, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072004",
+        "tps": "7503072004002",
+        "url": "75\/7503\/750307\/7503072004\/7503072004002.json",
+        "nama": "TPS 002, BUATA, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072004",
+        "tps": "7503072004003",
+        "url": "75\/7503\/750307\/7503072004\/7503072004003.json",
+        "nama": "TPS 003, BUATA, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072003",
+        "tps": "7503072003001",
+        "url": "75\/7503\/750307\/7503072003\/7503072003001.json",
+        "nama": "TPS 001, LUWOHU, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072003",
+        "tps": "7503072003002",
+        "url": "75\/7503\/750307\/7503072003\/7503072003002.json",
+        "nama": "TPS 002, LUWOHU, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072002",
+        "tps": "7503072002001",
+        "url": "75\/7503\/750307\/7503072002\/7503072002001.json",
+        "nama": "TPS 001, PANGGULO, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072002",
+        "tps": "7503072002002",
+        "url": "75\/7503\/750307\/7503072002\/7503072002002.json",
+        "nama": "TPS 002, PANGGULO, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072002",
+        "tps": "7503072002003",
+        "url": "75\/7503\/750307\/7503072002\/7503072002003.json",
+        "nama": "TPS 003, PANGGULO, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072007",
+        "tps": "7503072007001",
+        "url": "75\/7503\/750307\/7503072007\/7503072007001.json",
+        "nama": "TPS 001, PANGGULO BARAT, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072007",
+        "tps": "7503072007002",
+        "url": "75\/7503\/750307\/7503072007\/7503072007002.json",
+        "nama": "TPS 002, PANGGULO BARAT, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072009",
+        "tps": "7503072009001",
+        "url": "75\/7503\/750307\/7503072009\/7503072009001.json",
+        "nama": "TPS 001, SUKMA, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072006",
+        "tps": "7503072006001",
+        "url": "75\/7503\/750307\/7503072006\/7503072006001.json",
+        "nama": "TPS 001, TANAH PUTIH, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072006",
+        "tps": "7503072006002",
+        "url": "75\/7503\/750307\/7503072006\/7503072006002.json",
+        "nama": "TPS 002, TANAH PUTIH, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072006",
+        "tps": "7503072006003",
+        "url": "75\/7503\/750307\/7503072006\/7503072006003.json",
+        "nama": "TPS 003, TANAH PUTIH, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072001",
+        "tps": "7503072001001",
+        "url": "75\/7503\/750307\/7503072001\/7503072001001.json",
+        "nama": "TPS 001, TIMBUOLO, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072001",
+        "tps": "7503072001002",
+        "url": "75\/7503\/750307\/7503072001\/7503072001002.json",
+        "nama": "TPS 002, TIMBUOLO, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072001",
+        "tps": "7503072001003",
+        "url": "75\/7503\/750307\/7503072001\/7503072001003.json",
+        "nama": "TPS 003, TIMBUOLO, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072008",
+        "tps": "7503072008001",
+        "url": "75\/7503\/750307\/7503072008\/7503072008001.json",
+        "nama": "TPS 001, TIMBUOLO TENGAH, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072008",
+        "tps": "7503072008002",
+        "url": "75\/7503\/750307\/7503072008\/7503072008002.json",
+        "nama": "TPS 002, TIMBUOLO TENGAH, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072008",
+        "tps": "7503072008003",
+        "url": "75\/7503\/750307\/7503072008\/7503072008003.json",
+        "nama": "TPS 003, TIMBUOLO TENGAH, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072005",
+        "tps": "7503072005001",
+        "url": "75\/7503\/750307\/7503072005\/7503072005001.json",
+        "nama": "TPS 001, TIMBUOLO TIMUR, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072005",
+        "tps": "7503072005002",
+        "url": "75\/7503\/750307\/7503072005\/7503072005002.json",
+        "nama": "TPS 002, TIMBUOLO TIMUR, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750307",
+        "desa": "7503072005",
+        "tps": "7503072005003",
+        "url": "75\/7503\/750307\/7503072005\/7503072005003.json",
+        "nama": "TPS 003, TIMBUOLO TIMUR, BOTUPINGGE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152001",
+        "tps": "7503152001001",
+        "url": "75\/7503\/750315\/7503152001\/7503152001001.json",
+        "nama": "TPS 001, AYULA SELATAN, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152001",
+        "tps": "7503152001002",
+        "url": "75\/7503\/750315\/7503152001\/7503152001002.json",
+        "nama": "TPS 002, AYULA SELATAN, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152001",
+        "tps": "7503152001003",
+        "url": "75\/7503\/750315\/7503152001\/7503152001003.json",
+        "nama": "TPS 003, AYULA SELATAN, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152006",
+        "tps": "7503152006001",
+        "url": "75\/7503\/750315\/7503152006\/7503152006001.json",
+        "nama": "TPS 001, AYULA TILANGO, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152006",
+        "tps": "7503152006002",
+        "url": "75\/7503\/750315\/7503152006\/7503152006002.json",
+        "nama": "TPS 002, AYULA TILANGO, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152006",
+        "tps": "7503152006003",
+        "url": "75\/7503\/750315\/7503152006\/7503152006003.json",
+        "nama": "TPS 003, AYULA TILANGO, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152006",
+        "tps": "7503152006004",
+        "url": "75\/7503\/750315\/7503152006\/7503152006004.json",
+        "nama": "TPS 004, AYULA TILANGO, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152006",
+        "tps": "7503152006005",
+        "url": "75\/7503\/750315\/7503152006\/7503152006005.json",
+        "nama": "TPS 005, AYULA TILANGO, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152007",
+        "tps": "7503152007001",
+        "url": "75\/7503\/750315\/7503152007\/7503152007001.json",
+        "nama": "TPS 001, AYULA TIMUR, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152007",
+        "tps": "7503152007002",
+        "url": "75\/7503\/750315\/7503152007\/7503152007002.json",
+        "nama": "TPS 002, AYULA TIMUR, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152003",
+        "tps": "7503152003001",
+        "url": "75\/7503\/750315\/7503152003\/7503152003001.json",
+        "nama": "TPS 001, AYULA UTARA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152003",
+        "tps": "7503152003002",
+        "url": "75\/7503\/750315\/7503152003\/7503152003002.json",
+        "nama": "TPS 002, AYULA UTARA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152003",
+        "tps": "7503152003003",
+        "url": "75\/7503\/750315\/7503152003\/7503152003003.json",
+        "nama": "TPS 003, AYULA UTARA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152003",
+        "tps": "7503152003004",
+        "url": "75\/7503\/750315\/7503152003\/7503152003004.json",
+        "nama": "TPS 004, AYULA UTARA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152011",
+        "tps": "7503152011001",
+        "url": "75\/7503\/750315\/7503152011\/7503152011001.json",
+        "nama": "TPS 001, HUNTU BARAT, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152011",
+        "tps": "7503152011002",
+        "url": "75\/7503\/750315\/7503152011\/7503152011002.json",
+        "nama": "TPS 002, HUNTU BARAT, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152011",
+        "tps": "7503152011003",
+        "url": "75\/7503\/750315\/7503152011\/7503152011003.json",
+        "nama": "TPS 003, HUNTU BARAT, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152011",
+        "tps": "7503152011004",
+        "url": "75\/7503\/750315\/7503152011\/7503152011004.json",
+        "nama": "TPS 004, HUNTU BARAT, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152004",
+        "tps": "7503152004001",
+        "url": "75\/7503\/750315\/7503152004\/7503152004001.json",
+        "nama": "TPS 001, HUNTU SELATAN, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152004",
+        "tps": "7503152004002",
+        "url": "75\/7503\/750315\/7503152004\/7503152004002.json",
+        "nama": "TPS 002, HUNTU SELATAN, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152004",
+        "tps": "7503152004003",
+        "url": "75\/7503\/750315\/7503152004\/7503152004003.json",
+        "nama": "TPS 003, HUNTU SELATAN, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152002",
+        "tps": "7503152002001",
+        "url": "75\/7503\/750315\/7503152002\/7503152002001.json",
+        "nama": "TPS 001, HUNTU UTARA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152002",
+        "tps": "7503152002002",
+        "url": "75\/7503\/750315\/7503152002\/7503152002002.json",
+        "nama": "TPS 002, HUNTU UTARA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152002",
+        "tps": "7503152002003",
+        "url": "75\/7503\/750315\/7503152002\/7503152002003.json",
+        "nama": "TPS 003, HUNTU UTARA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152008",
+        "tps": "7503152008001",
+        "url": "75\/7503\/750315\/7503152008\/7503152008001.json",
+        "nama": "TPS 001, LAMAHU, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152008",
+        "tps": "7503152008002",
+        "url": "75\/7503\/750315\/7503152008\/7503152008002.json",
+        "nama": "TPS 002, LAMAHU, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152008",
+        "tps": "7503152008003",
+        "url": "75\/7503\/750315\/7503152008\/7503152008003.json",
+        "nama": "TPS 003, LAMAHU, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152008",
+        "tps": "7503152008004",
+        "url": "75\/7503\/750315\/7503152008\/7503152008004.json",
+        "nama": "TPS 004, LAMAHU, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152010",
+        "tps": "7503152010001",
+        "url": "75\/7503\/750315\/7503152010\/7503152010001.json",
+        "nama": "TPS 001, SEJAHTERA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152010",
+        "tps": "7503152010002",
+        "url": "75\/7503\/750315\/7503152010\/7503152010002.json",
+        "nama": "TPS 002, SEJAHTERA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152010",
+        "tps": "7503152010003",
+        "url": "75\/7503\/750315\/7503152010\/7503152010003.json",
+        "nama": "TPS 003, SEJAHTERA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152009",
+        "tps": "7503152009001",
+        "url": "75\/7503\/750315\/7503152009\/7503152009001.json",
+        "nama": "TPS 001, TINELO AYULA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152009",
+        "tps": "7503152009002",
+        "url": "75\/7503\/750315\/7503152009\/7503152009002.json",
+        "nama": "TPS 002, TINELO AYULA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750315",
+        "desa": "7503152009",
+        "tps": "7503152009003",
+        "url": "75\/7503\/750315\/7503152009\/7503152009003.json",
+        "nama": "TPS 003, TINELO AYULA, BULANGO SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162001",
+        "tps": "7503162001001",
+        "url": "75\/7503\/750316\/7503162001\/7503162001001.json",
+        "nama": "TPS 001, BULOTALANGI, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162001",
+        "tps": "7503162001002",
+        "url": "75\/7503\/750316\/7503162001\/7503162001002.json",
+        "nama": "TPS 002, BULOTALANGI, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162001",
+        "tps": "7503162001003",
+        "url": "75\/7503\/750316\/7503162001\/7503162001003.json",
+        "nama": "TPS 003, BULOTALANGI, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162001",
+        "tps": "7503162001004",
+        "url": "75\/7503\/750316\/7503162001\/7503162001004.json",
+        "nama": "TPS 004, BULOTALANGI, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162005",
+        "tps": "7503162005001",
+        "url": "75\/7503\/750316\/7503162005\/7503162005001.json",
+        "nama": "TPS 001, BULOTALANGI BARAT, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162005",
+        "tps": "7503162005002",
+        "url": "75\/7503\/750316\/7503162005\/7503162005002.json",
+        "nama": "TPS 002, BULOTALANGI BARAT, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162005",
+        "tps": "7503162005003",
+        "url": "75\/7503\/750316\/7503162005\/7503162005003.json",
+        "nama": "TPS 003, BULOTALANGI BARAT, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162005",
+        "tps": "7503162005004",
+        "url": "75\/7503\/750316\/7503162005\/7503162005004.json",
+        "nama": "TPS 004, BULOTALANGI BARAT, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162004",
+        "tps": "7503162004001",
+        "url": "75\/7503\/750316\/7503162004\/7503162004001.json",
+        "nama": "TPS 001, BULOTALANGI TIMUR, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162004",
+        "tps": "7503162004002",
+        "url": "75\/7503\/750316\/7503162004\/7503162004002.json",
+        "nama": "TPS 002, BULOTALANGI TIMUR, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162004",
+        "tps": "7503162004003",
+        "url": "75\/7503\/750316\/7503162004\/7503162004003.json",
+        "nama": "TPS 003, BULOTALANGI TIMUR, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162003",
+        "tps": "7503162003001",
+        "url": "75\/7503\/750316\/7503162003\/7503162003001.json",
+        "nama": "TPS 001, POPODU, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162003",
+        "tps": "7503162003002",
+        "url": "75\/7503\/750316\/7503162003\/7503162003002.json",
+        "nama": "TPS 002, POPODU, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162003",
+        "tps": "7503162003003",
+        "url": "75\/7503\/750316\/7503162003\/7503162003003.json",
+        "nama": "TPS 003, POPODU, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162003",
+        "tps": "7503162003004",
+        "url": "75\/7503\/750316\/7503162003\/7503162003004.json",
+        "nama": "TPS 004, POPODU, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162002",
+        "tps": "7503162002001",
+        "url": "75\/7503\/750316\/7503162002\/7503162002001.json",
+        "nama": "TPS 001, TOLUWAYA, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162002",
+        "tps": "7503162002002",
+        "url": "75\/7503\/750316\/7503162002\/7503162002002.json",
+        "nama": "TPS 002, TOLUWAYA, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750316",
+        "desa": "7503162002",
+        "tps": "7503162002003",
+        "url": "75\/7503\/750316\/7503162002\/7503162002003.json",
+        "nama": "TPS 003, TOLUWAYA, BULANGO TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142005",
+        "tps": "7503142005001",
+        "url": "75\/7503\/750314\/7503142005\/7503142005001.json",
+        "nama": "TPS 001, ILOMATA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142005",
+        "tps": "7503142005002",
+        "url": "75\/7503\/750314\/7503142005\/7503142005002.json",
+        "nama": "TPS 002, ILOMATA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142001",
+        "tps": "7503142001001",
+        "url": "75\/7503\/750314\/7503142001\/7503142001001.json",
+        "nama": "TPS 001, MONGIILO, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142001",
+        "tps": "7503142001002",
+        "url": "75\/7503\/750314\/7503142001\/7503142001002.json",
+        "nama": "TPS 002, MONGIILO, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142001",
+        "tps": "7503142001003",
+        "url": "75\/7503\/750314\/7503142001\/7503142001003.json",
+        "nama": "TPS 003, MONGIILO, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142003",
+        "tps": "7503142003001",
+        "url": "75\/7503\/750314\/7503142003\/7503142003001.json",
+        "nama": "TPS 001, MONGIILO UTARA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142003",
+        "tps": "7503142003002",
+        "url": "75\/7503\/750314\/7503142003\/7503142003002.json",
+        "nama": "TPS 002, MONGIILO UTARA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142002",
+        "tps": "7503142002001",
+        "url": "75\/7503\/750314\/7503142002\/7503142002001.json",
+        "nama": "TPS 001, OWATA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142002",
+        "tps": "7503142002002",
+        "url": "75\/7503\/750314\/7503142002\/7503142002002.json",
+        "nama": "TPS 002, OWATA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142002",
+        "tps": "7503142002003",
+        "url": "75\/7503\/750314\/7503142002\/7503142002003.json",
+        "nama": "TPS 003, OWATA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142002",
+        "tps": "7503142002004",
+        "url": "75\/7503\/750314\/7503142002\/7503142002004.json",
+        "nama": "TPS 004, OWATA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142004",
+        "tps": "7503142004001",
+        "url": "75\/7503\/750314\/7503142004\/7503142004001.json",
+        "nama": "TPS 001, PILOLAHEYA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142004",
+        "tps": "7503142004002",
+        "url": "75\/7503\/750314\/7503142004\/7503142004002.json",
+        "nama": "TPS 002, PILOLAHEYA, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142006",
+        "tps": "7503142006001",
+        "url": "75\/7503\/750314\/7503142006\/7503142006001.json",
+        "nama": "TPS 001, SUKA MAKMUR, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750314",
+        "desa": "7503142006",
+        "tps": "7503142006002",
+        "url": "75\/7503\/750314\/7503142006\/7503142006002.json",
+        "nama": "TPS 002, SUKA MAKMUR, BULANGO ULU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052002",
+        "tps": "7503052002001",
+        "url": "75\/7503\/750305\/7503052002\/7503052002001.json",
+        "nama": "TPS 001, BANDUNGAN, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052002",
+        "tps": "7503052002002",
+        "url": "75\/7503\/750305\/7503052002\/7503052002002.json",
+        "nama": "TPS 002, BANDUNGAN, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052002",
+        "tps": "7503052002003",
+        "url": "75\/7503\/750305\/7503052002\/7503052002003.json",
+        "nama": "TPS 003, BANDUNGAN, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052002",
+        "tps": "7503052002004",
+        "url": "75\/7503\/750305\/7503052002\/7503052002004.json",
+        "nama": "TPS 004, BANDUNGAN, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052001",
+        "tps": "7503052001001",
+        "url": "75\/7503\/750305\/7503052001\/7503052001001.json",
+        "nama": "TPS 001, BOIDU, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052001",
+        "tps": "7503052001002",
+        "url": "75\/7503\/750305\/7503052001\/7503052001002.json",
+        "nama": "TPS 002, BOIDU, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052001",
+        "tps": "7503052001003",
+        "url": "75\/7503\/750305\/7503052001\/7503052001003.json",
+        "nama": "TPS 003, BOIDU, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052015",
+        "tps": "7503052015001",
+        "url": "75\/7503\/750305\/7503052015\/7503052015001.json",
+        "nama": "TPS 001, BUNUO, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052015",
+        "tps": "7503052015002",
+        "url": "75\/7503\/750305\/7503052015\/7503052015002.json",
+        "nama": "TPS 002, BUNUO, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052010",
+        "tps": "7503052010001",
+        "url": "75\/7503\/750305\/7503052010\/7503052010001.json",
+        "nama": "TPS 001, KOPI, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052010",
+        "tps": "7503052010002",
+        "url": "75\/7503\/750305\/7503052010\/7503052010002.json",
+        "nama": "TPS 002, KOPI, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052011",
+        "tps": "7503052011001",
+        "url": "75\/7503\/750305\/7503052011\/7503052011001.json",
+        "nama": "TPS 001, LOMAYA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052011",
+        "tps": "7503052011002",
+        "url": "75\/7503\/750305\/7503052011\/7503052011002.json",
+        "nama": "TPS 002, LOMAYA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052011",
+        "tps": "7503052011003",
+        "url": "75\/7503\/750305\/7503052011\/7503052011003.json",
+        "nama": "TPS 003, LOMAYA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052011",
+        "tps": "7503052011004",
+        "url": "75\/7503\/750305\/7503052011\/7503052011004.json",
+        "nama": "TPS 004, LOMAYA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052004",
+        "tps": "7503052004001",
+        "url": "75\/7503\/750305\/7503052004\/7503052004001.json",
+        "nama": "TPS 001, LONGALO, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052004",
+        "tps": "7503052004002",
+        "url": "75\/7503\/750305\/7503052004\/7503052004002.json",
+        "nama": "TPS 002, LONGALO, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052004",
+        "tps": "7503052004003",
+        "url": "75\/7503\/750305\/7503052004\/7503052004003.json",
+        "nama": "TPS 003, LONGALO, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052012",
+        "tps": "7503052012001",
+        "url": "75\/7503\/750305\/7503052012\/7503052012001.json",
+        "nama": "TPS 001, SUKA DAMAI, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052012",
+        "tps": "7503052012002",
+        "url": "75\/7503\/750305\/7503052012\/7503052012002.json",
+        "nama": "TPS 002, SUKA DAMAI, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052012",
+        "tps": "7503052012003",
+        "url": "75\/7503\/750305\/7503052012\/7503052012003.json",
+        "nama": "TPS 003, SUKA DAMAI, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052009",
+        "tps": "7503052009001",
+        "url": "75\/7503\/750305\/7503052009\/7503052009001.json",
+        "nama": "TPS 001, TULOA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052009",
+        "tps": "7503052009002",
+        "url": "75\/7503\/750305\/7503052009\/7503052009002.json",
+        "nama": "TPS 002, TULOA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052003",
+        "tps": "7503052003001",
+        "url": "75\/7503\/750305\/7503052003\/7503052003001.json",
+        "nama": "TPS 001, TUPA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052003",
+        "tps": "7503052003002",
+        "url": "75\/7503\/750305\/7503052003\/7503052003002.json",
+        "nama": "TPS 002, TUPA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052003",
+        "tps": "7503052003003",
+        "url": "75\/7503\/750305\/7503052003\/7503052003003.json",
+        "nama": "TPS 003, TUPA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750305",
+        "desa": "7503052003",
+        "tps": "7503052003004",
+        "url": "75\/7503\/750305\/7503052003\/7503052003004.json",
+        "nama": "TPS 004, TUPA, BULANGO UTARA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172005",
+        "tps": "7503172005001",
+        "url": "75\/7503\/750317\/7503172005\/7503172005001.json",
+        "nama": "TPS 001, BUKIT HIJAU, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172005",
+        "tps": "7503172005002",
+        "url": "75\/7503\/750317\/7503172005\/7503172005002.json",
+        "nama": "TPS 002, BUKIT HIJAU, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172007",
+        "tps": "7503172007001",
+        "url": "75\/7503\/750317\/7503172007\/7503172007001.json",
+        "nama": "TPS 001, DUNGGILATA, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172007",
+        "tps": "7503172007002",
+        "url": "75\/7503\/750317\/7503172007\/7503172007002.json",
+        "nama": "TPS 002, DUNGGILATA, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172004",
+        "tps": "7503172004001",
+        "url": "75\/7503\/750317\/7503172004\/7503172004001.json",
+        "nama": "TPS 001, KAIDUNDU, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172004",
+        "tps": "7503172004002",
+        "url": "75\/7503\/750317\/7503172004\/7503172004002.json",
+        "nama": "TPS 002, KAIDUNDU, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172004",
+        "tps": "7503172004003",
+        "url": "75\/7503\/750317\/7503172004\/7503172004003.json",
+        "nama": "TPS 003, KAIDUNDU, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172002",
+        "tps": "7503172002001",
+        "url": "75\/7503\/750317\/7503172002\/7503172002001.json",
+        "nama": "TPS 001, KAIDUNDU BARAT, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172002",
+        "tps": "7503172002002",
+        "url": "75\/7503\/750317\/7503172002\/7503172002002.json",
+        "nama": "TPS 002, KAIDUNDU BARAT, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172001",
+        "tps": "7503172001001",
+        "url": "75\/7503\/750317\/7503172001\/7503172001001.json",
+        "nama": "TPS 001, MAMUNGAA, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172001",
+        "tps": "7503172001002",
+        "url": "75\/7503\/750317\/7503172001\/7503172001002.json",
+        "nama": "TPS 002, MAMUNGAA, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172006",
+        "tps": "7503172006001",
+        "url": "75\/7503\/750317\/7503172006\/7503172006001.json",
+        "nama": "TPS 001, MAMUNGAA TIMUR, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172006",
+        "tps": "7503172006002",
+        "url": "75\/7503\/750317\/7503172006\/7503172006002.json",
+        "nama": "TPS 002, MAMUNGAA TIMUR, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172006",
+        "tps": "7503172006003",
+        "url": "75\/7503\/750317\/7503172006\/7503172006003.json",
+        "nama": "TPS 003, MAMUNGAA TIMUR, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172003",
+        "tps": "7503172003001",
+        "url": "75\/7503\/750317\/7503172003\/7503172003001.json",
+        "nama": "TPS 001, MOPUYA, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172003",
+        "tps": "7503172003002",
+        "url": "75\/7503\/750317\/7503172003\/7503172003002.json",
+        "nama": "TPS 002, MOPUYA, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172009",
+        "tps": "7503172009001",
+        "url": "75\/7503\/750317\/7503172009\/7503172009001.json",
+        "nama": "TPS 001, PATOA, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172008",
+        "tps": "7503172008001",
+        "url": "75\/7503\/750317\/7503172008\/7503172008001.json",
+        "nama": "TPS 001, PINOMOTIGA, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750317",
+        "desa": "7503172008",
+        "tps": "7503172008002",
+        "url": "75\/7503\/750317\/7503172008\/7503172008002.json",
+        "nama": "TPS 002, PINOMOTIGA, BULAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022006",
+        "tps": "7503022006001",
+        "url": "75\/7503\/750302\/7503022006\/7503022006001.json",
+        "nama": "TPS 001, DUTOHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022006",
+        "tps": "7503022006002",
+        "url": "75\/7503\/750302\/7503022006\/7503022006002.json",
+        "nama": "TPS 002, DUTOHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022006",
+        "tps": "7503022006003",
+        "url": "75\/7503\/750302\/7503022006\/7503022006003.json",
+        "nama": "TPS 003, DUTOHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022006",
+        "tps": "7503022006004",
+        "url": "75\/7503\/750302\/7503022006\/7503022006004.json",
+        "nama": "TPS 004, DUTOHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022029",
+        "tps": "7503022029001",
+        "url": "75\/7503\/750302\/7503022029\/7503022029001.json",
+        "nama": "TPS 001, DUTOHE BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022029",
+        "tps": "7503022029002",
+        "url": "75\/7503\/750302\/7503022029\/7503022029002.json",
+        "nama": "TPS 002, DUTOHE BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022029",
+        "tps": "7503022029003",
+        "url": "75\/7503\/750302\/7503022029\/7503022029003.json",
+        "nama": "TPS 003, DUTOHE BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022029",
+        "tps": "7503022029004",
+        "url": "75\/7503\/750302\/7503022029\/7503022029004.json",
+        "nama": "TPS 004, DUTOHE BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022029",
+        "tps": "7503022029005",
+        "url": "75\/7503\/750302\/7503022029\/7503022029005.json",
+        "nama": "TPS 005, DUTOHE BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021009",
+        "tps": "7503021009001",
+        "url": "75\/7503\/750302\/7503021009\/7503021009001.json",
+        "nama": "TPS 001, OLOHUTA, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021009",
+        "tps": "7503021009002",
+        "url": "75\/7503\/750302\/7503021009\/7503021009002.json",
+        "nama": "TPS 002, OLOHUTA, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021009",
+        "tps": "7503021009003",
+        "url": "75\/7503\/750302\/7503021009\/7503021009003.json",
+        "nama": "TPS 003, OLOHUTA, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021009",
+        "tps": "7503021009004",
+        "url": "75\/7503\/750302\/7503021009\/7503021009004.json",
+        "nama": "TPS 004, OLOHUTA, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021009",
+        "tps": "7503021009005",
+        "url": "75\/7503\/750302\/7503021009\/7503021009005.json",
+        "nama": "TPS 005, OLOHUTA, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021028",
+        "tps": "7503021028001",
+        "url": "75\/7503\/750302\/7503021028\/7503021028001.json",
+        "nama": "TPS 001, OLOHUTA UTARA, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021028",
+        "tps": "7503021028002",
+        "url": "75\/7503\/750302\/7503021028\/7503021028002.json",
+        "nama": "TPS 002, OLOHUTA UTARA, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021028",
+        "tps": "7503021028003",
+        "url": "75\/7503\/750302\/7503021028\/7503021028003.json",
+        "nama": "TPS 003, OLOHUTA UTARA, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021008",
+        "tps": "7503021008001",
+        "url": "75\/7503\/750302\/7503021008\/7503021008001.json",
+        "nama": "TPS 001, PADENGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021008",
+        "tps": "7503021008002",
+        "url": "75\/7503\/750302\/7503021008\/7503021008002.json",
+        "nama": "TPS 002, PADENGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021008",
+        "tps": "7503021008003",
+        "url": "75\/7503\/750302\/7503021008\/7503021008003.json",
+        "nama": "TPS 003, PADENGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021008",
+        "tps": "7503021008004",
+        "url": "75\/7503\/750302\/7503021008\/7503021008004.json",
+        "nama": "TPS 004, PADENGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021008",
+        "tps": "7503021008005",
+        "url": "75\/7503\/750302\/7503021008\/7503021008005.json",
+        "nama": "TPS 005, PADENGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021008",
+        "tps": "7503021008006",
+        "url": "75\/7503\/750302\/7503021008\/7503021008006.json",
+        "nama": "TPS 006, PADENGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021008",
+        "tps": "7503021008007",
+        "url": "75\/7503\/750302\/7503021008\/7503021008007.json",
+        "nama": "TPS 007, PADENGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021008",
+        "tps": "7503021008008",
+        "url": "75\/7503\/750302\/7503021008\/7503021008008.json",
+        "nama": "TPS 008, PADENGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021011",
+        "tps": "7503021011001",
+        "url": "75\/7503\/750302\/7503021011\/7503021011001.json",
+        "nama": "TPS 001, PAUWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021011",
+        "tps": "7503021011002",
+        "url": "75\/7503\/750302\/7503021011\/7503021011002.json",
+        "nama": "TPS 002, PAUWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021011",
+        "tps": "7503021011003",
+        "url": "75\/7503\/750302\/7503021011\/7503021011003.json",
+        "nama": "TPS 003, PAUWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021011",
+        "tps": "7503021011004",
+        "url": "75\/7503\/750302\/7503021011\/7503021011004.json",
+        "nama": "TPS 004, PAUWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021011",
+        "tps": "7503021011005",
+        "url": "75\/7503\/750302\/7503021011\/7503021011005.json",
+        "nama": "TPS 005, PAUWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021011",
+        "tps": "7503021011006",
+        "url": "75\/7503\/750302\/7503021011\/7503021011006.json",
+        "nama": "TPS 006, PAUWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021011",
+        "tps": "7503021011007",
+        "url": "75\/7503\/750302\/7503021011\/7503021011007.json",
+        "nama": "TPS 007, PAUWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021011",
+        "tps": "7503021011008",
+        "url": "75\/7503\/750302\/7503021011\/7503021011008.json",
+        "nama": "TPS 008, PAUWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021011",
+        "tps": "7503021011009",
+        "url": "75\/7503\/750302\/7503021011\/7503021011009.json",
+        "nama": "TPS 009, PAUWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022013",
+        "tps": "7503022013001",
+        "url": "75\/7503\/750302\/7503022013\/7503022013001.json",
+        "nama": "TPS 001, POOWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022013",
+        "tps": "7503022013002",
+        "url": "75\/7503\/750302\/7503022013\/7503022013002.json",
+        "nama": "TPS 002, POOWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022013",
+        "tps": "7503022013003",
+        "url": "75\/7503\/750302\/7503022013\/7503022013003.json",
+        "nama": "TPS 003, POOWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022013",
+        "tps": "7503022013004",
+        "url": "75\/7503\/750302\/7503022013\/7503022013004.json",
+        "nama": "TPS 004, POOWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022013",
+        "tps": "7503022013005",
+        "url": "75\/7503\/750302\/7503022013\/7503022013005.json",
+        "nama": "TPS 005, POOWO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022026",
+        "tps": "7503022026001",
+        "url": "75\/7503\/750302\/7503022026\/7503022026001.json",
+        "nama": "TPS 001, POOWO BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022026",
+        "tps": "7503022026002",
+        "url": "75\/7503\/750302\/7503022026\/7503022026002.json",
+        "nama": "TPS 002, POOWO BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022026",
+        "tps": "7503022026003",
+        "url": "75\/7503\/750302\/7503022026\/7503022026003.json",
+        "nama": "TPS 003, POOWO BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022026",
+        "tps": "7503022026004",
+        "url": "75\/7503\/750302\/7503022026\/7503022026004.json",
+        "nama": "TPS 004, POOWO BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022026",
+        "tps": "7503022026005",
+        "url": "75\/7503\/750302\/7503022026\/7503022026005.json",
+        "nama": "TPS 005, POOWO BARAT, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022024",
+        "tps": "7503022024001",
+        "url": "75\/7503\/750302\/7503022024\/7503022024001.json",
+        "nama": "TPS 001, TALANGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022024",
+        "tps": "7503022024002",
+        "url": "75\/7503\/750302\/7503022024\/7503022024002.json",
+        "nama": "TPS 002, TALANGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022024",
+        "tps": "7503022024003",
+        "url": "75\/7503\/750302\/7503022024\/7503022024003.json",
+        "nama": "TPS 003, TALANGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022024",
+        "tps": "7503022024004",
+        "url": "75\/7503\/750302\/7503022024\/7503022024004.json",
+        "nama": "TPS 004, TALANGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022007",
+        "tps": "7503022007001",
+        "url": "75\/7503\/750302\/7503022007\/7503022007001.json",
+        "nama": "TPS 001, TANGGILINGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022007",
+        "tps": "7503022007002",
+        "url": "75\/7503\/750302\/7503022007\/7503022007002.json",
+        "nama": "TPS 002, TANGGILINGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022007",
+        "tps": "7503022007003",
+        "url": "75\/7503\/750302\/7503022007\/7503022007003.json",
+        "nama": "TPS 003, TANGGILINGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022007",
+        "tps": "7503022007004",
+        "url": "75\/7503\/750302\/7503022007\/7503022007004.json",
+        "nama": "TPS 004, TANGGILINGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022007",
+        "tps": "7503022007005",
+        "url": "75\/7503\/750302\/7503022007\/7503022007005.json",
+        "nama": "TPS 005, TANGGILINGO, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022012",
+        "tps": "7503022012001",
+        "url": "75\/7503\/750302\/7503022012\/7503022012001.json",
+        "nama": "TPS 001, TOTO SELATAN, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022012",
+        "tps": "7503022012002",
+        "url": "75\/7503\/750302\/7503022012\/7503022012002.json",
+        "nama": "TPS 002, TOTO SELATAN, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022012",
+        "tps": "7503022012003",
+        "url": "75\/7503\/750302\/7503022012\/7503022012003.json",
+        "nama": "TPS 003, TOTO SELATAN, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022012",
+        "tps": "7503022012004",
+        "url": "75\/7503\/750302\/7503022012\/7503022012004.json",
+        "nama": "TPS 004, TOTO SELATAN, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022012",
+        "tps": "7503022012005",
+        "url": "75\/7503\/750302\/7503022012\/7503022012005.json",
+        "nama": "TPS 005, TOTO SELATAN, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503022012",
+        "tps": "7503022012006",
+        "url": "75\/7503\/750302\/7503022012\/7503022012006.json",
+        "nama": "TPS 006, TOTO SELATAN, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021010",
+        "tps": "7503021010001",
+        "url": "75\/7503\/750302\/7503021010\/7503021010001.json",
+        "nama": "TPS 001, TUMBIHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021010",
+        "tps": "7503021010002",
+        "url": "75\/7503\/750302\/7503021010\/7503021010002.json",
+        "nama": "TPS 002, TUMBIHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021010",
+        "tps": "7503021010003",
+        "url": "75\/7503\/750302\/7503021010\/7503021010003.json",
+        "nama": "TPS 003, TUMBIHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021010",
+        "tps": "7503021010004",
+        "url": "75\/7503\/750302\/7503021010\/7503021010004.json",
+        "nama": "TPS 004, TUMBIHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021010",
+        "tps": "7503021010005",
+        "url": "75\/7503\/750302\/7503021010\/7503021010005.json",
+        "nama": "TPS 005, TUMBIHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021010",
+        "tps": "7503021010006",
+        "url": "75\/7503\/750302\/7503021010\/7503021010006.json",
+        "nama": "TPS 006, TUMBIHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750302",
+        "desa": "7503021010",
+        "tps": "7503021010007",
+        "url": "75\/7503\/750302\/7503021010\/7503021010007.json",
+        "nama": "TPS 007, TUMBIHE, KABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082007",
+        "tps": "7503082007001",
+        "url": "75\/7503\/750308\/7503082007\/7503082007001.json",
+        "nama": "TPS 001, BILUANGO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082007",
+        "tps": "7503082007002",
+        "url": "75\/7503\/750308\/7503082007\/7503082007002.json",
+        "nama": "TPS 002, BILUANGO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082007",
+        "tps": "7503082007003",
+        "url": "75\/7503\/750308\/7503082007\/7503082007003.json",
+        "nama": "TPS 003, BILUANGO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082007",
+        "tps": "7503082007004",
+        "url": "75\/7503\/750308\/7503082007\/7503082007004.json",
+        "nama": "TPS 004, BILUANGO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082009",
+        "tps": "7503082009001",
+        "url": "75\/7503\/750308\/7503082009\/7503082009001.json",
+        "nama": "TPS 001, BINTALAHE, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082009",
+        "tps": "7503082009002",
+        "url": "75\/7503\/750308\/7503082009\/7503082009002.json",
+        "nama": "TPS 002, BINTALAHE, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082009",
+        "tps": "7503082009003",
+        "url": "75\/7503\/750308\/7503082009\/7503082009003.json",
+        "nama": "TPS 003, BINTALAHE, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082008",
+        "tps": "7503082008001",
+        "url": "75\/7503\/750308\/7503082008\/7503082008001.json",
+        "nama": "TPS 001, BOTUBARANI, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082008",
+        "tps": "7503082008002",
+        "url": "75\/7503\/750308\/7503082008\/7503082008002.json",
+        "nama": "TPS 002, BOTUBARANI, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082008",
+        "tps": "7503082008003",
+        "url": "75\/7503\/750308\/7503082008\/7503082008003.json",
+        "nama": "TPS 003, BOTUBARANI, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082008",
+        "tps": "7503082008004",
+        "url": "75\/7503\/750308\/7503082008\/7503082008004.json",
+        "nama": "TPS 004, BOTUBARANI, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082005",
+        "tps": "7503082005001",
+        "url": "75\/7503\/750308\/7503082005\/7503082005001.json",
+        "nama": "TPS 001, BOTUTONUO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082005",
+        "tps": "7503082005002",
+        "url": "75\/7503\/750308\/7503082005\/7503082005002.json",
+        "nama": "TPS 002, BOTUTONUO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082005",
+        "tps": "7503082005003",
+        "url": "75\/7503\/750308\/7503082005\/7503082005003.json",
+        "nama": "TPS 003, BOTUTONUO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082005",
+        "tps": "7503082005004",
+        "url": "75\/7503\/750308\/7503082005\/7503082005004.json",
+        "nama": "TPS 004, BOTUTONUO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082001",
+        "tps": "7503082001001",
+        "url": "75\/7503\/750308\/7503082001\/7503082001001.json",
+        "nama": "TPS 001, HUANGOBOTU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082001",
+        "tps": "7503082001002",
+        "url": "75\/7503\/750308\/7503082001\/7503082001002.json",
+        "nama": "TPS 002, HUANGOBOTU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082001",
+        "tps": "7503082001003",
+        "url": "75\/7503\/750308\/7503082001\/7503082001003.json",
+        "nama": "TPS 003, HUANGOBOTU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082001",
+        "tps": "7503082001004",
+        "url": "75\/7503\/750308\/7503082001\/7503082001004.json",
+        "nama": "TPS 004, HUANGOBOTU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082001",
+        "tps": "7503082001005",
+        "url": "75\/7503\/750308\/7503082001\/7503082001005.json",
+        "nama": "TPS 005, HUANGOBOTU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082006",
+        "tps": "7503082006001",
+        "url": "75\/7503\/750308\/7503082006\/7503082006001.json",
+        "nama": "TPS 001, MODELOMO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082006",
+        "tps": "7503082006002",
+        "url": "75\/7503\/750308\/7503082006\/7503082006002.json",
+        "nama": "TPS 002, MODELOMO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082006",
+        "tps": "7503082006003",
+        "url": "75\/7503\/750308\/7503082006\/7503082006003.json",
+        "nama": "TPS 003, MODELOMO, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082002",
+        "tps": "7503082002001",
+        "url": "75\/7503\/750308\/7503082002\/7503082002001.json",
+        "nama": "TPS 001, MOLUTABU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082002",
+        "tps": "7503082002002",
+        "url": "75\/7503\/750308\/7503082002\/7503082002002.json",
+        "nama": "TPS 002, MOLUTABU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082002",
+        "tps": "7503082002003",
+        "url": "75\/7503\/750308\/7503082002\/7503082002003.json",
+        "nama": "TPS 003, MOLUTABU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082002",
+        "tps": "7503082002004",
+        "url": "75\/7503\/750308\/7503082002\/7503082002004.json",
+        "nama": "TPS 004, MOLUTABU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082002",
+        "tps": "7503082002005",
+        "url": "75\/7503\/750308\/7503082002\/7503082002005.json",
+        "nama": "TPS 005, MOLUTABU, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082004",
+        "tps": "7503082004001",
+        "url": "75\/7503\/750308\/7503082004\/7503082004001.json",
+        "nama": "TPS 001, OLELE, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082004",
+        "tps": "7503082004002",
+        "url": "75\/7503\/750308\/7503082004\/7503082004002.json",
+        "nama": "TPS 002, OLELE, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082004",
+        "tps": "7503082004003",
+        "url": "75\/7503\/750308\/7503082004\/7503082004003.json",
+        "nama": "TPS 003, OLELE, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082003",
+        "tps": "7503082003001",
+        "url": "75\/7503\/750308\/7503082003\/7503082003001.json",
+        "nama": "TPS 001, OLUHUTA, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082003",
+        "tps": "7503082003002",
+        "url": "75\/7503\/750308\/7503082003\/7503082003002.json",
+        "nama": "TPS 002, OLUHUTA, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082003",
+        "tps": "7503082003003",
+        "url": "75\/7503\/750308\/7503082003\/7503082003003.json",
+        "nama": "TPS 003, OLUHUTA, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750308",
+        "desa": "7503082003",
+        "tps": "7503082003004",
+        "url": "75\/7503\/750308\/7503082003\/7503082003004.json",
+        "nama": "TPS 004, OLUHUTA, KABILA BONE, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750318",
+        "desa": "7503182002",
+        "tps": "7503182002001",
+        "url": "75\/7503\/750318\/7503182002\/7503182002001.json",
+        "nama": "TPS 001, BANGIO, PINOGU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750318",
+        "desa": "7503182003",
+        "tps": "7503182003001",
+        "url": "75\/7503\/750318\/7503182003\/7503182003001.json",
+        "nama": "TPS 001, DATARAN HIJAU, PINOGU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750318",
+        "desa": "7503182003",
+        "tps": "7503182003002",
+        "url": "75\/7503\/750318\/7503182003\/7503182003002.json",
+        "nama": "TPS 002, DATARAN HIJAU, PINOGU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750318",
+        "desa": "7503182001",
+        "tps": "7503182001001",
+        "url": "75\/7503\/750318\/7503182001\/7503182001001.json",
+        "nama": "TPS 001, PINOGU, PINOGU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750318",
+        "desa": "7503182001",
+        "tps": "7503182001002",
+        "url": "75\/7503\/750318\/7503182001\/7503182001002.json",
+        "nama": "TPS 002, PINOGU, PINOGU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750318",
+        "desa": "7503182004",
+        "tps": "7503182004001",
+        "url": "75\/7503\/750318\/7503182004\/7503182004001.json",
+        "nama": "TPS 001, PINOGU PERMAI, PINOGU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750318",
+        "desa": "7503182004",
+        "tps": "7503182004002",
+        "url": "75\/7503\/750318\/7503182004\/7503182004002.json",
+        "nama": "TPS 002, PINOGU PERMAI, PINOGU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750318",
+        "desa": "7503182005",
+        "tps": "7503182005001",
+        "url": "75\/7503\/750318\/7503182005\/7503182005001.json",
+        "nama": "TPS 001, TILONGGIBILA, PINOGU, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032012",
+        "tps": "7503032012001",
+        "url": "75\/7503\/750303\/7503032012\/7503032012001.json",
+        "nama": "TPS 001, BOLUDAWA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032012",
+        "tps": "7503032012002",
+        "url": "75\/7503\/750303\/7503032012\/7503032012002.json",
+        "nama": "TPS 002, BOLUDAWA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032012",
+        "tps": "7503032012003",
+        "url": "75\/7503\/750303\/7503032012\/7503032012003.json",
+        "nama": "TPS 003, BOLUDAWA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032012",
+        "tps": "7503032012004",
+        "url": "75\/7503\/750303\/7503032012\/7503032012004.json",
+        "nama": "TPS 004, BOLUDAWA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032012",
+        "tps": "7503032012005",
+        "url": "75\/7503\/750303\/7503032012\/7503032012005.json",
+        "nama": "TPS 005, BOLUDAWA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032012",
+        "tps": "7503032012006",
+        "url": "75\/7503\/750303\/7503032012\/7503032012006.json",
+        "nama": "TPS 006, BOLUDAWA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032012",
+        "tps": "7503032012007",
+        "url": "75\/7503\/750303\/7503032012\/7503032012007.json",
+        "nama": "TPS 007, BOLUDAWA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032012",
+        "tps": "7503032012008",
+        "url": "75\/7503\/750303\/7503032012\/7503032012008.json",
+        "nama": "TPS 008, BOLUDAWA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032013",
+        "tps": "7503032013001",
+        "url": "75\/7503\/750303\/7503032013\/7503032013001.json",
+        "nama": "TPS 001, BUBE, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032013",
+        "tps": "7503032013002",
+        "url": "75\/7503\/750303\/7503032013\/7503032013002.json",
+        "nama": "TPS 002, BUBE, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032023",
+        "tps": "7503032023001",
+        "url": "75\/7503\/750303\/7503032023\/7503032023001.json",
+        "nama": "TPS 001, BUBE BARU, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032023",
+        "tps": "7503032023002",
+        "url": "75\/7503\/750303\/7503032023\/7503032023002.json",
+        "nama": "TPS 002, BUBE BARU, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032023",
+        "tps": "7503032023003",
+        "url": "75\/7503\/750303\/7503032023\/7503032023003.json",
+        "nama": "TPS 003, BUBE BARU, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032022",
+        "tps": "7503032022001",
+        "url": "75\/7503\/750303\/7503032022\/7503032022001.json",
+        "nama": "TPS 001, BUBEYA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032022",
+        "tps": "7503032022002",
+        "url": "75\/7503\/750303\/7503032022\/7503032022002.json",
+        "nama": "TPS 002, BUBEYA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032022",
+        "tps": "7503032022003",
+        "url": "75\/7503\/750303\/7503032022\/7503032022003.json",
+        "nama": "TPS 003, BUBEYA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032022",
+        "tps": "7503032022004",
+        "url": "75\/7503\/750303\/7503032022\/7503032022004.json",
+        "nama": "TPS 004, BUBEYA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032028",
+        "tps": "7503032028001",
+        "url": "75\/7503\/750303\/7503032028\/7503032028001.json",
+        "nama": "TPS 001, HELUMO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032028",
+        "tps": "7503032028002",
+        "url": "75\/7503\/750303\/7503032028\/7503032028002.json",
+        "nama": "TPS 002, HELUMO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032028",
+        "tps": "7503032028003",
+        "url": "75\/7503\/750303\/7503032028\/7503032028003.json",
+        "nama": "TPS 003, HELUMO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032014",
+        "tps": "7503032014001",
+        "url": "75\/7503\/750303\/7503032014\/7503032014001.json",
+        "nama": "TPS 001, HULUDUOTAMO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032014",
+        "tps": "7503032014002",
+        "url": "75\/7503\/750303\/7503032014\/7503032014002.json",
+        "nama": "TPS 002, HULUDUOTAMO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032021",
+        "tps": "7503032021001",
+        "url": "75\/7503\/750303\/7503032021\/7503032021001.json",
+        "nama": "TPS 001, TINELO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032021",
+        "tps": "7503032021002",
+        "url": "75\/7503\/750303\/7503032021\/7503032021002.json",
+        "nama": "TPS 002, TINELO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032021",
+        "tps": "7503032021003",
+        "url": "75\/7503\/750303\/7503032021\/7503032021003.json",
+        "nama": "TPS 003, TINELO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032021",
+        "tps": "7503032021004",
+        "url": "75\/7503\/750303\/7503032021\/7503032021004.json",
+        "nama": "TPS 004, TINELO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032021",
+        "tps": "7503032021005",
+        "url": "75\/7503\/750303\/7503032021\/7503032021005.json",
+        "nama": "TPS 005, TINELO, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032011",
+        "tps": "7503032011001",
+        "url": "75\/7503\/750303\/7503032011\/7503032011001.json",
+        "nama": "TPS 001, TINGKOHUBU, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032011",
+        "tps": "7503032011002",
+        "url": "75\/7503\/750303\/7503032011\/7503032011002.json",
+        "nama": "TPS 002, TINGKOHUBU, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032011",
+        "tps": "7503032011003",
+        "url": "75\/7503\/750303\/7503032011\/7503032011003.json",
+        "nama": "TPS 003, TINGKOHUBU, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032011",
+        "tps": "7503032011004",
+        "url": "75\/7503\/750303\/7503032011\/7503032011004.json",
+        "nama": "TPS 004, TINGKOHUBU, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032027",
+        "tps": "7503032027001",
+        "url": "75\/7503\/750303\/7503032027\/7503032027001.json",
+        "nama": "TPS 001, TINGKOHUBU TIMUR, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032027",
+        "tps": "7503032027002",
+        "url": "75\/7503\/750303\/7503032027\/7503032027002.json",
+        "nama": "TPS 002, TINGKOHUBU TIMUR, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032027",
+        "tps": "7503032027003",
+        "url": "75\/7503\/750303\/7503032027\/7503032027003.json",
+        "nama": "TPS 003, TINGKOHUBU TIMUR, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032020",
+        "tps": "7503032020001",
+        "url": "75\/7503\/750303\/7503032020\/7503032020001.json",
+        "nama": "TPS 001, ULANTA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032020",
+        "tps": "7503032020002",
+        "url": "75\/7503\/750303\/7503032020\/7503032020002.json",
+        "nama": "TPS 002, ULANTA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032020",
+        "tps": "7503032020003",
+        "url": "75\/7503\/750303\/7503032020\/7503032020003.json",
+        "nama": "TPS 003, ULANTA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750303",
+        "desa": "7503032020",
+        "tps": "7503032020004",
+        "url": "75\/7503\/750303\/7503032020\/7503032020004.json",
+        "nama": "TPS 004, ULANTA, SUWAWA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122008",
+        "tps": "7503122008001",
+        "url": "75\/7503\/750312\/7503122008\/7503122008001.json",
+        "nama": "TPS 001, BONDARAYA, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122008",
+        "tps": "7503122008002",
+        "url": "75\/7503\/750312\/7503122008\/7503122008002.json",
+        "nama": "TPS 002, BONDARAYA, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122005",
+        "tps": "7503122005001",
+        "url": "75\/7503\/750312\/7503122005\/7503122005001.json",
+        "nama": "TPS 001, BONDAWUNA, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122005",
+        "tps": "7503122005002",
+        "url": "75\/7503\/750312\/7503122005\/7503122005002.json",
+        "nama": "TPS 002, BONDAWUNA, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122005",
+        "tps": "7503122005003",
+        "url": "75\/7503\/750312\/7503122005\/7503122005003.json",
+        "nama": "TPS 003, BONDAWUNA, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122004",
+        "tps": "7503122004001",
+        "url": "75\/7503\/750312\/7503122004\/7503122004001.json",
+        "nama": "TPS 001, BONEDAA, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122004",
+        "tps": "7503122004002",
+        "url": "75\/7503\/750312\/7503122004\/7503122004002.json",
+        "nama": "TPS 002, BONEDAA, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122001",
+        "tps": "7503122001001",
+        "url": "75\/7503\/750312\/7503122001\/7503122001001.json",
+        "nama": "TPS 001, BULONTALA, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122001",
+        "tps": "7503122001002",
+        "url": "75\/7503\/750312\/7503122001\/7503122001002.json",
+        "nama": "TPS 002, BULONTALA, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122006",
+        "tps": "7503122006001",
+        "url": "75\/7503\/750312\/7503122006\/7503122006001.json",
+        "nama": "TPS 001, BULONTALA TIMUR, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122006",
+        "tps": "7503122006002",
+        "url": "75\/7503\/750312\/7503122006\/7503122006002.json",
+        "nama": "TPS 002, BULONTALA TIMUR, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122006",
+        "tps": "7503122006003",
+        "url": "75\/7503\/750312\/7503122006\/7503122006003.json",
+        "nama": "TPS 003, BULONTALA TIMUR, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122002",
+        "tps": "7503122002001",
+        "url": "75\/7503\/750312\/7503122002\/7503122002001.json",
+        "nama": "TPS 001, LIBUNGO, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122002",
+        "tps": "7503122002002",
+        "url": "75\/7503\/750312\/7503122002\/7503122002002.json",
+        "nama": "TPS 002, LIBUNGO, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122003",
+        "tps": "7503122003001",
+        "url": "75\/7503\/750312\/7503122003\/7503122003001.json",
+        "nama": "TPS 001, MOLINTOGUPO, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122003",
+        "tps": "7503122003002",
+        "url": "75\/7503\/750312\/7503122003\/7503122003002.json",
+        "nama": "TPS 002, MOLINTOGUPO, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122003",
+        "tps": "7503122003003",
+        "url": "75\/7503\/750312\/7503122003\/7503122003003.json",
+        "nama": "TPS 003, MOLINTOGUPO, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750312",
+        "desa": "7503122007",
+        "tps": "7503122007001",
+        "url": "75\/7503\/750312\/7503122007\/7503122007001.json",
+        "nama": "TPS 001, PANCURAN, SUWAWA SELATAN, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132005",
+        "tps": "7503132005001",
+        "url": "75\/7503\/750313\/7503132005\/7503132005001.json",
+        "nama": "TPS 001, ALALE, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132005",
+        "tps": "7503132005002",
+        "url": "75\/7503\/750313\/7503132005\/7503132005002.json",
+        "nama": "TPS 002, ALALE, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132005",
+        "tps": "7503132005003",
+        "url": "75\/7503\/750313\/7503132005\/7503132005003.json",
+        "nama": "TPS 003, ALALE, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132003",
+        "tps": "7503132003001",
+        "url": "75\/7503\/750313\/7503132003\/7503132003001.json",
+        "nama": "TPS 001, DUANO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132003",
+        "tps": "7503132003002",
+        "url": "75\/7503\/750313\/7503132003\/7503132003002.json",
+        "nama": "TPS 002, DUANO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132003",
+        "tps": "7503132003003",
+        "url": "75\/7503\/750313\/7503132003\/7503132003003.json",
+        "nama": "TPS 003, DUANO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132003",
+        "tps": "7503132003004",
+        "url": "75\/7503\/750313\/7503132003\/7503132003004.json",
+        "nama": "TPS 004, DUANO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132003",
+        "tps": "7503132003005",
+        "url": "75\/7503\/750313\/7503132003\/7503132003005.json",
+        "nama": "TPS 005, DUANO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132002",
+        "tps": "7503132002001",
+        "url": "75\/7503\/750313\/7503132002\/7503132002001.json",
+        "nama": "TPS 001, LOMBONGO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132002",
+        "tps": "7503132002002",
+        "url": "75\/7503\/750313\/7503132002\/7503132002002.json",
+        "nama": "TPS 002, LOMBONGO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132002",
+        "tps": "7503132002003",
+        "url": "75\/7503\/750313\/7503132002\/7503132002003.json",
+        "nama": "TPS 003, LOMBONGO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132002",
+        "tps": "7503132002004",
+        "url": "75\/7503\/750313\/7503132002\/7503132002004.json",
+        "nama": "TPS 004, LOMBONGO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132001",
+        "tps": "7503132001001",
+        "url": "75\/7503\/750313\/7503132001\/7503132001001.json",
+        "nama": "TPS 001, LOMPOTOO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132001",
+        "tps": "7503132001002",
+        "url": "75\/7503\/750313\/7503132001\/7503132001002.json",
+        "nama": "TPS 002, LOMPOTOO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132006",
+        "tps": "7503132006001",
+        "url": "75\/7503\/750313\/7503132006\/7503132006001.json",
+        "nama": "TPS 001, TAPADAA, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132006",
+        "tps": "7503132006002",
+        "url": "75\/7503\/750313\/7503132006\/7503132006002.json",
+        "nama": "TPS 002, TAPADAA, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132004",
+        "tps": "7503132004001",
+        "url": "75\/7503\/750313\/7503132004\/7503132004001.json",
+        "nama": "TPS 001, TOLOMATO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132004",
+        "tps": "7503132004002",
+        "url": "75\/7503\/750313\/7503132004\/7503132004002.json",
+        "nama": "TPS 002, TOLOMATO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750313",
+        "desa": "7503132004",
+        "tps": "7503132004003",
+        "url": "75\/7503\/750313\/7503132004\/7503132004003.json",
+        "nama": "TPS 003, TOLOMATO, SUWAWA TENGAH, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112003",
+        "tps": "7503112003001",
+        "url": "75\/7503\/750311\/7503112003\/7503112003001.json",
+        "nama": "TPS 001, DUMBAYA BULAN, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112003",
+        "tps": "7503112003002",
+        "url": "75\/7503\/750311\/7503112003\/7503112003002.json",
+        "nama": "TPS 002, DUMBAYA BULAN, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112003",
+        "tps": "7503112003003",
+        "url": "75\/7503\/750311\/7503112003\/7503112003003.json",
+        "nama": "TPS 003, DUMBAYA BULAN, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112008",
+        "tps": "7503112008001",
+        "url": "75\/7503\/750311\/7503112008\/7503112008001.json",
+        "nama": "TPS 001, PANGGULO, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112010",
+        "tps": "7503112010001",
+        "url": "75\/7503\/750311\/7503112010\/7503112010001.json",
+        "nama": "TPS 001, PANGI, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112010",
+        "tps": "7503112010002",
+        "url": "75\/7503\/750311\/7503112010\/7503112010002.json",
+        "nama": "TPS 002, PANGI, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112010",
+        "tps": "7503112010003",
+        "url": "75\/7503\/750311\/7503112010\/7503112010003.json",
+        "nama": "TPS 003, PANGI, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112007",
+        "tps": "7503112007001",
+        "url": "75\/7503\/750311\/7503112007\/7503112007001.json",
+        "nama": "TPS 001, PODUWOMA, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112007",
+        "tps": "7503112007002",
+        "url": "75\/7503\/750311\/7503112007\/7503112007002.json",
+        "nama": "TPS 002, PODUWOMA, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112005",
+        "tps": "7503112005001",
+        "url": "75\/7503\/750311\/7503112005\/7503112005001.json",
+        "nama": "TPS 001, TILANGOBULA, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112005",
+        "tps": "7503112005002",
+        "url": "75\/7503\/750311\/7503112005\/7503112005002.json",
+        "nama": "TPS 002, TILANGOBULA, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112011",
+        "tps": "7503112011001",
+        "url": "75\/7503\/750311\/7503112011\/7503112011001.json",
+        "nama": "TPS 001, TINEMBA, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112011",
+        "tps": "7503112011002",
+        "url": "75\/7503\/750311\/7503112011\/7503112011002.json",
+        "nama": "TPS 002, TINEMBA, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112001",
+        "tps": "7503112001001",
+        "url": "75\/7503\/750311\/7503112001\/7503112001001.json",
+        "nama": "TPS 001, TULABOLO, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112001",
+        "tps": "7503112001002",
+        "url": "75\/7503\/750311\/7503112001\/7503112001002.json",
+        "nama": "TPS 002, TULABOLO, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112009",
+        "tps": "7503112009001",
+        "url": "75\/7503\/750311\/7503112009\/7503112009001.json",
+        "nama": "TPS 001, TULABOLO BARAT, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112009",
+        "tps": "7503112009002",
+        "url": "75\/7503\/750311\/7503112009\/7503112009002.json",
+        "nama": "TPS 002, TULABOLO BARAT, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112004",
+        "tps": "7503112004001",
+        "url": "75\/7503\/750311\/7503112004\/7503112004001.json",
+        "nama": "TPS 001, TULABOLO TIMUR, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750311",
+        "desa": "7503112004",
+        "tps": "7503112004002",
+        "url": "75\/7503\/750311\/7503112004\/7503112004002.json",
+        "nama": "TPS 002, TULABOLO TIMUR, SUWAWA TIMUR, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012006",
+        "tps": "7503012006001",
+        "url": "75\/7503\/750301\/7503012006\/7503012006001.json",
+        "nama": "TPS 001, DUNGGALA, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012006",
+        "tps": "7503012006002",
+        "url": "75\/7503\/750301\/7503012006\/7503012006002.json",
+        "nama": "TPS 002, DUNGGALA, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012006",
+        "tps": "7503012006003",
+        "url": "75\/7503\/750301\/7503012006\/7503012006003.json",
+        "nama": "TPS 003, DUNGGALA, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012006",
+        "tps": "7503012006004",
+        "url": "75\/7503\/750301\/7503012006\/7503012006004.json",
+        "nama": "TPS 004, DUNGGALA, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012028",
+        "tps": "7503012028001",
+        "url": "75\/7503\/750301\/7503012028\/7503012028001.json",
+        "nama": "TPS 001, KERAMAT, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012028",
+        "tps": "7503012028002",
+        "url": "75\/7503\/750301\/7503012028\/7503012028002.json",
+        "nama": "TPS 002, KERAMAT, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012028",
+        "tps": "7503012028003",
+        "url": "75\/7503\/750301\/7503012028\/7503012028003.json",
+        "nama": "TPS 003, KERAMAT, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012007",
+        "tps": "7503012007001",
+        "url": "75\/7503\/750301\/7503012007\/7503012007001.json",
+        "nama": "TPS 001, LANGGE, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012007",
+        "tps": "7503012007002",
+        "url": "75\/7503\/750301\/7503012007\/7503012007002.json",
+        "nama": "TPS 002, LANGGE, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012007",
+        "tps": "7503012007003",
+        "url": "75\/7503\/750301\/7503012007\/7503012007003.json",
+        "nama": "TPS 003, LANGGE, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012029",
+        "tps": "7503012029001",
+        "url": "75\/7503\/750301\/7503012029\/7503012029001.json",
+        "nama": "TPS 001, MERANTI, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012029",
+        "tps": "7503012029002",
+        "url": "75\/7503\/750301\/7503012029\/7503012029002.json",
+        "nama": "TPS 002, MERANTI, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012005",
+        "tps": "7503012005001",
+        "url": "75\/7503\/750301\/7503012005\/7503012005001.json",
+        "nama": "TPS 001, TALULOBUTU, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012005",
+        "tps": "7503012005002",
+        "url": "75\/7503\/750301\/7503012005\/7503012005002.json",
+        "nama": "TPS 002, TALULOBUTU, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012005",
+        "tps": "7503012005003",
+        "url": "75\/7503\/750301\/7503012005\/7503012005003.json",
+        "nama": "TPS 003, TALULOBUTU, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012027",
+        "tps": "7503012027001",
+        "url": "75\/7503\/750301\/7503012027\/7503012027001.json",
+        "nama": "TPS 001, TALULOBUTU SELATAN, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012027",
+        "tps": "7503012027002",
+        "url": "75\/7503\/750301\/7503012027\/7503012027002.json",
+        "nama": "TPS 002, TALULOBUTU SELATAN, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012004",
+        "tps": "7503012004001",
+        "url": "75\/7503\/750301\/7503012004\/7503012004001.json",
+        "nama": "TPS 001, TALUMOPATU, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012004",
+        "tps": "7503012004002",
+        "url": "75\/7503\/750301\/7503012004\/7503012004002.json",
+        "nama": "TPS 002, TALUMOPATU, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012004",
+        "tps": "7503012004003",
+        "url": "75\/7503\/750301\/7503012004\/7503012004003.json",
+        "nama": "TPS 003, TALUMOPATU, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012004",
+        "tps": "7503012004004",
+        "url": "75\/7503\/750301\/7503012004\/7503012004004.json",
+        "nama": "TPS 004, TALUMOPATU, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750301",
+        "desa": "7503012004",
+        "tps": "7503012004005",
+        "url": "75\/7503\/750301\/7503012004\/7503012004005.json",
+        "nama": "TPS 005, TALUMOPATU, TAPA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062014",
+        "tps": "7503062014001",
+        "url": "75\/7503\/750306\/7503062014\/7503062014001.json",
+        "nama": "TPS 001, BERLIAN, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062014",
+        "tps": "7503062014002",
+        "url": "75\/7503\/750306\/7503062014\/7503062014002.json",
+        "nama": "TPS 002, BERLIAN, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062013",
+        "tps": "7503062013001",
+        "url": "75\/7503\/750306\/7503062013\/7503062013001.json",
+        "nama": "TPS 001, BONGOHULAWA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062013",
+        "tps": "7503062013002",
+        "url": "75\/7503\/750306\/7503062013\/7503062013002.json",
+        "nama": "TPS 002, BONGOHULAWA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062013",
+        "tps": "7503062013003",
+        "url": "75\/7503\/750306\/7503062013\/7503062013003.json",
+        "nama": "TPS 003, BONGOHULAWA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062013",
+        "tps": "7503062013004",
+        "url": "75\/7503\/750306\/7503062013\/7503062013004.json",
+        "nama": "TPS 004, BONGOHULAWA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062001",
+        "tps": "7503062001001",
+        "url": "75\/7503\/750306\/7503062001\/7503062001001.json",
+        "nama": "TPS 001, BONGOIME, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062001",
+        "tps": "7503062001002",
+        "url": "75\/7503\/750306\/7503062001\/7503062001002.json",
+        "nama": "TPS 002, BONGOIME, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062001",
+        "tps": "7503062001003",
+        "url": "75\/7503\/750306\/7503062001\/7503062001003.json",
+        "nama": "TPS 003, BONGOIME, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062001",
+        "tps": "7503062001004",
+        "url": "75\/7503\/750306\/7503062001\/7503062001004.json",
+        "nama": "TPS 004, BONGOIME, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062001",
+        "tps": "7503062001005",
+        "url": "75\/7503\/750306\/7503062001\/7503062001005.json",
+        "nama": "TPS 005, BONGOIME, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062001",
+        "tps": "7503062001006",
+        "url": "75\/7503\/750306\/7503062001\/7503062001006.json",
+        "nama": "TPS 006, BONGOIME, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062001",
+        "tps": "7503062001007",
+        "url": "75\/7503\/750306\/7503062001\/7503062001007.json",
+        "nama": "TPS 007, BONGOIME, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062002",
+        "tps": "7503062002001",
+        "url": "75\/7503\/750306\/7503062002\/7503062002001.json",
+        "nama": "TPS 001, BONGOPINI, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062002",
+        "tps": "7503062002002",
+        "url": "75\/7503\/750306\/7503062002\/7503062002002.json",
+        "nama": "TPS 002, BONGOPINI, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062002",
+        "tps": "7503062002003",
+        "url": "75\/7503\/750306\/7503062002\/7503062002003.json",
+        "nama": "TPS 003, BONGOPINI, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062002",
+        "tps": "7503062002004",
+        "url": "75\/7503\/750306\/7503062002\/7503062002004.json",
+        "nama": "TPS 004, BONGOPINI, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062010",
+        "tps": "7503062010001",
+        "url": "75\/7503\/750306\/7503062010\/7503062010001.json",
+        "nama": "TPS 001, BUTU, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062010",
+        "tps": "7503062010002",
+        "url": "75\/7503\/750306\/7503062010\/7503062010002.json",
+        "nama": "TPS 002, BUTU, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062010",
+        "tps": "7503062010003",
+        "url": "75\/7503\/750306\/7503062010\/7503062010003.json",
+        "nama": "TPS 003, BUTU, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062008",
+        "tps": "7503062008001",
+        "url": "75\/7503\/750306\/7503062008\/7503062008001.json",
+        "nama": "TPS 001, ILOHELUMA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062008",
+        "tps": "7503062008002",
+        "url": "75\/7503\/750306\/7503062008\/7503062008002.json",
+        "nama": "TPS 002, ILOHELUMA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062008",
+        "tps": "7503062008003",
+        "url": "75\/7503\/750306\/7503062008\/7503062008003.json",
+        "nama": "TPS 003, ILOHELUMA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062008",
+        "tps": "7503062008004",
+        "url": "75\/7503\/750306\/7503062008\/7503062008004.json",
+        "nama": "TPS 004, ILOHELUMA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062008",
+        "tps": "7503062008005",
+        "url": "75\/7503\/750306\/7503062008\/7503062008005.json",
+        "nama": "TPS 005, ILOHELUMA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062006",
+        "tps": "7503062006001",
+        "url": "75\/7503\/750306\/7503062006\/7503062006001.json",
+        "nama": "TPS 001, LONUO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062006",
+        "tps": "7503062006002",
+        "url": "75\/7503\/750306\/7503062006\/7503062006002.json",
+        "nama": "TPS 002, LONUO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062006",
+        "tps": "7503062006003",
+        "url": "75\/7503\/750306\/7503062006\/7503062006003.json",
+        "nama": "TPS 003, LONUO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062009",
+        "tps": "7503062009001",
+        "url": "75\/7503\/750306\/7503062009\/7503062009001.json",
+        "nama": "TPS 001, MOTILANGO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062009",
+        "tps": "7503062009002",
+        "url": "75\/7503\/750306\/7503062009\/7503062009002.json",
+        "nama": "TPS 002, MOTILANGO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062009",
+        "tps": "7503062009003",
+        "url": "75\/7503\/750306\/7503062009\/7503062009003.json",
+        "nama": "TPS 003, MOTILANGO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062009",
+        "tps": "7503062009004",
+        "url": "75\/7503\/750306\/7503062009\/7503062009004.json",
+        "nama": "TPS 004, MOTILANGO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062004",
+        "tps": "7503062004001",
+        "url": "75\/7503\/750306\/7503062004\/7503062004001.json",
+        "nama": "TPS 001, MOUTONG, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062004",
+        "tps": "7503062004002",
+        "url": "75\/7503\/750306\/7503062004\/7503062004002.json",
+        "nama": "TPS 002, MOUTONG, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062004",
+        "tps": "7503062004003",
+        "url": "75\/7503\/750306\/7503062004\/7503062004003.json",
+        "nama": "TPS 003, MOUTONG, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062004",
+        "tps": "7503062004004",
+        "url": "75\/7503\/750306\/7503062004\/7503062004004.json",
+        "nama": "TPS 004, MOUTONG, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062011",
+        "tps": "7503062011001",
+        "url": "75\/7503\/750306\/7503062011\/7503062011001.json",
+        "nama": "TPS 001, PERMATA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062011",
+        "tps": "7503062011002",
+        "url": "75\/7503\/750306\/7503062011\/7503062011002.json",
+        "nama": "TPS 002, PERMATA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062011",
+        "tps": "7503062011003",
+        "url": "75\/7503\/750306\/7503062011\/7503062011003.json",
+        "nama": "TPS 003, PERMATA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062011",
+        "tps": "7503062011004",
+        "url": "75\/7503\/750306\/7503062011\/7503062011004.json",
+        "nama": "TPS 004, PERMATA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062007",
+        "tps": "7503062007001",
+        "url": "75\/7503\/750306\/7503062007\/7503062007001.json",
+        "nama": "TPS 001, TAMBOO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062007",
+        "tps": "7503062007002",
+        "url": "75\/7503\/750306\/7503062007\/7503062007002.json",
+        "nama": "TPS 002, TAMBOO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062007",
+        "tps": "7503062007003",
+        "url": "75\/7503\/750306\/7503062007\/7503062007003.json",
+        "nama": "TPS 003, TAMBOO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062007",
+        "tps": "7503062007004",
+        "url": "75\/7503\/750306\/7503062007\/7503062007004.json",
+        "nama": "TPS 004, TAMBOO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062003",
+        "tps": "7503062003001",
+        "url": "75\/7503\/750306\/7503062003\/7503062003001.json",
+        "nama": "TPS 001, TOTO UTARA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062003",
+        "tps": "7503062003002",
+        "url": "75\/7503\/750306\/7503062003\/7503062003002.json",
+        "nama": "TPS 002, TOTO UTARA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062003",
+        "tps": "7503062003003",
+        "url": "75\/7503\/750306\/7503062003\/7503062003003.json",
+        "nama": "TPS 003, TOTO UTARA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062003",
+        "tps": "7503062003004",
+        "url": "75\/7503\/750306\/7503062003\/7503062003004.json",
+        "nama": "TPS 004, TOTO UTARA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062003",
+        "tps": "7503062003005",
+        "url": "75\/7503\/750306\/7503062003\/7503062003005.json",
+        "nama": "TPS 005, TOTO UTARA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062003",
+        "tps": "7503062003006",
+        "url": "75\/7503\/750306\/7503062003\/7503062003006.json",
+        "nama": "TPS 006, TOTO UTARA, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062005",
+        "tps": "7503062005001",
+        "url": "75\/7503\/750306\/7503062005\/7503062005001.json",
+        "nama": "TPS 001, TUNGGULO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062005",
+        "tps": "7503062005002",
+        "url": "75\/7503\/750306\/7503062005\/7503062005002.json",
+        "nama": "TPS 002, TUNGGULO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062005",
+        "tps": "7503062005003",
+        "url": "75\/7503\/750306\/7503062005\/7503062005003.json",
+        "nama": "TPS 003, TUNGGULO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062005",
+        "tps": "7503062005004",
+        "url": "75\/7503\/750306\/7503062005\/7503062005004.json",
+        "nama": "TPS 004, TUNGGULO, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062012",
+        "tps": "7503062012001",
+        "url": "75\/7503\/750306\/7503062012\/7503062012001.json",
+        "nama": "TPS 001, TUNGGULO SELATAN, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7503",
+        "kecamatan": "750306",
+        "desa": "7503062012",
+        "tps": "7503062012002",
+        "url": "75\/7503\/750306\/7503062012\/7503062012002.json",
+        "nama": "TPS 002, TUNGGULO SELATAN, TILONGKABILA, BONE BOLANGO, GORONTALO"
+    }
+]

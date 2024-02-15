@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030005",
+        "nama": "TPS 005, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1115\/111505\/1115052030\/1115052030005"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052015",
+        "tps": "1115052015001",
+        "nama": "TPS 001, KAYEE UNOE, DARUL MAKMUR, NAGAN RAYA, ACEH",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1115\/111505\/1115052015\/1115052015001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052031",
+        "tps": "1115052031002",
+        "nama": "TPS 002, KUALA SEUMAYAM, DARUL MAKMUR, NAGAN RAYA, ACEH",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1115\/111505\/1115052031\/1115052031002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092001",
+        "tps": "1115092001002",
+        "nama": "TPS 002, KUALA TRIPA, TRIPA MAKMUR, NAGAN RAYA, ACEH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1115\/111509\/1115092001\/1115092001002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082017",
+        "tps": "1115082017001",
+        "nama": "TPS 001, KRUENG ITAM, TADU RAYA, NAGAN RAYA, ACEH",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1115\/111508\/1115082017\/1115082017001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082017",
+        "tps": "1115082017001",
+        "nama": "TPS 001, KRUENG ITAM, TADU RAYA, NAGAN RAYA, ACEH",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1115\/111508\/1115082017\/1115082017001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082017",
+        "tps": "1115082017001",
+        "nama": "TPS 001, KRUENG ITAM, TADU RAYA, NAGAN RAYA, ACEH",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1115\/111508\/1115082017\/1115082017001"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "53",
+        "kabupaten": "5311",
+        "kecamatan": "531116",
+        "desa": "5311161004",
+        "tps": "5311161004005",
+        "nama": "TPS 005, MAULIRU, KAMBERA, SUMBA TIMUR, NUSA TENGGARA TIMUR",
+        "selisih": 3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5311\/531116\/5311161004\/5311161004005"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5311",
+        "kecamatan": "531101",
+        "desa": "5311011002",
+        "tps": "5311011002001",
+        "nama": "TPS 001, HAMBALA, KOTA WAINGAPU, SUMBA TIMUR, NUSA TENGGARA TIMUR",
+        "selisih": 6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5311\/531101\/5311011002\/5311011002001"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5311",
+        "kecamatan": "531101",
+        "desa": "5311011004",
+        "tps": "5311011004011",
+        "nama": "TPS 011, KAMALAPUTI, KOTA WAINGAPU, SUMBA TIMUR, NUSA TENGGARA TIMUR",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5311\/531101\/5311011004\/5311011004011"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5311",
+        "kecamatan": "531101",
+        "desa": "5311011001",
+        "tps": "5311011001011",
+        "nama": "TPS 011, KAMBAJAWA, KOTA WAINGAPU, SUMBA TIMUR, NUSA TENGGARA TIMUR",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5311\/531101\/5311011001\/5311011001011"
+    }
+]

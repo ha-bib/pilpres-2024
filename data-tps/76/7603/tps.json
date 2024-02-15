@@ -1,0 +1,5402 @@
+[
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603021001",
+        "tps": "7603021001001",
+        "url": "76\/7603\/760302\/7603021001\/7603021001001.json",
+        "nama": "TPS 001, ARALLE, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603021001",
+        "tps": "7603021001002",
+        "url": "76\/7603\/760302\/7603021001\/7603021001002.json",
+        "nama": "TPS 002, ARALLE, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603021001",
+        "tps": "7603021001003",
+        "url": "76\/7603\/760302\/7603021001\/7603021001003.json",
+        "nama": "TPS 003, ARALLE, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022018",
+        "tps": "7603022018001",
+        "url": "76\/7603\/760302\/7603022018\/7603022018001.json",
+        "nama": "TPS 001, ARALLE SELATAN, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022018",
+        "tps": "7603022018002",
+        "url": "76\/7603\/760302\/7603022018\/7603022018002.json",
+        "nama": "TPS 002, ARALLE SELATAN, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022007",
+        "tps": "7603022007001",
+        "url": "76\/7603\/760302\/7603022007\/7603022007001.json",
+        "nama": "TPS 001, ARALLE UTARA, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022007",
+        "tps": "7603022007002",
+        "url": "76\/7603\/760302\/7603022007\/7603022007002.json",
+        "nama": "TPS 002, ARALLE UTARA, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022007",
+        "tps": "7603022007003",
+        "url": "76\/7603\/760302\/7603022007\/7603022007003.json",
+        "nama": "TPS 003, ARALLE UTARA, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022010",
+        "tps": "7603022010001",
+        "url": "76\/7603\/760302\/7603022010\/7603022010001.json",
+        "nama": "TPS 001, BARURU, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022010",
+        "tps": "7603022010002",
+        "url": "76\/7603\/760302\/7603022010\/7603022010002.json",
+        "nama": "TPS 002, BARURU, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022010",
+        "tps": "7603022010003",
+        "url": "76\/7603\/760302\/7603022010\/7603022010003.json",
+        "nama": "TPS 003, BARURU, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022010",
+        "tps": "7603022010004",
+        "url": "76\/7603\/760302\/7603022010\/7603022010004.json",
+        "nama": "TPS 004, BARURU, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022019",
+        "tps": "7603022019001",
+        "url": "76\/7603\/760302\/7603022019\/7603022019001.json",
+        "nama": "TPS 001, HAHANGAN, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022019",
+        "tps": "7603022019002",
+        "url": "76\/7603\/760302\/7603022019\/7603022019002.json",
+        "nama": "TPS 002, HAHANGAN, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022017",
+        "tps": "7603022017001",
+        "url": "76\/7603\/760302\/7603022017\/7603022017001.json",
+        "nama": "TPS 001, KALABE, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022017",
+        "tps": "7603022017002",
+        "url": "76\/7603\/760302\/7603022017\/7603022017002.json",
+        "nama": "TPS 002, KALABE, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022016",
+        "tps": "7603022016001",
+        "url": "76\/7603\/760302\/7603022016\/7603022016001.json",
+        "nama": "TPS 001, PAMOSEANG PANGGA, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022016",
+        "tps": "7603022016002",
+        "url": "76\/7603\/760302\/7603022016\/7603022016002.json",
+        "nama": "TPS 002, PAMOSEANG PANGGA, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022004",
+        "tps": "7603022004001",
+        "url": "76\/7603\/760302\/7603022004\/7603022004001.json",
+        "nama": "TPS 001, PANETEAN, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022004",
+        "tps": "7603022004002",
+        "url": "76\/7603\/760302\/7603022004\/7603022004002.json",
+        "nama": "TPS 002, PANETEAN, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022003",
+        "tps": "7603022003001",
+        "url": "76\/7603\/760302\/7603022003\/7603022003001.json",
+        "nama": "TPS 001, RALLE ANAK, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022003",
+        "tps": "7603022003002",
+        "url": "76\/7603\/760302\/7603022003\/7603022003002.json",
+        "nama": "TPS 002, RALLE ANAK, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022015",
+        "tps": "7603022015001",
+        "url": "76\/7603\/760302\/7603022015\/7603022015001.json",
+        "nama": "TPS 001, RALLEANAK UTARA, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022009",
+        "tps": "7603022009001",
+        "url": "76\/7603\/760302\/7603022009\/7603022009001.json",
+        "nama": "TPS 001, UHAIDAHO, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022009",
+        "tps": "7603022009002",
+        "url": "76\/7603\/760302\/7603022009\/7603022009002.json",
+        "nama": "TPS 002, UHAIDAHO, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022005",
+        "tps": "7603022005001",
+        "url": "76\/7603\/760302\/7603022005\/7603022005001.json",
+        "nama": "TPS 001, UHAILANU, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022005",
+        "tps": "7603022005002",
+        "url": "76\/7603\/760302\/7603022005\/7603022005002.json",
+        "nama": "TPS 002, UHAILANU, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760302",
+        "desa": "7603022005",
+        "tps": "7603022005003",
+        "url": "76\/7603\/760302\/7603022005\/7603022005003.json",
+        "nama": "TPS 003, UHAILANU, ARALLE, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122001",
+        "tps": "7603122001001",
+        "url": "76\/7603\/760312\/7603122001\/7603122001001.json",
+        "nama": "TPS 001, BALLA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122001",
+        "tps": "7603122001002",
+        "url": "76\/7603\/760312\/7603122001\/7603122001002.json",
+        "nama": "TPS 002, BALLA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122001",
+        "tps": "7603122001003",
+        "url": "76\/7603\/760312\/7603122001\/7603122001003.json",
+        "nama": "TPS 003, BALLA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122001",
+        "tps": "7603122001004",
+        "url": "76\/7603\/760312\/7603122001\/7603122001004.json",
+        "nama": "TPS 004, BALLA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122001",
+        "tps": "7603122001005",
+        "url": "76\/7603\/760312\/7603122001\/7603122001005.json",
+        "nama": "TPS 005, BALLA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122001",
+        "tps": "7603122001901",
+        "url": "76\/7603\/760312\/7603122001\/7603122001901.json",
+        "nama": "TPS 901, BALLA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122002",
+        "tps": "7603122002001",
+        "url": "76\/7603\/760312\/7603122002\/7603122002001.json",
+        "nama": "TPS 001, BALLA BARAT, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122002",
+        "tps": "7603122002002",
+        "url": "76\/7603\/760312\/7603122002\/7603122002002.json",
+        "nama": "TPS 002, BALLA BARAT, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122002",
+        "tps": "7603122002003",
+        "url": "76\/7603\/760312\/7603122002\/7603122002003.json",
+        "nama": "TPS 003, BALLA BARAT, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122003",
+        "tps": "7603122003001",
+        "url": "76\/7603\/760312\/7603122003\/7603122003001.json",
+        "nama": "TPS 001, BALLA SATANETEAN, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122003",
+        "tps": "7603122003002",
+        "url": "76\/7603\/760312\/7603122003\/7603122003002.json",
+        "nama": "TPS 002, BALLA SATANETEAN, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122003",
+        "tps": "7603122003003",
+        "url": "76\/7603\/760312\/7603122003\/7603122003003.json",
+        "nama": "TPS 003, BALLA SATANETEAN, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122003",
+        "tps": "7603122003004",
+        "url": "76\/7603\/760312\/7603122003\/7603122003004.json",
+        "nama": "TPS 004, BALLA SATANETEAN, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122003",
+        "tps": "7603122003005",
+        "url": "76\/7603\/760312\/7603122003\/7603122003005.json",
+        "nama": "TPS 005, BALLA SATANETEAN, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122008",
+        "tps": "7603122008001",
+        "url": "76\/7603\/760312\/7603122008\/7603122008001.json",
+        "nama": "TPS 001, BALLA TIMUR, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122004",
+        "tps": "7603122004001",
+        "url": "76\/7603\/760312\/7603122004\/7603122004001.json",
+        "nama": "TPS 001, BALLA TUMUKA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122004",
+        "tps": "7603122004002",
+        "url": "76\/7603\/760312\/7603122004\/7603122004002.json",
+        "nama": "TPS 002, BALLA TUMUKA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122004",
+        "tps": "7603122004003",
+        "url": "76\/7603\/760312\/7603122004\/7603122004003.json",
+        "nama": "TPS 003, BALLA TUMUKA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122004",
+        "tps": "7603122004004",
+        "url": "76\/7603\/760312\/7603122004\/7603122004004.json",
+        "nama": "TPS 004, BALLA TUMUKA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122007",
+        "tps": "7603122007001",
+        "url": "76\/7603\/760312\/7603122007\/7603122007001.json",
+        "nama": "TPS 001, BAMBAPUANG, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122007",
+        "tps": "7603122007002",
+        "url": "76\/7603\/760312\/7603122007\/7603122007002.json",
+        "nama": "TPS 002, BAMBAPUANG, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122006",
+        "tps": "7603122006001",
+        "url": "76\/7603\/760312\/7603122006\/7603122006001.json",
+        "nama": "TPS 001, PIDARA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122006",
+        "tps": "7603122006002",
+        "url": "76\/7603\/760312\/7603122006\/7603122006002.json",
+        "nama": "TPS 002, PIDARA, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122005",
+        "tps": "7603122005001",
+        "url": "76\/7603\/760312\/7603122005\/7603122005001.json",
+        "nama": "TPS 001, SEPAKUAN, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122005",
+        "tps": "7603122005002",
+        "url": "76\/7603\/760312\/7603122005\/7603122005002.json",
+        "nama": "TPS 002, SEPAKUAN, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122005",
+        "tps": "7603122005003",
+        "url": "76\/7603\/760312\/7603122005\/7603122005003.json",
+        "nama": "TPS 003, SEPAKUAN, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760312",
+        "desa": "7603122005",
+        "tps": "7603122005004",
+        "url": "76\/7603\/760312\/7603122005\/7603122005004.json",
+        "nama": "TPS 004, SEPAKUAN, BALLA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112020",
+        "tps": "7603112020001",
+        "url": "76\/7603\/760311\/7603112020\/7603112020001.json",
+        "nama": "TPS 001, BALATANA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112020",
+        "tps": "7603112020002",
+        "url": "76\/7603\/760311\/7603112020\/7603112020002.json",
+        "nama": "TPS 002, BALATANA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112010",
+        "tps": "7603112010001",
+        "url": "76\/7603\/760311\/7603112010\/7603112010001.json",
+        "nama": "TPS 001, BAMBANG, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112010",
+        "tps": "7603112010002",
+        "url": "76\/7603\/760311\/7603112010\/7603112010002.json",
+        "nama": "TPS 002, BAMBANG, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112010",
+        "tps": "7603112010003",
+        "url": "76\/7603\/760311\/7603112010\/7603112010003.json",
+        "nama": "TPS 003, BAMBANG, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112010",
+        "tps": "7603112010004",
+        "url": "76\/7603\/760311\/7603112010\/7603112010004.json",
+        "nama": "TPS 004, BAMBANG, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112014",
+        "tps": "7603112014001",
+        "url": "76\/7603\/760311\/7603112014\/7603112014001.json",
+        "nama": "TPS 001, BAMBANG TIMUR, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112014",
+        "tps": "7603112014002",
+        "url": "76\/7603\/760311\/7603112014\/7603112014002.json",
+        "nama": "TPS 002, BAMBANG TIMUR, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112014",
+        "tps": "7603112014003",
+        "url": "76\/7603\/760311\/7603112014\/7603112014003.json",
+        "nama": "TPS 003, BAMBANG TIMUR, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112008",
+        "tps": "7603112008001",
+        "url": "76\/7603\/760311\/7603112008\/7603112008001.json",
+        "nama": "TPS 001, LIMBADEBATA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112008",
+        "tps": "7603112008002",
+        "url": "76\/7603\/760311\/7603112008\/7603112008002.json",
+        "nama": "TPS 002, LIMBADEBATA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112008",
+        "tps": "7603112008003",
+        "url": "76\/7603\/760311\/7603112008\/7603112008003.json",
+        "nama": "TPS 003, LIMBADEBATA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112002",
+        "tps": "7603112002001",
+        "url": "76\/7603\/760311\/7603112002\/7603112002001.json",
+        "nama": "TPS 001, MASOSO, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112002",
+        "tps": "7603112002002",
+        "url": "76\/7603\/760311\/7603112002\/7603112002002.json",
+        "nama": "TPS 002, MASOSO, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112015",
+        "tps": "7603112015001",
+        "url": "76\/7603\/760311\/7603112015\/7603112015001.json",
+        "nama": "TPS 001, MINANGA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112015",
+        "tps": "7603112015002",
+        "url": "76\/7603\/760311\/7603112015\/7603112015002.json",
+        "nama": "TPS 002, MINANGA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112015",
+        "tps": "7603112015003",
+        "url": "76\/7603\/760311\/7603112015\/7603112015003.json",
+        "nama": "TPS 003, MINANGA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112015",
+        "tps": "7603112015004",
+        "url": "76\/7603\/760311\/7603112015\/7603112015004.json",
+        "nama": "TPS 004, MINANGA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112001",
+        "tps": "7603112001001",
+        "url": "76\/7603\/760311\/7603112001\/7603112001001.json",
+        "nama": "TPS 001, MOKALLANG, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112001",
+        "tps": "7603112001002",
+        "url": "76\/7603\/760311\/7603112001\/7603112001002.json",
+        "nama": "TPS 002, MOKALLANG, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112001",
+        "tps": "7603112001003",
+        "url": "76\/7603\/760311\/7603112001\/7603112001003.json",
+        "nama": "TPS 003, MOKALLANG, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112011",
+        "tps": "7603112011001",
+        "url": "76\/7603\/760311\/7603112011\/7603112011001.json",
+        "nama": "TPS 001, RANTELEMO, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112011",
+        "tps": "7603112011002",
+        "url": "76\/7603\/760311\/7603112011\/7603112011002.json",
+        "nama": "TPS 002, RANTELEMO, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112017",
+        "tps": "7603112017001",
+        "url": "76\/7603\/760311\/7603112017\/7603112017001.json",
+        "nama": "TPS 001, RANTETARIMA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112017",
+        "tps": "7603112017002",
+        "url": "76\/7603\/760311\/7603112017\/7603112017002.json",
+        "nama": "TPS 002, RANTETARIMA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112003",
+        "tps": "7603112003001",
+        "url": "76\/7603\/760311\/7603112003\/7603112003001.json",
+        "nama": "TPS 001, SALUASSING, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112003",
+        "tps": "7603112003002",
+        "url": "76\/7603\/760311\/7603112003\/7603112003002.json",
+        "nama": "TPS 002, SALUASSING, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112003",
+        "tps": "7603112003003",
+        "url": "76\/7603\/760311\/7603112003\/7603112003003.json",
+        "nama": "TPS 003, SALUASSING, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112003",
+        "tps": "7603112003004",
+        "url": "76\/7603\/760311\/7603112003\/7603112003004.json",
+        "nama": "TPS 004, SALUASSING, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112004",
+        "tps": "7603112004001",
+        "url": "76\/7603\/760311\/7603112004\/7603112004001.json",
+        "nama": "TPS 001, SALUBULO, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112004",
+        "tps": "7603112004002",
+        "url": "76\/7603\/760311\/7603112004\/7603112004002.json",
+        "nama": "TPS 002, SALUBULO, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112012",
+        "tps": "7603112012001",
+        "url": "76\/7603\/760311\/7603112012\/7603112012001.json",
+        "nama": "TPS 001, SALUDENGEN, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112012",
+        "tps": "7603112012002",
+        "url": "76\/7603\/760311\/7603112012\/7603112012002.json",
+        "nama": "TPS 002, SALUDENGEN, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112005",
+        "tps": "7603112005001",
+        "url": "76\/7603\/760311\/7603112005\/7603112005001.json",
+        "nama": "TPS 001, SALUKADI, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112005",
+        "tps": "7603112005002",
+        "url": "76\/7603\/760311\/7603112005\/7603112005002.json",
+        "nama": "TPS 002, SALUKADI, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112006",
+        "tps": "7603112006001",
+        "url": "76\/7603\/760311\/7603112006\/7603112006001.json",
+        "nama": "TPS 001, SALUKEPOPOK, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112006",
+        "tps": "7603112006002",
+        "url": "76\/7603\/760311\/7603112006\/7603112006002.json",
+        "nama": "TPS 002, SALUKEPOPOK, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112006",
+        "tps": "7603112006003",
+        "url": "76\/7603\/760311\/7603112006\/7603112006003.json",
+        "nama": "TPS 003, SALUKEPOPOK, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112018",
+        "tps": "7603112018001",
+        "url": "76\/7603\/760311\/7603112018\/7603112018001.json",
+        "nama": "TPS 001, SALURURU, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112019",
+        "tps": "7603112019001",
+        "url": "76\/7603\/760311\/7603112019\/7603112019001.json",
+        "nama": "TPS 001, SALUTABANG, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112019",
+        "tps": "7603112019002",
+        "url": "76\/7603\/760311\/7603112019\/7603112019002.json",
+        "nama": "TPS 002, SALUTABANG, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112016",
+        "tps": "7603112016001",
+        "url": "76\/7603\/760311\/7603112016\/7603112016001.json",
+        "nama": "TPS 001, SIKAMASE, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112016",
+        "tps": "7603112016002",
+        "url": "76\/7603\/760311\/7603112016\/7603112016002.json",
+        "nama": "TPS 002, SIKAMASE, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112009",
+        "tps": "7603112009001",
+        "url": "76\/7603\/760311\/7603112009\/7603112009001.json",
+        "nama": "TPS 001, TANETE TOMBA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112009",
+        "tps": "7603112009002",
+        "url": "76\/7603\/760311\/7603112009\/7603112009002.json",
+        "nama": "TPS 002, TANETE TOMBA, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112013",
+        "tps": "7603112013001",
+        "url": "76\/7603\/760311\/7603112013\/7603112013001.json",
+        "nama": "TPS 001, ULUMAMBI, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112013",
+        "tps": "7603112013002",
+        "url": "76\/7603\/760311\/7603112013\/7603112013002.json",
+        "nama": "TPS 002, ULUMAMBI, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112007",
+        "tps": "7603112007001",
+        "url": "76\/7603\/760311\/7603112007\/7603112007001.json",
+        "nama": "TPS 001, ULUMAMBI BARAT, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760311",
+        "desa": "7603112007",
+        "tps": "7603112007002",
+        "url": "76\/7603\/760311\/7603112007\/7603112007002.json",
+        "nama": "TPS 002, ULUMAMBI BARAT, BAMBANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162011",
+        "tps": "7603162011001",
+        "url": "76\/7603\/760316\/7603162011\/7603162011001.json",
+        "nama": "TPS 001, ARALLE TIMUR, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162011",
+        "tps": "7603162011002",
+        "url": "76\/7603\/760316\/7603162011\/7603162011002.json",
+        "nama": "TPS 002, ARALLE TIMUR, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162001",
+        "tps": "7603162001001",
+        "url": "76\/7603\/760316\/7603162001\/7603162001001.json",
+        "nama": "TPS 001, BUNTUMALANGKA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162001",
+        "tps": "7603162001002",
+        "url": "76\/7603\/760316\/7603162001\/7603162001002.json",
+        "nama": "TPS 002, BUNTUMALANGKA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162001",
+        "tps": "7603162001003",
+        "url": "76\/7603\/760316\/7603162001\/7603162001003.json",
+        "nama": "TPS 003, BUNTUMALANGKA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162001",
+        "tps": "7603162001004",
+        "url": "76\/7603\/760316\/7603162001\/7603162001004.json",
+        "nama": "TPS 004, BUNTUMALANGKA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162006",
+        "tps": "7603162006001",
+        "url": "76\/7603\/760316\/7603162006\/7603162006001.json",
+        "nama": "TPS 001, KABAE, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162006",
+        "tps": "7603162006002",
+        "url": "76\/7603\/760316\/7603162006\/7603162006002.json",
+        "nama": "TPS 002, KABAE, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162003",
+        "tps": "7603162003001",
+        "url": "76\/7603\/760316\/7603162003\/7603162003001.json",
+        "nama": "TPS 001, KEBANGA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162003",
+        "tps": "7603162003002",
+        "url": "76\/7603\/760316\/7603162003\/7603162003002.json",
+        "nama": "TPS 002, KEBANGA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162008",
+        "tps": "7603162008001",
+        "url": "76\/7603\/760316\/7603162008\/7603162008001.json",
+        "nama": "TPS 001, PENATANGAN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162008",
+        "tps": "7603162008002",
+        "url": "76\/7603\/760316\/7603162008\/7603162008002.json",
+        "nama": "TPS 002, PENATANGAN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162008",
+        "tps": "7603162008003",
+        "url": "76\/7603\/760316\/7603162008\/7603162008003.json",
+        "nama": "TPS 003, PENATANGAN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162002",
+        "tps": "7603162002001",
+        "url": "76\/7603\/760316\/7603162002\/7603162002001.json",
+        "nama": "TPS 001, RANTEBERAN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162002",
+        "tps": "7603162002002",
+        "url": "76\/7603\/760316\/7603162002\/7603162002002.json",
+        "nama": "TPS 002, RANTEBERAN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162002",
+        "tps": "7603162002003",
+        "url": "76\/7603\/760316\/7603162002\/7603162002003.json",
+        "nama": "TPS 003, RANTEBERAN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162002",
+        "tps": "7603162002004",
+        "url": "76\/7603\/760316\/7603162002\/7603162002004.json",
+        "nama": "TPS 004, RANTEBERAN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162004",
+        "tps": "7603162004001",
+        "url": "76\/7603\/760316\/7603162004\/7603162004001.json",
+        "nama": "TPS 001, SALURINDU, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162004",
+        "tps": "7603162004002",
+        "url": "76\/7603\/760316\/7603162004\/7603162004002.json",
+        "nama": "TPS 002, SALURINDU, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162010",
+        "tps": "7603162010001",
+        "url": "76\/7603\/760316\/7603162010\/7603162010001.json",
+        "nama": "TPS 001, SALUTAMBUN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162010",
+        "tps": "7603162010002",
+        "url": "76\/7603\/760316\/7603162010\/7603162010002.json",
+        "nama": "TPS 002, SALUTAMBUN, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162007",
+        "tps": "7603162007001",
+        "url": "76\/7603\/760316\/7603162007\/7603162007001.json",
+        "nama": "TPS 001, SALUTAMBUN BARAT, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162007",
+        "tps": "7603162007002",
+        "url": "76\/7603\/760316\/7603162007\/7603162007002.json",
+        "nama": "TPS 002, SALUTAMBUN BARAT, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162009",
+        "tps": "7603162009001",
+        "url": "76\/7603\/760316\/7603162009\/7603162009001.json",
+        "nama": "TPS 001, SALUTAMBUN TIMUR, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162009",
+        "tps": "7603162009002",
+        "url": "76\/7603\/760316\/7603162009\/7603162009002.json",
+        "nama": "TPS 002, SALUTAMBUN TIMUR, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162005",
+        "tps": "7603162005001",
+        "url": "76\/7603\/760316\/7603162005\/7603162005001.json",
+        "nama": "TPS 001, TAORA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760316",
+        "desa": "7603162005",
+        "tps": "7603162005002",
+        "url": "76\/7603\/760316\/7603162005\/7603162005002.json",
+        "nama": "TPS 002, TAORA, BUNTUMALANGKA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032011",
+        "tps": "7603032011001",
+        "url": "76\/7603\/760303\/7603032011\/7603032011001.json",
+        "nama": "TPS 001, BOMBONG LAMBE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032011",
+        "tps": "7603032011002",
+        "url": "76\/7603\/760303\/7603032011\/7603032011002.json",
+        "nama": "TPS 002, BOMBONG LAMBE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032011",
+        "tps": "7603032011003",
+        "url": "76\/7603\/760303\/7603032011\/7603032011003.json",
+        "nama": "TPS 003, BOMBONG LAMBE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032011",
+        "tps": "7603032011004",
+        "url": "76\/7603\/760303\/7603032011\/7603032011004.json",
+        "nama": "TPS 004, BOMBONG LAMBE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032012",
+        "tps": "7603032012001",
+        "url": "76\/7603\/760303\/7603032012\/7603032012001.json",
+        "nama": "TPS 001, BUBUN BATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032012",
+        "tps": "7603032012002",
+        "url": "76\/7603\/760303\/7603032012\/7603032012002.json",
+        "nama": "TPS 002, BUBUN BATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032012",
+        "tps": "7603032012003",
+        "url": "76\/7603\/760303\/7603032012\/7603032012003.json",
+        "nama": "TPS 003, BUBUN BATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032007",
+        "tps": "7603032007001",
+        "url": "76\/7603\/760303\/7603032007\/7603032007001.json",
+        "nama": "TPS 001, BUNTU BUDA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032007",
+        "tps": "7603032007002",
+        "url": "76\/7603\/760303\/7603032007\/7603032007002.json",
+        "nama": "TPS 002, BUNTU BUDA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032007",
+        "tps": "7603032007003",
+        "url": "76\/7603\/760303\/7603032007\/7603032007003.json",
+        "nama": "TPS 003, BUNTU BUDA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032007",
+        "tps": "7603032007004",
+        "url": "76\/7603\/760303\/7603032007\/7603032007004.json",
+        "nama": "TPS 004, BUNTU BUDA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032007",
+        "tps": "7603032007005",
+        "url": "76\/7603\/760303\/7603032007\/7603032007005.json",
+        "nama": "TPS 005, BUNTU BUDA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032007",
+        "tps": "7603032007006",
+        "url": "76\/7603\/760303\/7603032007\/7603032007006.json",
+        "nama": "TPS 006, BUNTU BUDA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032007",
+        "tps": "7603032007007",
+        "url": "76\/7603\/760303\/7603032007\/7603032007007.json",
+        "nama": "TPS 007, BUNTU BUDA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032007",
+        "tps": "7603032007008",
+        "url": "76\/7603\/760303\/7603032007\/7603032007008.json",
+        "nama": "TPS 008, BUNTU BUDA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032004",
+        "tps": "7603032004001",
+        "url": "76\/7603\/760303\/7603032004\/7603032004001.json",
+        "nama": "TPS 001, LAMBANAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032004",
+        "tps": "7603032004002",
+        "url": "76\/7603\/760303\/7603032004\/7603032004002.json",
+        "nama": "TPS 002, LAMBANAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032004",
+        "tps": "7603032004003",
+        "url": "76\/7603\/760303\/7603032004\/7603032004003.json",
+        "nama": "TPS 003, LAMBANAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032004",
+        "tps": "7603032004004",
+        "url": "76\/7603\/760303\/7603032004\/7603032004004.json",
+        "nama": "TPS 004, LAMBANAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032004",
+        "tps": "7603032004005",
+        "url": "76\/7603\/760303\/7603032004\/7603032004005.json",
+        "nama": "TPS 005, LAMBANAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032004",
+        "tps": "7603032004006",
+        "url": "76\/7603\/760303\/7603032004\/7603032004006.json",
+        "nama": "TPS 006, LAMBANAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032004",
+        "tps": "7603032004007",
+        "url": "76\/7603\/760303\/7603032004\/7603032004007.json",
+        "nama": "TPS 007, LAMBANAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032004",
+        "tps": "7603032004008",
+        "url": "76\/7603\/760303\/7603032004\/7603032004008.json",
+        "nama": "TPS 008, LAMBANAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032005",
+        "tps": "7603032005001",
+        "url": "76\/7603\/760303\/7603032005\/7603032005001.json",
+        "nama": "TPS 001, LEMBANA SALULO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032005",
+        "tps": "7603032005002",
+        "url": "76\/7603\/760303\/7603032005\/7603032005002.json",
+        "nama": "TPS 002, LEMBANA SALULO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032005",
+        "tps": "7603032005003",
+        "url": "76\/7603\/760303\/7603032005\/7603032005003.json",
+        "nama": "TPS 003, LEMBANA SALULO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001001",
+        "url": "76\/7603\/760303\/7603031001\/7603031001001.json",
+        "nama": "TPS 001, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001002",
+        "url": "76\/7603\/760303\/7603031001\/7603031001002.json",
+        "nama": "TPS 002, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001003",
+        "url": "76\/7603\/760303\/7603031001\/7603031001003.json",
+        "nama": "TPS 003, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001004",
+        "url": "76\/7603\/760303\/7603031001\/7603031001004.json",
+        "nama": "TPS 004, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001005",
+        "url": "76\/7603\/760303\/7603031001\/7603031001005.json",
+        "nama": "TPS 005, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001006",
+        "url": "76\/7603\/760303\/7603031001\/7603031001006.json",
+        "nama": "TPS 006, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001007",
+        "url": "76\/7603\/760303\/7603031001\/7603031001007.json",
+        "nama": "TPS 007, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001008",
+        "url": "76\/7603\/760303\/7603031001\/7603031001008.json",
+        "nama": "TPS 008, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001009",
+        "url": "76\/7603\/760303\/7603031001\/7603031001009.json",
+        "nama": "TPS 009, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001010",
+        "url": "76\/7603\/760303\/7603031001\/7603031001010.json",
+        "nama": "TPS 010, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001011",
+        "url": "76\/7603\/760303\/7603031001\/7603031001011.json",
+        "nama": "TPS 011, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001012",
+        "url": "76\/7603\/760303\/7603031001\/7603031001012.json",
+        "nama": "TPS 012, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001013",
+        "url": "76\/7603\/760303\/7603031001\/7603031001013.json",
+        "nama": "TPS 013, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001014",
+        "url": "76\/7603\/760303\/7603031001\/7603031001014.json",
+        "nama": "TPS 014, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603031001",
+        "tps": "7603031001015",
+        "url": "76\/7603\/760303\/7603031001\/7603031001015.json",
+        "nama": "TPS 015, MAMASA, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032010",
+        "tps": "7603032010001",
+        "url": "76\/7603\/760303\/7603032010\/7603032010001.json",
+        "nama": "TPS 001, MAMBULILING, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032010",
+        "tps": "7603032010002",
+        "url": "76\/7603\/760303\/7603032010\/7603032010002.json",
+        "nama": "TPS 002, MAMBULILING, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032010",
+        "tps": "7603032010003",
+        "url": "76\/7603\/760303\/7603032010\/7603032010003.json",
+        "nama": "TPS 003, MAMBULILING, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003001",
+        "url": "76\/7603\/760303\/7603032003\/7603032003001.json",
+        "nama": "TPS 001, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003002",
+        "url": "76\/7603\/760303\/7603032003\/7603032003002.json",
+        "nama": "TPS 002, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003003",
+        "url": "76\/7603\/760303\/7603032003\/7603032003003.json",
+        "nama": "TPS 003, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003004",
+        "url": "76\/7603\/760303\/7603032003\/7603032003004.json",
+        "nama": "TPS 004, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003005",
+        "url": "76\/7603\/760303\/7603032003\/7603032003005.json",
+        "nama": "TPS 005, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003006",
+        "url": "76\/7603\/760303\/7603032003\/7603032003006.json",
+        "nama": "TPS 006, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003007",
+        "url": "76\/7603\/760303\/7603032003\/7603032003007.json",
+        "nama": "TPS 007, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003008",
+        "url": "76\/7603\/760303\/7603032003\/7603032003008.json",
+        "nama": "TPS 008, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003009",
+        "url": "76\/7603\/760303\/7603032003\/7603032003009.json",
+        "nama": "TPS 009, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032003",
+        "tps": "7603032003010",
+        "url": "76\/7603\/760303\/7603032003\/7603032003010.json",
+        "nama": "TPS 010, OSANGO, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032009",
+        "tps": "7603032009001",
+        "url": "76\/7603\/760303\/7603032009\/7603032009001.json",
+        "nama": "TPS 001, PEBASSIAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032009",
+        "tps": "7603032009002",
+        "url": "76\/7603\/760303\/7603032009\/7603032009002.json",
+        "nama": "TPS 002, PEBASSIAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032009",
+        "tps": "7603032009003",
+        "url": "76\/7603\/760303\/7603032009\/7603032009003.json",
+        "nama": "TPS 003, PEBASSIAN, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032002",
+        "tps": "7603032002001",
+        "url": "76\/7603\/760303\/7603032002\/7603032002001.json",
+        "nama": "TPS 001, RAMBUSARATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032002",
+        "tps": "7603032002002",
+        "url": "76\/7603\/760303\/7603032002\/7603032002002.json",
+        "nama": "TPS 002, RAMBUSARATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032002",
+        "tps": "7603032002003",
+        "url": "76\/7603\/760303\/7603032002\/7603032002003.json",
+        "nama": "TPS 003, RAMBUSARATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032002",
+        "tps": "7603032002004",
+        "url": "76\/7603\/760303\/7603032002\/7603032002004.json",
+        "nama": "TPS 004, RAMBUSARATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032002",
+        "tps": "7603032002005",
+        "url": "76\/7603\/760303\/7603032002\/7603032002005.json",
+        "nama": "TPS 005, RAMBUSARATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032002",
+        "tps": "7603032002006",
+        "url": "76\/7603\/760303\/7603032002\/7603032002006.json",
+        "nama": "TPS 006, RAMBUSARATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032002",
+        "tps": "7603032002007",
+        "url": "76\/7603\/760303\/7603032002\/7603032002007.json",
+        "nama": "TPS 007, RAMBUSARATU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032006",
+        "tps": "7603032006001",
+        "url": "76\/7603\/760303\/7603032006\/7603032006001.json",
+        "nama": "TPS 001, TAUPE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032006",
+        "tps": "7603032006002",
+        "url": "76\/7603\/760303\/7603032006\/7603032006002.json",
+        "nama": "TPS 002, TAUPE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032006",
+        "tps": "7603032006003",
+        "url": "76\/7603\/760303\/7603032006\/7603032006003.json",
+        "nama": "TPS 003, TAUPE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032006",
+        "tps": "7603032006004",
+        "url": "76\/7603\/760303\/7603032006\/7603032006004.json",
+        "nama": "TPS 004, TAUPE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032006",
+        "tps": "7603032006005",
+        "url": "76\/7603\/760303\/7603032006\/7603032006005.json",
+        "nama": "TPS 005, TAUPE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032006",
+        "tps": "7603032006006",
+        "url": "76\/7603\/760303\/7603032006\/7603032006006.json",
+        "nama": "TPS 006, TAUPE, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032008",
+        "tps": "7603032008001",
+        "url": "76\/7603\/760303\/7603032008\/7603032008001.json",
+        "nama": "TPS 001, TONDOK BAKARU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032008",
+        "tps": "7603032008002",
+        "url": "76\/7603\/760303\/7603032008\/7603032008002.json",
+        "nama": "TPS 002, TONDOK BAKARU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032008",
+        "tps": "7603032008003",
+        "url": "76\/7603\/760303\/7603032008\/7603032008003.json",
+        "nama": "TPS 003, TONDOK BAKARU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032008",
+        "tps": "7603032008004",
+        "url": "76\/7603\/760303\/7603032008\/7603032008004.json",
+        "nama": "TPS 004, TONDOK BAKARU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032008",
+        "tps": "7603032008005",
+        "url": "76\/7603\/760303\/7603032008\/7603032008005.json",
+        "nama": "TPS 005, TONDOK BAKARU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760303",
+        "desa": "7603032008",
+        "tps": "7603032008006",
+        "url": "76\/7603\/760303\/7603032008\/7603032008006.json",
+        "nama": "TPS 006, TONDOK BAKARU, MAMASA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012026",
+        "tps": "7603012026001",
+        "url": "76\/7603\/760301\/7603012026\/7603012026001.json",
+        "nama": "TPS 001, BUJUNG MANURUNG, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012026",
+        "tps": "7603012026002",
+        "url": "76\/7603\/760301\/7603012026\/7603012026002.json",
+        "nama": "TPS 002, BUJUNG MANURUNG, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012029",
+        "tps": "7603012029001",
+        "url": "76\/7603\/760301\/7603012029\/7603012029001.json",
+        "nama": "TPS 001, INDOBANUA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012029",
+        "tps": "7603012029002",
+        "url": "76\/7603\/760301\/7603012029\/7603012029002.json",
+        "nama": "TPS 002, INDOBANUA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603011001",
+        "tps": "7603011001001",
+        "url": "76\/7603\/760301\/7603011001\/7603011001001.json",
+        "nama": "TPS 001, MAMBI, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603011001",
+        "tps": "7603011001002",
+        "url": "76\/7603\/760301\/7603011001\/7603011001002.json",
+        "nama": "TPS 002, MAMBI, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603011001",
+        "tps": "7603011001003",
+        "url": "76\/7603\/760301\/7603011001\/7603011001003.json",
+        "nama": "TPS 003, MAMBI, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603011001",
+        "tps": "7603011001004",
+        "url": "76\/7603\/760301\/7603011001\/7603011001004.json",
+        "nama": "TPS 004, MAMBI, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603011001",
+        "tps": "7603011001005",
+        "url": "76\/7603\/760301\/7603011001\/7603011001005.json",
+        "nama": "TPS 005, MAMBI, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012024",
+        "tps": "7603012024001",
+        "url": "76\/7603\/760301\/7603012024\/7603012024001.json",
+        "nama": "TPS 001, PAMOSEAN, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012024",
+        "tps": "7603012024002",
+        "url": "76\/7603\/760301\/7603012024\/7603012024002.json",
+        "nama": "TPS 002, PAMOSEAN, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012004",
+        "tps": "7603012004001",
+        "url": "76\/7603\/760301\/7603012004\/7603012004001.json",
+        "nama": "TPS 001, RANTEBULAHAN, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012004",
+        "tps": "7603012004002",
+        "url": "76\/7603\/760301\/7603012004\/7603012004002.json",
+        "nama": "TPS 002, RANTEBULAHAN, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012027",
+        "tps": "7603012027001",
+        "url": "76\/7603\/760301\/7603012027\/7603012027001.json",
+        "nama": "TPS 001, SALU ALO, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012027",
+        "tps": "7603012027002",
+        "url": "76\/7603\/760301\/7603012027\/7603012027002.json",
+        "nama": "TPS 002, SALU ALO, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012016",
+        "tps": "7603012016001",
+        "url": "76\/7603\/760301\/7603012016\/7603012016001.json",
+        "nama": "TPS 001, SALUBANUA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012016",
+        "tps": "7603012016002",
+        "url": "76\/7603\/760301\/7603012016\/7603012016002.json",
+        "nama": "TPS 002, SALUBANUA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012030",
+        "tps": "7603012030001",
+        "url": "76\/7603\/760301\/7603012030\/7603012030001.json",
+        "nama": "TPS 001, SALUDURIAN, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012030",
+        "tps": "7603012030002",
+        "url": "76\/7603\/760301\/7603012030\/7603012030002.json",
+        "nama": "TPS 002, SALUDURIAN, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012030",
+        "tps": "7603012030003",
+        "url": "76\/7603\/760301\/7603012030\/7603012030003.json",
+        "nama": "TPS 003, SALUDURIAN, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012025",
+        "tps": "7603012025001",
+        "url": "76\/7603\/760301\/7603012025\/7603012025001.json",
+        "nama": "TPS 001, SELUMAKA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012025",
+        "tps": "7603012025002",
+        "url": "76\/7603\/760301\/7603012025\/7603012025002.json",
+        "nama": "TPS 002, SELUMAKA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012025",
+        "tps": "7603012025003",
+        "url": "76\/7603\/760301\/7603012025\/7603012025003.json",
+        "nama": "TPS 003, SELUMAKA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012025",
+        "tps": "7603012025004",
+        "url": "76\/7603\/760301\/7603012025\/7603012025004.json",
+        "nama": "TPS 004, SELUMAKA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012025",
+        "tps": "7603012025005",
+        "url": "76\/7603\/760301\/7603012025\/7603012025005.json",
+        "nama": "TPS 005, SELUMAKA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012019",
+        "tps": "7603012019001",
+        "url": "76\/7603\/760301\/7603012019\/7603012019001.json",
+        "nama": "TPS 001, SENDANA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012019",
+        "tps": "7603012019002",
+        "url": "76\/7603\/760301\/7603012019\/7603012019002.json",
+        "nama": "TPS 002, SENDANA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012019",
+        "tps": "7603012019003",
+        "url": "76\/7603\/760301\/7603012019\/7603012019003.json",
+        "nama": "TPS 003, SENDANA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012008",
+        "tps": "7603012008001",
+        "url": "76\/7603\/760301\/7603012008\/7603012008001.json",
+        "nama": "TPS 001, SONDONGLAYU, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012008",
+        "tps": "7603012008002",
+        "url": "76\/7603\/760301\/7603012008\/7603012008002.json",
+        "nama": "TPS 002, SONDONGLAYU, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603011002",
+        "tps": "7603011002001",
+        "url": "76\/7603\/760301\/7603011002\/7603011002001.json",
+        "nama": "TPS 001, TALIPUKKI, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603011002",
+        "tps": "7603011002002",
+        "url": "76\/7603\/760301\/7603011002\/7603011002002.json",
+        "nama": "TPS 002, TALIPUKKI, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603011002",
+        "tps": "7603011002003",
+        "url": "76\/7603\/760301\/7603011002\/7603011002003.json",
+        "nama": "TPS 003, TALIPUKKI, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603011002",
+        "tps": "7603011002004",
+        "url": "76\/7603\/760301\/7603011002\/7603011002004.json",
+        "nama": "TPS 004, TALIPUKKI, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012017",
+        "tps": "7603012017001",
+        "url": "76\/7603\/760301\/7603012017\/7603012017001.json",
+        "nama": "TPS 001, TAPALINA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012017",
+        "tps": "7603012017002",
+        "url": "76\/7603\/760301\/7603012017\/7603012017002.json",
+        "nama": "TPS 002, TAPALINA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760301",
+        "desa": "7603012017",
+        "tps": "7603012017003",
+        "url": "76\/7603\/760301\/7603012017\/7603012017003.json",
+        "nama": "TPS 003, TAPALINA, MAMBI, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172002",
+        "tps": "7603172002001",
+        "url": "76\/7603\/760317\/7603172002\/7603172002001.json",
+        "nama": "TPS 001, BOTTENG, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172002",
+        "tps": "7603172002002",
+        "url": "76\/7603\/760317\/7603172002\/7603172002002.json",
+        "nama": "TPS 002, BOTTENG, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172009",
+        "tps": "7603172009001",
+        "url": "76\/7603\/760317\/7603172009\/7603172009001.json",
+        "nama": "TPS 001, KONDO, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172010",
+        "tps": "7603172010001",
+        "url": "76\/7603\/760317\/7603172010\/7603172010001.json",
+        "nama": "TPS 001, LEKO SUKAMAJU, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172010",
+        "tps": "7603172010002",
+        "url": "76\/7603\/760317\/7603172010\/7603172010002.json",
+        "nama": "TPS 002, LEKO SUKAMAJU, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172001",
+        "tps": "7603172001001",
+        "url": "76\/7603\/760317\/7603172001\/7603172001001.json",
+        "nama": "TPS 001, MEHALAAN, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172001",
+        "tps": "7603172001002",
+        "url": "76\/7603\/760317\/7603172001\/7603172001002.json",
+        "nama": "TPS 002, MEHALAAN, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172001",
+        "tps": "7603172001003",
+        "url": "76\/7603\/760317\/7603172001\/7603172001003.json",
+        "nama": "TPS 003, MEHALAAN, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172005",
+        "tps": "7603172005001",
+        "url": "76\/7603\/760317\/7603172005\/7603172005001.json",
+        "nama": "TPS 001, MEHALAAN BARAT, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172005",
+        "tps": "7603172005002",
+        "url": "76\/7603\/760317\/7603172005\/7603172005002.json",
+        "nama": "TPS 002, MEHALAAN BARAT, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172005",
+        "tps": "7603172005003",
+        "url": "76\/7603\/760317\/7603172005\/7603172005003.json",
+        "nama": "TPS 003, MEHALAAN BARAT, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172004",
+        "tps": "7603172004001",
+        "url": "76\/7603\/760317\/7603172004\/7603172004001.json",
+        "nama": "TPS 001, MESAKADA, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172004",
+        "tps": "7603172004002",
+        "url": "76\/7603\/760317\/7603172004\/7603172004002.json",
+        "nama": "TPS 002, MESAKADA, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172004",
+        "tps": "7603172004003",
+        "url": "76\/7603\/760317\/7603172004\/7603172004003.json",
+        "nama": "TPS 003, MESAKADA, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172008",
+        "tps": "7603172008001",
+        "url": "76\/7603\/760317\/7603172008\/7603172008001.json",
+        "nama": "TPS 001, PASSEMBUK, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172008",
+        "tps": "7603172008002",
+        "url": "76\/7603\/760317\/7603172008\/7603172008002.json",
+        "nama": "TPS 002, PASSEMBUK, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172006",
+        "tps": "7603172006001",
+        "url": "76\/7603\/760317\/7603172006\/7603172006001.json",
+        "nama": "TPS 001, SALUAHOK, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172006",
+        "tps": "7603172006002",
+        "url": "76\/7603\/760317\/7603172006\/7603172006002.json",
+        "nama": "TPS 002, SALUAHOK, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172007",
+        "tps": "7603172007001",
+        "url": "76\/7603\/760317\/7603172007\/7603172007001.json",
+        "nama": "TPS 001, SALUBALO, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172003",
+        "tps": "7603172003001",
+        "url": "76\/7603\/760317\/7603172003\/7603172003001.json",
+        "nama": "TPS 001, SALUKONTA, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172003",
+        "tps": "7603172003002",
+        "url": "76\/7603\/760317\/7603172003\/7603172003002.json",
+        "nama": "TPS 002, SALUKONTA, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760317",
+        "desa": "7603172011",
+        "tps": "7603172011001",
+        "url": "76\/7603\/760317\/7603172011\/7603172011001.json",
+        "nama": "TPS 001, ULUMEA, MEHALAAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072003",
+        "tps": "7603072003001",
+        "url": "76\/7603\/760307\/7603072003\/7603072003001.json",
+        "nama": "TPS 001, MAKUANG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072003",
+        "tps": "7603072003002",
+        "url": "76\/7603\/760307\/7603072003\/7603072003002.json",
+        "nama": "TPS 002, MAKUANG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072003",
+        "tps": "7603072003003",
+        "url": "76\/7603\/760307\/7603072003\/7603072003003.json",
+        "nama": "TPS 003, MAKUANG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072003",
+        "tps": "7603072003004",
+        "url": "76\/7603\/760307\/7603072003\/7603072003004.json",
+        "nama": "TPS 004, MAKUANG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072005",
+        "tps": "7603072005001",
+        "url": "76\/7603\/760307\/7603072005\/7603072005001.json",
+        "nama": "TPS 001, MALIMBONG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072005",
+        "tps": "7603072005002",
+        "url": "76\/7603\/760307\/7603072005\/7603072005002.json",
+        "nama": "TPS 002, MALIMBONG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072005",
+        "tps": "7603072005003",
+        "url": "76\/7603\/760307\/7603072005\/7603072005003.json",
+        "nama": "TPS 003, MALIMBONG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072006",
+        "tps": "7603072006001",
+        "url": "76\/7603\/760307\/7603072006\/7603072006001.json",
+        "nama": "TPS 001, MATANDE, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072006",
+        "tps": "7603072006002",
+        "url": "76\/7603\/760307\/7603072006\/7603072006002.json",
+        "nama": "TPS 002, MATANDE, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072006",
+        "tps": "7603072006003",
+        "url": "76\/7603\/760307\/7603072006\/7603072006003.json",
+        "nama": "TPS 003, MATANDE, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603071001",
+        "tps": "7603071001001",
+        "url": "76\/7603\/760307\/7603071001\/7603071001001.json",
+        "nama": "TPS 001, MESSAWA, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603071001",
+        "tps": "7603071001002",
+        "url": "76\/7603\/760307\/7603071001\/7603071001002.json",
+        "nama": "TPS 002, MESSAWA, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603071001",
+        "tps": "7603071001003",
+        "url": "76\/7603\/760307\/7603071001\/7603071001003.json",
+        "nama": "TPS 003, MESSAWA, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072008",
+        "tps": "7603072008001",
+        "url": "76\/7603\/760307\/7603072008\/7603072008001.json",
+        "nama": "TPS 001, PASMA MAMBU, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072008",
+        "tps": "7603072008002",
+        "url": "76\/7603\/760307\/7603072008\/7603072008002.json",
+        "nama": "TPS 002, PASMA MAMBU, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072002",
+        "tps": "7603072002001",
+        "url": "76\/7603\/760307\/7603072002\/7603072002001.json",
+        "nama": "TPS 001, RIPPUNG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072002",
+        "tps": "7603072002002",
+        "url": "76\/7603\/760307\/7603072002\/7603072002002.json",
+        "nama": "TPS 002, RIPPUNG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072002",
+        "tps": "7603072002003",
+        "url": "76\/7603\/760307\/7603072002\/7603072002003.json",
+        "nama": "TPS 003, RIPPUNG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072002",
+        "tps": "7603072002004",
+        "url": "76\/7603\/760307\/7603072002\/7603072002004.json",
+        "nama": "TPS 004, RIPPUNG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072002",
+        "tps": "7603072002005",
+        "url": "76\/7603\/760307\/7603072002\/7603072002005.json",
+        "nama": "TPS 005, RIPPUNG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072004",
+        "tps": "7603072004001",
+        "url": "76\/7603\/760307\/7603072004\/7603072004001.json",
+        "nama": "TPS 001, SEPANG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072004",
+        "tps": "7603072004002",
+        "url": "76\/7603\/760307\/7603072004\/7603072004002.json",
+        "nama": "TPS 002, SEPANG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072004",
+        "tps": "7603072004003",
+        "url": "76\/7603\/760307\/7603072004\/7603072004003.json",
+        "nama": "TPS 003, SEPANG, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072007",
+        "tps": "7603072007001",
+        "url": "76\/7603\/760307\/7603072007\/7603072007001.json",
+        "nama": "TPS 001, SIPAI, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072007",
+        "tps": "7603072007002",
+        "url": "76\/7603\/760307\/7603072007\/7603072007002.json",
+        "nama": "TPS 002, SIPAI, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072009",
+        "tps": "7603072009001",
+        "url": "76\/7603\/760307\/7603072009\/7603072009001.json",
+        "nama": "TPS 001, TANETE BATU, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072009",
+        "tps": "7603072009002",
+        "url": "76\/7603\/760307\/7603072009\/7603072009002.json",
+        "nama": "TPS 002, TANETE BATU, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760307",
+        "desa": "7603072009",
+        "tps": "7603072009003",
+        "url": "76\/7603\/760307\/7603072009\/7603072009003.json",
+        "nama": "TPS 003, TANETE BATU, MESSAWA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132003",
+        "tps": "7603132003001",
+        "url": "76\/7603\/760313\/7603132003\/7603132003001.json",
+        "nama": "TPS 001, BATUPAPAN, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132003",
+        "tps": "7603132003002",
+        "url": "76\/7603\/760313\/7603132003\/7603132003002.json",
+        "nama": "TPS 002, BATUPAPAN, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132003",
+        "tps": "7603132003003",
+        "url": "76\/7603\/760313\/7603132003\/7603132003003.json",
+        "nama": "TPS 003, BATUPAPAN, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132003",
+        "tps": "7603132003004",
+        "url": "76\/7603\/760313\/7603132003\/7603132003004.json",
+        "nama": "TPS 004, BATUPAPAN, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132004",
+        "tps": "7603132004001",
+        "url": "76\/7603\/760313\/7603132004\/7603132004001.json",
+        "nama": "TPS 001, MASEWWE, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132004",
+        "tps": "7603132004002",
+        "url": "76\/7603\/760313\/7603132004\/7603132004002.json",
+        "nama": "TPS 002, MASEWWE, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132004",
+        "tps": "7603132004003",
+        "url": "76\/7603\/760313\/7603132004\/7603132004003.json",
+        "nama": "TPS 003, MASEWWE, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132002",
+        "tps": "7603132002001",
+        "url": "76\/7603\/760313\/7603132002\/7603132002001.json",
+        "nama": "TPS 001, MINANGA, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132002",
+        "tps": "7603132002002",
+        "url": "76\/7603\/760313\/7603132002\/7603132002002.json",
+        "nama": "TPS 002, MINANGA, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132006",
+        "tps": "7603132006001",
+        "url": "76\/7603\/760313\/7603132006\/7603132006001.json",
+        "nama": "TPS 001, MINANGA TIMUR, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132006",
+        "tps": "7603132006002",
+        "url": "76\/7603\/760313\/7603132006\/7603132006002.json",
+        "nama": "TPS 002, MINANGA TIMUR, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132006",
+        "tps": "7603132006003",
+        "url": "76\/7603\/760313\/7603132006\/7603132006003.json",
+        "nama": "TPS 003, MINANGA TIMUR, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603131001",
+        "tps": "7603131001001",
+        "url": "76\/7603\/760313\/7603131001\/7603131001001.json",
+        "nama": "TPS 001, NOSU, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603131001",
+        "tps": "7603131001002",
+        "url": "76\/7603\/760313\/7603131001\/7603131001002.json",
+        "nama": "TPS 002, NOSU, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603131001",
+        "tps": "7603131001003",
+        "url": "76\/7603\/760313\/7603131001\/7603131001003.json",
+        "nama": "TPS 003, NOSU, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132007",
+        "tps": "7603132007001",
+        "url": "76\/7603\/760313\/7603132007\/7603132007001.json",
+        "nama": "TPS 001, PARINDING, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132007",
+        "tps": "7603132007002",
+        "url": "76\/7603\/760313\/7603132007\/7603132007002.json",
+        "nama": "TPS 002, PARINDING, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132005",
+        "tps": "7603132005001",
+        "url": "76\/7603\/760313\/7603132005\/7603132005001.json",
+        "nama": "TPS 001, SIWI, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760313",
+        "desa": "7603132005",
+        "tps": "7603132005002",
+        "url": "76\/7603\/760313\/7603132005\/7603132005002.json",
+        "nama": "TPS 002, SIWI, NOSU, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042009",
+        "tps": "7603042009001",
+        "url": "76\/7603\/760304\/7603042009\/7603042009001.json",
+        "nama": "TPS 001, DATUBARINGAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042009",
+        "tps": "7603042009002",
+        "url": "76\/7603\/760304\/7603042009\/7603042009002.json",
+        "nama": "TPS 002, DATUBARINGAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042009",
+        "tps": "7603042009003",
+        "url": "76\/7603\/760304\/7603042009\/7603042009003.json",
+        "nama": "TPS 003, DATUBARINGAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042012",
+        "tps": "7603042012001",
+        "url": "76\/7603\/760304\/7603042012\/7603042012001.json",
+        "nama": "TPS 001, KARAKA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042012",
+        "tps": "7603042012002",
+        "url": "76\/7603\/760304\/7603042012\/7603042012002.json",
+        "nama": "TPS 002, KARAKA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042012",
+        "tps": "7603042012003",
+        "url": "76\/7603\/760304\/7603042012\/7603042012003.json",
+        "nama": "TPS 003, KARAKA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042005",
+        "tps": "7603042005001",
+        "url": "76\/7603\/760304\/7603042005\/7603042005001.json",
+        "nama": "TPS 001, MAMULLU, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042005",
+        "tps": "7603042005002",
+        "url": "76\/7603\/760304\/7603042005\/7603042005002.json",
+        "nama": "TPS 002, MAMULLU, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042005",
+        "tps": "7603042005003",
+        "url": "76\/7603\/760304\/7603042005\/7603042005003.json",
+        "nama": "TPS 003, MAMULLU, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042003",
+        "tps": "7603042003001",
+        "url": "76\/7603\/760304\/7603042003\/7603042003001.json",
+        "nama": "TPS 001, MANIPI, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042003",
+        "tps": "7603042003002",
+        "url": "76\/7603\/760304\/7603042003\/7603042003002.json",
+        "nama": "TPS 002, MANIPI, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042003",
+        "tps": "7603042003003",
+        "url": "76\/7603\/760304\/7603042003\/7603042003003.json",
+        "nama": "TPS 003, MANIPI, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042003",
+        "tps": "7603042003004",
+        "url": "76\/7603\/760304\/7603042003\/7603042003004.json",
+        "nama": "TPS 004, MANIPI, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042003",
+        "tps": "7603042003005",
+        "url": "76\/7603\/760304\/7603042003\/7603042003005.json",
+        "nama": "TPS 005, MANIPI, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042003",
+        "tps": "7603042003006",
+        "url": "76\/7603\/760304\/7603042003\/7603042003006.json",
+        "nama": "TPS 006, MANIPI, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603041001",
+        "tps": "7603041001001",
+        "url": "76\/7603\/760304\/7603041001\/7603041001001.json",
+        "nama": "TPS 001, PANA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603041001",
+        "tps": "7603041001002",
+        "url": "76\/7603\/760304\/7603041001\/7603041001002.json",
+        "nama": "TPS 002, PANA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603041001",
+        "tps": "7603041001003",
+        "url": "76\/7603\/760304\/7603041001\/7603041001003.json",
+        "nama": "TPS 003, PANA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042010",
+        "tps": "7603042010001",
+        "url": "76\/7603\/760304\/7603042010\/7603042010001.json",
+        "nama": "TPS 001, PANURA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042010",
+        "tps": "7603042010002",
+        "url": "76\/7603\/760304\/7603042010\/7603042010002.json",
+        "nama": "TPS 002, PANURA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042010",
+        "tps": "7603042010003",
+        "url": "76\/7603\/760304\/7603042010\/7603042010003.json",
+        "nama": "TPS 003, PANURA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042010",
+        "tps": "7603042010004",
+        "url": "76\/7603\/760304\/7603042010\/7603042010004.json",
+        "nama": "TPS 004, PANURA, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042016",
+        "tps": "7603042016001",
+        "url": "76\/7603\/760304\/7603042016\/7603042016001.json",
+        "nama": "TPS 001, SALOAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042016",
+        "tps": "7603042016002",
+        "url": "76\/7603\/760304\/7603042016\/7603042016002.json",
+        "nama": "TPS 002, SALOAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042016",
+        "tps": "7603042016003",
+        "url": "76\/7603\/760304\/7603042016\/7603042016003.json",
+        "nama": "TPS 003, SALOAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042016",
+        "tps": "7603042016004",
+        "url": "76\/7603\/760304\/7603042016\/7603042016004.json",
+        "nama": "TPS 004, SALOAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042015",
+        "tps": "7603042015001",
+        "url": "76\/7603\/760304\/7603042015\/7603042015001.json",
+        "nama": "TPS 001, SALUTAMBUN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042015",
+        "tps": "7603042015002",
+        "url": "76\/7603\/760304\/7603042015\/7603042015002.json",
+        "nama": "TPS 002, SALUTAMBUN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042015",
+        "tps": "7603042015003",
+        "url": "76\/7603\/760304\/7603042015\/7603042015003.json",
+        "nama": "TPS 003, SALUTAMBUN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042006",
+        "tps": "7603042006001",
+        "url": "76\/7603\/760304\/7603042006\/7603042006001.json",
+        "nama": "TPS 001, SAPAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042006",
+        "tps": "7603042006002",
+        "url": "76\/7603\/760304\/7603042006\/7603042006002.json",
+        "nama": "TPS 002, SAPAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042011",
+        "tps": "7603042011001",
+        "url": "76\/7603\/760304\/7603042011\/7603042011001.json",
+        "nama": "TPS 001, TALLANG BULAWAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042011",
+        "tps": "7603042011002",
+        "url": "76\/7603\/760304\/7603042011\/7603042011002.json",
+        "nama": "TPS 002, TALLANG BULAWAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042011",
+        "tps": "7603042011003",
+        "url": "76\/7603\/760304\/7603042011\/7603042011003.json",
+        "nama": "TPS 003, TALLANG BULAWAN, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042013",
+        "tps": "7603042013001",
+        "url": "76\/7603\/760304\/7603042013\/7603042013001.json",
+        "nama": "TPS 001, ULUSALU, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042013",
+        "tps": "7603042013002",
+        "url": "76\/7603\/760304\/7603042013\/7603042013002.json",
+        "nama": "TPS 002, ULUSALU, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042013",
+        "tps": "7603042013003",
+        "url": "76\/7603\/760304\/7603042013\/7603042013003.json",
+        "nama": "TPS 003, ULUSALU, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042017",
+        "tps": "7603042017001",
+        "url": "76\/7603\/760304\/7603042017\/7603042017001.json",
+        "nama": "TPS 001, ULUSALU INDAH, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042017",
+        "tps": "7603042017002",
+        "url": "76\/7603\/760304\/7603042017\/7603042017002.json",
+        "nama": "TPS 002, ULUSALU INDAH, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042014",
+        "tps": "7603042014001",
+        "url": "76\/7603\/760304\/7603042014\/7603042014001.json",
+        "nama": "TPS 001, WERI, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760304",
+        "desa": "7603042014",
+        "tps": "7603042014002",
+        "url": "76\/7603\/760304\/7603042014\/7603042014002.json",
+        "nama": "TPS 002, WERI, PANA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152005",
+        "tps": "7603152005001",
+        "url": "76\/7603\/760315\/7603152005\/7603152005001.json",
+        "nama": "TPS 001, BAMBANG BUDA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152005",
+        "tps": "7603152005002",
+        "url": "76\/7603\/760315\/7603152005\/7603152005002.json",
+        "nama": "TPS 002, BAMBANG BUDA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152005",
+        "tps": "7603152005003",
+        "url": "76\/7603\/760315\/7603152005\/7603152005003.json",
+        "nama": "TPS 003, BAMBANG BUDA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152005",
+        "tps": "7603152005004",
+        "url": "76\/7603\/760315\/7603152005\/7603152005004.json",
+        "nama": "TPS 004, BAMBANG BUDA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152004",
+        "tps": "7603152004001",
+        "url": "76\/7603\/760315\/7603152004\/7603152004001.json",
+        "nama": "TPS 001, BUANGIN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152004",
+        "tps": "7603152004002",
+        "url": "76\/7603\/760315\/7603152004\/7603152004002.json",
+        "nama": "TPS 002, BUANGIN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152004",
+        "tps": "7603152004003",
+        "url": "76\/7603\/760315\/7603152004\/7603152004003.json",
+        "nama": "TPS 003, BUANGIN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152004",
+        "tps": "7603152004004",
+        "url": "76\/7603\/760315\/7603152004\/7603152004004.json",
+        "nama": "TPS 004, BUANGIN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152007",
+        "tps": "7603152007001",
+        "url": "76\/7603\/760315\/7603152007\/7603152007001.json",
+        "nama": "TPS 001, KIRAK, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152007",
+        "tps": "7603152007002",
+        "url": "76\/7603\/760315\/7603152007\/7603152007002.json",
+        "nama": "TPS 002, KIRAK, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152007",
+        "tps": "7603152007003",
+        "url": "76\/7603\/760315\/7603152007\/7603152007003.json",
+        "nama": "TPS 003, KIRAK, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152006",
+        "tps": "7603152006001",
+        "url": "76\/7603\/760315\/7603152006\/7603152006001.json",
+        "nama": "TPS 001, LEKO, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152001",
+        "tps": "7603152001001",
+        "url": "76\/7603\/760315\/7603152001\/7603152001001.json",
+        "nama": "TPS 001, SALUMOKANAN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152001",
+        "tps": "7603152001002",
+        "url": "76\/7603\/760315\/7603152001\/7603152001002.json",
+        "nama": "TPS 002, SALUMOKANAN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152001",
+        "tps": "7603152001003",
+        "url": "76\/7603\/760315\/7603152001\/7603152001003.json",
+        "nama": "TPS 003, SALUMOKANAN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152001",
+        "tps": "7603152001004",
+        "url": "76\/7603\/760315\/7603152001\/7603152001004.json",
+        "nama": "TPS 004, SALUMOKANAN, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152003",
+        "tps": "7603152003001",
+        "url": "76\/7603\/760315\/7603152003\/7603152003001.json",
+        "nama": "TPS 001, SALUMOKANAN BARAT, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152003",
+        "tps": "7603152003002",
+        "url": "76\/7603\/760315\/7603152003\/7603152003002.json",
+        "nama": "TPS 002, SALUMOKANAN BARAT, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152003",
+        "tps": "7603152003003",
+        "url": "76\/7603\/760315\/7603152003\/7603152003003.json",
+        "nama": "TPS 003, SALUMOKANAN BARAT, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152003",
+        "tps": "7603152003004",
+        "url": "76\/7603\/760315\/7603152003\/7603152003004.json",
+        "nama": "TPS 004, SALUMOKANAN BARAT, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152008",
+        "tps": "7603152008001",
+        "url": "76\/7603\/760315\/7603152008\/7603152008001.json",
+        "nama": "TPS 001, SALUMOKANAN UTARA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152008",
+        "tps": "7603152008002",
+        "url": "76\/7603\/760315\/7603152008\/7603152008002.json",
+        "nama": "TPS 002, SALUMOKANAN UTARA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152008",
+        "tps": "7603152008003",
+        "url": "76\/7603\/760315\/7603152008\/7603152008003.json",
+        "nama": "TPS 003, SALUMOKANAN UTARA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152008",
+        "tps": "7603152008004",
+        "url": "76\/7603\/760315\/7603152008\/7603152008004.json",
+        "nama": "TPS 004, SALUMOKANAN UTARA, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760315",
+        "desa": "7603152009",
+        "tps": "7603152009001",
+        "url": "76\/7603\/760315\/7603152009\/7603152009001.json",
+        "nama": "TPS 001, SAMPALE, RANTEBULAHAN TIMUR, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082008",
+        "tps": "7603082008001",
+        "url": "76\/7603\/760308\/7603082008\/7603082008001.json",
+        "nama": "TPS 001, LISUAN ADA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082008",
+        "tps": "7603082008002",
+        "url": "76\/7603\/760308\/7603082008\/7603082008002.json",
+        "nama": "TPS 002, LISUAN ADA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082008",
+        "tps": "7603082008003",
+        "url": "76\/7603\/760308\/7603082008\/7603082008003.json",
+        "nama": "TPS 003, LISUAN ADA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082008",
+        "tps": "7603082008004",
+        "url": "76\/7603\/760308\/7603082008\/7603082008004.json",
+        "nama": "TPS 004, LISUAN ADA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082012",
+        "tps": "7603082012001",
+        "url": "76\/7603\/760308\/7603082012\/7603082012001.json",
+        "nama": "TPS 001, MALANGKENA PADANG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082012",
+        "tps": "7603082012002",
+        "url": "76\/7603\/760308\/7603082012\/7603082012002.json",
+        "nama": "TPS 002, MALANGKENA PADANG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082012",
+        "tps": "7603082012003",
+        "url": "76\/7603\/760308\/7603082012\/7603082012003.json",
+        "nama": "TPS 003, MALANGKENA PADANG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082012",
+        "tps": "7603082012004",
+        "url": "76\/7603\/760308\/7603082012\/7603082012004.json",
+        "nama": "TPS 004, MALANGKENA PADANG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082013",
+        "tps": "7603082013001",
+        "url": "76\/7603\/760308\/7603082013\/7603082013001.json",
+        "nama": "TPS 001, MALIMBONG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082013",
+        "tps": "7603082013002",
+        "url": "76\/7603\/760308\/7603082013\/7603082013002.json",
+        "nama": "TPS 002, MALIMBONG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082014",
+        "tps": "7603082014001",
+        "url": "76\/7603\/760308\/7603082014\/7603082014001.json",
+        "nama": "TPS 001, MARAMPAN OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082014",
+        "tps": "7603082014002",
+        "url": "76\/7603\/760308\/7603082014\/7603082014002.json",
+        "nama": "TPS 002, MARAMPAN OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082014",
+        "tps": "7603082014003",
+        "url": "76\/7603\/760308\/7603082014\/7603082014003.json",
+        "nama": "TPS 003, MARAMPAN OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082002",
+        "tps": "7603082002001",
+        "url": "76\/7603\/760308\/7603082002\/7603082002001.json",
+        "nama": "TPS 001, OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082002",
+        "tps": "7603082002002",
+        "url": "76\/7603\/760308\/7603082002\/7603082002002.json",
+        "nama": "TPS 002, OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082002",
+        "tps": "7603082002003",
+        "url": "76\/7603\/760308\/7603082002\/7603082002003.json",
+        "nama": "TPS 003, OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082002",
+        "tps": "7603082002004",
+        "url": "76\/7603\/760308\/7603082002\/7603082002004.json",
+        "nama": "TPS 004, OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082002",
+        "tps": "7603082002005",
+        "url": "76\/7603\/760308\/7603082002\/7603082002005.json",
+        "nama": "TPS 005, OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082002",
+        "tps": "7603082002006",
+        "url": "76\/7603\/760308\/7603082002\/7603082002006.json",
+        "nama": "TPS 006, OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082002",
+        "tps": "7603082002007",
+        "url": "76\/7603\/760308\/7603082002\/7603082002007.json",
+        "nama": "TPS 007, OROBUA, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082010",
+        "tps": "7603082010001",
+        "url": "76\/7603\/760308\/7603082010\/7603082010001.json",
+        "nama": "TPS 001, OROBUA SELATAN, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082010",
+        "tps": "7603082010002",
+        "url": "76\/7603\/760308\/7603082010\/7603082010002.json",
+        "nama": "TPS 002, OROBUA SELATAN, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082010",
+        "tps": "7603082010003",
+        "url": "76\/7603\/760308\/7603082010\/7603082010003.json",
+        "nama": "TPS 003, OROBUA SELATAN, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082010",
+        "tps": "7603082010004",
+        "url": "76\/7603\/760308\/7603082010\/7603082010004.json",
+        "nama": "TPS 004, OROBUA SELATAN, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082004",
+        "tps": "7603082004001",
+        "url": "76\/7603\/760308\/7603082004\/7603082004001.json",
+        "nama": "TPS 001, OROBUA TIMUR, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082004",
+        "tps": "7603082004002",
+        "url": "76\/7603\/760308\/7603082004\/7603082004002.json",
+        "nama": "TPS 002, OROBUA TIMUR, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082004",
+        "tps": "7603082004003",
+        "url": "76\/7603\/760308\/7603082004\/7603082004003.json",
+        "nama": "TPS 003, OROBUA TIMUR, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082004",
+        "tps": "7603082004004",
+        "url": "76\/7603\/760308\/7603082004\/7603082004004.json",
+        "nama": "TPS 004, OROBUA TIMUR, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082004",
+        "tps": "7603082004005",
+        "url": "76\/7603\/760308\/7603082004\/7603082004005.json",
+        "nama": "TPS 005, OROBUA TIMUR, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082003",
+        "tps": "7603082003001",
+        "url": "76\/7603\/760308\/7603082003\/7603082003001.json",
+        "nama": "TPS 001, PALADAN, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082003",
+        "tps": "7603082003002",
+        "url": "76\/7603\/760308\/7603082003\/7603082003002.json",
+        "nama": "TPS 002, PALADAN, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082003",
+        "tps": "7603082003003",
+        "url": "76\/7603\/760308\/7603082003\/7603082003003.json",
+        "nama": "TPS 003, PALADAN, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082006",
+        "tps": "7603082006001",
+        "url": "76\/7603\/760308\/7603082006\/7603082006001.json",
+        "nama": "TPS 001, RANTE PUANG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082006",
+        "tps": "7603082006002",
+        "url": "76\/7603\/760308\/7603082006\/7603082006002.json",
+        "nama": "TPS 002, RANTE PUANG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082006",
+        "tps": "7603082006003",
+        "url": "76\/7603\/760308\/7603082006\/7603082006003.json",
+        "nama": "TPS 003, RANTE PUANG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082006",
+        "tps": "7603082006004",
+        "url": "76\/7603\/760308\/7603082006\/7603082006004.json",
+        "nama": "TPS 004, RANTE PUANG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082006",
+        "tps": "7603082006005",
+        "url": "76\/7603\/760308\/7603082006\/7603082006005.json",
+        "nama": "TPS 005, RANTE PUANG, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082007",
+        "tps": "7603082007001",
+        "url": "76\/7603\/760308\/7603082007\/7603082007001.json",
+        "nama": "TPS 001, SATENETEAN, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760308",
+        "desa": "7603082007",
+        "tps": "7603082007002",
+        "url": "76\/7603\/760308\/7603082007\/7603082007002.json",
+        "nama": "TPS 002, SATENETEAN, SESENAPADANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062009",
+        "tps": "7603062009001",
+        "url": "76\/7603\/760306\/7603062009\/7603062009001.json",
+        "nama": "TPS 001, BANEA, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062009",
+        "tps": "7603062009002",
+        "url": "76\/7603\/760306\/7603062009\/7603062009002.json",
+        "nama": "TPS 002, BANEA, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062009",
+        "tps": "7603062009003",
+        "url": "76\/7603\/760306\/7603062009\/7603062009003.json",
+        "nama": "TPS 003, BANEA, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062003",
+        "tps": "7603062003001",
+        "url": "76\/7603\/760306\/7603062003\/7603062003001.json",
+        "nama": "TPS 001, BATANG URU, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062003",
+        "tps": "7603062003002",
+        "url": "76\/7603\/760306\/7603062003\/7603062003002.json",
+        "nama": "TPS 002, BATANG URU, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062003",
+        "tps": "7603062003003",
+        "url": "76\/7603\/760306\/7603062003\/7603062003003.json",
+        "nama": "TPS 003, BATANG URU, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062003",
+        "tps": "7603062003004",
+        "url": "76\/7603\/760306\/7603062003\/7603062003004.json",
+        "nama": "TPS 004, BATANG URU, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062007",
+        "tps": "7603062007001",
+        "url": "76\/7603\/760306\/7603062007\/7603062007001.json",
+        "nama": "TPS 001, BATANGNGURU TIMUR, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062007",
+        "tps": "7603062007002",
+        "url": "76\/7603\/760306\/7603062007\/7603062007002.json",
+        "nama": "TPS 002, BATANGNGURU TIMUR, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062007",
+        "tps": "7603062007003",
+        "url": "76\/7603\/760306\/7603062007\/7603062007003.json",
+        "nama": "TPS 003, BATANGNGURU TIMUR, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062010",
+        "tps": "7603062010001",
+        "url": "76\/7603\/760306\/7603062010\/7603062010001.json",
+        "nama": "TPS 001, RANTE KAMASE, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062010",
+        "tps": "7603062010002",
+        "url": "76\/7603\/760306\/7603062010\/7603062010002.json",
+        "nama": "TPS 002, RANTE KAMASE, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062010",
+        "tps": "7603062010003",
+        "url": "76\/7603\/760306\/7603062010\/7603062010003.json",
+        "nama": "TPS 003, RANTE KAMASE, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062010",
+        "tps": "7603062010004",
+        "url": "76\/7603\/760306\/7603062010\/7603062010004.json",
+        "nama": "TPS 004, RANTE KAMASE, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062008",
+        "tps": "7603062008001",
+        "url": "76\/7603\/760306\/7603062008\/7603062008001.json",
+        "nama": "TPS 001, SALUBALO, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062008",
+        "tps": "7603062008002",
+        "url": "76\/7603\/760306\/7603062008\/7603062008002.json",
+        "nama": "TPS 002, SALUBALO, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062008",
+        "tps": "7603062008003",
+        "url": "76\/7603\/760306\/7603062008\/7603062008003.json",
+        "nama": "TPS 003, SALUBALO, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062004",
+        "tps": "7603062004001",
+        "url": "76\/7603\/760306\/7603062004\/7603062004001.json",
+        "nama": "TPS 001, SASAKAN, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062004",
+        "tps": "7603062004002",
+        "url": "76\/7603\/760306\/7603062004\/7603062004002.json",
+        "nama": "TPS 002, SASAKAN, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062004",
+        "tps": "7603062004003",
+        "url": "76\/7603\/760306\/7603062004\/7603062004003.json",
+        "nama": "TPS 003, SASAKAN, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062004",
+        "tps": "7603062004004",
+        "url": "76\/7603\/760306\/7603062004\/7603062004004.json",
+        "nama": "TPS 004, SASAKAN, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062004",
+        "tps": "7603062004005",
+        "url": "76\/7603\/760306\/7603062004\/7603062004005.json",
+        "nama": "TPS 005, SASAKAN, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062006",
+        "tps": "7603062006001",
+        "url": "76\/7603\/760306\/7603062006\/7603062006001.json",
+        "nama": "TPS 001, SIBANAWA, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062006",
+        "tps": "7603062006002",
+        "url": "76\/7603\/760306\/7603062006\/7603062006002.json",
+        "nama": "TPS 002, SIBANAWA, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062006",
+        "tps": "7603062006003",
+        "url": "76\/7603\/760306\/7603062006\/7603062006003.json",
+        "nama": "TPS 003, SIBANAWA, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062006",
+        "tps": "7603062006004",
+        "url": "76\/7603\/760306\/7603062006\/7603062006004.json",
+        "nama": "TPS 004, SIBANAWA, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603061001",
+        "tps": "7603061001001",
+        "url": "76\/7603\/760306\/7603061001\/7603061001001.json",
+        "nama": "TPS 001, SUMARORONG, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603061001",
+        "tps": "7603061001002",
+        "url": "76\/7603\/760306\/7603061001\/7603061001002.json",
+        "nama": "TPS 002, SUMARORONG, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603061001",
+        "tps": "7603061001003",
+        "url": "76\/7603\/760306\/7603061001\/7603061001003.json",
+        "nama": "TPS 003, SUMARORONG, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603061001",
+        "tps": "7603061001004",
+        "url": "76\/7603\/760306\/7603061001\/7603061001004.json",
+        "nama": "TPS 004, SUMARORONG, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603061002",
+        "tps": "7603061002001",
+        "url": "76\/7603\/760306\/7603061002\/7603061002001.json",
+        "nama": "TPS 001, TABONE, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603061002",
+        "tps": "7603061002002",
+        "url": "76\/7603\/760306\/7603061002\/7603061002002.json",
+        "nama": "TPS 002, TABONE, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603061002",
+        "tps": "7603061002003",
+        "url": "76\/7603\/760306\/7603061002\/7603061002003.json",
+        "nama": "TPS 003, TABONE, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603061002",
+        "tps": "7603061002004",
+        "url": "76\/7603\/760306\/7603061002\/7603061002004.json",
+        "nama": "TPS 004, TABONE, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062005",
+        "tps": "7603062005001",
+        "url": "76\/7603\/760306\/7603062005\/7603062005001.json",
+        "nama": "TPS 001, TADISI, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062005",
+        "tps": "7603062005002",
+        "url": "76\/7603\/760306\/7603062005\/7603062005002.json",
+        "nama": "TPS 002, TADISI, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062005",
+        "tps": "7603062005003",
+        "url": "76\/7603\/760306\/7603062005\/7603062005003.json",
+        "nama": "TPS 003, TADISI, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062005",
+        "tps": "7603062005004",
+        "url": "76\/7603\/760306\/7603062005\/7603062005004.json",
+        "nama": "TPS 004, TADISI, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760306",
+        "desa": "7603062005",
+        "tps": "7603062005005",
+        "url": "76\/7603\/760306\/7603062005\/7603062005005.json",
+        "nama": "TPS 005, TADISI, SUMARORONG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102007",
+        "tps": "7603102007001",
+        "url": "76\/7603\/760310\/7603102007\/7603102007001.json",
+        "nama": "TPS 001, BAKADISURA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102007",
+        "tps": "7603102007002",
+        "url": "76\/7603\/760310\/7603102007\/7603102007002.json",
+        "nama": "TPS 002, BAKADISURA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102007",
+        "tps": "7603102007003",
+        "url": "76\/7603\/760310\/7603102007\/7603102007003.json",
+        "nama": "TPS 003, BAKADISURA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102007",
+        "tps": "7603102007004",
+        "url": "76\/7603\/760310\/7603102007\/7603102007004.json",
+        "nama": "TPS 004, BAKADISURA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102006",
+        "tps": "7603102006001",
+        "url": "76\/7603\/760310\/7603102006\/7603102006001.json",
+        "nama": "TPS 001, KALAMA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102006",
+        "tps": "7603102006002",
+        "url": "76\/7603\/760310\/7603102006\/7603102006002.json",
+        "nama": "TPS 002, KALAMA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102006",
+        "tps": "7603102006003",
+        "url": "76\/7603\/760310\/7603102006\/7603102006003.json",
+        "nama": "TPS 003, KALAMA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102005",
+        "tps": "7603102005001",
+        "url": "76\/7603\/760310\/7603102005\/7603102005001.json",
+        "nama": "TPS 001, MASUPU, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102005",
+        "tps": "7603102005002",
+        "url": "76\/7603\/760310\/7603102005\/7603102005002.json",
+        "nama": "TPS 002, MASUPU, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102005",
+        "tps": "7603102005003",
+        "url": "76\/7603\/760310\/7603102005\/7603102005003.json",
+        "nama": "TPS 003, MASUPU, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102008",
+        "tps": "7603102008001",
+        "url": "76\/7603\/760310\/7603102008\/7603102008001.json",
+        "nama": "TPS 001, SALUKONA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102008",
+        "tps": "7603102008002",
+        "url": "76\/7603\/760310\/7603102008\/7603102008002.json",
+        "nama": "TPS 002, SALUKONA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102008",
+        "tps": "7603102008003",
+        "url": "76\/7603\/760310\/7603102008\/7603102008003.json",
+        "nama": "TPS 003, SALUKONA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102008",
+        "tps": "7603102008004",
+        "url": "76\/7603\/760310\/7603102008\/7603102008004.json",
+        "nama": "TPS 004, SALUKONA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603101001",
+        "tps": "7603101001001",
+        "url": "76\/7603\/760310\/7603101001\/7603101001001.json",
+        "nama": "TPS 001, TABANG, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603101001",
+        "tps": "7603101001002",
+        "url": "76\/7603\/760310\/7603101001\/7603101001002.json",
+        "nama": "TPS 002, TABANG, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603101001",
+        "tps": "7603101001003",
+        "url": "76\/7603\/760310\/7603101001\/7603101001003.json",
+        "nama": "TPS 003, TABANG, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603101001",
+        "tps": "7603101001004",
+        "url": "76\/7603\/760310\/7603101001\/7603101001004.json",
+        "nama": "TPS 004, TABANG, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102004",
+        "tps": "7603102004001",
+        "url": "76\/7603\/760310\/7603102004\/7603102004001.json",
+        "nama": "TPS 001, TABANG BARAT, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102004",
+        "tps": "7603102004002",
+        "url": "76\/7603\/760310\/7603102004\/7603102004002.json",
+        "nama": "TPS 002, TABANG BARAT, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102004",
+        "tps": "7603102004003",
+        "url": "76\/7603\/760310\/7603102004\/7603102004003.json",
+        "nama": "TPS 003, TABANG BARAT, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102004",
+        "tps": "7603102004004",
+        "url": "76\/7603\/760310\/7603102004\/7603102004004.json",
+        "nama": "TPS 004, TABANG BARAT, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102004",
+        "tps": "7603102004005",
+        "url": "76\/7603\/760310\/7603102004\/7603102004005.json",
+        "nama": "TPS 005, TABANG BARAT, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102003",
+        "tps": "7603102003001",
+        "url": "76\/7603\/760310\/7603102003\/7603102003001.json",
+        "nama": "TPS 001, TADOKALUA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102003",
+        "tps": "7603102003002",
+        "url": "76\/7603\/760310\/7603102003\/7603102003002.json",
+        "nama": "TPS 002, TADOKALUA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102003",
+        "tps": "7603102003003",
+        "url": "76\/7603\/760310\/7603102003\/7603102003003.json",
+        "nama": "TPS 003, TADOKALUA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102003",
+        "tps": "7603102003004",
+        "url": "76\/7603\/760310\/7603102003\/7603102003004.json",
+        "nama": "TPS 004, TADOKALUA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760310",
+        "desa": "7603102003",
+        "tps": "7603102003005",
+        "url": "76\/7603\/760310\/7603102003\/7603102003005.json",
+        "nama": "TPS 005, TADOKALUA, TABANG, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052009",
+        "tps": "7603052009001",
+        "url": "76\/7603\/760305\/7603052009\/7603052009001.json",
+        "nama": "TPS 001, BURANA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052009",
+        "tps": "7603052009002",
+        "url": "76\/7603\/760305\/7603052009\/7603052009002.json",
+        "nama": "TPS 002, BURANA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052009",
+        "tps": "7603052009003",
+        "url": "76\/7603\/760305\/7603052009\/7603052009003.json",
+        "nama": "TPS 003, BURANA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052008",
+        "tps": "7603052008001",
+        "url": "76\/7603\/760305\/7603052008\/7603052008001.json",
+        "nama": "TPS 001, GANDANG DEWATA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052008",
+        "tps": "7603052008002",
+        "url": "76\/7603\/760305\/7603052008\/7603052008002.json",
+        "nama": "TPS 002, GANDANG DEWATA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603051001",
+        "tps": "7603051001001",
+        "url": "76\/7603\/760305\/7603051001\/7603051001001.json",
+        "nama": "TPS 001, LAKAHANG, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603051001",
+        "tps": "7603051001002",
+        "url": "76\/7603\/760305\/7603051001\/7603051001002.json",
+        "nama": "TPS 002, LAKAHANG, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603051001",
+        "tps": "7603051001003",
+        "url": "76\/7603\/760305\/7603051001\/7603051001003.json",
+        "nama": "TPS 003, LAKAHANG, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603051001",
+        "tps": "7603051001004",
+        "url": "76\/7603\/760305\/7603051001\/7603051001004.json",
+        "nama": "TPS 004, LAKAHANG, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603051001",
+        "tps": "7603051001005",
+        "url": "76\/7603\/760305\/7603051001\/7603051001005.json",
+        "nama": "TPS 005, LAKAHANG, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603051001",
+        "tps": "7603051001006",
+        "url": "76\/7603\/760305\/7603051001\/7603051001006.json",
+        "nama": "TPS 006, LAKAHANG, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052015",
+        "tps": "7603052015001",
+        "url": "76\/7603\/760305\/7603052015\/7603052015001.json",
+        "nama": "TPS 001, LAKAHANG UTAMA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052015",
+        "tps": "7603052015002",
+        "url": "76\/7603\/760305\/7603052015\/7603052015002.json",
+        "nama": "TPS 002, LAKAHANG UTAMA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052015",
+        "tps": "7603052015003",
+        "url": "76\/7603\/760305\/7603052015\/7603052015003.json",
+        "nama": "TPS 003, LAKAHANG UTAMA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052003",
+        "tps": "7603052003001",
+        "url": "76\/7603\/760305\/7603052003\/7603052003001.json",
+        "nama": "TPS 001, MALATIRO, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052003",
+        "tps": "7603052003002",
+        "url": "76\/7603\/760305\/7603052003\/7603052003002.json",
+        "nama": "TPS 002, MALATIRO, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052003",
+        "tps": "7603052003003",
+        "url": "76\/7603\/760305\/7603052003\/7603052003003.json",
+        "nama": "TPS 003, MALATIRO, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052003",
+        "tps": "7603052003004",
+        "url": "76\/7603\/760305\/7603052003\/7603052003004.json",
+        "nama": "TPS 004, MALATIRO, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052003",
+        "tps": "7603052003005",
+        "url": "76\/7603\/760305\/7603052003\/7603052003005.json",
+        "nama": "TPS 005, MALATIRO, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052003",
+        "tps": "7603052003006",
+        "url": "76\/7603\/760305\/7603052003\/7603052003006.json",
+        "nama": "TPS 006, MALATIRO, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052011",
+        "tps": "7603052011001",
+        "url": "76\/7603\/760305\/7603052011\/7603052011001.json",
+        "nama": "TPS 001, PANGANDARAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052011",
+        "tps": "7603052011002",
+        "url": "76\/7603\/760305\/7603052011\/7603052011002.json",
+        "nama": "TPS 002, PANGANDARAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052011",
+        "tps": "7603052011003",
+        "url": "76\/7603\/760305\/7603052011\/7603052011003.json",
+        "nama": "TPS 003, PANGANDARAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052011",
+        "tps": "7603052011004",
+        "url": "76\/7603\/760305\/7603052011\/7603052011004.json",
+        "nama": "TPS 004, PANGANDARAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052011",
+        "tps": "7603052011005",
+        "url": "76\/7603\/760305\/7603052011\/7603052011005.json",
+        "nama": "TPS 005, PANGANDARAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052002",
+        "tps": "7603052002001",
+        "url": "76\/7603\/760305\/7603052002\/7603052002001.json",
+        "nama": "TPS 001, PERIANGAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052002",
+        "tps": "7603052002002",
+        "url": "76\/7603\/760305\/7603052002\/7603052002002.json",
+        "nama": "TPS 002, PERIANGAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052002",
+        "tps": "7603052002003",
+        "url": "76\/7603\/760305\/7603052002\/7603052002003.json",
+        "nama": "TPS 003, PERIANGAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052013",
+        "tps": "7603052013001",
+        "url": "76\/7603\/760305\/7603052013\/7603052013001.json",
+        "nama": "TPS 001, PEU', TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052013",
+        "tps": "7603052013002",
+        "url": "76\/7603\/760305\/7603052013\/7603052013002.json",
+        "nama": "TPS 002, PEU', TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052010",
+        "tps": "7603052010001",
+        "url": "76\/7603\/760305\/7603052010\/7603052010001.json",
+        "nama": "TPS 001, SALUBAKKA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052010",
+        "tps": "7603052010002",
+        "url": "76\/7603\/760305\/7603052010\/7603052010002.json",
+        "nama": "TPS 002, SALUBAKKA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052005",
+        "tps": "7603052005001",
+        "url": "76\/7603\/760305\/7603052005\/7603052005001.json",
+        "nama": "TPS 001, SALULEANG, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052005",
+        "tps": "7603052005002",
+        "url": "76\/7603\/760305\/7603052005\/7603052005002.json",
+        "nama": "TPS 002, SALULEANG, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052004",
+        "tps": "7603052004001",
+        "url": "76\/7603\/760305\/7603052004\/7603052004001.json",
+        "nama": "TPS 001, TABULAHAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052004",
+        "tps": "7603052004002",
+        "url": "76\/7603\/760305\/7603052004\/7603052004002.json",
+        "nama": "TPS 002, TABULAHAN, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052012",
+        "tps": "7603052012001",
+        "url": "76\/7603\/760305\/7603052012\/7603052012001.json",
+        "nama": "TPS 001, TALOPAK, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052012",
+        "tps": "7603052012002",
+        "url": "76\/7603\/760305\/7603052012\/7603052012002.json",
+        "nama": "TPS 002, TALOPAK, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052007",
+        "tps": "7603052007001",
+        "url": "76\/7603\/760305\/7603052007\/7603052007001.json",
+        "nama": "TPS 001, TAMPAK KURRA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052007",
+        "tps": "7603052007002",
+        "url": "76\/7603\/760305\/7603052007\/7603052007002.json",
+        "nama": "TPS 002, TAMPAK KURRA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052007",
+        "tps": "7603052007003",
+        "url": "76\/7603\/760305\/7603052007\/7603052007003.json",
+        "nama": "TPS 003, TAMPAK KURRA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052007",
+        "tps": "7603052007004",
+        "url": "76\/7603\/760305\/7603052007\/7603052007004.json",
+        "nama": "TPS 004, TAMPAK KURRA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052007",
+        "tps": "7603052007005",
+        "url": "76\/7603\/760305\/7603052007\/7603052007005.json",
+        "nama": "TPS 005, TAMPAK KURRA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052007",
+        "tps": "7603052007006",
+        "url": "76\/7603\/760305\/7603052007\/7603052007006.json",
+        "nama": "TPS 006, TAMPAK KURRA, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052014",
+        "tps": "7603052014001",
+        "url": "76\/7603\/760305\/7603052014\/7603052014001.json",
+        "nama": "TPS 001, TIMORO, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760305",
+        "desa": "7603052014",
+        "tps": "7603052014002",
+        "url": "76\/7603\/760305\/7603052014\/7603052014002.json",
+        "nama": "TPS 002, TIMORO, TABULAHAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092010",
+        "tps": "7603092010001",
+        "url": "76\/7603\/760309\/7603092010\/7603092010001.json",
+        "nama": "TPS 001, BALLABATU, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092010",
+        "tps": "7603092010002",
+        "url": "76\/7603\/760309\/7603092010\/7603092010002.json",
+        "nama": "TPS 002, BALLABATU, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092010",
+        "tps": "7603092010003",
+        "url": "76\/7603\/760309\/7603092010\/7603092010003.json",
+        "nama": "TPS 003, BALLABATU, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092015",
+        "tps": "7603092015001",
+        "url": "76\/7603\/760309\/7603092015\/7603092015001.json",
+        "nama": "TPS 001, KANAN, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092015",
+        "tps": "7603092015002",
+        "url": "76\/7603\/760309\/7603092015\/7603092015002.json",
+        "nama": "TPS 002, KANAN, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092015",
+        "tps": "7603092015003",
+        "url": "76\/7603\/760309\/7603092015\/7603092015003.json",
+        "nama": "TPS 003, KANAN, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092001",
+        "tps": "7603092001001",
+        "url": "76\/7603\/760309\/7603092001\/7603092001001.json",
+        "nama": "TPS 001, MALABO, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092001",
+        "tps": "7603092001002",
+        "url": "76\/7603\/760309\/7603092001\/7603092001002.json",
+        "nama": "TPS 002, MALABO, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092001",
+        "tps": "7603092001003",
+        "url": "76\/7603\/760309\/7603092001\/7603092001003.json",
+        "nama": "TPS 003, MALABO, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092008",
+        "tps": "7603092008001",
+        "url": "76\/7603\/760309\/7603092008\/7603092008001.json",
+        "nama": "TPS 001, MANNABABA, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092008",
+        "tps": "7603092008002",
+        "url": "76\/7603\/760309\/7603092008\/7603092008002.json",
+        "nama": "TPS 002, MANNABABA, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092009",
+        "tps": "7603092009001",
+        "url": "76\/7603\/760309\/7603092009\/7603092009001.json",
+        "nama": "TPS 001, MESAKADA, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092009",
+        "tps": "7603092009002",
+        "url": "76\/7603\/760309\/7603092009\/7603092009002.json",
+        "nama": "TPS 002, MESAKADA, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092009",
+        "tps": "7603092009003",
+        "url": "76\/7603\/760309\/7603092009\/7603092009003.json",
+        "nama": "TPS 003, MESAKADA, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603091011",
+        "tps": "7603091011001",
+        "url": "76\/7603\/760309\/7603091011\/7603091011001.json",
+        "nama": "TPS 001, MINAKE, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603091011",
+        "tps": "7603091011002",
+        "url": "76\/7603\/760309\/7603091011\/7603091011002.json",
+        "nama": "TPS 002, MINAKE, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603091011",
+        "tps": "7603091011003",
+        "url": "76\/7603\/760309\/7603091011\/7603091011003.json",
+        "nama": "TPS 003, MINAKE, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603091011",
+        "tps": "7603091011004",
+        "url": "76\/7603\/760309\/7603091011\/7603091011004.json",
+        "nama": "TPS 004, MINAKE, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092012",
+        "tps": "7603092012001",
+        "url": "76\/7603\/760309\/7603092012\/7603092012001.json",
+        "nama": "TPS 001, PAMBE, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092012",
+        "tps": "7603092012002",
+        "url": "76\/7603\/760309\/7603092012\/7603092012002.json",
+        "nama": "TPS 002, PAMBE, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092012",
+        "tps": "7603092012003",
+        "url": "76\/7603\/760309\/7603092012\/7603092012003.json",
+        "nama": "TPS 003, PAMBE, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092006",
+        "tps": "7603092006001",
+        "url": "76\/7603\/760309\/7603092006\/7603092006001.json",
+        "nama": "TPS 001, PARONDOBULAWAN, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092006",
+        "tps": "7603092006002",
+        "url": "76\/7603\/760309\/7603092006\/7603092006002.json",
+        "nama": "TPS 002, PARONDOBULAWAN, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092006",
+        "tps": "7603092006003",
+        "url": "76\/7603\/760309\/7603092006\/7603092006003.json",
+        "nama": "TPS 003, PARONDOBULAWAN, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092006",
+        "tps": "7603092006004",
+        "url": "76\/7603\/760309\/7603092006\/7603092006004.json",
+        "nama": "TPS 004, PARONDOBULAWAN, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092013",
+        "tps": "7603092013001",
+        "url": "76\/7603\/760309\/7603092013\/7603092013001.json",
+        "nama": "TPS 001, SALURANO, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092013",
+        "tps": "7603092013002",
+        "url": "76\/7603\/760309\/7603092013\/7603092013002.json",
+        "nama": "TPS 002, SALURANO, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092013",
+        "tps": "7603092013003",
+        "url": "76\/7603\/760309\/7603092013\/7603092013003.json",
+        "nama": "TPS 003, SALURANO, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092005",
+        "tps": "7603092005001",
+        "url": "76\/7603\/760309\/7603092005\/7603092005001.json",
+        "nama": "TPS 001, SINDAGAMANIK, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092005",
+        "tps": "7603092005002",
+        "url": "76\/7603\/760309\/7603092005\/7603092005002.json",
+        "nama": "TPS 002, SINDAGAMANIK, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092005",
+        "tps": "7603092005003",
+        "url": "76\/7603\/760309\/7603092005\/7603092005003.json",
+        "nama": "TPS 003, SINDAGAMANIK, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092005",
+        "tps": "7603092005004",
+        "url": "76\/7603\/760309\/7603092005\/7603092005004.json",
+        "nama": "TPS 004, SINDAGAMANIK, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092014",
+        "tps": "7603092014001",
+        "url": "76\/7603\/760309\/7603092014\/7603092014001.json",
+        "nama": "TPS 001, TALIMBUNG, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092014",
+        "tps": "7603092014002",
+        "url": "76\/7603\/760309\/7603092014\/7603092014002.json",
+        "nama": "TPS 002, TALIMBUNG, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092014",
+        "tps": "7603092014003",
+        "url": "76\/7603\/760309\/7603092014\/7603092014003.json",
+        "nama": "TPS 003, TALIMBUNG, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092007",
+        "tps": "7603092007001",
+        "url": "76\/7603\/760309\/7603092007\/7603092007001.json",
+        "nama": "TPS 001, TAMALANTIK, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092007",
+        "tps": "7603092007002",
+        "url": "76\/7603\/760309\/7603092007\/7603092007002.json",
+        "nama": "TPS 002, TAMALANTIK, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092007",
+        "tps": "7603092007003",
+        "url": "76\/7603\/760309\/7603092007\/7603092007003.json",
+        "nama": "TPS 003, TAMALANTIK, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092007",
+        "tps": "7603092007004",
+        "url": "76\/7603\/760309\/7603092007\/7603092007004.json",
+        "nama": "TPS 004, TAMALANTIK, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760309",
+        "desa": "7603092007",
+        "tps": "7603092007005",
+        "url": "76\/7603\/760309\/7603092007\/7603092007005.json",
+        "nama": "TPS 005, TAMALANTIK, TANDUK KALUA, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142003",
+        "tps": "7603142003001",
+        "url": "76\/7603\/760314\/7603142003\/7603142003001.json",
+        "nama": "TPS 001, KARIANGO, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142003",
+        "tps": "7603142003002",
+        "url": "76\/7603\/760314\/7603142003\/7603142003002.json",
+        "nama": "TPS 002, KARIANGO, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142003",
+        "tps": "7603142003003",
+        "url": "76\/7603\/760314\/7603142003\/7603142003003.json",
+        "nama": "TPS 003, KARIANGO, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142003",
+        "tps": "7603142003004",
+        "url": "76\/7603\/760314\/7603142003\/7603142003004.json",
+        "nama": "TPS 004, KARIANGO, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142003",
+        "tps": "7603142003005",
+        "url": "76\/7603\/760314\/7603142003\/7603142003005.json",
+        "nama": "TPS 005, KARIANGO, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142003",
+        "tps": "7603142003006",
+        "url": "76\/7603\/760314\/7603142003\/7603142003006.json",
+        "nama": "TPS 006, KARIANGO, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142004",
+        "tps": "7603142004001",
+        "url": "76\/7603\/760314\/7603142004\/7603142004001.json",
+        "nama": "TPS 001, RANTETANGNGA, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142004",
+        "tps": "7603142004002",
+        "url": "76\/7603\/760314\/7603142004\/7603142004002.json",
+        "nama": "TPS 002, RANTETANGNGA, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142004",
+        "tps": "7603142004003",
+        "url": "76\/7603\/760314\/7603142004\/7603142004003.json",
+        "nama": "TPS 003, RANTETANGNGA, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142004",
+        "tps": "7603142004004",
+        "url": "76\/7603\/760314\/7603142004\/7603142004004.json",
+        "nama": "TPS 004, RANTETANGNGA, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001001",
+        "url": "76\/7603\/760314\/7603141001\/7603141001001.json",
+        "nama": "TPS 001, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001002",
+        "url": "76\/7603\/760314\/7603141001\/7603141001002.json",
+        "nama": "TPS 002, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001003",
+        "url": "76\/7603\/760314\/7603141001\/7603141001003.json",
+        "nama": "TPS 003, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001004",
+        "url": "76\/7603\/760314\/7603141001\/7603141001004.json",
+        "nama": "TPS 004, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001005",
+        "url": "76\/7603\/760314\/7603141001\/7603141001005.json",
+        "nama": "TPS 005, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001006",
+        "url": "76\/7603\/760314\/7603141001\/7603141001006.json",
+        "nama": "TPS 006, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001007",
+        "url": "76\/7603\/760314\/7603141001\/7603141001007.json",
+        "nama": "TPS 007, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001008",
+        "url": "76\/7603\/760314\/7603141001\/7603141001008.json",
+        "nama": "TPS 008, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001009",
+        "url": "76\/7603\/760314\/7603141001\/7603141001009.json",
+        "nama": "TPS 009, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603141001",
+        "tps": "7603141001010",
+        "url": "76\/7603\/760314\/7603141001\/7603141001010.json",
+        "nama": "TPS 010, TAWALIAN, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142002",
+        "tps": "7603142002001",
+        "url": "76\/7603\/760314\/7603142002\/7603142002001.json",
+        "nama": "TPS 001, TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142002",
+        "tps": "7603142002002",
+        "url": "76\/7603\/760314\/7603142002\/7603142002002.json",
+        "nama": "TPS 002, TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142002",
+        "tps": "7603142002003",
+        "url": "76\/7603\/760314\/7603142002\/7603142002003.json",
+        "nama": "TPS 003, TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142002",
+        "tps": "7603142002004",
+        "url": "76\/7603\/760314\/7603142002\/7603142002004.json",
+        "nama": "TPS 004, TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142002",
+        "tps": "7603142002005",
+        "url": "76\/7603\/760314\/7603142002\/7603142002005.json",
+        "nama": "TPS 005, TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142002",
+        "tps": "7603142002006",
+        "url": "76\/7603\/760314\/7603142002\/7603142002006.json",
+        "nama": "TPS 006, TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142002",
+        "tps": "7603142002007",
+        "url": "76\/7603\/760314\/7603142002\/7603142002007.json",
+        "nama": "TPS 007, TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142002",
+        "tps": "7603142002008",
+        "url": "76\/7603\/760314\/7603142002\/7603142002008.json",
+        "nama": "TPS 008, TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7603",
+        "kecamatan": "760314",
+        "desa": "7603142002",
+        "tps": "7603142002009",
+        "url": "76\/7603\/760314\/7603142002\/7603142002009.json",
+        "nama": "TPS 009, TAWALIAN TIMUR, TAWALIAN, MAMASA, SULAWESI BARAT"
+    }
+]

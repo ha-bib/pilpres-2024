@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "76",
+        "kabupaten": "7601",
+        "kecamatan": "760107",
+        "desa": "7601072002",
+        "tps": "7601072002005",
+        "nama": "TPS 005, KARAVE, BULU TABA, PASANGKAYU, SULAWESI BARAT",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/76\/7601\/760107\/7601072002\/7601072002005"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7601",
+        "kecamatan": "760102",
+        "desa": "7601022015",
+        "tps": "7601022015002",
+        "nama": "TPS 002, AKO, PASANGKAYU, PASANGKAYU, SULAWESI BARAT",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/76\/7601\/760102\/7601022015\/7601022015002"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7601",
+        "kecamatan": "760102",
+        "desa": "7601022014",
+        "tps": "7601022014001",
+        "nama": "TPS 001, KARYA BERSAMA, PASANGKAYU, PASANGKAYU, SULAWESI BARAT",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/76\/7601\/760102\/7601022014\/7601022014001"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7601",
+        "kecamatan": "760102",
+        "desa": "7601022014",
+        "tps": "7601022014004",
+        "nama": "TPS 004, KARYA BERSAMA, PASANGKAYU, PASANGKAYU, SULAWESI BARAT",
+        "selisih": 450,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/76\/7601\/760102\/7601022014\/7601022014004"
+    }
+]

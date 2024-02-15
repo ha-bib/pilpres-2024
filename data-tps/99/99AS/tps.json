@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AS",
+        "kecamatan": "99AS01",
+        "desa": "99AS010001",
+        "tps": "99AS010001003",
+        "url": "99\/99AS\/99AS01\/99AS010001\/99AS010001003.json",
+        "nama": "KSK 001, Tripoli, Libya, Tripoli, Libya, Tripoli, Libya, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AS",
+        "kecamatan": "99AS01",
+        "desa": "99AS010001",
+        "tps": "99AS010001001",
+        "url": "99\/99AS\/99AS01\/99AS010001\/99AS010001001.json",
+        "nama": "POS 001, Tripoli, Libya, Tripoli, Libya, Tripoli, Libya, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AS",
+        "kecamatan": "99AS01",
+        "desa": "99AS010001",
+        "tps": "99AS010001002",
+        "url": "99\/99AS\/99AS01\/99AS010001\/99AS010001002.json",
+        "nama": "TPS 001, Tripoli, Libya, Tripoli, Libya, Tripoli, Libya, Luar Negeri"
+    }
+]

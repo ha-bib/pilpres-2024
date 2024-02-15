@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "91",
+        "kabupaten": "9171",
+        "kecamatan": "917103",
+        "desa": "9171031014",
+        "tps": "9171031014007",
+        "nama": "TPS 007, VIM, ABEPURA, KOTA JAYAPURA, P A P U A",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/91\/9171\/917103\/9171031014\/9171031014007"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9171",
+        "kecamatan": "917103",
+        "desa": "9171031014",
+        "tps": "9171031014023",
+        "nama": "TPS 023, VIM, ABEPURA, KOTA JAYAPURA, P A P U A",
+        "selisih": 550,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/91\/9171\/917103\/9171031014\/9171031014023"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9171",
+        "kecamatan": "917103",
+        "desa": "9171031010",
+        "tps": "9171031010002",
+        "nama": "TPS 002, YOBE, ABEPURA, KOTA JAYAPURA, P A P U A",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/91\/9171\/917103\/9171031010\/9171031010002"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9171",
+        "kecamatan": "917102",
+        "desa": "9171021001",
+        "tps": "9171021001006",
+        "nama": "TPS 006, ARGAPURA, JAYAPURA SELATAN, KOTA JAYAPURA, P A P U A",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/91\/9171\/917102\/9171021001\/9171021001006"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9171",
+        "kecamatan": "917102",
+        "desa": "9171021003",
+        "tps": "9171021003001",
+        "nama": "TPS 001, NUMBAY, JAYAPURA SELATAN, KOTA JAYAPURA, P A P U A",
+        "selisih": 20,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/91\/9171\/917102\/9171021003\/9171021003001"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9171",
+        "kecamatan": "917101",
+        "desa": "9171011005",
+        "tps": "9171011005001",
+        "nama": "TPS 001, TANJUNG RIA, JAYAPURA UTARA, KOTA JAYAPURA, P A P U A",
+        "selisih": 121,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/91\/9171\/917101\/9171011005\/9171011005001"
+    },
+    {
+        "provinsi": "91",
+        "kabupaten": "9171",
+        "kecamatan": "917102",
+        "desa": "9171021005",
+        "tps": "9171021005001",
+        "nama": "TPS 001, ENTROP, JAYAPURA SELATAN, KOTA JAYAPURA, P A P U A",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/91\/9171\/917102\/9171021005\/9171021005001"
+    }
+]

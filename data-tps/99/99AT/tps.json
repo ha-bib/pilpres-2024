@@ -1,0 +1,20 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AT",
+        "kecamatan": "99AT01",
+        "desa": "99AT010001",
+        "tps": "99AT010001001",
+        "url": "99\/99AT\/99AT01\/99AT010001\/99AT010001001.json",
+        "nama": "POS 001, Tunis, Tunisia, Tunis, Tunisia, Tunis, Tunisia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AT",
+        "kecamatan": "99AT01",
+        "desa": "99AT010001",
+        "tps": "99AT010001002",
+        "url": "99\/99AT\/99AT01\/99AT010001\/99AT010001002.json",
+        "nama": "TPS 001, Tunis, Tunisia, Tunis, Tunisia, Tunis, Tunisia, Luar Negeri"
+    }
+]

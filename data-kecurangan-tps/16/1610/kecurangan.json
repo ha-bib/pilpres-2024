@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "16",
+        "kabupaten": "1610",
+        "kecamatan": "161005",
+        "desa": "1610052031",
+        "tps": "1610052031003",
+        "nama": "TPS 003, IBUL BESAR III, PEMULUTAN, OGAN ILIR, SUMATERA SELATAN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1610\/161005\/1610052031\/1610052031003"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1610",
+        "kecamatan": "161005",
+        "desa": "1610052029",
+        "tps": "1610052029004",
+        "nama": "TPS 004, S. PELABUHAN DLM, PEMULUTAN, OGAN ILIR, SUMATERA SELATAN",
+        "selisih": 11,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1610\/161005\/1610052029\/1610052029004"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1610",
+        "kecamatan": "161012",
+        "desa": "1610122003",
+        "tps": "1610122003004",
+        "nama": "TPS 004, TALANG DUKUN, SUNGAI PINANG, OGAN ILIR, SUMATERA SELATAN",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1610\/161012\/1610122003\/1610122003004"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1610",
+        "kecamatan": "161003",
+        "desa": "1610032031",
+        "tps": "1610032031001",
+        "nama": "TPS 001, TANJUNG RAJA SELATAN, TANJUNG RAJA, OGAN ILIR, SUMATERA SELATAN",
+        "selisih": 500,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1610\/161003\/1610032031\/1610032031001"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1610",
+        "kecamatan": "161002",
+        "desa": "1610022031",
+        "tps": "1610022031006",
+        "nama": "TPS 006, BANGUN JAYA, TANJUNG BATU, OGAN ILIR, SUMATERA SELATAN",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1610\/161002\/1610022031\/1610022031006"
+    }
+]

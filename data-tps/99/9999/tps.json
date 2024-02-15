@@ -1,0 +1,47 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9999",
+        "kecamatan": "999901",
+        "desa": "9999010001",
+        "tps": "9999010001003",
+        "url": "99\/9999\/999901\/9999010001\/9999010001003.json",
+        "nama": "KSK 001, Roma, Italia, Roma, Italia, Roma, Italia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9999",
+        "kecamatan": "999901",
+        "desa": "9999010001",
+        "tps": "9999010001004",
+        "url": "99\/9999\/999901\/9999010001\/9999010001004.json",
+        "nama": "KSK 002, Roma, Italia, Roma, Italia, Roma, Italia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9999",
+        "kecamatan": "999901",
+        "desa": "9999010001",
+        "tps": "9999010001005",
+        "url": "99\/9999\/999901\/9999010001\/9999010001005.json",
+        "nama": "KSK 003, Roma, Italia, Roma, Italia, Roma, Italia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9999",
+        "kecamatan": "999901",
+        "desa": "9999010001",
+        "tps": "9999010001001",
+        "url": "99\/9999\/999901\/9999010001\/9999010001001.json",
+        "nama": "POS 001, Roma, Italia, Roma, Italia, Roma, Italia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9999",
+        "kecamatan": "999901",
+        "desa": "9999010001",
+        "tps": "9999010001002",
+        "url": "99\/9999\/999901\/9999010001\/9999010001002.json",
+        "nama": "TPS 001, Roma, Italia, Roma, Italia, Roma, Italia, Luar Negeri"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "82",
+        "kabupaten": "8203",
+        "kecamatan": "820314",
+        "desa": "8203142006",
+        "tps": "8203142006002",
+        "nama": "TPS 002, NGIDIHO, GALELA BARAT, HALMAHERA UTARA, MALUKU UTARA",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8203\/820314\/8203142006\/8203142006002"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8203",
+        "kecamatan": "820315",
+        "desa": "8203152008",
+        "tps": "8203152008001",
+        "nama": "TPS 001, DODOWO, GALELA UTARA, HALMAHERA UTARA, MALUKU UTARA",
+        "selisih": -7,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8203\/820315\/8203152008\/8203152008001"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8203",
+        "kecamatan": "820320",
+        "desa": "8203202007",
+        "tps": "8203202007005",
+        "nama": "TPS 005, DARU, KAO UTARA, HALMAHERA UTARA, MALUKU UTARA",
+        "selisih": 290,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8203\/820320\/8203202007\/8203202007005"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8203",
+        "kecamatan": "820306",
+        "desa": "8203062006",
+        "tps": "8203062006004",
+        "nama": "TPS 004, LELEOTO, TOBELO SELATAN, HALMAHERA UTARA, MALUKU UTARA",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8203\/820306\/8203062006\/8203062006004"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8203",
+        "kecamatan": "820311",
+        "desa": "8203112006",
+        "tps": "8203112006001",
+        "nama": "TPS 001, KALI UPA, TOBELO TENGAH, HALMAHERA UTARA, MALUKU UTARA",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8203\/820311\/8203112006\/8203112006001"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8203",
+        "kecamatan": "820306",
+        "desa": "8203062020",
+        "tps": "8203062020002",
+        "nama": "TPS 002, TIOUA, TOBELO SELATAN, HALMAHERA UTARA, MALUKU UTARA",
+        "selisih": 290,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8203\/820306\/8203062020\/8203062020002"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8203",
+        "kecamatan": "820306",
+        "desa": "8203062020",
+        "tps": "8203062020002",
+        "nama": "TPS 002, TIOUA, TOBELO SELATAN, HALMAHERA UTARA, MALUKU UTARA",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/82\/8203\/820306\/8203062020\/8203062020002"
+    }
+]

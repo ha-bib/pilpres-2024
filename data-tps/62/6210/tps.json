@@ -1,0 +1,3512 @@
+[
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082003",
+        "tps": "6210082003001",
+        "url": "62\/6210\/621008\/6210082003\/6210082003001.json",
+        "nama": "TPS 001, KARETAU RAMBANGUN, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082004",
+        "tps": "6210082004001",
+        "url": "62\/6210\/621008\/6210082004\/6210082004001.json",
+        "nama": "TPS 001, KARETAU SARIAN, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082004",
+        "tps": "6210082004002",
+        "url": "62\/6210\/621008\/6210082004\/6210082004002.json",
+        "nama": "TPS 002, KARETAU SARIAN, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082001",
+        "tps": "6210082001001",
+        "url": "62\/6210\/621008\/6210082001\/6210082001001.json",
+        "nama": "TPS 001, LAWANG KANJI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082001",
+        "tps": "6210082001002",
+        "url": "62\/6210\/621008\/6210082001\/6210082001002.json",
+        "nama": "TPS 002, LAWANG KANJI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082007",
+        "tps": "6210082007001",
+        "url": "62\/6210\/621008\/6210082007\/6210082007001.json",
+        "nama": "TPS 001, TUMBANG ANOI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082007",
+        "tps": "6210082007002",
+        "url": "62\/6210\/621008\/6210082007\/6210082007002.json",
+        "nama": "TPS 002, TUMBANG ANOI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082002",
+        "tps": "6210082002001",
+        "url": "62\/6210\/621008\/6210082002\/6210082002001.json",
+        "nama": "TPS 001, TUMBANG MAHUROI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082002",
+        "tps": "6210082002002",
+        "url": "62\/6210\/621008\/6210082002\/6210082002002.json",
+        "nama": "TPS 002, TUMBANG MAHUROI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082002",
+        "tps": "6210082002003",
+        "url": "62\/6210\/621008\/6210082002\/6210082002003.json",
+        "nama": "TPS 003, TUMBANG MAHUROI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082006",
+        "tps": "6210082006001",
+        "url": "62\/6210\/621008\/6210082006\/6210082006001.json",
+        "nama": "TPS 001, TUMBANG MARAYA, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210081008",
+        "tps": "6210081008001",
+        "url": "62\/6210\/621008\/6210081008\/6210081008001.json",
+        "nama": "TPS 001, TUMBANG MARIKOI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210081008",
+        "tps": "6210081008002",
+        "url": "62\/6210\/621008\/6210081008\/6210081008002.json",
+        "nama": "TPS 002, TUMBANG MARIKOI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210081008",
+        "tps": "6210081008003",
+        "url": "62\/6210\/621008\/6210081008\/6210081008003.json",
+        "nama": "TPS 003, TUMBANG MARIKOI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210081008",
+        "tps": "6210081008004",
+        "url": "62\/6210\/621008\/6210081008\/6210081008004.json",
+        "nama": "TPS 004, TUMBANG MARIKOI, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621008",
+        "desa": "6210082005",
+        "tps": "6210082005001",
+        "url": "62\/6210\/621008\/6210082005\/6210082005001.json",
+        "nama": "TPS 001, TUMBANG POSU, DAMANG BATU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042002",
+        "tps": "6210042002001",
+        "url": "62\/6210\/621004\/6210042002\/6210042002001.json",
+        "nama": "TPS 001, BATU TANGKOI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042002",
+        "tps": "6210042002002",
+        "url": "62\/6210\/621004\/6210042002\/6210042002002.json",
+        "nama": "TPS 002, BATU TANGKOI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042019",
+        "tps": "6210042019001",
+        "url": "62\/6210\/621004\/6210042019\/6210042019001.json",
+        "nama": "TPS 001, DANDANG, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042019",
+        "tps": "6210042019002",
+        "url": "62\/6210\/621004\/6210042019\/6210042019002.json",
+        "nama": "TPS 002, DANDANG, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042019",
+        "tps": "6210042019003",
+        "url": "62\/6210\/621004\/6210042019\/6210042019003.json",
+        "nama": "TPS 003, DANDANG, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042019",
+        "tps": "6210042019004",
+        "url": "62\/6210\/621004\/6210042019\/6210042019004.json",
+        "nama": "TPS 004, DANDANG, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042005",
+        "tps": "6210042005001",
+        "url": "62\/6210\/621004\/6210042005\/6210042005001.json",
+        "nama": "TPS 001, PENDA RANGAS, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042029",
+        "tps": "6210042029001",
+        "url": "62\/6210\/621004\/6210042029\/6210042029001.json",
+        "nama": "TPS 001, TELUK KANDURI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042020",
+        "tps": "6210042020001",
+        "url": "62\/6210\/621004\/6210042020\/6210042020001.json",
+        "nama": "TPS 001, TUMBANG HAMPUTUNG, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042020",
+        "tps": "6210042020002",
+        "url": "62\/6210\/621004\/6210042020\/6210042020002.json",
+        "nama": "TPS 002, TUMBANG HAMPUTUNG, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042012",
+        "tps": "6210042012001",
+        "url": "62\/6210\/621004\/6210042012\/6210042012001.json",
+        "nama": "TPS 001, TUMBANG KORIK, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210041001",
+        "tps": "6210041001001",
+        "url": "62\/6210\/621004\/6210041001\/6210041001001.json",
+        "nama": "TPS 001, TUMBANG MIRI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210041001",
+        "tps": "6210041001002",
+        "url": "62\/6210\/621004\/6210041001\/6210041001002.json",
+        "nama": "TPS 002, TUMBANG MIRI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210041001",
+        "tps": "6210041001003",
+        "url": "62\/6210\/621004\/6210041001\/6210041001003.json",
+        "nama": "TPS 003, TUMBANG MIRI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210041001",
+        "tps": "6210041001004",
+        "url": "62\/6210\/621004\/6210041001\/6210041001004.json",
+        "nama": "TPS 004, TUMBANG MIRI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210041001",
+        "tps": "6210041001005",
+        "url": "62\/6210\/621004\/6210041001\/6210041001005.json",
+        "nama": "TPS 005, TUMBANG MIRI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210041001",
+        "tps": "6210041001006",
+        "url": "62\/6210\/621004\/6210041001\/6210041001006.json",
+        "nama": "TPS 006, TUMBANG MIRI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042008",
+        "tps": "6210042008001",
+        "url": "62\/6210\/621004\/6210042008\/6210042008001.json",
+        "nama": "TPS 001, TUMBANG PASANGON, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042008",
+        "tps": "6210042008002",
+        "url": "62\/6210\/621004\/6210042008\/6210042008002.json",
+        "nama": "TPS 002, TUMBANG PASANGON, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042008",
+        "tps": "6210042008003",
+        "url": "62\/6210\/621004\/6210042008\/6210042008003.json",
+        "nama": "TPS 003, TUMBANG PASANGON, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042014",
+        "tps": "6210042014001",
+        "url": "62\/6210\/621004\/6210042014\/6210042014001.json",
+        "nama": "TPS 001, TUMBANG PONYOI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042014",
+        "tps": "6210042014002",
+        "url": "62\/6210\/621004\/6210042014\/6210042014002.json",
+        "nama": "TPS 002, TUMBANG PONYOI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042006",
+        "tps": "6210042006001",
+        "url": "62\/6210\/621004\/6210042006\/6210042006001.json",
+        "nama": "TPS 001, TUMBANG SIAN, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042006",
+        "tps": "6210042006002",
+        "url": "62\/6210\/621004\/6210042006\/6210042006002.json",
+        "nama": "TPS 002, TUMBANG SIAN, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042021",
+        "tps": "6210042021001",
+        "url": "62\/6210\/621004\/6210042021\/6210042021001.json",
+        "nama": "TPS 001, TUMBANG TAJUNGAN, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042021",
+        "tps": "6210042021002",
+        "url": "62\/6210\/621004\/6210042021\/6210042021002.json",
+        "nama": "TPS 002, TUMBANG TAJUNGAN, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621004",
+        "desa": "6210042028",
+        "tps": "6210042028001",
+        "url": "62\/6210\/621004\/6210042028\/6210042028001.json",
+        "nama": "TPS 001, TUMBANG TAKAOI, KAHAYAN HULU UTARA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022009",
+        "tps": "6210022009001",
+        "url": "62\/6210\/621002\/6210022009\/6210022009001.json",
+        "nama": "TPS 001, HURUNG BUNUT, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022009",
+        "tps": "6210022009002",
+        "url": "62\/6210\/621002\/6210022009\/6210022009002.json",
+        "nama": "TPS 002, HURUNG BUNUT, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022009",
+        "tps": "6210022009003",
+        "url": "62\/6210\/621002\/6210022009\/6210022009003.json",
+        "nama": "TPS 003, HURUNG BUNUT, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022009",
+        "tps": "6210022009004",
+        "url": "62\/6210\/621002\/6210022009\/6210022009004.json",
+        "nama": "TPS 004, HURUNG BUNUT, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012001",
+        "url": "62\/6210\/621002\/6210021012\/6210021012001.json",
+        "nama": "TPS 001, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012002",
+        "url": "62\/6210\/621002\/6210021012\/6210021012002.json",
+        "nama": "TPS 002, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012003",
+        "url": "62\/6210\/621002\/6210021012\/6210021012003.json",
+        "nama": "TPS 003, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012004",
+        "url": "62\/6210\/621002\/6210021012\/6210021012004.json",
+        "nama": "TPS 004, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012005",
+        "url": "62\/6210\/621002\/6210021012\/6210021012005.json",
+        "nama": "TPS 005, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012006",
+        "url": "62\/6210\/621002\/6210021012\/6210021012006.json",
+        "nama": "TPS 006, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012007",
+        "url": "62\/6210\/621002\/6210021012\/6210021012007.json",
+        "nama": "TPS 007, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012008",
+        "url": "62\/6210\/621002\/6210021012\/6210021012008.json",
+        "nama": "TPS 008, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012009",
+        "url": "62\/6210\/621002\/6210021012\/6210021012009.json",
+        "nama": "TPS 009, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012010",
+        "url": "62\/6210\/621002\/6210021012\/6210021012010.json",
+        "nama": "TPS 010, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012011",
+        "url": "62\/6210\/621002\/6210021012\/6210021012011.json",
+        "nama": "TPS 011, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012012",
+        "url": "62\/6210\/621002\/6210021012\/6210021012012.json",
+        "nama": "TPS 012, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012013",
+        "url": "62\/6210\/621002\/6210021012\/6210021012013.json",
+        "nama": "TPS 013, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012014",
+        "url": "62\/6210\/621002\/6210021012\/6210021012014.json",
+        "nama": "TPS 014, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012015",
+        "url": "62\/6210\/621002\/6210021012\/6210021012015.json",
+        "nama": "TPS 015, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012016",
+        "url": "62\/6210\/621002\/6210021012\/6210021012016.json",
+        "nama": "TPS 016, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012017",
+        "url": "62\/6210\/621002\/6210021012\/6210021012017.json",
+        "nama": "TPS 017, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012018",
+        "url": "62\/6210\/621002\/6210021012\/6210021012018.json",
+        "nama": "TPS 018, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012019",
+        "url": "62\/6210\/621002\/6210021012\/6210021012019.json",
+        "nama": "TPS 019, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012020",
+        "url": "62\/6210\/621002\/6210021012\/6210021012020.json",
+        "nama": "TPS 020, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012021",
+        "url": "62\/6210\/621002\/6210021012\/6210021012021.json",
+        "nama": "TPS 021, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012022",
+        "url": "62\/6210\/621002\/6210021012\/6210021012022.json",
+        "nama": "TPS 022, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012023",
+        "url": "62\/6210\/621002\/6210021012\/6210021012023.json",
+        "nama": "TPS 023, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012024",
+        "url": "62\/6210\/621002\/6210021012\/6210021012024.json",
+        "nama": "TPS 024, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012025",
+        "url": "62\/6210\/621002\/6210021012\/6210021012025.json",
+        "nama": "TPS 025, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012026",
+        "url": "62\/6210\/621002\/6210021012\/6210021012026.json",
+        "nama": "TPS 026, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012027",
+        "url": "62\/6210\/621002\/6210021012\/6210021012027.json",
+        "nama": "TPS 027, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012028",
+        "url": "62\/6210\/621002\/6210021012\/6210021012028.json",
+        "nama": "TPS 028, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012029",
+        "url": "62\/6210\/621002\/6210021012\/6210021012029.json",
+        "nama": "TPS 029, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012030",
+        "url": "62\/6210\/621002\/6210021012\/6210021012030.json",
+        "nama": "TPS 030, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012031",
+        "url": "62\/6210\/621002\/6210021012\/6210021012031.json",
+        "nama": "TPS 031, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012032",
+        "url": "62\/6210\/621002\/6210021012\/6210021012032.json",
+        "nama": "TPS 032, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012033",
+        "url": "62\/6210\/621002\/6210021012\/6210021012033.json",
+        "nama": "TPS 033, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012034",
+        "url": "62\/6210\/621002\/6210021012\/6210021012034.json",
+        "nama": "TPS 034, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021012",
+        "tps": "6210021012035",
+        "url": "62\/6210\/621002\/6210021012\/6210021012035.json",
+        "nama": "TPS 035, KURUN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022014",
+        "tps": "6210022014001",
+        "url": "62\/6210\/621002\/6210022014\/6210022014001.json",
+        "nama": "TPS 001, PENDA PILANG, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022014",
+        "tps": "6210022014002",
+        "url": "62\/6210\/621002\/6210022014\/6210022014002.json",
+        "nama": "TPS 002, PENDA PILANG, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022002",
+        "tps": "6210022002001",
+        "url": "62\/6210\/621002\/6210022002\/6210022002001.json",
+        "nama": "TPS 001, PETAK BAHANDANG, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022002",
+        "tps": "6210022002002",
+        "url": "62\/6210\/621002\/6210022002\/6210022002002.json",
+        "nama": "TPS 002, PETAK BAHANDANG, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022002",
+        "tps": "6210022002003",
+        "url": "62\/6210\/621002\/6210022002\/6210022002003.json",
+        "nama": "TPS 003, PETAK BAHANDANG, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022002",
+        "tps": "6210022002004",
+        "url": "62\/6210\/621002\/6210022002\/6210022002004.json",
+        "nama": "TPS 004, PETAK BAHANDANG, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022011",
+        "tps": "6210022011001",
+        "url": "62\/6210\/621002\/6210022011\/6210022011001.json",
+        "nama": "TPS 001, PILANG MUNDUK, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022011",
+        "tps": "6210022011002",
+        "url": "62\/6210\/621002\/6210022011\/6210022011002.json",
+        "nama": "TPS 002, PILANG MUNDUK, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001001",
+        "url": "62\/6210\/621002\/6210021001\/6210021001001.json",
+        "nama": "TPS 001, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001002",
+        "url": "62\/6210\/621002\/6210021001\/6210021001002.json",
+        "nama": "TPS 002, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001003",
+        "url": "62\/6210\/621002\/6210021001\/6210021001003.json",
+        "nama": "TPS 003, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001004",
+        "url": "62\/6210\/621002\/6210021001\/6210021001004.json",
+        "nama": "TPS 004, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001005",
+        "url": "62\/6210\/621002\/6210021001\/6210021001005.json",
+        "nama": "TPS 005, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001006",
+        "url": "62\/6210\/621002\/6210021001\/6210021001006.json",
+        "nama": "TPS 006, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001007",
+        "url": "62\/6210\/621002\/6210021001\/6210021001007.json",
+        "nama": "TPS 007, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001008",
+        "url": "62\/6210\/621002\/6210021001\/6210021001008.json",
+        "nama": "TPS 008, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001009",
+        "url": "62\/6210\/621002\/6210021001\/6210021001009.json",
+        "nama": "TPS 009, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001010",
+        "url": "62\/6210\/621002\/6210021001\/6210021001010.json",
+        "nama": "TPS 010, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001011",
+        "url": "62\/6210\/621002\/6210021001\/6210021001011.json",
+        "nama": "TPS 011, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001012",
+        "url": "62\/6210\/621002\/6210021001\/6210021001012.json",
+        "nama": "TPS 012, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001013",
+        "url": "62\/6210\/621002\/6210021001\/6210021001013.json",
+        "nama": "TPS 013, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001014",
+        "url": "62\/6210\/621002\/6210021001\/6210021001014.json",
+        "nama": "TPS 014, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001015",
+        "url": "62\/6210\/621002\/6210021001\/6210021001015.json",
+        "nama": "TPS 015, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001016",
+        "url": "62\/6210\/621002\/6210021001\/6210021001016.json",
+        "nama": "TPS 016, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001017",
+        "url": "62\/6210\/621002\/6210021001\/6210021001017.json",
+        "nama": "TPS 017, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210021001",
+        "tps": "6210021001018",
+        "url": "62\/6210\/621002\/6210021001\/6210021001018.json",
+        "nama": "TPS 018, TAMPANG TUMBANG ANJIR, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022003",
+        "tps": "6210022003001",
+        "url": "62\/6210\/621002\/6210022003\/6210022003001.json",
+        "nama": "TPS 001, TANJUNG RIU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022003",
+        "tps": "6210022003002",
+        "url": "62\/6210\/621002\/6210022003\/6210022003002.json",
+        "nama": "TPS 002, TANJUNG RIU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022004",
+        "tps": "6210022004001",
+        "url": "62\/6210\/621002\/6210022004\/6210022004001.json",
+        "nama": "TPS 001, TELUK NYATU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022004",
+        "tps": "6210022004002",
+        "url": "62\/6210\/621002\/6210022004\/6210022004002.json",
+        "nama": "TPS 002, TELUK NYATU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022004",
+        "tps": "6210022004003",
+        "url": "62\/6210\/621002\/6210022004\/6210022004003.json",
+        "nama": "TPS 003, TELUK NYATU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022004",
+        "tps": "6210022004004",
+        "url": "62\/6210\/621002\/6210022004\/6210022004004.json",
+        "nama": "TPS 004, TELUK NYATU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022004",
+        "tps": "6210022004005",
+        "url": "62\/6210\/621002\/6210022004\/6210022004005.json",
+        "nama": "TPS 005, TELUK NYATU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022004",
+        "tps": "6210022004006",
+        "url": "62\/6210\/621002\/6210022004\/6210022004006.json",
+        "nama": "TPS 006, TELUK NYATU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022006",
+        "tps": "6210022006001",
+        "url": "62\/6210\/621002\/6210022006\/6210022006001.json",
+        "nama": "TPS 001, TEWANG PAJANGAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022006",
+        "tps": "6210022006002",
+        "url": "62\/6210\/621002\/6210022006\/6210022006002.json",
+        "nama": "TPS 002, TEWANG PAJANGAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022006",
+        "tps": "6210022006003",
+        "url": "62\/6210\/621002\/6210022006\/6210022006003.json",
+        "nama": "TPS 003, TEWANG PAJANGAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022006",
+        "tps": "6210022006004",
+        "url": "62\/6210\/621002\/6210022006\/6210022006004.json",
+        "nama": "TPS 004, TEWANG PAJANGAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022010",
+        "tps": "6210022010001",
+        "url": "62\/6210\/621002\/6210022010\/6210022010001.json",
+        "nama": "TPS 001, TUMBANG HAKAU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022010",
+        "tps": "6210022010002",
+        "url": "62\/6210\/621002\/6210022010\/6210022010002.json",
+        "nama": "TPS 002, TUMBANG HAKAU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022010",
+        "tps": "6210022010003",
+        "url": "62\/6210\/621002\/6210022010\/6210022010003.json",
+        "nama": "TPS 003, TUMBANG HAKAU, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022005",
+        "tps": "6210022005001",
+        "url": "62\/6210\/621002\/6210022005\/6210022005001.json",
+        "nama": "TPS 001, TUMBANG LAMPAHUNG, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022005",
+        "tps": "6210022005002",
+        "url": "62\/6210\/621002\/6210022005\/6210022005002.json",
+        "nama": "TPS 002, TUMBANG LAMPAHUNG, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022013",
+        "tps": "6210022013001",
+        "url": "62\/6210\/621002\/6210022013\/6210022013001.json",
+        "nama": "TPS 001, TUMBANG MANYANGAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022013",
+        "tps": "6210022013002",
+        "url": "62\/6210\/621002\/6210022013\/6210022013002.json",
+        "nama": "TPS 002, TUMBANG MANYANGAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022008",
+        "tps": "6210022008001",
+        "url": "62\/6210\/621002\/6210022008\/6210022008001.json",
+        "nama": "TPS 001, TUMBANG MIWAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022008",
+        "tps": "6210022008002",
+        "url": "62\/6210\/621002\/6210022008\/6210022008002.json",
+        "nama": "TPS 002, TUMBANG MIWAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022008",
+        "tps": "6210022008003",
+        "url": "62\/6210\/621002\/6210022008\/6210022008003.json",
+        "nama": "TPS 003, TUMBANG MIWAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022008",
+        "tps": "6210022008004",
+        "url": "62\/6210\/621002\/6210022008\/6210022008004.json",
+        "nama": "TPS 004, TUMBANG MIWAN, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022015",
+        "tps": "6210022015001",
+        "url": "62\/6210\/621002\/6210022015\/6210022015001.json",
+        "nama": "TPS 001, TUMBANG TAMBIRAH, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022015",
+        "tps": "6210022015002",
+        "url": "62\/6210\/621002\/6210022015\/6210022015002.json",
+        "nama": "TPS 002, TUMBANG TAMBIRAH, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022015",
+        "tps": "6210022015003",
+        "url": "62\/6210\/621002\/6210022015\/6210022015003.json",
+        "nama": "TPS 003, TUMBANG TAMBIRAH, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022007",
+        "tps": "6210022007001",
+        "url": "62\/6210\/621002\/6210022007\/6210022007001.json",
+        "nama": "TPS 001, TUMBANG TARIAK, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621002",
+        "desa": "6210022007",
+        "tps": "6210022007002",
+        "url": "62\/6210\/621002\/6210022007\/6210022007002.json",
+        "nama": "TPS 002, TUMBANG TARIAK, KURUN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062014",
+        "tps": "6210062014001",
+        "url": "62\/6210\/621006\/6210062014\/6210062014001.json",
+        "nama": "TPS 001, BANGUN SARI, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062014",
+        "tps": "6210062014002",
+        "url": "62\/6210\/621006\/6210062014\/6210062014002.json",
+        "nama": "TPS 002, BANGUN SARI, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062012",
+        "tps": "6210062012001",
+        "url": "62\/6210\/621006\/6210062012\/6210062012001.json",
+        "nama": "TPS 001, BELAWAN MULIA, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062012",
+        "tps": "6210062012002",
+        "url": "62\/6210\/621006\/6210062012\/6210062012002.json",
+        "nama": "TPS 002, BELAWAN MULIA, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062012",
+        "tps": "6210062012003",
+        "url": "62\/6210\/621006\/6210062012\/6210062012003.json",
+        "nama": "TPS 003, BELAWAN MULIA, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062004",
+        "tps": "6210062004001",
+        "url": "62\/6210\/621006\/6210062004\/6210062004001.json",
+        "nama": "TPS 001, BERENG BALAWAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062005",
+        "tps": "6210062005001",
+        "url": "62\/6210\/621006\/6210062005\/6210062005001.json",
+        "nama": "TPS 001, BERENG JUN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062005",
+        "tps": "6210062005002",
+        "url": "62\/6210\/621006\/6210062005\/6210062005002.json",
+        "nama": "TPS 002, BERENG JUN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062005",
+        "tps": "6210062005003",
+        "url": "62\/6210\/621006\/6210062005\/6210062005003.json",
+        "nama": "TPS 003, BERENG JUN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062005",
+        "tps": "6210062005004",
+        "url": "62\/6210\/621006\/6210062005\/6210062005004.json",
+        "nama": "TPS 004, BERENG JUN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062015",
+        "tps": "6210062015001",
+        "url": "62\/6210\/621006\/6210062015\/6210062015001.json",
+        "nama": "TPS 001, FAJAR HARAPAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062015",
+        "tps": "6210062015002",
+        "url": "62\/6210\/621006\/6210062015\/6210062015002.json",
+        "nama": "TPS 002, FAJAR HARAPAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062015",
+        "tps": "6210062015003",
+        "url": "62\/6210\/621006\/6210062015\/6210062015003.json",
+        "nama": "TPS 003, FAJAR HARAPAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062015",
+        "tps": "6210062015004",
+        "url": "62\/6210\/621006\/6210062015\/6210062015004.json",
+        "nama": "TPS 004, FAJAR HARAPAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062015",
+        "tps": "6210062015005",
+        "url": "62\/6210\/621006\/6210062015\/6210062015005.json",
+        "nama": "TPS 005, FAJAR HARAPAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062017",
+        "tps": "6210062017001",
+        "url": "62\/6210\/621006\/6210062017\/6210062017001.json",
+        "nama": "TPS 001, GOHONG, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062017",
+        "tps": "6210062017002",
+        "url": "62\/6210\/621006\/6210062017\/6210062017002.json",
+        "nama": "TPS 002, GOHONG, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062006",
+        "tps": "6210062006001",
+        "url": "62\/6210\/621006\/6210062006\/6210062006001.json",
+        "nama": "TPS 001, TAKARAS, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062006",
+        "tps": "6210062006002",
+        "url": "62\/6210\/621006\/6210062006\/6210062006002.json",
+        "nama": "TPS 002, TAKARAS, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062006",
+        "tps": "6210062006003",
+        "url": "62\/6210\/621006\/6210062006\/6210062006003.json",
+        "nama": "TPS 003, TAKARAS, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062003",
+        "tps": "6210062003001",
+        "url": "62\/6210\/621006\/6210062003\/6210062003001.json",
+        "nama": "TPS 001, TANGKI DAHUYAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062003",
+        "tps": "6210062003002",
+        "url": "62\/6210\/621006\/6210062003\/6210062003002.json",
+        "nama": "TPS 002, TANGKI DAHUYAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062003",
+        "tps": "6210062003003",
+        "url": "62\/6210\/621006\/6210062003\/6210062003003.json",
+        "nama": "TPS 003, TANGKI DAHUYAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062013",
+        "tps": "6210062013001",
+        "url": "62\/6210\/621006\/6210062013\/6210062013001.json",
+        "nama": "TPS 001, TARINGEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062013",
+        "tps": "6210062013002",
+        "url": "62\/6210\/621006\/6210062013\/6210062013002.json",
+        "nama": "TPS 002, TARINGEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062013",
+        "tps": "6210062013003",
+        "url": "62\/6210\/621006\/6210062013\/6210062013003.json",
+        "nama": "TPS 003, TARINGEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062018",
+        "tps": "6210062018001",
+        "url": "62\/6210\/621006\/6210062018\/6210062018001.json",
+        "nama": "TPS 001, TUMBANG JALEMU, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062018",
+        "tps": "6210062018002",
+        "url": "62\/6210\/621006\/6210062018\/6210062018002.json",
+        "nama": "TPS 002, TUMBANG JALEMU, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210062002",
+        "tps": "6210062002001",
+        "url": "62\/6210\/621006\/6210062002\/6210062002001.json",
+        "nama": "TPS 001, TUMBANG SEPAN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210061001",
+        "tps": "6210061001001",
+        "url": "62\/6210\/621006\/6210061001\/6210061001001.json",
+        "nama": "TPS 001, TUMBANG TALAKEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210061001",
+        "tps": "6210061001002",
+        "url": "62\/6210\/621006\/6210061001\/6210061001002.json",
+        "nama": "TPS 002, TUMBANG TALAKEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210061001",
+        "tps": "6210061001003",
+        "url": "62\/6210\/621006\/6210061001\/6210061001003.json",
+        "nama": "TPS 003, TUMBANG TALAKEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210061001",
+        "tps": "6210061001004",
+        "url": "62\/6210\/621006\/6210061001\/6210061001004.json",
+        "nama": "TPS 004, TUMBANG TALAKEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210061001",
+        "tps": "6210061001005",
+        "url": "62\/6210\/621006\/6210061001\/6210061001005.json",
+        "nama": "TPS 005, TUMBANG TALAKEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210061001",
+        "tps": "6210061001006",
+        "url": "62\/6210\/621006\/6210061001\/6210061001006.json",
+        "nama": "TPS 006, TUMBANG TALAKEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621006",
+        "desa": "6210061001",
+        "tps": "6210061001007",
+        "url": "62\/6210\/621006\/6210061001\/6210061001007.json",
+        "nama": "TPS 007, TUMBANG TALAKEN, MANUHING, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112004",
+        "tps": "6210112004001",
+        "url": "62\/6210\/621011\/6210112004\/6210112004001.json",
+        "nama": "TPS 001, LUWUK TUKAU, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112004",
+        "tps": "6210112004002",
+        "url": "62\/6210\/621011\/6210112004\/6210112004002.json",
+        "nama": "TPS 002, LUWUK TUKAU, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112004",
+        "tps": "6210112004003",
+        "url": "62\/6210\/621011\/6210112004\/6210112004003.json",
+        "nama": "TPS 003, LUWUK TUKAU, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112006",
+        "tps": "6210112006001",
+        "url": "62\/6210\/621011\/6210112006\/6210112006001.json",
+        "nama": "TPS 001, PUTAT DUREI, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112006",
+        "tps": "6210112006002",
+        "url": "62\/6210\/621011\/6210112006\/6210112006002.json",
+        "nama": "TPS 002, PUTAT DUREI, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210111005",
+        "tps": "6210111005001",
+        "url": "62\/6210\/621011\/6210111005\/6210111005001.json",
+        "nama": "TPS 001, TEHANG, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210111005",
+        "tps": "6210111005002",
+        "url": "62\/6210\/621011\/6210111005\/6210111005002.json",
+        "nama": "TPS 002, TEHANG, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210111005",
+        "tps": "6210111005003",
+        "url": "62\/6210\/621011\/6210111005\/6210111005003.json",
+        "nama": "TPS 003, TEHANG, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210111005",
+        "tps": "6210111005004",
+        "url": "62\/6210\/621011\/6210111005\/6210111005004.json",
+        "nama": "TPS 004, TEHANG, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210111005",
+        "tps": "6210111005005",
+        "url": "62\/6210\/621011\/6210111005\/6210111005005.json",
+        "nama": "TPS 005, TEHANG, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210111005",
+        "tps": "6210111005006",
+        "url": "62\/6210\/621011\/6210111005\/6210111005006.json",
+        "nama": "TPS 006, TEHANG, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210111005",
+        "tps": "6210111005007",
+        "url": "62\/6210\/621011\/6210111005\/6210111005007.json",
+        "nama": "TPS 007, TEHANG, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112007",
+        "tps": "6210112007001",
+        "url": "62\/6210\/621011\/6210112007\/6210112007001.json",
+        "nama": "TPS 001, TUMBANG MANTUHE, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112007",
+        "tps": "6210112007002",
+        "url": "62\/6210\/621011\/6210112007\/6210112007002.json",
+        "nama": "TPS 002, TUMBANG MANTUHE, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112003",
+        "tps": "6210112003001",
+        "url": "62\/6210\/621011\/6210112003\/6210112003001.json",
+        "nama": "TPS 001, TUMBANG OROI, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112003",
+        "tps": "6210112003002",
+        "url": "62\/6210\/621011\/6210112003\/6210112003002.json",
+        "nama": "TPS 002, TUMBANG OROI, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112002",
+        "tps": "6210112002001",
+        "url": "62\/6210\/621011\/6210112002\/6210112002001.json",
+        "nama": "TPS 001, TUMBANG SAMUI, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621011",
+        "desa": "6210112002",
+        "tps": "6210112002002",
+        "url": "62\/6210\/621011\/6210112002\/6210112002002.json",
+        "nama": "TPS 002, TUMBANG SAMUI, MANUHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072004",
+        "tps": "6210072004001",
+        "url": "62\/6210\/621007\/6210072004\/6210072004001.json",
+        "nama": "TPS 001, DAHIAN TAMBUK, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072004",
+        "tps": "6210072004002",
+        "url": "62\/6210\/621007\/6210072004\/6210072004002.json",
+        "nama": "TPS 002, DAHIAN TAMBUK, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072004",
+        "tps": "6210072004003",
+        "url": "62\/6210\/621007\/6210072004\/6210072004003.json",
+        "nama": "TPS 003, DAHIAN TAMBUK, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072004",
+        "tps": "6210072004004",
+        "url": "62\/6210\/621007\/6210072004\/6210072004004.json",
+        "nama": "TPS 004, DAHIAN TAMBUK, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210071005",
+        "tps": "6210071005001",
+        "url": "62\/6210\/621007\/6210071005\/6210071005001.json",
+        "nama": "TPS 001, KAMPURI, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210071005",
+        "tps": "6210071005002",
+        "url": "62\/6210\/621007\/6210071005\/6210071005002.json",
+        "nama": "TPS 002, KAMPURI, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210071005",
+        "tps": "6210071005003",
+        "url": "62\/6210\/621007\/6210071005\/6210071005003.json",
+        "nama": "TPS 003, KAMPURI, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210071005",
+        "tps": "6210071005004",
+        "url": "62\/6210\/621007\/6210071005\/6210071005004.json",
+        "nama": "TPS 004, KAMPURI, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210071005",
+        "tps": "6210071005005",
+        "url": "62\/6210\/621007\/6210071005\/6210071005005.json",
+        "nama": "TPS 005, KAMPURI, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072003",
+        "tps": "6210072003001",
+        "url": "62\/6210\/621007\/6210072003\/6210072003001.json",
+        "nama": "TPS 001, RANGAN TATE, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072003",
+        "tps": "6210072003002",
+        "url": "62\/6210\/621007\/6210072003\/6210072003002.json",
+        "nama": "TPS 002, RANGAN TATE, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072003",
+        "tps": "6210072003003",
+        "url": "62\/6210\/621007\/6210072003\/6210072003003.json",
+        "nama": "TPS 003, RANGAN TATE, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072006",
+        "tps": "6210072006001",
+        "url": "62\/6210\/621007\/6210072006\/6210072006001.json",
+        "nama": "TPS 001, TUMBANG DANAU, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072006",
+        "tps": "6210072006002",
+        "url": "62\/6210\/621007\/6210072006\/6210072006002.json",
+        "nama": "TPS 002, TUMBANG DANAU, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072002",
+        "tps": "6210072002001",
+        "url": "62\/6210\/621007\/6210072002\/6210072002001.json",
+        "nama": "TPS 001, TUMBANG EMPAS, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072002",
+        "tps": "6210072002002",
+        "url": "62\/6210\/621007\/6210072002\/6210072002002.json",
+        "nama": "TPS 002, TUMBANG EMPAS, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072002",
+        "tps": "6210072002003",
+        "url": "62\/6210\/621007\/6210072002\/6210072002003.json",
+        "nama": "TPS 003, TUMBANG EMPAS, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072002",
+        "tps": "6210072002004",
+        "url": "62\/6210\/621007\/6210072002\/6210072002004.json",
+        "nama": "TPS 004, TUMBANG EMPAS, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072001",
+        "tps": "6210072001001",
+        "url": "62\/6210\/621007\/6210072001\/6210072001001.json",
+        "nama": "TPS 001, TUYUN, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072001",
+        "tps": "6210072001002",
+        "url": "62\/6210\/621007\/6210072001\/6210072001002.json",
+        "nama": "TPS 002, TUYUN, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072001",
+        "tps": "6210072001003",
+        "url": "62\/6210\/621007\/6210072001\/6210072001003.json",
+        "nama": "TPS 003, TUYUN, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621007",
+        "desa": "6210072001",
+        "tps": "6210072001004",
+        "url": "62\/6210\/621007\/6210072001\/6210072001004.json",
+        "nama": "TPS 004, TUYUN, MIHING RAYA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092009",
+        "tps": "6210092009001",
+        "url": "62\/6210\/621009\/6210092009\/6210092009001.json",
+        "nama": "TPS 001, BUNTOI, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092006",
+        "tps": "6210092006001",
+        "url": "62\/6210\/621009\/6210092006\/6210092006001.json",
+        "nama": "TPS 001, HAROWU, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092002",
+        "tps": "6210092002001",
+        "url": "62\/6210\/621009\/6210092002\/6210092002001.json",
+        "nama": "TPS 001, MANGKUHUNG, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092005",
+        "tps": "6210092005001",
+        "url": "62\/6210\/621009\/6210092005\/6210092005001.json",
+        "nama": "TPS 001, RANGAN HIRAN, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092011",
+        "tps": "6210092011001",
+        "url": "62\/6210\/621009\/6210092011\/6210092011001.json",
+        "nama": "TPS 001, TUMBANG HATUNG, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092010",
+        "tps": "6210092010001",
+        "url": "62\/6210\/621009\/6210092010\/6210092010001.json",
+        "nama": "TPS 001, TUMBANG KOROI, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092008",
+        "tps": "6210092008001",
+        "url": "62\/6210\/621009\/6210092008\/6210092008001.json",
+        "nama": "TPS 001, TUMBANG LAPAN, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092007",
+        "tps": "6210092007001",
+        "url": "62\/6210\/621009\/6210092007\/6210092007001.json",
+        "nama": "TPS 001, TUMBANG MANYOI, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092004",
+        "tps": "6210092004001",
+        "url": "62\/6210\/621009\/6210092004\/6210092004001.json",
+        "nama": "TPS 001, TUMBANG MASUKIH, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092004",
+        "tps": "6210092004002",
+        "url": "62\/6210\/621009\/6210092004\/6210092004002.json",
+        "nama": "TPS 002, TUMBANG MASUKIH, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210091003",
+        "tps": "6210091003001",
+        "url": "62\/6210\/621009\/6210091003\/6210091003001.json",
+        "nama": "TPS 001, TUMBANG NAPOI, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210091003",
+        "tps": "6210091003002",
+        "url": "62\/6210\/621009\/6210091003\/6210091003002.json",
+        "nama": "TPS 002, TUMBANG NAPOI, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210091003",
+        "tps": "6210091003003",
+        "url": "62\/6210\/621009\/6210091003\/6210091003003.json",
+        "nama": "TPS 003, TUMBANG NAPOI, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621009",
+        "desa": "6210092001",
+        "tps": "6210092001001",
+        "url": "62\/6210\/621009\/6210092001\/6210092001001.json",
+        "nama": "TPS 001, TUMBANG SIRUK, MIRI MANASA, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052022",
+        "tps": "6210052022001",
+        "url": "62\/6210\/621005\/6210052022\/6210052022001.json",
+        "nama": "TPS 001, BERENG BARU, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052023",
+        "tps": "6210052023001",
+        "url": "62\/6210\/621005\/6210052023\/6210052023001.json",
+        "nama": "TPS 001, BERENG MALAKA, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052023",
+        "tps": "6210052023002",
+        "url": "62\/6210\/621005\/6210052023\/6210052023002.json",
+        "nama": "TPS 002, BERENG MALAKA, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210051021",
+        "tps": "6210051021001",
+        "url": "62\/6210\/621005\/6210051021\/6210051021001.json",
+        "nama": "TPS 001, JAKATAN RAYA, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210051021",
+        "tps": "6210051021002",
+        "url": "62\/6210\/621005\/6210051021\/6210051021002.json",
+        "nama": "TPS 002, JAKATAN RAYA, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210051021",
+        "tps": "6210051021003",
+        "url": "62\/6210\/621005\/6210051021\/6210051021003.json",
+        "nama": "TPS 003, JAKATAN RAYA, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210051021",
+        "tps": "6210051021004",
+        "url": "62\/6210\/621005\/6210051021\/6210051021004.json",
+        "nama": "TPS 004, JAKATAN RAYA, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210051021",
+        "tps": "6210051021005",
+        "url": "62\/6210\/621005\/6210051021\/6210051021005.json",
+        "nama": "TPS 005, JAKATAN RAYA, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210051021",
+        "tps": "6210051021006",
+        "url": "62\/6210\/621005\/6210051021\/6210051021006.json",
+        "nama": "TPS 006, JAKATAN RAYA, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052027",
+        "tps": "6210052027001",
+        "url": "62\/6210\/621005\/6210052027\/6210052027001.json",
+        "nama": "TPS 001, KARYA BHAKTI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052027",
+        "tps": "6210052027002",
+        "url": "62\/6210\/621005\/6210052027\/6210052027002.json",
+        "nama": "TPS 002, KARYA BHAKTI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052027",
+        "tps": "6210052027003",
+        "url": "62\/6210\/621005\/6210052027\/6210052027003.json",
+        "nama": "TPS 003, KARYA BHAKTI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052020",
+        "tps": "6210052020001",
+        "url": "62\/6210\/621005\/6210052020\/6210052020001.json",
+        "nama": "TPS 001, LINAU, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052020",
+        "tps": "6210052020002",
+        "url": "62\/6210\/621005\/6210052020\/6210052020002.json",
+        "nama": "TPS 002, LINAU, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052020",
+        "tps": "6210052020003",
+        "url": "62\/6210\/621005\/6210052020\/6210052020003.json",
+        "nama": "TPS 003, LINAU, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052016",
+        "tps": "6210052016001",
+        "url": "62\/6210\/621005\/6210052016\/6210052016001.json",
+        "nama": "TPS 001, LUWUK KANTOR, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052017",
+        "tps": "6210052017001",
+        "url": "62\/6210\/621005\/6210052017\/6210052017001.json",
+        "nama": "TPS 001, LUWUK LANGKUAS, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052017",
+        "tps": "6210052017002",
+        "url": "62\/6210\/621005\/6210052017\/6210052017002.json",
+        "nama": "TPS 002, LUWUK LANGKUAS, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052017",
+        "tps": "6210052017003",
+        "url": "62\/6210\/621005\/6210052017\/6210052017003.json",
+        "nama": "TPS 003, LUWUK LANGKUAS, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052019",
+        "tps": "6210052019001",
+        "url": "62\/6210\/621005\/6210052019\/6210052019001.json",
+        "nama": "TPS 001, PAREMPEI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052018",
+        "tps": "6210052018001",
+        "url": "62\/6210\/621005\/6210052018\/6210052018001.json",
+        "nama": "TPS 001, TALANGKAH, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052002",
+        "tps": "6210052002001",
+        "url": "62\/6210\/621005\/6210052002\/6210052002001.json",
+        "nama": "TPS 001, TUMBANG BARINGEI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052002",
+        "tps": "6210052002002",
+        "url": "62\/6210\/621005\/6210052002\/6210052002002.json",
+        "nama": "TPS 002, TUMBANG BARINGEI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052002",
+        "tps": "6210052002003",
+        "url": "62\/6210\/621005\/6210052002\/6210052002003.json",
+        "nama": "TPS 003, TUMBANG BARINGEI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052014",
+        "tps": "6210052014001",
+        "url": "62\/6210\/621005\/6210052014\/6210052014001.json",
+        "nama": "TPS 001, TUMBANG BUNUT, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052014",
+        "tps": "6210052014002",
+        "url": "62\/6210\/621005\/6210052014\/6210052014002.json",
+        "nama": "TPS 002, TUMBANG BUNUT, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052001",
+        "tps": "6210052001001",
+        "url": "62\/6210\/621005\/6210052001\/6210052001001.json",
+        "nama": "TPS 001, TUMBANG JUTUH, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052001",
+        "tps": "6210052001002",
+        "url": "62\/6210\/621005\/6210052001\/6210052001002.json",
+        "nama": "TPS 002, TUMBANG JUTUH, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052001",
+        "tps": "6210052001003",
+        "url": "62\/6210\/621005\/6210052001\/6210052001003.json",
+        "nama": "TPS 003, TUMBANG JUTUH, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052015",
+        "tps": "6210052015001",
+        "url": "62\/6210\/621005\/6210052015\/6210052015001.json",
+        "nama": "TPS 001, TUMBANG KAJUEI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052015",
+        "tps": "6210052015002",
+        "url": "62\/6210\/621005\/6210052015\/6210052015002.json",
+        "nama": "TPS 002, TUMBANG KAJUEI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052015",
+        "tps": "6210052015003",
+        "url": "62\/6210\/621005\/6210052015\/6210052015003.json",
+        "nama": "TPS 003, TUMBANG KAJUEI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052009",
+        "tps": "6210052009001",
+        "url": "62\/6210\/621005\/6210052009\/6210052009001.json",
+        "nama": "TPS 001, TUMBANG MALAHOI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052009",
+        "tps": "6210052009002",
+        "url": "62\/6210\/621005\/6210052009\/6210052009002.json",
+        "nama": "TPS 002, TUMBANG MALAHOI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052009",
+        "tps": "6210052009003",
+        "url": "62\/6210\/621005\/6210052009\/6210052009003.json",
+        "nama": "TPS 003, TUMBANG MALAHOI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621005",
+        "desa": "6210052009",
+        "tps": "6210052009004",
+        "url": "62\/6210\/621005\/6210052009\/6210052009004.json",
+        "nama": "TPS 004, TUMBANG MALAHOI, RUNGAN, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122001",
+        "tps": "6210122001001",
+        "url": "62\/6210\/621012\/6210122001\/6210122001001.json",
+        "nama": "TPS 001, HUJUNG PATA, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122001",
+        "tps": "6210122001002",
+        "url": "62\/6210\/621012\/6210122001\/6210122001002.json",
+        "nama": "TPS 002, HUJUNG PATA, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122004",
+        "tps": "6210122004001",
+        "url": "62\/6210\/621012\/6210122004\/6210122004001.json",
+        "nama": "TPS 001, JALEMU MASULAN, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122003",
+        "tps": "6210122003001",
+        "url": "62\/6210\/621012\/6210122003\/6210122003001.json",
+        "nama": "TPS 001, JALEMU RAYA, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122003",
+        "tps": "6210122003002",
+        "url": "62\/6210\/621012\/6210122003\/6210122003002.json",
+        "nama": "TPS 002, JALEMU RAYA, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122005",
+        "tps": "6210122005001",
+        "url": "62\/6210\/621012\/6210122005\/6210122005001.json",
+        "nama": "TPS 001, MANGKAWUK, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210121006",
+        "tps": "6210121006001",
+        "url": "62\/6210\/621012\/6210121006\/6210121006001.json",
+        "nama": "TPS 001, RABAMBANG, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210121006",
+        "tps": "6210121006002",
+        "url": "62\/6210\/621012\/6210121006\/6210121006002.json",
+        "nama": "TPS 002, RABAMBANG, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210121006",
+        "tps": "6210121006003",
+        "url": "62\/6210\/621012\/6210121006\/6210121006003.json",
+        "nama": "TPS 003, RABAMBANG, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210121006",
+        "tps": "6210121006004",
+        "url": "62\/6210\/621012\/6210121006\/6210121006004.json",
+        "nama": "TPS 004, RABAMBANG, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210121006",
+        "tps": "6210121006005",
+        "url": "62\/6210\/621012\/6210121006\/6210121006005.json",
+        "nama": "TPS 005, RABAMBANG, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122007",
+        "tps": "6210122007001",
+        "url": "62\/6210\/621012\/6210122007\/6210122007001.json",
+        "nama": "TPS 001, TAJAH ANTANG RAYA, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122011",
+        "tps": "6210122011001",
+        "url": "62\/6210\/621012\/6210122011\/6210122011001.json",
+        "nama": "TPS 001, TUMBANG BAHANEI, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122011",
+        "tps": "6210122011002",
+        "url": "62\/6210\/621012\/6210122011\/6210122011002.json",
+        "nama": "TPS 002, TUMBANG BAHANEI, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122002",
+        "tps": "6210122002001",
+        "url": "62\/6210\/621012\/6210122002\/6210122002001.json",
+        "nama": "TPS 001, TUMBANG JALEMU KAJUEI, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122008",
+        "tps": "6210122008001",
+        "url": "62\/6210\/621012\/6210122008\/6210122008001.json",
+        "nama": "TPS 001, TUMBANG KUAYAN, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122008",
+        "tps": "6210122008002",
+        "url": "62\/6210\/621012\/6210122008\/6210122008002.json",
+        "nama": "TPS 002, TUMBANG KUAYAN, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122009",
+        "tps": "6210122009001",
+        "url": "62\/6210\/621012\/6210122009\/6210122009001.json",
+        "nama": "TPS 001, TUMBANG LANGGAH, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621012",
+        "desa": "6210122010",
+        "tps": "6210122010001",
+        "url": "62\/6210\/621012\/6210122010\/6210122010001.json",
+        "nama": "TPS 001, TUSANG RAYA, RUNGAN BARAT, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102003",
+        "tps": "6210102003001",
+        "url": "62\/6210\/621010\/6210102003\/6210102003001.json",
+        "nama": "TPS 001, BATU PUTER, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102003",
+        "tps": "6210102003002",
+        "url": "62\/6210\/621010\/6210102003\/6210102003002.json",
+        "nama": "TPS 002, BATU PUTER, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102003",
+        "tps": "6210102003003",
+        "url": "62\/6210\/621010\/6210102003\/6210102003003.json",
+        "nama": "TPS 003, BATU PUTER, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102006",
+        "tps": "6210102006001",
+        "url": "62\/6210\/621010\/6210102006\/6210102006001.json",
+        "nama": "TPS 001, HANTAPANG, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102006",
+        "tps": "6210102006002",
+        "url": "62\/6210\/621010\/6210102006\/6210102006002.json",
+        "nama": "TPS 002, HANTAPANG, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102001",
+        "tps": "6210102001001",
+        "url": "62\/6210\/621010\/6210102001\/6210102001001.json",
+        "nama": "TPS 001, JANGKIT, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102001",
+        "tps": "6210102001002",
+        "url": "62\/6210\/621010\/6210102001\/6210102001002.json",
+        "nama": "TPS 002, JANGKIT, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102007",
+        "tps": "6210102007001",
+        "url": "62\/6210\/621010\/6210102007\/6210102007001.json",
+        "nama": "TPS 001, SANGAL, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102007",
+        "tps": "6210102007002",
+        "url": "62\/6210\/621010\/6210102007\/6210102007002.json",
+        "nama": "TPS 002, SANGAL, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102005",
+        "tps": "6210102005001",
+        "url": "62\/6210\/621010\/6210102005\/6210102005001.json",
+        "nama": "TPS 001, SEI ANTAI, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102005",
+        "tps": "6210102005002",
+        "url": "62\/6210\/621010\/6210102005\/6210102005002.json",
+        "nama": "TPS 002, SEI ANTAI, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102005",
+        "tps": "6210102005003",
+        "url": "62\/6210\/621010\/6210102005\/6210102005003.json",
+        "nama": "TPS 003, SEI ANTAI, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102002",
+        "tps": "6210102002001",
+        "url": "62\/6210\/621010\/6210102002\/6210102002001.json",
+        "nama": "TPS 001, TUMBANG LAPAN, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102002",
+        "tps": "6210102002002",
+        "url": "62\/6210\/621010\/6210102002\/6210102002002.json",
+        "nama": "TPS 002, TUMBANG LAPAN, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102002",
+        "tps": "6210102002003",
+        "url": "62\/6210\/621010\/6210102002\/6210102002003.json",
+        "nama": "TPS 003, TUMBANG LAPAN, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102012",
+        "tps": "6210102012001",
+        "url": "62\/6210\/621010\/6210102012\/6210102012001.json",
+        "nama": "TPS 001, TUMBANG MUJAI, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210101004",
+        "tps": "6210101004001",
+        "url": "62\/6210\/621010\/6210101004\/6210101004001.json",
+        "nama": "TPS 001, TUMBANG RAHUYAN, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210101004",
+        "tps": "6210101004002",
+        "url": "62\/6210\/621010\/6210101004\/6210101004002.json",
+        "nama": "TPS 002, TUMBANG RAHUYAN, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210101004",
+        "tps": "6210101004003",
+        "url": "62\/6210\/621010\/6210101004\/6210101004003.json",
+        "nama": "TPS 003, TUMBANG RAHUYAN, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210101004",
+        "tps": "6210101004004",
+        "url": "62\/6210\/621010\/6210101004\/6210101004004.json",
+        "nama": "TPS 004, TUMBANG RAHUYAN, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621010",
+        "desa": "6210102008",
+        "tps": "6210102008001",
+        "url": "62\/6210\/621010\/6210102008\/6210102008001.json",
+        "nama": "TPS 001, TUMBANG TUWE, RUNGAN HULU, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012011",
+        "tps": "6210012011001",
+        "url": "62\/6210\/621001\/6210012011\/6210012011001.json",
+        "nama": "TPS 001, PAMATANG LIMAU, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012011",
+        "tps": "6210012011002",
+        "url": "62\/6210\/621001\/6210012011\/6210012011002.json",
+        "nama": "TPS 002, PAMATANG LIMAU, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012014",
+        "tps": "6210012014001",
+        "url": "62\/6210\/621001\/6210012014\/6210012014001.json",
+        "nama": "TPS 001, RABAUH, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012014",
+        "tps": "6210012014002",
+        "url": "62\/6210\/621001\/6210012014\/6210012014002.json",
+        "nama": "TPS 002, RABAUH, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012002",
+        "tps": "6210012002001",
+        "url": "62\/6210\/621001\/6210012002\/6210012002001.json",
+        "nama": "TPS 001, SEPANG KOTA, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012002",
+        "tps": "6210012002002",
+        "url": "62\/6210\/621001\/6210012002\/6210012002002.json",
+        "nama": "TPS 002, SEPANG KOTA, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012002",
+        "tps": "6210012002003",
+        "url": "62\/6210\/621001\/6210012002\/6210012002003.json",
+        "nama": "TPS 003, SEPANG KOTA, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012002",
+        "tps": "6210012002004",
+        "url": "62\/6210\/621001\/6210012002\/6210012002004.json",
+        "nama": "TPS 004, SEPANG KOTA, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012002",
+        "tps": "6210012002005",
+        "url": "62\/6210\/621001\/6210012002\/6210012002005.json",
+        "nama": "TPS 005, SEPANG KOTA, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012002",
+        "tps": "6210012002006",
+        "url": "62\/6210\/621001\/6210012002\/6210012002006.json",
+        "nama": "TPS 006, SEPANG KOTA, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210011001",
+        "tps": "6210011001001",
+        "url": "62\/6210\/621001\/6210011001\/6210011001001.json",
+        "nama": "TPS 001, SEPANG SIMIN, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210011001",
+        "tps": "6210011001002",
+        "url": "62\/6210\/621001\/6210011001\/6210011001002.json",
+        "nama": "TPS 002, SEPANG SIMIN, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210011001",
+        "tps": "6210011001003",
+        "url": "62\/6210\/621001\/6210011001\/6210011001003.json",
+        "nama": "TPS 003, SEPANG SIMIN, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210011001",
+        "tps": "6210011001004",
+        "url": "62\/6210\/621001\/6210011001\/6210011001004.json",
+        "nama": "TPS 004, SEPANG SIMIN, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210011001",
+        "tps": "6210011001005",
+        "url": "62\/6210\/621001\/6210011001\/6210011001005.json",
+        "nama": "TPS 005, SEPANG SIMIN, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012012",
+        "tps": "6210012012001",
+        "url": "62\/6210\/621001\/6210012012\/6210012012001.json",
+        "nama": "TPS 001, TAMPELAS, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012012",
+        "tps": "6210012012002",
+        "url": "62\/6210\/621001\/6210012012\/6210012012002.json",
+        "nama": "TPS 002, TAMPELAS, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012004",
+        "tps": "6210012004001",
+        "url": "62\/6210\/621001\/6210012004\/6210012004001.json",
+        "nama": "TPS 001, TANJUNG KARITAK, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012004",
+        "tps": "6210012004002",
+        "url": "62\/6210\/621001\/6210012004\/6210012004002.json",
+        "nama": "TPS 002, TANJUNG KARITAK, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012004",
+        "tps": "6210012004003",
+        "url": "62\/6210\/621001\/6210012004\/6210012004003.json",
+        "nama": "TPS 003, TANJUNG KARITAK, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012003",
+        "tps": "6210012003001",
+        "url": "62\/6210\/621001\/6210012003\/6210012003001.json",
+        "nama": "TPS 001, TEWAI BARU, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012003",
+        "tps": "6210012003002",
+        "url": "62\/6210\/621001\/6210012003\/6210012003002.json",
+        "nama": "TPS 002, TEWAI BARU, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621001",
+        "desa": "6210012003",
+        "tps": "6210012003003",
+        "url": "62\/6210\/621001\/6210012003\/6210012003003.json",
+        "nama": "TPS 003, TEWAI BARU, SEPANG, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032012",
+        "tps": "6210032012001",
+        "url": "62\/6210\/621003\/6210032012\/6210032012001.json",
+        "nama": "TPS 001, BATU NYAPAU, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032012",
+        "tps": "6210032012002",
+        "url": "62\/6210\/621003\/6210032012\/6210032012002.json",
+        "nama": "TPS 002, BATU NYAPAU, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032004",
+        "tps": "6210032004001",
+        "url": "62\/6210\/621003\/6210032004\/6210032004001.json",
+        "nama": "TPS 001, BATU NYIWUH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032004",
+        "tps": "6210032004002",
+        "url": "62\/6210\/621003\/6210032004\/6210032004002.json",
+        "nama": "TPS 002, BATU NYIWUH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032004",
+        "tps": "6210032004003",
+        "url": "62\/6210\/621003\/6210032004\/6210032004003.json",
+        "nama": "TPS 003, BATU NYIWUH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032004",
+        "tps": "6210032004004",
+        "url": "62\/6210\/621003\/6210032004\/6210032004004.json",
+        "nama": "TPS 004, BATU NYIWUH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032015",
+        "tps": "6210032015001",
+        "url": "62\/6210\/621003\/6210032015\/6210032015001.json",
+        "nama": "TPS 001, KARASON RAYA, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032015",
+        "tps": "6210032015002",
+        "url": "62\/6210\/621003\/6210032015\/6210032015002.json",
+        "nama": "TPS 002, KARASON RAYA, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032003",
+        "tps": "6210032003001",
+        "url": "62\/6210\/621003\/6210032003\/6210032003001.json",
+        "nama": "TPS 001, KASINTU, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032003",
+        "tps": "6210032003002",
+        "url": "62\/6210\/621003\/6210032003\/6210032003002.json",
+        "nama": "TPS 002, KASINTU, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032016",
+        "tps": "6210032016001",
+        "url": "62\/6210\/621003\/6210032016\/6210032016001.json",
+        "nama": "TPS 001, RANGAN MIHING, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032008",
+        "tps": "6210032008001",
+        "url": "62\/6210\/621003\/6210032008\/6210032008001.json",
+        "nama": "TPS 001, SANDUNG TAMBUN, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032008",
+        "tps": "6210032008002",
+        "url": "62\/6210\/621003\/6210032008\/6210032008002.json",
+        "nama": "TPS 002, SANDUNG TAMBUN, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032008",
+        "tps": "6210032008003",
+        "url": "62\/6210\/621003\/6210032008\/6210032008003.json",
+        "nama": "TPS 003, SANDUNG TAMBUN, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032001",
+        "tps": "6210032001001",
+        "url": "62\/6210\/621003\/6210032001\/6210032001001.json",
+        "nama": "TPS 001, SARE RANGAN, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032001",
+        "tps": "6210032001002",
+        "url": "62\/6210\/621003\/6210032001\/6210032001002.json",
+        "nama": "TPS 002, SARE RANGAN, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032001",
+        "tps": "6210032001003",
+        "url": "62\/6210\/621003\/6210032001\/6210032001003.json",
+        "nama": "TPS 003, SARE RANGAN, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032007",
+        "tps": "6210032007001",
+        "url": "62\/6210\/621003\/6210032007\/6210032007001.json",
+        "nama": "TPS 001, SEI RIANG, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032007",
+        "tps": "6210032007002",
+        "url": "62\/6210\/621003\/6210032007\/6210032007002.json",
+        "nama": "TPS 002, SEI RIANG, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032011",
+        "tps": "6210032011001",
+        "url": "62\/6210\/621003\/6210032011\/6210032011001.json",
+        "nama": "TPS 001, SUMUR MAS, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032011",
+        "tps": "6210032011002",
+        "url": "62\/6210\/621003\/6210032011\/6210032011002.json",
+        "nama": "TPS 002, SUMUR MAS, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032011",
+        "tps": "6210032011003",
+        "url": "62\/6210\/621003\/6210032011\/6210032011003.json",
+        "nama": "TPS 003, SUMUR MAS, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032013",
+        "tps": "6210032013001",
+        "url": "62\/6210\/621003\/6210032013\/6210032013001.json",
+        "nama": "TPS 001, TAJA URAP, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032013",
+        "tps": "6210032013002",
+        "url": "62\/6210\/621003\/6210032013\/6210032013002.json",
+        "nama": "TPS 002, TAJA URAP, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032009",
+        "tps": "6210032009001",
+        "url": "62\/6210\/621003\/6210032009\/6210032009001.json",
+        "nama": "TPS 001, TANJUNG UNTUNG, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032009",
+        "tps": "6210032009002",
+        "url": "62\/6210\/621003\/6210032009\/6210032009002.json",
+        "nama": "TPS 002, TANJUNG UNTUNG, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032009",
+        "tps": "6210032009003",
+        "url": "62\/6210\/621003\/6210032009\/6210032009003.json",
+        "nama": "TPS 003, TANJUNG UNTUNG, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032014",
+        "tps": "6210032014001",
+        "url": "62\/6210\/621003\/6210032014\/6210032014001.json",
+        "nama": "TPS 001, TELUK LAWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032014",
+        "tps": "6210032014002",
+        "url": "62\/6210\/621003\/6210032014\/6210032014002.json",
+        "nama": "TPS 002, TELUK LAWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032014",
+        "tps": "6210032014003",
+        "url": "62\/6210\/621003\/6210032014\/6210032014003.json",
+        "nama": "TPS 003, TELUK LAWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005001",
+        "url": "62\/6210\/621003\/6210031005\/6210031005001.json",
+        "nama": "TPS 001, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005002",
+        "url": "62\/6210\/621003\/6210031005\/6210031005002.json",
+        "nama": "TPS 002, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005003",
+        "url": "62\/6210\/621003\/6210031005\/6210031005003.json",
+        "nama": "TPS 003, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005004",
+        "url": "62\/6210\/621003\/6210031005\/6210031005004.json",
+        "nama": "TPS 004, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005005",
+        "url": "62\/6210\/621003\/6210031005\/6210031005005.json",
+        "nama": "TPS 005, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005006",
+        "url": "62\/6210\/621003\/6210031005\/6210031005006.json",
+        "nama": "TPS 006, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005007",
+        "url": "62\/6210\/621003\/6210031005\/6210031005007.json",
+        "nama": "TPS 007, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005008",
+        "url": "62\/6210\/621003\/6210031005\/6210031005008.json",
+        "nama": "TPS 008, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005009",
+        "url": "62\/6210\/621003\/6210031005\/6210031005009.json",
+        "nama": "TPS 009, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005010",
+        "url": "62\/6210\/621003\/6210031005\/6210031005010.json",
+        "nama": "TPS 010, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005011",
+        "url": "62\/6210\/621003\/6210031005\/6210031005011.json",
+        "nama": "TPS 011, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005012",
+        "url": "62\/6210\/621003\/6210031005\/6210031005012.json",
+        "nama": "TPS 012, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005013",
+        "url": "62\/6210\/621003\/6210031005\/6210031005013.json",
+        "nama": "TPS 013, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005014",
+        "url": "62\/6210\/621003\/6210031005\/6210031005014.json",
+        "nama": "TPS 014, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005015",
+        "url": "62\/6210\/621003\/6210031005\/6210031005015.json",
+        "nama": "TPS 015, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005016",
+        "url": "62\/6210\/621003\/6210031005\/6210031005016.json",
+        "nama": "TPS 016, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005017",
+        "url": "62\/6210\/621003\/6210031005\/6210031005017.json",
+        "nama": "TPS 017, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005018",
+        "url": "62\/6210\/621003\/6210031005\/6210031005018.json",
+        "nama": "TPS 018, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005019",
+        "url": "62\/6210\/621003\/6210031005\/6210031005019.json",
+        "nama": "TPS 019, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005020",
+        "url": "62\/6210\/621003\/6210031005\/6210031005020.json",
+        "nama": "TPS 020, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005021",
+        "url": "62\/6210\/621003\/6210031005\/6210031005021.json",
+        "nama": "TPS 021, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005022",
+        "url": "62\/6210\/621003\/6210031005\/6210031005022.json",
+        "nama": "TPS 022, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005023",
+        "url": "62\/6210\/621003\/6210031005\/6210031005023.json",
+        "nama": "TPS 023, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005024",
+        "url": "62\/6210\/621003\/6210031005\/6210031005024.json",
+        "nama": "TPS 024, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005025",
+        "url": "62\/6210\/621003\/6210031005\/6210031005025.json",
+        "nama": "TPS 025, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005026",
+        "url": "62\/6210\/621003\/6210031005\/6210031005026.json",
+        "nama": "TPS 026, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005027",
+        "url": "62\/6210\/621003\/6210031005\/6210031005027.json",
+        "nama": "TPS 027, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005028",
+        "url": "62\/6210\/621003\/6210031005\/6210031005028.json",
+        "nama": "TPS 028, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210031005",
+        "tps": "6210031005029",
+        "url": "62\/6210\/621003\/6210031005\/6210031005029.json",
+        "nama": "TPS 029, TEWAH, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032006",
+        "tps": "6210032006001",
+        "url": "62\/6210\/621003\/6210032006\/6210032006001.json",
+        "nama": "TPS 001, TUMBANG HABAON, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032006",
+        "tps": "6210032006002",
+        "url": "62\/6210\/621003\/6210032006\/6210032006002.json",
+        "nama": "TPS 002, TUMBANG HABAON, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032002",
+        "tps": "6210032002001",
+        "url": "62\/6210\/621003\/6210032002\/6210032002001.json",
+        "nama": "TPS 001, TUMBANG PAJANGEI, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032002",
+        "tps": "6210032002002",
+        "url": "62\/6210\/621003\/6210032002\/6210032002002.json",
+        "nama": "TPS 002, TUMBANG PAJANGEI, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032010",
+        "tps": "6210032010001",
+        "url": "62\/6210\/621003\/6210032010\/6210032010001.json",
+        "nama": "TPS 001, UPON BATU, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6210",
+        "kecamatan": "621003",
+        "desa": "6210032010",
+        "tps": "6210032010002",
+        "url": "62\/6210\/621003\/6210032010\/6210032010002.json",
+        "nama": "TPS 002, UPON BATU, TEWAH, GUNUNG MAS, KALIMANTAN TENGAH"
+    }
+]

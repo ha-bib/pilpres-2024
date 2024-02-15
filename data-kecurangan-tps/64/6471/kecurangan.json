@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "64",
+        "kabupaten": "6471",
+        "kecamatan": "647105",
+        "desa": "6471051002",
+        "tps": "6471051002088",
+        "nama": "TPS 088, SEPINGGAN, BALIKPAPAN SELATAN, KOTA BALIKPAPAN, KALIMANTAN TIMUR",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6471\/647105\/6471051002\/6471051002088"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6471",
+        "kecamatan": "647105",
+        "desa": "6471051002",
+        "tps": "6471051002102",
+        "nama": "TPS 102, SEPINGGAN, BALIKPAPAN SELATAN, KOTA BALIKPAPAN, KALIMANTAN TIMUR",
+        "selisih": 18,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6471\/647105\/6471051002\/6471051002102"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6471",
+        "kecamatan": "647105",
+        "desa": "6471051009",
+        "tps": "6471051009022",
+        "nama": "TPS 022, SEPINGGAN RAYA, BALIKPAPAN SELATAN, KOTA BALIKPAPAN, KALIMANTAN TIMUR",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6471\/647105\/6471051009\/6471051009022"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6471",
+        "kecamatan": "647104",
+        "desa": "6471041002",
+        "tps": "6471041002056",
+        "nama": "TPS 056, GUNUNGSARI ILIR, BALIKPAPAN TENGAH, KOTA BALIKPAPAN, KALIMANTAN TIMUR",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6471\/647104\/6471041002\/6471041002056"
+    }
+]

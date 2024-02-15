@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "93",
+        "kabupaten": "9301",
+        "kecamatan": "930114",
+        "desa": "9301142004",
+        "tps": "9301142004004",
+        "nama": "TPS 004, PADANG RAHARJA, MALIND, MERAUKE, PAPUA SELATAN",
+        "selisih": 30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/93\/9301\/930114\/9301142004\/9301142004004"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9301",
+        "kecamatan": "930101",
+        "desa": "9301011004",
+        "tps": "9301011004043",
+        "nama": "TPS 043, MANDALA, MERAUKE, MERAUKE, PAPUA SELATAN",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/93\/9301\/930101\/9301011004\/9301011004043"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9301",
+        "kecamatan": "930105",
+        "desa": "9301052008",
+        "tps": "9301052008009",
+        "nama": "TPS 009, MARGA MULYA, SEMANGGA, MERAUKE, PAPUA SELATAN",
+        "selisih": -157,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/93\/9301\/930105\/9301052008\/9301052008009"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9301",
+        "kecamatan": "930101",
+        "desa": "9301011010",
+        "tps": "9301011010019",
+        "nama": "TPS 019, SERINGGU JAYA, MERAUKE, MERAUKE, PAPUA SELATAN",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/93\/9301\/930101\/9301011010\/9301011010019"
+    }
+]

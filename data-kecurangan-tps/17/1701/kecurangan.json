@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "17",
+        "kabupaten": "1701",
+        "kecamatan": "170111",
+        "desa": "1701112001",
+        "tps": "1701112001002",
+        "nama": "TPS 002, BATU KUNING, PASAR MANNA, BENGKULU SELATAN, BENGKULU",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1701\/170111\/1701112001\/1701112001002"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1701",
+        "kecamatan": "170103",
+        "desa": "1701032021",
+        "tps": "1701032021003",
+        "nama": "TPS 003, GANJUH, PINO, BENGKULU SELATAN, BENGKULU",
+        "selisih": 80,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1701\/170103\/1701032021\/1701032021003"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1701",
+        "kecamatan": "170106",
+        "desa": "1701062021",
+        "tps": "1701062021001",
+        "nama": "TPS 001, TELAGA DALAM, PINO RAYA, BENGKULU SELATAN, BENGKULU",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1701\/170106\/1701062021\/1701062021001"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1701",
+        "kecamatan": "170102",
+        "desa": "1701022005",
+        "tps": "1701022005003",
+        "nama": "TPS 003, DARAT SAWAH, SEGINIM, BENGKULU SELATAN, BENGKULU",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1701\/170102\/1701022005\/1701022005003"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1701",
+        "kecamatan": "170102",
+        "desa": "1701022005",
+        "tps": "1701022005003",
+        "nama": "TPS 003, DARAT SAWAH, SEGINIM, BENGKULU SELATAN, BENGKULU",
+        "selisih": 80,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1701\/170102\/1701022005\/1701022005003"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1701",
+        "kecamatan": "170102",
+        "desa": "1701022005",
+        "tps": "1701022005003",
+        "nama": "TPS 003, DARAT SAWAH, SEGINIM, BENGKULU SELATAN, BENGKULU",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1701\/170102\/1701022005\/1701022005003"
+    }
+]

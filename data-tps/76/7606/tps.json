@@ -1,0 +1,3737 @@
+[
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001001",
+        "url": "76\/7606\/760603\/7606032001\/7606032001001.json",
+        "nama": "TPS 001, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001002",
+        "url": "76\/7606\/760603\/7606032001\/7606032001002.json",
+        "nama": "TPS 002, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001003",
+        "url": "76\/7606\/760603\/7606032001\/7606032001003.json",
+        "nama": "TPS 003, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001004",
+        "url": "76\/7606\/760603\/7606032001\/7606032001004.json",
+        "nama": "TPS 004, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001005",
+        "url": "76\/7606\/760603\/7606032001\/7606032001005.json",
+        "nama": "TPS 005, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001006",
+        "url": "76\/7606\/760603\/7606032001\/7606032001006.json",
+        "nama": "TPS 006, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001007",
+        "url": "76\/7606\/760603\/7606032001\/7606032001007.json",
+        "nama": "TPS 007, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001008",
+        "url": "76\/7606\/760603\/7606032001\/7606032001008.json",
+        "nama": "TPS 008, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001009",
+        "url": "76\/7606\/760603\/7606032001\/7606032001009.json",
+        "nama": "TPS 009, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001010",
+        "url": "76\/7606\/760603\/7606032001\/7606032001010.json",
+        "nama": "TPS 010, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001011",
+        "url": "76\/7606\/760603\/7606032001\/7606032001011.json",
+        "nama": "TPS 011, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001012",
+        "url": "76\/7606\/760603\/7606032001\/7606032001012.json",
+        "nama": "TPS 012, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001013",
+        "url": "76\/7606\/760603\/7606032001\/7606032001013.json",
+        "nama": "TPS 013, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001014",
+        "url": "76\/7606\/760603\/7606032001\/7606032001014.json",
+        "nama": "TPS 014, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001015",
+        "url": "76\/7606\/760603\/7606032001\/7606032001015.json",
+        "nama": "TPS 015, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001016",
+        "url": "76\/7606\/760603\/7606032001\/7606032001016.json",
+        "nama": "TPS 016, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001017",
+        "url": "76\/7606\/760603\/7606032001\/7606032001017.json",
+        "nama": "TPS 017, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001018",
+        "url": "76\/7606\/760603\/7606032001\/7606032001018.json",
+        "nama": "TPS 018, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001019",
+        "url": "76\/7606\/760603\/7606032001\/7606032001019.json",
+        "nama": "TPS 019, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001020",
+        "url": "76\/7606\/760603\/7606032001\/7606032001020.json",
+        "nama": "TPS 020, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032001",
+        "tps": "7606032001021",
+        "url": "76\/7606\/760603\/7606032001\/7606032001021.json",
+        "nama": "TPS 021, BABANA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032010",
+        "tps": "7606032010001",
+        "url": "76\/7606\/760603\/7606032010\/7606032010001.json",
+        "nama": "TPS 001, BARAKKANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032010",
+        "tps": "7606032010002",
+        "url": "76\/7606\/760603\/7606032010\/7606032010002.json",
+        "nama": "TPS 002, BARAKKANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032010",
+        "tps": "7606032010003",
+        "url": "76\/7606\/760603\/7606032010\/7606032010003.json",
+        "nama": "TPS 003, BARAKKANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032010",
+        "tps": "7606032010004",
+        "url": "76\/7606\/760603\/7606032010\/7606032010004.json",
+        "nama": "TPS 004, BARAKKANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032010",
+        "tps": "7606032010005",
+        "url": "76\/7606\/760603\/7606032010\/7606032010005.json",
+        "nama": "TPS 005, BARAKKANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032010",
+        "tps": "7606032010006",
+        "url": "76\/7606\/760603\/7606032010\/7606032010006.json",
+        "nama": "TPS 006, BARAKKANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032009",
+        "tps": "7606032009001",
+        "url": "76\/7606\/760603\/7606032009\/7606032009001.json",
+        "nama": "TPS 001, BOJO, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032009",
+        "tps": "7606032009002",
+        "url": "76\/7606\/760603\/7606032009\/7606032009002.json",
+        "nama": "TPS 002, BOJO, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032009",
+        "tps": "7606032009003",
+        "url": "76\/7606\/760603\/7606032009\/7606032009003.json",
+        "nama": "TPS 003, BOJO, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032009",
+        "tps": "7606032009004",
+        "url": "76\/7606\/760603\/7606032009\/7606032009004.json",
+        "nama": "TPS 004, BOJO, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032009",
+        "tps": "7606032009005",
+        "url": "76\/7606\/760603\/7606032009\/7606032009005.json",
+        "nama": "TPS 005, BOJO, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032009",
+        "tps": "7606032009006",
+        "url": "76\/7606\/760603\/7606032009\/7606032009006.json",
+        "nama": "TPS 006, BOJO, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032009",
+        "tps": "7606032009007",
+        "url": "76\/7606\/760603\/7606032009\/7606032009007.json",
+        "nama": "TPS 007, BOJO, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005001",
+        "url": "76\/7606\/760603\/7606032005\/7606032005001.json",
+        "nama": "TPS 001, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005002",
+        "url": "76\/7606\/760603\/7606032005\/7606032005002.json",
+        "nama": "TPS 002, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005003",
+        "url": "76\/7606\/760603\/7606032005\/7606032005003.json",
+        "nama": "TPS 003, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005004",
+        "url": "76\/7606\/760603\/7606032005\/7606032005004.json",
+        "nama": "TPS 004, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005005",
+        "url": "76\/7606\/760603\/7606032005\/7606032005005.json",
+        "nama": "TPS 005, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005006",
+        "url": "76\/7606\/760603\/7606032005\/7606032005006.json",
+        "nama": "TPS 006, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005007",
+        "url": "76\/7606\/760603\/7606032005\/7606032005007.json",
+        "nama": "TPS 007, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005008",
+        "url": "76\/7606\/760603\/7606032005\/7606032005008.json",
+        "nama": "TPS 008, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005009",
+        "url": "76\/7606\/760603\/7606032005\/7606032005009.json",
+        "nama": "TPS 009, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032005",
+        "tps": "7606032005010",
+        "url": "76\/7606\/760603\/7606032005\/7606032005010.json",
+        "nama": "TPS 010, KIRE, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032011",
+        "tps": "7606032011001",
+        "url": "76\/7606\/760603\/7606032011\/7606032011001.json",
+        "nama": "TPS 001, LEMBAH HADA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032011",
+        "tps": "7606032011002",
+        "url": "76\/7606\/760603\/7606032011\/7606032011002.json",
+        "nama": "TPS 002, LEMBAH HADA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032002",
+        "tps": "7606032002001",
+        "url": "76\/7606\/760603\/7606032002\/7606032002001.json",
+        "nama": "TPS 001, LUMU, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032002",
+        "tps": "7606032002002",
+        "url": "76\/7606\/760603\/7606032002\/7606032002002.json",
+        "nama": "TPS 002, LUMU, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032002",
+        "tps": "7606032002003",
+        "url": "76\/7606\/760603\/7606032002\/7606032002003.json",
+        "nama": "TPS 003, LUMU, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032002",
+        "tps": "7606032002004",
+        "url": "76\/7606\/760603\/7606032002\/7606032002004.json",
+        "nama": "TPS 004, LUMU, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032002",
+        "tps": "7606032002005",
+        "url": "76\/7606\/760603\/7606032002\/7606032002005.json",
+        "nama": "TPS 005, LUMU, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032002",
+        "tps": "7606032002006",
+        "url": "76\/7606\/760603\/7606032002\/7606032002006.json",
+        "nama": "TPS 006, LUMU, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032002",
+        "tps": "7606032002007",
+        "url": "76\/7606\/760603\/7606032002\/7606032002007.json",
+        "nama": "TPS 007, LUMU, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032002",
+        "tps": "7606032002008",
+        "url": "76\/7606\/760603\/7606032002\/7606032002008.json",
+        "nama": "TPS 008, LUMU, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032008",
+        "tps": "7606032008001",
+        "url": "76\/7606\/760603\/7606032008\/7606032008001.json",
+        "nama": "TPS 001, PASAPA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032008",
+        "tps": "7606032008002",
+        "url": "76\/7606\/760603\/7606032008\/7606032008002.json",
+        "nama": "TPS 002, PASAPA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032008",
+        "tps": "7606032008003",
+        "url": "76\/7606\/760603\/7606032008\/7606032008003.json",
+        "nama": "TPS 003, PASAPA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032008",
+        "tps": "7606032008004",
+        "url": "76\/7606\/760603\/7606032008\/7606032008004.json",
+        "nama": "TPS 004, PASAPA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032008",
+        "tps": "7606032008005",
+        "url": "76\/7606\/760603\/7606032008\/7606032008005.json",
+        "nama": "TPS 005, PASAPA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032003",
+        "tps": "7606032003001",
+        "url": "76\/7606\/760603\/7606032003\/7606032003001.json",
+        "nama": "TPS 001, PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032003",
+        "tps": "7606032003002",
+        "url": "76\/7606\/760603\/7606032003\/7606032003002.json",
+        "nama": "TPS 002, PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032003",
+        "tps": "7606032003003",
+        "url": "76\/7606\/760603\/7606032003\/7606032003003.json",
+        "nama": "TPS 003, PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032003",
+        "tps": "7606032003004",
+        "url": "76\/7606\/760603\/7606032003\/7606032003004.json",
+        "nama": "TPS 004, PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032003",
+        "tps": "7606032003005",
+        "url": "76\/7606\/760603\/7606032003\/7606032003005.json",
+        "nama": "TPS 005, PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032003",
+        "tps": "7606032003006",
+        "url": "76\/7606\/760603\/7606032003\/7606032003006.json",
+        "nama": "TPS 006, PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032003",
+        "tps": "7606032003007",
+        "url": "76\/7606\/760603\/7606032003\/7606032003007.json",
+        "nama": "TPS 007, PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032003",
+        "tps": "7606032003008",
+        "url": "76\/7606\/760603\/7606032003\/7606032003008.json",
+        "nama": "TPS 008, PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032003",
+        "tps": "7606032003009",
+        "url": "76\/7606\/760603\/7606032003\/7606032003009.json",
+        "nama": "TPS 009, PONTANAKAYANG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004001",
+        "url": "76\/7606\/760603\/7606032004\/7606032004001.json",
+        "nama": "TPS 001, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004002",
+        "url": "76\/7606\/760603\/7606032004\/7606032004002.json",
+        "nama": "TPS 002, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004003",
+        "url": "76\/7606\/760603\/7606032004\/7606032004003.json",
+        "nama": "TPS 003, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004004",
+        "url": "76\/7606\/760603\/7606032004\/7606032004004.json",
+        "nama": "TPS 004, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004005",
+        "url": "76\/7606\/760603\/7606032004\/7606032004005.json",
+        "nama": "TPS 005, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004006",
+        "url": "76\/7606\/760603\/7606032004\/7606032004006.json",
+        "nama": "TPS 006, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004007",
+        "url": "76\/7606\/760603\/7606032004\/7606032004007.json",
+        "nama": "TPS 007, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004008",
+        "url": "76\/7606\/760603\/7606032004\/7606032004008.json",
+        "nama": "TPS 008, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004009",
+        "url": "76\/7606\/760603\/7606032004\/7606032004009.json",
+        "nama": "TPS 009, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004010",
+        "url": "76\/7606\/760603\/7606032004\/7606032004010.json",
+        "nama": "TPS 010, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004011",
+        "url": "76\/7606\/760603\/7606032004\/7606032004011.json",
+        "nama": "TPS 011, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032004",
+        "tps": "7606032004012",
+        "url": "76\/7606\/760603\/7606032004\/7606032004012.json",
+        "nama": "TPS 012, SALOGATTA, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032007",
+        "tps": "7606032007001",
+        "url": "76\/7606\/760603\/7606032007\/7606032007001.json",
+        "nama": "TPS 001, SALUMANURUNG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032007",
+        "tps": "7606032007002",
+        "url": "76\/7606\/760603\/7606032007\/7606032007002.json",
+        "nama": "TPS 002, SALUMANURUNG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032007",
+        "tps": "7606032007003",
+        "url": "76\/7606\/760603\/7606032007\/7606032007003.json",
+        "nama": "TPS 003, SALUMANURUNG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032007",
+        "tps": "7606032007004",
+        "url": "76\/7606\/760603\/7606032007\/7606032007004.json",
+        "nama": "TPS 004, SALUMANURUNG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032007",
+        "tps": "7606032007005",
+        "url": "76\/7606\/760603\/7606032007\/7606032007005.json",
+        "nama": "TPS 005, SALUMANURUNG, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032006",
+        "tps": "7606032006001",
+        "url": "76\/7606\/760603\/7606032006\/7606032006001.json",
+        "nama": "TPS 001, TINALI, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032006",
+        "tps": "7606032006002",
+        "url": "76\/7606\/760603\/7606032006\/7606032006002.json",
+        "nama": "TPS 002, TINALI, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032006",
+        "tps": "7606032006003",
+        "url": "76\/7606\/760603\/7606032006\/7606032006003.json",
+        "nama": "TPS 003, TINALI, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032006",
+        "tps": "7606032006004",
+        "url": "76\/7606\/760603\/7606032006\/7606032006004.json",
+        "nama": "TPS 004, TINALI, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032006",
+        "tps": "7606032006005",
+        "url": "76\/7606\/760603\/7606032006\/7606032006005.json",
+        "nama": "TPS 005, TINALI, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760603",
+        "desa": "7606032006",
+        "tps": "7606032006006",
+        "url": "76\/7606\/760603\/7606032006\/7606032006006.json",
+        "nama": "TPS 006, TINALI, BUDONG-BUDONG, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052007",
+        "tps": "7606052007001",
+        "url": "76\/7606\/760605\/7606052007\/7606052007001.json",
+        "nama": "TPS 001, BENGGAULU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052007",
+        "tps": "7606052007002",
+        "url": "76\/7606\/760605\/7606052007\/7606052007002.json",
+        "nama": "TPS 002, BENGGAULU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052007",
+        "tps": "7606052007003",
+        "url": "76\/7606\/760605\/7606052007\/7606052007003.json",
+        "nama": "TPS 003, BENGGAULU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052007",
+        "tps": "7606052007004",
+        "url": "76\/7606\/760605\/7606052007\/7606052007004.json",
+        "nama": "TPS 004, BENGGAULU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052007",
+        "tps": "7606052007005",
+        "url": "76\/7606\/760605\/7606052007\/7606052007005.json",
+        "nama": "TPS 005, BENGGAULU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052004",
+        "tps": "7606052004001",
+        "url": "76\/7606\/760605\/7606052004\/7606052004001.json",
+        "nama": "TPS 001, KADAILA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052004",
+        "tps": "7606052004002",
+        "url": "76\/7606\/760605\/7606052004\/7606052004002.json",
+        "nama": "TPS 002, KADAILA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052004",
+        "tps": "7606052004003",
+        "url": "76\/7606\/760605\/7606052004\/7606052004003.json",
+        "nama": "TPS 003, KADAILA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052004",
+        "tps": "7606052004004",
+        "url": "76\/7606\/760605\/7606052004\/7606052004004.json",
+        "nama": "TPS 004, KADAILA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052004",
+        "tps": "7606052004005",
+        "url": "76\/7606\/760605\/7606052004\/7606052004005.json",
+        "nama": "TPS 005, KADAILA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052004",
+        "tps": "7606052004006",
+        "url": "76\/7606\/760605\/7606052004\/7606052004006.json",
+        "nama": "TPS 006, KADAILA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009001",
+        "url": "76\/7606\/760605\/7606052009\/7606052009001.json",
+        "nama": "TPS 001, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009002",
+        "url": "76\/7606\/760605\/7606052009\/7606052009002.json",
+        "nama": "TPS 002, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009003",
+        "url": "76\/7606\/760605\/7606052009\/7606052009003.json",
+        "nama": "TPS 003, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009004",
+        "url": "76\/7606\/760605\/7606052009\/7606052009004.json",
+        "nama": "TPS 004, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009005",
+        "url": "76\/7606\/760605\/7606052009\/7606052009005.json",
+        "nama": "TPS 005, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009006",
+        "url": "76\/7606\/760605\/7606052009\/7606052009006.json",
+        "nama": "TPS 006, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009007",
+        "url": "76\/7606\/760605\/7606052009\/7606052009007.json",
+        "nama": "TPS 007, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009008",
+        "url": "76\/7606\/760605\/7606052009\/7606052009008.json",
+        "nama": "TPS 008, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009009",
+        "url": "76\/7606\/760605\/7606052009\/7606052009009.json",
+        "nama": "TPS 009, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052009",
+        "tps": "7606052009010",
+        "url": "76\/7606\/760605\/7606052009\/7606052009010.json",
+        "nama": "TPS 010, KAMBUNONG, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001001",
+        "url": "76\/7606\/760605\/7606052001\/7606052001001.json",
+        "nama": "TPS 001, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001002",
+        "url": "76\/7606\/760605\/7606052001\/7606052001002.json",
+        "nama": "TPS 002, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001003",
+        "url": "76\/7606\/760605\/7606052001\/7606052001003.json",
+        "nama": "TPS 003, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001004",
+        "url": "76\/7606\/760605\/7606052001\/7606052001004.json",
+        "nama": "TPS 004, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001005",
+        "url": "76\/7606\/760605\/7606052001\/7606052001005.json",
+        "nama": "TPS 005, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001006",
+        "url": "76\/7606\/760605\/7606052001\/7606052001006.json",
+        "nama": "TPS 006, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001007",
+        "url": "76\/7606\/760605\/7606052001\/7606052001007.json",
+        "nama": "TPS 007, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001008",
+        "url": "76\/7606\/760605\/7606052001\/7606052001008.json",
+        "nama": "TPS 008, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001009",
+        "url": "76\/7606\/760605\/7606052001\/7606052001009.json",
+        "nama": "TPS 009, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001010",
+        "url": "76\/7606\/760605\/7606052001\/7606052001010.json",
+        "nama": "TPS 010, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001011",
+        "url": "76\/7606\/760605\/7606052001\/7606052001011.json",
+        "nama": "TPS 011, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001012",
+        "url": "76\/7606\/760605\/7606052001\/7606052001012.json",
+        "nama": "TPS 012, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001013",
+        "url": "76\/7606\/760605\/7606052001\/7606052001013.json",
+        "nama": "TPS 013, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001014",
+        "url": "76\/7606\/760605\/7606052001\/7606052001014.json",
+        "nama": "TPS 014, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001015",
+        "url": "76\/7606\/760605\/7606052001\/7606052001015.json",
+        "nama": "TPS 015, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001016",
+        "url": "76\/7606\/760605\/7606052001\/7606052001016.json",
+        "nama": "TPS 016, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001017",
+        "url": "76\/7606\/760605\/7606052001\/7606052001017.json",
+        "nama": "TPS 017, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001018",
+        "url": "76\/7606\/760605\/7606052001\/7606052001018.json",
+        "nama": "TPS 018, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001019",
+        "url": "76\/7606\/760605\/7606052001\/7606052001019.json",
+        "nama": "TPS 019, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001020",
+        "url": "76\/7606\/760605\/7606052001\/7606052001020.json",
+        "nama": "TPS 020, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052001",
+        "tps": "7606052001021",
+        "url": "76\/7606\/760605\/7606052001\/7606052001021.json",
+        "nama": "TPS 021, KAROSSA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052005",
+        "tps": "7606052005001",
+        "url": "76\/7606\/760605\/7606052005\/7606052005001.json",
+        "nama": "TPS 001, KAYU CALLA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052005",
+        "tps": "7606052005002",
+        "url": "76\/7606\/760605\/7606052005\/7606052005002.json",
+        "nama": "TPS 002, KAYU CALLA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052005",
+        "tps": "7606052005003",
+        "url": "76\/7606\/760605\/7606052005\/7606052005003.json",
+        "nama": "TPS 003, KAYU CALLA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052003",
+        "tps": "7606052003001",
+        "url": "76\/7606\/760605\/7606052003\/7606052003001.json",
+        "nama": "TPS 001, LARA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052003",
+        "tps": "7606052003002",
+        "url": "76\/7606\/760605\/7606052003\/7606052003002.json",
+        "nama": "TPS 002, LARA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052003",
+        "tps": "7606052003003",
+        "url": "76\/7606\/760605\/7606052003\/7606052003003.json",
+        "nama": "TPS 003, LARA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052003",
+        "tps": "7606052003004",
+        "url": "76\/7606\/760605\/7606052003\/7606052003004.json",
+        "nama": "TPS 004, LARA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052003",
+        "tps": "7606052003005",
+        "url": "76\/7606\/760605\/7606052003\/7606052003005.json",
+        "nama": "TPS 005, LARA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052003",
+        "tps": "7606052003006",
+        "url": "76\/7606\/760605\/7606052003\/7606052003006.json",
+        "nama": "TPS 006, LARA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052003",
+        "tps": "7606052003007",
+        "url": "76\/7606\/760605\/7606052003\/7606052003007.json",
+        "nama": "TPS 007, LARA, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052006",
+        "tps": "7606052006001",
+        "url": "76\/7606\/760605\/7606052006\/7606052006001.json",
+        "nama": "TPS 001, LEMBAH HOPO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052006",
+        "tps": "7606052006002",
+        "url": "76\/7606\/760605\/7606052006\/7606052006002.json",
+        "nama": "TPS 002, LEMBAH HOPO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052006",
+        "tps": "7606052006003",
+        "url": "76\/7606\/760605\/7606052006\/7606052006003.json",
+        "nama": "TPS 003, LEMBAH HOPO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052006",
+        "tps": "7606052006004",
+        "url": "76\/7606\/760605\/7606052006\/7606052006004.json",
+        "nama": "TPS 004, LEMBAH HOPO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052010",
+        "tps": "7606052010001",
+        "url": "76\/7606\/760605\/7606052010\/7606052010001.json",
+        "nama": "TPS 001, SALUBIRO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052010",
+        "tps": "7606052010002",
+        "url": "76\/7606\/760605\/7606052010\/7606052010002.json",
+        "nama": "TPS 002, SALUBIRO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052010",
+        "tps": "7606052010003",
+        "url": "76\/7606\/760605\/7606052010\/7606052010003.json",
+        "nama": "TPS 003, SALUBIRO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052010",
+        "tps": "7606052010004",
+        "url": "76\/7606\/760605\/7606052010\/7606052010004.json",
+        "nama": "TPS 004, SALUBIRO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052010",
+        "tps": "7606052010005",
+        "url": "76\/7606\/760605\/7606052010\/7606052010005.json",
+        "nama": "TPS 005, SALUBIRO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052011",
+        "tps": "7606052011001",
+        "url": "76\/7606\/760605\/7606052011\/7606052011001.json",
+        "nama": "TPS 001, SANJANGO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052011",
+        "tps": "7606052011002",
+        "url": "76\/7606\/760605\/7606052011\/7606052011002.json",
+        "nama": "TPS 002, SANJANGO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052011",
+        "tps": "7606052011003",
+        "url": "76\/7606\/760605\/7606052011\/7606052011003.json",
+        "nama": "TPS 003, SANJANGO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052011",
+        "tps": "7606052011004",
+        "url": "76\/7606\/760605\/7606052011\/7606052011004.json",
+        "nama": "TPS 004, SANJANGO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052011",
+        "tps": "7606052011005",
+        "url": "76\/7606\/760605\/7606052011\/7606052011005.json",
+        "nama": "TPS 005, SANJANGO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052008",
+        "tps": "7606052008001",
+        "url": "76\/7606\/760605\/7606052008\/7606052008001.json",
+        "nama": "TPS 001, SUKA MAJU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052008",
+        "tps": "7606052008002",
+        "url": "76\/7606\/760605\/7606052008\/7606052008002.json",
+        "nama": "TPS 002, SUKA MAJU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052008",
+        "tps": "7606052008003",
+        "url": "76\/7606\/760605\/7606052008\/7606052008003.json",
+        "nama": "TPS 003, SUKA MAJU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052008",
+        "tps": "7606052008004",
+        "url": "76\/7606\/760605\/7606052008\/7606052008004.json",
+        "nama": "TPS 004, SUKA MAJU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052008",
+        "tps": "7606052008005",
+        "url": "76\/7606\/760605\/7606052008\/7606052008005.json",
+        "nama": "TPS 005, SUKA MAJU, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002001",
+        "url": "76\/7606\/760605\/7606052002\/7606052002001.json",
+        "nama": "TPS 001, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002002",
+        "url": "76\/7606\/760605\/7606052002\/7606052002002.json",
+        "nama": "TPS 002, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002003",
+        "url": "76\/7606\/760605\/7606052002\/7606052002003.json",
+        "nama": "TPS 003, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002004",
+        "url": "76\/7606\/760605\/7606052002\/7606052002004.json",
+        "nama": "TPS 004, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002005",
+        "url": "76\/7606\/760605\/7606052002\/7606052002005.json",
+        "nama": "TPS 005, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002006",
+        "url": "76\/7606\/760605\/7606052002\/7606052002006.json",
+        "nama": "TPS 006, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002007",
+        "url": "76\/7606\/760605\/7606052002\/7606052002007.json",
+        "nama": "TPS 007, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002008",
+        "url": "76\/7606\/760605\/7606052002\/7606052002008.json",
+        "nama": "TPS 008, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002009",
+        "url": "76\/7606\/760605\/7606052002\/7606052002009.json",
+        "nama": "TPS 009, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002010",
+        "url": "76\/7606\/760605\/7606052002\/7606052002010.json",
+        "nama": "TPS 010, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002011",
+        "url": "76\/7606\/760605\/7606052002\/7606052002011.json",
+        "nama": "TPS 011, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002012",
+        "url": "76\/7606\/760605\/7606052002\/7606052002012.json",
+        "nama": "TPS 012, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002013",
+        "url": "76\/7606\/760605\/7606052002\/7606052002013.json",
+        "nama": "TPS 013, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760605",
+        "desa": "7606052002",
+        "tps": "7606052002014",
+        "url": "76\/7606\/760605\/7606052002\/7606052002014.json",
+        "nama": "TPS 014, TASOKKO, KAROSSA, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022008",
+        "tps": "7606022008001",
+        "url": "76\/7606\/760602\/7606022008\/7606022008001.json",
+        "nama": "TPS 001, KOMBILING, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022008",
+        "tps": "7606022008002",
+        "url": "76\/7606\/760602\/7606022008\/7606022008002.json",
+        "nama": "TPS 002, KOMBILING, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022008",
+        "tps": "7606022008003",
+        "url": "76\/7606\/760602\/7606022008\/7606022008003.json",
+        "nama": "TPS 003, KOMBILING, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022008",
+        "tps": "7606022008004",
+        "url": "76\/7606\/760602\/7606022008\/7606022008004.json",
+        "nama": "TPS 004, KOMBILING, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022008",
+        "tps": "7606022008005",
+        "url": "76\/7606\/760602\/7606022008\/7606022008005.json",
+        "nama": "TPS 005, KOMBILING, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022005",
+        "tps": "7606022005001",
+        "url": "76\/7606\/760602\/7606022005\/7606022005001.json",
+        "nama": "TPS 001, KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022005",
+        "tps": "7606022005002",
+        "url": "76\/7606\/760602\/7606022005\/7606022005002.json",
+        "nama": "TPS 002, KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022005",
+        "tps": "7606022005003",
+        "url": "76\/7606\/760602\/7606022005\/7606022005003.json",
+        "nama": "TPS 003, KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022005",
+        "tps": "7606022005004",
+        "url": "76\/7606\/760602\/7606022005\/7606022005004.json",
+        "nama": "TPS 004, KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022005",
+        "tps": "7606022005005",
+        "url": "76\/7606\/760602\/7606022005\/7606022005005.json",
+        "nama": "TPS 005, KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022005",
+        "tps": "7606022005006",
+        "url": "76\/7606\/760602\/7606022005\/7606022005006.json",
+        "nama": "TPS 006, KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022005",
+        "tps": "7606022005007",
+        "url": "76\/7606\/760602\/7606022005\/7606022005007.json",
+        "nama": "TPS 007, KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022005",
+        "tps": "7606022005008",
+        "url": "76\/7606\/760602\/7606022005\/7606022005008.json",
+        "nama": "TPS 008, KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022005",
+        "tps": "7606022005009",
+        "url": "76\/7606\/760602\/7606022005\/7606022005009.json",
+        "nama": "TPS 009, KUO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022007",
+        "tps": "7606022007001",
+        "url": "76\/7606\/760602\/7606022007\/7606022007001.json",
+        "nama": "TPS 001, LAMBA-LAMBA, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022007",
+        "tps": "7606022007002",
+        "url": "76\/7606\/760602\/7606022007\/7606022007002.json",
+        "nama": "TPS 002, LAMBA-LAMBA, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022007",
+        "tps": "7606022007003",
+        "url": "76\/7606\/760602\/7606022007\/7606022007003.json",
+        "nama": "TPS 003, LAMBA-LAMBA, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022007",
+        "tps": "7606022007004",
+        "url": "76\/7606\/760602\/7606022007\/7606022007004.json",
+        "nama": "TPS 004, LAMBA-LAMBA, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022009",
+        "tps": "7606022009001",
+        "url": "76\/7606\/760602\/7606022009\/7606022009001.json",
+        "nama": "TPS 001, LEMO-LEMO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022009",
+        "tps": "7606022009002",
+        "url": "76\/7606\/760602\/7606022009\/7606022009002.json",
+        "nama": "TPS 002, LEMO-LEMO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022009",
+        "tps": "7606022009003",
+        "url": "76\/7606\/760602\/7606022009\/7606022009003.json",
+        "nama": "TPS 003, LEMO-LEMO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022009",
+        "tps": "7606022009004",
+        "url": "76\/7606\/760602\/7606022009\/7606022009004.json",
+        "nama": "TPS 004, LEMO-LEMO, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022002",
+        "tps": "7606022002001",
+        "url": "76\/7606\/760602\/7606022002\/7606022002001.json",
+        "nama": "TPS 001, PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022002",
+        "tps": "7606022002002",
+        "url": "76\/7606\/760602\/7606022002\/7606022002002.json",
+        "nama": "TPS 002, PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022002",
+        "tps": "7606022002003",
+        "url": "76\/7606\/760602\/7606022002\/7606022002003.json",
+        "nama": "TPS 003, PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022002",
+        "tps": "7606022002004",
+        "url": "76\/7606\/760602\/7606022002\/7606022002004.json",
+        "nama": "TPS 004, PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022002",
+        "tps": "7606022002005",
+        "url": "76\/7606\/760602\/7606022002\/7606022002005.json",
+        "nama": "TPS 005, PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022002",
+        "tps": "7606022002006",
+        "url": "76\/7606\/760602\/7606022002\/7606022002006.json",
+        "nama": "TPS 006, PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022006",
+        "tps": "7606022006001",
+        "url": "76\/7606\/760602\/7606022006\/7606022006001.json",
+        "nama": "TPS 001, POLO CAMBA, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022006",
+        "tps": "7606022006002",
+        "url": "76\/7606\/760602\/7606022006\/7606022006002.json",
+        "nama": "TPS 002, POLO CAMBA, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022006",
+        "tps": "7606022006003",
+        "url": "76\/7606\/760602\/7606022006\/7606022006003.json",
+        "nama": "TPS 003, POLO CAMBA, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022004",
+        "tps": "7606022004001",
+        "url": "76\/7606\/760602\/7606022004\/7606022004001.json",
+        "nama": "TPS 001, POLO LERENG, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022004",
+        "tps": "7606022004002",
+        "url": "76\/7606\/760602\/7606022004\/7606022004002.json",
+        "nama": "TPS 002, POLO LERENG, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022004",
+        "tps": "7606022004003",
+        "url": "76\/7606\/760602\/7606022004\/7606022004003.json",
+        "nama": "TPS 003, POLO LERENG, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022004",
+        "tps": "7606022004004",
+        "url": "76\/7606\/760602\/7606022004\/7606022004004.json",
+        "nama": "TPS 004, POLO LERENG, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022004",
+        "tps": "7606022004005",
+        "url": "76\/7606\/760602\/7606022004\/7606022004005.json",
+        "nama": "TPS 005, POLO LERENG, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022004",
+        "tps": "7606022004006",
+        "url": "76\/7606\/760602\/7606022004\/7606022004006.json",
+        "nama": "TPS 006, POLO LERENG, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022004",
+        "tps": "7606022004007",
+        "url": "76\/7606\/760602\/7606022004\/7606022004007.json",
+        "nama": "TPS 007, POLO LERENG, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022001",
+        "tps": "7606022001001",
+        "url": "76\/7606\/760602\/7606022001\/7606022001001.json",
+        "nama": "TPS 001, POLO PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022001",
+        "tps": "7606022001002",
+        "url": "76\/7606\/760602\/7606022001\/7606022001002.json",
+        "nama": "TPS 002, POLO PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022001",
+        "tps": "7606022001003",
+        "url": "76\/7606\/760602\/7606022001\/7606022001003.json",
+        "nama": "TPS 003, POLO PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022001",
+        "tps": "7606022001004",
+        "url": "76\/7606\/760602\/7606022001\/7606022001004.json",
+        "nama": "TPS 004, POLO PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022001",
+        "tps": "7606022001005",
+        "url": "76\/7606\/760602\/7606022001\/7606022001005.json",
+        "nama": "TPS 005, POLO PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022001",
+        "tps": "7606022001006",
+        "url": "76\/7606\/760602\/7606022001\/7606022001006.json",
+        "nama": "TPS 006, POLO PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022001",
+        "tps": "7606022001007",
+        "url": "76\/7606\/760602\/7606022001\/7606022001007.json",
+        "nama": "TPS 007, POLO PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022001",
+        "tps": "7606022001008",
+        "url": "76\/7606\/760602\/7606022001\/7606022001008.json",
+        "nama": "TPS 008, POLO PANGALE, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022003",
+        "tps": "7606022003001",
+        "url": "76\/7606\/760602\/7606022003\/7606022003001.json",
+        "nama": "TPS 001, SARTANAMAJU, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760602",
+        "desa": "7606022003",
+        "tps": "7606022003002",
+        "url": "76\/7606\/760602\/7606022003\/7606022003002.json",
+        "nama": "TPS 002, SARTANAMAJU, PANGALE, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012006",
+        "tps": "7606012006001",
+        "url": "76\/7606\/760601\/7606012006\/7606012006001.json",
+        "nama": "TPS 001, BAMBADARU, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012006",
+        "tps": "7606012006002",
+        "url": "76\/7606\/760601\/7606012006\/7606012006002.json",
+        "nama": "TPS 002, BAMBADARU, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012006",
+        "tps": "7606012006003",
+        "url": "76\/7606\/760601\/7606012006\/7606012006003.json",
+        "nama": "TPS 003, BAMBADARU, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012006",
+        "tps": "7606012006004",
+        "url": "76\/7606\/760601\/7606012006\/7606012006004.json",
+        "nama": "TPS 004, BAMBADARU, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012006",
+        "tps": "7606012006005",
+        "url": "76\/7606\/760601\/7606012006\/7606012006005.json",
+        "nama": "TPS 005, BAMBADARU, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005001",
+        "url": "76\/7606\/760601\/7606012005\/7606012005001.json",
+        "nama": "TPS 001, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005002",
+        "url": "76\/7606\/760601\/7606012005\/7606012005002.json",
+        "nama": "TPS 002, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005003",
+        "url": "76\/7606\/760601\/7606012005\/7606012005003.json",
+        "nama": "TPS 003, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005004",
+        "url": "76\/7606\/760601\/7606012005\/7606012005004.json",
+        "nama": "TPS 004, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005005",
+        "url": "76\/7606\/760601\/7606012005\/7606012005005.json",
+        "nama": "TPS 005, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005006",
+        "url": "76\/7606\/760601\/7606012005\/7606012005006.json",
+        "nama": "TPS 006, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005007",
+        "url": "76\/7606\/760601\/7606012005\/7606012005007.json",
+        "nama": "TPS 007, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005008",
+        "url": "76\/7606\/760601\/7606012005\/7606012005008.json",
+        "nama": "TPS 008, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005009",
+        "url": "76\/7606\/760601\/7606012005\/7606012005009.json",
+        "nama": "TPS 009, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005010",
+        "url": "76\/7606\/760601\/7606012005\/7606012005010.json",
+        "nama": "TPS 010, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005011",
+        "url": "76\/7606\/760601\/7606012005\/7606012005011.json",
+        "nama": "TPS 011, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005012",
+        "url": "76\/7606\/760601\/7606012005\/7606012005012.json",
+        "nama": "TPS 012, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005013",
+        "url": "76\/7606\/760601\/7606012005\/7606012005013.json",
+        "nama": "TPS 013, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005014",
+        "url": "76\/7606\/760601\/7606012005\/7606012005014.json",
+        "nama": "TPS 014, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005015",
+        "url": "76\/7606\/760601\/7606012005\/7606012005015.json",
+        "nama": "TPS 015, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005016",
+        "url": "76\/7606\/760601\/7606012005\/7606012005016.json",
+        "nama": "TPS 016, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005017",
+        "url": "76\/7606\/760601\/7606012005\/7606012005017.json",
+        "nama": "TPS 017, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012005",
+        "tps": "7606012005018",
+        "url": "76\/7606\/760601\/7606012005\/7606012005018.json",
+        "nama": "TPS 018, BATU PARIGI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012001",
+        "tps": "7606012001001",
+        "url": "76\/7606\/760601\/7606012001\/7606012001001.json",
+        "nama": "TPS 001, MAHAHE, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012001",
+        "tps": "7606012001002",
+        "url": "76\/7606\/760601\/7606012001\/7606012001002.json",
+        "nama": "TPS 002, MAHAHE, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012001",
+        "tps": "7606012001003",
+        "url": "76\/7606\/760601\/7606012001\/7606012001003.json",
+        "nama": "TPS 003, MAHAHE, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012001",
+        "tps": "7606012001004",
+        "url": "76\/7606\/760601\/7606012001\/7606012001004.json",
+        "nama": "TPS 004, MAHAHE, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012001",
+        "tps": "7606012001005",
+        "url": "76\/7606\/760601\/7606012001\/7606012001005.json",
+        "nama": "TPS 005, MAHAHE, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012001",
+        "tps": "7606012001006",
+        "url": "76\/7606\/760601\/7606012001\/7606012001006.json",
+        "nama": "TPS 006, MAHAHE, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012001",
+        "tps": "7606012001007",
+        "url": "76\/7606\/760601\/7606012001\/7606012001007.json",
+        "nama": "TPS 007, MAHAHE, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012001",
+        "tps": "7606012001008",
+        "url": "76\/7606\/760601\/7606012001\/7606012001008.json",
+        "nama": "TPS 008, MAHAHE, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012004",
+        "tps": "7606012004001",
+        "url": "76\/7606\/760601\/7606012004\/7606012004001.json",
+        "nama": "TPS 001, PALONGAAN, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012004",
+        "tps": "7606012004002",
+        "url": "76\/7606\/760601\/7606012004\/7606012004002.json",
+        "nama": "TPS 002, PALONGAAN, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012004",
+        "tps": "7606012004003",
+        "url": "76\/7606\/760601\/7606012004\/7606012004003.json",
+        "nama": "TPS 003, PALONGAAN, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012004",
+        "tps": "7606012004004",
+        "url": "76\/7606\/760601\/7606012004\/7606012004004.json",
+        "nama": "TPS 004, PALONGAAN, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012004",
+        "tps": "7606012004005",
+        "url": "76\/7606\/760601\/7606012004\/7606012004005.json",
+        "nama": "TPS 005, PALONGAAN, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012004",
+        "tps": "7606012004006",
+        "url": "76\/7606\/760601\/7606012004\/7606012004006.json",
+        "nama": "TPS 006, PALONGAAN, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012004",
+        "tps": "7606012004007",
+        "url": "76\/7606\/760601\/7606012004\/7606012004007.json",
+        "nama": "TPS 007, PALONGAAN, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012004",
+        "tps": "7606012004008",
+        "url": "76\/7606\/760601\/7606012004\/7606012004008.json",
+        "nama": "TPS 008, PALONGAAN, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012008",
+        "tps": "7606012008001",
+        "url": "76\/7606\/760601\/7606012008\/7606012008001.json",
+        "nama": "TPS 001, SALOADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012008",
+        "tps": "7606012008002",
+        "url": "76\/7606\/760601\/7606012008\/7606012008002.json",
+        "nama": "TPS 002, SALOADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012008",
+        "tps": "7606012008003",
+        "url": "76\/7606\/760601\/7606012008\/7606012008003.json",
+        "nama": "TPS 003, SALOADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012008",
+        "tps": "7606012008004",
+        "url": "76\/7606\/760601\/7606012008\/7606012008004.json",
+        "nama": "TPS 004, SALOADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012008",
+        "tps": "7606012008005",
+        "url": "76\/7606\/760601\/7606012008\/7606012008005.json",
+        "nama": "TPS 005, SALOADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012008",
+        "tps": "7606012008006",
+        "url": "76\/7606\/760601\/7606012008\/7606012008006.json",
+        "nama": "TPS 006, SALOADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012008",
+        "tps": "7606012008007",
+        "url": "76\/7606\/760601\/7606012008\/7606012008007.json",
+        "nama": "TPS 007, SALOADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012002",
+        "tps": "7606012002001",
+        "url": "76\/7606\/760601\/7606012002\/7606012002001.json",
+        "nama": "TPS 001, SALOBAJA, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012002",
+        "tps": "7606012002002",
+        "url": "76\/7606\/760601\/7606012002\/7606012002002.json",
+        "nama": "TPS 002, SALOBAJA, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012002",
+        "tps": "7606012002003",
+        "url": "76\/7606\/760601\/7606012002\/7606012002003.json",
+        "nama": "TPS 003, SALOBAJA, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012002",
+        "tps": "7606012002004",
+        "url": "76\/7606\/760601\/7606012002\/7606012002004.json",
+        "nama": "TPS 004, SALOBAJA, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012002",
+        "tps": "7606012002005",
+        "url": "76\/7606\/760601\/7606012002\/7606012002005.json",
+        "nama": "TPS 005, SALOBAJA, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012002",
+        "tps": "7606012002006",
+        "url": "76\/7606\/760601\/7606012002\/7606012002006.json",
+        "nama": "TPS 006, SALOBAJA, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012002",
+        "tps": "7606012002007",
+        "url": "76\/7606\/760601\/7606012002\/7606012002007.json",
+        "nama": "TPS 007, SALOBAJA, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012002",
+        "tps": "7606012002008",
+        "url": "76\/7606\/760601\/7606012002\/7606012002008.json",
+        "nama": "TPS 008, SALOBAJA, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012007",
+        "tps": "7606012007001",
+        "url": "76\/7606\/760601\/7606012007\/7606012007001.json",
+        "nama": "TPS 001, SEJATI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012007",
+        "tps": "7606012007002",
+        "url": "76\/7606\/760601\/7606012007\/7606012007002.json",
+        "nama": "TPS 002, SEJATI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012007",
+        "tps": "7606012007003",
+        "url": "76\/7606\/760601\/7606012007\/7606012007003.json",
+        "nama": "TPS 003, SEJATI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012007",
+        "tps": "7606012007004",
+        "url": "76\/7606\/760601\/7606012007\/7606012007004.json",
+        "nama": "TPS 004, SEJATI, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003001",
+        "url": "76\/7606\/760601\/7606012003\/7606012003001.json",
+        "nama": "TPS 001, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003002",
+        "url": "76\/7606\/760601\/7606012003\/7606012003002.json",
+        "nama": "TPS 002, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003003",
+        "url": "76\/7606\/760601\/7606012003\/7606012003003.json",
+        "nama": "TPS 003, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003004",
+        "url": "76\/7606\/760601\/7606012003\/7606012003004.json",
+        "nama": "TPS 004, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003005",
+        "url": "76\/7606\/760601\/7606012003\/7606012003005.json",
+        "nama": "TPS 005, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003006",
+        "url": "76\/7606\/760601\/7606012003\/7606012003006.json",
+        "nama": "TPS 006, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003007",
+        "url": "76\/7606\/760601\/7606012003\/7606012003007.json",
+        "nama": "TPS 007, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003008",
+        "url": "76\/7606\/760601\/7606012003\/7606012003008.json",
+        "nama": "TPS 008, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003009",
+        "url": "76\/7606\/760601\/7606012003\/7606012003009.json",
+        "nama": "TPS 009, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003010",
+        "url": "76\/7606\/760601\/7606012003\/7606012003010.json",
+        "nama": "TPS 010, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003011",
+        "url": "76\/7606\/760601\/7606012003\/7606012003011.json",
+        "nama": "TPS 011, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003012",
+        "url": "76\/7606\/760601\/7606012003\/7606012003012.json",
+        "nama": "TPS 012, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003013",
+        "url": "76\/7606\/760601\/7606012003\/7606012003013.json",
+        "nama": "TPS 013, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003014",
+        "url": "76\/7606\/760601\/7606012003\/7606012003014.json",
+        "nama": "TPS 014, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003015",
+        "url": "76\/7606\/760601\/7606012003\/7606012003015.json",
+        "nama": "TPS 015, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003016",
+        "url": "76\/7606\/760601\/7606012003\/7606012003016.json",
+        "nama": "TPS 016, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003017",
+        "url": "76\/7606\/760601\/7606012003\/7606012003017.json",
+        "nama": "TPS 017, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003018",
+        "url": "76\/7606\/760601\/7606012003\/7606012003018.json",
+        "nama": "TPS 018, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003019",
+        "url": "76\/7606\/760601\/7606012003\/7606012003019.json",
+        "nama": "TPS 019, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003020",
+        "url": "76\/7606\/760601\/7606012003\/7606012003020.json",
+        "nama": "TPS 020, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003021",
+        "url": "76\/7606\/760601\/7606012003\/7606012003021.json",
+        "nama": "TPS 021, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003022",
+        "url": "76\/7606\/760601\/7606012003\/7606012003022.json",
+        "nama": "TPS 022, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003023",
+        "url": "76\/7606\/760601\/7606012003\/7606012003023.json",
+        "nama": "TPS 023, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003024",
+        "url": "76\/7606\/760601\/7606012003\/7606012003024.json",
+        "nama": "TPS 024, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003025",
+        "url": "76\/7606\/760601\/7606012003\/7606012003025.json",
+        "nama": "TPS 025, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003026",
+        "url": "76\/7606\/760601\/7606012003\/7606012003026.json",
+        "nama": "TPS 026, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760601",
+        "desa": "7606012003",
+        "tps": "7606012003027",
+        "url": "76\/7606\/760601\/7606012003\/7606012003027.json",
+        "nama": "TPS 027, TOBADAK, TOBADAK, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042012",
+        "tps": "7606042012001",
+        "url": "76\/7606\/760604\/7606042012\/7606042012001.json",
+        "nama": "TPS 001, BAMBAMANURUNG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042012",
+        "tps": "7606042012002",
+        "url": "76\/7606\/760604\/7606042012\/7606042012002.json",
+        "nama": "TPS 002, BAMBAMANURUNG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042012",
+        "tps": "7606042012003",
+        "url": "76\/7606\/760604\/7606042012\/7606042012003.json",
+        "nama": "TPS 003, BAMBAMANURUNG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042012",
+        "tps": "7606042012004",
+        "url": "76\/7606\/760604\/7606042012\/7606042012004.json",
+        "nama": "TPS 004, BAMBAMANURUNG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042001",
+        "tps": "7606042001001",
+        "url": "76\/7606\/760604\/7606042001\/7606042001001.json",
+        "nama": "TPS 001, BUDONG-BUDONG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042001",
+        "tps": "7606042001002",
+        "url": "76\/7606\/760604\/7606042001\/7606042001002.json",
+        "nama": "TPS 002, BUDONG-BUDONG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042001",
+        "tps": "7606042001003",
+        "url": "76\/7606\/760604\/7606042001\/7606042001003.json",
+        "nama": "TPS 003, BUDONG-BUDONG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042001",
+        "tps": "7606042001004",
+        "url": "76\/7606\/760604\/7606042001\/7606042001004.json",
+        "nama": "TPS 004, BUDONG-BUDONG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042001",
+        "tps": "7606042001005",
+        "url": "76\/7606\/760604\/7606042001\/7606042001005.json",
+        "nama": "TPS 005, BUDONG-BUDONG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042001",
+        "tps": "7606042001006",
+        "url": "76\/7606\/760604\/7606042001\/7606042001006.json",
+        "nama": "TPS 006, BUDONG-BUDONG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042004",
+        "tps": "7606042004001",
+        "url": "76\/7606\/760604\/7606042004\/7606042004001.json",
+        "nama": "TPS 001, KABUBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042004",
+        "tps": "7606042004002",
+        "url": "76\/7606\/760604\/7606042004\/7606042004002.json",
+        "nama": "TPS 002, KABUBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042004",
+        "tps": "7606042004003",
+        "url": "76\/7606\/760604\/7606042004\/7606042004003.json",
+        "nama": "TPS 003, KABUBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042004",
+        "tps": "7606042004004",
+        "url": "76\/7606\/760604\/7606042004\/7606042004004.json",
+        "nama": "TPS 004, KABUBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042004",
+        "tps": "7606042004005",
+        "url": "76\/7606\/760604\/7606042004\/7606042004005.json",
+        "nama": "TPS 005, KABUBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042014",
+        "tps": "7606042014001",
+        "url": "76\/7606\/760604\/7606042014\/7606042014001.json",
+        "nama": "TPS 001, PANGALLOANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042014",
+        "tps": "7606042014002",
+        "url": "76\/7606\/760604\/7606042014\/7606042014002.json",
+        "nama": "TPS 002, PANGALLOANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042014",
+        "tps": "7606042014003",
+        "url": "76\/7606\/760604\/7606042014\/7606042014003.json",
+        "nama": "TPS 003, PANGALLOANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042014",
+        "tps": "7606042014004",
+        "url": "76\/7606\/760604\/7606042014\/7606042014004.json",
+        "nama": "TPS 004, PANGALLOANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042014",
+        "tps": "7606042014005",
+        "url": "76\/7606\/760604\/7606042014\/7606042014005.json",
+        "nama": "TPS 005, PANGALLOANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042008",
+        "tps": "7606042008001",
+        "url": "76\/7606\/760604\/7606042008\/7606042008001.json",
+        "nama": "TPS 001, PARAILI, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042008",
+        "tps": "7606042008002",
+        "url": "76\/7606\/760604\/7606042008\/7606042008002.json",
+        "nama": "TPS 002, PARAILI, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042008",
+        "tps": "7606042008003",
+        "url": "76\/7606\/760604\/7606042008\/7606042008003.json",
+        "nama": "TPS 003, PARAILI, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042008",
+        "tps": "7606042008004",
+        "url": "76\/7606\/760604\/7606042008\/7606042008004.json",
+        "nama": "TPS 004, PARAILI, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042008",
+        "tps": "7606042008005",
+        "url": "76\/7606\/760604\/7606042008\/7606042008005.json",
+        "nama": "TPS 005, PARAILI, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013001",
+        "url": "76\/7606\/760604\/7606042013\/7606042013001.json",
+        "nama": "TPS 001, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013002",
+        "url": "76\/7606\/760604\/7606042013\/7606042013002.json",
+        "nama": "TPS 002, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013003",
+        "url": "76\/7606\/760604\/7606042013\/7606042013003.json",
+        "nama": "TPS 003, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013004",
+        "url": "76\/7606\/760604\/7606042013\/7606042013004.json",
+        "nama": "TPS 004, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013005",
+        "url": "76\/7606\/760604\/7606042013\/7606042013005.json",
+        "nama": "TPS 005, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013006",
+        "url": "76\/7606\/760604\/7606042013\/7606042013006.json",
+        "nama": "TPS 006, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013007",
+        "url": "76\/7606\/760604\/7606042013\/7606042013007.json",
+        "nama": "TPS 007, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013008",
+        "url": "76\/7606\/760604\/7606042013\/7606042013008.json",
+        "nama": "TPS 008, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013009",
+        "url": "76\/7606\/760604\/7606042013\/7606042013009.json",
+        "nama": "TPS 009, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013010",
+        "url": "76\/7606\/760604\/7606042013\/7606042013010.json",
+        "nama": "TPS 010, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042013",
+        "tps": "7606042013011",
+        "url": "76\/7606\/760604\/7606042013\/7606042013011.json",
+        "nama": "TPS 011, SALULEKBO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042009",
+        "tps": "7606042009001",
+        "url": "76\/7606\/760604\/7606042009\/7606042009001.json",
+        "nama": "TPS 001, SALUPANGKANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042009",
+        "tps": "7606042009002",
+        "url": "76\/7606\/760604\/7606042009\/7606042009002.json",
+        "nama": "TPS 002, SALUPANGKANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042009",
+        "tps": "7606042009003",
+        "url": "76\/7606\/760604\/7606042009\/7606042009003.json",
+        "nama": "TPS 003, SALUPANGKANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042009",
+        "tps": "7606042009004",
+        "url": "76\/7606\/760604\/7606042009\/7606042009004.json",
+        "nama": "TPS 004, SALUPANGKANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042009",
+        "tps": "7606042009005",
+        "url": "76\/7606\/760604\/7606042009\/7606042009005.json",
+        "nama": "TPS 005, SALUPANGKANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042009",
+        "tps": "7606042009006",
+        "url": "76\/7606\/760604\/7606042009\/7606042009006.json",
+        "nama": "TPS 006, SALUPANGKANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042010",
+        "tps": "7606042010001",
+        "url": "76\/7606\/760604\/7606042010\/7606042010001.json",
+        "nama": "TPS 001, SALUPANGKANG IV, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042010",
+        "tps": "7606042010002",
+        "url": "76\/7606\/760604\/7606042010\/7606042010002.json",
+        "nama": "TPS 002, SALUPANGKANG IV, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042015",
+        "tps": "7606042015001",
+        "url": "76\/7606\/760604\/7606042015\/7606042015001.json",
+        "nama": "TPS 001, SINABATTA, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042015",
+        "tps": "7606042015002",
+        "url": "76\/7606\/760604\/7606042015\/7606042015002.json",
+        "nama": "TPS 002, SINABATTA, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042015",
+        "tps": "7606042015003",
+        "url": "76\/7606\/760604\/7606042015\/7606042015003.json",
+        "nama": "TPS 003, SINABATTA, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007001",
+        "url": "76\/7606\/760604\/7606042007\/7606042007001.json",
+        "nama": "TPS 001, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007002",
+        "url": "76\/7606\/760604\/7606042007\/7606042007002.json",
+        "nama": "TPS 002, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007003",
+        "url": "76\/7606\/760604\/7606042007\/7606042007003.json",
+        "nama": "TPS 003, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007004",
+        "url": "76\/7606\/760604\/7606042007\/7606042007004.json",
+        "nama": "TPS 004, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007005",
+        "url": "76\/7606\/760604\/7606042007\/7606042007005.json",
+        "nama": "TPS 005, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007006",
+        "url": "76\/7606\/760604\/7606042007\/7606042007006.json",
+        "nama": "TPS 006, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007007",
+        "url": "76\/7606\/760604\/7606042007\/7606042007007.json",
+        "nama": "TPS 007, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007008",
+        "url": "76\/7606\/760604\/7606042007\/7606042007008.json",
+        "nama": "TPS 008, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007009",
+        "url": "76\/7606\/760604\/7606042007\/7606042007009.json",
+        "nama": "TPS 009, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042007",
+        "tps": "7606042007010",
+        "url": "76\/7606\/760604\/7606042007\/7606042007010.json",
+        "nama": "TPS 010, TABOLANG, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042006",
+        "tps": "7606042006001",
+        "url": "76\/7606\/760604\/7606042006\/7606042006001.json",
+        "nama": "TPS 001, TANGKOU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042006",
+        "tps": "7606042006002",
+        "url": "76\/7606\/760604\/7606042006\/7606042006002.json",
+        "nama": "TPS 002, TANGKOU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042006",
+        "tps": "7606042006003",
+        "url": "76\/7606\/760604\/7606042006\/7606042006003.json",
+        "nama": "TPS 003, TANGKOU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042011",
+        "tps": "7606042011001",
+        "url": "76\/7606\/760604\/7606042011\/7606042011001.json",
+        "nama": "TPS 001, TAPPILINA, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042011",
+        "tps": "7606042011002",
+        "url": "76\/7606\/760604\/7606042011\/7606042011002.json",
+        "nama": "TPS 002, TAPPILINA, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042011",
+        "tps": "7606042011003",
+        "url": "76\/7606\/760604\/7606042011\/7606042011003.json",
+        "nama": "TPS 003, TAPPILINA, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042011",
+        "tps": "7606042011004",
+        "url": "76\/7606\/760604\/7606042011\/7606042011004.json",
+        "nama": "TPS 004, TAPPILINA, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002001",
+        "url": "76\/7606\/760604\/7606042002\/7606042002001.json",
+        "nama": "TPS 001, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002002",
+        "url": "76\/7606\/760604\/7606042002\/7606042002002.json",
+        "nama": "TPS 002, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002003",
+        "url": "76\/7606\/760604\/7606042002\/7606042002003.json",
+        "nama": "TPS 003, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002004",
+        "url": "76\/7606\/760604\/7606042002\/7606042002004.json",
+        "nama": "TPS 004, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002005",
+        "url": "76\/7606\/760604\/7606042002\/7606042002005.json",
+        "nama": "TPS 005, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002006",
+        "url": "76\/7606\/760604\/7606042002\/7606042002006.json",
+        "nama": "TPS 006, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002007",
+        "url": "76\/7606\/760604\/7606042002\/7606042002007.json",
+        "nama": "TPS 007, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002008",
+        "url": "76\/7606\/760604\/7606042002\/7606042002008.json",
+        "nama": "TPS 008, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002009",
+        "url": "76\/7606\/760604\/7606042002\/7606042002009.json",
+        "nama": "TPS 009, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002010",
+        "url": "76\/7606\/760604\/7606042002\/7606042002010.json",
+        "nama": "TPS 010, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002011",
+        "url": "76\/7606\/760604\/7606042002\/7606042002011.json",
+        "nama": "TPS 011, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002012",
+        "url": "76\/7606\/760604\/7606042002\/7606042002012.json",
+        "nama": "TPS 012, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002013",
+        "url": "76\/7606\/760604\/7606042002\/7606042002013.json",
+        "nama": "TPS 013, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002014",
+        "url": "76\/7606\/760604\/7606042002\/7606042002014.json",
+        "nama": "TPS 014, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002015",
+        "url": "76\/7606\/760604\/7606042002\/7606042002015.json",
+        "nama": "TPS 015, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002016",
+        "url": "76\/7606\/760604\/7606042002\/7606042002016.json",
+        "nama": "TPS 016, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002017",
+        "url": "76\/7606\/760604\/7606042002\/7606042002017.json",
+        "nama": "TPS 017, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002018",
+        "url": "76\/7606\/760604\/7606042002\/7606042002018.json",
+        "nama": "TPS 018, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002019",
+        "url": "76\/7606\/760604\/7606042002\/7606042002019.json",
+        "nama": "TPS 019, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002020",
+        "url": "76\/7606\/760604\/7606042002\/7606042002020.json",
+        "nama": "TPS 020, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002021",
+        "url": "76\/7606\/760604\/7606042002\/7606042002021.json",
+        "nama": "TPS 021, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002022",
+        "url": "76\/7606\/760604\/7606042002\/7606042002022.json",
+        "nama": "TPS 022, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002023",
+        "url": "76\/7606\/760604\/7606042002\/7606042002023.json",
+        "nama": "TPS 023, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002024",
+        "url": "76\/7606\/760604\/7606042002\/7606042002024.json",
+        "nama": "TPS 024, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002025",
+        "url": "76\/7606\/760604\/7606042002\/7606042002025.json",
+        "nama": "TPS 025, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002026",
+        "url": "76\/7606\/760604\/7606042002\/7606042002026.json",
+        "nama": "TPS 026, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042002",
+        "tps": "7606042002027",
+        "url": "76\/7606\/760604\/7606042002\/7606042002027.json",
+        "nama": "TPS 027, TOPOYO, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003001",
+        "url": "76\/7606\/760604\/7606042003\/7606042003001.json",
+        "nama": "TPS 001, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003002",
+        "url": "76\/7606\/760604\/7606042003\/7606042003002.json",
+        "nama": "TPS 002, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003003",
+        "url": "76\/7606\/760604\/7606042003\/7606042003003.json",
+        "nama": "TPS 003, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003004",
+        "url": "76\/7606\/760604\/7606042003\/7606042003004.json",
+        "nama": "TPS 004, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003005",
+        "url": "76\/7606\/760604\/7606042003\/7606042003005.json",
+        "nama": "TPS 005, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003006",
+        "url": "76\/7606\/760604\/7606042003\/7606042003006.json",
+        "nama": "TPS 006, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003007",
+        "url": "76\/7606\/760604\/7606042003\/7606042003007.json",
+        "nama": "TPS 007, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003008",
+        "url": "76\/7606\/760604\/7606042003\/7606042003008.json",
+        "nama": "TPS 008, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003009",
+        "url": "76\/7606\/760604\/7606042003\/7606042003009.json",
+        "nama": "TPS 009, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042003",
+        "tps": "7606042003010",
+        "url": "76\/7606\/760604\/7606042003\/7606042003010.json",
+        "nama": "TPS 010, TUMBU, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042005",
+        "tps": "7606042005001",
+        "url": "76\/7606\/760604\/7606042005\/7606042005001.json",
+        "nama": "TPS 001, WAEPUTEH, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042005",
+        "tps": "7606042005002",
+        "url": "76\/7606\/760604\/7606042005\/7606042005002.json",
+        "nama": "TPS 002, WAEPUTEH, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042005",
+        "tps": "7606042005003",
+        "url": "76\/7606\/760604\/7606042005\/7606042005003.json",
+        "nama": "TPS 003, WAEPUTEH, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042005",
+        "tps": "7606042005004",
+        "url": "76\/7606\/760604\/7606042005\/7606042005004.json",
+        "nama": "TPS 004, WAEPUTEH, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    },
+    {
+        "provinsi": "76",
+        "kabupaten": "7606",
+        "kecamatan": "760604",
+        "desa": "7606042005",
+        "tps": "7606042005005",
+        "url": "76\/7606\/760604\/7606042005\/7606042005005.json",
+        "nama": "TPS 005, WAEPUTEH, TOPOYO, MAMUJU TENGAH, SULAWESI BARAT"
+    }
+]

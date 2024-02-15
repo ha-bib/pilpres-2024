@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082009",
+        "tps": "6502082009002",
+        "nama": "TPS 002, SEMPAYANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA",
+        "selisih": -40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/65\/6502\/650208\/6502082009\/6502082009002"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002018",
+        "nama": "TPS 018, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA",
+        "selisih": 295,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/65\/6502\/650202\/6502022002\/6502022002018"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002030",
+        "nama": "TPS 030, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA",
+        "selisih": 1061,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/65\/6502\/650202\/6502022002\/6502022002030"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072007",
+        "tps": "6502072007003",
+        "nama": "TPS 003, RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA",
+        "selisih": -45,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/65\/6502\/650207\/6502072007\/6502072007003"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012005",
+        "tps": "6502012005005",
+        "nama": "TPS 005, PULAU SAPI, MENTARANG, MALINAU, KALIMANTAN UTARA",
+        "selisih": 2200,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/65\/6502\/650201\/6502012005\/6502012005005"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122002",
+        "tps": "6502122002001",
+        "nama": "TPS 001, LUNG KEBINU, MENTARANG HULU, MALINAU, KALIMANTAN UTARA",
+        "selisih": 2429,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/65\/6502\/650212\/6502122002\/6502122002001"
+    }
+]

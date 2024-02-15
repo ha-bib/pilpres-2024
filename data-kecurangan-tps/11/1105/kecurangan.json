@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1105",
+        "kecamatan": "110501",
+        "desa": "1105012015",
+        "tps": "1105012015005",
+        "nama": "TPS 005, LAPANG, JOHAN PAHLAWAN, ACEH BARAT, ACEH",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1105\/110501\/1105012015\/1105012015005"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1105",
+        "kecamatan": "110512",
+        "desa": "1105122016",
+        "tps": "1105122016001",
+        "nama": "TPS 001, BLANG BALEE, PANTON REU, ACEH BARAT, ACEH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1105\/110512\/1105122016\/1105122016001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1105",
+        "kecamatan": "110505",
+        "desa": "1105052031",
+        "tps": "1105052031001",
+        "nama": "TPS 001, SUAK TIMAH, SAMATIGA, ACEH BARAT, ACEH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1105\/110505\/1105052031\/1105052031001"
+    }
+]

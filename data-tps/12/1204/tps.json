@@ -1,0 +1,4331 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112026",
+        "tps": "1204112026001",
+        "url": "12\/1204\/120411\/1204112026\/1204112026001.json",
+        "nama": "TPS 001, BALALE TOBA'A, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112026",
+        "tps": "1204112026002",
+        "url": "12\/1204\/120411\/1204112026\/1204112026002.json",
+        "nama": "TPS 002, BALALE TOBA'A, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112019",
+        "tps": "1204112019001",
+        "url": "12\/1204\/120411\/1204112019\/1204112019001.json",
+        "nama": "TPS 001, BANUA SIBOHOU SILIMA EWALI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112019",
+        "tps": "1204112019002",
+        "url": "12\/1204\/120411\/1204112019\/1204112019002.json",
+        "nama": "TPS 002, BANUA SIBOHOU SILIMA EWALI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112019",
+        "tps": "1204112019003",
+        "url": "12\/1204\/120411\/1204112019\/1204112019003.json",
+        "nama": "TPS 003, BANUA SIBOHOU SILIMA EWALI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112019",
+        "tps": "1204112019004",
+        "url": "12\/1204\/120411\/1204112019\/1204112019004.json",
+        "nama": "TPS 004, BANUA SIBOHOU SILIMA EWALI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112012",
+        "tps": "1204112012001",
+        "url": "12\/1204\/120411\/1204112012\/1204112012001.json",
+        "nama": "TPS 001, BOTOHAENGA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112017",
+        "tps": "1204112017001",
+        "url": "12\/1204\/120411\/1204112017\/1204112017001.json",
+        "nama": "TPS 001, DAHANA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112017",
+        "tps": "1204112017002",
+        "url": "12\/1204\/120411\/1204112017\/1204112017002.json",
+        "nama": "TPS 002, DAHANA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112017",
+        "tps": "1204112017003",
+        "url": "12\/1204\/120411\/1204112017\/1204112017003.json",
+        "nama": "TPS 003, DAHANA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112017",
+        "tps": "1204112017004",
+        "url": "12\/1204\/120411\/1204112017\/1204112017004.json",
+        "nama": "TPS 004, DAHANA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112004",
+        "tps": "1204112004001",
+        "url": "12\/1204\/120411\/1204112004\/1204112004001.json",
+        "nama": "TPS 001, GAZAMANU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112004",
+        "tps": "1204112004002",
+        "url": "12\/1204\/120411\/1204112004\/1204112004002.json",
+        "nama": "TPS 002, GAZAMANU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112004",
+        "tps": "1204112004003",
+        "url": "12\/1204\/120411\/1204112004\/1204112004003.json",
+        "nama": "TPS 003, GAZAMANU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112004",
+        "tps": "1204112004004",
+        "url": "12\/1204\/120411\/1204112004\/1204112004004.json",
+        "nama": "TPS 004, GAZAMANU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112006",
+        "tps": "1204112006001",
+        "url": "12\/1204\/120411\/1204112006\/1204112006001.json",
+        "nama": "TPS 001, HILIALAWA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112006",
+        "tps": "1204112006002",
+        "url": "12\/1204\/120411\/1204112006\/1204112006002.json",
+        "nama": "TPS 002, HILIALAWA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112006",
+        "tps": "1204112006003",
+        "url": "12\/1204\/120411\/1204112006\/1204112006003.json",
+        "nama": "TPS 003, HILIALAWA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112007",
+        "tps": "1204112007001",
+        "url": "12\/1204\/120411\/1204112007\/1204112007001.json",
+        "nama": "TPS 001, HILIFAOSI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112007",
+        "tps": "1204112007002",
+        "url": "12\/1204\/120411\/1204112007\/1204112007002.json",
+        "nama": "TPS 002, HILIFAOSI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112007",
+        "tps": "1204112007003",
+        "url": "12\/1204\/120411\/1204112007\/1204112007003.json",
+        "nama": "TPS 003, HILIFAOSI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112007",
+        "tps": "1204112007004",
+        "url": "12\/1204\/120411\/1204112007\/1204112007004.json",
+        "nama": "TPS 004, HILIFAOSI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112007",
+        "tps": "1204112007005",
+        "url": "12\/1204\/120411\/1204112007\/1204112007005.json",
+        "nama": "TPS 005, HILIFAOSI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112003",
+        "tps": "1204112003001",
+        "url": "12\/1204\/120411\/1204112003\/1204112003001.json",
+        "nama": "TPS 001, HILIGANOITA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112003",
+        "tps": "1204112003002",
+        "url": "12\/1204\/120411\/1204112003\/1204112003002.json",
+        "nama": "TPS 002, HILIGANOITA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112003",
+        "tps": "1204112003003",
+        "url": "12\/1204\/120411\/1204112003\/1204112003003.json",
+        "nama": "TPS 003, HILIGANOITA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112022",
+        "tps": "1204112022001",
+        "url": "12\/1204\/120411\/1204112022\/1204112022001.json",
+        "nama": "TPS 001, HILIHAO CUGALA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112022",
+        "tps": "1204112022002",
+        "url": "12\/1204\/120411\/1204112022\/1204112022002.json",
+        "nama": "TPS 002, HILIHAO CUGALA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112005",
+        "tps": "1204112005001",
+        "url": "12\/1204\/120411\/1204112005\/1204112005001.json",
+        "nama": "TPS 001, HILIHORU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112005",
+        "tps": "1204112005002",
+        "url": "12\/1204\/120411\/1204112005\/1204112005002.json",
+        "nama": "TPS 002, HILIHORU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112005",
+        "tps": "1204112005003",
+        "url": "12\/1204\/120411\/1204112005\/1204112005003.json",
+        "nama": "TPS 003, HILIHORU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112005",
+        "tps": "1204112005004",
+        "url": "12\/1204\/120411\/1204112005\/1204112005004.json",
+        "nama": "TPS 004, HILIHORU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112005",
+        "tps": "1204112005005",
+        "url": "12\/1204\/120411\/1204112005\/1204112005005.json",
+        "nama": "TPS 005, HILIHORU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112008",
+        "tps": "1204112008001",
+        "url": "12\/1204\/120411\/1204112008\/1204112008001.json",
+        "nama": "TPS 001, HILIWAROKHA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112008",
+        "tps": "1204112008002",
+        "url": "12\/1204\/120411\/1204112008\/1204112008002.json",
+        "nama": "TPS 002, HILIWAROKHA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112008",
+        "tps": "1204112008003",
+        "url": "12\/1204\/120411\/1204112008\/1204112008003.json",
+        "nama": "TPS 003, HILIWAROKHA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112024",
+        "tps": "1204112024001",
+        "url": "12\/1204\/120411\/1204112024\/1204112024001.json",
+        "nama": "TPS 001, HOU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112024",
+        "tps": "1204112024002",
+        "url": "12\/1204\/120411\/1204112024\/1204112024002.json",
+        "nama": "TPS 002, HOU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112024",
+        "tps": "1204112024003",
+        "url": "12\/1204\/120411\/1204112024\/1204112024003.json",
+        "nama": "TPS 003, HOU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112021",
+        "tps": "1204112021001",
+        "url": "12\/1204\/120411\/1204112021\/1204112021001.json",
+        "nama": "TPS 001, LAGASIMAHE, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112021",
+        "tps": "1204112021002",
+        "url": "12\/1204\/120411\/1204112021\/1204112021002.json",
+        "nama": "TPS 002, LAGASIMAHE, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112013",
+        "tps": "1204112013001",
+        "url": "12\/1204\/120411\/1204112013\/1204112013001.json",
+        "nama": "TPS 001, ORAHILI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112013",
+        "tps": "1204112013002",
+        "url": "12\/1204\/120411\/1204112013\/1204112013002.json",
+        "nama": "TPS 002, ORAHILI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112018",
+        "tps": "1204112018001",
+        "url": "12\/1204\/120411\/1204112018\/1204112018001.json",
+        "nama": "TPS 001, ORAHUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112018",
+        "tps": "1204112018002",
+        "url": "12\/1204\/120411\/1204112018\/1204112018002.json",
+        "nama": "TPS 002, ORAHUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112018",
+        "tps": "1204112018003",
+        "url": "12\/1204\/120411\/1204112018\/1204112018003.json",
+        "nama": "TPS 003, ORAHUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112023",
+        "tps": "1204112023001",
+        "url": "12\/1204\/120411\/1204112023\/1204112023001.json",
+        "nama": "TPS 001, ORAHUA FAONDRATO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112023",
+        "tps": "1204112023002",
+        "url": "12\/1204\/120411\/1204112023\/1204112023002.json",
+        "nama": "TPS 002, ORAHUA FAONDRATO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112020",
+        "tps": "1204112020001",
+        "url": "12\/1204\/120411\/1204112020\/1204112020001.json",
+        "nama": "TPS 001, SI'OFAEWALI SELATAN, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112020",
+        "tps": "1204112020002",
+        "url": "12\/1204\/120411\/1204112020\/1204112020002.json",
+        "nama": "TPS 002, SI'OFAEWALI SELATAN, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112016",
+        "tps": "1204112016001",
+        "url": "12\/1204\/120411\/1204112016\/1204112016001.json",
+        "nama": "TPS 001, SIFAORO'ASI ULUHOU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112016",
+        "tps": "1204112016002",
+        "url": "12\/1204\/120411\/1204112016\/1204112016002.json",
+        "nama": "TPS 002, SIFAORO'ASI ULUHOU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112016",
+        "tps": "1204112016003",
+        "url": "12\/1204\/120411\/1204112016\/1204112016003.json",
+        "nama": "TPS 003, SIFAORO'ASI ULUHOU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112016",
+        "tps": "1204112016004",
+        "url": "12\/1204\/120411\/1204112016\/1204112016004.json",
+        "nama": "TPS 004, SIFAORO'ASI ULUHOU, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112025",
+        "tps": "1204112025001",
+        "url": "12\/1204\/120411\/1204112025\/1204112025001.json",
+        "nama": "TPS 001, SINDRONDRO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112025",
+        "tps": "1204112025002",
+        "url": "12\/1204\/120411\/1204112025\/1204112025002.json",
+        "nama": "TPS 002, SINDRONDRO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112015",
+        "tps": "1204112015001",
+        "url": "12\/1204\/120411\/1204112015\/1204112015001.json",
+        "nama": "TPS 001, SIOFABANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112015",
+        "tps": "1204112015002",
+        "url": "12\/1204\/120411\/1204112015\/1204112015002.json",
+        "nama": "TPS 002, SIOFABANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112015",
+        "tps": "1204112015003",
+        "url": "12\/1204\/120411\/1204112015\/1204112015003.json",
+        "nama": "TPS 003, SIOFABANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112015",
+        "tps": "1204112015004",
+        "url": "12\/1204\/120411\/1204112015\/1204112015004.json",
+        "nama": "TPS 004, SIOFABANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112015",
+        "tps": "1204112015005",
+        "url": "12\/1204\/120411\/1204112015\/1204112015005.json",
+        "nama": "TPS 005, SIOFABANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112015",
+        "tps": "1204112015006",
+        "url": "12\/1204\/120411\/1204112015\/1204112015006.json",
+        "nama": "TPS 006, SIOFABANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112010",
+        "tps": "1204112010001",
+        "url": "12\/1204\/120411\/1204112010\/1204112010001.json",
+        "nama": "TPS 001, SIOFAEWALI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112010",
+        "tps": "1204112010002",
+        "url": "12\/1204\/120411\/1204112010\/1204112010002.json",
+        "nama": "TPS 002, SIOFAEWALI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112010",
+        "tps": "1204112010003",
+        "url": "12\/1204\/120411\/1204112010\/1204112010003.json",
+        "nama": "TPS 003, SIOFAEWALI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112010",
+        "tps": "1204112010004",
+        "url": "12\/1204\/120411\/1204112010\/1204112010004.json",
+        "nama": "TPS 004, SIOFAEWALI, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112002",
+        "tps": "1204112002001",
+        "url": "12\/1204\/120411\/1204112002\/1204112002001.json",
+        "nama": "TPS 001, SISARAHILI BAWOLATO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112002",
+        "tps": "1204112002002",
+        "url": "12\/1204\/120411\/1204112002\/1204112002002.json",
+        "nama": "TPS 002, SISARAHILI BAWOLATO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112002",
+        "tps": "1204112002003",
+        "url": "12\/1204\/120411\/1204112002\/1204112002003.json",
+        "nama": "TPS 003, SISARAHILI BAWOLATO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112002",
+        "tps": "1204112002004",
+        "url": "12\/1204\/120411\/1204112002\/1204112002004.json",
+        "nama": "TPS 004, SISARAHILI BAWOLATO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112002",
+        "tps": "1204112002005",
+        "url": "12\/1204\/120411\/1204112002\/1204112002005.json",
+        "nama": "TPS 005, SISARAHILI BAWOLATO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112002",
+        "tps": "1204112002006",
+        "url": "12\/1204\/120411\/1204112002\/1204112002006.json",
+        "nama": "TPS 006, SISARAHILI BAWOLATO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112002",
+        "tps": "1204112002007",
+        "url": "12\/1204\/120411\/1204112002\/1204112002007.json",
+        "nama": "TPS 007, SISARAHILI BAWOLATO, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112009",
+        "tps": "1204112009001",
+        "url": "12\/1204\/120411\/1204112009\/1204112009001.json",
+        "nama": "TPS 001, SITOLUBANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112009",
+        "tps": "1204112009002",
+        "url": "12\/1204\/120411\/1204112009\/1204112009002.json",
+        "nama": "TPS 002, SITOLUBANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112009",
+        "tps": "1204112009003",
+        "url": "12\/1204\/120411\/1204112009\/1204112009003.json",
+        "nama": "TPS 003, SITOLUBANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112009",
+        "tps": "1204112009004",
+        "url": "12\/1204\/120411\/1204112009\/1204112009004.json",
+        "nama": "TPS 004, SITOLUBANUA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112011",
+        "tps": "1204112011001",
+        "url": "12\/1204\/120411\/1204112011\/1204112011001.json",
+        "nama": "TPS 001, SOHOYA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112011",
+        "tps": "1204112011002",
+        "url": "12\/1204\/120411\/1204112011\/1204112011002.json",
+        "nama": "TPS 002, SOHOYA, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112014",
+        "tps": "1204112014001",
+        "url": "12\/1204\/120411\/1204112014\/1204112014001.json",
+        "nama": "TPS 001, TAGAULE, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120411",
+        "desa": "1204112014",
+        "tps": "1204112014002",
+        "url": "12\/1204\/120411\/1204112014\/1204112014002.json",
+        "nama": "TPS 002, TAGAULE, BAWOLATO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212008",
+        "tps": "1204212008001",
+        "url": "12\/1204\/120421\/1204212008\/1204212008001.json",
+        "nama": "TPS 001, BALOHILI BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212014",
+        "tps": "1204212014001",
+        "url": "12\/1204\/120421\/1204212014\/1204212014001.json",
+        "nama": "TPS 001, BANUA SIBOHOU BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212014",
+        "tps": "1204212014002",
+        "url": "12\/1204\/120421\/1204212014\/1204212014002.json",
+        "nama": "TPS 002, BANUA SIBOHOU BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212010",
+        "tps": "1204212010001",
+        "url": "12\/1204\/120421\/1204212010\/1204212010001.json",
+        "nama": "TPS 001, FULOLO BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212010",
+        "tps": "1204212010002",
+        "url": "12\/1204\/120421\/1204212010\/1204212010002.json",
+        "nama": "TPS 002, FULOLO BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212001",
+        "tps": "1204212001001",
+        "url": "12\/1204\/120421\/1204212001\/1204212001001.json",
+        "nama": "TPS 001, HILIGODU BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212001",
+        "tps": "1204212001002",
+        "url": "12\/1204\/120421\/1204212001\/1204212001002.json",
+        "nama": "TPS 002, HILIGODU BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212001",
+        "tps": "1204212001003",
+        "url": "12\/1204\/120421\/1204212001\/1204212001003.json",
+        "nama": "TPS 003, HILIGODU BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212009",
+        "tps": "1204212009001",
+        "url": "12\/1204\/120421\/1204212009\/1204212009001.json",
+        "nama": "TPS 001, HILIHAMBAWA BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212009",
+        "tps": "1204212009002",
+        "url": "12\/1204\/120421\/1204212009\/1204212009002.json",
+        "nama": "TPS 002, HILIHAMBAWA BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212004",
+        "tps": "1204212004001",
+        "url": "12\/1204\/120421\/1204212004\/1204212004001.json",
+        "nama": "TPS 001, HILIMBOWO BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212004",
+        "tps": "1204212004002",
+        "url": "12\/1204\/120421\/1204212004\/1204212004002.json",
+        "nama": "TPS 002, HILIMBOWO BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212003",
+        "tps": "1204212003001",
+        "url": "12\/1204\/120421\/1204212003\/1204212003001.json",
+        "nama": "TPS 001, HILIWA'ELE I, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212003",
+        "tps": "1204212003002",
+        "url": "12\/1204\/120421\/1204212003\/1204212003002.json",
+        "nama": "TPS 002, HILIWA'ELE I, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212006",
+        "tps": "1204212006001",
+        "url": "12\/1204\/120421\/1204212006\/1204212006001.json",
+        "nama": "TPS 001, HILIWA'ELE II, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212002",
+        "tps": "1204212002001",
+        "url": "12\/1204\/120421\/1204212002\/1204212002001.json",
+        "nama": "TPS 001, LASARA BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212002",
+        "tps": "1204212002002",
+        "url": "12\/1204\/120421\/1204212002\/1204212002002.json",
+        "nama": "TPS 002, LASARA BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212011",
+        "tps": "1204212011001",
+        "url": "12\/1204\/120421\/1204212011\/1204212011001.json",
+        "nama": "TPS 001, LOLOANA'A, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212011",
+        "tps": "1204212011002",
+        "url": "12\/1204\/120421\/1204212011\/1204212011002.json",
+        "nama": "TPS 002, LOLOANA'A, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212015",
+        "tps": "1204212015001",
+        "url": "12\/1204\/120421\/1204212015\/1204212015001.json",
+        "nama": "TPS 001, MOHILI BERUA BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212015",
+        "tps": "1204212015002",
+        "url": "12\/1204\/120421\/1204212015\/1204212015002.json",
+        "nama": "TPS 002, MOHILI BERUA BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212018",
+        "tps": "1204212018001",
+        "url": "12\/1204\/120421\/1204212018\/1204212018001.json",
+        "nama": "TPS 001, OLA NORI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212018",
+        "tps": "1204212018002",
+        "url": "12\/1204\/120421\/1204212018\/1204212018002.json",
+        "nama": "TPS 002, OLA NORI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212012",
+        "tps": "1204212012001",
+        "url": "12\/1204\/120421\/1204212012\/1204212012001.json",
+        "nama": "TPS 001, ONONAMOLO TALAFU, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212012",
+        "tps": "1204212012002",
+        "url": "12\/1204\/120421\/1204212012\/1204212012002.json",
+        "nama": "TPS 002, ONONAMOLO TALAFU, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212005",
+        "tps": "1204212005001",
+        "url": "12\/1204\/120421\/1204212005\/1204212005001.json",
+        "nama": "TPS 001, SIMANAERE BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212005",
+        "tps": "1204212005002",
+        "url": "12\/1204\/120421\/1204212005\/1204212005002.json",
+        "nama": "TPS 002, SIMANAERE BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212005",
+        "tps": "1204212005003",
+        "url": "12\/1204\/120421\/1204212005\/1204212005003.json",
+        "nama": "TPS 003, SIMANAERE BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212005",
+        "tps": "1204212005004",
+        "url": "12\/1204\/120421\/1204212005\/1204212005004.json",
+        "nama": "TPS 004, SIMANAERE BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212013",
+        "tps": "1204212013001",
+        "url": "12\/1204\/120421\/1204212013\/1204212013001.json",
+        "nama": "TPS 001, SISOBAHILI DOLA, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212013",
+        "tps": "1204212013002",
+        "url": "12\/1204\/120421\/1204212013\/1204212013002.json",
+        "nama": "TPS 002, SISOBAHILI DOLA, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212017",
+        "tps": "1204212017001",
+        "url": "12\/1204\/120421\/1204212017\/1204212017001.json",
+        "nama": "TPS 001, TALAFU, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212017",
+        "tps": "1204212017002",
+        "url": "12\/1204\/120421\/1204212017\/1204212017002.json",
+        "nama": "TPS 002, TALAFU, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212017",
+        "tps": "1204212017003",
+        "url": "12\/1204\/120421\/1204212017\/1204212017003.json",
+        "nama": "TPS 003, TALAFU, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212016",
+        "tps": "1204212016001",
+        "url": "12\/1204\/120421\/1204212016\/1204212016001.json",
+        "nama": "TPS 001, TETEHOSI BOTOMUZOI, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120421",
+        "desa": "1204212007",
+        "tps": "1204212007001",
+        "url": "12\/1204\/120421\/1204212007\/1204212007001.json",
+        "nama": "TPS 001, TUHEGAFOA I, BOTOMUZOI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062008",
+        "tps": "1204062008001",
+        "url": "12\/1204\/120406\/1204062008\/1204062008001.json",
+        "nama": "TPS 001, AKHELAUWE, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062008",
+        "tps": "1204062008002",
+        "url": "12\/1204\/120406\/1204062008\/1204062008002.json",
+        "nama": "TPS 002, AKHELAUWE, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062006",
+        "tps": "1204062006001",
+        "url": "12\/1204\/120406\/1204062006\/1204062006001.json",
+        "nama": "TPS 001, HILIOTALUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062006",
+        "tps": "1204062006002",
+        "url": "12\/1204\/120406\/1204062006\/1204062006002.json",
+        "nama": "TPS 002, HILIOTALUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062006",
+        "tps": "1204062006003",
+        "url": "12\/1204\/120406\/1204062006\/1204062006003.json",
+        "nama": "TPS 003, HILIOTALUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062016",
+        "tps": "1204062016001",
+        "url": "12\/1204\/120406\/1204062016\/1204062016001.json",
+        "nama": "TPS 001, HILISEBUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062016",
+        "tps": "1204062016002",
+        "url": "12\/1204\/120406\/1204062016\/1204062016002.json",
+        "nama": "TPS 002, HILISEBUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062016",
+        "tps": "1204062016003",
+        "url": "12\/1204\/120406\/1204062016\/1204062016003.json",
+        "nama": "TPS 003, HILISEBUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062016",
+        "tps": "1204062016004",
+        "url": "12\/1204\/120406\/1204062016\/1204062016004.json",
+        "nama": "TPS 004, HILISEBUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062016",
+        "tps": "1204062016005",
+        "url": "12\/1204\/120406\/1204062016\/1204062016005.json",
+        "nama": "TPS 005, HILISEBUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062019",
+        "tps": "1204062019001",
+        "url": "12\/1204\/120406\/1204062019\/1204062019001.json",
+        "nama": "TPS 001, HILIWETO GIDO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062019",
+        "tps": "1204062019002",
+        "url": "12\/1204\/120406\/1204062019\/1204062019002.json",
+        "nama": "TPS 002, HILIWETO GIDO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062019",
+        "tps": "1204062019003",
+        "url": "12\/1204\/120406\/1204062019\/1204062019003.json",
+        "nama": "TPS 003, HILIWETO GIDO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062019",
+        "tps": "1204062019004",
+        "url": "12\/1204\/120406\/1204062019\/1204062019004.json",
+        "nama": "TPS 004, HILIWETO GIDO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062019",
+        "tps": "1204062019005",
+        "url": "12\/1204\/120406\/1204062019\/1204062019005.json",
+        "nama": "TPS 005, HILIWETO GIDO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062019",
+        "tps": "1204062019006",
+        "url": "12\/1204\/120406\/1204062019\/1204062019006.json",
+        "nama": "TPS 006, HILIWETO GIDO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062019",
+        "tps": "1204062019007",
+        "url": "12\/1204\/120406\/1204062019\/1204062019007.json",
+        "nama": "TPS 007, HILIWETO GIDO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062054",
+        "tps": "1204062054001",
+        "url": "12\/1204\/120406\/1204062054\/1204062054001.json",
+        "nama": "TPS 001, HILIZOI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062054",
+        "tps": "1204062054002",
+        "url": "12\/1204\/120406\/1204062054\/1204062054002.json",
+        "nama": "TPS 002, HILIZOI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062054",
+        "tps": "1204062054003",
+        "url": "12\/1204\/120406\/1204062054\/1204062054003.json",
+        "nama": "TPS 003, HILIZOI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062054",
+        "tps": "1204062054004",
+        "url": "12\/1204\/120406\/1204062054\/1204062054004.json",
+        "nama": "TPS 004, HILIZOI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062024",
+        "tps": "1204062024001",
+        "url": "12\/1204\/120406\/1204062024\/1204062024001.json",
+        "nama": "TPS 001, LADEA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062024",
+        "tps": "1204062024002",
+        "url": "12\/1204\/120406\/1204062024\/1204062024002.json",
+        "nama": "TPS 002, LADEA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062024",
+        "tps": "1204062024003",
+        "url": "12\/1204\/120406\/1204062024\/1204062024003.json",
+        "nama": "TPS 003, LADEA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062051",
+        "tps": "1204062051001",
+        "url": "12\/1204\/120406\/1204062051\/1204062051001.json",
+        "nama": "TPS 001, LADEA ORAHUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062051",
+        "tps": "1204062051002",
+        "url": "12\/1204\/120406\/1204062051\/1204062051002.json",
+        "nama": "TPS 002, LADEA ORAHUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062051",
+        "tps": "1204062051003",
+        "url": "12\/1204\/120406\/1204062051\/1204062051003.json",
+        "nama": "TPS 003, LADEA ORAHUA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062023",
+        "tps": "1204062023001",
+        "url": "12\/1204\/120406\/1204062023\/1204062023001.json",
+        "nama": "TPS 001, LAHEMO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062023",
+        "tps": "1204062023002",
+        "url": "12\/1204\/120406\/1204062023\/1204062023002.json",
+        "nama": "TPS 002, LAHEMO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062023",
+        "tps": "1204062023003",
+        "url": "12\/1204\/120406\/1204062023\/1204062023003.json",
+        "nama": "TPS 003, LAHEMO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062023",
+        "tps": "1204062023004",
+        "url": "12\/1204\/120406\/1204062023\/1204062023004.json",
+        "nama": "TPS 004, LAHEMO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062030",
+        "tps": "1204062030001",
+        "url": "12\/1204\/120406\/1204062030\/1204062030001.json",
+        "nama": "TPS 001, LASARA IDANOI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062030",
+        "tps": "1204062030002",
+        "url": "12\/1204\/120406\/1204062030\/1204062030002.json",
+        "nama": "TPS 002, LASARA IDANOI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062030",
+        "tps": "1204062030003",
+        "url": "12\/1204\/120406\/1204062030\/1204062030003.json",
+        "nama": "TPS 003, LASARA IDANOI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062030",
+        "tps": "1204062030004",
+        "url": "12\/1204\/120406\/1204062030\/1204062030004.json",
+        "nama": "TPS 004, LASARA IDANOI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062030",
+        "tps": "1204062030005",
+        "url": "12\/1204\/120406\/1204062030\/1204062030005.json",
+        "nama": "TPS 005, LASARA IDANOI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062050",
+        "tps": "1204062050001",
+        "url": "12\/1204\/120406\/1204062050\/1204062050001.json",
+        "nama": "TPS 001, LASELA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062050",
+        "tps": "1204062050002",
+        "url": "12\/1204\/120406\/1204062050\/1204062050002.json",
+        "nama": "TPS 002, LASELA, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062020",
+        "tps": "1204062020001",
+        "url": "12\/1204\/120406\/1204062020\/1204062020001.json",
+        "nama": "TPS 001, LOLOANA'A GIDO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062020",
+        "tps": "1204062020002",
+        "url": "12\/1204\/120406\/1204062020\/1204062020002.json",
+        "nama": "TPS 002, LOLOANA'A GIDO, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062029",
+        "tps": "1204062029001",
+        "url": "12\/1204\/120406\/1204062029\/1204062029001.json",
+        "nama": "TPS 001, LOLOZASAI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062029",
+        "tps": "1204062029002",
+        "url": "12\/1204\/120406\/1204062029\/1204062029002.json",
+        "nama": "TPS 002, LOLOZASAI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062029",
+        "tps": "1204062029003",
+        "url": "12\/1204\/120406\/1204062029\/1204062029003.json",
+        "nama": "TPS 003, LOLOZASAI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062029",
+        "tps": "1204062029004",
+        "url": "12\/1204\/120406\/1204062029\/1204062029004.json",
+        "nama": "TPS 004, LOLOZASAI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062053",
+        "tps": "1204062053001",
+        "url": "12\/1204\/120406\/1204062053\/1204062053001.json",
+        "nama": "TPS 001, NIFALO'OLAURU, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062053",
+        "tps": "1204062053002",
+        "url": "12\/1204\/120406\/1204062053\/1204062053002.json",
+        "nama": "TPS 002, NIFALO'OLAURU, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062056",
+        "tps": "1204062056001",
+        "url": "12\/1204\/120406\/1204062056\/1204062056001.json",
+        "nama": "TPS 001, OLINDRAWA SISARAHILI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062056",
+        "tps": "1204062056002",
+        "url": "12\/1204\/120406\/1204062056\/1204062056002.json",
+        "nama": "TPS 002, OLINDRAWA SISARAHILI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062056",
+        "tps": "1204062056003",
+        "url": "12\/1204\/120406\/1204062056\/1204062056003.json",
+        "nama": "TPS 003, OLINDRAWA SISARAHILI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062018",
+        "tps": "1204062018001",
+        "url": "12\/1204\/120406\/1204062018\/1204062018001.json",
+        "nama": "TPS 001, SIRETE, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062018",
+        "tps": "1204062018002",
+        "url": "12\/1204\/120406\/1204062018\/1204062018002.json",
+        "nama": "TPS 002, SIRETE, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062018",
+        "tps": "1204062018003",
+        "url": "12\/1204\/120406\/1204062018\/1204062018003.json",
+        "nama": "TPS 003, SIRETE, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062022",
+        "tps": "1204062022001",
+        "url": "12\/1204\/120406\/1204062022\/1204062022001.json",
+        "nama": "TPS 001, SISOBAHILI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062022",
+        "tps": "1204062022002",
+        "url": "12\/1204\/120406\/1204062022\/1204062022002.json",
+        "nama": "TPS 002, SISOBAHILI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062022",
+        "tps": "1204062022003",
+        "url": "12\/1204\/120406\/1204062022\/1204062022003.json",
+        "nama": "TPS 003, SISOBAHILI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062028",
+        "tps": "1204062028001",
+        "url": "12\/1204\/120406\/1204062028\/1204062028001.json",
+        "nama": "TPS 001, SOEWE, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062028",
+        "tps": "1204062028002",
+        "url": "12\/1204\/120406\/1204062028\/1204062028002.json",
+        "nama": "TPS 002, SOEWE, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062028",
+        "tps": "1204062028003",
+        "url": "12\/1204\/120406\/1204062028\/1204062028003.json",
+        "nama": "TPS 003, SOEWE, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062028",
+        "tps": "1204062028004",
+        "url": "12\/1204\/120406\/1204062028\/1204062028004.json",
+        "nama": "TPS 004, SOEWE, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062017",
+        "tps": "1204062017001",
+        "url": "12\/1204\/120406\/1204062017\/1204062017001.json",
+        "nama": "TPS 001, SOMI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062017",
+        "tps": "1204062017002",
+        "url": "12\/1204\/120406\/1204062017\/1204062017002.json",
+        "nama": "TPS 002, SOMI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062017",
+        "tps": "1204062017003",
+        "url": "12\/1204\/120406\/1204062017\/1204062017003.json",
+        "nama": "TPS 003, SOMI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062017",
+        "tps": "1204062017004",
+        "url": "12\/1204\/120406\/1204062017\/1204062017004.json",
+        "nama": "TPS 004, SOMI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062017",
+        "tps": "1204062017005",
+        "url": "12\/1204\/120406\/1204062017\/1204062017005.json",
+        "nama": "TPS 005, SOMI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062017",
+        "tps": "1204062017006",
+        "url": "12\/1204\/120406\/1204062017\/1204062017006.json",
+        "nama": "TPS 006, SOMI, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062055",
+        "tps": "1204062055001",
+        "url": "12\/1204\/120406\/1204062055\/1204062055001.json",
+        "nama": "TPS 001, SOMI BOTOGO'O, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062055",
+        "tps": "1204062055002",
+        "url": "12\/1204\/120406\/1204062055\/1204062055002.json",
+        "nama": "TPS 002, SOMI BOTOGO'O, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062055",
+        "tps": "1204062055003",
+        "url": "12\/1204\/120406\/1204062055\/1204062055003.json",
+        "nama": "TPS 003, SOMI BOTOGO'O, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062055",
+        "tps": "1204062055004",
+        "url": "12\/1204\/120406\/1204062055\/1204062055004.json",
+        "nama": "TPS 004, SOMI BOTOGO'O, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062052",
+        "tps": "1204062052001",
+        "url": "12\/1204\/120406\/1204062052\/1204062052001.json",
+        "nama": "TPS 001, TULUMBAHO SALO'O, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062052",
+        "tps": "1204062052002",
+        "url": "12\/1204\/120406\/1204062052\/1204062052002.json",
+        "nama": "TPS 002, TULUMBAHO SALO'O, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062052",
+        "tps": "1204062052003",
+        "url": "12\/1204\/120406\/1204062052\/1204062052003.json",
+        "nama": "TPS 003, TULUMBAHO SALO'O, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062027",
+        "tps": "1204062027001",
+        "url": "12\/1204\/120406\/1204062027\/1204062027001.json",
+        "nama": "TPS 001, UMBU, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062027",
+        "tps": "1204062027002",
+        "url": "12\/1204\/120406\/1204062027\/1204062027002.json",
+        "nama": "TPS 002, UMBU, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120406",
+        "desa": "1204062027",
+        "tps": "1204062027003",
+        "url": "12\/1204\/120406\/1204062027\/1204062027003.json",
+        "nama": "TPS 003, UMBU, GIDO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052021",
+        "tps": "1204052021001",
+        "url": "12\/1204\/120405\/1204052021\/1204052021001.json",
+        "nama": "TPS 001, DIMA, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052021",
+        "tps": "1204052021002",
+        "url": "12\/1204\/120405\/1204052021\/1204052021002.json",
+        "nama": "TPS 002, DIMA, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052027",
+        "tps": "1204052027001",
+        "url": "12\/1204\/120405\/1204052027\/1204052027001.json",
+        "nama": "TPS 001, FADORO LAURU, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052027",
+        "tps": "1204052027002",
+        "url": "12\/1204\/120405\/1204052027\/1204052027002.json",
+        "nama": "TPS 002, FADORO LAURU, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052027",
+        "tps": "1204052027003",
+        "url": "12\/1204\/120405\/1204052027\/1204052027003.json",
+        "nama": "TPS 003, FADORO LAURU, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052027",
+        "tps": "1204052027004",
+        "url": "12\/1204\/120405\/1204052027\/1204052027004.json",
+        "nama": "TPS 004, FADORO LAURU, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052030",
+        "tps": "1204052030001",
+        "url": "12\/1204\/120405\/1204052030\/1204052030001.json",
+        "nama": "TPS 001, HILIDUHO, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052030",
+        "tps": "1204052030002",
+        "url": "12\/1204\/120405\/1204052030\/1204052030002.json",
+        "nama": "TPS 002, HILIDUHO, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052031",
+        "tps": "1204052031001",
+        "url": "12\/1204\/120405\/1204052031\/1204052031001.json",
+        "nama": "TPS 001, HILIGODU TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052031",
+        "tps": "1204052031002",
+        "url": "12\/1204\/120405\/1204052031\/1204052031002.json",
+        "nama": "TPS 002, HILIGODU TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052028",
+        "tps": "1204052028001",
+        "url": "12\/1204\/120405\/1204052028\/1204052028001.json",
+        "nama": "TPS 001, LASARA TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052028",
+        "tps": "1204052028002",
+        "url": "12\/1204\/120405\/1204052028\/1204052028002.json",
+        "nama": "TPS 002, LASARA TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052034",
+        "tps": "1204052034001",
+        "url": "12\/1204\/120405\/1204052034\/1204052034001.json",
+        "nama": "TPS 001, MAZINGO TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052034",
+        "tps": "1204052034002",
+        "url": "12\/1204\/120405\/1204052034\/1204052034002.json",
+        "nama": "TPS 002, MAZINGO TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052034",
+        "tps": "1204052034003",
+        "url": "12\/1204\/120405\/1204052034\/1204052034003.json",
+        "nama": "TPS 003, MAZINGO TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052023",
+        "tps": "1204052023001",
+        "url": "12\/1204\/120405\/1204052023\/1204052023001.json",
+        "nama": "TPS 001, OMBOLATA SALO'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052023",
+        "tps": "1204052023002",
+        "url": "12\/1204\/120405\/1204052023\/1204052023002.json",
+        "nama": "TPS 002, OMBOLATA SALO'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052042",
+        "tps": "1204052042001",
+        "url": "12\/1204\/120405\/1204052042\/1204052042001.json",
+        "nama": "TPS 001, OMBOLATA SISARAHILI, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052001",
+        "tps": "1204052001001",
+        "url": "12\/1204\/120405\/1204052001\/1204052001001.json",
+        "nama": "TPS 001, ONONAMOLO I BOT, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052001",
+        "tps": "1204052001002",
+        "url": "12\/1204\/120405\/1204052001\/1204052001002.json",
+        "nama": "TPS 002, ONONAMOLO I BOT, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052040",
+        "tps": "1204052040001",
+        "url": "12\/1204\/120405\/1204052040\/1204052040001.json",
+        "nama": "TPS 001, ONOWAEMBO HILIGARA, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052033",
+        "tps": "1204052033001",
+        "url": "12\/1204\/120405\/1204052033\/1204052033001.json",
+        "nama": "TPS 001, ONOZITOLIDULU, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052041",
+        "tps": "1204052041001",
+        "url": "12\/1204\/120405\/1204052041\/1204052041001.json",
+        "nama": "TPS 001, SILIMABANUA, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052041",
+        "tps": "1204052041002",
+        "url": "12\/1204\/120405\/1204052041\/1204052041002.json",
+        "nama": "TPS 002, SILIMABANUA, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052022",
+        "tps": "1204052022001",
+        "url": "12\/1204\/120405\/1204052022\/1204052022001.json",
+        "nama": "TPS 001, SINARIKHI, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052022",
+        "tps": "1204052022002",
+        "url": "12\/1204\/120405\/1204052022\/1204052022002.json",
+        "nama": "TPS 002, SINARIKHI, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052022",
+        "tps": "1204052022003",
+        "url": "12\/1204\/120405\/1204052022\/1204052022003.json",
+        "nama": "TPS 003, SINARIKHI, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052032",
+        "tps": "1204052032001",
+        "url": "12\/1204\/120405\/1204052032\/1204052032001.json",
+        "nama": "TPS 001, SISOBAHILI I TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052032",
+        "tps": "1204052032002",
+        "url": "12\/1204\/120405\/1204052032\/1204052032002.json",
+        "nama": "TPS 002, SISOBAHILI I TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052032",
+        "tps": "1204052032003",
+        "url": "12\/1204\/120405\/1204052032\/1204052032003.json",
+        "nama": "TPS 003, SISOBAHILI I TANOSE'O, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052024",
+        "tps": "1204052024001",
+        "url": "12\/1204\/120405\/1204052024\/1204052024001.json",
+        "nama": "TPS 001, SISOBALAURU, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052024",
+        "tps": "1204052024002",
+        "url": "12\/1204\/120405\/1204052024\/1204052024002.json",
+        "nama": "TPS 002, SISOBALAURU, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052025",
+        "tps": "1204052025001",
+        "url": "12\/1204\/120405\/1204052025\/1204052025001.json",
+        "nama": "TPS 001, TUHEGAFOA II, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120405",
+        "desa": "1204052025",
+        "tps": "1204052025002",
+        "url": "12\/1204\/120405\/1204052025\/1204052025002.json",
+        "nama": "TPS 002, TUHEGAFOA II, HILIDUHO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202012",
+        "tps": "1204202012001",
+        "url": "12\/1204\/120420\/1204202012\/1204202012001.json",
+        "nama": "TPS 001, AWELA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202012",
+        "tps": "1204202012002",
+        "url": "12\/1204\/120420\/1204202012\/1204202012002.json",
+        "nama": "TPS 002, AWELA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202007",
+        "tps": "1204202007001",
+        "url": "12\/1204\/120420\/1204202007\/1204202007001.json",
+        "nama": "TPS 001, DAHADANO BOTOMBAWO, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202007",
+        "tps": "1204202007002",
+        "url": "12\/1204\/120420\/1204202007\/1204202007002.json",
+        "nama": "TPS 002, DAHADANO BOTOMBAWO, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202007",
+        "tps": "1204202007003",
+        "url": "12\/1204\/120420\/1204202007\/1204202007003.json",
+        "nama": "TPS 003, DAHADANO BOTOMBAWO, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202011",
+        "tps": "1204202011001",
+        "url": "12\/1204\/120420\/1204202011\/1204202011001.json",
+        "nama": "TPS 001, EHOSAKHOZI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202011",
+        "tps": "1204202011002",
+        "url": "12\/1204\/120420\/1204202011\/1204202011002.json",
+        "nama": "TPS 002, EHOSAKHOZI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202011",
+        "tps": "1204202011003",
+        "url": "12\/1204\/120420\/1204202011\/1204202011003.json",
+        "nama": "TPS 003, EHOSAKHOZI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202001",
+        "tps": "1204202001001",
+        "url": "12\/1204\/120420\/1204202001\/1204202001001.json",
+        "nama": "TPS 001, FADORO HUNOGOA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202001",
+        "tps": "1204202001002",
+        "url": "12\/1204\/120420\/1204202001\/1204202001002.json",
+        "nama": "TPS 002, FADORO HUNOGOA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202001",
+        "tps": "1204202001003",
+        "url": "12\/1204\/120420\/1204202001\/1204202001003.json",
+        "nama": "TPS 003, FADORO HUNOGOA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202008",
+        "tps": "1204202008001",
+        "url": "12\/1204\/120420\/1204202008\/1204202008001.json",
+        "nama": "TPS 001, FADORO LALAI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202008",
+        "tps": "1204202008002",
+        "url": "12\/1204\/120420\/1204202008\/1204202008002.json",
+        "nama": "TPS 002, FADORO LALAI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202003",
+        "tps": "1204202003001",
+        "url": "12\/1204\/120420\/1204202003\/1204202003001.json",
+        "nama": "TPS 001, FULOLO LALAI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202003",
+        "tps": "1204202003002",
+        "url": "12\/1204\/120420\/1204202003\/1204202003002.json",
+        "nama": "TPS 002, FULOLO LALAI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202010",
+        "tps": "1204202010001",
+        "url": "12\/1204\/120420\/1204202010\/1204202010001.json",
+        "nama": "TPS 001, HILIZIA LAURU, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202010",
+        "tps": "1204202010002",
+        "url": "12\/1204\/120420\/1204202010\/1204202010002.json",
+        "nama": "TPS 002, HILIZIA LAURU, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202010",
+        "tps": "1204202010003",
+        "url": "12\/1204\/120420\/1204202010\/1204202010003.json",
+        "nama": "TPS 003, HILIZIA LAURU, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202005",
+        "tps": "1204202005001",
+        "url": "12\/1204\/120420\/1204202005\/1204202005001.json",
+        "nama": "TPS 001, LALAI I\/II, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202005",
+        "tps": "1204202005002",
+        "url": "12\/1204\/120420\/1204202005\/1204202005002.json",
+        "nama": "TPS 002, LALAI I\/II, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202005",
+        "tps": "1204202005003",
+        "url": "12\/1204\/120420\/1204202005\/1204202005003.json",
+        "nama": "TPS 003, LALAI I\/II, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202005",
+        "tps": "1204202005004",
+        "url": "12\/1204\/120420\/1204202005\/1204202005004.json",
+        "nama": "TPS 004, LALAI I\/II, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202004",
+        "tps": "1204202004001",
+        "url": "12\/1204\/120420\/1204202004\/1204202004001.json",
+        "nama": "TPS 001, LAWA-LAWA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202004",
+        "tps": "1204202004002",
+        "url": "12\/1204\/120420\/1204202004\/1204202004002.json",
+        "nama": "TPS 002, LAWA-LAWA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202015",
+        "tps": "1204202015001",
+        "url": "12\/1204\/120420\/1204202015\/1204202015001.json",
+        "nama": "TPS 001, LOLOFAOSO, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202015",
+        "tps": "1204202015002",
+        "url": "12\/1204\/120420\/1204202015\/1204202015002.json",
+        "nama": "TPS 002, LOLOFAOSO, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202002",
+        "tps": "1204202002001",
+        "url": "12\/1204\/120420\/1204202002\/1204202002001.json",
+        "nama": "TPS 001, LOLOFAOSO LALAI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202002",
+        "tps": "1204202002002",
+        "url": "12\/1204\/120420\/1204202002\/1204202002002.json",
+        "nama": "TPS 002, LOLOFAOSO LALAI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202002",
+        "tps": "1204202002003",
+        "url": "12\/1204\/120420\/1204202002\/1204202002003.json",
+        "nama": "TPS 003, LOLOFAOSO LALAI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202006",
+        "tps": "1204202006001",
+        "url": "12\/1204\/120420\/1204202006\/1204202006001.json",
+        "nama": "TPS 001, LOLOWUA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202006",
+        "tps": "1204202006002",
+        "url": "12\/1204\/120420\/1204202006\/1204202006002.json",
+        "nama": "TPS 002, LOLOWUA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202006",
+        "tps": "1204202006003",
+        "url": "12\/1204\/120420\/1204202006\/1204202006003.json",
+        "nama": "TPS 003, LOLOWUA, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202009",
+        "tps": "1204202009001",
+        "url": "12\/1204\/120420\/1204202009\/1204202009001.json",
+        "nama": "TPS 001, LOLOWUA HILIWARASI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202009",
+        "tps": "1204202009002",
+        "url": "12\/1204\/120420\/1204202009\/1204202009002.json",
+        "nama": "TPS 002, LOLOWUA HILIWARASI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202013",
+        "tps": "1204202013001",
+        "url": "12\/1204\/120420\/1204202013\/1204202013001.json",
+        "nama": "TPS 001, ONOMBONGI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202013",
+        "tps": "1204202013002",
+        "url": "12\/1204\/120420\/1204202013\/1204202013002.json",
+        "nama": "TPS 002, ONOMBONGI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202014",
+        "tps": "1204202014001",
+        "url": "12\/1204\/120420\/1204202014\/1204202014001.json",
+        "nama": "TPS 001, ORAHILI IDANOI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202014",
+        "tps": "1204202014002",
+        "url": "12\/1204\/120420\/1204202014\/1204202014002.json",
+        "nama": "TPS 002, ORAHILI IDANOI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202014",
+        "tps": "1204202014003",
+        "url": "12\/1204\/120420\/1204202014\/1204202014003.json",
+        "nama": "TPS 003, ORAHILI IDANOI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202014",
+        "tps": "1204202014004",
+        "url": "12\/1204\/120420\/1204202014\/1204202014004.json",
+        "nama": "TPS 004, ORAHILI IDANOI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120420",
+        "desa": "1204202014",
+        "tps": "1204202014005",
+        "url": "12\/1204\/120420\/1204202014\/1204202014005.json",
+        "nama": "TPS 005, ORAHILI IDANOI, HILISERANGKAI, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102017",
+        "tps": "1204102017001",
+        "url": "12\/1204\/120410\/1204102017\/1204102017001.json",
+        "nama": "TPS 001, AHEDANO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102017",
+        "tps": "1204102017002",
+        "url": "12\/1204\/120410\/1204102017\/1204102017002.json",
+        "nama": "TPS 002, AHEDANO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102017",
+        "tps": "1204102017003",
+        "url": "12\/1204\/120410\/1204102017\/1204102017003.json",
+        "nama": "TPS 003, AHEDANO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102026",
+        "tps": "1204102026001",
+        "url": "12\/1204\/120410\/1204102026\/1204102026001.json",
+        "nama": "TPS 001, AWONI LAUSO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102026",
+        "tps": "1204102026002",
+        "url": "12\/1204\/120410\/1204102026\/1204102026002.json",
+        "nama": "TPS 002, AWONI LAUSO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102026",
+        "tps": "1204102026003",
+        "url": "12\/1204\/120410\/1204102026\/1204102026003.json",
+        "nama": "TPS 003, AWONI LAUSO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102031",
+        "tps": "1204102031001",
+        "url": "12\/1204\/120410\/1204102031\/1204102031001.json",
+        "nama": "TPS 001, BARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102031",
+        "tps": "1204102031002",
+        "url": "12\/1204\/120410\/1204102031\/1204102031002.json",
+        "nama": "TPS 002, BARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102031",
+        "tps": "1204102031003",
+        "url": "12\/1204\/120410\/1204102031\/1204102031003.json",
+        "nama": "TPS 003, BARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102025",
+        "tps": "1204102025001",
+        "url": "12\/1204\/120410\/1204102025\/1204102025001.json",
+        "nama": "TPS 001, BIOUTI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102025",
+        "tps": "1204102025002",
+        "url": "12\/1204\/120410\/1204102025\/1204102025002.json",
+        "nama": "TPS 002, BIOUTI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102025",
+        "tps": "1204102025003",
+        "url": "12\/1204\/120410\/1204102025\/1204102025003.json",
+        "nama": "TPS 003, BIOUTI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102025",
+        "tps": "1204102025004",
+        "url": "12\/1204\/120410\/1204102025\/1204102025004.json",
+        "nama": "TPS 004, BIOUTI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102037",
+        "tps": "1204102037001",
+        "url": "12\/1204\/120410\/1204102037\/1204102037001.json",
+        "nama": "TPS 001, BIOUTI TIMUR, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102037",
+        "tps": "1204102037002",
+        "url": "12\/1204\/120410\/1204102037\/1204102037002.json",
+        "nama": "TPS 002, BIOUTI TIMUR, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102027",
+        "tps": "1204102027001",
+        "url": "12\/1204\/120410\/1204102027\/1204102027001.json",
+        "nama": "TPS 001, BOBOZIOLI LOLOANA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102027",
+        "tps": "1204102027002",
+        "url": "12\/1204\/120410\/1204102027\/1204102027002.json",
+        "nama": "TPS 002, BOBOZIOLI LOLOANA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102027",
+        "tps": "1204102027003",
+        "url": "12\/1204\/120410\/1204102027\/1204102027003.json",
+        "nama": "TPS 003, BOBOZIOLI LOLOANA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102015",
+        "tps": "1204102015001",
+        "url": "12\/1204\/120410\/1204102015\/1204102015001.json",
+        "nama": "TPS 001, BOZIHONA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102015",
+        "tps": "1204102015002",
+        "url": "12\/1204\/120410\/1204102015\/1204102015002.json",
+        "nama": "TPS 002, BOZIHONA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102015",
+        "tps": "1204102015003",
+        "url": "12\/1204\/120410\/1204102015\/1204102015003.json",
+        "nama": "TPS 003, BOZIHONA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102035",
+        "tps": "1204102035001",
+        "url": "12\/1204\/120410\/1204102035\/1204102035001.json",
+        "nama": "TPS 001, HILI'ADULO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102035",
+        "tps": "1204102035002",
+        "url": "12\/1204\/120410\/1204102035\/1204102035002.json",
+        "nama": "TPS 002, HILI'ADULO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102034",
+        "tps": "1204102034001",
+        "url": "12\/1204\/120410\/1204102034\/1204102034001.json",
+        "nama": "TPS 001, HILIGOGOWAYA MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102034",
+        "tps": "1204102034002",
+        "url": "12\/1204\/120410\/1204102034\/1204102034002.json",
+        "nama": "TPS 002, HILIGOGOWAYA MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102008",
+        "tps": "1204102008001",
+        "url": "12\/1204\/120410\/1204102008\/1204102008001.json",
+        "nama": "TPS 001, HILILAWA'E, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102008",
+        "tps": "1204102008002",
+        "url": "12\/1204\/120410\/1204102008\/1204102008002.json",
+        "nama": "TPS 002, HILILAWA'E, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102005",
+        "tps": "1204102005001",
+        "url": "12\/1204\/120410\/1204102005\/1204102005001.json",
+        "nama": "TPS 001, HILIMOASIO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102005",
+        "tps": "1204102005002",
+        "url": "12\/1204\/120410\/1204102005\/1204102005002.json",
+        "nama": "TPS 002, HILIMOASIO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102036",
+        "tps": "1204102036001",
+        "url": "12\/1204\/120410\/1204102036\/1204102036001.json",
+        "nama": "TPS 001, HILIMOASIO DUA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102036",
+        "tps": "1204102036002",
+        "url": "12\/1204\/120410\/1204102036\/1204102036002.json",
+        "nama": "TPS 002, HILIMOASIO DUA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102018",
+        "tps": "1204102018001",
+        "url": "12\/1204\/120410\/1204102018\/1204102018001.json",
+        "nama": "TPS 001, HILINA'A TAFUO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102018",
+        "tps": "1204102018002",
+        "url": "12\/1204\/120410\/1204102018\/1204102018002.json",
+        "nama": "TPS 002, HILINA'A TAFUO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102018",
+        "tps": "1204102018003",
+        "url": "12\/1204\/120410\/1204102018\/1204102018003.json",
+        "nama": "TPS 003, HILINA'A TAFUO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102018",
+        "tps": "1204102018004",
+        "url": "12\/1204\/120410\/1204102018\/1204102018004.json",
+        "nama": "TPS 004, HILINA'A TAFUO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102018",
+        "tps": "1204102018005",
+        "url": "12\/1204\/120410\/1204102018\/1204102018005.json",
+        "nama": "TPS 005, HILINA'A TAFUO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102019",
+        "tps": "1204102019001",
+        "url": "12\/1204\/120410\/1204102019\/1204102019001.json",
+        "nama": "TPS 001, HILIONOZEGA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102019",
+        "tps": "1204102019002",
+        "url": "12\/1204\/120410\/1204102019\/1204102019002.json",
+        "nama": "TPS 002, HILIONOZEGA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102029",
+        "tps": "1204102029001",
+        "url": "12\/1204\/120410\/1204102029\/1204102029001.json",
+        "nama": "TPS 001, LAIRA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102029",
+        "tps": "1204102029002",
+        "url": "12\/1204\/120410\/1204102029\/1204102029002.json",
+        "nama": "TPS 002, LAIRA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102007",
+        "tps": "1204102007001",
+        "url": "12\/1204\/120410\/1204102007\/1204102007001.json",
+        "nama": "TPS 001, LAOWO HILIMBARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102007",
+        "tps": "1204102007002",
+        "url": "12\/1204\/120410\/1204102007\/1204102007002.json",
+        "nama": "TPS 002, LAOWO HILIMBARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102007",
+        "tps": "1204102007003",
+        "url": "12\/1204\/120410\/1204102007\/1204102007003.json",
+        "nama": "TPS 003, LAOWO HILIMBARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102007",
+        "tps": "1204102007004",
+        "url": "12\/1204\/120410\/1204102007\/1204102007004.json",
+        "nama": "TPS 004, LAOWO HILIMBARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102007",
+        "tps": "1204102007005",
+        "url": "12\/1204\/120410\/1204102007\/1204102007005.json",
+        "nama": "TPS 005, LAOWO HILIMBARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102007",
+        "tps": "1204102007006",
+        "url": "12\/1204\/120410\/1204102007\/1204102007006.json",
+        "nama": "TPS 006, LAOWO HILIMBARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102007",
+        "tps": "1204102007007",
+        "url": "12\/1204\/120410\/1204102007\/1204102007007.json",
+        "nama": "TPS 007, LAOWO HILIMBARUZO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102024",
+        "tps": "1204102024001",
+        "url": "12\/1204\/120410\/1204102024\/1204102024001.json",
+        "nama": "TPS 001, MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102024",
+        "tps": "1204102024002",
+        "url": "12\/1204\/120410\/1204102024\/1204102024002.json",
+        "nama": "TPS 002, MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102024",
+        "tps": "1204102024003",
+        "url": "12\/1204\/120410\/1204102024\/1204102024003.json",
+        "nama": "TPS 003, MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102024",
+        "tps": "1204102024004",
+        "url": "12\/1204\/120410\/1204102024\/1204102024004.json",
+        "nama": "TPS 004, MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102024",
+        "tps": "1204102024005",
+        "url": "12\/1204\/120410\/1204102024\/1204102024005.json",
+        "nama": "TPS 005, MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102020",
+        "tps": "1204102020001",
+        "url": "12\/1204\/120410\/1204102020\/1204102020001.json",
+        "nama": "TPS 001, MONDRALI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102020",
+        "tps": "1204102020002",
+        "url": "12\/1204\/120410\/1204102020\/1204102020002.json",
+        "nama": "TPS 002, MONDRALI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102016",
+        "tps": "1204102016001",
+        "url": "12\/1204\/120410\/1204102016\/1204102016001.json",
+        "nama": "TPS 001, OLADANO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102016",
+        "tps": "1204102016002",
+        "url": "12\/1204\/120410\/1204102016\/1204102016002.json",
+        "nama": "TPS 002, OLADANO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102016",
+        "tps": "1204102016003",
+        "url": "12\/1204\/120410\/1204102016\/1204102016003.json",
+        "nama": "TPS 003, OLADANO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102032",
+        "tps": "1204102032001",
+        "url": "12\/1204\/120410\/1204102032\/1204102032001.json",
+        "nama": "TPS 001, ORAHILI ZUZUNDRAO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102032",
+        "tps": "1204102032002",
+        "url": "12\/1204\/120410\/1204102032\/1204102032002.json",
+        "nama": "TPS 002, ORAHILI ZUZUNDRAO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102030",
+        "tps": "1204102030001",
+        "url": "12\/1204\/120410\/1204102030\/1204102030001.json",
+        "nama": "TPS 001, OTALUA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102030",
+        "tps": "1204102030002",
+        "url": "12\/1204\/120410\/1204102030\/1204102030002.json",
+        "nama": "TPS 002, OTALUA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102023",
+        "tps": "1204102023001",
+        "url": "12\/1204\/120410\/1204102023\/1204102023001.json",
+        "nama": "TPS 001, SAIWAHILI HILIADULO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102023",
+        "tps": "1204102023002",
+        "url": "12\/1204\/120410\/1204102023\/1204102023002.json",
+        "nama": "TPS 002, SAIWAHILI HILIADULO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102023",
+        "tps": "1204102023003",
+        "url": "12\/1204\/120410\/1204102023\/1204102023003.json",
+        "nama": "TPS 003, SAIWAHILI HILIADULO, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102028",
+        "tps": "1204102028001",
+        "url": "12\/1204\/120410\/1204102028\/1204102028001.json",
+        "nama": "TPS 001, SANDRUTA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102028",
+        "tps": "1204102028002",
+        "url": "12\/1204\/120410\/1204102028\/1204102028002.json",
+        "nama": "TPS 002, SANDRUTA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102028",
+        "tps": "1204102028003",
+        "url": "12\/1204\/120410\/1204102028\/1204102028003.json",
+        "nama": "TPS 003, SANDRUTA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102014",
+        "tps": "1204102014001",
+        "url": "12\/1204\/120410\/1204102014\/1204102014001.json",
+        "nama": "TPS 001, SISOBAHILI IRAONOHURA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102014",
+        "tps": "1204102014002",
+        "url": "12\/1204\/120410\/1204102014\/1204102014002.json",
+        "nama": "TPS 002, SISOBAHILI IRAONOHURA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102014",
+        "tps": "1204102014003",
+        "url": "12\/1204\/120410\/1204102014\/1204102014003.json",
+        "nama": "TPS 003, SISOBAHILI IRAONOHURA, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102006",
+        "tps": "1204102006001",
+        "url": "12\/1204\/120410\/1204102006\/1204102006001.json",
+        "nama": "TPS 001, TETEGEONA'AI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102006",
+        "tps": "1204102006002",
+        "url": "12\/1204\/120410\/1204102006\/1204102006002.json",
+        "nama": "TPS 002, TETEGEONA'AI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022001",
+        "url": "12\/1204\/120410\/1204102022\/1204102022001.json",
+        "nama": "TPS 001, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022002",
+        "url": "12\/1204\/120410\/1204102022\/1204102022002.json",
+        "nama": "TPS 002, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022003",
+        "url": "12\/1204\/120410\/1204102022\/1204102022003.json",
+        "nama": "TPS 003, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022004",
+        "url": "12\/1204\/120410\/1204102022\/1204102022004.json",
+        "nama": "TPS 004, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022005",
+        "url": "12\/1204\/120410\/1204102022\/1204102022005.json",
+        "nama": "TPS 005, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022006",
+        "url": "12\/1204\/120410\/1204102022\/1204102022006.json",
+        "nama": "TPS 006, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022007",
+        "url": "12\/1204\/120410\/1204102022\/1204102022007.json",
+        "nama": "TPS 007, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022008",
+        "url": "12\/1204\/120410\/1204102022\/1204102022008.json",
+        "nama": "TPS 008, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022009",
+        "url": "12\/1204\/120410\/1204102022\/1204102022009.json",
+        "nama": "TPS 009, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102022",
+        "tps": "1204102022010",
+        "url": "12\/1204\/120410\/1204102022\/1204102022010.json",
+        "nama": "TPS 010, TETEHOSI, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102033",
+        "tps": "1204102033001",
+        "url": "12\/1204\/120410\/1204102033\/1204102033001.json",
+        "nama": "TPS 001, TIGA SERANGKAI MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102033",
+        "tps": "1204102033002",
+        "url": "12\/1204\/120410\/1204102033\/1204102033002.json",
+        "nama": "TPS 002, TIGA SERANGKAI MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102033",
+        "tps": "1204102033003",
+        "url": "12\/1204\/120410\/1204102033\/1204102033003.json",
+        "nama": "TPS 003, TIGA SERANGKAI MALIWA'A, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102009",
+        "tps": "1204102009001",
+        "url": "12\/1204\/120410\/1204102009\/1204102009001.json",
+        "nama": "TPS 001, TUHEWAEBU, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120410",
+        "desa": "1204102009",
+        "tps": "1204102009002",
+        "url": "12\/1204\/120410\/1204102009\/1204102009002.json",
+        "nama": "TPS 002, TUHEWAEBU, IDANOGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282007",
+        "tps": "1204282007001",
+        "url": "12\/1204\/120428\/1204282007\/1204282007001.json",
+        "nama": "TPS 001, ATUALUO, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282007",
+        "tps": "1204282007002",
+        "url": "12\/1204\/120428\/1204282007\/1204282007002.json",
+        "nama": "TPS 002, ATUALUO, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282001",
+        "tps": "1204282001001",
+        "url": "12\/1204\/120428\/1204282001\/1204282001001.json",
+        "nama": "TPS 001, BALODANO, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282001",
+        "tps": "1204282001002",
+        "url": "12\/1204\/120428\/1204282001\/1204282001002.json",
+        "nama": "TPS 002, BALODANO, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282009",
+        "tps": "1204282009001",
+        "url": "12\/1204\/120428\/1204282009\/1204282009001.json",
+        "nama": "TPS 001, DEKHA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282009",
+        "tps": "1204282009002",
+        "url": "12\/1204\/120428\/1204282009\/1204282009002.json",
+        "nama": "TPS 002, DEKHA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282009",
+        "tps": "1204282009003",
+        "url": "12\/1204\/120428\/1204282009\/1204282009003.json",
+        "nama": "TPS 003, DEKHA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282005",
+        "tps": "1204282005001",
+        "url": "12\/1204\/120428\/1204282005\/1204282005001.json",
+        "nama": "TPS 001, LASARA SIWALUBANUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282005",
+        "tps": "1204282005002",
+        "url": "12\/1204\/120428\/1204282005\/1204282005002.json",
+        "nama": "TPS 002, LASARA SIWALUBANUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282005",
+        "tps": "1204282005003",
+        "url": "12\/1204\/120428\/1204282005\/1204282005003.json",
+        "nama": "TPS 003, LASARA SIWALUBANUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282005",
+        "tps": "1204282005004",
+        "url": "12\/1204\/120428\/1204282005\/1204282005004.json",
+        "nama": "TPS 004, LASARA SIWALUBANUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282005",
+        "tps": "1204282005005",
+        "url": "12\/1204\/120428\/1204282005\/1204282005005.json",
+        "nama": "TPS 005, LASARA SIWALUBANUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282005",
+        "tps": "1204282005006",
+        "url": "12\/1204\/120428\/1204282005\/1204282005006.json",
+        "nama": "TPS 006, LASARA SIWALUBANUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282005",
+        "tps": "1204282005007",
+        "url": "12\/1204\/120428\/1204282005\/1204282005007.json",
+        "nama": "TPS 007, LASARA SIWALUBANUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282008",
+        "tps": "1204282008001",
+        "url": "12\/1204\/120428\/1204282008\/1204282008001.json",
+        "nama": "TPS 001, LEWA-LEWA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282008",
+        "tps": "1204282008002",
+        "url": "12\/1204\/120428\/1204282008\/1204282008002.json",
+        "nama": "TPS 002, LEWA-LEWA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282008",
+        "tps": "1204282008003",
+        "url": "12\/1204\/120428\/1204282008\/1204282008003.json",
+        "nama": "TPS 003, LEWA-LEWA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282002",
+        "tps": "1204282002001",
+        "url": "12\/1204\/120428\/1204282002\/1204282002001.json",
+        "nama": "TPS 001, LEWUOGURU II, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282002",
+        "tps": "1204282002002",
+        "url": "12\/1204\/120428\/1204282002\/1204282002002.json",
+        "nama": "TPS 002, LEWUOGURU II, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282003",
+        "tps": "1204282003001",
+        "url": "12\/1204\/120428\/1204282003\/1204282003001.json",
+        "nama": "TPS 001, SIHARE'O III, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282003",
+        "tps": "1204282003002",
+        "url": "12\/1204\/120428\/1204282003\/1204282003002.json",
+        "nama": "TPS 002, SIHARE'O III, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282003",
+        "tps": "1204282003003",
+        "url": "12\/1204\/120428\/1204282003\/1204282003003.json",
+        "nama": "TPS 003, SIHARE'O III, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282010",
+        "tps": "1204282010001",
+        "url": "12\/1204\/120428\/1204282010\/1204282010001.json",
+        "nama": "TPS 001, SIHARE'O III BAWOSALO'O BERUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282010",
+        "tps": "1204282010002",
+        "url": "12\/1204\/120428\/1204282010\/1204282010002.json",
+        "nama": "TPS 002, SIHARE'O III BAWOSALO'O BERUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282011",
+        "tps": "1204282011001",
+        "url": "12\/1204\/120428\/1204282011\/1204282011001.json",
+        "nama": "TPS 001, SIHARE'O III HILIBADALU, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282011",
+        "tps": "1204282011002",
+        "url": "12\/1204\/120428\/1204282011\/1204282011002.json",
+        "nama": "TPS 002, SIHARE'O III HILIBADALU, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282004",
+        "tps": "1204282004001",
+        "url": "12\/1204\/120428\/1204282004\/1204282004001.json",
+        "nama": "TPS 001, SISARAHILI MA'U, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282004",
+        "tps": "1204282004002",
+        "url": "12\/1204\/120428\/1204282004\/1204282004002.json",
+        "nama": "TPS 002, SISARAHILI MA'U, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282004",
+        "tps": "1204282004003",
+        "url": "12\/1204\/120428\/1204282004\/1204282004003.json",
+        "nama": "TPS 003, SISARAHILI MA'U, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282004",
+        "tps": "1204282004004",
+        "url": "12\/1204\/120428\/1204282004\/1204282004004.json",
+        "nama": "TPS 004, SISARAHILI MA'U, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282006",
+        "tps": "1204282006001",
+        "url": "12\/1204\/120428\/1204282006\/1204282006001.json",
+        "nama": "TPS 001, TUHEMBERUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282006",
+        "tps": "1204282006002",
+        "url": "12\/1204\/120428\/1204282006\/1204282006002.json",
+        "nama": "TPS 002, TUHEMBERUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120428",
+        "desa": "1204282006",
+        "tps": "1204282006003",
+        "url": "12\/1204\/120428\/1204282006\/1204282006003.json",
+        "nama": "TPS 003, TUHEMBERUA, MA'U, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352007",
+        "tps": "1204352007001",
+        "url": "12\/1204\/120435\/1204352007\/1204352007001.json",
+        "nama": "TPS 001, BARUZO, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352007",
+        "tps": "1204352007002",
+        "url": "12\/1204\/120435\/1204352007\/1204352007002.json",
+        "nama": "TPS 002, BARUZO, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352002",
+        "tps": "1204352002001",
+        "url": "12\/1204\/120435\/1204352002\/1204352002001.json",
+        "nama": "TPS 001, HILIBADALU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352002",
+        "tps": "1204352002002",
+        "url": "12\/1204\/120435\/1204352002\/1204352002002.json",
+        "nama": "TPS 002, HILIBADALU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352002",
+        "tps": "1204352002003",
+        "url": "12\/1204\/120435\/1204352002\/1204352002003.json",
+        "nama": "TPS 003, HILIBADALU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352002",
+        "tps": "1204352002004",
+        "url": "12\/1204\/120435\/1204352002\/1204352002004.json",
+        "nama": "TPS 004, HILIBADALU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352004",
+        "tps": "1204352004001",
+        "url": "12\/1204\/120435\/1204352004\/1204352004001.json",
+        "nama": "TPS 001, HILIMBANA, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352004",
+        "tps": "1204352004002",
+        "url": "12\/1204\/120435\/1204352004\/1204352004002.json",
+        "nama": "TPS 002, HILIMBANA, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352003",
+        "tps": "1204352003001",
+        "url": "12\/1204\/120435\/1204352003\/1204352003001.json",
+        "nama": "TPS 001, LA'URI, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352003",
+        "tps": "1204352003002",
+        "url": "12\/1204\/120435\/1204352003\/1204352003002.json",
+        "nama": "TPS 002, LA'URI, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352003",
+        "tps": "1204352003003",
+        "url": "12\/1204\/120435\/1204352003\/1204352003003.json",
+        "nama": "TPS 003, LA'URI, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352003",
+        "tps": "1204352003004",
+        "url": "12\/1204\/120435\/1204352003\/1204352003004.json",
+        "nama": "TPS 004, LA'URI, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352005",
+        "tps": "1204352005001",
+        "url": "12\/1204\/120435\/1204352005\/1204352005001.json",
+        "nama": "TPS 001, SAITAGARAMBA, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352005",
+        "tps": "1204352005002",
+        "url": "12\/1204\/120435\/1204352005\/1204352005002.json",
+        "nama": "TPS 002, SAITAGARAMBA, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352005",
+        "tps": "1204352005003",
+        "url": "12\/1204\/120435\/1204352005\/1204352005003.json",
+        "nama": "TPS 003, SAITAGARAMBA, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352011",
+        "tps": "1204352011001",
+        "url": "12\/1204\/120435\/1204352011\/1204352011001.json",
+        "nama": "TPS 001, SIHARE'O SOGAE'ADU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352011",
+        "tps": "1204352011002",
+        "url": "12\/1204\/120435\/1204352011\/1204352011002.json",
+        "nama": "TPS 002, SIHARE'O SOGAE'ADU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352011",
+        "tps": "1204352011003",
+        "url": "12\/1204\/120435\/1204352011\/1204352011003.json",
+        "nama": "TPS 003, SIHARE'O SOGAE'ADU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352009",
+        "tps": "1204352009001",
+        "url": "12\/1204\/120435\/1204352009\/1204352009001.json",
+        "nama": "TPS 001, SISARAHILI SOGAE'ADU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352009",
+        "tps": "1204352009002",
+        "url": "12\/1204\/120435\/1204352009\/1204352009002.json",
+        "nama": "TPS 002, SISARAHILI SOGAE'ADU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352009",
+        "tps": "1204352009003",
+        "url": "12\/1204\/120435\/1204352009\/1204352009003.json",
+        "nama": "TPS 003, SISARAHILI SOGAE'ADU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352006",
+        "tps": "1204352006001",
+        "url": "12\/1204\/120435\/1204352006\/1204352006001.json",
+        "nama": "TPS 001, SOGAE'ADU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352006",
+        "tps": "1204352006002",
+        "url": "12\/1204\/120435\/1204352006\/1204352006002.json",
+        "nama": "TPS 002, SOGAE'ADU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352006",
+        "tps": "1204352006003",
+        "url": "12\/1204\/120435\/1204352006\/1204352006003.json",
+        "nama": "TPS 003, SOGAE'ADU, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352001",
+        "tps": "1204352001001",
+        "url": "12\/1204\/120435\/1204352001\/1204352001001.json",
+        "nama": "TPS 001, TUHEMBUASI, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352001",
+        "tps": "1204352001002",
+        "url": "12\/1204\/120435\/1204352001\/1204352001002.json",
+        "nama": "TPS 002, TUHEMBUASI, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352001",
+        "tps": "1204352001003",
+        "url": "12\/1204\/120435\/1204352001\/1204352001003.json",
+        "nama": "TPS 003, TUHEMBUASI, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352001",
+        "tps": "1204352001004",
+        "url": "12\/1204\/120435\/1204352001\/1204352001004.json",
+        "nama": "TPS 004, TUHEMBUASI, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352008",
+        "tps": "1204352008001",
+        "url": "12\/1204\/120435\/1204352008\/1204352008001.json",
+        "nama": "TPS 001, TULUMBAHO, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352008",
+        "tps": "1204352008002",
+        "url": "12\/1204\/120435\/1204352008\/1204352008002.json",
+        "nama": "TPS 002, TULUMBAHO, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352008",
+        "tps": "1204352008003",
+        "url": "12\/1204\/120435\/1204352008\/1204352008003.json",
+        "nama": "TPS 003, TULUMBAHO, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352008",
+        "tps": "1204352008004",
+        "url": "12\/1204\/120435\/1204352008\/1204352008004.json",
+        "nama": "TPS 004, TULUMBAHO, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352010",
+        "tps": "1204352010001",
+        "url": "12\/1204\/120435\/1204352010\/1204352010001.json",
+        "nama": "TPS 001, WE'A-WE'A, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120435",
+        "desa": "1204352010",
+        "tps": "1204352010002",
+        "url": "12\/1204\/120435\/1204352010\/1204352010002.json",
+        "nama": "TPS 002, WE'A-WE'A, SOGAE'ADU, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292009",
+        "tps": "1204292009001",
+        "url": "12\/1204\/120429\/1204292009\/1204292009001.json",
+        "nama": "TPS 001, HILIGODU SOMOLO-MOLO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292009",
+        "tps": "1204292009002",
+        "url": "12\/1204\/120429\/1204292009\/1204292009002.json",
+        "nama": "TPS 002, HILIGODU SOMOLO-MOLO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292010",
+        "tps": "1204292010001",
+        "url": "12\/1204\/120429\/1204292010\/1204292010001.json",
+        "nama": "TPS 001, HILIMBORODANO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292010",
+        "tps": "1204292010002",
+        "url": "12\/1204\/120429\/1204292010\/1204292010002.json",
+        "nama": "TPS 002, HILIMBORODANO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292003",
+        "tps": "1204292003001",
+        "url": "12\/1204\/120429\/1204292003\/1204292003001.json",
+        "nama": "TPS 001, HUNO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292003",
+        "tps": "1204292003002",
+        "url": "12\/1204\/120429\/1204292003\/1204292003002.json",
+        "nama": "TPS 002, HUNO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292002",
+        "tps": "1204292002001",
+        "url": "12\/1204\/120429\/1204292002\/1204292002001.json",
+        "nama": "TPS 001, I'ODANO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292002",
+        "tps": "1204292002002",
+        "url": "12\/1204\/120429\/1204292002\/1204292002002.json",
+        "nama": "TPS 002, I'ODANO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292006",
+        "tps": "1204292006001",
+        "url": "12\/1204\/120429\/1204292006\/1204292006001.json",
+        "nama": "TPS 001, LEWUOGURU I, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292006",
+        "tps": "1204292006002",
+        "url": "12\/1204\/120429\/1204292006\/1204292006002.json",
+        "nama": "TPS 002, LEWUOGURU I, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292008",
+        "tps": "1204292008001",
+        "url": "12\/1204\/120429\/1204292008\/1204292008001.json",
+        "nama": "TPS 001, LEWUOMBANUA, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292008",
+        "tps": "1204292008002",
+        "url": "12\/1204\/120429\/1204292008\/1204292008002.json",
+        "nama": "TPS 002, LEWUOMBANUA, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292008",
+        "tps": "1204292008003",
+        "url": "12\/1204\/120429\/1204292008\/1204292008003.json",
+        "nama": "TPS 003, LEWUOMBANUA, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292008",
+        "tps": "1204292008004",
+        "url": "12\/1204\/120429\/1204292008\/1204292008004.json",
+        "nama": "TPS 004, LEWUOMBANUA, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292007",
+        "tps": "1204292007001",
+        "url": "12\/1204\/120429\/1204292007\/1204292007001.json",
+        "nama": "TPS 001, SIFAOROASI, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292004",
+        "tps": "1204292004001",
+        "url": "12\/1204\/120429\/1204292004\/1204292004001.json",
+        "nama": "TPS 001, SISARATANDRAWA, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292001",
+        "tps": "1204292001001",
+        "url": "12\/1204\/120429\/1204292001\/1204292001001.json",
+        "nama": "TPS 001, SISOBAWINO I, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292011",
+        "tps": "1204292011001",
+        "url": "12\/1204\/120429\/1204292011\/1204292011001.json",
+        "nama": "TPS 001, SO'EWALI, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292011",
+        "tps": "1204292011002",
+        "url": "12\/1204\/120429\/1204292011\/1204292011002.json",
+        "nama": "TPS 002, SO'EWALI, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292005",
+        "tps": "1204292005001",
+        "url": "12\/1204\/120429\/1204292005\/1204292005001.json",
+        "nama": "TPS 001, SOMOLO-MOLO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292005",
+        "tps": "1204292005002",
+        "url": "12\/1204\/120429\/1204292005\/1204292005002.json",
+        "nama": "TPS 002, SOMOLO-MOLO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120429",
+        "desa": "1204292005",
+        "tps": "1204292005003",
+        "url": "12\/1204\/120429\/1204292005\/1204292005003.json",
+        "nama": "TPS 003, SOMOLO-MOLO, SOMOLO-MOLO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272007",
+        "tps": "1204272007001",
+        "url": "12\/1204\/120427\/1204272007\/1204272007001.json",
+        "nama": "TPS 001, FAHANDRONA, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272007",
+        "tps": "1204272007002",
+        "url": "12\/1204\/120427\/1204272007\/1204272007002.json",
+        "nama": "TPS 002, FAHANDRONA, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272007",
+        "tps": "1204272007003",
+        "url": "12\/1204\/120427\/1204272007\/1204272007003.json",
+        "nama": "TPS 003, FAHANDRONA, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272006",
+        "tps": "1204272006001",
+        "url": "12\/1204\/120427\/1204272006\/1204272006001.json",
+        "nama": "TPS 001, FATODANO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272006",
+        "tps": "1204272006002",
+        "url": "12\/1204\/120427\/1204272006\/1204272006002.json",
+        "nama": "TPS 002, FATODANO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272006",
+        "tps": "1204272006003",
+        "url": "12\/1204\/120427\/1204272006\/1204272006003.json",
+        "nama": "TPS 003, FATODANO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272006",
+        "tps": "1204272006004",
+        "url": "12\/1204\/120427\/1204272006\/1204272006004.json",
+        "nama": "TPS 004, FATODANO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272005",
+        "tps": "1204272005001",
+        "url": "12\/1204\/120427\/1204272005\/1204272005001.json",
+        "nama": "TPS 001, HILIBADALU, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272005",
+        "tps": "1204272005002",
+        "url": "12\/1204\/120427\/1204272005\/1204272005002.json",
+        "nama": "TPS 002, HILIBADALU, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272013",
+        "tps": "1204272013001",
+        "url": "12\/1204\/120427\/1204272013\/1204272013001.json",
+        "nama": "TPS 001, HILIGAFOA, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272013",
+        "tps": "1204272013002",
+        "url": "12\/1204\/120427\/1204272013\/1204272013002.json",
+        "nama": "TPS 002, HILIGAFOA, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272004",
+        "tps": "1204272004001",
+        "url": "12\/1204\/120427\/1204272004\/1204272004001.json",
+        "nama": "TPS 001, HILIMBOWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272004",
+        "tps": "1204272004002",
+        "url": "12\/1204\/120427\/1204272004\/1204272004002.json",
+        "nama": "TPS 002, HILIMBOWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272004",
+        "tps": "1204272004003",
+        "url": "12\/1204\/120427\/1204272004\/1204272004003.json",
+        "nama": "TPS 003, HILIMBOWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272004",
+        "tps": "1204272004004",
+        "url": "12\/1204\/120427\/1204272004\/1204272004004.json",
+        "nama": "TPS 004, HILIMBOWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272002",
+        "tps": "1204272002001",
+        "url": "12\/1204\/120427\/1204272002\/1204272002001.json",
+        "nama": "TPS 001, HILIWETO GELA, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272002",
+        "tps": "1204272002002",
+        "url": "12\/1204\/120427\/1204272002\/1204272002002.json",
+        "nama": "TPS 002, HILIWETO GELA, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272009",
+        "tps": "1204272009001",
+        "url": "12\/1204\/120427\/1204272009\/1204272009001.json",
+        "nama": "TPS 001, HOLI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272009",
+        "tps": "1204272009002",
+        "url": "12\/1204\/120427\/1204272009\/1204272009002.json",
+        "nama": "TPS 002, HOLI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272009",
+        "tps": "1204272009003",
+        "url": "12\/1204\/120427\/1204272009\/1204272009003.json",
+        "nama": "TPS 003, HOLI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272009",
+        "tps": "1204272009004",
+        "url": "12\/1204\/120427\/1204272009\/1204272009004.json",
+        "nama": "TPS 004, HOLI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272009",
+        "tps": "1204272009005",
+        "url": "12\/1204\/120427\/1204272009\/1204272009005.json",
+        "nama": "TPS 005, HOLI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272003",
+        "tps": "1204272003001",
+        "url": "12\/1204\/120427\/1204272003\/1204272003001.json",
+        "nama": "TPS 001, LAWA-LAWA LUO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272003",
+        "tps": "1204272003002",
+        "url": "12\/1204\/120427\/1204272003\/1204272003002.json",
+        "nama": "TPS 002, LAWA-LAWA LUO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272003",
+        "tps": "1204272003003",
+        "url": "12\/1204\/120427\/1204272003\/1204272003003.json",
+        "nama": "TPS 003, LAWA-LAWA LUO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272012",
+        "tps": "1204272012001",
+        "url": "12\/1204\/120427\/1204272012\/1204272012001.json",
+        "nama": "TPS 001, MOHILI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272012",
+        "tps": "1204272012002",
+        "url": "12\/1204\/120427\/1204272012\/1204272012002.json",
+        "nama": "TPS 002, MOHILI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272008",
+        "tps": "1204272008001",
+        "url": "12\/1204\/120427\/1204272008\/1204272008001.json",
+        "nama": "TPS 001, ONODALINGA, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272008",
+        "tps": "1204272008002",
+        "url": "12\/1204\/120427\/1204272008\/1204272008002.json",
+        "nama": "TPS 002, ONODALINGA, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272001",
+        "tps": "1204272001001",
+        "url": "12\/1204\/120427\/1204272001\/1204272001001.json",
+        "nama": "TPS 001, ORAHILI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272011",
+        "tps": "1204272011001",
+        "url": "12\/1204\/120427\/1204272011\/1204272011001.json",
+        "nama": "TPS 001, SIFAOROASI ULUGAWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272011",
+        "tps": "1204272011002",
+        "url": "12\/1204\/120427\/1204272011\/1204272011002.json",
+        "nama": "TPS 002, SIFAOROASI ULUGAWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272011",
+        "tps": "1204272011003",
+        "url": "12\/1204\/120427\/1204272011\/1204272011003.json",
+        "nama": "TPS 003, SIFAOROASI ULUGAWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272014",
+        "tps": "1204272014001",
+        "url": "12\/1204\/120427\/1204272014\/1204272014001.json",
+        "nama": "TPS 001, SISARAHILI SOROMA'ASI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272014",
+        "tps": "1204272014002",
+        "url": "12\/1204\/120427\/1204272014\/1204272014002.json",
+        "nama": "TPS 002, SISARAHILI SOROMA'ASI, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272010",
+        "tps": "1204272010001",
+        "url": "12\/1204\/120427\/1204272010\/1204272010001.json",
+        "nama": "TPS 001, SISOBAHILI ULUGAWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272010",
+        "tps": "1204272010002",
+        "url": "12\/1204\/120427\/1204272010\/1204272010002.json",
+        "nama": "TPS 002, SISOBAHILI ULUGAWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1204",
+        "kecamatan": "120427",
+        "desa": "1204272010",
+        "tps": "1204272010003",
+        "url": "12\/1204\/120427\/1204272010\/1204272010003.json",
+        "nama": "TPS 003, SISOBAHILI ULUGAWO, ULUGAWO, NIAS, SUMATERA UTARA"
+    }
+]

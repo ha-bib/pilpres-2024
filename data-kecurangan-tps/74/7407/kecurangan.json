@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "74",
+        "kabupaten": "7407",
+        "kecamatan": "740705",
+        "desa": "7407052015",
+        "tps": "7407052015001",
+        "nama": "TPS 001, KABITA, WANGI WANGI SELATAN, WAKATOBI, SULAWESI TENGGARA",
+        "selisih": -6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/74\/7407\/740705\/7407052015\/7407052015001"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7407",
+        "kecamatan": "740705",
+        "desa": "7407051017",
+        "tps": "7407051017004",
+        "nama": "TPS 004, MANDATI I, WANGI WANGI SELATAN, WAKATOBI, SULAWESI TENGGARA",
+        "selisih": 95,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/74\/7407\/740705\/7407051017\/7407051017004"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7407",
+        "kecamatan": "740701",
+        "desa": "7407011002",
+        "tps": "7407011002005",
+        "nama": "TPS 005, PONGO, WANGI-WANGI, WAKATOBI, SULAWESI TENGGARA",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/74\/7407\/740701\/7407011002\/7407011002005"
+    }
+]

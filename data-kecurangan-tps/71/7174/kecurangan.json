@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "71",
+        "kabupaten": "7174",
+        "kecamatan": "717404",
+        "desa": "7174041003",
+        "tps": "7174041003001",
+        "nama": "TPS 001, MOGOLAING, KOTAMOBAGU BARAT, KOTA KOTAMOBAGU, SULAWESI UTARA",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7174\/717404\/7174041003\/7174041003001"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7174",
+        "kecamatan": "717403",
+        "desa": "7174031008",
+        "tps": "7174031008006",
+        "nama": "TPS 006, MONGONDOW, KOTAMOBAGU SELATAN, KOTA KOTAMOBAGU, SULAWESI UTARA",
+        "selisih": 526,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7174\/717403\/7174031008\/7174031008006"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7174",
+        "kecamatan": "717401",
+        "desa": "7174012003",
+        "tps": "7174012003004",
+        "nama": "TPS 004, PONTODON, KOTAMOBAGU UTARA, KOTA KOTAMOBAGU, SULAWESI UTARA",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7174\/717401\/7174012003\/7174012003004"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7174",
+        "kecamatan": "717404",
+        "desa": "7174041004",
+        "tps": "7174041004001",
+        "nama": "TPS 001, GOGAGOMAN, KOTAMOBAGU BARAT, KOTA KOTAMOBAGU, SULAWESI UTARA",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7174\/717404\/7174041004\/7174041004001"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7174",
+        "kecamatan": "717404",
+        "desa": "7174041004",
+        "tps": "7174041004001",
+        "nama": "TPS 001, GOGAGOMAN, KOTAMOBAGU BARAT, KOTA KOTAMOBAGU, SULAWESI UTARA",
+        "selisih": 530,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/71\/7174\/717404\/7174041004\/7174041004001"
+    }
+]

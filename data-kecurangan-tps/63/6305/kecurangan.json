@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "63",
+        "kabupaten": "6305",
+        "kecamatan": "630508",
+        "desa": "6305082005",
+        "tps": "6305082005005",
+        "nama": "TPS 005, BATUNG, PIANI, TAPIN, KALIMANTAN SELATAN",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6305\/630508\/6305082005\/6305082005005"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6305",
+        "kecamatan": "630503",
+        "desa": "6305032011",
+        "tps": "6305032011001",
+        "nama": "TPS 001, SUKARAMAI, TAPIN TENGAH, TAPIN, KALIMANTAN SELATAN",
+        "selisih": 11,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6305\/630503\/6305032011\/6305032011001"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6305",
+        "kecamatan": "630504",
+        "desa": "6305041001",
+        "tps": "6305041001019",
+        "nama": "TPS 019, RANGDA MALINGKUNG, TAPIN UTARA, TAPIN, KALIMANTAN SELATAN",
+        "selisih": -600,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6305\/630504\/6305041001\/6305041001019"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6305",
+        "kecamatan": "630503",
+        "desa": "6305032003",
+        "tps": "6305032003003",
+        "nama": "TPS 003, MANDURIAN, TAPIN TENGAH, TAPIN, KALIMANTAN SELATAN",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6305\/630503\/6305032003\/6305032003003"
+    }
+]

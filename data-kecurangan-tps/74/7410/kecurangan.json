@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "74",
+        "kabupaten": "7410",
+        "kecamatan": "741005",
+        "desa": "7410052005",
+        "tps": "7410052005003",
+        "nama": "TPS 003, PEBAOA, KULISUSU UTARA, BUTON UTARA, SULAWESI TENGGARA",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/74\/7410\/741005\/7410052005\/7410052005003"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7410",
+        "kecamatan": "741003",
+        "desa": "7410031010",
+        "tps": "7410031010001",
+        "nama": "TPS 001, BONEGUNU, BONEGUNU, BUTON UTARA, SULAWESI TENGGARA",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/74\/7410\/741003\/7410031010\/7410031010001"
+    },
+    {
+        "provinsi": "74",
+        "kabupaten": "7410",
+        "kecamatan": "741003",
+        "desa": "7410031010",
+        "tps": "7410031010001",
+        "nama": "TPS 001, BONEGUNU, BONEGUNU, BUTON UTARA, SULAWESI TENGGARA",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/74\/7410\/741003\/7410031010\/7410031010001"
+    }
+]

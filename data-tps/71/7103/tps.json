@@ -1,0 +1,4232 @@
+[
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162008",
+        "tps": "7103162008001",
+        "url": "71\/7103\/710316\/7103162008\/7103162008001.json",
+        "nama": "TPS 001, KAWALUSO, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162008",
+        "tps": "7103162008002",
+        "url": "71\/7103\/710316\/7103162008\/7103162008002.json",
+        "nama": "TPS 002, KAWALUSO, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162001",
+        "tps": "7103162001001",
+        "url": "71\/7103\/710316\/7103162001\/7103162001001.json",
+        "nama": "TPS 001, KENDAHE I, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162001",
+        "tps": "7103162001002",
+        "url": "71\/7103\/710316\/7103162001\/7103162001002.json",
+        "nama": "TPS 002, KENDAHE I, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162001",
+        "tps": "7103162001003",
+        "url": "71\/7103\/710316\/7103162001\/7103162001003.json",
+        "nama": "TPS 003, KENDAHE I, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162002",
+        "tps": "7103162002001",
+        "url": "71\/7103\/710316\/7103162002\/7103162002001.json",
+        "nama": "TPS 001, KENDAHE II, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162002",
+        "tps": "7103162002002",
+        "url": "71\/7103\/710316\/7103162002\/7103162002002.json",
+        "nama": "TPS 002, KENDAHE II, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162002",
+        "tps": "7103162002003",
+        "url": "71\/7103\/710316\/7103162002\/7103162002003.json",
+        "nama": "TPS 003, KENDAHE II, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162002",
+        "tps": "7103162002004",
+        "url": "71\/7103\/710316\/7103162002\/7103162002004.json",
+        "nama": "TPS 004, KENDAHE II, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162007",
+        "tps": "7103162007001",
+        "url": "71\/7103\/710316\/7103162007\/7103162007001.json",
+        "nama": "TPS 001, LIPANG, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162006",
+        "tps": "7103162006001",
+        "url": "71\/7103\/710316\/7103162006\/7103162006001.json",
+        "nama": "TPS 001, MOHONG SAWANG, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162006",
+        "tps": "7103162006002",
+        "url": "71\/7103\/710316\/7103162006\/7103162006002.json",
+        "nama": "TPS 002, MOHONG SAWANG, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162006",
+        "tps": "7103162006003",
+        "url": "71\/7103\/710316\/7103162006\/7103162006003.json",
+        "nama": "TPS 003, MOHONG SAWANG, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162005",
+        "tps": "7103162005001",
+        "url": "71\/7103\/710316\/7103162005\/7103162005001.json",
+        "nama": "TPS 001, PEMPALARAENG, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162005",
+        "tps": "7103162005002",
+        "url": "71\/7103\/710316\/7103162005\/7103162005002.json",
+        "nama": "TPS 002, PEMPALARAENG, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162005",
+        "tps": "7103162005003",
+        "url": "71\/7103\/710316\/7103162005\/7103162005003.json",
+        "nama": "TPS 003, PEMPALARAENG, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162003",
+        "tps": "7103162003001",
+        "url": "71\/7103\/710316\/7103162003\/7103162003001.json",
+        "nama": "TPS 001, TALAWID, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162003",
+        "tps": "7103162003002",
+        "url": "71\/7103\/710316\/7103162003\/7103162003002.json",
+        "nama": "TPS 002, TALAWID, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162003",
+        "tps": "7103162003003",
+        "url": "71\/7103\/710316\/7103162003\/7103162003003.json",
+        "nama": "TPS 003, TALAWID, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162003",
+        "tps": "7103162003004",
+        "url": "71\/7103\/710316\/7103162003\/7103162003004.json",
+        "nama": "TPS 004, TALAWID, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162004",
+        "tps": "7103162004001",
+        "url": "71\/7103\/710316\/7103162004\/7103162004001.json",
+        "nama": "TPS 001, TARIANG LAMA, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162004",
+        "tps": "7103162004002",
+        "url": "71\/7103\/710316\/7103162004\/7103162004002.json",
+        "nama": "TPS 002, TARIANG LAMA, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710316",
+        "desa": "7103162004",
+        "tps": "7103162004003",
+        "url": "71\/7103\/710316\/7103162004\/7103162004003.json",
+        "nama": "TPS 003, TARIANG LAMA, KENDAHE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710325",
+        "desa": "7103252002",
+        "tps": "7103252002001",
+        "url": "71\/7103\/710325\/7103252002\/7103252002001.json",
+        "nama": "TPS 001, KAWIO, KEPULAUAN MARORE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710325",
+        "desa": "7103252002",
+        "tps": "7103252002002",
+        "url": "71\/7103\/710325\/7103252002\/7103252002002.json",
+        "nama": "TPS 002, KAWIO, KEPULAUAN MARORE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710325",
+        "desa": "7103252001",
+        "tps": "7103252001001",
+        "url": "71\/7103\/710325\/7103252001\/7103252001001.json",
+        "nama": "TPS 001, MARORE, KEPULAUAN MARORE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710325",
+        "desa": "7103252001",
+        "tps": "7103252001002",
+        "url": "71\/7103\/710325\/7103252001\/7103252001002.json",
+        "nama": "TPS 002, MARORE, KEPULAUAN MARORE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710325",
+        "desa": "7103252003",
+        "tps": "7103252003001",
+        "url": "71\/7103\/710325\/7103252003\/7103252003001.json",
+        "nama": "TPS 001, MATUTUANG, KEPULAUAN MARORE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710325",
+        "desa": "7103252003",
+        "tps": "7103252003002",
+        "url": "71\/7103\/710325\/7103252003\/7103252003002.json",
+        "nama": "TPS 002, MATUTUANG, KEPULAUAN MARORE, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132014",
+        "tps": "7103132014001",
+        "url": "71\/7103\/710313\/7103132014\/7103132014001.json",
+        "nama": "TPS 001, BAKALAENG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132014",
+        "tps": "7103132014002",
+        "url": "71\/7103\/710313\/7103132014\/7103132014002.json",
+        "nama": "TPS 002, BAKALAENG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132002",
+        "tps": "7103132002001",
+        "url": "71\/7103\/710313\/7103132002\/7103132002001.json",
+        "nama": "TPS 001, BARANGKA, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132002",
+        "tps": "7103132002002",
+        "url": "71\/7103\/710313\/7103132002\/7103132002002.json",
+        "nama": "TPS 002, BARANGKA, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132002",
+        "tps": "7103132002003",
+        "url": "71\/7103\/710313\/7103132002\/7103132002003.json",
+        "nama": "TPS 003, BARANGKA, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132002",
+        "tps": "7103132002004",
+        "url": "71\/7103\/710313\/7103132002\/7103132002004.json",
+        "nama": "TPS 004, BARANGKA, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132012",
+        "tps": "7103132012001",
+        "url": "71\/7103\/710313\/7103132012\/7103132012001.json",
+        "nama": "TPS 001, BARANGKALANG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132012",
+        "tps": "7103132012002",
+        "url": "71\/7103\/710313\/7103132012\/7103132012002.json",
+        "nama": "TPS 002, BARANGKALANG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132012",
+        "tps": "7103132012003",
+        "url": "71\/7103\/710313\/7103132012\/7103132012003.json",
+        "nama": "TPS 003, BARANGKALANG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132013",
+        "tps": "7103132013001",
+        "url": "71\/7103\/710313\/7103132013\/7103132013001.json",
+        "nama": "TPS 001, BELENGANG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132013",
+        "tps": "7103132013002",
+        "url": "71\/7103\/710313\/7103132013\/7103132013002.json",
+        "nama": "TPS 002, BELENGANG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132013",
+        "tps": "7103132013003",
+        "url": "71\/7103\/710313\/7103132013\/7103132013003.json",
+        "nama": "TPS 003, BELENGANG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132013",
+        "tps": "7103132013004",
+        "url": "71\/7103\/710313\/7103132013\/7103132013004.json",
+        "nama": "TPS 004, BELENGANG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132018",
+        "tps": "7103132018001",
+        "url": "71\/7103\/710313\/7103132018\/7103132018001.json",
+        "nama": "TPS 001, BENGKA, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132015",
+        "tps": "7103132015001",
+        "url": "71\/7103\/710313\/7103132015\/7103132015001.json",
+        "nama": "TPS 001, HIUNG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132015",
+        "tps": "7103132015002",
+        "url": "71\/7103\/710313\/7103132015\/7103132015002.json",
+        "nama": "TPS 002, HIUNG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132015",
+        "tps": "7103132015003",
+        "url": "71\/7103\/710313\/7103132015\/7103132015003.json",
+        "nama": "TPS 003, HIUNG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132007",
+        "tps": "7103132007001",
+        "url": "71\/7103\/710313\/7103132007\/7103132007001.json",
+        "nama": "TPS 001, KARATUNG I, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132007",
+        "tps": "7103132007002",
+        "url": "71\/7103\/710313\/7103132007\/7103132007002.json",
+        "nama": "TPS 002, KARATUNG I, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132007",
+        "tps": "7103132007003",
+        "url": "71\/7103\/710313\/7103132007\/7103132007003.json",
+        "nama": "TPS 003, KARATUNG I, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132008",
+        "tps": "7103132008001",
+        "url": "71\/7103\/710313\/7103132008\/7103132008001.json",
+        "nama": "TPS 001, KARATUNG II, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132008",
+        "tps": "7103132008002",
+        "url": "71\/7103\/710313\/7103132008\/7103132008002.json",
+        "nama": "TPS 002, KARATUNG II, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132008",
+        "tps": "7103132008003",
+        "url": "71\/7103\/710313\/7103132008\/7103132008003.json",
+        "nama": "TPS 003, KARATUNG II, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132009",
+        "tps": "7103132009001",
+        "url": "71\/7103\/710313\/7103132009\/7103132009001.json",
+        "nama": "TPS 001, KAUHIS, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132009",
+        "tps": "7103132009002",
+        "url": "71\/7103\/710313\/7103132009\/7103132009002.json",
+        "nama": "TPS 002, KAUHIS, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132009",
+        "tps": "7103132009003",
+        "url": "71\/7103\/710313\/7103132009\/7103132009003.json",
+        "nama": "TPS 003, KAUHIS, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132009",
+        "tps": "7103132009004",
+        "url": "71\/7103\/710313\/7103132009\/7103132009004.json",
+        "nama": "TPS 004, KAUHIS, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132011",
+        "tps": "7103132011001",
+        "url": "71\/7103\/710313\/7103132011\/7103132011001.json",
+        "nama": "TPS 001, LEBO, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132011",
+        "tps": "7103132011002",
+        "url": "71\/7103\/710313\/7103132011\/7103132011002.json",
+        "nama": "TPS 002, LEBO, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132011",
+        "tps": "7103132011003",
+        "url": "71\/7103\/710313\/7103132011\/7103132011003.json",
+        "nama": "TPS 003, LEBO, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132011",
+        "tps": "7103132011004",
+        "url": "71\/7103\/710313\/7103132011\/7103132011004.json",
+        "nama": "TPS 004, LEBO, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132011",
+        "tps": "7103132011005",
+        "url": "71\/7103\/710313\/7103132011\/7103132011005.json",
+        "nama": "TPS 005, LEBO, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132006",
+        "tps": "7103132006001",
+        "url": "71\/7103\/710313\/7103132006\/7103132006001.json",
+        "nama": "TPS 001, MALA, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132006",
+        "tps": "7103132006002",
+        "url": "71\/7103\/710313\/7103132006\/7103132006002.json",
+        "nama": "TPS 002, MALA, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132004",
+        "tps": "7103132004001",
+        "url": "71\/7103\/710313\/7103132004\/7103132004001.json",
+        "nama": "TPS 001, MANUMPITAENG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132004",
+        "tps": "7103132004002",
+        "url": "71\/7103\/710313\/7103132004\/7103132004002.json",
+        "nama": "TPS 002, MANUMPITAENG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132003",
+        "tps": "7103132003001",
+        "url": "71\/7103\/710313\/7103132003\/7103132003001.json",
+        "nama": "TPS 001, NAHEPESE, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132003",
+        "tps": "7103132003002",
+        "url": "71\/7103\/710313\/7103132003\/7103132003002.json",
+        "nama": "TPS 002, NAHEPESE, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132016",
+        "tps": "7103132016001",
+        "url": "71\/7103\/710313\/7103132016\/7103132016001.json",
+        "nama": "TPS 001, PINEBENTENGANG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132016",
+        "tps": "7103132016002",
+        "url": "71\/7103\/710313\/7103132016\/7103132016002.json",
+        "nama": "TPS 002, PINEBENTENGANG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132010",
+        "tps": "7103132010001",
+        "url": "71\/7103\/710313\/7103132010\/7103132010001.json",
+        "nama": "TPS 001, SESIWUNG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132010",
+        "tps": "7103132010002",
+        "url": "71\/7103\/710313\/7103132010\/7103132010002.json",
+        "nama": "TPS 002, SESIWUNG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132010",
+        "tps": "7103132010003",
+        "url": "71\/7103\/710313\/7103132010\/7103132010003.json",
+        "nama": "TPS 003, SESIWUNG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132010",
+        "tps": "7103132010004",
+        "url": "71\/7103\/710313\/7103132010\/7103132010004.json",
+        "nama": "TPS 004, SESIWUNG, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132005",
+        "tps": "7103132005001",
+        "url": "71\/7103\/710313\/7103132005\/7103132005001.json",
+        "nama": "TPS 001, TALOARANE, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132005",
+        "tps": "7103132005002",
+        "url": "71\/7103\/710313\/7103132005\/7103132005002.json",
+        "nama": "TPS 002, TALOARANE, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132005",
+        "tps": "7103132005003",
+        "url": "71\/7103\/710313\/7103132005\/7103132005003.json",
+        "nama": "TPS 003, TALOARANE, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132017",
+        "tps": "7103132017001",
+        "url": "71\/7103\/710313\/7103132017\/7103132017001.json",
+        "nama": "TPS 001, TALOARANE I, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132017",
+        "tps": "7103132017002",
+        "url": "71\/7103\/710313\/7103132017\/7103132017002.json",
+        "nama": "TPS 002, TALOARANE I, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132001",
+        "tps": "7103132001001",
+        "url": "71\/7103\/710313\/7103132001\/7103132001001.json",
+        "nama": "TPS 001, TAWOALI, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132001",
+        "tps": "7103132001002",
+        "url": "71\/7103\/710313\/7103132001\/7103132001002.json",
+        "nama": "TPS 002, TAWOALI, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710313",
+        "desa": "7103132001",
+        "tps": "7103132001003",
+        "url": "71\/7103\/710313\/7103132001\/7103132001003.json",
+        "nama": "TPS 003, TAWOALI, MANGANITU, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102007",
+        "tps": "7103102007001",
+        "url": "71\/7103\/710310\/7103102007\/7103102007001.json",
+        "nama": "TPS 001, BATUNDERANG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102007",
+        "tps": "7103102007002",
+        "url": "71\/7103\/710310\/7103102007\/7103102007002.json",
+        "nama": "TPS 002, BATUNDERANG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102007",
+        "tps": "7103102007003",
+        "url": "71\/7103\/710310\/7103102007\/7103102007003.json",
+        "nama": "TPS 003, BATUNDERANG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102008",
+        "tps": "7103102008001",
+        "url": "71\/7103\/710310\/7103102008\/7103102008001.json",
+        "nama": "TPS 001, BEBALANG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102008",
+        "tps": "7103102008002",
+        "url": "71\/7103\/710310\/7103102008\/7103102008002.json",
+        "nama": "TPS 002, BEBALANG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102001",
+        "tps": "7103102001001",
+        "url": "71\/7103\/710310\/7103102001\/7103102001001.json",
+        "nama": "TPS 001, KALUWATU, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102001",
+        "tps": "7103102001002",
+        "url": "71\/7103\/710310\/7103102001\/7103102001002.json",
+        "nama": "TPS 002, KALUWATU, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102001",
+        "tps": "7103102001003",
+        "url": "71\/7103\/710310\/7103102001\/7103102001003.json",
+        "nama": "TPS 003, KALUWATU, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102001",
+        "tps": "7103102001004",
+        "url": "71\/7103\/710310\/7103102001\/7103102001004.json",
+        "nama": "TPS 004, KALUWATU, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102002",
+        "tps": "7103102002001",
+        "url": "71\/7103\/710310\/7103102002\/7103102002001.json",
+        "nama": "TPS 001, LAINE, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102002",
+        "tps": "7103102002002",
+        "url": "71\/7103\/710310\/7103102002\/7103102002002.json",
+        "nama": "TPS 002, LAINE, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102002",
+        "tps": "7103102002003",
+        "url": "71\/7103\/710310\/7103102002\/7103102002003.json",
+        "nama": "TPS 003, LAINE, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102002",
+        "tps": "7103102002004",
+        "url": "71\/7103\/710310\/7103102002\/7103102002004.json",
+        "nama": "TPS 004, LAINE, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102002",
+        "tps": "7103102002005",
+        "url": "71\/7103\/710310\/7103102002\/7103102002005.json",
+        "nama": "TPS 005, LAINE, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102003",
+        "tps": "7103102003001",
+        "url": "71\/7103\/710310\/7103102003\/7103102003001.json",
+        "nama": "TPS 001, LAPANGO, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102003",
+        "tps": "7103102003002",
+        "url": "71\/7103\/710310\/7103102003\/7103102003002.json",
+        "nama": "TPS 002, LAPANGO, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102003",
+        "tps": "7103102003003",
+        "url": "71\/7103\/710310\/7103102003\/7103102003003.json",
+        "nama": "TPS 003, LAPANGO, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102003",
+        "tps": "7103102003004",
+        "url": "71\/7103\/710310\/7103102003\/7103102003004.json",
+        "nama": "TPS 004, LAPANGO, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102003",
+        "tps": "7103102003005",
+        "url": "71\/7103\/710310\/7103102003\/7103102003005.json",
+        "nama": "TPS 005, LAPANGO, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102003",
+        "tps": "7103102003006",
+        "url": "71\/7103\/710310\/7103102003\/7103102003006.json",
+        "nama": "TPS 006, LAPANGO, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102013",
+        "tps": "7103102013001",
+        "url": "71\/7103\/710310\/7103102013\/7103102013001.json",
+        "nama": "TPS 001, LAPANGO I, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102013",
+        "tps": "7103102013002",
+        "url": "71\/7103\/710310\/7103102013\/7103102013002.json",
+        "nama": "TPS 002, LAPANGO I, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102013",
+        "tps": "7103102013003",
+        "url": "71\/7103\/710310\/7103102013\/7103102013003.json",
+        "nama": "TPS 003, LAPANGO I, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102011",
+        "tps": "7103102011001",
+        "url": "71\/7103\/710310\/7103102011\/7103102011001.json",
+        "nama": "TPS 001, LAPEPAHE, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102011",
+        "tps": "7103102011002",
+        "url": "71\/7103\/710310\/7103102011\/7103102011002.json",
+        "nama": "TPS 002, LAPEPAHE, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102012",
+        "tps": "7103102012001",
+        "url": "71\/7103\/710310\/7103102012\/7103102012001.json",
+        "nama": "TPS 001, LEHIMI TARIANG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102012",
+        "tps": "7103102012002",
+        "url": "71\/7103\/710310\/7103102012\/7103102012002.json",
+        "nama": "TPS 002, LEHIMI TARIANG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102009",
+        "tps": "7103102009001",
+        "url": "71\/7103\/710310\/7103102009\/7103102009001.json",
+        "nama": "TPS 001, MAWIRA, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102005",
+        "tps": "7103102005001",
+        "url": "71\/7103\/710310\/7103102005\/7103102005001.json",
+        "nama": "TPS 001, NGALIPAENG I, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102005",
+        "tps": "7103102005002",
+        "url": "71\/7103\/710310\/7103102005\/7103102005002.json",
+        "nama": "TPS 002, NGALIPAENG I, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102006",
+        "tps": "7103102006001",
+        "url": "71\/7103\/710310\/7103102006\/7103102006001.json",
+        "nama": "TPS 001, NGALIPAENG II, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102006",
+        "tps": "7103102006002",
+        "url": "71\/7103\/710310\/7103102006\/7103102006002.json",
+        "nama": "TPS 002, NGALIPAENG II, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102006",
+        "tps": "7103102006003",
+        "url": "71\/7103\/710310\/7103102006\/7103102006003.json",
+        "nama": "TPS 003, NGALIPAENG II, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102010",
+        "tps": "7103102010001",
+        "url": "71\/7103\/710310\/7103102010\/7103102010001.json",
+        "nama": "TPS 001, PINDANG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102010",
+        "tps": "7103102010002",
+        "url": "71\/7103\/710310\/7103102010\/7103102010002.json",
+        "nama": "TPS 002, PINDANG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102004",
+        "tps": "7103102004001",
+        "url": "71\/7103\/710310\/7103102004\/7103102004001.json",
+        "nama": "TPS 001, SOWAENG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102004",
+        "tps": "7103102004002",
+        "url": "71\/7103\/710310\/7103102004\/7103102004002.json",
+        "nama": "TPS 002, SOWAENG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710310",
+        "desa": "7103102004",
+        "tps": "7103102004003",
+        "url": "71\/7103\/710310\/7103102004\/7103102004003.json",
+        "nama": "TPS 003, SOWAENG, MANGANITU SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092003",
+        "tps": "7103092003001",
+        "url": "71\/7103\/710309\/7103092003\/7103092003001.json",
+        "nama": "TPS 001, BUKIDE, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092003",
+        "tps": "7103092003002",
+        "url": "71\/7103\/710309\/7103092003\/7103092003002.json",
+        "nama": "TPS 002, BUKIDE, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092004",
+        "tps": "7103092004001",
+        "url": "71\/7103\/710309\/7103092004\/7103092004001.json",
+        "nama": "TPS 001, BUKIDE TIMUR, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092004",
+        "tps": "7103092004002",
+        "url": "71\/7103\/710309\/7103092004\/7103092004002.json",
+        "nama": "TPS 002, BUKIDE TIMUR, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092001",
+        "tps": "7103092001001",
+        "url": "71\/7103\/710309\/7103092001\/7103092001001.json",
+        "nama": "TPS 001, NANEDAKELE, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092001",
+        "tps": "7103092001002",
+        "url": "71\/7103\/710309\/7103092001\/7103092001002.json",
+        "nama": "TPS 002, NANEDAKELE, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092001",
+        "tps": "7103092001003",
+        "url": "71\/7103\/710309\/7103092001\/7103092001003.json",
+        "nama": "TPS 003, NANEDAKELE, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092005",
+        "tps": "7103092005001",
+        "url": "71\/7103\/710309\/7103092005\/7103092005001.json",
+        "nama": "TPS 001, NANUSA, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092005",
+        "tps": "7103092005002",
+        "url": "71\/7103\/710309\/7103092005\/7103092005002.json",
+        "nama": "TPS 002, NANUSA, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092002",
+        "tps": "7103092002001",
+        "url": "71\/7103\/710309\/7103092002\/7103092002001.json",
+        "nama": "TPS 001, NUSA, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092002",
+        "tps": "7103092002002",
+        "url": "71\/7103\/710309\/7103092002\/7103092002002.json",
+        "nama": "TPS 002, NUSA, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092002",
+        "tps": "7103092002003",
+        "url": "71\/7103\/710309\/7103092002\/7103092002003.json",
+        "nama": "TPS 003, NUSA, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710309",
+        "desa": "7103092002",
+        "tps": "7103092002004",
+        "url": "71\/7103\/710309\/7103092002\/7103092002004.json",
+        "nama": "TPS 004, NUSA, NUSA TABUKAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152015",
+        "tps": "7103152015001",
+        "url": "71\/7103\/710315\/7103152015\/7103152015001.json",
+        "nama": "TPS 001, BATUWINGKUNG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152015",
+        "tps": "7103152015002",
+        "url": "71\/7103\/710315\/7103152015\/7103152015002.json",
+        "nama": "TPS 002, BATUWINGKUNG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152002",
+        "tps": "7103152002001",
+        "url": "71\/7103\/710315\/7103152002\/7103152002001.json",
+        "nama": "TPS 001, BENTUNG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152002",
+        "tps": "7103152002002",
+        "url": "71\/7103\/710315\/7103152002\/7103152002002.json",
+        "nama": "TPS 002, BENTUNG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152007",
+        "tps": "7103152007001",
+        "url": "71\/7103\/710315\/7103152007\/7103152007001.json",
+        "nama": "TPS 001, BINEBAS, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152007",
+        "tps": "7103152007002",
+        "url": "71\/7103\/710315\/7103152007\/7103152007002.json",
+        "nama": "TPS 002, BINEBAS, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152016",
+        "tps": "7103152016001",
+        "url": "71\/7103\/710315\/7103152016\/7103152016001.json",
+        "nama": "TPS 001, BIRAHI, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152018",
+        "tps": "7103152018001",
+        "url": "71\/7103\/710315\/7103152018\/7103152018001.json",
+        "nama": "TPS 001, BUKIDE, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152021",
+        "tps": "7103152021001",
+        "url": "71\/7103\/710315\/7103152021\/7103152021001.json",
+        "nama": "TPS 001, BULO, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152019",
+        "tps": "7103152019001",
+        "url": "71\/7103\/710315\/7103152019\/7103152019001.json",
+        "nama": "TPS 001, KALAGHENG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152017",
+        "tps": "7103152017001",
+        "url": "71\/7103\/710315\/7103152017\/7103152017001.json",
+        "nama": "TPS 001, LAOTONGAN, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152003",
+        "tps": "7103152003001",
+        "url": "71\/7103\/710315\/7103152003\/7103152003001.json",
+        "nama": "TPS 001, LESABE, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152003",
+        "tps": "7103152003002",
+        "url": "71\/7103\/710315\/7103152003\/7103152003002.json",
+        "nama": "TPS 002, LESABE, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152003",
+        "tps": "7103152003003",
+        "url": "71\/7103\/710315\/7103152003\/7103152003003.json",
+        "nama": "TPS 003, LESABE, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152020",
+        "tps": "7103152020001",
+        "url": "71\/7103\/710315\/7103152020\/7103152020001.json",
+        "nama": "TPS 001, LESABE I, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152020",
+        "tps": "7103152020002",
+        "url": "71\/7103\/710315\/7103152020\/7103152020002.json",
+        "nama": "TPS 002, LESABE I, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152004",
+        "tps": "7103152004001",
+        "url": "71\/7103\/710315\/7103152004\/7103152004001.json",
+        "nama": "TPS 001, MALAMMENGGU, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152004",
+        "tps": "7103152004002",
+        "url": "71\/7103\/710315\/7103152004\/7103152004002.json",
+        "nama": "TPS 002, MALAMMENGGU, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152008",
+        "tps": "7103152008001",
+        "url": "71\/7103\/710315\/7103152008\/7103152008001.json",
+        "nama": "TPS 001, MANDOI, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152005",
+        "tps": "7103152005001",
+        "url": "71\/7103\/710315\/7103152005\/7103152005001.json",
+        "nama": "TPS 001, PALARENG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152005",
+        "tps": "7103152005002",
+        "url": "71\/7103\/710315\/7103152005\/7103152005002.json",
+        "nama": "TPS 002, PALARENG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152001",
+        "tps": "7103152001001",
+        "url": "71\/7103\/710315\/7103152001\/7103152001001.json",
+        "nama": "TPS 001, SIMUENG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152001",
+        "tps": "7103152001002",
+        "url": "71\/7103\/710315\/7103152001\/7103152001002.json",
+        "nama": "TPS 002, SIMUENG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710315",
+        "desa": "7103152001",
+        "tps": "7103152001003",
+        "url": "71\/7103\/710315\/7103152001\/7103152001003.json",
+        "nama": "TPS 003, SIMUENG, TABUKAN SELATAN, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192009",
+        "tps": "7103192009001",
+        "url": "71\/7103\/710319\/7103192009\/7103192009001.json",
+        "nama": "TPS 001, AHA PATUNG, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192004",
+        "tps": "7103192004001",
+        "url": "71\/7103\/710319\/7103192004\/7103192004001.json",
+        "nama": "TPS 001, BEENG, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192004",
+        "tps": "7103192004002",
+        "url": "71\/7103\/710319\/7103192004\/7103192004002.json",
+        "nama": "TPS 002, BEENG, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192007",
+        "tps": "7103192007001",
+        "url": "71\/7103\/710319\/7103192007\/7103192007001.json",
+        "nama": "TPS 001, BEENG LAUT, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192006",
+        "tps": "7103192006001",
+        "url": "71\/7103\/710319\/7103192006\/7103192006001.json",
+        "nama": "TPS 001, BOWONE, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192001",
+        "tps": "7103192001001",
+        "url": "71\/7103\/710319\/7103192001\/7103192001001.json",
+        "nama": "TPS 001, HANGKE, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192005",
+        "tps": "7103192005001",
+        "url": "71\/7103\/710319\/7103192005\/7103192005001.json",
+        "nama": "TPS 001, LEHUPU, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192005",
+        "tps": "7103192005002",
+        "url": "71\/7103\/710319\/7103192005\/7103192005002.json",
+        "nama": "TPS 002, LEHUPU, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192002",
+        "tps": "7103192002001",
+        "url": "71\/7103\/710319\/7103192002\/7103192002001.json",
+        "nama": "TPS 001, SALURANG, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192002",
+        "tps": "7103192002002",
+        "url": "71\/7103\/710319\/7103192002\/7103192002002.json",
+        "nama": "TPS 002, SALURANG, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192003",
+        "tps": "7103192003001",
+        "url": "71\/7103\/710319\/7103192003\/7103192003001.json",
+        "nama": "TPS 001, TAMBUNG, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710319",
+        "desa": "7103192008",
+        "tps": "7103192008001",
+        "url": "71\/7103\/710319\/7103192008\/7103192008001.json",
+        "nama": "TPS 001, TENDA, TABUKAN SELATAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202002",
+        "tps": "7103202002001",
+        "url": "71\/7103\/710320\/7103202002\/7103202002001.json",
+        "nama": "TPS 001, BASAUH, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202002",
+        "tps": "7103202002002",
+        "url": "71\/7103\/710320\/7103202002\/7103202002002.json",
+        "nama": "TPS 002, BASAUH, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202005",
+        "tps": "7103202005001",
+        "url": "71\/7103\/710320\/7103202005\/7103202005001.json",
+        "nama": "TPS 001, DALOKAWENG, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202005",
+        "tps": "7103202005002",
+        "url": "71\/7103\/710320\/7103202005\/7103202005002.json",
+        "nama": "TPS 002, DALOKAWENG, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202006",
+        "tps": "7103202006001",
+        "url": "71\/7103\/710320\/7103202006\/7103202006001.json",
+        "nama": "TPS 001, MALISADE, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202001",
+        "tps": "7103202001001",
+        "url": "71\/7103\/710320\/7103202001\/7103202001001.json",
+        "nama": "TPS 001, PINTARENG, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202001",
+        "tps": "7103202001002",
+        "url": "71\/7103\/710320\/7103202001\/7103202001002.json",
+        "nama": "TPS 002, PINTARENG, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202001",
+        "tps": "7103202001003",
+        "url": "71\/7103\/710320\/7103202001\/7103202001003.json",
+        "nama": "TPS 003, PINTARENG, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202004",
+        "tps": "7103202004001",
+        "url": "71\/7103\/710320\/7103202004\/7103202004001.json",
+        "nama": "TPS 001, SAMPAKANG, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710320",
+        "desa": "7103202003",
+        "tps": "7103202003001",
+        "url": "71\/7103\/710320\/7103202003\/7103202003001.json",
+        "nama": "TPS 001, TUMALEDE, TABUKAN SELATAN TENGGARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142004",
+        "tps": "7103142004001",
+        "url": "71\/7103\/710314\/7103142004\/7103142004001.json",
+        "nama": "TPS 001, BIRA, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142004",
+        "tps": "7103142004002",
+        "url": "71\/7103\/710314\/7103142004\/7103142004002.json",
+        "nama": "TPS 002, BIRA, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142004",
+        "tps": "7103142004003",
+        "url": "71\/7103\/710314\/7103142004\/7103142004003.json",
+        "nama": "TPS 003, BIRA, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142004",
+        "tps": "7103142004004",
+        "url": "71\/7103\/710314\/7103142004\/7103142004004.json",
+        "nama": "TPS 004, BIRA, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142010",
+        "tps": "7103142010001",
+        "url": "71\/7103\/710314\/7103142010\/7103142010001.json",
+        "nama": "TPS 001, BIRU, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142010",
+        "tps": "7103142010002",
+        "url": "71\/7103\/710314\/7103142010\/7103142010002.json",
+        "nama": "TPS 002, BIRU, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142001",
+        "tps": "7103142001001",
+        "url": "71\/7103\/710314\/7103142001\/7103142001001.json",
+        "nama": "TPS 001, BOWONGKALI, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142001",
+        "tps": "7103142001002",
+        "url": "71\/7103\/710314\/7103142001\/7103142001002.json",
+        "nama": "TPS 002, BOWONGKALI, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142006",
+        "tps": "7103142006001",
+        "url": "71\/7103\/710314\/7103142006\/7103142006001.json",
+        "nama": "TPS 001, BUNGALAWANG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142006",
+        "tps": "7103142006002",
+        "url": "71\/7103\/710314\/7103142006\/7103142006002.json",
+        "nama": "TPS 002, BUNGALAWANG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142006",
+        "tps": "7103142006003",
+        "url": "71\/7103\/710314\/7103142006\/7103142006003.json",
+        "nama": "TPS 003, BUNGALAWANG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142008",
+        "tps": "7103142008001",
+        "url": "71\/7103\/710314\/7103142008\/7103142008001.json",
+        "nama": "TPS 001, GUNUNG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142008",
+        "tps": "7103142008002",
+        "url": "71\/7103\/710314\/7103142008\/7103142008002.json",
+        "nama": "TPS 002, GUNUNG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142002",
+        "tps": "7103142002001",
+        "url": "71\/7103\/710314\/7103142002\/7103142002001.json",
+        "nama": "TPS 001, KULUR I, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142002",
+        "tps": "7103142002002",
+        "url": "71\/7103\/710314\/7103142002\/7103142002002.json",
+        "nama": "TPS 002, KULUR I, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142003",
+        "tps": "7103142003001",
+        "url": "71\/7103\/710314\/7103142003\/7103142003001.json",
+        "nama": "TPS 001, KULUR II, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142003",
+        "tps": "7103142003002",
+        "url": "71\/7103\/710314\/7103142003\/7103142003002.json",
+        "nama": "TPS 002, KULUR II, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142003",
+        "tps": "7103142003003",
+        "url": "71\/7103\/710314\/7103142003\/7103142003003.json",
+        "nama": "TPS 003, KULUR II, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142005",
+        "tps": "7103142005001",
+        "url": "71\/7103\/710314\/7103142005\/7103142005001.json",
+        "nama": "TPS 001, KUMA, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142005",
+        "tps": "7103142005002",
+        "url": "71\/7103\/710314\/7103142005\/7103142005002.json",
+        "nama": "TPS 002, KUMA, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142018",
+        "tps": "7103142018001",
+        "url": "71\/7103\/710314\/7103142018\/7103142018001.json",
+        "nama": "TPS 001, KUMA I, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142018",
+        "tps": "7103142018002",
+        "url": "71\/7103\/710314\/7103142018\/7103142018002.json",
+        "nama": "TPS 002, KUMA I, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142017",
+        "tps": "7103142017001",
+        "url": "71\/7103\/710314\/7103142017\/7103142017001.json",
+        "nama": "TPS 001, MALUENG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142007",
+        "tps": "7103142007001",
+        "url": "71\/7103\/710314\/7103142007\/7103142007001.json",
+        "nama": "TPS 001, MIULU, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142007",
+        "tps": "7103142007002",
+        "url": "71\/7103\/710314\/7103142007\/7103142007002.json",
+        "nama": "TPS 002, MIULU, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142007",
+        "tps": "7103142007003",
+        "url": "71\/7103\/710314\/7103142007\/7103142007003.json",
+        "nama": "TPS 003, MIULU, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142014",
+        "tps": "7103142014001",
+        "url": "71\/7103\/710314\/7103142014\/7103142014001.json",
+        "nama": "TPS 001, PALAHANAENG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142016",
+        "tps": "7103142016001",
+        "url": "71\/7103\/710314\/7103142016\/7103142016001.json",
+        "nama": "TPS 001, PELELANGEN, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142016",
+        "tps": "7103142016002",
+        "url": "71\/7103\/710314\/7103142016\/7103142016002.json",
+        "nama": "TPS 002, PELELANGEN, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142013",
+        "tps": "7103142013001",
+        "url": "71\/7103\/710314\/7103142013\/7103142013001.json",
+        "nama": "TPS 001, RENDINGAN, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142013",
+        "tps": "7103142013002",
+        "url": "71\/7103\/710314\/7103142013\/7103142013002.json",
+        "nama": "TPS 002, RENDINGAN, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142012",
+        "tps": "7103142012001",
+        "url": "71\/7103\/710314\/7103142012\/7103142012001.json",
+        "nama": "TPS 001, SENSONG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142012",
+        "tps": "7103142012002",
+        "url": "71\/7103\/710314\/7103142012\/7103142012002.json",
+        "nama": "TPS 002, SENSONG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142009",
+        "tps": "7103142009001",
+        "url": "71\/7103\/710314\/7103142009\/7103142009001.json",
+        "nama": "TPS 001, TALENGEN, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142009",
+        "tps": "7103142009002",
+        "url": "71\/7103\/710314\/7103142009\/7103142009002.json",
+        "nama": "TPS 002, TALENGEN, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142009",
+        "tps": "7103142009003",
+        "url": "71\/7103\/710314\/7103142009\/7103142009003.json",
+        "nama": "TPS 003, TALENGEN, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142011",
+        "tps": "7103142011001",
+        "url": "71\/7103\/710314\/7103142011\/7103142011001.json",
+        "nama": "TPS 001, TARIANG BARU, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142011",
+        "tps": "7103142011002",
+        "url": "71\/7103\/710314\/7103142011\/7103142011002.json",
+        "nama": "TPS 002, TARIANG BARU, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142011",
+        "tps": "7103142011003",
+        "url": "71\/7103\/710314\/7103142011\/7103142011003.json",
+        "nama": "TPS 003, TARIANG BARU, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142015",
+        "tps": "7103142015001",
+        "url": "71\/7103\/710314\/7103142015\/7103142015001.json",
+        "nama": "TPS 001, TIMBELANG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710314",
+        "desa": "7103142015",
+        "tps": "7103142015002",
+        "url": "71\/7103\/710314\/7103142015\/7103142015002.json",
+        "nama": "TPS 002, TIMBELANG, TABUKAN TENGAH, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082002",
+        "tps": "7103082002001",
+        "url": "71\/7103\/710308\/7103082002\/7103082002001.json",
+        "nama": "TPS 001, BAHU, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082002",
+        "tps": "7103082002002",
+        "url": "71\/7103\/710308\/7103082002\/7103082002002.json",
+        "nama": "TPS 002, BAHU, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082002",
+        "tps": "7103082002003",
+        "url": "71\/7103\/710308\/7103082002\/7103082002003.json",
+        "nama": "TPS 003, BAHU, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082006",
+        "tps": "7103082006001",
+        "url": "71\/7103\/710308\/7103082006\/7103082006001.json",
+        "nama": "TPS 001, BEHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082006",
+        "tps": "7103082006002",
+        "url": "71\/7103\/710308\/7103082006\/7103082006002.json",
+        "nama": "TPS 002, BEHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082006",
+        "tps": "7103082006003",
+        "url": "71\/7103\/710308\/7103082006\/7103082006003.json",
+        "nama": "TPS 003, BEHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082006",
+        "tps": "7103082006004",
+        "url": "71\/7103\/710308\/7103082006\/7103082006004.json",
+        "nama": "TPS 004, BEHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082006",
+        "tps": "7103082006005",
+        "url": "71\/7103\/710308\/7103082006\/7103082006005.json",
+        "nama": "TPS 005, BEHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082012",
+        "tps": "7103082012001",
+        "url": "71\/7103\/710308\/7103082012\/7103082012001.json",
+        "nama": "TPS 001, BENGKETANG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082012",
+        "tps": "7103082012002",
+        "url": "71\/7103\/710308\/7103082012\/7103082012002.json",
+        "nama": "TPS 002, BENGKETANG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082014",
+        "tps": "7103082014001",
+        "url": "71\/7103\/710308\/7103082014\/7103082014001.json",
+        "nama": "TPS 001, BOWONGKULU, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082014",
+        "tps": "7103082014002",
+        "url": "71\/7103\/710308\/7103082014\/7103082014002.json",
+        "nama": "TPS 002, BOWONGKULU, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082025",
+        "tps": "7103082025001",
+        "url": "71\/7103\/710308\/7103082025\/7103082025001.json",
+        "nama": "TPS 001, BOWONGKULU I, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082025",
+        "tps": "7103082025002",
+        "url": "71\/7103\/710308\/7103082025\/7103082025002.json",
+        "nama": "TPS 002, BOWONGKULU I, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082001",
+        "tps": "7103082001001",
+        "url": "71\/7103\/710308\/7103082001\/7103082001001.json",
+        "nama": "TPS 001, KALASUGE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082001",
+        "tps": "7103082001002",
+        "url": "71\/7103\/710308\/7103082001\/7103082001002.json",
+        "nama": "TPS 002, KALASUGE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082001",
+        "tps": "7103082001003",
+        "url": "71\/7103\/710308\/7103082001\/7103082001003.json",
+        "nama": "TPS 003, KALASUGE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082001",
+        "tps": "7103082001004",
+        "url": "71\/7103\/710308\/7103082001\/7103082001004.json",
+        "nama": "TPS 004, KALASUGE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082001",
+        "tps": "7103082001005",
+        "url": "71\/7103\/710308\/7103082001\/7103082001005.json",
+        "nama": "TPS 005, KALASUGE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082001",
+        "tps": "7103082001006",
+        "url": "71\/7103\/710308\/7103082001\/7103082001006.json",
+        "nama": "TPS 006, KALASUGE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082004",
+        "tps": "7103082004001",
+        "url": "71\/7103\/710308\/7103082004\/7103082004001.json",
+        "nama": "TPS 001, KALEKUBE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082004",
+        "tps": "7103082004002",
+        "url": "71\/7103\/710308\/7103082004\/7103082004002.json",
+        "nama": "TPS 002, KALEKUBE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082004",
+        "tps": "7103082004003",
+        "url": "71\/7103\/710308\/7103082004\/7103082004003.json",
+        "nama": "TPS 003, KALEKUBE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082004",
+        "tps": "7103082004004",
+        "url": "71\/7103\/710308\/7103082004\/7103082004004.json",
+        "nama": "TPS 004, KALEKUBE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082024",
+        "tps": "7103082024001",
+        "url": "71\/7103\/710308\/7103082024\/7103082024001.json",
+        "nama": "TPS 001, KALEKUBE I, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082024",
+        "tps": "7103082024002",
+        "url": "71\/7103\/710308\/7103082024\/7103082024002.json",
+        "nama": "TPS 002, KALEKUBE I, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082011",
+        "tps": "7103082011001",
+        "url": "71\/7103\/710308\/7103082011\/7103082011001.json",
+        "nama": "TPS 001, KALURAE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082011",
+        "tps": "7103082011002",
+        "url": "71\/7103\/710308\/7103082011\/7103082011002.json",
+        "nama": "TPS 002, KALURAE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082008",
+        "tps": "7103082008001",
+        "url": "71\/7103\/710308\/7103082008\/7103082008001.json",
+        "nama": "TPS 001, LENGANENG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082008",
+        "tps": "7103082008002",
+        "url": "71\/7103\/710308\/7103082008\/7103082008002.json",
+        "nama": "TPS 002, LENGANENG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082023",
+        "tps": "7103082023001",
+        "url": "71\/7103\/710308\/7103082023\/7103082023001.json",
+        "nama": "TPS 001, LIKUANG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082023",
+        "tps": "7103082023002",
+        "url": "71\/7103\/710308\/7103082023\/7103082023002.json",
+        "nama": "TPS 002, LIKUANG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082023",
+        "tps": "7103082023003",
+        "url": "71\/7103\/710308\/7103082023\/7103082023003.json",
+        "nama": "TPS 003, LIKUANG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082023",
+        "tps": "7103082023004",
+        "url": "71\/7103\/710308\/7103082023\/7103082023004.json",
+        "nama": "TPS 004, LIKUANG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082003",
+        "tps": "7103082003001",
+        "url": "71\/7103\/710308\/7103082003\/7103082003001.json",
+        "nama": "TPS 001, MALA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082003",
+        "tps": "7103082003002",
+        "url": "71\/7103\/710308\/7103082003\/7103082003002.json",
+        "nama": "TPS 002, MALA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082003",
+        "tps": "7103082003003",
+        "url": "71\/7103\/710308\/7103082003\/7103082003003.json",
+        "nama": "TPS 003, MALA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082003",
+        "tps": "7103082003004",
+        "url": "71\/7103\/710308\/7103082003\/7103082003004.json",
+        "nama": "TPS 004, MALA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082003",
+        "tps": "7103082003005",
+        "url": "71\/7103\/710308\/7103082003\/7103082003005.json",
+        "nama": "TPS 005, MALA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082017",
+        "tps": "7103082017001",
+        "url": "71\/7103\/710308\/7103082017\/7103082017001.json",
+        "nama": "TPS 001, MOADE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082017",
+        "tps": "7103082017002",
+        "url": "71\/7103\/710308\/7103082017\/7103082017002.json",
+        "nama": "TPS 002, MOADE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082005",
+        "tps": "7103082005001",
+        "url": "71\/7103\/710308\/7103082005\/7103082005001.json",
+        "nama": "TPS 001, NAHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082005",
+        "tps": "7103082005002",
+        "url": "71\/7103\/710308\/7103082005\/7103082005002.json",
+        "nama": "TPS 002, NAHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082005",
+        "tps": "7103082005003",
+        "url": "71\/7103\/710308\/7103082005\/7103082005003.json",
+        "nama": "TPS 003, NAHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082005",
+        "tps": "7103082005004",
+        "url": "71\/7103\/710308\/7103082005\/7103082005004.json",
+        "nama": "TPS 004, NAHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082005",
+        "tps": "7103082005005",
+        "url": "71\/7103\/710308\/7103082005\/7103082005005.json",
+        "nama": "TPS 005, NAHA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082026",
+        "tps": "7103082026001",
+        "url": "71\/7103\/710308\/7103082026\/7103082026001.json",
+        "nama": "TPS 001, NAHA I, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082026",
+        "tps": "7103082026002",
+        "url": "71\/7103\/710308\/7103082026\/7103082026002.json",
+        "nama": "TPS 002, NAHA I, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082026",
+        "tps": "7103082026003",
+        "url": "71\/7103\/710308\/7103082026\/7103082026003.json",
+        "nama": "TPS 003, NAHA I, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082013",
+        "tps": "7103082013001",
+        "url": "71\/7103\/710308\/7103082013\/7103082013001.json",
+        "nama": "TPS 001, PETTA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082013",
+        "tps": "7103082013002",
+        "url": "71\/7103\/710308\/7103082013\/7103082013002.json",
+        "nama": "TPS 002, PETTA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082013",
+        "tps": "7103082013003",
+        "url": "71\/7103\/710308\/7103082013\/7103082013003.json",
+        "nama": "TPS 003, PETTA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082021",
+        "tps": "7103082021001",
+        "url": "71\/7103\/710308\/7103082021\/7103082021001.json",
+        "nama": "TPS 001, PETTA BARAT, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082021",
+        "tps": "7103082021002",
+        "url": "71\/7103\/710308\/7103082021\/7103082021002.json",
+        "nama": "TPS 002, PETTA BARAT, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082021",
+        "tps": "7103082021003",
+        "url": "71\/7103\/710308\/7103082021\/7103082021003.json",
+        "nama": "TPS 003, PETTA BARAT, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082022",
+        "tps": "7103082022001",
+        "url": "71\/7103\/710308\/7103082022\/7103082022001.json",
+        "nama": "TPS 001, PETTA SELATAN, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082022",
+        "tps": "7103082022002",
+        "url": "71\/7103\/710308\/7103082022\/7103082022002.json",
+        "nama": "TPS 002, PETTA SELATAN, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082020",
+        "tps": "7103082020001",
+        "url": "71\/7103\/710308\/7103082020\/7103082020001.json",
+        "nama": "TPS 001, PETTA TIMUR, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082020",
+        "tps": "7103082020002",
+        "url": "71\/7103\/710308\/7103082020\/7103082020002.json",
+        "nama": "TPS 002, PETTA TIMUR, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082020",
+        "tps": "7103082020003",
+        "url": "71\/7103\/710308\/7103082020\/7103082020003.json",
+        "nama": "TPS 003, PETTA TIMUR, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082016",
+        "tps": "7103082016001",
+        "url": "71\/7103\/710308\/7103082016\/7103082016001.json",
+        "nama": "TPS 001, PUSUNGE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082016",
+        "tps": "7103082016002",
+        "url": "71\/7103\/710308\/7103082016\/7103082016002.json",
+        "nama": "TPS 002, PUSUNGE, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082019",
+        "tps": "7103082019001",
+        "url": "71\/7103\/710308\/7103082019\/7103082019001.json",
+        "nama": "TPS 001, RAKU, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082019",
+        "tps": "7103082019002",
+        "url": "71\/7103\/710308\/7103082019\/7103082019002.json",
+        "nama": "TPS 002, RAKU, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082019",
+        "tps": "7103082019003",
+        "url": "71\/7103\/710308\/7103082019\/7103082019003.json",
+        "nama": "TPS 003, RAKU, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082009",
+        "tps": "7103082009001",
+        "url": "71\/7103\/710308\/7103082009\/7103082009001.json",
+        "nama": "TPS 001, TAROLANG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082009",
+        "tps": "7103082009002",
+        "url": "71\/7103\/710308\/7103082009\/7103082009002.json",
+        "nama": "TPS 002, TAROLANG, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082010",
+        "tps": "7103082010001",
+        "url": "71\/7103\/710308\/7103082010\/7103082010001.json",
+        "nama": "TPS 001, TOLA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082010",
+        "tps": "7103082010002",
+        "url": "71\/7103\/710308\/7103082010\/7103082010002.json",
+        "nama": "TPS 002, TOLA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082010",
+        "tps": "7103082010003",
+        "url": "71\/7103\/710308\/7103082010\/7103082010003.json",
+        "nama": "TPS 003, TOLA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082010",
+        "tps": "7103082010004",
+        "url": "71\/7103\/710308\/7103082010\/7103082010004.json",
+        "nama": "TPS 004, TOLA, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082007",
+        "tps": "7103082007001",
+        "url": "71\/7103\/710308\/7103082007\/7103082007001.json",
+        "nama": "TPS 001, UTAURANO, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082007",
+        "tps": "7103082007002",
+        "url": "71\/7103\/710308\/7103082007\/7103082007002.json",
+        "nama": "TPS 002, UTAURANO, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710308",
+        "desa": "7103082007",
+        "tps": "7103082007003",
+        "url": "71\/7103\/710308\/7103082007\/7103082007003.json",
+        "nama": "TPS 003, UTAURANO, TABUKAN UTARA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171008",
+        "tps": "7103171008001",
+        "url": "71\/7103\/710317\/7103171008\/7103171008001.json",
+        "nama": "TPS 001, APENGSEMBEKA, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171008",
+        "tps": "7103171008002",
+        "url": "71\/7103\/710317\/7103171008\/7103171008002.json",
+        "nama": "TPS 002, APENGSEMBEKA, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171008",
+        "tps": "7103171008003",
+        "url": "71\/7103\/710317\/7103171008\/7103171008003.json",
+        "nama": "TPS 003, APENGSEMBEKA, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171008",
+        "tps": "7103171008004",
+        "url": "71\/7103\/710317\/7103171008\/7103171008004.json",
+        "nama": "TPS 004, APENGSEMBEKA, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171015",
+        "tps": "7103171015001",
+        "url": "71\/7103\/710317\/7103171015\/7103171015001.json",
+        "nama": "TPS 001, BUNGALAWANG, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171015",
+        "tps": "7103171015002",
+        "url": "71\/7103\/710317\/7103171015\/7103171015002.json",
+        "nama": "TPS 002, BUNGALAWANG, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171015",
+        "tps": "7103171015003",
+        "url": "71\/7103\/710317\/7103171015\/7103171015003.json",
+        "nama": "TPS 003, BUNGALAWANG, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171015",
+        "tps": "7103171015004",
+        "url": "71\/7103\/710317\/7103171015\/7103171015004.json",
+        "nama": "TPS 004, BUNGALAWANG, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171015",
+        "tps": "7103171015005",
+        "url": "71\/7103\/710317\/7103171015\/7103171015005.json",
+        "nama": "TPS 005, BUNGALAWANG, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171009",
+        "tps": "7103171009001",
+        "url": "71\/7103\/710317\/7103171009\/7103171009001.json",
+        "nama": "TPS 001, MAHENA, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171009",
+        "tps": "7103171009002",
+        "url": "71\/7103\/710317\/7103171009\/7103171009002.json",
+        "nama": "TPS 002, MAHENA, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171009",
+        "tps": "7103171009003",
+        "url": "71\/7103\/710317\/7103171009\/7103171009003.json",
+        "nama": "TPS 003, MAHENA, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171009",
+        "tps": "7103171009004",
+        "url": "71\/7103\/710317\/7103171009\/7103171009004.json",
+        "nama": "TPS 004, MAHENA, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171017",
+        "tps": "7103171017001",
+        "url": "71\/7103\/710317\/7103171017\/7103171017001.json",
+        "nama": "TPS 001, MANENTE, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171017",
+        "tps": "7103171017002",
+        "url": "71\/7103\/710317\/7103171017\/7103171017002.json",
+        "nama": "TPS 002, MANENTE, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171017",
+        "tps": "7103171017003",
+        "url": "71\/7103\/710317\/7103171017\/7103171017003.json",
+        "nama": "TPS 003, MANENTE, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171017",
+        "tps": "7103171017004",
+        "url": "71\/7103\/710317\/7103171017\/7103171017004.json",
+        "nama": "TPS 004, MANENTE, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171017",
+        "tps": "7103171017005",
+        "url": "71\/7103\/710317\/7103171017\/7103171017005.json",
+        "nama": "TPS 005, MANENTE, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171017",
+        "tps": "7103171017006",
+        "url": "71\/7103\/710317\/7103171017\/7103171017006.json",
+        "nama": "TPS 006, MANENTE, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171017",
+        "tps": "7103171017007",
+        "url": "71\/7103\/710317\/7103171017\/7103171017007.json",
+        "nama": "TPS 007, MANENTE, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171017",
+        "tps": "7103171017008",
+        "url": "71\/7103\/710317\/7103171017\/7103171017008.json",
+        "nama": "TPS 008, MANENTE, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171017",
+        "tps": "7103171017009",
+        "url": "71\/7103\/710317\/7103171017\/7103171017009.json",
+        "nama": "TPS 009, MANENTE, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171016",
+        "tps": "7103171016001",
+        "url": "71\/7103\/710317\/7103171016\/7103171016001.json",
+        "nama": "TPS 001, SANTIAGO, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171016",
+        "tps": "7103171016002",
+        "url": "71\/7103\/710317\/7103171016\/7103171016002.json",
+        "nama": "TPS 002, SANTIAGO, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171016",
+        "tps": "7103171016003",
+        "url": "71\/7103\/710317\/7103171016\/7103171016003.json",
+        "nama": "TPS 003, SANTIAGO, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171016",
+        "tps": "7103171016004",
+        "url": "71\/7103\/710317\/7103171016\/7103171016004.json",
+        "nama": "TPS 004, SANTIAGO, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171016",
+        "tps": "7103171016005",
+        "url": "71\/7103\/710317\/7103171016\/7103171016005.json",
+        "nama": "TPS 005, SANTIAGO, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171016",
+        "tps": "7103171016006",
+        "url": "71\/7103\/710317\/7103171016\/7103171016006.json",
+        "nama": "TPS 006, SANTIAGO, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171016",
+        "tps": "7103171016007",
+        "url": "71\/7103\/710317\/7103171016\/7103171016007.json",
+        "nama": "TPS 007, SANTIAGO, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171016",
+        "tps": "7103171016008",
+        "url": "71\/7103\/710317\/7103171016\/7103171016008.json",
+        "nama": "TPS 008, SANTIAGO, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171016",
+        "tps": "7103171016009",
+        "url": "71\/7103\/710317\/7103171016\/7103171016009.json",
+        "nama": "TPS 009, SANTIAGO, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171006",
+        "tps": "7103171006001",
+        "url": "71\/7103\/710317\/7103171006\/7103171006001.json",
+        "nama": "TPS 001, SAWANG BENDAR, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171006",
+        "tps": "7103171006002",
+        "url": "71\/7103\/710317\/7103171006\/7103171006002.json",
+        "nama": "TPS 002, SAWANG BENDAR, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171006",
+        "tps": "7103171006003",
+        "url": "71\/7103\/710317\/7103171006\/7103171006003.json",
+        "nama": "TPS 003, SAWANG BENDAR, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171006",
+        "tps": "7103171006004",
+        "url": "71\/7103\/710317\/7103171006\/7103171006004.json",
+        "nama": "TPS 004, SAWANG BENDAR, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171006",
+        "tps": "7103171006005",
+        "url": "71\/7103\/710317\/7103171006\/7103171006005.json",
+        "nama": "TPS 005, SAWANG BENDAR, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171006",
+        "tps": "7103171006006",
+        "url": "71\/7103\/710317\/7103171006\/7103171006006.json",
+        "nama": "TPS 006, SAWANG BENDAR, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171007",
+        "tps": "7103171007001",
+        "url": "71\/7103\/710317\/7103171007\/7103171007001.json",
+        "nama": "TPS 001, SOATALOARA I, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171007",
+        "tps": "7103171007002",
+        "url": "71\/7103\/710317\/7103171007\/7103171007002.json",
+        "nama": "TPS 002, SOATALOARA I, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171007",
+        "tps": "7103171007003",
+        "url": "71\/7103\/710317\/7103171007\/7103171007003.json",
+        "nama": "TPS 003, SOATALOARA I, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171007",
+        "tps": "7103171007004",
+        "url": "71\/7103\/710317\/7103171007\/7103171007004.json",
+        "nama": "TPS 004, SOATALOARA I, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171007",
+        "tps": "7103171007005",
+        "url": "71\/7103\/710317\/7103171007\/7103171007005.json",
+        "nama": "TPS 005, SOATALOARA I, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171018",
+        "tps": "7103171018001",
+        "url": "71\/7103\/710317\/7103171018\/7103171018001.json",
+        "nama": "TPS 001, SOATALOARA II, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171018",
+        "tps": "7103171018002",
+        "url": "71\/7103\/710317\/7103171018\/7103171018002.json",
+        "nama": "TPS 002, SOATALOARA II, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171018",
+        "tps": "7103171018003",
+        "url": "71\/7103\/710317\/7103171018\/7103171018003.json",
+        "nama": "TPS 003, SOATALOARA II, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171018",
+        "tps": "7103171018004",
+        "url": "71\/7103\/710317\/7103171018\/7103171018004.json",
+        "nama": "TPS 004, SOATALOARA II, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171018",
+        "tps": "7103171018005",
+        "url": "71\/7103\/710317\/7103171018\/7103171018005.json",
+        "nama": "TPS 005, SOATALOARA II, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171018",
+        "tps": "7103171018006",
+        "url": "71\/7103\/710317\/7103171018\/7103171018006.json",
+        "nama": "TPS 006, SOATALOARA II, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171018",
+        "tps": "7103171018007",
+        "url": "71\/7103\/710317\/7103171018\/7103171018007.json",
+        "nama": "TPS 007, SOATALOARA II, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171018",
+        "tps": "7103171018008",
+        "url": "71\/7103\/710317\/7103171018\/7103171018008.json",
+        "nama": "TPS 008, SOATALOARA II, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710317",
+        "desa": "7103171018",
+        "tps": "7103171018901",
+        "url": "71\/7103\/710317\/7103171018\/7103171018901.json",
+        "nama": "TPS 901, SOATALOARA II, TAHUNA, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231002",
+        "tps": "7103231002001",
+        "url": "71\/7103\/710323\/7103231002\/7103231002001.json",
+        "nama": "TPS 001, ANGGES, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231002",
+        "tps": "7103231002002",
+        "url": "71\/7103\/710323\/7103231002\/7103231002002.json",
+        "nama": "TPS 002, ANGGES, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231002",
+        "tps": "7103231002003",
+        "url": "71\/7103\/710323\/7103231002\/7103231002003.json",
+        "nama": "TPS 003, ANGGES, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231006",
+        "tps": "7103231006001",
+        "url": "71\/7103\/710323\/7103231006\/7103231006001.json",
+        "nama": "TPS 001, KOLONGAN AKEMBAWI, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231006",
+        "tps": "7103231006002",
+        "url": "71\/7103\/710323\/7103231006\/7103231006002.json",
+        "nama": "TPS 002, KOLONGAN AKEMBAWI, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231006",
+        "tps": "7103231006003",
+        "url": "71\/7103\/710323\/7103231006\/7103231006003.json",
+        "nama": "TPS 003, KOLONGAN AKEMBAWI, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231006",
+        "tps": "7103231006004",
+        "url": "71\/7103\/710323\/7103231006\/7103231006004.json",
+        "nama": "TPS 004, KOLONGAN AKEMBAWI, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231004",
+        "tps": "7103231004001",
+        "url": "71\/7103\/710323\/7103231004\/7103231004001.json",
+        "nama": "TPS 001, KOLONGAN BEHA, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231004",
+        "tps": "7103231004002",
+        "url": "71\/7103\/710323\/7103231004\/7103231004002.json",
+        "nama": "TPS 002, KOLONGAN BEHA, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231004",
+        "tps": "7103231004003",
+        "url": "71\/7103\/710323\/7103231004\/7103231004003.json",
+        "nama": "TPS 003, KOLONGAN BEHA, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231005",
+        "tps": "7103231005001",
+        "url": "71\/7103\/710323\/7103231005\/7103231005001.json",
+        "nama": "TPS 001, KOLONGAN BEHA BARU, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231005",
+        "tps": "7103231005002",
+        "url": "71\/7103\/710323\/7103231005\/7103231005002.json",
+        "nama": "TPS 002, KOLONGAN BEHA BARU, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231005",
+        "tps": "7103231005003",
+        "url": "71\/7103\/710323\/7103231005\/7103231005003.json",
+        "nama": "TPS 003, KOLONGAN BEHA BARU, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231003",
+        "tps": "7103231003001",
+        "url": "71\/7103\/710323\/7103231003\/7103231003001.json",
+        "nama": "TPS 001, KOLONGAN MITUNG, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231003",
+        "tps": "7103231003002",
+        "url": "71\/7103\/710323\/7103231003\/7103231003002.json",
+        "nama": "TPS 002, KOLONGAN MITUNG, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231003",
+        "tps": "7103231003003",
+        "url": "71\/7103\/710323\/7103231003\/7103231003003.json",
+        "nama": "TPS 003, KOLONGAN MITUNG, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231001",
+        "tps": "7103231001001",
+        "url": "71\/7103\/710323\/7103231001\/7103231001001.json",
+        "nama": "TPS 001, PANANEKENG, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231001",
+        "tps": "7103231001002",
+        "url": "71\/7103\/710323\/7103231001\/7103231001002.json",
+        "nama": "TPS 002, PANANEKENG, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231001",
+        "tps": "7103231001003",
+        "url": "71\/7103\/710323\/7103231001\/7103231001003.json",
+        "nama": "TPS 003, PANANEKENG, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710323",
+        "desa": "7103231001",
+        "tps": "7103231001004",
+        "url": "71\/7103\/710323\/7103231001\/7103231001004.json",
+        "nama": "TPS 004, PANANEKENG, TAHUNA BARAT, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241008",
+        "tps": "7103241008001",
+        "url": "71\/7103\/710324\/7103241008\/7103241008001.json",
+        "nama": "TPS 001, BATULEWEHE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241008",
+        "tps": "7103241008002",
+        "url": "71\/7103\/710324\/7103241008\/7103241008002.json",
+        "nama": "TPS 002, BATULEWEHE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241007",
+        "tps": "7103241007001",
+        "url": "71\/7103\/710324\/7103241007\/7103241007001.json",
+        "nama": "TPS 001, DUMUHUNG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241007",
+        "tps": "7103241007002",
+        "url": "71\/7103\/710324\/7103241007\/7103241007002.json",
+        "nama": "TPS 002, DUMUHUNG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241007",
+        "tps": "7103241007003",
+        "url": "71\/7103\/710324\/7103241007\/7103241007003.json",
+        "nama": "TPS 003, DUMUHUNG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241007",
+        "tps": "7103241007004",
+        "url": "71\/7103\/710324\/7103241007\/7103241007004.json",
+        "nama": "TPS 004, DUMUHUNG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241007",
+        "tps": "7103241007005",
+        "url": "71\/7103\/710324\/7103241007\/7103241007005.json",
+        "nama": "TPS 005, DUMUHUNG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241007",
+        "tps": "7103241007006",
+        "url": "71\/7103\/710324\/7103241007\/7103241007006.json",
+        "nama": "TPS 006, DUMUHUNG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241002",
+        "tps": "7103241002001",
+        "url": "71\/7103\/710324\/7103241002\/7103241002001.json",
+        "nama": "TPS 001, ENENGPAHEMBANG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241001",
+        "tps": "7103241001001",
+        "url": "71\/7103\/710324\/7103241001\/7103241001001.json",
+        "nama": "TPS 001, LESA, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241001",
+        "tps": "7103241001002",
+        "url": "71\/7103\/710324\/7103241001\/7103241001002.json",
+        "nama": "TPS 002, LESA, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241001",
+        "tps": "7103241001003",
+        "url": "71\/7103\/710324\/7103241001\/7103241001003.json",
+        "nama": "TPS 003, LESA, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241003",
+        "tps": "7103241003001",
+        "url": "71\/7103\/710324\/7103241003\/7103241003001.json",
+        "nama": "TPS 001, TAPUANG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241003",
+        "tps": "7103241003002",
+        "url": "71\/7103\/710324\/7103241003\/7103241003002.json",
+        "nama": "TPS 002, TAPUANG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241003",
+        "tps": "7103241003003",
+        "url": "71\/7103\/710324\/7103241003\/7103241003003.json",
+        "nama": "TPS 003, TAPUANG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241003",
+        "tps": "7103241003004",
+        "url": "71\/7103\/710324\/7103241003\/7103241003004.json",
+        "nama": "TPS 004, TAPUANG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241003",
+        "tps": "7103241003005",
+        "url": "71\/7103\/710324\/7103241003\/7103241003005.json",
+        "nama": "TPS 005, TAPUANG, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241004",
+        "tps": "7103241004001",
+        "url": "71\/7103\/710324\/7103241004\/7103241004001.json",
+        "nama": "TPS 001, TIDORE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241004",
+        "tps": "7103241004002",
+        "url": "71\/7103\/710324\/7103241004\/7103241004002.json",
+        "nama": "TPS 002, TIDORE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241004",
+        "tps": "7103241004003",
+        "url": "71\/7103\/710324\/7103241004\/7103241004003.json",
+        "nama": "TPS 003, TIDORE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241004",
+        "tps": "7103241004004",
+        "url": "71\/7103\/710324\/7103241004\/7103241004004.json",
+        "nama": "TPS 004, TIDORE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241004",
+        "tps": "7103241004005",
+        "url": "71\/7103\/710324\/7103241004\/7103241004005.json",
+        "nama": "TPS 005, TIDORE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241004",
+        "tps": "7103241004006",
+        "url": "71\/7103\/710324\/7103241004\/7103241004006.json",
+        "nama": "TPS 006, TIDORE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241004",
+        "tps": "7103241004007",
+        "url": "71\/7103\/710324\/7103241004\/7103241004007.json",
+        "nama": "TPS 007, TIDORE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241004",
+        "tps": "7103241004008",
+        "url": "71\/7103\/710324\/7103241004\/7103241004008.json",
+        "nama": "TPS 008, TIDORE, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241005",
+        "tps": "7103241005001",
+        "url": "71\/7103\/710324\/7103241005\/7103241005001.json",
+        "nama": "TPS 001, TONA I, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241005",
+        "tps": "7103241005002",
+        "url": "71\/7103\/710324\/7103241005\/7103241005002.json",
+        "nama": "TPS 002, TONA I, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241005",
+        "tps": "7103241005003",
+        "url": "71\/7103\/710324\/7103241005\/7103241005003.json",
+        "nama": "TPS 003, TONA I, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241005",
+        "tps": "7103241005004",
+        "url": "71\/7103\/710324\/7103241005\/7103241005004.json",
+        "nama": "TPS 004, TONA I, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241005",
+        "tps": "7103241005005",
+        "url": "71\/7103\/710324\/7103241005\/7103241005005.json",
+        "nama": "TPS 005, TONA I, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241005",
+        "tps": "7103241005006",
+        "url": "71\/7103\/710324\/7103241005\/7103241005006.json",
+        "nama": "TPS 006, TONA I, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241005",
+        "tps": "7103241005007",
+        "url": "71\/7103\/710324\/7103241005\/7103241005007.json",
+        "nama": "TPS 007, TONA I, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241006",
+        "tps": "7103241006001",
+        "url": "71\/7103\/710324\/7103241006\/7103241006001.json",
+        "nama": "TPS 001, TONA II, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241006",
+        "tps": "7103241006002",
+        "url": "71\/7103\/710324\/7103241006\/7103241006002.json",
+        "nama": "TPS 002, TONA II, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241006",
+        "tps": "7103241006003",
+        "url": "71\/7103\/710324\/7103241006\/7103241006003.json",
+        "nama": "TPS 003, TONA II, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241006",
+        "tps": "7103241006004",
+        "url": "71\/7103\/710324\/7103241006\/7103241006004.json",
+        "nama": "TPS 004, TONA II, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241006",
+        "tps": "7103241006005",
+        "url": "71\/7103\/710324\/7103241006\/7103241006005.json",
+        "nama": "TPS 005, TONA II, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710324",
+        "desa": "7103241006",
+        "tps": "7103241006006",
+        "url": "71\/7103\/710324\/7103241006\/7103241006006.json",
+        "nama": "TPS 006, TONA II, TAHUNA TIMUR, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122009",
+        "tps": "7103122009001",
+        "url": "71\/7103\/710312\/7103122009\/7103122009001.json",
+        "nama": "TPS 001, B E B U, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122009",
+        "tps": "7103122009002",
+        "url": "71\/7103\/710312\/7103122009\/7103122009002.json",
+        "nama": "TPS 002, B E B U, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122004",
+        "tps": "7103122004001",
+        "url": "71\/7103\/710312\/7103122004\/7103122004001.json",
+        "nama": "TPS 001, BALANE, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122004",
+        "tps": "7103122004002",
+        "url": "71\/7103\/710312\/7103122004\/7103122004002.json",
+        "nama": "TPS 002, BALANE, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122004",
+        "tps": "7103122004003",
+        "url": "71\/7103\/710312\/7103122004\/7103122004003.json",
+        "nama": "TPS 003, BALANE, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122005",
+        "tps": "7103122005001",
+        "url": "71\/7103\/710312\/7103122005\/7103122005001.json",
+        "nama": "TPS 001, BINALA, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122005",
+        "tps": "7103122005002",
+        "url": "71\/7103\/710312\/7103122005\/7103122005002.json",
+        "nama": "TPS 002, BINALA, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122012",
+        "tps": "7103122012001",
+        "url": "71\/7103\/710312\/7103122012\/7103122012001.json",
+        "nama": "TPS 001, D A G H O, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122012",
+        "tps": "7103122012002",
+        "url": "71\/7103\/710312\/7103122012\/7103122012002.json",
+        "nama": "TPS 002, D A G H O, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122012",
+        "tps": "7103122012003",
+        "url": "71\/7103\/710312\/7103122012\/7103122012003.json",
+        "nama": "TPS 003, D A G H O, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122012",
+        "tps": "7103122012004",
+        "url": "71\/7103\/710312\/7103122012\/7103122012004.json",
+        "nama": "TPS 004, D A G H O, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122020",
+        "tps": "7103122020001",
+        "url": "71\/7103\/710312\/7103122020\/7103122020001.json",
+        "nama": "TPS 001, HESANG, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122016",
+        "tps": "7103122016001",
+        "url": "71\/7103\/710312\/7103122016\/7103122016001.json",
+        "nama": "TPS 001, KALAMA DARAT, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122016",
+        "tps": "7103122016002",
+        "url": "71\/7103\/710312\/7103122016\/7103122016002.json",
+        "nama": "TPS 002, KALAMA DARAT, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122008",
+        "tps": "7103122008001",
+        "url": "71\/7103\/710312\/7103122008\/7103122008001.json",
+        "nama": "TPS 001, KALINDA, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122008",
+        "tps": "7103122008002",
+        "url": "71\/7103\/710312\/7103122008\/7103122008002.json",
+        "nama": "TPS 002, KALINDA, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122008",
+        "tps": "7103122008003",
+        "url": "71\/7103\/710312\/7103122008\/7103122008003.json",
+        "nama": "TPS 003, KALINDA, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122017",
+        "tps": "7103122017001",
+        "url": "71\/7103\/710312\/7103122017\/7103122017001.json",
+        "nama": "TPS 001, KALINDA I, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122017",
+        "tps": "7103122017002",
+        "url": "71\/7103\/710312\/7103122017\/7103122017002.json",
+        "nama": "TPS 002, KALINDA I, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122014",
+        "tps": "7103122014001",
+        "url": "71\/7103\/710312\/7103122014\/7103122014001.json",
+        "nama": "TPS 001, LELIPANG, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122014",
+        "tps": "7103122014002",
+        "url": "71\/7103\/710312\/7103122014\/7103122014002.json",
+        "nama": "TPS 002, LELIPANG, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122013",
+        "tps": "7103122013001",
+        "url": "71\/7103\/710312\/7103122013\/7103122013001.json",
+        "nama": "TPS 001, MAHUMU, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122013",
+        "tps": "7103122013002",
+        "url": "71\/7103\/710312\/7103122013\/7103122013002.json",
+        "nama": "TPS 002, MAHUMU, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122018",
+        "tps": "7103122018001",
+        "url": "71\/7103\/710312\/7103122018\/7103122018001.json",
+        "nama": "TPS 001, MAHUMU I, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122019",
+        "tps": "7103122019001",
+        "url": "71\/7103\/710312\/7103122019\/7103122019001.json",
+        "nama": "TPS 001, MAHUMU II, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122010",
+        "tps": "7103122010001",
+        "url": "71\/7103\/710312\/7103122010\/7103122010001.json",
+        "nama": "TPS 001, MAKALEKUHE, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122010",
+        "tps": "7103122010002",
+        "url": "71\/7103\/710312\/7103122010\/7103122010002.json",
+        "nama": "TPS 002, MAKALEKUHE, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122010",
+        "tps": "7103122010003",
+        "url": "71\/7103\/710312\/7103122010\/7103122010003.json",
+        "nama": "TPS 003, MAKALEKUHE, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122007",
+        "tps": "7103122007001",
+        "url": "71\/7103\/710312\/7103122007\/7103122007001.json",
+        "nama": "TPS 001, MENGGAWA, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122007",
+        "tps": "7103122007002",
+        "url": "71\/7103\/710312\/7103122007\/7103122007002.json",
+        "nama": "TPS 002, MENGGAWA, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122007",
+        "tps": "7103122007003",
+        "url": "71\/7103\/710312\/7103122007\/7103122007003.json",
+        "nama": "TPS 003, MENGGAWA, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122015",
+        "tps": "7103122015001",
+        "url": "71\/7103\/710312\/7103122015\/7103122015001.json",
+        "nama": "TPS 001, MENGGAWA II, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122015",
+        "tps": "7103122015002",
+        "url": "71\/7103\/710312\/7103122015\/7103122015002.json",
+        "nama": "TPS 002, MENGGAWA II, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122001",
+        "tps": "7103122001001",
+        "url": "71\/7103\/710312\/7103122001\/7103122001001.json",
+        "nama": "TPS 001, NAGHA I, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122001",
+        "tps": "7103122001002",
+        "url": "71\/7103\/710312\/7103122001\/7103122001002.json",
+        "nama": "TPS 002, NAGHA I, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122001",
+        "tps": "7103122001003",
+        "url": "71\/7103\/710312\/7103122001\/7103122001003.json",
+        "nama": "TPS 003, NAGHA I, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122001",
+        "tps": "7103122001004",
+        "url": "71\/7103\/710312\/7103122001\/7103122001004.json",
+        "nama": "TPS 004, NAGHA I, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122002",
+        "tps": "7103122002001",
+        "url": "71\/7103\/710312\/7103122002\/7103122002001.json",
+        "nama": "TPS 001, NAGHA II, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122002",
+        "tps": "7103122002002",
+        "url": "71\/7103\/710312\/7103122002\/7103122002002.json",
+        "nama": "TPS 002, NAGHA II, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122002",
+        "tps": "7103122002003",
+        "url": "71\/7103\/710312\/7103122002\/7103122002003.json",
+        "nama": "TPS 003, NAGHA II, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122002",
+        "tps": "7103122002004",
+        "url": "71\/7103\/710312\/7103122002\/7103122002004.json",
+        "nama": "TPS 004, NAGHA II, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122002",
+        "tps": "7103122002005",
+        "url": "71\/7103\/710312\/7103122002\/7103122002005.json",
+        "nama": "TPS 005, NAGHA II, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122011",
+        "tps": "7103122011001",
+        "url": "71\/7103\/710312\/7103122011\/7103122011001.json",
+        "nama": "TPS 001, PANANARU, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122011",
+        "tps": "7103122011002",
+        "url": "71\/7103\/710312\/7103122011\/7103122011002.json",
+        "nama": "TPS 002, PANANARU, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122011",
+        "tps": "7103122011003",
+        "url": "71\/7103\/710312\/7103122011\/7103122011003.json",
+        "nama": "TPS 003, PANANARU, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122003",
+        "tps": "7103122003001",
+        "url": "71\/7103\/710312\/7103122003\/7103122003001.json",
+        "nama": "TPS 001, POKOL, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122003",
+        "tps": "7103122003002",
+        "url": "71\/7103\/710312\/7103122003\/7103122003002.json",
+        "nama": "TPS 002, POKOL, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122003",
+        "tps": "7103122003003",
+        "url": "71\/7103\/710312\/7103122003\/7103122003003.json",
+        "nama": "TPS 003, POKOL, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122006",
+        "tps": "7103122006001",
+        "url": "71\/7103\/710312\/7103122006\/7103122006001.json",
+        "nama": "TPS 001, ULUNG PELIANG, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122006",
+        "tps": "7103122006002",
+        "url": "71\/7103\/710312\/7103122006\/7103122006002.json",
+        "nama": "TPS 002, ULUNG PELIANG, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710312",
+        "desa": "7103122006",
+        "tps": "7103122006003",
+        "url": "71\/7103\/710312\/7103122006\/7103122006003.json",
+        "nama": "TPS 003, ULUNG PELIANG, TAMAKO, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112005",
+        "tps": "7103112005001",
+        "url": "71\/7103\/710311\/7103112005\/7103112005001.json",
+        "nama": "TPS 001, DALAKO BEMBANEHE, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112005",
+        "tps": "7103112005002",
+        "url": "71\/7103\/710311\/7103112005\/7103112005002.json",
+        "nama": "TPS 002, DALAKO BEMBANEHE, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112005",
+        "tps": "7103112005003",
+        "url": "71\/7103\/710311\/7103112005\/7103112005003.json",
+        "nama": "TPS 003, DALAKO BEMBANEHE, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112002",
+        "tps": "7103112002001",
+        "url": "71\/7103\/710311\/7103112002\/7103112002001.json",
+        "nama": "TPS 001, KAHAKITANG, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112002",
+        "tps": "7103112002002",
+        "url": "71\/7103\/710311\/7103112002\/7103112002002.json",
+        "nama": "TPS 002, KAHAKITANG, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112001",
+        "tps": "7103112001001",
+        "url": "71\/7103\/710311\/7103112001\/7103112001001.json",
+        "nama": "TPS 001, KALAMA, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112001",
+        "tps": "7103112001002",
+        "url": "71\/7103\/710311\/7103112001\/7103112001002.json",
+        "nama": "TPS 002, KALAMA, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112001",
+        "tps": "7103112001003",
+        "url": "71\/7103\/710311\/7103112001\/7103112001003.json",
+        "nama": "TPS 003, KALAMA, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112003",
+        "tps": "7103112003001",
+        "url": "71\/7103\/710311\/7103112003\/7103112003001.json",
+        "nama": "TPS 001, MAHENGETANG, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112003",
+        "tps": "7103112003002",
+        "url": "71\/7103\/710311\/7103112003\/7103112003002.json",
+        "nama": "TPS 002, MAHENGETANG, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112004",
+        "tps": "7103112004001",
+        "url": "71\/7103\/710311\/7103112004\/7103112004001.json",
+        "nama": "TPS 001, PARA, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112004",
+        "tps": "7103112004002",
+        "url": "71\/7103\/710311\/7103112004\/7103112004002.json",
+        "nama": "TPS 002, PARA, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112004",
+        "tps": "7103112004003",
+        "url": "71\/7103\/710311\/7103112004\/7103112004003.json",
+        "nama": "TPS 003, PARA, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112007",
+        "tps": "7103112007001",
+        "url": "71\/7103\/710311\/7103112007\/7103112007001.json",
+        "nama": "TPS 001, PARA I, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112007",
+        "tps": "7103112007002",
+        "url": "71\/7103\/710311\/7103112007\/7103112007002.json",
+        "nama": "TPS 002, PARA I, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112006",
+        "tps": "7103112006001",
+        "url": "71\/7103\/710311\/7103112006\/7103112006001.json",
+        "nama": "TPS 001, TALEKO BATUSAIKI, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7103",
+        "kecamatan": "710311",
+        "desa": "7103112006",
+        "tps": "7103112006002",
+        "url": "71\/7103\/710311\/7103112006\/7103112006002.json",
+        "nama": "TPS 002, TALEKO BATUSAIKI, TATOARENG, KEPULAUAN SANGIHE, SULAWESI UTARA"
+    }
+]

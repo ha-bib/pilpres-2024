@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "13",
+        "kabupaten": "1306",
+        "kecamatan": "130606",
+        "desa": "1306062003",
+        "tps": "1306062003005",
+        "nama": "TPS 005, PAKAN SINAYAN, BANUHAMPU, AGAM, SUMATERA BARAT",
+        "selisih": 200,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1306\/130606\/1306062003\/1306062003005"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1306",
+        "kecamatan": "130602",
+        "desa": "1306022002",
+        "tps": "1306022002021",
+        "nama": "TPS 021, GARAGAHAN, LUBUK BASUNG, AGAM, SUMATERA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1306\/130602\/1306022002\/1306022002021"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1306",
+        "kecamatan": "130602",
+        "desa": "1306022001",
+        "tps": "1306022001106",
+        "nama": "TPS 106, LUBUK BASUNG, LUBUK BASUNG, AGAM, SUMATERA BARAT",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1306\/130602\/1306022001\/1306022001106"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1306",
+        "kecamatan": "130611",
+        "desa": "1306112001",
+        "tps": "1306112001012",
+        "nama": "TPS 012, BARINGIN, PALEMBAYAN, AGAM, SUMATERA BARAT",
+        "selisih": 55,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1306\/130611\/1306112001\/1306112001012"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1306",
+        "kecamatan": "130609",
+        "desa": "1306092001",
+        "tps": "1306092001059",
+        "nama": "TPS 059, KOTO TANGAH, TILATANG KAMANG, AGAM, SUMATERA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1306\/130609\/1306092001\/1306092001059"
+    }
+]

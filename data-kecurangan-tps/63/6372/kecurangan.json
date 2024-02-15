@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "63",
+        "kabupaten": "6372",
+        "kecamatan": "637204",
+        "desa": "6372041004",
+        "tps": "6372041004001",
+        "nama": "TPS 001, SUNGAI ULIN, BANJARBARU UTARA, KOTA BANJARBARU, KALIMANTAN SELATAN",
+        "selisih": 1020,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6372\/637204\/6372041004\/6372041004001"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6372",
+        "kecamatan": "637203",
+        "desa": "6372031004",
+        "tps": "6372031004043",
+        "nama": "TPS 043, CEMPAKA, CEMPAKA, KOTA BANJARBARU, KALIMANTAN SELATAN",
+        "selisih": 1255,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6372\/637203\/6372031004\/6372031004043"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6372",
+        "kecamatan": "637202",
+        "desa": "6372021006",
+        "tps": "6372021006033",
+        "nama": "TPS 033, SYAMSUDIN NOOR, LANDASAN ULIN, KOTA BANJARBARU, KALIMANTAN SELATAN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6372\/637202\/6372021006\/6372021006033"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6372",
+        "kecamatan": "637206",
+        "desa": "6372061003",
+        "tps": "6372061003004",
+        "nama": "TPS 004, LANDASAN ULIN UTARA, LIANG ANGGANG, KOTA BANJARBARU, KALIMANTAN SELATAN",
+        "selisih": -6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6372\/637206\/6372061003\/6372061003004"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6372",
+        "kecamatan": "637202",
+        "desa": "6372021005",
+        "tps": "6372021005004",
+        "nama": "TPS 004, GUNTUNG MANGGIS, LANDASAN ULIN, KOTA BANJARBARU, KALIMANTAN SELATAN",
+        "selisih": 1255,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6372\/637202\/6372021005\/6372021005004"
+    }
+]

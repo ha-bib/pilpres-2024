@@ -1,0 +1,20 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AY",
+        "kecamatan": "99AY01",
+        "desa": "99AY010001",
+        "tps": "99AY010001001",
+        "url": "99\/99AY\/99AY01\/99AY010001\/99AY010001001.json",
+        "nama": "POS 001, Warsawa, Polandia, Warsawa, Polandia, Warsawa, Polandia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AY",
+        "kecamatan": "99AY01",
+        "desa": "99AY010001",
+        "tps": "99AY010001002",
+        "url": "99\/99AY\/99AY01\/99AY010001\/99AY010001002.json",
+        "nama": "TPS 001, Warsawa, Polandia, Warsawa, Polandia, Warsawa, Polandia, Luar Negeri"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9930",
+        "kecamatan": "993001",
+        "desa": "9930010001",
+        "tps": "9930010001001",
+        "url": "99\/9930\/993001\/9930010001\/9930010001001.json",
+        "nama": "POS 001, Colombo, Sri Langka, Colombo, Sri Langka, Colombo, Sri Langka, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9930",
+        "kecamatan": "993001",
+        "desa": "9930010001",
+        "tps": "9930010001002",
+        "url": "99\/9930\/993001\/9930010001\/9930010001002.json",
+        "nama": "POS 002, Colombo, Sri Langka, Colombo, Sri Langka, Colombo, Sri Langka, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9930",
+        "kecamatan": "993001",
+        "desa": "9930010001",
+        "tps": "9930010001003",
+        "url": "99\/9930\/993001\/9930010001\/9930010001003.json",
+        "nama": "TPS 001, Colombo, Sri Langka, Colombo, Sri Langka, Colombo, Sri Langka, Luar Negeri"
+    }
+]

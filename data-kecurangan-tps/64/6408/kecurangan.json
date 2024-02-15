@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "64",
+        "kabupaten": "6408",
+        "kecamatan": "640809",
+        "desa": "6408092011",
+        "tps": "6408092011016",
+        "nama": "TPS 016, SEPASO BARAT, BENGALON, KUTAI TIMUR, KALIMANTAN TIMUR",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6408\/640809\/6408092011\/6408092011016"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6408",
+        "kecamatan": "640809",
+        "desa": "6408092007",
+        "tps": "6408092007004",
+        "nama": "TPS 004, SEPASO SELATAN, BENGALON, KUTAI TIMUR, KALIMANTAN TIMUR",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6408\/640809\/6408092007\/6408092007004"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6408",
+        "kecamatan": "640804",
+        "desa": "6408041010",
+        "tps": "6408041010029",
+        "nama": "TPS 029, TELUK LINGGA, SANGATTA UTARA, KUTAI TIMUR, KALIMANTAN TIMUR",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6408\/640804\/6408041010\/6408041010029"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6408",
+        "kecamatan": "640813",
+        "desa": "6408132005",
+        "tps": "6408132005004",
+        "nama": "TPS 004, DANAU REDAN, TELUK PANDAN, KUTAI TIMUR, KALIMANTAN TIMUR",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6408\/640813\/6408132005\/6408132005004"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6408",
+        "kecamatan": "640804",
+        "desa": "6408041010",
+        "tps": "6408041010044",
+        "nama": "TPS 044, TELUK LINGGA, SANGATTA UTARA, KUTAI TIMUR, KALIMANTAN TIMUR",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6408\/640804\/6408041010\/6408041010044"
+    }
+]

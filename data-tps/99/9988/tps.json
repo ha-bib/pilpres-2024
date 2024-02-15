@@ -1,0 +1,38 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9988",
+        "kecamatan": "998801",
+        "desa": "9988010001",
+        "tps": "9988010001001",
+        "url": "99\/9988\/998801\/9988010001\/9988010001001.json",
+        "nama": "POS 001, Paris, Perancis, Paris, Perancis, Paris, Perancis, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9988",
+        "kecamatan": "998801",
+        "desa": "9988010001",
+        "tps": "9988010001002",
+        "url": "99\/9988\/998801\/9988010001\/9988010001002.json",
+        "nama": "TPS 001, Paris, Perancis, Paris, Perancis, Paris, Perancis, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9988",
+        "kecamatan": "998801",
+        "desa": "9988010001",
+        "tps": "9988010001003",
+        "url": "99\/9988\/998801\/9988010001\/9988010001003.json",
+        "nama": "TPS 002, Paris, Perancis, Paris, Perancis, Paris, Perancis, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9988",
+        "kecamatan": "998801",
+        "desa": "9988010001",
+        "tps": "9988010001004",
+        "url": "99\/9988\/998801\/9988010001\/9988010001004.json",
+        "nama": "TPS 003, Paris, Perancis, Paris, Perancis, Paris, Perancis, Luar Negeri"
+    }
+]

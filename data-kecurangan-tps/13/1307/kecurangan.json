@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "13",
+        "kabupaten": "1307",
+        "kecamatan": "130713",
+        "desa": "1307132001",
+        "tps": "1307132001009",
+        "nama": "TPS 009, SARIAK LAWEH, AKABILURU, LIMA PULUH KOTA, SUMATERA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1307\/130713\/1307132001\/1307132001009"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1307",
+        "kecamatan": "130702",
+        "desa": "1307022002",
+        "tps": "1307022002015",
+        "nama": "TPS 015, VII KOTO TALAGO, GUGUAK, LIMA PULUH KOTA, SUMATERA BARAT",
+        "selisih": 12,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1307\/130702\/1307022002\/1307022002015"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1307",
+        "kecamatan": "130705",
+        "desa": "1307052010",
+        "tps": "1307052010011",
+        "nama": "TPS 011, KOTO TUO, HARAU, LIMA PULUH KOTA, SUMATERA BARAT",
+        "selisih": 212,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1307\/130705\/1307052010\/1307052010011"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1307",
+        "kecamatan": "130705",
+        "desa": "1307052007",
+        "tps": "1307052007027",
+        "nama": "TPS 027, SARILAMAK, HARAU, LIMA PULUH KOTA, SUMATERA BARAT",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1307\/130705\/1307052007\/1307052007027"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1307",
+        "kecamatan": "130707",
+        "desa": "1307072002",
+        "tps": "1307072002001",
+        "nama": "TPS 001, KOTO BANGUN, KAPUR IX, LIMA PULUH KOTA, SUMATERA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1307\/130707\/1307072002\/1307072002001"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "73",
+        "kabupaten": "7305",
+        "kecamatan": "730505",
+        "desa": "7305052006",
+        "tps": "7305052006004",
+        "nama": "TPS 004, BONTO KANANG, GALESONG SELATAN, TAKALAR, SULAWESI SELATAN",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7305\/730505\/7305052006\/7305052006004"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7305",
+        "kecamatan": "730506",
+        "desa": "7305062013",
+        "tps": "7305062013005",
+        "nama": "TPS 005, MACCINI SOMBALA, GALESONG UTARA, TAKALAR, SULAWESI SELATAN",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7305\/730506\/7305062013\/7305062013005"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7305",
+        "kecamatan": "730507",
+        "desa": "7305071004",
+        "tps": "7305071004013",
+        "nama": "TPS 013, KALABBIRANG, PATTALLASSANG, TAKALAR, SULAWESI SELATAN",
+        "selisih": 635,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7305\/730507\/7305071004\/7305071004013"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7305",
+        "kecamatan": "730507",
+        "desa": "7305071004",
+        "tps": "7305071004016",
+        "nama": "TPS 016, KALABBIRANG, PATTALLASSANG, TAKALAR, SULAWESI SELATAN",
+        "selisih": 1730,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7305\/730507\/7305071004\/7305071004016"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7305",
+        "kecamatan": "730507",
+        "desa": "7305071002",
+        "tps": "7305071002009",
+        "nama": "TPS 009, PALLANTIKANG, PATTALLASSANG, TAKALAR, SULAWESI SELATAN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7305\/730507\/7305071002\/7305071002009"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7305",
+        "kecamatan": "730507",
+        "desa": "7305071001",
+        "tps": "7305071001001",
+        "nama": "TPS 001, PATTALLASSANG, PATTALLASSANG, TAKALAR, SULAWESI SELATAN",
+        "selisih": -52,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7305\/730507\/7305071001\/7305071001001"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7305",
+        "kecamatan": "730507",
+        "desa": "7305071001",
+        "tps": "7305071001002",
+        "nama": "TPS 002, PATTALLASSANG, PATTALLASSANG, TAKALAR, SULAWESI SELATAN",
+        "selisih": -55,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7305\/730507\/7305071001\/7305071001002"
+    }
+]

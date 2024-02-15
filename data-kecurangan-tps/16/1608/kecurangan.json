@@ -1,0 +1,92 @@
+[
+    {
+        "provinsi": "16",
+        "kabupaten": "1608",
+        "kecamatan": "160818",
+        "desa": "1608182003",
+        "tps": "1608182003005",
+        "nama": "TPS 005, TUGU HARUM, BELITANG MADANG RAYA, OGAN KOMERING ULU TIMUR, SUMATERA SELATAN",
+        "selisih": -1800,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1608\/160818\/1608182003\/1608182003005"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1608",
+        "kecamatan": "160805",
+        "desa": "1608052011",
+        "tps": "1608052011004",
+        "nama": "TPS 004, BANDAR JAYA, BUAY PEMUKA PELIUNG, OGAN KOMERING ULU TIMUR, SUMATERA SELATAN",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1608\/160805\/1608052011\/1608052011004"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1608",
+        "kecamatan": "160805",
+        "desa": "1608052011",
+        "tps": "1608052011006",
+        "nama": "TPS 006, BANDAR JAYA, BUAY PEMUKA PELIUNG, OGAN KOMERING ULU TIMUR, SUMATERA SELATAN",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1608\/160805\/1608052011\/1608052011006"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1608",
+        "kecamatan": "160805",
+        "desa": "1608052012",
+        "tps": "1608052012006",
+        "nama": "TPS 006, NEGERI AGUNG JAYA, BUAY PEMUKA PELIUNG, OGAN KOMERING ULU TIMUR, SUMATERA SELATAN",
+        "selisih": 24,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1608\/160805\/1608052012\/1608052012006"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1608",
+        "kecamatan": "160806",
+        "desa": "1608062009",
+        "tps": "1608062009008",
+        "nama": "TPS 008, SRI MULYO, MADANG SUKU II, OGAN KOMERING ULU TIMUR, SUMATERA SELATAN",
+        "selisih": 1560,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1608\/160806\/1608062009\/1608062009008"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1608",
+        "kecamatan": "160801",
+        "desa": "1608012006",
+        "tps": "1608012006007",
+        "nama": "TPS 007, TANJUNG KEMALA, MARTAPURA, OGAN KOMERING ULU TIMUR, SUMATERA SELATAN",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1608\/160801\/1608012006\/1608012006007"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1608",
+        "kecamatan": "160801",
+        "desa": "1608012023",
+        "tps": "1608012023004",
+        "nama": "TPS 004, TANJUNG KEMALA BARAT, MARTAPURA, OGAN KOMERING ULU TIMUR, SUMATERA SELATAN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1608\/160801\/1608012023\/1608012023004"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1608",
+        "kecamatan": "160808",
+        "desa": "1608082014",
+        "tps": "1608082014001",
+        "nama": "TPS 001, SRIWANGI, SEMENDAWAI SUKU III, OGAN KOMERING ULU TIMUR, SUMATERA SELATAN",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1608\/160808\/1608082014\/1608082014001"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1608",
+        "kecamatan": "160808",
+        "desa": "1608082014",
+        "tps": "1608082014001",
+        "nama": "TPS 001, SRIWANGI, SEMENDAWAI SUKU III, OGAN KOMERING ULU TIMUR, SUMATERA SELATAN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1608\/160808\/1608082014\/1608082014001"
+    }
+]

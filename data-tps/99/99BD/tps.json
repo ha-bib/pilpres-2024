@@ -1,0 +1,20 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99BD",
+        "kecamatan": "99BD01",
+        "desa": "99BD010001",
+        "tps": "99BD010001001",
+        "url": "99\/99BD\/99BD01\/99BD010001\/99BD010001001.json",
+        "nama": "POS 001, Yangon, Myanmar, Yangon, Myanmar, Yangon, Myanmar, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BD",
+        "kecamatan": "99BD01",
+        "desa": "99BD010001",
+        "tps": "99BD010001002",
+        "url": "99\/99BD\/99BD01\/99BD010001\/99BD010001002.json",
+        "nama": "TPS 001, Yangon, Myanmar, Yangon, Myanmar, Yangon, Myanmar, Luar Negeri"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AR",
+        "kecamatan": "99AR01",
+        "desa": "99AR010001",
+        "tps": "99AR010001001",
+        "url": "99\/99AR\/99AR01\/99AR010001\/99AR010001001.json",
+        "nama": "POS 001, Toronto, Kanada, Toronto, Kanada, Toronto, Kanada, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AR",
+        "kecamatan": "99AR01",
+        "desa": "99AR010001",
+        "tps": "99AR010001002",
+        "url": "99\/99AR\/99AR01\/99AR010001\/99AR010001002.json",
+        "nama": "TPS 001, Toronto, Kanada, Toronto, Kanada, Toronto, Kanada, Luar Negeri"
+    }
+]

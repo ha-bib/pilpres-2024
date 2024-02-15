@@ -1,0 +1,56 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AA",
+        "kecamatan": "99AA01",
+        "desa": "99AA010001",
+        "tps": "99AA010001001",
+        "url": "99\/99AA\/99AA01\/99AA010001\/99AA010001001.json",
+        "nama": "POS 001, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AA",
+        "kecamatan": "99AA01",
+        "desa": "99AA010001",
+        "tps": "99AA010001002",
+        "url": "99\/99AA\/99AA01\/99AA010001\/99AA010001002.json",
+        "nama": "POS 002, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AA",
+        "kecamatan": "99AA01",
+        "desa": "99AA010001",
+        "tps": "99AA010001003",
+        "url": "99\/99AA\/99AA01\/99AA010001\/99AA010001003.json",
+        "nama": "POS 003, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AA",
+        "kecamatan": "99AA01",
+        "desa": "99AA010001",
+        "tps": "99AA010001004",
+        "url": "99\/99AA\/99AA01\/99AA010001\/99AA010001004.json",
+        "nama": "POS 004, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AA",
+        "kecamatan": "99AA01",
+        "desa": "99AA010001",
+        "tps": "99AA010001005",
+        "url": "99\/99AA\/99AA01\/99AA010001\/99AA010001005.json",
+        "nama": "POS 005, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AA",
+        "kecamatan": "99AA01",
+        "desa": "99AA010001",
+        "tps": "99AA010001006",
+        "url": "99\/99AA\/99AA01\/99AA010001\/99AA010001006.json",
+        "nama": "TPS 001, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, San Francisco, Amerika Serikat, Luar Negeri"
+    }
+]

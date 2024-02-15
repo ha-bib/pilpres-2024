@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "33",
+        "kabupaten": "3371",
+        "kecamatan": "337101",
+        "desa": "3371011009",
+        "tps": "3371011009003",
+        "nama": "TPS 003, JURANGOMBO SELATAN, MAGELANG SELATAN, KOTA MAGELANG, JAWA TENGAH",
+        "selisih": -40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3371\/337101\/3371011009\/3371011009003"
+    },
+    {
+        "provinsi": "33",
+        "kabupaten": "3371",
+        "kecamatan": "337103",
+        "desa": "3371031006",
+        "tps": "3371031006017",
+        "nama": "TPS 017, GELANGAN, MAGELANG TENGAH, KOTA MAGELANG, JAWA TENGAH",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3371\/337103\/3371031006\/3371031006017"
+    },
+    {
+        "provinsi": "33",
+        "kabupaten": "3371",
+        "kecamatan": "337102",
+        "desa": "3371021003",
+        "tps": "3371021003010",
+        "nama": "TPS 010, WATES, MAGELANG UTARA, KOTA MAGELANG, JAWA TENGAH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3371\/337102\/3371021003\/3371021003010"
+    },
+    {
+        "provinsi": "33",
+        "kabupaten": "3371",
+        "kecamatan": "337101",
+        "desa": "3371011009",
+        "tps": "3371011009001",
+        "nama": "TPS 001, JURANGOMBO SELATAN, MAGELANG SELATAN, KOTA MAGELANG, JAWA TENGAH",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3371\/337101\/3371011009\/3371011009001"
+    },
+    {
+        "provinsi": "33",
+        "kabupaten": "3371",
+        "kecamatan": "337101",
+        "desa": "3371011009",
+        "tps": "3371011009001",
+        "nama": "TPS 001, JURANGOMBO SELATAN, MAGELANG SELATAN, KOTA MAGELANG, JAWA TENGAH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/33\/3371\/337101\/3371011009\/3371011009001"
+    }
+]

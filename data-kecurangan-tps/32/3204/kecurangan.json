@@ -1,0 +1,612 @@
+[
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320432",
+        "desa": "3204321002",
+        "tps": "3204321002061",
+        "nama": "TPS 061, ANDIR, BALEENDAH, BANDUNG, JAWA BARAT",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320432\/3204321002\/3204321002061"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320432",
+        "desa": "3204321002",
+        "tps": "3204321002073",
+        "nama": "TPS 073, ANDIR, BALEENDAH, BANDUNG, JAWA BARAT",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320432\/3204321002\/3204321002073"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320432",
+        "desa": "3204321002",
+        "tps": "3204321002077",
+        "nama": "TPS 077, ANDIR, BALEENDAH, BANDUNG, JAWA BARAT",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320432\/3204321002\/3204321002077"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320432",
+        "desa": "3204322005",
+        "tps": "3204322005024",
+        "nama": "TPS 024, BOJONGMALAKA, BALEENDAH, BANDUNG, JAWA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320432\/3204322005\/3204322005024"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320432",
+        "desa": "3204322007",
+        "tps": "3204322007004",
+        "nama": "TPS 004, MALAKASARI, BALEENDAH, BANDUNG, JAWA BARAT",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320432\/3204322007\/3204322007004"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320432",
+        "desa": "3204322006",
+        "tps": "3204322006005",
+        "nama": "TPS 005, RANCAMANYAR, BALEENDAH, BANDUNG, JAWA BARAT",
+        "selisih": -3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320432\/3204322006\/3204322006005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320432",
+        "desa": "3204322006",
+        "tps": "3204322006107",
+        "nama": "TPS 107, RANCAMANYAR, BALEENDAH, BANDUNG, JAWA BARAT",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320432\/3204322006\/3204322006107"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320413",
+        "desa": "3204132006",
+        "tps": "3204132006023",
+        "nama": "TPS 023, SINDANGPANON, BANJARAN, BANDUNG, JAWA BARAT",
+        "selisih": 18,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320413\/3204132006\/3204132006023"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320408",
+        "desa": "3204082003",
+        "tps": "3204082003032",
+        "nama": "TPS 032, BUAHBATU, BOJONGSOANG, BANDUNG, JAWA BARAT",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320408\/3204082003\/3204082003032"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320444",
+        "desa": "3204442006",
+        "tps": "3204442006023",
+        "nama": "TPS 023, JATISARI, CANGKUANG, BANDUNG, JAWA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320444\/3204442006\/3204442006023"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320444",
+        "desa": "3204442003",
+        "tps": "3204442003019",
+        "nama": "TPS 019, NAGRAK, CANGKUANG, BANDUNG, JAWA BARAT",
+        "selisih": 217,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320444\/3204442003\/3204442003019"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320427",
+        "desa": "3204272002",
+        "tps": "3204272002013",
+        "nama": "TPS 013, CIKANCUNG, CIKANCUNG, BANDUNG, JAWA BARAT",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320427\/3204272002\/3204272002013"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320427",
+        "desa": "3204272007",
+        "tps": "3204272007017",
+        "nama": "TPS 017, MEKARLAKSANA, CIKANCUNG, BANDUNG, JAWA BARAT",
+        "selisih": 44,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320427\/3204272007\/3204272007017"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320427",
+        "desa": "3204272007",
+        "tps": "3204272007021",
+        "nama": "TPS 021, MEKARLAKSANA, CIKANCUNG, BANDUNG, JAWA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320427\/3204272007\/3204272007021"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320427",
+        "desa": "3204272009",
+        "tps": "3204272009001",
+        "nama": "TPS 001, SRIRAHAYU, CIKANCUNG, BANDUNG, JAWA BARAT",
+        "selisih": 22,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320427\/3204272009\/3204272009001"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320427",
+        "desa": "3204272009",
+        "tps": "3204272009019",
+        "nama": "TPS 019, SRIRAHAYU, CIKANCUNG, BANDUNG, JAWA BARAT",
+        "selisih": 20,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320427\/3204272009\/3204272009019"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320405",
+        "desa": "3204052005",
+        "tps": "3204052005010",
+        "nama": "TPS 010, CIBIRU HILIR, CILEUNYI, BANDUNG, JAWA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320405\/3204052005\/3204052005010"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320405",
+        "desa": "3204052001",
+        "tps": "3204052001069",
+        "nama": "TPS 069, CILEUNYI KULON, CILEUNYI, BANDUNG, JAWA BARAT",
+        "selisih": -147,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320405\/3204052001\/3204052001069"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320405",
+        "desa": "3204052002",
+        "tps": "3204052002040",
+        "nama": "TPS 040, CILEUNYI WETAN, CILEUNYI, BANDUNG, JAWA BARAT",
+        "selisih": 90,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320405\/3204052002\/3204052002040"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320405",
+        "desa": "3204052003",
+        "tps": "3204052003004",
+        "nama": "TPS 004, CIMEKAR, CILEUNYI, BANDUNG, JAWA BARAT",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320405\/3204052003\/3204052003004"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320417",
+        "desa": "3204172004",
+        "tps": "3204172004018",
+        "nama": "TPS 018, CAMPAKAMULYA, CIMAUNG, BANDUNG, JAWA BARAT",
+        "selisih": 172,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320417\/3204172004\/3204172004018"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320406",
+        "desa": "3204061002",
+        "tps": "3204061002064",
+        "nama": "TPS 064, CIBEUNYING, CIMENYAN, BANDUNG, JAWA BARAT",
+        "selisih": -7,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320406\/3204061002\/3204061002064"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320406",
+        "desa": "3204062003",
+        "tps": "3204062003020",
+        "nama": "TPS 020, CIMENYAN, CIMENYAN, BANDUNG, JAWA BARAT",
+        "selisih": 170,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320406\/3204062003\/3204062003020"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320429",
+        "desa": "3204292003",
+        "tps": "3204292003012",
+        "nama": "TPS 012, MEKARSARI, CIPARAY, BANDUNG, JAWA BARAT",
+        "selisih": -500,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320429\/3204292003\/3204292003012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320429",
+        "desa": "3204292007",
+        "tps": "3204292007044",
+        "nama": "TPS 044, SUMBERSARI, CIPARAY, BANDUNG, JAWA BARAT",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320429\/3204292007\/3204292007044"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320439",
+        "desa": "3204392001",
+        "tps": "3204392001055",
+        "nama": "TPS 055, LEBAKMUNCANG, CIWIDEY, BANDUNG, JAWA BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320439\/3204392001\/3204392001055"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320439",
+        "desa": "3204392003",
+        "tps": "3204392003008",
+        "nama": "TPS 008, NENGKELAN, CIWIDEY, BANDUNG, JAWA BARAT",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320439\/3204392003\/3204392003008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320439",
+        "desa": "3204392005",
+        "tps": "3204392005008",
+        "nama": "TPS 008, PANYOCOKAN, CIWIDEY, BANDUNG, JAWA BARAT",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320439\/3204392005\/3204392005008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320436",
+        "desa": "3204362003",
+        "tps": "3204362003012",
+        "nama": "TPS 012, DUKUH, IBUN, BANDUNG, JAWA BARAT",
+        "selisih": -3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320436\/3204362003\/3204362003012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320436",
+        "desa": "3204362009",
+        "tps": "3204362009006",
+        "nama": "TPS 006, SUDI, IBUN, BANDUNG, JAWA BARAT",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320436\/3204362009\/3204362009006"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320411",
+        "desa": "3204112002",
+        "tps": "3204112002034",
+        "nama": "TPS 034, KATAPANG, KATAPANG, BANDUNG, JAWA BARAT",
+        "selisih": 500,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320411\/3204112002\/3204112002034"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320411",
+        "desa": "3204112002",
+        "tps": "3204112002043",
+        "nama": "TPS 043, KATAPANG, KATAPANG, BANDUNG, JAWA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320411\/3204112002\/3204112002043"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320431",
+        "desa": "3204312002",
+        "tps": "3204312002020",
+        "nama": "TPS 020, CIBEUREUM, KERTASARI, BANDUNG, JAWA BARAT",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320431\/3204312002\/3204312002020"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320431",
+        "desa": "3204312004",
+        "tps": "3204312004042",
+        "nama": "TPS 042, TARUMAJAYA, KERTASARI, BANDUNG, JAWA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320431\/3204312004\/3204312004042"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332003",
+        "tps": "3204332003002",
+        "nama": "TPS 002, BIRU, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 145,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332003\/3204332003002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332003",
+        "tps": "3204332003003",
+        "nama": "TPS 003, BIRU, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 194,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332003\/3204332003003"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332003",
+        "tps": "3204332003033",
+        "nama": "TPS 033, BIRU, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 60,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332003\/3204332003033"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332003",
+        "tps": "3204332003045",
+        "nama": "TPS 045, BIRU, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 220,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332003\/3204332003045"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332005",
+        "tps": "3204332005015",
+        "nama": "TPS 015, BOJONG, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 201,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332005\/3204332005015"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332007",
+        "tps": "3204332007005",
+        "nama": "TPS 005, MAJAKERTA, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 190,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332007\/3204332007005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332001",
+        "tps": "3204332001017",
+        "nama": "TPS 017, MAJALAYA, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 202,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332001\/3204332001017"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332001",
+        "tps": "3204332001026",
+        "nama": "TPS 026, MAJALAYA, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 151,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332001\/3204332001026"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332008",
+        "tps": "3204332008046",
+        "nama": "TPS 046, SUKAMAJU, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 600,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332008\/3204332008046"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332008",
+        "tps": "3204332008056",
+        "nama": "TPS 056, SUKAMAJU, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 221,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332008\/3204332008056"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332011",
+        "tps": "3204332011012",
+        "nama": "TPS 012, SUKAMUKTI, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 29,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332011\/3204332011012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332011",
+        "tps": "3204332011021",
+        "nama": "TPS 021, SUKAMUKTI, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": -11,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332011\/3204332011021"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332011",
+        "tps": "3204332011024",
+        "nama": "TPS 024, SUKAMUKTI, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 90,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332011\/3204332011024"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320433",
+        "desa": "3204332002",
+        "tps": "3204332002046",
+        "nama": "TPS 046, WANGISAGARA, MAJALAYA, BANDUNG, JAWA BARAT",
+        "selisih": 378,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320433\/3204332002\/3204332002046"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320410",
+        "desa": "3204102001",
+        "tps": "3204102001048",
+        "nama": "TPS 048, MARGAASIH, MARGAASIH, BANDUNG, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320410\/3204102001\/3204102001048"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320409",
+        "desa": "3204092001",
+        "tps": "3204092001022",
+        "nama": "TPS 022, MARGAHAYU TENGAH, MARGAHAYU, BANDUNG, JAWA BARAT",
+        "selisih": 30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320409\/3204092001\/3204092001022"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320426",
+        "desa": "3204262008",
+        "tps": "3204262008019",
+        "nama": "TPS 019, GANJAR SABAR, NAGREG, BANDUNG, JAWA BARAT",
+        "selisih": 228,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320426\/3204262008\/3204262008019"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320430",
+        "desa": "3204302011",
+        "tps": "3204302011006",
+        "nama": "TPS 006, GIRIMULYA, PACET, BANDUNG, JAWA BARAT",
+        "selisih": -90,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320430\/3204302011\/3204302011006"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320430",
+        "desa": "3204302013",
+        "tps": "3204302013023",
+        "nama": "TPS 023, MEKARSARI, PACET, BANDUNG, JAWA BARAT",
+        "selisih": -58,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320430\/3204302013\/3204302013023"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320430",
+        "desa": "3204302012",
+        "tps": "3204302012001",
+        "nama": "TPS 001, TANJUNGWANGI, PACET, BANDUNG, JAWA BARAT",
+        "selisih": -203,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320430\/3204302012\/3204302012001"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320414",
+        "desa": "3204142001",
+        "tps": "3204142001034",
+        "nama": "TPS 034, SUKASARI, PAMEUNGPEUK, BANDUNG, JAWA BARAT",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320414\/3204142001\/3204142001034"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320435",
+        "desa": "3204352004",
+        "tps": "3204352004023",
+        "nama": "TPS 023, CIJAGRA, PASEH, BANDUNG, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320435\/3204352004\/3204352004023"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320428",
+        "desa": "3204282004",
+        "tps": "3204282004055",
+        "nama": "TPS 055, BOJONGLOA, RANCAEKEK, BANDUNG, JAWA BARAT",
+        "selisih": 675,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320428\/3204282004\/3204282004055"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320434",
+        "desa": "3204342006",
+        "tps": "3204342006018",
+        "nama": "TPS 018, PADAMUKTI, SOLOKANJERUK, BANDUNG, JAWA BARAT",
+        "selisih": 200,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320434\/3204342006\/3204342006018"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320437",
+        "desa": "3204372011",
+        "tps": "3204372011038",
+        "nama": "TPS 038, PAMEKARAN, SOREANG, BANDUNG, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320437\/3204372011\/3204372011038"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320437",
+        "desa": "3204372010",
+        "tps": "3204372010011",
+        "nama": "TPS 011, SUKAJADI, SOREANG, BANDUNG, JAWA BARAT",
+        "selisih": 200,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320437\/3204372010\/3204372010011"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3204",
+        "kecamatan": "320437",
+        "desa": "3204372010",
+        "tps": "3204372010011",
+        "nama": "TPS 011, SUKAJADI, SOREANG, BANDUNG, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3204\/320437\/3204372010\/3204372010011"
+    }
+]

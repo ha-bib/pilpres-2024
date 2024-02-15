@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "75",
+        "kabupaten": "7501",
+        "kecamatan": "750119",
+        "desa": "7501192005",
+        "tps": "7501192005001",
+        "nama": "TPS 001, ILOMANGGA, TABONGO, GORONTALO, GORONTALO",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/75\/7501\/750119\/7501192005\/7501192005001"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7501",
+        "kecamatan": "750119",
+        "desa": "7501192004",
+        "tps": "7501192004005",
+        "nama": "TPS 005, LIMEHE TIMUR, TABONGO, GORONTALO, GORONTALO",
+        "selisih": 199,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/75\/7501\/750119\/7501192004\/7501192004005"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7501",
+        "kecamatan": "750104",
+        "desa": "7501042003",
+        "tps": "7501042003005",
+        "nama": "TPS 005, DATAHU, TIBAWA, GORONTALO, GORONTALO",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/75\/7501\/750104\/7501042003\/7501042003005"
+    },
+    {
+        "provinsi": "75",
+        "kabupaten": "7501",
+        "kecamatan": "750104",
+        "desa": "7501042003",
+        "tps": "7501042003005",
+        "nama": "TPS 005, DATAHU, TIBAWA, GORONTALO, GORONTALO",
+        "selisih": 199,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/75\/7501\/750104\/7501042003\/7501042003005"
+    }
+]

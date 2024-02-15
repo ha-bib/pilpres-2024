@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "63",
+        "kabupaten": "6301",
+        "kecamatan": "630109",
+        "desa": "6301092006",
+        "tps": "6301092006005",
+        "nama": "TPS 005, AMBAWANG, BATU AMPAR, TANAH LAUT, KALIMANTAN SELATAN",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6301\/630109\/6301092006\/6301092006005"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6301",
+        "kecamatan": "630109",
+        "desa": "6301092009",
+        "tps": "6301092009003",
+        "nama": "TPS 003, BLURU, BATU AMPAR, TANAH LAUT, KALIMANTAN SELATAN",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6301\/630109\/6301092009\/6301092009003"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6301",
+        "kecamatan": "630102",
+        "desa": "6301022003",
+        "tps": "6301022003005",
+        "nama": "TPS 005, ASAM-ASAM, JORONG, TANAH LAUT, KALIMANTAN SELATAN",
+        "selisih": 98,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6301\/630102\/6301022003\/6301022003005"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6301",
+        "kecamatan": "630104",
+        "desa": "6301042004",
+        "tps": "6301042004002",
+        "nama": "TPS 002, TAMBAK SARINAH, KURAU, TANAH LAUT, KALIMANTAN SELATAN",
+        "selisih": -60,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6301\/630104\/6301042004\/6301042004002"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6301",
+        "kecamatan": "630103",
+        "desa": "6301031003",
+        "tps": "6301031003005",
+        "nama": "TPS 005, PELAIHARI, PELAIHARI, TANAH LAUT, KALIMANTAN SELATAN",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6301\/630103\/6301031003\/6301031003005"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6301",
+        "kecamatan": "630101",
+        "desa": "6301012007",
+        "tps": "6301012007006",
+        "nama": "TPS 006, RANGGANG, TAKISUNG, TANAH LAUT, KALIMANTAN SELATAN",
+        "selisih": 2011,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6301\/630101\/6301012007\/6301012007006"
+    },
+    {
+        "provinsi": "63",
+        "kabupaten": "6301",
+        "kecamatan": "630101",
+        "desa": "6301012005",
+        "tps": "6301012005008",
+        "nama": "TPS 008, GUNUNG MAKMUR, TAKISUNG, TANAH LAUT, KALIMANTAN SELATAN",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/63\/6301\/630101\/6301012005\/6301012005008"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "73",
+        "kabupaten": "7307",
+        "kecamatan": "730706",
+        "desa": "7307062002",
+        "tps": "7307062002006",
+        "nama": "TPS 006, LAMATTI RIAJA, BULUPODDO, SINJAI, SULAWESI SELATAN",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7307\/730706\/7307062002\/7307062002006"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7307",
+        "kecamatan": "730701",
+        "desa": "7307012009",
+        "tps": "7307012009002",
+        "nama": "TPS 002, TERASA, SINJAI BARAT, SINJAI, SULAWESI SELATAN",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7307\/730701\/7307012009\/7307012009002"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7307",
+        "kecamatan": "730704",
+        "desa": "7307042002",
+        "tps": "7307042002001",
+        "nama": "TPS 001, MATTUNRENG TELLUE, SINJAI TENGAH, SINJAI, SULAWESI SELATAN",
+        "selisih": 7,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7307\/730704\/7307042002\/7307042002001"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7307",
+        "kecamatan": "730703",
+        "desa": "7307032003",
+        "tps": "7307032003001",
+        "nama": "TPS 001, PATTALASSANG, SINJAI TIMUR, SINJAI, SULAWESI SELATAN",
+        "selisih": 1059,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7307\/730703\/7307032003\/7307032003001"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7307",
+        "kecamatan": "730708",
+        "desa": "7307082008",
+        "tps": "7307082008006",
+        "nama": "TPS 006, BUA, TELLU LIMPOE, SINJAI, SULAWESI SELATAN",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7307\/730708\/7307082008\/7307082008006"
+    },
+    {
+        "provinsi": "73",
+        "kabupaten": "7307",
+        "kecamatan": "730703",
+        "desa": "7307032004",
+        "tps": "7307032004001",
+        "nama": "TPS 001, PANAIKANG, SINJAI TIMUR, SINJAI, SULAWESI SELATAN",
+        "selisih": 7,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/73\/7307\/730703\/7307032004\/7307032004001"
+    }
+]

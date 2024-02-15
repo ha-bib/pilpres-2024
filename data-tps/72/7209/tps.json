@@ -1,0 +1,4664 @@
+[
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004001",
+        "url": "72\/7209\/720905\/7209051004\/7209051004001.json",
+        "nama": "TPS 001, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004002",
+        "url": "72\/7209\/720905\/7209051004\/7209051004002.json",
+        "nama": "TPS 002, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004003",
+        "url": "72\/7209\/720905\/7209051004\/7209051004003.json",
+        "nama": "TPS 003, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004004",
+        "url": "72\/7209\/720905\/7209051004\/7209051004004.json",
+        "nama": "TPS 004, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004005",
+        "url": "72\/7209\/720905\/7209051004\/7209051004005.json",
+        "nama": "TPS 005, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004006",
+        "url": "72\/7209\/720905\/7209051004\/7209051004006.json",
+        "nama": "TPS 006, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004007",
+        "url": "72\/7209\/720905\/7209051004\/7209051004007.json",
+        "nama": "TPS 007, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004008",
+        "url": "72\/7209\/720905\/7209051004\/7209051004008.json",
+        "nama": "TPS 008, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004009",
+        "url": "72\/7209\/720905\/7209051004\/7209051004009.json",
+        "nama": "TPS 009, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051004",
+        "tps": "7209051004901",
+        "url": "72\/7209\/720905\/7209051004\/7209051004901.json",
+        "nama": "TPS 901, AMPANA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051003",
+        "tps": "7209051003001",
+        "url": "72\/7209\/720905\/7209051003\/7209051003001.json",
+        "nama": "TPS 001, BAILO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051003",
+        "tps": "7209051003002",
+        "url": "72\/7209\/720905\/7209051003\/7209051003002.json",
+        "nama": "TPS 002, BAILO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051003",
+        "tps": "7209051003003",
+        "url": "72\/7209\/720905\/7209051003\/7209051003003.json",
+        "nama": "TPS 003, BAILO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051003",
+        "tps": "7209051003004",
+        "url": "72\/7209\/720905\/7209051003\/7209051003004.json",
+        "nama": "TPS 004, BAILO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051003",
+        "tps": "7209051003005",
+        "url": "72\/7209\/720905\/7209051003\/7209051003005.json",
+        "nama": "TPS 005, BAILO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051003",
+        "tps": "7209051003006",
+        "url": "72\/7209\/720905\/7209051003\/7209051003006.json",
+        "nama": "TPS 006, BAILO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051013",
+        "tps": "7209051013001",
+        "url": "72\/7209\/720905\/7209051013\/7209051013001.json",
+        "nama": "TPS 001, BAILO BARU, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051013",
+        "tps": "7209051013002",
+        "url": "72\/7209\/720905\/7209051013\/7209051013002.json",
+        "nama": "TPS 002, BAILO BARU, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051013",
+        "tps": "7209051013003",
+        "url": "72\/7209\/720905\/7209051013\/7209051013003.json",
+        "nama": "TPS 003, BAILO BARU, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051013",
+        "tps": "7209051013004",
+        "url": "72\/7209\/720905\/7209051013\/7209051013004.json",
+        "nama": "TPS 004, BAILO BARU, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051013",
+        "tps": "7209051013005",
+        "url": "72\/7209\/720905\/7209051013\/7209051013005.json",
+        "nama": "TPS 005, BAILO BARU, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051013",
+        "tps": "7209051013006",
+        "url": "72\/7209\/720905\/7209051013\/7209051013006.json",
+        "nama": "TPS 006, BAILO BARU, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051012",
+        "tps": "7209051012001",
+        "url": "72\/7209\/720905\/7209051012\/7209051012001.json",
+        "nama": "TPS 001, BONE RATO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051012",
+        "tps": "7209051012002",
+        "url": "72\/7209\/720905\/7209051012\/7209051012002.json",
+        "nama": "TPS 002, BONE RATO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051012",
+        "tps": "7209051012003",
+        "url": "72\/7209\/720905\/7209051012\/7209051012003.json",
+        "nama": "TPS 003, BONE RATO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051012",
+        "tps": "7209051012004",
+        "url": "72\/7209\/720905\/7209051012\/7209051012004.json",
+        "nama": "TPS 004, BONE RATO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051012",
+        "tps": "7209051012005",
+        "url": "72\/7209\/720905\/7209051012\/7209051012005.json",
+        "nama": "TPS 005, BONE RATO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052019",
+        "tps": "7209052019001",
+        "url": "72\/7209\/720905\/7209052019\/7209052019001.json",
+        "nama": "TPS 001, BUNTONGI, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052019",
+        "tps": "7209052019002",
+        "url": "72\/7209\/720905\/7209052019\/7209052019002.json",
+        "nama": "TPS 002, BUNTONGI, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052019",
+        "tps": "7209052019003",
+        "url": "72\/7209\/720905\/7209052019\/7209052019003.json",
+        "nama": "TPS 003, BUNTONGI, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052019",
+        "tps": "7209052019004",
+        "url": "72\/7209\/720905\/7209052019\/7209052019004.json",
+        "nama": "TPS 004, BUNTONGI, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051014",
+        "tps": "7209051014001",
+        "url": "72\/7209\/720905\/7209051014\/7209051014001.json",
+        "nama": "TPS 001, LABIABAE, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051014",
+        "tps": "7209051014002",
+        "url": "72\/7209\/720905\/7209051014\/7209051014002.json",
+        "nama": "TPS 002, LABIABAE, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051014",
+        "tps": "7209051014003",
+        "url": "72\/7209\/720905\/7209051014\/7209051014003.json",
+        "nama": "TPS 003, LABIABAE, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051014",
+        "tps": "7209051014004",
+        "url": "72\/7209\/720905\/7209051014\/7209051014004.json",
+        "nama": "TPS 004, LABIABAE, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051014",
+        "tps": "7209051014005",
+        "url": "72\/7209\/720905\/7209051014\/7209051014005.json",
+        "nama": "TPS 005, LABIABAE, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051002",
+        "tps": "7209051002001",
+        "url": "72\/7209\/720905\/7209051002\/7209051002001.json",
+        "nama": "TPS 001, MALOTONG, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051002",
+        "tps": "7209051002002",
+        "url": "72\/7209\/720905\/7209051002\/7209051002002.json",
+        "nama": "TPS 002, MALOTONG, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051002",
+        "tps": "7209051002003",
+        "url": "72\/7209\/720905\/7209051002\/7209051002003.json",
+        "nama": "TPS 003, MALOTONG, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051002",
+        "tps": "7209051002004",
+        "url": "72\/7209\/720905\/7209051002\/7209051002004.json",
+        "nama": "TPS 004, MALOTONG, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051002",
+        "tps": "7209051002005",
+        "url": "72\/7209\/720905\/7209051002\/7209051002005.json",
+        "nama": "TPS 005, MALOTONG, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051002",
+        "tps": "7209051002006",
+        "url": "72\/7209\/720905\/7209051002\/7209051002006.json",
+        "nama": "TPS 006, MALOTONG, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209051002",
+        "tps": "7209051002007",
+        "url": "72\/7209\/720905\/7209051002\/7209051002007.json",
+        "nama": "TPS 007, MALOTONG, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052011",
+        "tps": "7209052011001",
+        "url": "72\/7209\/720905\/7209052011\/7209052011001.json",
+        "nama": "TPS 001, PADANG TUMBUO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052011",
+        "tps": "7209052011002",
+        "url": "72\/7209\/720905\/7209052011\/7209052011002.json",
+        "nama": "TPS 002, PADANG TUMBUO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052011",
+        "tps": "7209052011003",
+        "url": "72\/7209\/720905\/7209052011\/7209052011003.json",
+        "nama": "TPS 003, PADANG TUMBUO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052011",
+        "tps": "7209052011004",
+        "url": "72\/7209\/720905\/7209052011\/7209052011004.json",
+        "nama": "TPS 004, PADANG TUMBUO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052011",
+        "tps": "7209052011005",
+        "url": "72\/7209\/720905\/7209052011\/7209052011005.json",
+        "nama": "TPS 005, PADANG TUMBUO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052011",
+        "tps": "7209052011006",
+        "url": "72\/7209\/720905\/7209052011\/7209052011006.json",
+        "nama": "TPS 006, PADANG TUMBUO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052018",
+        "tps": "7209052018001",
+        "url": "72\/7209\/720905\/7209052018\/7209052018001.json",
+        "nama": "TPS 001, SALUABA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052018",
+        "tps": "7209052018002",
+        "url": "72\/7209\/720905\/7209052018\/7209052018002.json",
+        "nama": "TPS 002, SALUABA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052018",
+        "tps": "7209052018003",
+        "url": "72\/7209\/720905\/7209052018\/7209052018003.json",
+        "nama": "TPS 003, SALUABA, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052001",
+        "tps": "7209052001001",
+        "url": "72\/7209\/720905\/7209052001\/7209052001001.json",
+        "nama": "TPS 001, SANSARINO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052001",
+        "tps": "7209052001002",
+        "url": "72\/7209\/720905\/7209052001\/7209052001002.json",
+        "nama": "TPS 002, SANSARINO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052001",
+        "tps": "7209052001003",
+        "url": "72\/7209\/720905\/7209052001\/7209052001003.json",
+        "nama": "TPS 003, SANSARINO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052001",
+        "tps": "7209052001004",
+        "url": "72\/7209\/720905\/7209052001\/7209052001004.json",
+        "nama": "TPS 004, SANSARINO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052001",
+        "tps": "7209052001005",
+        "url": "72\/7209\/720905\/7209052001\/7209052001005.json",
+        "nama": "TPS 005, SANSARINO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052001",
+        "tps": "7209052001006",
+        "url": "72\/7209\/720905\/7209052001\/7209052001006.json",
+        "nama": "TPS 006, SANSARINO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720905",
+        "desa": "7209052001",
+        "tps": "7209052001007",
+        "url": "72\/7209\/720905\/7209052001\/7209052001007.json",
+        "nama": "TPS 007, SANSARINO, AMPANA KOTA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042008",
+        "tps": "7209042008001",
+        "url": "72\/7209\/720904\/7209042008\/7209042008001.json",
+        "nama": "TPS 001, BALANGGALA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042008",
+        "tps": "7209042008002",
+        "url": "72\/7209\/720904\/7209042008\/7209042008002.json",
+        "nama": "TPS 002, BALANGGALA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042008",
+        "tps": "7209042008003",
+        "url": "72\/7209\/720904\/7209042008\/7209042008003.json",
+        "nama": "TPS 003, BALANGGALA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042008",
+        "tps": "7209042008004",
+        "url": "72\/7209\/720904\/7209042008\/7209042008004.json",
+        "nama": "TPS 004, BALANGGALA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042013",
+        "tps": "7209042013001",
+        "url": "72\/7209\/720904\/7209042013\/7209042013001.json",
+        "nama": "TPS 001, BALINGARA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042013",
+        "tps": "7209042013002",
+        "url": "72\/7209\/720904\/7209042013\/7209042013002.json",
+        "nama": "TPS 002, BALINGARA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042013",
+        "tps": "7209042013003",
+        "url": "72\/7209\/720904\/7209042013\/7209042013003.json",
+        "nama": "TPS 003, BALINGARA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042013",
+        "tps": "7209042013004",
+        "url": "72\/7209\/720904\/7209042013\/7209042013004.json",
+        "nama": "TPS 004, BALINGARA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042013",
+        "tps": "7209042013005",
+        "url": "72\/7209\/720904\/7209042013\/7209042013005.json",
+        "nama": "TPS 005, BALINGARA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042006",
+        "tps": "7209042006001",
+        "url": "72\/7209\/720904\/7209042006\/7209042006001.json",
+        "nama": "TPS 001, BANTUGA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042006",
+        "tps": "7209042006002",
+        "url": "72\/7209\/720904\/7209042006\/7209042006002.json",
+        "nama": "TPS 002, BANTUGA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042006",
+        "tps": "7209042006003",
+        "url": "72\/7209\/720904\/7209042006\/7209042006003.json",
+        "nama": "TPS 003, BANTUGA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042006",
+        "tps": "7209042006004",
+        "url": "72\/7209\/720904\/7209042006\/7209042006004.json",
+        "nama": "TPS 004, BANTUGA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042007",
+        "tps": "7209042007001",
+        "url": "72\/7209\/720904\/7209042007\/7209042007001.json",
+        "nama": "TPS 001, BORONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042007",
+        "tps": "7209042007002",
+        "url": "72\/7209\/720904\/7209042007\/7209042007002.json",
+        "nama": "TPS 002, BORONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042007",
+        "tps": "7209042007003",
+        "url": "72\/7209\/720904\/7209042007\/7209042007003.json",
+        "nama": "TPS 003, BORONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042007",
+        "tps": "7209042007004",
+        "url": "72\/7209\/720904\/7209042007\/7209042007004.json",
+        "nama": "TPS 004, BORONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042014",
+        "tps": "7209042014001",
+        "url": "72\/7209\/720904\/7209042014\/7209042014001.json",
+        "nama": "TPS 001, BULAN JAYA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042014",
+        "tps": "7209042014002",
+        "url": "72\/7209\/720904\/7209042014\/7209042014002.json",
+        "nama": "TPS 002, BULAN JAYA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042014",
+        "tps": "7209042014003",
+        "url": "72\/7209\/720904\/7209042014\/7209042014003.json",
+        "nama": "TPS 003, BULAN JAYA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042014",
+        "tps": "7209042014004",
+        "url": "72\/7209\/720904\/7209042014\/7209042014004.json",
+        "nama": "TPS 004, BULAN JAYA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042015",
+        "tps": "7209042015001",
+        "url": "72\/7209\/720904\/7209042015\/7209042015001.json",
+        "nama": "TPS 001, GIRI MULYO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042015",
+        "tps": "7209042015002",
+        "url": "72\/7209\/720904\/7209042015\/7209042015002.json",
+        "nama": "TPS 002, GIRI MULYO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042015",
+        "tps": "7209042015003",
+        "url": "72\/7209\/720904\/7209042015\/7209042015003.json",
+        "nama": "TPS 003, GIRI MULYO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042019",
+        "tps": "7209042019001",
+        "url": "72\/7209\/720904\/7209042019\/7209042019001.json",
+        "nama": "TPS 001, KAJULANGKO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042019",
+        "tps": "7209042019002",
+        "url": "72\/7209\/720904\/7209042019\/7209042019002.json",
+        "nama": "TPS 002, KAJULANGKO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042019",
+        "tps": "7209042019003",
+        "url": "72\/7209\/720904\/7209042019\/7209042019003.json",
+        "nama": "TPS 003, KAJULANGKO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042019",
+        "tps": "7209042019004",
+        "url": "72\/7209\/720904\/7209042019\/7209042019004.json",
+        "nama": "TPS 004, KAJULANGKO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042019",
+        "tps": "7209042019005",
+        "url": "72\/7209\/720904\/7209042019\/7209042019005.json",
+        "nama": "TPS 005, KAJULANGKO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042010",
+        "tps": "7209042010001",
+        "url": "72\/7209\/720904\/7209042010\/7209042010001.json",
+        "nama": "TPS 001, LONGGE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042005",
+        "tps": "7209042005001",
+        "url": "72\/7209\/720904\/7209042005\/7209042005001.json",
+        "nama": "TPS 001, MANTANGISI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042005",
+        "tps": "7209042005002",
+        "url": "72\/7209\/720904\/7209042005\/7209042005002.json",
+        "nama": "TPS 002, MANTANGISI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042005",
+        "tps": "7209042005003",
+        "url": "72\/7209\/720904\/7209042005\/7209042005003.json",
+        "nama": "TPS 003, MANTANGISI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042005",
+        "tps": "7209042005004",
+        "url": "72\/7209\/720904\/7209042005\/7209042005004.json",
+        "nama": "TPS 004, MANTANGISI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042005",
+        "tps": "7209042005005",
+        "url": "72\/7209\/720904\/7209042005\/7209042005005.json",
+        "nama": "TPS 005, MANTANGISI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042005",
+        "tps": "7209042005006",
+        "url": "72\/7209\/720904\/7209042005\/7209042005006.json",
+        "nama": "TPS 006, MANTANGISI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042021",
+        "tps": "7209042021001",
+        "url": "72\/7209\/720904\/7209042021\/7209042021001.json",
+        "nama": "TPS 001, MPOA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042021",
+        "tps": "7209042021002",
+        "url": "72\/7209\/720904\/7209042021\/7209042021002.json",
+        "nama": "TPS 002, MPOA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042001",
+        "tps": "7209042001001",
+        "url": "72\/7209\/720904\/7209042001\/7209042001001.json",
+        "nama": "TPS 001, PUSUNGI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042001",
+        "tps": "7209042001002",
+        "url": "72\/7209\/720904\/7209042001\/7209042001002.json",
+        "nama": "TPS 002, PUSUNGI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042001",
+        "tps": "7209042001003",
+        "url": "72\/7209\/720904\/7209042001\/7209042001003.json",
+        "nama": "TPS 003, PUSUNGI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042001",
+        "tps": "7209042001004",
+        "url": "72\/7209\/720904\/7209042001\/7209042001004.json",
+        "nama": "TPS 004, PUSUNGI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042001",
+        "tps": "7209042001005",
+        "url": "72\/7209\/720904\/7209042001\/7209042001005.json",
+        "nama": "TPS 005, PUSUNGI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042001",
+        "tps": "7209042001006",
+        "url": "72\/7209\/720904\/7209042001\/7209042001006.json",
+        "nama": "TPS 006, PUSUNGI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042001",
+        "tps": "7209042001007",
+        "url": "72\/7209\/720904\/7209042001\/7209042001007.json",
+        "nama": "TPS 007, PUSUNGI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042001",
+        "tps": "7209042001008",
+        "url": "72\/7209\/720904\/7209042001\/7209042001008.json",
+        "nama": "TPS 008, PUSUNGI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042001",
+        "tps": "7209042001009",
+        "url": "72\/7209\/720904\/7209042001\/7209042001009.json",
+        "nama": "TPS 009, PUSUNGI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042009",
+        "tps": "7209042009001",
+        "url": "72\/7209\/720904\/7209042009\/7209042009001.json",
+        "nama": "TPS 001, SABO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042009",
+        "tps": "7209042009002",
+        "url": "72\/7209\/720904\/7209042009\/7209042009002.json",
+        "nama": "TPS 002, SABO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042009",
+        "tps": "7209042009003",
+        "url": "72\/7209\/720904\/7209042009\/7209042009003.json",
+        "nama": "TPS 003, SABO, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042022",
+        "tps": "7209042022001",
+        "url": "72\/7209\/720904\/7209042022\/7209042022001.json",
+        "nama": "TPS 001, SUKAMAJU, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042022",
+        "tps": "7209042022002",
+        "url": "72\/7209\/720904\/7209042022\/7209042022002.json",
+        "nama": "TPS 002, SUKAMAJU, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042022",
+        "tps": "7209042022003",
+        "url": "72\/7209\/720904\/7209042022\/7209042022003.json",
+        "nama": "TPS 003, SUKAMAJU, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042011",
+        "tps": "7209042011001",
+        "url": "72\/7209\/720904\/7209042011\/7209042011001.json",
+        "nama": "TPS 001, TAMPABATU, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042011",
+        "tps": "7209042011002",
+        "url": "72\/7209\/720904\/7209042011\/7209042011002.json",
+        "nama": "TPS 002, TAMPABATU, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042011",
+        "tps": "7209042011003",
+        "url": "72\/7209\/720904\/7209042011\/7209042011003.json",
+        "nama": "TPS 003, TAMPABATU, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042011",
+        "tps": "7209042011004",
+        "url": "72\/7209\/720904\/7209042011\/7209042011004.json",
+        "nama": "TPS 004, TAMPABATU, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042011",
+        "tps": "7209042011005",
+        "url": "72\/7209\/720904\/7209042011\/7209042011005.json",
+        "nama": "TPS 005, TAMPABATU, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042003",
+        "tps": "7209042003001",
+        "url": "72\/7209\/720904\/7209042003\/7209042003001.json",
+        "nama": "TPS 001, TETE A, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042003",
+        "tps": "7209042003002",
+        "url": "72\/7209\/720904\/7209042003\/7209042003002.json",
+        "nama": "TPS 002, TETE A, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042003",
+        "tps": "7209042003003",
+        "url": "72\/7209\/720904\/7209042003\/7209042003003.json",
+        "nama": "TPS 003, TETE A, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042002",
+        "tps": "7209042002001",
+        "url": "72\/7209\/720904\/7209042002\/7209042002001.json",
+        "nama": "TPS 001, TETE B, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042002",
+        "tps": "7209042002002",
+        "url": "72\/7209\/720904\/7209042002\/7209042002002.json",
+        "nama": "TPS 002, TETE B, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042002",
+        "tps": "7209042002003",
+        "url": "72\/7209\/720904\/7209042002\/7209042002003.json",
+        "nama": "TPS 003, TETE B, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042002",
+        "tps": "7209042002004",
+        "url": "72\/7209\/720904\/7209042002\/7209042002004.json",
+        "nama": "TPS 004, TETE B, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004001",
+        "url": "72\/7209\/720904\/7209042004\/7209042004001.json",
+        "nama": "TPS 001, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004002",
+        "url": "72\/7209\/720904\/7209042004\/7209042004002.json",
+        "nama": "TPS 002, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004003",
+        "url": "72\/7209\/720904\/7209042004\/7209042004003.json",
+        "nama": "TPS 003, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004004",
+        "url": "72\/7209\/720904\/7209042004\/7209042004004.json",
+        "nama": "TPS 004, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004005",
+        "url": "72\/7209\/720904\/7209042004\/7209042004005.json",
+        "nama": "TPS 005, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004006",
+        "url": "72\/7209\/720904\/7209042004\/7209042004006.json",
+        "nama": "TPS 006, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004007",
+        "url": "72\/7209\/720904\/7209042004\/7209042004007.json",
+        "nama": "TPS 007, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004008",
+        "url": "72\/7209\/720904\/7209042004\/7209042004008.json",
+        "nama": "TPS 008, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004009",
+        "url": "72\/7209\/720904\/7209042004\/7209042004009.json",
+        "nama": "TPS 009, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042004",
+        "tps": "7209042004010",
+        "url": "72\/7209\/720904\/7209042004\/7209042004010.json",
+        "nama": "TPS 010, UEBONE, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042020",
+        "tps": "7209042020001",
+        "url": "72\/7209\/720904\/7209042020\/7209042020001.json",
+        "nama": "TPS 001, UEMAKUNI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042020",
+        "tps": "7209042020002",
+        "url": "72\/7209\/720904\/7209042020\/7209042020002.json",
+        "nama": "TPS 002, UEMAKUNI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042020",
+        "tps": "7209042020003",
+        "url": "72\/7209\/720904\/7209042020\/7209042020003.json",
+        "nama": "TPS 003, UEMAKUNI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042012",
+        "tps": "7209042012001",
+        "url": "72\/7209\/720904\/7209042012\/7209042012001.json",
+        "nama": "TPS 001, URUNDAKA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042012",
+        "tps": "7209042012002",
+        "url": "72\/7209\/720904\/7209042012\/7209042012002.json",
+        "nama": "TPS 002, URUNDAKA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042012",
+        "tps": "7209042012003",
+        "url": "72\/7209\/720904\/7209042012\/7209042012003.json",
+        "nama": "TPS 003, URUNDAKA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042012",
+        "tps": "7209042012004",
+        "url": "72\/7209\/720904\/7209042012\/7209042012004.json",
+        "nama": "TPS 004, URUNDAKA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042012",
+        "tps": "7209042012005",
+        "url": "72\/7209\/720904\/7209042012\/7209042012005.json",
+        "nama": "TPS 005, URUNDAKA, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042017",
+        "tps": "7209042017001",
+        "url": "72\/7209\/720904\/7209042017\/7209042017001.json",
+        "nama": "TPS 001, WANASARI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042017",
+        "tps": "7209042017002",
+        "url": "72\/7209\/720904\/7209042017\/7209042017002.json",
+        "nama": "TPS 002, WANASARI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720904",
+        "desa": "7209042017",
+        "tps": "7209042017003",
+        "url": "72\/7209\/720904\/7209042017\/7209042017003.json",
+        "nama": "TPS 003, WANASARI, AMPANA TETE, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112001",
+        "tps": "7209112001001",
+        "url": "72\/7209\/720911\/7209112001\/7209112001001.json",
+        "nama": "TPS 001, BOMBA, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112001",
+        "tps": "7209112001002",
+        "url": "72\/7209\/720911\/7209112001\/7209112001002.json",
+        "nama": "TPS 002, BOMBA, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112007",
+        "tps": "7209112007001",
+        "url": "72\/7209\/720911\/7209112007\/7209112007001.json",
+        "nama": "TPS 001, KAMBUTU, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112007",
+        "tps": "7209112007002",
+        "url": "72\/7209\/720911\/7209112007\/7209112007002.json",
+        "nama": "TPS 002, KAMBUTU, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112004",
+        "tps": "7209112004001",
+        "url": "72\/7209\/720911\/7209112004\/7209112004001.json",
+        "nama": "TPS 001, KULINGKINARI, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112004",
+        "tps": "7209112004002",
+        "url": "72\/7209\/720911\/7209112004\/7209112004002.json",
+        "nama": "TPS 002, KULINGKINARI, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112004",
+        "tps": "7209112004003",
+        "url": "72\/7209\/720911\/7209112004\/7209112004003.json",
+        "nama": "TPS 003, KULINGKINARI, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112004",
+        "tps": "7209112004004",
+        "url": "72\/7209\/720911\/7209112004\/7209112004004.json",
+        "nama": "TPS 004, KULINGKINARI, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112008",
+        "tps": "7209112008001",
+        "url": "72\/7209\/720911\/7209112008\/7209112008001.json",
+        "nama": "TPS 001, LINDO, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112008",
+        "tps": "7209112008002",
+        "url": "72\/7209\/720911\/7209112008\/7209112008002.json",
+        "nama": "TPS 002, LINDO, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112003",
+        "tps": "7209112003001",
+        "url": "72\/7209\/720911\/7209112003\/7209112003001.json",
+        "nama": "TPS 001, MALINO, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112003",
+        "tps": "7209112003002",
+        "url": "72\/7209\/720911\/7209112003\/7209112003002.json",
+        "nama": "TPS 002, MALINO, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112002",
+        "tps": "7209112002001",
+        "url": "72\/7209\/720911\/7209112002\/7209112002001.json",
+        "nama": "TPS 001, MOLOWAGU, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112002",
+        "tps": "7209112002002",
+        "url": "72\/7209\/720911\/7209112002\/7209112002002.json",
+        "nama": "TPS 002, MOLOWAGU, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112002",
+        "tps": "7209112002003",
+        "url": "72\/7209\/720911\/7209112002\/7209112002003.json",
+        "nama": "TPS 003, MOLOWAGU, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112002",
+        "tps": "7209112002004",
+        "url": "72\/7209\/720911\/7209112002\/7209112002004.json",
+        "nama": "TPS 004, MOLOWAGU, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112009",
+        "tps": "7209112009001",
+        "url": "72\/7209\/720911\/7209112009\/7209112009001.json",
+        "nama": "TPS 001, PATOYAN, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112006",
+        "tps": "7209112006001",
+        "url": "72\/7209\/720911\/7209112006\/7209112006001.json",
+        "nama": "TPS 001, SIATU, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112006",
+        "tps": "7209112006002",
+        "url": "72\/7209\/720911\/7209112006\/7209112006002.json",
+        "nama": "TPS 002, SIATU, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112005",
+        "tps": "7209112005001",
+        "url": "72\/7209\/720911\/7209112005\/7209112005001.json",
+        "nama": "TPS 001, TUMBULAWA, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720911",
+        "desa": "7209112005",
+        "tps": "7209112005002",
+        "url": "72\/7209\/720911\/7209112005\/7209112005002.json",
+        "nama": "TPS 002, TUMBULAWA, BATUDAKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101003",
+        "tps": "7209101003001",
+        "url": "72\/7209\/720910\/7209101003\/7209101003001.json",
+        "nama": "TPS 001, DONDO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101003",
+        "tps": "7209101003002",
+        "url": "72\/7209\/720910\/7209101003\/7209101003002.json",
+        "nama": "TPS 002, DONDO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101003",
+        "tps": "7209101003003",
+        "url": "72\/7209\/720910\/7209101003\/7209101003003.json",
+        "nama": "TPS 003, DONDO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101003",
+        "tps": "7209101003004",
+        "url": "72\/7209\/720910\/7209101003\/7209101003004.json",
+        "nama": "TPS 004, DONDO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101003",
+        "tps": "7209101003005",
+        "url": "72\/7209\/720910\/7209101003\/7209101003005.json",
+        "nama": "TPS 005, DONDO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101003",
+        "tps": "7209101003006",
+        "url": "72\/7209\/720910\/7209101003\/7209101003006.json",
+        "nama": "TPS 006, DONDO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101003",
+        "tps": "7209101003007",
+        "url": "72\/7209\/720910\/7209101003\/7209101003007.json",
+        "nama": "TPS 007, DONDO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101003",
+        "tps": "7209101003008",
+        "url": "72\/7209\/720910\/7209101003\/7209101003008.json",
+        "nama": "TPS 008, DONDO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101003",
+        "tps": "7209101003009",
+        "url": "72\/7209\/720910\/7209101003\/7209101003009.json",
+        "nama": "TPS 009, DONDO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101008",
+        "tps": "7209101008001",
+        "url": "72\/7209\/720910\/7209101008\/7209101008001.json",
+        "nama": "TPS 001, DONDO BARAT, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101008",
+        "tps": "7209101008002",
+        "url": "72\/7209\/720910\/7209101008\/7209101008002.json",
+        "nama": "TPS 002, DONDO BARAT, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101008",
+        "tps": "7209101008003",
+        "url": "72\/7209\/720910\/7209101008\/7209101008003.json",
+        "nama": "TPS 003, DONDO BARAT, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101008",
+        "tps": "7209101008004",
+        "url": "72\/7209\/720910\/7209101008\/7209101008004.json",
+        "nama": "TPS 004, DONDO BARAT, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101008",
+        "tps": "7209101008005",
+        "url": "72\/7209\/720910\/7209101008\/7209101008005.json",
+        "nama": "TPS 005, DONDO BARAT, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101008",
+        "tps": "7209101008006",
+        "url": "72\/7209\/720910\/7209101008\/7209101008006.json",
+        "nama": "TPS 006, DONDO BARAT, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101008",
+        "tps": "7209101008007",
+        "url": "72\/7209\/720910\/7209101008\/7209101008007.json",
+        "nama": "TPS 007, DONDO BARAT, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101008",
+        "tps": "7209101008008",
+        "url": "72\/7209\/720910\/7209101008\/7209101008008.json",
+        "nama": "TPS 008, DONDO BARAT, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101008",
+        "tps": "7209101008009",
+        "url": "72\/7209\/720910\/7209101008\/7209101008009.json",
+        "nama": "TPS 009, DONDO BARAT, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102006",
+        "tps": "7209102006001",
+        "url": "72\/7209\/720910\/7209102006\/7209102006001.json",
+        "nama": "TPS 001, LABUAN, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102006",
+        "tps": "7209102006002",
+        "url": "72\/7209\/720910\/7209102006\/7209102006002.json",
+        "nama": "TPS 002, LABUAN, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102006",
+        "tps": "7209102006003",
+        "url": "72\/7209\/720910\/7209102006\/7209102006003.json",
+        "nama": "TPS 003, LABUAN, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102006",
+        "tps": "7209102006004",
+        "url": "72\/7209\/720910\/7209102006\/7209102006004.json",
+        "nama": "TPS 004, LABUAN, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102006",
+        "tps": "7209102006005",
+        "url": "72\/7209\/720910\/7209102006\/7209102006005.json",
+        "nama": "TPS 005, LABUAN, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102006",
+        "tps": "7209102006006",
+        "url": "72\/7209\/720910\/7209102006\/7209102006006.json",
+        "nama": "TPS 006, LABUAN, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102006",
+        "tps": "7209102006007",
+        "url": "72\/7209\/720910\/7209102006\/7209102006007.json",
+        "nama": "TPS 007, LABUAN, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102006",
+        "tps": "7209102006008",
+        "url": "72\/7209\/720910\/7209102006\/7209102006008.json",
+        "nama": "TPS 008, LABUAN, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101009",
+        "tps": "7209101009001",
+        "url": "72\/7209\/720910\/7209101009\/7209101009001.json",
+        "nama": "TPS 001, MUARA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101009",
+        "tps": "7209101009002",
+        "url": "72\/7209\/720910\/7209101009\/7209101009002.json",
+        "nama": "TPS 002, MUARA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101009",
+        "tps": "7209101009003",
+        "url": "72\/7209\/720910\/7209101009\/7209101009003.json",
+        "nama": "TPS 003, MUARA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101009",
+        "tps": "7209101009004",
+        "url": "72\/7209\/720910\/7209101009\/7209101009004.json",
+        "nama": "TPS 004, MUARA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101009",
+        "tps": "7209101009005",
+        "url": "72\/7209\/720910\/7209101009\/7209101009005.json",
+        "nama": "TPS 005, MUARA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101009",
+        "tps": "7209101009006",
+        "url": "72\/7209\/720910\/7209101009\/7209101009006.json",
+        "nama": "TPS 006, MUARA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101009",
+        "tps": "7209101009007",
+        "url": "72\/7209\/720910\/7209101009\/7209101009007.json",
+        "nama": "TPS 007, MUARA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101009",
+        "tps": "7209101009008",
+        "url": "72\/7209\/720910\/7209101009\/7209101009008.json",
+        "nama": "TPS 008, MUARA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102010",
+        "tps": "7209102010001",
+        "url": "72\/7209\/720910\/7209102010\/7209102010001.json",
+        "nama": "TPS 001, PATINGKO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102010",
+        "tps": "7209102010002",
+        "url": "72\/7209\/720910\/7209102010\/7209102010002.json",
+        "nama": "TPS 002, PATINGKO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102010",
+        "tps": "7209102010003",
+        "url": "72\/7209\/720910\/7209102010\/7209102010003.json",
+        "nama": "TPS 003, PATINGKO, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102005",
+        "tps": "7209102005001",
+        "url": "72\/7209\/720910\/7209102005\/7209102005001.json",
+        "nama": "TPS 001, SABULIRA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102005",
+        "tps": "7209102005002",
+        "url": "72\/7209\/720910\/7209102005\/7209102005002.json",
+        "nama": "TPS 002, SABULIRA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102005",
+        "tps": "7209102005003",
+        "url": "72\/7209\/720910\/7209102005\/7209102005003.json",
+        "nama": "TPS 003, SABULIRA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102005",
+        "tps": "7209102005004",
+        "url": "72\/7209\/720910\/7209102005\/7209102005004.json",
+        "nama": "TPS 004, SABULIRA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102005",
+        "tps": "7209102005005",
+        "url": "72\/7209\/720910\/7209102005\/7209102005005.json",
+        "nama": "TPS 005, SABULIRA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102005",
+        "tps": "7209102005006",
+        "url": "72\/7209\/720910\/7209102005\/7209102005006.json",
+        "nama": "TPS 006, SABULIRA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102005",
+        "tps": "7209102005007",
+        "url": "72\/7209\/720910\/7209102005\/7209102005007.json",
+        "nama": "TPS 007, SABULIRA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102005",
+        "tps": "7209102005008",
+        "url": "72\/7209\/720910\/7209102005\/7209102005008.json",
+        "nama": "TPS 008, SABULIRA TOBA, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102004",
+        "tps": "7209102004001",
+        "url": "72\/7209\/720910\/7209102004\/7209102004001.json",
+        "nama": "TPS 001, SUMOLI, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102004",
+        "tps": "7209102004002",
+        "url": "72\/7209\/720910\/7209102004\/7209102004002.json",
+        "nama": "TPS 002, SUMOLI, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102004",
+        "tps": "7209102004003",
+        "url": "72\/7209\/720910\/7209102004\/7209102004003.json",
+        "nama": "TPS 003, SUMOLI, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102004",
+        "tps": "7209102004004",
+        "url": "72\/7209\/720910\/7209102004\/7209102004004.json",
+        "nama": "TPS 004, SUMOLI, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102004",
+        "tps": "7209102004005",
+        "url": "72\/7209\/720910\/7209102004\/7209102004005.json",
+        "nama": "TPS 005, SUMOLI, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209102004",
+        "tps": "7209102004006",
+        "url": "72\/7209\/720910\/7209102004\/7209102004006.json",
+        "nama": "TPS 006, SUMOLI, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101007",
+        "tps": "7209101007001",
+        "url": "72\/7209\/720910\/7209101007\/7209101007001.json",
+        "nama": "TPS 001, UAMALINGKU, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101007",
+        "tps": "7209101007002",
+        "url": "72\/7209\/720910\/7209101007\/7209101007002.json",
+        "nama": "TPS 002, UAMALINGKU, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101007",
+        "tps": "7209101007003",
+        "url": "72\/7209\/720910\/7209101007\/7209101007003.json",
+        "nama": "TPS 003, UAMALINGKU, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101007",
+        "tps": "7209101007004",
+        "url": "72\/7209\/720910\/7209101007\/7209101007004.json",
+        "nama": "TPS 004, UAMALINGKU, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101007",
+        "tps": "7209101007005",
+        "url": "72\/7209\/720910\/7209101007\/7209101007005.json",
+        "nama": "TPS 005, UAMALINGKU, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101007",
+        "tps": "7209101007006",
+        "url": "72\/7209\/720910\/7209101007\/7209101007006.json",
+        "nama": "TPS 006, UAMALINGKU, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101007",
+        "tps": "7209101007007",
+        "url": "72\/7209\/720910\/7209101007\/7209101007007.json",
+        "nama": "TPS 007, UAMALINGKU, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101007",
+        "tps": "7209101007008",
+        "url": "72\/7209\/720910\/7209101007\/7209101007008.json",
+        "nama": "TPS 008, UAMALINGKU, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002001",
+        "url": "72\/7209\/720910\/7209101002\/7209101002001.json",
+        "nama": "TPS 001, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002002",
+        "url": "72\/7209\/720910\/7209101002\/7209101002002.json",
+        "nama": "TPS 002, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002003",
+        "url": "72\/7209\/720910\/7209101002\/7209101002003.json",
+        "nama": "TPS 003, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002004",
+        "url": "72\/7209\/720910\/7209101002\/7209101002004.json",
+        "nama": "TPS 004, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002005",
+        "url": "72\/7209\/720910\/7209101002\/7209101002005.json",
+        "nama": "TPS 005, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002006",
+        "url": "72\/7209\/720910\/7209101002\/7209101002006.json",
+        "nama": "TPS 006, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002007",
+        "url": "72\/7209\/720910\/7209101002\/7209101002007.json",
+        "nama": "TPS 007, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002008",
+        "url": "72\/7209\/720910\/7209101002\/7209101002008.json",
+        "nama": "TPS 008, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002009",
+        "url": "72\/7209\/720910\/7209101002\/7209101002009.json",
+        "nama": "TPS 009, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002010",
+        "url": "72\/7209\/720910\/7209101002\/7209101002010.json",
+        "nama": "TPS 010, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002011",
+        "url": "72\/7209\/720910\/7209101002\/7209101002011.json",
+        "nama": "TPS 011, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002012",
+        "url": "72\/7209\/720910\/7209101002\/7209101002012.json",
+        "nama": "TPS 012, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101002",
+        "tps": "7209101002013",
+        "url": "72\/7209\/720910\/7209101002\/7209101002013.json",
+        "nama": "TPS 013, UENTANAGA ATAS, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101001",
+        "tps": "7209101001001",
+        "url": "72\/7209\/720910\/7209101001\/7209101001001.json",
+        "nama": "TPS 001, UENTANAGA BAWAH, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101001",
+        "tps": "7209101001002",
+        "url": "72\/7209\/720910\/7209101001\/7209101001002.json",
+        "nama": "TPS 002, UENTANAGA BAWAH, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101001",
+        "tps": "7209101001003",
+        "url": "72\/7209\/720910\/7209101001\/7209101001003.json",
+        "nama": "TPS 003, UENTANAGA BAWAH, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101001",
+        "tps": "7209101001004",
+        "url": "72\/7209\/720910\/7209101001\/7209101001004.json",
+        "nama": "TPS 004, UENTANAGA BAWAH, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720910",
+        "desa": "7209101001",
+        "tps": "7209101001005",
+        "url": "72\/7209\/720910\/7209101001\/7209101001005.json",
+        "nama": "TPS 005, UENTANAGA BAWAH, RATOLINDO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122005",
+        "tps": "7209122005001",
+        "url": "72\/7209\/720912\/7209122005\/7209122005001.json",
+        "nama": "TPS 001, KABALUTAN, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122005",
+        "tps": "7209122005002",
+        "url": "72\/7209\/720912\/7209122005\/7209122005002.json",
+        "nama": "TPS 002, KABALUTAN, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122005",
+        "tps": "7209122005003",
+        "url": "72\/7209\/720912\/7209122005\/7209122005003.json",
+        "nama": "TPS 003, KABALUTAN, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122005",
+        "tps": "7209122005004",
+        "url": "72\/7209\/720912\/7209122005\/7209122005004.json",
+        "nama": "TPS 004, KABALUTAN, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122005",
+        "tps": "7209122005005",
+        "url": "72\/7209\/720912\/7209122005\/7209122005005.json",
+        "nama": "TPS 005, KABALUTAN, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122005",
+        "tps": "7209122005006",
+        "url": "72\/7209\/720912\/7209122005\/7209122005006.json",
+        "nama": "TPS 006, KABALUTAN, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122006",
+        "tps": "7209122006001",
+        "url": "72\/7209\/720912\/7209122006\/7209122006001.json",
+        "nama": "TPS 001, KADODA, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122006",
+        "tps": "7209122006002",
+        "url": "72\/7209\/720912\/7209122006\/7209122006002.json",
+        "nama": "TPS 002, KADODA, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122001",
+        "tps": "7209122001001",
+        "url": "72\/7209\/720912\/7209122001\/7209122001001.json",
+        "nama": "TPS 001, KALIA, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122001",
+        "tps": "7209122001002",
+        "url": "72\/7209\/720912\/7209122001\/7209122001002.json",
+        "nama": "TPS 002, KALIA, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122001",
+        "tps": "7209122001003",
+        "url": "72\/7209\/720912\/7209122001\/7209122001003.json",
+        "nama": "TPS 003, KALIA, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122001",
+        "tps": "7209122001004",
+        "url": "72\/7209\/720912\/7209122001\/7209122001004.json",
+        "nama": "TPS 004, KALIA, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122001",
+        "tps": "7209122001005",
+        "url": "72\/7209\/720912\/7209122001\/7209122001005.json",
+        "nama": "TPS 005, KALIA, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122002",
+        "tps": "7209122002001",
+        "url": "72\/7209\/720912\/7209122002\/7209122002001.json",
+        "nama": "TPS 001, MALENGE, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122002",
+        "tps": "7209122002002",
+        "url": "72\/7209\/720912\/7209122002\/7209122002002.json",
+        "nama": "TPS 002, MALENGE, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122002",
+        "tps": "7209122002003",
+        "url": "72\/7209\/720912\/7209122002\/7209122002003.json",
+        "nama": "TPS 003, MALENGE, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122002",
+        "tps": "7209122002004",
+        "url": "72\/7209\/720912\/7209122002\/7209122002004.json",
+        "nama": "TPS 004, MALENGE, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122003",
+        "tps": "7209122003001",
+        "url": "72\/7209\/720912\/7209122003\/7209122003001.json",
+        "nama": "TPS 001, PAUTU, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122003",
+        "tps": "7209122003002",
+        "url": "72\/7209\/720912\/7209122003\/7209122003002.json",
+        "nama": "TPS 002, PAUTU, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122004",
+        "tps": "7209122004001",
+        "url": "72\/7209\/720912\/7209122004\/7209122004001.json",
+        "nama": "TPS 001, TUMOTOK, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720912",
+        "desa": "7209122004",
+        "tps": "7209122004002",
+        "url": "72\/7209\/720912\/7209122004\/7209122004002.json",
+        "nama": "TPS 002, TUMOTOK, TALATAKO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022007",
+        "tps": "7209022007001",
+        "url": "72\/7209\/720902\/7209022007\/7209022007001.json",
+        "nama": "TPS 001, AWO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022003",
+        "tps": "7209022003001",
+        "url": "72\/7209\/720902\/7209022003\/7209022003001.json",
+        "nama": "TPS 001, BANGKAGI, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022003",
+        "tps": "7209022003002",
+        "url": "72\/7209\/720902\/7209022003\/7209022003002.json",
+        "nama": "TPS 002, BANGKAGI, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022003",
+        "tps": "7209022003003",
+        "url": "72\/7209\/720902\/7209022003\/7209022003003.json",
+        "nama": "TPS 003, BANGKAGI, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022013",
+        "tps": "7209022013001",
+        "url": "72\/7209\/720902\/7209022013\/7209022013001.json",
+        "nama": "TPS 001, BAULU, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022013",
+        "tps": "7209022013002",
+        "url": "72\/7209\/720902\/7209022013\/7209022013002.json",
+        "nama": "TPS 002, BAULU, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022002",
+        "tps": "7209022002001",
+        "url": "72\/7209\/720902\/7209022002\/7209022002001.json",
+        "nama": "TPS 001, BENTENG, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022001",
+        "tps": "7209022001001",
+        "url": "72\/7209\/720902\/7209022001\/7209022001001.json",
+        "nama": "TPS 001, BUNGAYO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022001",
+        "tps": "7209022001002",
+        "url": "72\/7209\/720902\/7209022001\/7209022001002.json",
+        "nama": "TPS 002, BUNGAYO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022006",
+        "tps": "7209022006001",
+        "url": "72\/7209\/720902\/7209022006\/7209022006001.json",
+        "nama": "TPS 001, KATUPAT, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022006",
+        "tps": "7209022006002",
+        "url": "72\/7209\/720902\/7209022006\/7209022006002.json",
+        "nama": "TPS 002, KATUPAT, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022008",
+        "tps": "7209022008001",
+        "url": "72\/7209\/720902\/7209022008\/7209022008001.json",
+        "nama": "TPS 001, KOLOLIO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022008",
+        "tps": "7209022008002",
+        "url": "72\/7209\/720902\/7209022008\/7209022008002.json",
+        "nama": "TPS 002, KOLOLIO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022011",
+        "tps": "7209022011001",
+        "url": "72\/7209\/720902\/7209022011\/7209022011001.json",
+        "nama": "TPS 001, LEBITI, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022011",
+        "tps": "7209022011002",
+        "url": "72\/7209\/720902\/7209022011\/7209022011002.json",
+        "nama": "TPS 002, LEBITI, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022011",
+        "tps": "7209022011003",
+        "url": "72\/7209\/720902\/7209022011\/7209022011003.json",
+        "nama": "TPS 003, LEBITI, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022011",
+        "tps": "7209022011004",
+        "url": "72\/7209\/720902\/7209022011\/7209022011004.json",
+        "nama": "TPS 004, LEBITI, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022010",
+        "tps": "7209022010001",
+        "url": "72\/7209\/720902\/7209022010\/7209022010001.json",
+        "nama": "TPS 001, LEMBANATO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022010",
+        "tps": "7209022010002",
+        "url": "72\/7209\/720902\/7209022010\/7209022010002.json",
+        "nama": "TPS 002, LEMBANATO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022010",
+        "tps": "7209022010003",
+        "url": "72\/7209\/720902\/7209022010\/7209022010003.json",
+        "nama": "TPS 003, LEMBANATO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022014",
+        "tps": "7209022014001",
+        "url": "72\/7209\/720902\/7209022014\/7209022014001.json",
+        "nama": "TPS 001, MOTOBIAI, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022014",
+        "tps": "7209022014002",
+        "url": "72\/7209\/720902\/7209022014\/7209022014002.json",
+        "nama": "TPS 002, MOTOBIAI, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022005",
+        "tps": "7209022005001",
+        "url": "72\/7209\/720902\/7209022005\/7209022005001.json",
+        "nama": "TPS 001, PULAU ENAM, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022005",
+        "tps": "7209022005002",
+        "url": "72\/7209\/720902\/7209022005\/7209022005002.json",
+        "nama": "TPS 002, PULAU ENAM, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022005",
+        "tps": "7209022005003",
+        "url": "72\/7209\/720902\/7209022005\/7209022005003.json",
+        "nama": "TPS 003, PULAU ENAM, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022015",
+        "tps": "7209022015001",
+        "url": "72\/7209\/720902\/7209022015\/7209022015001.json",
+        "nama": "TPS 001, SAMPOBAE, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022016",
+        "tps": "7209022016001",
+        "url": "72\/7209\/720902\/7209022016\/7209022016001.json",
+        "nama": "TPS 001, TITIRI'I, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022012",
+        "tps": "7209022012001",
+        "url": "72\/7209\/720902\/7209022012\/7209022012001.json",
+        "nama": "TPS 001, TOBIL, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022012",
+        "tps": "7209022012002",
+        "url": "72\/7209\/720902\/7209022012\/7209022012002.json",
+        "nama": "TPS 002, TOBIL, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022004",
+        "tps": "7209022004001",
+        "url": "72\/7209\/720902\/7209022004\/7209022004001.json",
+        "nama": "TPS 001, TONGKABO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022004",
+        "tps": "7209022004002",
+        "url": "72\/7209\/720902\/7209022004\/7209022004002.json",
+        "nama": "TPS 002, TONGKABO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022004",
+        "tps": "7209022004003",
+        "url": "72\/7209\/720902\/7209022004\/7209022004003.json",
+        "nama": "TPS 003, TONGKABO, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720902",
+        "desa": "7209022009",
+        "tps": "7209022009001",
+        "url": "72\/7209\/720902\/7209022009\/7209022009001.json",
+        "nama": "TPS 001, URULEPE, TOGEAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082016",
+        "tps": "7209082016001",
+        "url": "72\/7209\/720908\/7209082016\/7209082016001.json",
+        "nama": "TPS 001, BAHARI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082016",
+        "tps": "7209082016002",
+        "url": "72\/7209\/720908\/7209082016\/7209082016002.json",
+        "nama": "TPS 002, BAHARI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082016",
+        "tps": "7209082016003",
+        "url": "72\/7209\/720908\/7209082016\/7209082016003.json",
+        "nama": "TPS 003, BAHARI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082015",
+        "tps": "7209082015001",
+        "url": "72\/7209\/720908\/7209082015\/7209082015001.json",
+        "nama": "TPS 001, BANANO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082005",
+        "tps": "7209082005001",
+        "url": "72\/7209\/720908\/7209082005\/7209082005001.json",
+        "nama": "TPS 001, BETAUA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082005",
+        "tps": "7209082005002",
+        "url": "72\/7209\/720908\/7209082005\/7209082005002.json",
+        "nama": "TPS 002, BETAUA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082005",
+        "tps": "7209082005003",
+        "url": "72\/7209\/720908\/7209082005\/7209082005003.json",
+        "nama": "TPS 003, BETAUA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082005",
+        "tps": "7209082005004",
+        "url": "72\/7209\/720908\/7209082005\/7209082005004.json",
+        "nama": "TPS 004, BETAUA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082017",
+        "tps": "7209082017001",
+        "url": "72\/7209\/720908\/7209082017\/7209082017001.json",
+        "nama": "TPS 001, BUYUNTARIPA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082012",
+        "tps": "7209082012001",
+        "url": "72\/7209\/720908\/7209082012\/7209082012001.json",
+        "nama": "TPS 001, DATARAN BUGI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082012",
+        "tps": "7209082012002",
+        "url": "72\/7209\/720908\/7209082012\/7209082012002.json",
+        "nama": "TPS 002, DATARAN BUGI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082018",
+        "tps": "7209082018001",
+        "url": "72\/7209\/720908\/7209082018\/7209082018001.json",
+        "nama": "TPS 001, KALEMBA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082018",
+        "tps": "7209082018002",
+        "url": "72\/7209\/720908\/7209082018\/7209082018002.json",
+        "nama": "TPS 002, KALEMBA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082002",
+        "tps": "7209082002001",
+        "url": "72\/7209\/720908\/7209082002\/7209082002001.json",
+        "nama": "TPS 001, KORONDODA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082002",
+        "tps": "7209082002002",
+        "url": "72\/7209\/720908\/7209082002\/7209082002002.json",
+        "nama": "TPS 002, KORONDODA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082001",
+        "tps": "7209082001001",
+        "url": "72\/7209\/720908\/7209082001\/7209082001001.json",
+        "nama": "TPS 001, LEMORO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082001",
+        "tps": "7209082001002",
+        "url": "72\/7209\/720908\/7209082001\/7209082001002.json",
+        "nama": "TPS 002, LEMORO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082001",
+        "tps": "7209082001003",
+        "url": "72\/7209\/720908\/7209082001\/7209082001003.json",
+        "nama": "TPS 003, LEMORO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082009",
+        "tps": "7209082009001",
+        "url": "72\/7209\/720908\/7209082009\/7209082009001.json",
+        "nama": "TPS 001, PANCUMA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082009",
+        "tps": "7209082009002",
+        "url": "72\/7209\/720908\/7209082009\/7209082009002.json",
+        "nama": "TPS 002, PANCUMA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082011",
+        "tps": "7209082011001",
+        "url": "72\/7209\/720908\/7209082011\/7209082011001.json",
+        "nama": "TPS 001, PODI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082011",
+        "tps": "7209082011002",
+        "url": "72\/7209\/720908\/7209082011\/7209082011002.json",
+        "nama": "TPS 002, PODI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082011",
+        "tps": "7209082011003",
+        "url": "72\/7209\/720908\/7209082011\/7209082011003.json",
+        "nama": "TPS 003, PODI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082011",
+        "tps": "7209082011004",
+        "url": "72\/7209\/720908\/7209082011\/7209082011004.json",
+        "nama": "TPS 004, PODI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082007",
+        "tps": "7209082007001",
+        "url": "72\/7209\/720908\/7209082007\/7209082007001.json",
+        "nama": "TPS 001, SANDADA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082007",
+        "tps": "7209082007002",
+        "url": "72\/7209\/720908\/7209082007\/7209082007002.json",
+        "nama": "TPS 002, SANDADA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082007",
+        "tps": "7209082007003",
+        "url": "72\/7209\/720908\/7209082007\/7209082007003.json",
+        "nama": "TPS 003, SANDADA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082003",
+        "tps": "7209082003001",
+        "url": "72\/7209\/720908\/7209082003\/7209082003001.json",
+        "nama": "TPS 001, TAYAWA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082003",
+        "tps": "7209082003002",
+        "url": "72\/7209\/720908\/7209082003\/7209082003002.json",
+        "nama": "TPS 002, TAYAWA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082003",
+        "tps": "7209082003003",
+        "url": "72\/7209\/720908\/7209082003\/7209082003003.json",
+        "nama": "TPS 003, TAYAWA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082003",
+        "tps": "7209082003004",
+        "url": "72\/7209\/720908\/7209082003\/7209082003004.json",
+        "nama": "TPS 004, TAYAWA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082003",
+        "tps": "7209082003005",
+        "url": "72\/7209\/720908\/7209082003\/7209082003005.json",
+        "nama": "TPS 005, TAYAWA, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082008",
+        "tps": "7209082008001",
+        "url": "72\/7209\/720908\/7209082008\/7209082008001.json",
+        "nama": "TPS 001, TOJO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082008",
+        "tps": "7209082008002",
+        "url": "72\/7209\/720908\/7209082008\/7209082008002.json",
+        "nama": "TPS 002, TOJO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082008",
+        "tps": "7209082008003",
+        "url": "72\/7209\/720908\/7209082008\/7209082008003.json",
+        "nama": "TPS 003, TOJO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082008",
+        "tps": "7209082008004",
+        "url": "72\/7209\/720908\/7209082008\/7209082008004.json",
+        "nama": "TPS 004, TOJO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082008",
+        "tps": "7209082008005",
+        "url": "72\/7209\/720908\/7209082008\/7209082008005.json",
+        "nama": "TPS 005, TOJO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082008",
+        "tps": "7209082008006",
+        "url": "72\/7209\/720908\/7209082008\/7209082008006.json",
+        "nama": "TPS 006, TOJO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082008",
+        "tps": "7209082008007",
+        "url": "72\/7209\/720908\/7209082008\/7209082008007.json",
+        "nama": "TPS 007, TOJO, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082010",
+        "tps": "7209082010001",
+        "url": "72\/7209\/720908\/7209082010\/7209082010001.json",
+        "nama": "TPS 001, TONGKU, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082010",
+        "tps": "7209082010002",
+        "url": "72\/7209\/720908\/7209082010\/7209082010002.json",
+        "nama": "TPS 002, TONGKU, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082006",
+        "tps": "7209082006001",
+        "url": "72\/7209\/720908\/7209082006\/7209082006001.json",
+        "nama": "TPS 001, UEDELE, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082006",
+        "tps": "7209082006002",
+        "url": "72\/7209\/720908\/7209082006\/7209082006002.json",
+        "nama": "TPS 002, UEDELE, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082006",
+        "tps": "7209082006003",
+        "url": "72\/7209\/720908\/7209082006\/7209082006003.json",
+        "nama": "TPS 003, UEDELE, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082006",
+        "tps": "7209082006004",
+        "url": "72\/7209\/720908\/7209082006\/7209082006004.json",
+        "nama": "TPS 004, UEDELE, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082004",
+        "tps": "7209082004001",
+        "url": "72\/7209\/720908\/7209082004\/7209082004001.json",
+        "nama": "TPS 001, UEKULI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082004",
+        "tps": "7209082004002",
+        "url": "72\/7209\/720908\/7209082004\/7209082004002.json",
+        "nama": "TPS 002, UEKULI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082004",
+        "tps": "7209082004003",
+        "url": "72\/7209\/720908\/7209082004\/7209082004003.json",
+        "nama": "TPS 003, UEKULI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082004",
+        "tps": "7209082004004",
+        "url": "72\/7209\/720908\/7209082004\/7209082004004.json",
+        "nama": "TPS 004, UEKULI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082004",
+        "tps": "7209082004005",
+        "url": "72\/7209\/720908\/7209082004\/7209082004005.json",
+        "nama": "TPS 005, UEKULI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720908",
+        "desa": "7209082004",
+        "tps": "7209082004006",
+        "url": "72\/7209\/720908\/7209082004\/7209082004006.json",
+        "nama": "TPS 006, UEKULI, TOJO, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072003",
+        "tps": "7209072003001",
+        "url": "72\/7209\/720907\/7209072003\/7209072003001.json",
+        "nama": "TPS 001, BAMBALO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072003",
+        "tps": "7209072003002",
+        "url": "72\/7209\/720907\/7209072003\/7209072003002.json",
+        "nama": "TPS 002, BAMBALO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072004",
+        "tps": "7209072004001",
+        "url": "72\/7209\/720907\/7209072004\/7209072004001.json",
+        "nama": "TPS 001, GALUGA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072004",
+        "tps": "7209072004002",
+        "url": "72\/7209\/720907\/7209072004\/7209072004002.json",
+        "nama": "TPS 002, GALUGA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072004",
+        "tps": "7209072004003",
+        "url": "72\/7209\/720907\/7209072004\/7209072004003.json",
+        "nama": "TPS 003, GALUGA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072010",
+        "tps": "7209072010001",
+        "url": "72\/7209\/720907\/7209072010\/7209072010001.json",
+        "nama": "TPS 001, KABALO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072010",
+        "tps": "7209072010002",
+        "url": "72\/7209\/720907\/7209072010\/7209072010002.json",
+        "nama": "TPS 002, KABALO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072001",
+        "tps": "7209072001001",
+        "url": "72\/7209\/720907\/7209072001\/7209072001001.json",
+        "nama": "TPS 001, MALEI TOJO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072001",
+        "tps": "7209072001002",
+        "url": "72\/7209\/720907\/7209072001\/7209072001002.json",
+        "nama": "TPS 002, MALEI TOJO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072001",
+        "tps": "7209072001003",
+        "url": "72\/7209\/720907\/7209072001\/7209072001003.json",
+        "nama": "TPS 003, MALEI TOJO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072001",
+        "tps": "7209072001004",
+        "url": "72\/7209\/720907\/7209072001\/7209072001004.json",
+        "nama": "TPS 004, MALEI TOJO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072012",
+        "tps": "7209072012001",
+        "url": "72\/7209\/720907\/7209072012\/7209072012001.json",
+        "nama": "TPS 001, MALEWA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072012",
+        "tps": "7209072012002",
+        "url": "72\/7209\/720907\/7209072012\/7209072012002.json",
+        "nama": "TPS 002, MALEWA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072002",
+        "tps": "7209072002001",
+        "url": "72\/7209\/720907\/7209072002\/7209072002001.json",
+        "nama": "TPS 001, MATAKO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072002",
+        "tps": "7209072002002",
+        "url": "72\/7209\/720907\/7209072002\/7209072002002.json",
+        "nama": "TPS 002, MATAKO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072002",
+        "tps": "7209072002003",
+        "url": "72\/7209\/720907\/7209072002\/7209072002003.json",
+        "nama": "TPS 003, MATAKO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072002",
+        "tps": "7209072002004",
+        "url": "72\/7209\/720907\/7209072002\/7209072002004.json",
+        "nama": "TPS 004, MATAKO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072002",
+        "tps": "7209072002005",
+        "url": "72\/7209\/720907\/7209072002\/7209072002005.json",
+        "nama": "TPS 005, MATAKO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072002",
+        "tps": "7209072002006",
+        "url": "72\/7209\/720907\/7209072002\/7209072002006.json",
+        "nama": "TPS 006, MATAKO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072002",
+        "tps": "7209072002007",
+        "url": "72\/7209\/720907\/7209072002\/7209072002007.json",
+        "nama": "TPS 007, MATAKO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072013",
+        "tps": "7209072013001",
+        "url": "72\/7209\/720907\/7209072013\/7209072013001.json",
+        "nama": "TPS 001, MAWOMBA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072013",
+        "tps": "7209072013002",
+        "url": "72\/7209\/720907\/7209072013\/7209072013002.json",
+        "nama": "TPS 002, MAWOMBA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072013",
+        "tps": "7209072013003",
+        "url": "72\/7209\/720907\/7209072013\/7209072013003.json",
+        "nama": "TPS 003, MAWOMBA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072007",
+        "tps": "7209072007001",
+        "url": "72\/7209\/720907\/7209072007\/7209072007001.json",
+        "nama": "TPS 001, NGGAWIA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072007",
+        "tps": "7209072007002",
+        "url": "72\/7209\/720907\/7209072007\/7209072007002.json",
+        "nama": "TPS 002, NGGAWIA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072007",
+        "tps": "7209072007003",
+        "url": "72\/7209\/720907\/7209072007\/7209072007003.json",
+        "nama": "TPS 003, NGGAWIA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072007",
+        "tps": "7209072007004",
+        "url": "72\/7209\/720907\/7209072007\/7209072007004.json",
+        "nama": "TPS 004, NGGAWIA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072011",
+        "tps": "7209072011001",
+        "url": "72\/7209\/720907\/7209072011\/7209072011001.json",
+        "nama": "TPS 001, TANAMAWAU, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072009",
+        "tps": "7209072009001",
+        "url": "72\/7209\/720907\/7209072009\/7209072009001.json",
+        "nama": "TPS 001, TATARI, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072009",
+        "tps": "7209072009002",
+        "url": "72\/7209\/720907\/7209072009\/7209072009002.json",
+        "nama": "TPS 002, TATARI, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072005",
+        "tps": "7209072005001",
+        "url": "72\/7209\/720907\/7209072005\/7209072005001.json",
+        "nama": "TPS 001, TOLIBA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072005",
+        "tps": "7209072005002",
+        "url": "72\/7209\/720907\/7209072005\/7209072005002.json",
+        "nama": "TPS 002, TOLIBA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072005",
+        "tps": "7209072005003",
+        "url": "72\/7209\/720907\/7209072005\/7209072005003.json",
+        "nama": "TPS 003, TOLIBA, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072008",
+        "tps": "7209072008001",
+        "url": "72\/7209\/720907\/7209072008\/7209072008001.json",
+        "nama": "TPS 001, TOMBIANO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072008",
+        "tps": "7209072008002",
+        "url": "72\/7209\/720907\/7209072008\/7209072008002.json",
+        "nama": "TPS 002, TOMBIANO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072008",
+        "tps": "7209072008003",
+        "url": "72\/7209\/720907\/7209072008\/7209072008003.json",
+        "nama": "TPS 003, TOMBIANO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072008",
+        "tps": "7209072008004",
+        "url": "72\/7209\/720907\/7209072008\/7209072008004.json",
+        "nama": "TPS 004, TOMBIANO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072008",
+        "tps": "7209072008005",
+        "url": "72\/7209\/720907\/7209072008\/7209072008005.json",
+        "nama": "TPS 005, TOMBIANO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072008",
+        "tps": "7209072008006",
+        "url": "72\/7209\/720907\/7209072008\/7209072008006.json",
+        "nama": "TPS 006, TOMBIANO, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072006",
+        "tps": "7209072006001",
+        "url": "72\/7209\/720907\/7209072006\/7209072006001.json",
+        "nama": "TPS 001, UJUNG TIBU, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072006",
+        "tps": "7209072006002",
+        "url": "72\/7209\/720907\/7209072006\/7209072006002.json",
+        "nama": "TPS 002, UJUNG TIBU, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720907",
+        "desa": "7209072006",
+        "tps": "7209072006003",
+        "url": "72\/7209\/720907\/7209072006\/7209072006003.json",
+        "nama": "TPS 003, UJUNG TIBU, TOJO BARAT, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062008",
+        "tps": "7209062008001",
+        "url": "72\/7209\/720906\/7209062008\/7209062008001.json",
+        "nama": "TPS 001, BONEBAE I, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062008",
+        "tps": "7209062008002",
+        "url": "72\/7209\/720906\/7209062008\/7209062008002.json",
+        "nama": "TPS 002, BONEBAE I, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062002",
+        "tps": "7209062002001",
+        "url": "72\/7209\/720906\/7209062002\/7209062002001.json",
+        "nama": "TPS 001, BONEBAE II, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062002",
+        "tps": "7209062002002",
+        "url": "72\/7209\/720906\/7209062002\/7209062002002.json",
+        "nama": "TPS 002, BONEBAE II, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062016",
+        "tps": "7209062016001",
+        "url": "72\/7209\/720906\/7209062016\/7209062016001.json",
+        "nama": "TPS 001, BONEVOTO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062016",
+        "tps": "7209062016002",
+        "url": "72\/7209\/720906\/7209062016\/7209062016002.json",
+        "nama": "TPS 002, BONEVOTO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062016",
+        "tps": "7209062016003",
+        "url": "72\/7209\/720906\/7209062016\/7209062016003.json",
+        "nama": "TPS 003, BONEVOTO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062016",
+        "tps": "7209062016004",
+        "url": "72\/7209\/720906\/7209062016\/7209062016004.json",
+        "nama": "TPS 004, BONEVOTO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062016",
+        "tps": "7209062016005",
+        "url": "72\/7209\/720906\/7209062016\/7209062016005.json",
+        "nama": "TPS 005, BONEVOTO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062016",
+        "tps": "7209062016006",
+        "url": "72\/7209\/720906\/7209062016\/7209062016006.json",
+        "nama": "TPS 006, BONEVOTO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062013",
+        "tps": "7209062013001",
+        "url": "72\/7209\/720906\/7209062013\/7209062013001.json",
+        "nama": "TPS 001, BONGKA MAKMUR, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062013",
+        "tps": "7209062013002",
+        "url": "72\/7209\/720906\/7209062013\/7209062013002.json",
+        "nama": "TPS 002, BONGKA MAKMUR, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062013",
+        "tps": "7209062013003",
+        "url": "72\/7209\/720906\/7209062013\/7209062013003.json",
+        "nama": "TPS 003, BONGKA MAKMUR, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062013",
+        "tps": "7209062013004",
+        "url": "72\/7209\/720906\/7209062013\/7209062013004.json",
+        "nama": "TPS 004, BONGKA MAKMUR, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062017",
+        "tps": "7209062017001",
+        "url": "72\/7209\/720906\/7209062017\/7209062017001.json",
+        "nama": "TPS 001, BONGKAKOY, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062017",
+        "tps": "7209062017002",
+        "url": "72\/7209\/720906\/7209062017\/7209062017002.json",
+        "nama": "TPS 002, BONGKAKOY, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062012",
+        "tps": "7209062012001",
+        "url": "72\/7209\/720906\/7209062012\/7209062012001.json",
+        "nama": "TPS 001, BORNEANG, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062012",
+        "tps": "7209062012002",
+        "url": "72\/7209\/720906\/7209062012\/7209062012002.json",
+        "nama": "TPS 002, BORNEANG, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062012",
+        "tps": "7209062012003",
+        "url": "72\/7209\/720906\/7209062012\/7209062012003.json",
+        "nama": "TPS 003, BORNEANG, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062012",
+        "tps": "7209062012004",
+        "url": "72\/7209\/720906\/7209062012\/7209062012004.json",
+        "nama": "TPS 004, BORNEANG, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062015",
+        "tps": "7209062015001",
+        "url": "72\/7209\/720906\/7209062015\/7209062015001.json",
+        "nama": "TPS 001, CEMPA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062015",
+        "tps": "7209062015002",
+        "url": "72\/7209\/720906\/7209062015\/7209062015002.json",
+        "nama": "TPS 002, CEMPA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062019",
+        "tps": "7209062019001",
+        "url": "72\/7209\/720906\/7209062019\/7209062019001.json",
+        "nama": "TPS 001, KASIALA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062019",
+        "tps": "7209062019002",
+        "url": "72\/7209\/720906\/7209062019\/7209062019002.json",
+        "nama": "TPS 002, KASIALA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062019",
+        "tps": "7209062019003",
+        "url": "72\/7209\/720906\/7209062019\/7209062019003.json",
+        "nama": "TPS 003, KASIALA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062019",
+        "tps": "7209062019004",
+        "url": "72\/7209\/720906\/7209062019\/7209062019004.json",
+        "nama": "TPS 004, KASIALA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062019",
+        "tps": "7209062019005",
+        "url": "72\/7209\/720906\/7209062019\/7209062019005.json",
+        "nama": "TPS 005, KASIALA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062019",
+        "tps": "7209062019006",
+        "url": "72\/7209\/720906\/7209062019\/7209062019006.json",
+        "nama": "TPS 006, KASIALA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062019",
+        "tps": "7209062019007",
+        "url": "72\/7209\/720906\/7209062019\/7209062019007.json",
+        "nama": "TPS 007, KASIALA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062019",
+        "tps": "7209062019008",
+        "url": "72\/7209\/720906\/7209062019\/7209062019008.json",
+        "nama": "TPS 008, KASIALA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062011",
+        "tps": "7209062011001",
+        "url": "72\/7209\/720906\/7209062011\/7209062011001.json",
+        "nama": "TPS 001, MAROWO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062011",
+        "tps": "7209062011002",
+        "url": "72\/7209\/720906\/7209062011\/7209062011002.json",
+        "nama": "TPS 002, MAROWO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062011",
+        "tps": "7209062011003",
+        "url": "72\/7209\/720906\/7209062011\/7209062011003.json",
+        "nama": "TPS 003, MAROWO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062011",
+        "tps": "7209062011004",
+        "url": "72\/7209\/720906\/7209062011\/7209062011004.json",
+        "nama": "TPS 004, MAROWO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062011",
+        "tps": "7209062011005",
+        "url": "72\/7209\/720906\/7209062011\/7209062011005.json",
+        "nama": "TPS 005, MAROWO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062011",
+        "tps": "7209062011006",
+        "url": "72\/7209\/720906\/7209062011\/7209062011006.json",
+        "nama": "TPS 006, MAROWO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062011",
+        "tps": "7209062011007",
+        "url": "72\/7209\/720906\/7209062011\/7209062011007.json",
+        "nama": "TPS 007, MAROWO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062010",
+        "tps": "7209062010001",
+        "url": "72\/7209\/720906\/7209062010\/7209062010001.json",
+        "nama": "TPS 001, MIRE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062010",
+        "tps": "7209062010002",
+        "url": "72\/7209\/720906\/7209062010\/7209062010002.json",
+        "nama": "TPS 002, MIRE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062010",
+        "tps": "7209062010003",
+        "url": "72\/7209\/720906\/7209062010\/7209062010003.json",
+        "nama": "TPS 003, MIRE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062007",
+        "tps": "7209062007001",
+        "url": "72\/7209\/720906\/7209062007\/7209062007001.json",
+        "nama": "TPS 001, PARANONGE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062004",
+        "tps": "7209062004001",
+        "url": "72\/7209\/720906\/7209062004\/7209062004001.json",
+        "nama": "TPS 001, ROMPI, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062018",
+        "tps": "7209062018001",
+        "url": "72\/7209\/720906\/7209062018\/7209062018001.json",
+        "nama": "TPS 001, TAKIBANGKE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062018",
+        "tps": "7209062018002",
+        "url": "72\/7209\/720906\/7209062018\/7209062018002.json",
+        "nama": "TPS 002, TAKIBANGKE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062018",
+        "tps": "7209062018003",
+        "url": "72\/7209\/720906\/7209062018\/7209062018003.json",
+        "nama": "TPS 003, TAKIBANGKE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062018",
+        "tps": "7209062018004",
+        "url": "72\/7209\/720906\/7209062018\/7209062018004.json",
+        "nama": "TPS 004, TAKIBANGKE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062018",
+        "tps": "7209062018005",
+        "url": "72\/7209\/720906\/7209062018\/7209062018005.json",
+        "nama": "TPS 005, TAKIBANGKE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062018",
+        "tps": "7209062018006",
+        "url": "72\/7209\/720906\/7209062018\/7209062018006.json",
+        "nama": "TPS 006, TAKIBANGKE, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062001",
+        "tps": "7209062001001",
+        "url": "72\/7209\/720906\/7209062001\/7209062001001.json",
+        "nama": "TPS 001, TAMPANOMBO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062001",
+        "tps": "7209062001002",
+        "url": "72\/7209\/720906\/7209062001\/7209062001002.json",
+        "nama": "TPS 002, TAMPANOMBO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062003",
+        "tps": "7209062003001",
+        "url": "72\/7209\/720906\/7209062003\/7209062003001.json",
+        "nama": "TPS 001, TOBAMAU, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062003",
+        "tps": "7209062003002",
+        "url": "72\/7209\/720906\/7209062003\/7209062003002.json",
+        "nama": "TPS 002, TOBAMAU, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062006",
+        "tps": "7209062006001",
+        "url": "72\/7209\/720906\/7209062006\/7209062006001.json",
+        "nama": "TPS 001, UEKAMBUNO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062006",
+        "tps": "7209062006002",
+        "url": "72\/7209\/720906\/7209062006\/7209062006002.json",
+        "nama": "TPS 002, UEKAMBUNO, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062005",
+        "tps": "7209062005001",
+        "url": "72\/7209\/720906\/7209062005\/7209062005001.json",
+        "nama": "TPS 001, UEMATOPA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062005",
+        "tps": "7209062005002",
+        "url": "72\/7209\/720906\/7209062005\/7209062005002.json",
+        "nama": "TPS 002, UEMATOPA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062005",
+        "tps": "7209062005003",
+        "url": "72\/7209\/720906\/7209062005\/7209062005003.json",
+        "nama": "TPS 003, UEMATOPA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062005",
+        "tps": "7209062005004",
+        "url": "72\/7209\/720906\/7209062005\/7209062005004.json",
+        "nama": "TPS 004, UEMATOPA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062005",
+        "tps": "7209062005005",
+        "url": "72\/7209\/720906\/7209062005\/7209062005005.json",
+        "nama": "TPS 005, UEMATOPA, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062009",
+        "tps": "7209062009001",
+        "url": "72\/7209\/720906\/7209062009\/7209062009001.json",
+        "nama": "TPS 001, WATUSONGU, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720906",
+        "desa": "7209062009",
+        "tps": "7209062009002",
+        "url": "72\/7209\/720906\/7209062009\/7209062009002.json",
+        "nama": "TPS 002, WATUSONGU, ULUBONGKA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012006",
+        "tps": "7209012006001",
+        "url": "72\/7209\/720901\/7209012006\/7209012006001.json",
+        "nama": "TPS 001, BAMBU, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012006",
+        "tps": "7209012006002",
+        "url": "72\/7209\/720901\/7209012006\/7209012006002.json",
+        "nama": "TPS 002, BAMBU, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012006",
+        "tps": "7209012006003",
+        "url": "72\/7209\/720901\/7209012006\/7209012006003.json",
+        "nama": "TPS 003, BAMBU, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012006",
+        "tps": "7209012006004",
+        "url": "72\/7209\/720901\/7209012006\/7209012006004.json",
+        "nama": "TPS 004, BAMBU, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012015",
+        "tps": "7209012015001",
+        "url": "72\/7209\/720901\/7209012015\/7209012015001.json",
+        "nama": "TPS 001, BINANGUNA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012015",
+        "tps": "7209012015002",
+        "url": "72\/7209\/720901\/7209012015\/7209012015002.json",
+        "nama": "TPS 002, BINANGUNA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012015",
+        "tps": "7209012015003",
+        "url": "72\/7209\/720901\/7209012015\/7209012015003.json",
+        "nama": "TPS 003, BINANGUNA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012014",
+        "tps": "7209012014001",
+        "url": "72\/7209\/720901\/7209012014\/7209012014001.json",
+        "nama": "TPS 001, CENDANA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012017",
+        "tps": "7209012017001",
+        "url": "72\/7209\/720901\/7209012017\/7209012017001.json",
+        "nama": "TPS 001, KAVETAN, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012017",
+        "tps": "7209012017002",
+        "url": "72\/7209\/720901\/7209012017\/7209012017002.json",
+        "nama": "TPS 002, KAVETAN, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012017",
+        "tps": "7209012017003",
+        "url": "72\/7209\/720901\/7209012017\/7209012017003.json",
+        "nama": "TPS 003, KAVETAN, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012010",
+        "tps": "7209012010001",
+        "url": "72\/7209\/720901\/7209012010\/7209012010001.json",
+        "nama": "TPS 001, LEMBANYA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012019",
+        "tps": "7209012019001",
+        "url": "72\/7209\/720901\/7209012019\/7209012019001.json",
+        "nama": "TPS 001, LUANGON, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012019",
+        "tps": "7209012019002",
+        "url": "72\/7209\/720901\/7209012019\/7209012019002.json",
+        "nama": "TPS 002, LUANGON, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012018",
+        "tps": "7209012018001",
+        "url": "72\/7209\/720901\/7209012018\/7209012018001.json",
+        "nama": "TPS 001, TANIMPO, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012018",
+        "tps": "7209012018002",
+        "url": "72\/7209\/720901\/7209012018\/7209012018002.json",
+        "nama": "TPS 002, TANIMPO, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012005",
+        "tps": "7209012005001",
+        "url": "72\/7209\/720901\/7209012005\/7209012005001.json",
+        "nama": "TPS 001, TANINGKOLA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012005",
+        "tps": "7209012005002",
+        "url": "72\/7209\/720901\/7209012005\/7209012005002.json",
+        "nama": "TPS 002, TANINGKOLA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012005",
+        "tps": "7209012005003",
+        "url": "72\/7209\/720901\/7209012005\/7209012005003.json",
+        "nama": "TPS 003, TANINGKOLA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012009",
+        "tps": "7209012009001",
+        "url": "72\/7209\/720901\/7209012009\/7209012009001.json",
+        "nama": "TPS 001, TANJUNG PUDE, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012008",
+        "tps": "7209012008001",
+        "url": "72\/7209\/720901\/7209012008\/7209012008001.json",
+        "nama": "TPS 001, UNA-UNA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012008",
+        "tps": "7209012008002",
+        "url": "72\/7209\/720901\/7209012008\/7209012008002.json",
+        "nama": "TPS 002, UNA-UNA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012008",
+        "tps": "7209012008003",
+        "url": "72\/7209\/720901\/7209012008\/7209012008003.json",
+        "nama": "TPS 003, UNA-UNA, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012007",
+        "tps": "7209012007001",
+        "url": "72\/7209\/720901\/7209012007\/7209012007001.json",
+        "nama": "TPS 001, WAKAI, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012007",
+        "tps": "7209012007002",
+        "url": "72\/7209\/720901\/7209012007\/7209012007002.json",
+        "nama": "TPS 002, WAKAI, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012007",
+        "tps": "7209012007003",
+        "url": "72\/7209\/720901\/7209012007\/7209012007003.json",
+        "nama": "TPS 003, WAKAI, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012007",
+        "tps": "7209012007004",
+        "url": "72\/7209\/720901\/7209012007\/7209012007004.json",
+        "nama": "TPS 004, WAKAI, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012007",
+        "tps": "7209012007005",
+        "url": "72\/7209\/720901\/7209012007\/7209012007005.json",
+        "nama": "TPS 005, WAKAI, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012007",
+        "tps": "7209012007006",
+        "url": "72\/7209\/720901\/7209012007\/7209012007006.json",
+        "nama": "TPS 006, WAKAI, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720901",
+        "desa": "7209012007",
+        "tps": "7209012007007",
+        "url": "72\/7209\/720901\/7209012007\/7209012007007.json",
+        "nama": "TPS 007, WAKAI, UNA UNA, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092001",
+        "tps": "7209092001001",
+        "url": "72\/7209\/720909\/7209092001\/7209092001001.json",
+        "nama": "TPS 001, BIGA, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092001",
+        "tps": "7209092001002",
+        "url": "72\/7209\/720909\/7209092001\/7209092001002.json",
+        "nama": "TPS 002, BIGA, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092007",
+        "tps": "7209092007001",
+        "url": "72\/7209\/720909\/7209092007\/7209092007001.json",
+        "nama": "TPS 001, KATOGOP, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092007",
+        "tps": "7209092007002",
+        "url": "72\/7209\/720909\/7209092007\/7209092007002.json",
+        "nama": "TPS 002, KATOGOP, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092007",
+        "tps": "7209092007003",
+        "url": "72\/7209\/720909\/7209092007\/7209092007003.json",
+        "nama": "TPS 003, KATOGOP, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092006",
+        "tps": "7209092006001",
+        "url": "72\/7209\/720909\/7209092006\/7209092006001.json",
+        "nama": "TPS 001, KONDONGAN, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092006",
+        "tps": "7209092006002",
+        "url": "72\/7209\/720909\/7209092006\/7209092006002.json",
+        "nama": "TPS 002, KONDONGAN, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092004",
+        "tps": "7209092004001",
+        "url": "72\/7209\/720909\/7209092004\/7209092004001.json",
+        "nama": "TPS 001, MALAPO, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092005",
+        "tps": "7209092005001",
+        "url": "72\/7209\/720909\/7209092005\/7209092005001.json",
+        "nama": "TPS 001, PASOKAN, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092005",
+        "tps": "7209092005002",
+        "url": "72\/7209\/720909\/7209092005\/7209092005002.json",
+        "nama": "TPS 002, PASOKAN, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092005",
+        "tps": "7209092005003",
+        "url": "72\/7209\/720909\/7209092005\/7209092005003.json",
+        "nama": "TPS 003, PASOKAN, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092005",
+        "tps": "7209092005004",
+        "url": "72\/7209\/720909\/7209092005\/7209092005004.json",
+        "nama": "TPS 004, PASOKAN, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092005",
+        "tps": "7209092005005",
+        "url": "72\/7209\/720909\/7209092005\/7209092005005.json",
+        "nama": "TPS 005, PASOKAN, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092005",
+        "tps": "7209092005006",
+        "url": "72\/7209\/720909\/7209092005\/7209092005006.json",
+        "nama": "TPS 006, PASOKAN, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092002",
+        "tps": "7209092002001",
+        "url": "72\/7209\/720909\/7209092002\/7209092002001.json",
+        "nama": "TPS 001, SALINGGOHA, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092002",
+        "tps": "7209092002002",
+        "url": "72\/7209\/720909\/7209092002\/7209092002002.json",
+        "nama": "TPS 002, SALINGGOHA, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092003",
+        "tps": "7209092003001",
+        "url": "72\/7209\/720909\/7209092003\/7209092003001.json",
+        "nama": "TPS 001, TINGKI, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720909",
+        "desa": "7209092008",
+        "tps": "7209092008001",
+        "url": "72\/7209\/720909\/7209092008\/7209092008001.json",
+        "nama": "TPS 001, TONGIDON, WALEA BESAR, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032010",
+        "tps": "7209032010001",
+        "url": "72\/7209\/720903\/7209032010\/7209032010001.json",
+        "nama": "TPS 001, DOLONG A, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032010",
+        "tps": "7209032010002",
+        "url": "72\/7209\/720903\/7209032010\/7209032010002.json",
+        "nama": "TPS 002, DOLONG A, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032010",
+        "tps": "7209032010003",
+        "url": "72\/7209\/720903\/7209032010\/7209032010003.json",
+        "nama": "TPS 003, DOLONG A, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032008",
+        "tps": "7209032008001",
+        "url": "72\/7209\/720903\/7209032008\/7209032008001.json",
+        "nama": "TPS 001, DOLONG B, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032008",
+        "tps": "7209032008002",
+        "url": "72\/7209\/720903\/7209032008\/7209032008002.json",
+        "nama": "TPS 002, DOLONG B, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032008",
+        "tps": "7209032008003",
+        "url": "72\/7209\/720903\/7209032008\/7209032008003.json",
+        "nama": "TPS 003, DOLONG B, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032008",
+        "tps": "7209032008004",
+        "url": "72\/7209\/720903\/7209032008\/7209032008004.json",
+        "nama": "TPS 004, DOLONG B, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032018",
+        "tps": "7209032018001",
+        "url": "72\/7209\/720903\/7209032018\/7209032018001.json",
+        "nama": "TPS 001, KOLAMI, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032018",
+        "tps": "7209032018002",
+        "url": "72\/7209\/720903\/7209032018\/7209032018002.json",
+        "nama": "TPS 002, KOLAMI, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032023",
+        "tps": "7209032023001",
+        "url": "72\/7209\/720903\/7209032023\/7209032023001.json",
+        "nama": "TPS 001, LOE, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032016",
+        "tps": "7209032016001",
+        "url": "72\/7209\/720903\/7209032016\/7209032016001.json",
+        "nama": "TPS 001, LUOK, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032020",
+        "tps": "7209032020001",
+        "url": "72\/7209\/720903\/7209032020\/7209032020001.json",
+        "nama": "TPS 001, OLILAN, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032007",
+        "tps": "7209032007001",
+        "url": "72\/7209\/720903\/7209032007\/7209032007001.json",
+        "nama": "TPS 001, POPOLII, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032007",
+        "tps": "7209032007002",
+        "url": "72\/7209\/720903\/7209032007\/7209032007002.json",
+        "nama": "TPS 002, POPOLII, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032007",
+        "tps": "7209032007003",
+        "url": "72\/7209\/720903\/7209032007\/7209032007003.json",
+        "nama": "TPS 003, POPOLII, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032006",
+        "tps": "7209032006001",
+        "url": "72\/7209\/720903\/7209032006\/7209032006001.json",
+        "nama": "TPS 001, TIGA PULAU, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032006",
+        "tps": "7209032006002",
+        "url": "72\/7209\/720903\/7209032006\/7209032006002.json",
+        "nama": "TPS 002, TIGA PULAU, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032009",
+        "tps": "7209032009001",
+        "url": "72\/7209\/720903\/7209032009\/7209032009001.json",
+        "nama": "TPS 001, TUTUNG, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    },
+    {
+        "provinsi": "72",
+        "kabupaten": "7209",
+        "kecamatan": "720903",
+        "desa": "7209032009",
+        "tps": "7209032009002",
+        "url": "72\/7209\/720903\/7209032009\/7209032009002.json",
+        "nama": "TPS 002, TUTUNG, WALEA KEPULAUAN, TOJO UNA UNA, SULAWESI TENGAH"
+    }
+]

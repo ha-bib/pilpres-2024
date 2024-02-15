@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "14",
+        "kabupaten": "1472",
+        "kecamatan": "147203",
+        "desa": "1472031001",
+        "tps": "1472031001006",
+        "nama": "TPS 006, BUKIT NENAS, BUKIT KAPUR, KOTA DUMAI, RIAU",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1472\/147203\/1472031001\/1472031001006"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1472",
+        "kecamatan": "147201",
+        "desa": "1472011008",
+        "tps": "1472011008015",
+        "nama": "TPS 015, BAGAN KELADI, DUMAI BARAT, KOTA DUMAI, RIAU",
+        "selisih": -600,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1472\/147201\/1472011008\/1472011008015"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1472",
+        "kecamatan": "147207",
+        "desa": "1472071001",
+        "tps": "1472071001030",
+        "nama": "TPS 030, RATU SIMA, DUMAI SELATAN, KOTA DUMAI, RIAU",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1472\/147207\/1472071001\/1472071001030"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1472",
+        "kecamatan": "147202",
+        "desa": "1472021004",
+        "tps": "1472021004014",
+        "nama": "TPS 014, JAYA MUKTI, DUMAI TIMUR, KOTA DUMAI, RIAU",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1472\/147202\/1472021004\/1472021004014"
+    }
+]

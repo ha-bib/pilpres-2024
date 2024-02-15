@@ -1,0 +1,56 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AU",
+        "kecamatan": "99AU01",
+        "desa": "99AU010001",
+        "tps": "99AU010001005",
+        "url": "99\/99AU\/99AU01\/99AU010001\/99AU010001005.json",
+        "nama": "KSK 001, Vancouver, Kanada, Vancouver, Kanada, Vancouver, Kanada, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AU",
+        "kecamatan": "99AU01",
+        "desa": "99AU010001",
+        "tps": "99AU010001006",
+        "url": "99\/99AU\/99AU01\/99AU010001\/99AU010001006.json",
+        "nama": "KSK 002, Vancouver, Kanada, Vancouver, Kanada, Vancouver, Kanada, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AU",
+        "kecamatan": "99AU01",
+        "desa": "99AU010001",
+        "tps": "99AU010001001",
+        "url": "99\/99AU\/99AU01\/99AU010001\/99AU010001001.json",
+        "nama": "POS 001, Vancouver, Kanada, Vancouver, Kanada, Vancouver, Kanada, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AU",
+        "kecamatan": "99AU01",
+        "desa": "99AU010001",
+        "tps": "99AU010001002",
+        "url": "99\/99AU\/99AU01\/99AU010001\/99AU010001002.json",
+        "nama": "TPS 001, Vancouver, Kanada, Vancouver, Kanada, Vancouver, Kanada, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AU",
+        "kecamatan": "99AU01",
+        "desa": "99AU010001",
+        "tps": "99AU010001003",
+        "url": "99\/99AU\/99AU01\/99AU010001\/99AU010001003.json",
+        "nama": "TPS 002, Vancouver, Kanada, Vancouver, Kanada, Vancouver, Kanada, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AU",
+        "kecamatan": "99AU01",
+        "desa": "99AU010001",
+        "tps": "99AU010001004",
+        "url": "99\/99AU\/99AU01\/99AU010001\/99AU010001004.json",
+        "nama": "TPS 003, Vancouver, Kanada, Vancouver, Kanada, Vancouver, Kanada, Luar Negeri"
+    }
+]

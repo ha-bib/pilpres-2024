@@ -1,0 +1,4493 @@
+[
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032003",
+        "tps": "9403032003001",
+        "url": "94\/9403\/940303\/9403032003\/9403032003001.json",
+        "nama": "TPS 001, ABATADI, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032003",
+        "tps": "9403032003002",
+        "url": "94\/9403\/940303\/9403032003\/9403032003002.json",
+        "nama": "TPS 002, ABATADI, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032003",
+        "tps": "9403032003003",
+        "url": "94\/9403\/940303\/9403032003\/9403032003003.json",
+        "nama": "TPS 003, ABATADI, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032002",
+        "tps": "9403032002001",
+        "url": "94\/9403\/940303\/9403032002\/9403032002001.json",
+        "nama": "TPS 001, AGAPO, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032002",
+        "tps": "9403032002002",
+        "url": "94\/9403\/940303\/9403032002\/9403032002002.json",
+        "nama": "TPS 002, AGAPO, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032005",
+        "tps": "9403032005001",
+        "url": "94\/9403\/940303\/9403032005\/9403032005001.json",
+        "nama": "TPS 001, BAGUWO, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032009",
+        "tps": "9403032009001",
+        "url": "94\/9403\/940303\/9403032009\/9403032009001.json",
+        "nama": "TPS 001, DINUBUTU, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032009",
+        "tps": "9403032009002",
+        "url": "94\/9403\/940303\/9403032009\/9403032009002.json",
+        "nama": "TPS 002, DINUBUTU, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032013",
+        "tps": "9403032013001",
+        "url": "94\/9403\/940303\/9403032013\/9403032013001.json",
+        "nama": "TPS 001, DUWADIDE, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032013",
+        "tps": "9403032013002",
+        "url": "94\/9403\/940303\/9403032013\/9403032013002.json",
+        "nama": "TPS 002, DUWADIDE, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032008",
+        "tps": "9403032008001",
+        "url": "94\/9403\/940303\/9403032008\/9403032008001.json",
+        "nama": "TPS 001, EMAI, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032008",
+        "tps": "9403032008002",
+        "url": "94\/9403\/940303\/9403032008\/9403032008002.json",
+        "nama": "TPS 002, EMAI, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032007",
+        "tps": "9403032007001",
+        "url": "94\/9403\/940303\/9403032007\/9403032007001.json",
+        "nama": "TPS 001, TAGIYA, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032001",
+        "tps": "9403032001001",
+        "url": "94\/9403\/940303\/9403032001\/9403032001001.json",
+        "nama": "TPS 001, TOYAIMOTI, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032001",
+        "tps": "9403032001002",
+        "url": "94\/9403\/940303\/9403032001\/9403032001002.json",
+        "nama": "TPS 002, TOYAIMOTI, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940303",
+        "desa": "9403032001",
+        "tps": "9403032001003",
+        "url": "94\/9403\/940303\/9403032001\/9403032001003.json",
+        "nama": "TPS 003, TOYAIMOTI, ARADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222004",
+        "tps": "9403222004001",
+        "url": "94\/9403\/940322\/9403222004\/9403222004001.json",
+        "nama": "TPS 001, BUMAIDA, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222004",
+        "tps": "9403222004002",
+        "url": "94\/9403\/940322\/9403222004\/9403222004002.json",
+        "nama": "TPS 002, BUMAIDA, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222005",
+        "tps": "9403222005001",
+        "url": "94\/9403\/940322\/9403222005\/9403222005001.json",
+        "nama": "TPS 001, DEBAIYE, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222005",
+        "tps": "9403222005002",
+        "url": "94\/9403\/940322\/9403222005\/9403222005002.json",
+        "nama": "TPS 002, DEBAIYE, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222001",
+        "tps": "9403222001001",
+        "url": "94\/9403\/940322\/9403222001\/9403222001001.json",
+        "nama": "TPS 001, DETA, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222001",
+        "tps": "9403222001002",
+        "url": "94\/9403\/940322\/9403222001\/9403222001002.json",
+        "nama": "TPS 002, DETA, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222007",
+        "tps": "9403222007001",
+        "url": "94\/9403\/940322\/9403222007\/9403222007001.json",
+        "nama": "TPS 001, KOMOPA, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222002",
+        "tps": "9403222002001",
+        "url": "94\/9403\/940322\/9403222002\/9403222002001.json",
+        "nama": "TPS 001, TUGUWAI, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222002",
+        "tps": "9403222002002",
+        "url": "94\/9403\/940322\/9403222002\/9403222002002.json",
+        "nama": "TPS 002, TUGUWAI, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222002",
+        "tps": "9403222002003",
+        "url": "94\/9403\/940322\/9403222002\/9403222002003.json",
+        "nama": "TPS 003, TUGUWAI, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222003",
+        "tps": "9403222003001",
+        "url": "94\/9403\/940322\/9403222003\/9403222003001.json",
+        "nama": "TPS 001, TUGUWAI MOMA, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940322",
+        "desa": "9403222003",
+        "tps": "9403222003002",
+        "url": "94\/9403\/940322\/9403222003\/9403222003002.json",
+        "nama": "TPS 002, TUGUWAI MOMA, AWEIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192003",
+        "tps": "9403192003001",
+        "url": "94\/9403\/940319\/9403192003\/9403192003001.json",
+        "nama": "TPS 001, BAYA BIRU, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192004",
+        "tps": "9403192004001",
+        "url": "94\/9403\/940319\/9403192004\/9403192004001.json",
+        "nama": "TPS 001, JIGITOPA TIMUR, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192004",
+        "tps": "9403192004002",
+        "url": "94\/9403\/940319\/9403192004\/9403192004002.json",
+        "nama": "TPS 002, JIGITOPA TIMUR, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192004",
+        "tps": "9403192004003",
+        "url": "94\/9403\/940319\/9403192004\/9403192004003.json",
+        "nama": "TPS 003, JIGITOPA TIMUR, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192005",
+        "tps": "9403192005001",
+        "url": "94\/9403\/940319\/9403192005\/9403192005001.json",
+        "nama": "TPS 001, MAATADI, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192005",
+        "tps": "9403192005002",
+        "url": "94\/9403\/940319\/9403192005\/9403192005002.json",
+        "nama": "TPS 002, MAATADI, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192005",
+        "tps": "9403192005003",
+        "url": "94\/9403\/940319\/9403192005\/9403192005003.json",
+        "nama": "TPS 003, MAATADI, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192005",
+        "tps": "9403192005004",
+        "url": "94\/9403\/940319\/9403192005\/9403192005004.json",
+        "nama": "TPS 004, MAATADI, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192005",
+        "tps": "9403192005005",
+        "url": "94\/9403\/940319\/9403192005\/9403192005005.json",
+        "nama": "TPS 005, MAATADI, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192005",
+        "tps": "9403192005006",
+        "url": "94\/9403\/940319\/9403192005\/9403192005006.json",
+        "nama": "TPS 006, MAATADI, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192001",
+        "tps": "9403192001001",
+        "url": "94\/9403\/940319\/9403192001\/9403192001001.json",
+        "nama": "TPS 001, NOMOUWODIDE, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192001",
+        "tps": "9403192001002",
+        "url": "94\/9403\/940319\/9403192001\/9403192001002.json",
+        "nama": "TPS 002, NOMOUWODIDE, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192001",
+        "tps": "9403192001003",
+        "url": "94\/9403\/940319\/9403192001\/9403192001003.json",
+        "nama": "TPS 003, NOMOUWODIDE, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192002",
+        "tps": "9403192002001",
+        "url": "94\/9403\/940319\/9403192002\/9403192002001.json",
+        "nama": "TPS 001, PIKOKEBO, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192006",
+        "tps": "9403192006001",
+        "url": "94\/9403\/940319\/9403192006\/9403192006001.json",
+        "nama": "TPS 001, PUPEKEBO, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940319",
+        "desa": "9403192006",
+        "tps": "9403192006002",
+        "url": "94\/9403\/940319\/9403192006\/9403192006002.json",
+        "nama": "TPS 002, PUPEKEBO, BAYA BIRU, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403051001",
+        "tps": "9403051001001",
+        "url": "94\/9403\/940305\/9403051001\/9403051001001.json",
+        "nama": "TPS 001, BIBIDA, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403051001",
+        "tps": "9403051001002",
+        "url": "94\/9403\/940305\/9403051001\/9403051001002.json",
+        "nama": "TPS 002, BIBIDA, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052007",
+        "tps": "9403052007001",
+        "url": "94\/9403\/940305\/9403052007\/9403052007001.json",
+        "nama": "TPS 001, DAMA-DAMA, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052007",
+        "tps": "9403052007002",
+        "url": "94\/9403\/940305\/9403052007\/9403052007002.json",
+        "nama": "TPS 002, DAMA-DAMA, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052006",
+        "tps": "9403052006001",
+        "url": "94\/9403\/940305\/9403052006\/9403052006001.json",
+        "nama": "TPS 001, KOLAITAGA, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052006",
+        "tps": "9403052006002",
+        "url": "94\/9403\/940305\/9403052006\/9403052006002.json",
+        "nama": "TPS 002, KOLAITAGA, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052005",
+        "tps": "9403052005001",
+        "url": "94\/9403\/940305\/9403052005\/9403052005001.json",
+        "nama": "TPS 001, KUGAISIGA, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052005",
+        "tps": "9403052005002",
+        "url": "94\/9403\/940305\/9403052005\/9403052005002.json",
+        "nama": "TPS 002, KUGAISIGA, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052003",
+        "tps": "9403052003001",
+        "url": "94\/9403\/940305\/9403052003\/9403052003001.json",
+        "nama": "TPS 001, ODIYAI, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052003",
+        "tps": "9403052003002",
+        "url": "94\/9403\/940305\/9403052003\/9403052003002.json",
+        "nama": "TPS 002, ODIYAI, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052004",
+        "tps": "9403052004001",
+        "url": "94\/9403\/940305\/9403052004\/9403052004001.json",
+        "nama": "TPS 001, TUWAKTU, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052004",
+        "tps": "9403052004002",
+        "url": "94\/9403\/940305\/9403052004\/9403052004002.json",
+        "nama": "TPS 002, TUWAKTU, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052002",
+        "tps": "9403052002001",
+        "url": "94\/9403\/940305\/9403052002\/9403052002001.json",
+        "nama": "TPS 001, UGIDIMI, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940305",
+        "desa": "9403052002",
+        "tps": "9403052002002",
+        "url": "94\/9403\/940305\/9403052002\/9403052002002.json",
+        "nama": "TPS 002, UGIDIMI, BIBIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042001",
+        "tps": "9403042001001",
+        "url": "94\/9403\/940304\/9403042001\/9403042001001.json",
+        "nama": "TPS 001, BOGOBAIDA, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042001",
+        "tps": "9403042001002",
+        "url": "94\/9403\/940304\/9403042001\/9403042001002.json",
+        "nama": "TPS 002, BOGOBAIDA, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042001",
+        "tps": "9403042001003",
+        "url": "94\/9403\/940304\/9403042001\/9403042001003.json",
+        "nama": "TPS 003, BOGOBAIDA, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042007",
+        "tps": "9403042007001",
+        "url": "94\/9403\/940304\/9403042007\/9403042007001.json",
+        "nama": "TPS 001, EYAPOUDA, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042007",
+        "tps": "9403042007002",
+        "url": "94\/9403\/940304\/9403042007\/9403042007002.json",
+        "nama": "TPS 002, EYAPOUDA, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042004",
+        "tps": "9403042004001",
+        "url": "94\/9403\/940304\/9403042004\/9403042004001.json",
+        "nama": "TPS 001, JIBUDIDE II, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042004",
+        "tps": "9403042004002",
+        "url": "94\/9403\/940304\/9403042004\/9403042004002.json",
+        "nama": "TPS 002, JIBUDIDE II, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042006",
+        "tps": "9403042006001",
+        "url": "94\/9403\/940304\/9403042006\/9403042006001.json",
+        "nama": "TPS 001, KAGOUDIDE, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042003",
+        "tps": "9403042003001",
+        "url": "94\/9403\/940304\/9403042003\/9403042003001.json",
+        "nama": "TPS 001, MADOU, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042003",
+        "tps": "9403042003002",
+        "url": "94\/9403\/940304\/9403042003\/9403042003002.json",
+        "nama": "TPS 002, MADOU, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042008",
+        "tps": "9403042008001",
+        "url": "94\/9403\/940304\/9403042008\/9403042008001.json",
+        "nama": "TPS 001, MIYOKEPI, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042008",
+        "tps": "9403042008002",
+        "url": "94\/9403\/940304\/9403042008\/9403042008002.json",
+        "nama": "TPS 002, MIYOKEPI, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042002",
+        "tps": "9403042002001",
+        "url": "94\/9403\/940304\/9403042002\/9403042002001.json",
+        "nama": "TPS 001, NAWIPAUWO, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042002",
+        "tps": "9403042002002",
+        "url": "94\/9403\/940304\/9403042002\/9403042002002.json",
+        "nama": "TPS 002, NAWIPAUWO, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042002",
+        "tps": "9403042002003",
+        "url": "94\/9403\/940304\/9403042002\/9403042002003.json",
+        "nama": "TPS 003, NAWIPAUWO, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042009",
+        "tps": "9403042009001",
+        "url": "94\/9403\/940304\/9403042009\/9403042009001.json",
+        "nama": "TPS 001, OBAYA DIMI, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042009",
+        "tps": "9403042009002",
+        "url": "94\/9403\/940304\/9403042009\/9403042009002.json",
+        "nama": "TPS 002, OBAYA DIMI, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042005",
+        "tps": "9403042005001",
+        "url": "94\/9403\/940304\/9403042005\/9403042005001.json",
+        "nama": "TPS 001, YUMAUWO, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042005",
+        "tps": "9403042005002",
+        "url": "94\/9403\/940304\/9403042005\/9403042005002.json",
+        "nama": "TPS 002, YUMAUWO, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042005",
+        "tps": "9403042005003",
+        "url": "94\/9403\/940304\/9403042005\/9403042005003.json",
+        "nama": "TPS 003, YUMAUWO, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940304",
+        "desa": "9403042005",
+        "tps": "9403042005004",
+        "url": "94\/9403\/940304\/9403042005\/9403042005004.json",
+        "nama": "TPS 004, YUMAUWO, BOGABAIDA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202005",
+        "tps": "9403202005001",
+        "url": "94\/9403\/940320\/9403202005\/9403202005001.json",
+        "nama": "TPS 001, DEIYAMO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202005",
+        "tps": "9403202005002",
+        "url": "94\/9403\/940320\/9403202005\/9403202005002.json",
+        "nama": "TPS 002, DEIYAMO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202002",
+        "tps": "9403202002001",
+        "url": "94\/9403\/940320\/9403202002\/9403202002001.json",
+        "nama": "TPS 001, EPOUTO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202002",
+        "tps": "9403202002002",
+        "url": "94\/9403\/940320\/9403202002\/9403202002002.json",
+        "nama": "TPS 002, EPOUTO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202002",
+        "tps": "9403202002003",
+        "url": "94\/9403\/940320\/9403202002\/9403202002003.json",
+        "nama": "TPS 003, EPOUTO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202002",
+        "tps": "9403202002004",
+        "url": "94\/9403\/940320\/9403202002\/9403202002004.json",
+        "nama": "TPS 004, EPOUTO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202006",
+        "tps": "9403202006001",
+        "url": "94\/9403\/940320\/9403202006\/9403202006001.json",
+        "nama": "TPS 001, MIYAMO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202004",
+        "tps": "9403202004001",
+        "url": "94\/9403\/940320\/9403202004\/9403202004001.json",
+        "nama": "TPS 001, TUGU KAGOMOMA, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202004",
+        "tps": "9403202004002",
+        "url": "94\/9403\/940320\/9403202004\/9403202004002.json",
+        "nama": "TPS 002, TUGU KAGOMOMA, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202003",
+        "tps": "9403202003001",
+        "url": "94\/9403\/940320\/9403202003\/9403202003001.json",
+        "nama": "TPS 001, TUGUMO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202003",
+        "tps": "9403202003002",
+        "url": "94\/9403\/940320\/9403202003\/9403202003002.json",
+        "nama": "TPS 002, TUGUMO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202003",
+        "tps": "9403202003003",
+        "url": "94\/9403\/940320\/9403202003\/9403202003003.json",
+        "nama": "TPS 003, TUGUMO, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202001",
+        "tps": "9403202001001",
+        "url": "94\/9403\/940320\/9403202001\/9403202001001.json",
+        "nama": "TPS 001, UWEBUTU, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202001",
+        "tps": "9403202001002",
+        "url": "94\/9403\/940320\/9403202001\/9403202001002.json",
+        "nama": "TPS 002, UWEBUTU, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202001",
+        "tps": "9403202001003",
+        "url": "94\/9403\/940320\/9403202001\/9403202001003.json",
+        "nama": "TPS 003, UWEBUTU, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940320",
+        "desa": "9403202001",
+        "tps": "9403202001004",
+        "url": "94\/9403\/940320\/9403202001\/9403202001004.json",
+        "nama": "TPS 004, UWEBUTU, DEIYAI MIYO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212002",
+        "tps": "9403212002001",
+        "url": "94\/9403\/940321\/9403212002\/9403212002001.json",
+        "nama": "TPS 001, BOMONG BUGOPA, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212002",
+        "tps": "9403212002002",
+        "url": "94\/9403\/940321\/9403212002\/9403212002002.json",
+        "nama": "TPS 002, BOMONG BUGOPA, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212003",
+        "tps": "9403212003001",
+        "url": "94\/9403\/940321\/9403212003\/9403212003001.json",
+        "nama": "TPS 001, DANGIPA, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212001",
+        "tps": "9403212001001",
+        "url": "94\/9403\/940321\/9403212001\/9403212001001.json",
+        "nama": "TPS 001, DOGOMO, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212001",
+        "tps": "9403212001002",
+        "url": "94\/9403\/940321\/9403212001\/9403212001002.json",
+        "nama": "TPS 002, DOGOMO, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212001",
+        "tps": "9403212001003",
+        "url": "94\/9403\/940321\/9403212001\/9403212001003.json",
+        "nama": "TPS 003, DOGOMO, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212004",
+        "tps": "9403212004001",
+        "url": "94\/9403\/940321\/9403212004\/9403212004001.json",
+        "nama": "TPS 001, ONDEGAPA, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212004",
+        "tps": "9403212004002",
+        "url": "94\/9403\/940321\/9403212004\/9403212004002.json",
+        "nama": "TPS 002, ONDEGAPA, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212005",
+        "tps": "9403212005001",
+        "url": "94\/9403\/940321\/9403212005\/9403212005001.json",
+        "nama": "TPS 001, SOGOMO, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940321",
+        "desa": "9403212005",
+        "tps": "9403212005002",
+        "url": "94\/9403\/940321\/9403212005\/9403212005002.json",
+        "nama": "TPS 002, SOGOMO, DOGOMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062002",
+        "tps": "9403062002001",
+        "url": "94\/9403\/940306\/9403062002\/9403062002001.json",
+        "nama": "TPS 001, BOMOSIGA, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062002",
+        "tps": "9403062002002",
+        "url": "94\/9403\/940306\/9403062002\/9403062002002.json",
+        "nama": "TPS 002, BOMOSIGA, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062001",
+        "tps": "9403062001001",
+        "url": "94\/9403\/940306\/9403062001\/9403062001001.json",
+        "nama": "TPS 001, DUMA, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062001",
+        "tps": "9403062001002",
+        "url": "94\/9403\/940306\/9403062001\/9403062001002.json",
+        "nama": "TPS 002, DUMA, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062001",
+        "tps": "9403062001003",
+        "url": "94\/9403\/940306\/9403062001\/9403062001003.json",
+        "nama": "TPS 003, DUMA, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062001",
+        "tps": "9403062001004",
+        "url": "94\/9403\/940306\/9403062001\/9403062001004.json",
+        "nama": "TPS 004, DUMA, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062005",
+        "tps": "9403062005001",
+        "url": "94\/9403\/940306\/9403062005\/9403062005001.json",
+        "nama": "TPS 001, DUMA II, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062005",
+        "tps": "9403062005002",
+        "url": "94\/9403\/940306\/9403062005\/9403062005002.json",
+        "nama": "TPS 002, DUMA II, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062005",
+        "tps": "9403062005003",
+        "url": "94\/9403\/940306\/9403062005\/9403062005003.json",
+        "nama": "TPS 003, DUMA II, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062003",
+        "tps": "9403062003001",
+        "url": "94\/9403\/940306\/9403062003\/9403062003001.json",
+        "nama": "TPS 001, JAPESIGAIWAKA, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062004",
+        "tps": "9403062004001",
+        "url": "94\/9403\/940306\/9403062004\/9403062004001.json",
+        "nama": "TPS 001, WAITAPA, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940306",
+        "desa": "9403062004",
+        "tps": "9403062004002",
+        "url": "94\/9403\/940306\/9403062004\/9403062004002.json",
+        "nama": "TPS 002, WAITAPA, DUMADAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102009",
+        "tps": "9403102009001",
+        "url": "94\/9403\/940310\/9403102009\/9403102009001.json",
+        "nama": "TPS 001, BAGUWO, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102009",
+        "tps": "9403102009002",
+        "url": "94\/9403\/940310\/9403102009\/9403102009002.json",
+        "nama": "TPS 002, BAGUWO, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102011",
+        "tps": "9403102011001",
+        "url": "94\/9403\/940310\/9403102011\/9403102011001.json",
+        "nama": "TPS 001, DEBAMOMAIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102011",
+        "tps": "9403102011002",
+        "url": "94\/9403\/940310\/9403102011\/9403102011002.json",
+        "nama": "TPS 002, DEBAMOMAIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102002",
+        "tps": "9403102002001",
+        "url": "94\/9403\/940310\/9403102002\/9403102002001.json",
+        "nama": "TPS 001, GEIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102002",
+        "tps": "9403102002002",
+        "url": "94\/9403\/940310\/9403102002\/9403102002002.json",
+        "nama": "TPS 002, GEIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102002",
+        "tps": "9403102002003",
+        "url": "94\/9403\/940310\/9403102002\/9403102002003.json",
+        "nama": "TPS 003, GEIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102005",
+        "tps": "9403102005001",
+        "url": "94\/9403\/940310\/9403102005\/9403102005001.json",
+        "nama": "TPS 001, ITEUWO, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102005",
+        "tps": "9403102005002",
+        "url": "94\/9403\/940310\/9403102005\/9403102005002.json",
+        "nama": "TPS 002, ITEUWO, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102010",
+        "tps": "9403102010001",
+        "url": "94\/9403\/940310\/9403102010\/9403102010001.json",
+        "nama": "TPS 001, KENEUGI, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102010",
+        "tps": "9403102010002",
+        "url": "94\/9403\/940310\/9403102010\/9403102010002.json",
+        "nama": "TPS 002, KENEUGI, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102010",
+        "tps": "9403102010003",
+        "url": "94\/9403\/940310\/9403102010\/9403102010003.json",
+        "nama": "TPS 003, KENEUGI, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102004",
+        "tps": "9403102004001",
+        "url": "94\/9403\/940310\/9403102004\/9403102004001.json",
+        "nama": "TPS 001, MAKIDIMI, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102006",
+        "tps": "9403102006001",
+        "url": "94\/9403\/940310\/9403102006\/9403102006001.json",
+        "nama": "TPS 001, OGEIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102006",
+        "tps": "9403102006002",
+        "url": "94\/9403\/940310\/9403102006\/9403102006002.json",
+        "nama": "TPS 002, OGEIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102001",
+        "tps": "9403102001001",
+        "url": "94\/9403\/940310\/9403102001\/9403102001001.json",
+        "nama": "TPS 001, PASIR PUTIH, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102001",
+        "tps": "9403102001002",
+        "url": "94\/9403\/940310\/9403102001\/9403102001002.json",
+        "nama": "TPS 002, PASIR PUTIH, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102001",
+        "tps": "9403102001003",
+        "url": "94\/9403\/940310\/9403102001\/9403102001003.json",
+        "nama": "TPS 003, PASIR PUTIH, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102001",
+        "tps": "9403102001004",
+        "url": "94\/9403\/940310\/9403102001\/9403102001004.json",
+        "nama": "TPS 004, PASIR PUTIH, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102012",
+        "tps": "9403102012001",
+        "url": "94\/9403\/940310\/9403102012\/9403102012001.json",
+        "nama": "TPS 001, TEGOUGI PUGAIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102012",
+        "tps": "9403102012002",
+        "url": "94\/9403\/940310\/9403102012\/9403102012002.json",
+        "nama": "TPS 002, TEGOUGI PUGAIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102007",
+        "tps": "9403102007001",
+        "url": "94\/9403\/940310\/9403102007\/9403102007001.json",
+        "nama": "TPS 001, TEGUOGI PUGAIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102003",
+        "tps": "9403102003001",
+        "url": "94\/9403\/940310\/9403102003\/9403102003001.json",
+        "nama": "TPS 001, WIDIMEIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940310",
+        "desa": "9403102003",
+        "tps": "9403102003002",
+        "url": "94\/9403\/940310\/9403102003\/9403102003002.json",
+        "nama": "TPS 002, WIDIMEIDA, EKADIDE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242002",
+        "tps": "9403242002001",
+        "url": "94\/9403\/940324\/9403242002\/9403242002001.json",
+        "nama": "TPS 001, AKOUBAIDA, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242002",
+        "tps": "9403242002002",
+        "url": "94\/9403\/940324\/9403242002\/9403242002002.json",
+        "nama": "TPS 002, AKOUBAIDA, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242006",
+        "tps": "9403242006001",
+        "url": "94\/9403\/940324\/9403242006\/9403242006001.json",
+        "nama": "TPS 001, BODATADI, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242006",
+        "tps": "9403242006002",
+        "url": "94\/9403\/940324\/9403242006\/9403242006002.json",
+        "nama": "TPS 002, BODATADI, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242003",
+        "tps": "9403242003001",
+        "url": "94\/9403\/940324\/9403242003\/9403242003001.json",
+        "nama": "TPS 001, DAUWAGU, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242003",
+        "tps": "9403242003002",
+        "url": "94\/9403\/940324\/9403242003\/9403242003002.json",
+        "nama": "TPS 002, DAUWAGU, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242004",
+        "tps": "9403242004001",
+        "url": "94\/9403\/940324\/9403242004\/9403242004001.json",
+        "nama": "TPS 001, GANEYETAKA, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242004",
+        "tps": "9403242004002",
+        "url": "94\/9403\/940324\/9403242004\/9403242004002.json",
+        "nama": "TPS 002, GANEYETAKA, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242007",
+        "tps": "9403242007001",
+        "url": "94\/9403\/940324\/9403242007\/9403242007001.json",
+        "nama": "TPS 001, IBOUWAGU, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242007",
+        "tps": "9403242007002",
+        "url": "94\/9403\/940324\/9403242007\/9403242007002.json",
+        "nama": "TPS 002, IBOUWAGU, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242007",
+        "tps": "9403242007003",
+        "url": "94\/9403\/940324\/9403242007\/9403242007003.json",
+        "nama": "TPS 003, IBOUWAGU, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242001",
+        "tps": "9403242001001",
+        "url": "94\/9403\/940324\/9403242001\/9403242001001.json",
+        "nama": "TPS 001, YABOMAIDA, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242001",
+        "tps": "9403242001002",
+        "url": "94\/9403\/940324\/9403242001\/9403242001002.json",
+        "nama": "TPS 002, YABOMAIDA, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242005",
+        "tps": "9403242005001",
+        "url": "94\/9403\/940324\/9403242005\/9403242005001.json",
+        "nama": "TPS 001, YABOMAIDA II, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940324",
+        "desa": "9403242005",
+        "tps": "9403242005002",
+        "url": "94\/9403\/940324\/9403242005\/9403242005002.json",
+        "nama": "TPS 002, YABOMAIDA II, FAJAR TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082005",
+        "tps": "9403082005001",
+        "url": "94\/9403\/940308\/9403082005\/9403082005001.json",
+        "nama": "TPS 001, AYAIGO, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082005",
+        "tps": "9403082005002",
+        "url": "94\/9403\/940308\/9403082005\/9403082005002.json",
+        "nama": "TPS 002, AYAIGO, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082005",
+        "tps": "9403082005003",
+        "url": "94\/9403\/940308\/9403082005\/9403082005003.json",
+        "nama": "TPS 003, AYAIGO, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082008",
+        "tps": "9403082008001",
+        "url": "94\/9403\/940308\/9403082008\/9403082008001.json",
+        "nama": "TPS 001, BUNAIDA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082008",
+        "tps": "9403082008002",
+        "url": "94\/9403\/940308\/9403082008\/9403082008002.json",
+        "nama": "TPS 002, BUNAIDA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082011",
+        "tps": "9403082011001",
+        "url": "94\/9403\/940308\/9403082011\/9403082011001.json",
+        "nama": "TPS 001, DAWAWA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082011",
+        "tps": "9403082011002",
+        "url": "94\/9403\/940308\/9403082011\/9403082011002.json",
+        "nama": "TPS 002, DAWAWA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082011",
+        "tps": "9403082011003",
+        "url": "94\/9403\/940308\/9403082011\/9403082011003.json",
+        "nama": "TPS 003, DAWAWA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082011",
+        "tps": "9403082011004",
+        "url": "94\/9403\/940308\/9403082011\/9403082011004.json",
+        "nama": "TPS 004, DAWAWA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082011",
+        "tps": "9403082011005",
+        "url": "94\/9403\/940308\/9403082011\/9403082011005.json",
+        "nama": "TPS 005, DAWAWA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082011",
+        "tps": "9403082011006",
+        "url": "94\/9403\/940308\/9403082011\/9403082011006.json",
+        "nama": "TPS 006, DAWAWA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082006",
+        "tps": "9403082006001",
+        "url": "94\/9403\/940308\/9403082006\/9403082006001.json",
+        "nama": "TPS 001, GEIBU, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082006",
+        "tps": "9403082006002",
+        "url": "94\/9403\/940308\/9403082006\/9403082006002.json",
+        "nama": "TPS 002, GEIBU, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082003",
+        "tps": "9403082003001",
+        "url": "94\/9403\/940308\/9403082003\/9403082003001.json",
+        "nama": "TPS 001, IBUMAIDA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082003",
+        "tps": "9403082003002",
+        "url": "94\/9403\/940308\/9403082003\/9403082003002.json",
+        "nama": "TPS 002, IBUMAIDA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082004",
+        "tps": "9403082004001",
+        "url": "94\/9403\/940308\/9403082004\/9403082004001.json",
+        "nama": "TPS 001, KAGUPAGU, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082004",
+        "tps": "9403082004002",
+        "url": "94\/9403\/940308\/9403082004\/9403082004002.json",
+        "nama": "TPS 002, KAGUPAGU, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082001",
+        "tps": "9403082001001",
+        "url": "94\/9403\/940308\/9403082001\/9403082001001.json",
+        "nama": "TPS 001, KEBO II, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082001",
+        "tps": "9403082001002",
+        "url": "94\/9403\/940308\/9403082001\/9403082001002.json",
+        "nama": "TPS 002, KEBO II, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082001",
+        "tps": "9403082001003",
+        "url": "94\/9403\/940308\/9403082001\/9403082001003.json",
+        "nama": "TPS 003, KEBO II, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082009",
+        "tps": "9403082009001",
+        "url": "94\/9403\/940308\/9403082009\/9403082009001.json",
+        "nama": "TPS 001, KEDEGE, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082009",
+        "tps": "9403082009002",
+        "url": "94\/9403\/940308\/9403082009\/9403082009002.json",
+        "nama": "TPS 002, KEDEGE, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082009",
+        "tps": "9403082009003",
+        "url": "94\/9403\/940308\/9403082009\/9403082009003.json",
+        "nama": "TPS 003, KEDEGE, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082012",
+        "tps": "9403082012001",
+        "url": "94\/9403\/940308\/9403082012\/9403082012001.json",
+        "nama": "TPS 001, MUGIME KETAGO, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082012",
+        "tps": "9403082012002",
+        "url": "94\/9403\/940308\/9403082012\/9403082012002.json",
+        "nama": "TPS 002, MUGIME KETAGO, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082002",
+        "tps": "9403082002001",
+        "url": "94\/9403\/940308\/9403082002\/9403082002001.json",
+        "nama": "TPS 001, TOGOWA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082002",
+        "tps": "9403082002002",
+        "url": "94\/9403\/940308\/9403082002\/9403082002002.json",
+        "nama": "TPS 002, TOGOWA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082013",
+        "tps": "9403082013001",
+        "url": "94\/9403\/940308\/9403082013\/9403082013001.json",
+        "nama": "TPS 001, TUWAMAKIDA, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082010",
+        "tps": "9403082010001",
+        "url": "94\/9403\/940308\/9403082010\/9403082010001.json",
+        "nama": "TPS 001, UWAIYE, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082010",
+        "tps": "9403082010002",
+        "url": "94\/9403\/940308\/9403082010\/9403082010002.json",
+        "nama": "TPS 002, UWAIYE, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082007",
+        "tps": "9403082007001",
+        "url": "94\/9403\/940308\/9403082007\/9403082007001.json",
+        "nama": "TPS 001, YOKADAGI, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082007",
+        "tps": "9403082007002",
+        "url": "94\/9403\/940308\/9403082007\/9403082007002.json",
+        "nama": "TPS 002, YOKADAGI, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940308",
+        "desa": "9403082007",
+        "tps": "9403082007003",
+        "url": "94\/9403\/940308\/9403082007\/9403082007003.json",
+        "nama": "TPS 003, YOKADAGI, KEBO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142010",
+        "tps": "9403142010001",
+        "url": "94\/9403\/940314\/9403142010\/9403142010001.json",
+        "nama": "TPS 001, AMOPA, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142010",
+        "tps": "9403142010002",
+        "url": "94\/9403\/940314\/9403142010\/9403142010002.json",
+        "nama": "TPS 002, AMOPA, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142010",
+        "tps": "9403142010003",
+        "url": "94\/9403\/940314\/9403142010\/9403142010003.json",
+        "nama": "TPS 003, AMOPA, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142010",
+        "tps": "9403142010004",
+        "url": "94\/9403\/940314\/9403142010\/9403142010004.json",
+        "nama": "TPS 004, AMOPA, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142005",
+        "tps": "9403142005001",
+        "url": "94\/9403\/940314\/9403142005\/9403142005001.json",
+        "nama": "TPS 001, BEBIYAI, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142005",
+        "tps": "9403142005002",
+        "url": "94\/9403\/940314\/9403142005\/9403142005002.json",
+        "nama": "TPS 002, BEBIYAI, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142008",
+        "tps": "9403142008001",
+        "url": "94\/9403\/940314\/9403142008\/9403142008001.json",
+        "nama": "TPS 001, DAMUTO, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142008",
+        "tps": "9403142008002",
+        "url": "94\/9403\/940314\/9403142008\/9403142008002.json",
+        "nama": "TPS 002, DAMUTO, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142003",
+        "tps": "9403142003001",
+        "url": "94\/9403\/940314\/9403142003\/9403142003001.json",
+        "nama": "TPS 001, EPABUTU, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142003",
+        "tps": "9403142003002",
+        "url": "94\/9403\/940314\/9403142003\/9403142003002.json",
+        "nama": "TPS 002, EPABUTU, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142006",
+        "tps": "9403142006001",
+        "url": "94\/9403\/940314\/9403142006\/9403142006001.json",
+        "nama": "TPS 001, IDAIYO, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142002",
+        "tps": "9403142002001",
+        "url": "94\/9403\/940314\/9403142002\/9403142002001.json",
+        "nama": "TPS 001, MOGEYA, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142002",
+        "tps": "9403142002002",
+        "url": "94\/9403\/940314\/9403142002\/9403142002002.json",
+        "nama": "TPS 002, MOGEYA, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142002",
+        "tps": "9403142002003",
+        "url": "94\/9403\/940314\/9403142002\/9403142002003.json",
+        "nama": "TPS 003, MOGEYA, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142001",
+        "tps": "9403142001001",
+        "url": "94\/9403\/940314\/9403142001\/9403142001001.json",
+        "nama": "TPS 001, MUYETADI, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142001",
+        "tps": "9403142001002",
+        "url": "94\/9403\/940314\/9403142001\/9403142001002.json",
+        "nama": "TPS 002, MUYETADI, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142001",
+        "tps": "9403142001003",
+        "url": "94\/9403\/940314\/9403142001\/9403142001003.json",
+        "nama": "TPS 003, MUYETADI, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142009",
+        "tps": "9403142009001",
+        "url": "94\/9403\/940314\/9403142009\/9403142009001.json",
+        "nama": "TPS 001, OBAIYODIMI, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142009",
+        "tps": "9403142009002",
+        "url": "94\/9403\/940314\/9403142009\/9403142009002.json",
+        "nama": "TPS 002, OBAIYODIMI, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142004",
+        "tps": "9403142004001",
+        "url": "94\/9403\/940314\/9403142004\/9403142004001.json",
+        "nama": "TPS 001, TIGA DAMUTO, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142004",
+        "tps": "9403142004002",
+        "url": "94\/9403\/940314\/9403142004\/9403142004002.json",
+        "nama": "TPS 002, TIGA DAMUTO, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940314",
+        "desa": "9403142007",
+        "tps": "9403142007001",
+        "url": "94\/9403\/940314\/9403142007\/9403142007001.json",
+        "nama": "TPS 001, TINOU, MUYE, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152006",
+        "tps": "9403152006001",
+        "url": "94\/9403\/940315\/9403152006\/9403152006001.json",
+        "nama": "TPS 001, DIGIYO TUWATAIDA, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152006",
+        "tps": "9403152006002",
+        "url": "94\/9403\/940315\/9403152006\/9403152006002.json",
+        "nama": "TPS 002, DIGIYO TUWATAIDA, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152003",
+        "tps": "9403152003001",
+        "url": "94\/9403\/940315\/9403152003\/9403152003001.json",
+        "nama": "TPS 001, GEIKETAGO, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152003",
+        "tps": "9403152003002",
+        "url": "94\/9403\/940315\/9403152003\/9403152003002.json",
+        "nama": "TPS 002, GEIKETAGO, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152003",
+        "tps": "9403152003003",
+        "url": "94\/9403\/940315\/9403152003\/9403152003003.json",
+        "nama": "TPS 003, GEIKETAGO, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152007",
+        "tps": "9403152007001",
+        "url": "94\/9403\/940315\/9403152007\/9403152007001.json",
+        "nama": "TPS 001, ITOKA, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152007",
+        "tps": "9403152007002",
+        "url": "94\/9403\/940315\/9403152007\/9403152007002.json",
+        "nama": "TPS 002, ITOKA, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152004",
+        "tps": "9403152004001",
+        "url": "94\/9403\/940315\/9403152004\/9403152004001.json",
+        "nama": "TPS 001, KADIYAI, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152004",
+        "tps": "9403152004002",
+        "url": "94\/9403\/940315\/9403152004\/9403152004002.json",
+        "nama": "TPS 002, KADIYAI, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152002",
+        "tps": "9403152002001",
+        "url": "94\/9403\/940315\/9403152002\/9403152002001.json",
+        "nama": "TPS 001, KITO, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152002",
+        "tps": "9403152002002",
+        "url": "94\/9403\/940315\/9403152002\/9403152002002.json",
+        "nama": "TPS 002, KITO, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152001",
+        "tps": "9403152001001",
+        "url": "94\/9403\/940315\/9403152001\/9403152001001.json",
+        "nama": "TPS 001, OKAITADI, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152001",
+        "tps": "9403152001002",
+        "url": "94\/9403\/940315\/9403152001\/9403152001002.json",
+        "nama": "TPS 002, OKAITADI, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152001",
+        "tps": "9403152001003",
+        "url": "94\/9403\/940315\/9403152001\/9403152001003.json",
+        "nama": "TPS 003, OKAITADI, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152001",
+        "tps": "9403152001004",
+        "url": "94\/9403\/940315\/9403152001\/9403152001004.json",
+        "nama": "TPS 004, OKAITADI, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152005",
+        "tps": "9403152005001",
+        "url": "94\/9403\/940315\/9403152005\/9403152005001.json",
+        "nama": "TPS 001, UWODEGE, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940315",
+        "desa": "9403152005",
+        "tps": "9403152005002",
+        "url": "94\/9403\/940315\/9403152005\/9403152005002.json",
+        "nama": "TPS 002, UWODEGE, NAKAMA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022004",
+        "tps": "9403022004001",
+        "url": "94\/9403\/940302\/9403022004\/9403022004001.json",
+        "nama": "TPS 001, BEKO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022004",
+        "tps": "9403022004002",
+        "url": "94\/9403\/940302\/9403022004\/9403022004002.json",
+        "nama": "TPS 002, BEKO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022004",
+        "tps": "9403022004003",
+        "url": "94\/9403\/940302\/9403022004\/9403022004003.json",
+        "nama": "TPS 003, BEKO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022013",
+        "tps": "9403022013001",
+        "url": "94\/9403\/940302\/9403022013\/9403022013001.json",
+        "nama": "TPS 001, DIGIUGII, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022013",
+        "tps": "9403022013002",
+        "url": "94\/9403\/940302\/9403022013\/9403022013002.json",
+        "nama": "TPS 002, DIGIUGII, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022009",
+        "tps": "9403022009001",
+        "url": "94\/9403\/940302\/9403022009\/9403022009001.json",
+        "nama": "TPS 001, EKINAUWO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022009",
+        "tps": "9403022009002",
+        "url": "94\/9403\/940302\/9403022009\/9403022009002.json",
+        "nama": "TPS 002, EKINAUWO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022006",
+        "tps": "9403022006001",
+        "url": "94\/9403\/940302\/9403022006\/9403022006001.json",
+        "nama": "TPS 001, EPO OBANO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022006",
+        "tps": "9403022006002",
+        "url": "94\/9403\/940302\/9403022006\/9403022006002.json",
+        "nama": "TPS 002, EPO OBANO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022006",
+        "tps": "9403022006003",
+        "url": "94\/9403\/940302\/9403022006\/9403022006003.json",
+        "nama": "TPS 003, EPO OBANO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022002",
+        "tps": "9403022002001",
+        "url": "94\/9403\/940302\/9403022002\/9403022002001.json",
+        "nama": "TPS 001, KEGOUDA, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022002",
+        "tps": "9403022002002",
+        "url": "94\/9403\/940302\/9403022002\/9403022002002.json",
+        "nama": "TPS 002, KEGOUDA, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022002",
+        "tps": "9403022002003",
+        "url": "94\/9403\/940302\/9403022002\/9403022002003.json",
+        "nama": "TPS 003, KEGOUDA, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022010",
+        "tps": "9403022010001",
+        "url": "94\/9403\/940302\/9403022010\/9403022010001.json",
+        "nama": "TPS 001, KIGODIDE, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022010",
+        "tps": "9403022010002",
+        "url": "94\/9403\/940302\/9403022010\/9403022010002.json",
+        "nama": "TPS 002, KIGODIDE, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403021001",
+        "tps": "9403021001001",
+        "url": "94\/9403\/940302\/9403021001\/9403021001001.json",
+        "nama": "TPS 001, OBANO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403021001",
+        "tps": "9403021001002",
+        "url": "94\/9403\/940302\/9403021001\/9403021001002.json",
+        "nama": "TPS 002, OBANO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403021001",
+        "tps": "9403021001003",
+        "url": "94\/9403\/940302\/9403021001\/9403021001003.json",
+        "nama": "TPS 003, OBANO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403021001",
+        "tps": "9403021001004",
+        "url": "94\/9403\/940302\/9403021001\/9403021001004.json",
+        "nama": "TPS 004, OBANO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022011",
+        "tps": "9403022011001",
+        "url": "94\/9403\/940302\/9403022011\/9403022011001.json",
+        "nama": "TPS 001, PUTAKOGOPA, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022011",
+        "tps": "9403022011002",
+        "url": "94\/9403\/940302\/9403022011\/9403022011002.json",
+        "nama": "TPS 002, PUTAKOGOPA, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022005",
+        "tps": "9403022005001",
+        "url": "94\/9403\/940302\/9403022005\/9403022005001.json",
+        "nama": "TPS 001, TIPAKOTU, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022005",
+        "tps": "9403022005002",
+        "url": "94\/9403\/940302\/9403022005\/9403022005002.json",
+        "nama": "TPS 002, TIPAKOTU, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022005",
+        "tps": "9403022005003",
+        "url": "94\/9403\/940302\/9403022005\/9403022005003.json",
+        "nama": "TPS 003, TIPAKOTU, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022005",
+        "tps": "9403022005004",
+        "url": "94\/9403\/940302\/9403022005\/9403022005004.json",
+        "nama": "TPS 004, TIPAKOTU, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022007",
+        "tps": "9403022007001",
+        "url": "94\/9403\/940302\/9403022007\/9403022007001.json",
+        "nama": "TPS 001, TOWAUWO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022007",
+        "tps": "9403022007002",
+        "url": "94\/9403\/940302\/9403022007\/9403022007002.json",
+        "nama": "TPS 002, TOWAUWO, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022012",
+        "tps": "9403022012001",
+        "url": "94\/9403\/940302\/9403022012\/9403022012001.json",
+        "nama": "TPS 001, WAUKOTOPA, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940302",
+        "desa": "9403022008",
+        "tps": "9403022008001",
+        "url": "94\/9403\/940302\/9403022008\/9403022008001.json",
+        "nama": "TPS 001, WIYOGEI, PANIAI BARAT, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012025",
+        "tps": "9403012025001",
+        "url": "94\/9403\/940301\/9403012025\/9403012025001.json",
+        "nama": "TPS 001, AGUMAIDA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012025",
+        "tps": "9403012025002",
+        "url": "94\/9403\/940301\/9403012025\/9403012025002.json",
+        "nama": "TPS 002, AGUMAIDA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012003",
+        "tps": "9403012003001",
+        "url": "94\/9403\/940301\/9403012003\/9403012003001.json",
+        "nama": "TPS 001, AIKAI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012003",
+        "tps": "9403012003002",
+        "url": "94\/9403\/940301\/9403012003\/9403012003002.json",
+        "nama": "TPS 002, AIKAI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012003",
+        "tps": "9403012003003",
+        "url": "94\/9403\/940301\/9403012003\/9403012003003.json",
+        "nama": "TPS 003, AIKAI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012022",
+        "tps": "9403012022001",
+        "url": "94\/9403\/940301\/9403012022\/9403012022001.json",
+        "nama": "TPS 001, AMOUGIBUTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012012",
+        "tps": "9403012012001",
+        "url": "94\/9403\/940301\/9403012012\/9403012012001.json",
+        "nama": "TPS 001, AWABUTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012012",
+        "tps": "9403012012002",
+        "url": "94\/9403\/940301\/9403012012\/9403012012002.json",
+        "nama": "TPS 002, AWABUTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012012",
+        "tps": "9403012012003",
+        "url": "94\/9403\/940301\/9403012012\/9403012012003.json",
+        "nama": "TPS 003, AWABUTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012012",
+        "tps": "9403012012004",
+        "url": "94\/9403\/940301\/9403012012\/9403012012004.json",
+        "nama": "TPS 004, AWABUTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012023",
+        "tps": "9403012023001",
+        "url": "94\/9403\/940301\/9403012023\/9403012023001.json",
+        "nama": "TPS 001, DAPAIBA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012023",
+        "tps": "9403012023002",
+        "url": "94\/9403\/940301\/9403012023\/9403012023002.json",
+        "nama": "TPS 002, DAPAIBA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012023",
+        "tps": "9403012023003",
+        "url": "94\/9403\/940301\/9403012023\/9403012023003.json",
+        "nama": "TPS 003, DAPAIBA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012023",
+        "tps": "9403012023004",
+        "url": "94\/9403\/940301\/9403012023\/9403012023004.json",
+        "nama": "TPS 004, DAPAIBA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001001",
+        "url": "94\/9403\/940301\/9403011001\/9403011001001.json",
+        "nama": "TPS 001, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001002",
+        "url": "94\/9403\/940301\/9403011001\/9403011001002.json",
+        "nama": "TPS 002, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001003",
+        "url": "94\/9403\/940301\/9403011001\/9403011001003.json",
+        "nama": "TPS 003, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001004",
+        "url": "94\/9403\/940301\/9403011001\/9403011001004.json",
+        "nama": "TPS 004, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001005",
+        "url": "94\/9403\/940301\/9403011001\/9403011001005.json",
+        "nama": "TPS 005, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001006",
+        "url": "94\/9403\/940301\/9403011001\/9403011001006.json",
+        "nama": "TPS 006, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001007",
+        "url": "94\/9403\/940301\/9403011001\/9403011001007.json",
+        "nama": "TPS 007, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001008",
+        "url": "94\/9403\/940301\/9403011001\/9403011001008.json",
+        "nama": "TPS 008, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001009",
+        "url": "94\/9403\/940301\/9403011001\/9403011001009.json",
+        "nama": "TPS 009, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001010",
+        "url": "94\/9403\/940301\/9403011001\/9403011001010.json",
+        "nama": "TPS 010, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001011",
+        "url": "94\/9403\/940301\/9403011001\/9403011001011.json",
+        "nama": "TPS 011, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001012",
+        "url": "94\/9403\/940301\/9403011001\/9403011001012.json",
+        "nama": "TPS 012, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001013",
+        "url": "94\/9403\/940301\/9403011001\/9403011001013.json",
+        "nama": "TPS 013, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011001",
+        "tps": "9403011001014",
+        "url": "94\/9403\/940301\/9403011001\/9403011001014.json",
+        "nama": "TPS 014, ENAROTALI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012004",
+        "tps": "9403012004001",
+        "url": "94\/9403\/940301\/9403012004\/9403012004001.json",
+        "nama": "TPS 001, IPAKIYE, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012004",
+        "tps": "9403012004002",
+        "url": "94\/9403\/940301\/9403012004\/9403012004002.json",
+        "nama": "TPS 002, IPAKIYE, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012004",
+        "tps": "9403012004003",
+        "url": "94\/9403\/940301\/9403012004\/9403012004003.json",
+        "nama": "TPS 003, IPAKIYE, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012004",
+        "tps": "9403012004004",
+        "url": "94\/9403\/940301\/9403012004\/9403012004004.json",
+        "nama": "TPS 004, IPAKIYE, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012019",
+        "tps": "9403012019001",
+        "url": "94\/9403\/940301\/9403012019\/9403012019001.json",
+        "nama": "TPS 001, IYAITAKA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012019",
+        "tps": "9403012019002",
+        "url": "94\/9403\/940301\/9403012019\/9403012019002.json",
+        "nama": "TPS 002, IYAITAKA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012011",
+        "tps": "9403012011001",
+        "url": "94\/9403\/940301\/9403012011\/9403012011001.json",
+        "nama": "TPS 001, KOGEKOTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012011",
+        "tps": "9403012011002",
+        "url": "94\/9403\/940301\/9403012011\/9403012011002.json",
+        "nama": "TPS 002, KOGEKOTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012011",
+        "tps": "9403012011003",
+        "url": "94\/9403\/940301\/9403012011\/9403012011003.json",
+        "nama": "TPS 003, KOGEKOTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012007",
+        "tps": "9403012007001",
+        "url": "94\/9403\/940301\/9403012007\/9403012007001.json",
+        "nama": "TPS 001, KOPO, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012007",
+        "tps": "9403012007002",
+        "url": "94\/9403\/940301\/9403012007\/9403012007002.json",
+        "nama": "TPS 002, KOPO, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012002",
+        "tps": "9403012002001",
+        "url": "94\/9403\/940301\/9403012002\/9403012002001.json",
+        "nama": "TPS 001, MADI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012002",
+        "tps": "9403012002002",
+        "url": "94\/9403\/940301\/9403012002\/9403012002002.json",
+        "nama": "TPS 002, MADI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012002",
+        "tps": "9403012002003",
+        "url": "94\/9403\/940301\/9403012002\/9403012002003.json",
+        "nama": "TPS 003, MADI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012002",
+        "tps": "9403012002004",
+        "url": "94\/9403\/940301\/9403012002\/9403012002004.json",
+        "nama": "TPS 004, MADI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012002",
+        "tps": "9403012002005",
+        "url": "94\/9403\/940301\/9403012002\/9403012002005.json",
+        "nama": "TPS 005, MADI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012002",
+        "tps": "9403012002006",
+        "url": "94\/9403\/940301\/9403012002\/9403012002006.json",
+        "nama": "TPS 006, MADI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012005",
+        "tps": "9403012005001",
+        "url": "94\/9403\/940301\/9403012005\/9403012005001.json",
+        "nama": "TPS 001, PAPATO, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012005",
+        "tps": "9403012005002",
+        "url": "94\/9403\/940301\/9403012005\/9403012005002.json",
+        "nama": "TPS 002, PAPATO, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012005",
+        "tps": "9403012005003",
+        "url": "94\/9403\/940301\/9403012005\/9403012005003.json",
+        "nama": "TPS 003, PAPATO, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012017",
+        "tps": "9403012017001",
+        "url": "94\/9403\/940301\/9403012017\/9403012017001.json",
+        "nama": "TPS 001, PUDOTADI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012017",
+        "tps": "9403012017002",
+        "url": "94\/9403\/940301\/9403012017\/9403012017002.json",
+        "nama": "TPS 002, PUDOTADI, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011006",
+        "tps": "9403011006001",
+        "url": "94\/9403\/940301\/9403011006\/9403011006001.json",
+        "nama": "TPS 001, TIMIDA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403011006",
+        "tps": "9403011006002",
+        "url": "94\/9403\/940301\/9403011006\/9403011006002.json",
+        "nama": "TPS 002, TIMIDA, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012020",
+        "tps": "9403012020001",
+        "url": "94\/9403\/940301\/9403012020\/9403012020001.json",
+        "nama": "TPS 001, UGIBUTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012020",
+        "tps": "9403012020002",
+        "url": "94\/9403\/940301\/9403012020\/9403012020002.json",
+        "nama": "TPS 002, UGIBUTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012008",
+        "tps": "9403012008001",
+        "url": "94\/9403\/940301\/9403012008\/9403012008001.json",
+        "nama": "TPS 001, WAGE, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012008",
+        "tps": "9403012008002",
+        "url": "94\/9403\/940301\/9403012008\/9403012008002.json",
+        "nama": "TPS 002, WAGE, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012008",
+        "tps": "9403012008003",
+        "url": "94\/9403\/940301\/9403012008\/9403012008003.json",
+        "nama": "TPS 003, WAGE, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012021",
+        "tps": "9403012021001",
+        "url": "94\/9403\/940301\/9403012021\/9403012021001.json",
+        "nama": "TPS 001, WOUYEBUTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012021",
+        "tps": "9403012021002",
+        "url": "94\/9403\/940301\/9403012021\/9403012021002.json",
+        "nama": "TPS 002, WOUYEBUTU, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940301",
+        "desa": "9403012024",
+        "tps": "9403012024001",
+        "url": "94\/9403\/940301\/9403012024\/9403012024001.json",
+        "nama": "TPS 001, YUKEKEBO, PANIAI TIMUR, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132006",
+        "tps": "9403132006001",
+        "url": "94\/9403\/940313\/9403132006\/9403132006001.json",
+        "nama": "TPS 001, BOBA, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132007",
+        "tps": "9403132007001",
+        "url": "94\/9403\/940313\/9403132007\/9403132007001.json",
+        "nama": "TPS 001, IYAIDAGI, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132008",
+        "tps": "9403132008001",
+        "url": "94\/9403\/940313\/9403132008\/9403132008001.json",
+        "nama": "TPS 001, IYAITADI, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132008",
+        "tps": "9403132008002",
+        "url": "94\/9403\/940313\/9403132008\/9403132008002.json",
+        "nama": "TPS 002, IYAITADI, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132003",
+        "tps": "9403132003001",
+        "url": "94\/9403\/940313\/9403132003\/9403132003001.json",
+        "nama": "TPS 001, KOPAIDAGI, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132001",
+        "tps": "9403132001001",
+        "url": "94\/9403\/940313\/9403132001\/9403132001001.json",
+        "nama": "TPS 001, PUGO, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132005",
+        "tps": "9403132005001",
+        "url": "94\/9403\/940313\/9403132005\/9403132005001.json",
+        "nama": "TPS 001, TIPAGO, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132005",
+        "tps": "9403132005002",
+        "url": "94\/9403\/940313\/9403132005\/9403132005002.json",
+        "nama": "TPS 002, TIPAGO, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132005",
+        "tps": "9403132005003",
+        "url": "94\/9403\/940313\/9403132005\/9403132005003.json",
+        "nama": "TPS 003, TIPAGO, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132005",
+        "tps": "9403132005004",
+        "url": "94\/9403\/940313\/9403132005\/9403132005004.json",
+        "nama": "TPS 004, TIPAGO, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132004",
+        "tps": "9403132004001",
+        "url": "94\/9403\/940313\/9403132004\/9403132004001.json",
+        "nama": "TPS 001, UWIBUTU, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132004",
+        "tps": "9403132004002",
+        "url": "94\/9403\/940313\/9403132004\/9403132004002.json",
+        "nama": "TPS 002, UWIBUTU, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132004",
+        "tps": "9403132004003",
+        "url": "94\/9403\/940313\/9403132004\/9403132004003.json",
+        "nama": "TPS 003, UWIBUTU, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132002",
+        "tps": "9403132002001",
+        "url": "94\/9403\/940313\/9403132002\/9403132002001.json",
+        "nama": "TPS 001, WAIDIDE, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132002",
+        "tps": "9403132002002",
+        "url": "94\/9403\/940313\/9403132002\/9403132002002.json",
+        "nama": "TPS 002, WAIDIDE, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132002",
+        "tps": "9403132002003",
+        "url": "94\/9403\/940313\/9403132002\/9403132002003.json",
+        "nama": "TPS 003, WAIDIDE, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132009",
+        "tps": "9403132009001",
+        "url": "94\/9403\/940313\/9403132009\/9403132009001.json",
+        "nama": "TPS 001, WAIEPO, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132009",
+        "tps": "9403132009002",
+        "url": "94\/9403\/940313\/9403132009\/9403132009002.json",
+        "nama": "TPS 002, WAIEPO, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940313",
+        "desa": "9403132009",
+        "tps": "9403132009003",
+        "url": "94\/9403\/940313\/9403132009\/9403132009003.json",
+        "nama": "TPS 003, WAIEPO, PUGO DAGI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072003",
+        "tps": "9403072003001",
+        "url": "94\/9403\/940307\/9403072003\/9403072003001.json",
+        "nama": "TPS 001, BUA, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072003",
+        "tps": "9403072003002",
+        "url": "94\/9403\/940307\/9403072003\/9403072003002.json",
+        "nama": "TPS 002, BUA, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072003",
+        "tps": "9403072003003",
+        "url": "94\/9403\/940307\/9403072003\/9403072003003.json",
+        "nama": "TPS 003, BUA, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072003",
+        "tps": "9403072003004",
+        "url": "94\/9403\/940307\/9403072003\/9403072003004.json",
+        "nama": "TPS 004, BUA, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072006",
+        "tps": "9403072006001",
+        "url": "94\/9403\/940307\/9403072006\/9403072006001.json",
+        "nama": "TPS 001, BUGUBUTU, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072002",
+        "tps": "9403072002001",
+        "url": "94\/9403\/940307\/9403072002\/9403072002001.json",
+        "nama": "TPS 001, DADOU, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072002",
+        "tps": "9403072002002",
+        "url": "94\/9403\/940307\/9403072002\/9403072002002.json",
+        "nama": "TPS 002, DADOU, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072002",
+        "tps": "9403072002003",
+        "url": "94\/9403\/940307\/9403072002\/9403072002003.json",
+        "nama": "TPS 003, DADOU, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072011",
+        "tps": "9403072011001",
+        "url": "94\/9403\/940307\/9403072011\/9403072011001.json",
+        "nama": "TPS 001, DEGATADI, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072011",
+        "tps": "9403072011002",
+        "url": "94\/9403\/940307\/9403072011\/9403072011002.json",
+        "nama": "TPS 002, DEGATADI, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072007",
+        "tps": "9403072007001",
+        "url": "94\/9403\/940307\/9403072007\/9403072007001.json",
+        "nama": "TPS 001, DOGOMOUTO, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072010",
+        "tps": "9403072010001",
+        "url": "94\/9403\/940307\/9403072010\/9403072010001.json",
+        "nama": "TPS 001, EGUAI, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072008",
+        "tps": "9403072008001",
+        "url": "94\/9403\/940307\/9403072008\/9403072008001.json",
+        "nama": "TPS 001, GIWO, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072004",
+        "tps": "9403072004001",
+        "url": "94\/9403\/940307\/9403072004\/9403072004001.json",
+        "nama": "TPS 001, KEPI, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072004",
+        "tps": "9403072004002",
+        "url": "94\/9403\/940307\/9403072004\/9403072004002.json",
+        "nama": "TPS 002, KEPI, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072009",
+        "tps": "9403072009001",
+        "url": "94\/9403\/940307\/9403072009\/9403072009001.json",
+        "nama": "TPS 001, NOMOKEPOTA, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072009",
+        "tps": "9403072009002",
+        "url": "94\/9403\/940307\/9403072009\/9403072009002.json",
+        "nama": "TPS 002, NOMOKEPOTA, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072001",
+        "tps": "9403072001001",
+        "url": "94\/9403\/940307\/9403072001\/9403072001001.json",
+        "nama": "TPS 001, TODIA, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072001",
+        "tps": "9403072001002",
+        "url": "94\/9403\/940307\/9403072001\/9403072001002.json",
+        "nama": "TPS 002, TODIA, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072001",
+        "tps": "9403072001003",
+        "url": "94\/9403\/940307\/9403072001\/9403072001003.json",
+        "nama": "TPS 003, TODIA, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072012",
+        "tps": "9403072012001",
+        "url": "94\/9403\/940307\/9403072012\/9403072012001.json",
+        "nama": "TPS 001, UWOYUPI, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072012",
+        "tps": "9403072012002",
+        "url": "94\/9403\/940307\/9403072012\/9403072012002.json",
+        "nama": "TPS 002, UWOYUPI, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072005",
+        "tps": "9403072005001",
+        "url": "94\/9403\/940307\/9403072005\/9403072005001.json",
+        "nama": "TPS 001, WAGEME, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072013",
+        "tps": "9403072013001",
+        "url": "94\/9403\/940307\/9403072013\/9403072013001.json",
+        "nama": "TPS 001, WEGEKEBO, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072014",
+        "tps": "9403072014001",
+        "url": "94\/9403\/940307\/9403072014\/9403072014001.json",
+        "nama": "TPS 001, YINOTADI, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940307",
+        "desa": "9403072014",
+        "tps": "9403072014002",
+        "url": "94\/9403\/940307\/9403072014\/9403072014002.json",
+        "nama": "TPS 002, YINOTADI, SIRIWO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162005",
+        "tps": "9403162005001",
+        "url": "94\/9403\/940316\/9403162005\/9403162005001.json",
+        "nama": "TPS 001, BIYADIDE, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162005",
+        "tps": "9403162005002",
+        "url": "94\/9403\/940316\/9403162005\/9403162005002.json",
+        "nama": "TPS 002, BIYADIDE, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162006",
+        "tps": "9403162006001",
+        "url": "94\/9403\/940316\/9403162006\/9403162006001.json",
+        "nama": "TPS 001, PEKEGE, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162006",
+        "tps": "9403162006002",
+        "url": "94\/9403\/940316\/9403162006\/9403162006002.json",
+        "nama": "TPS 002, PEKEGE, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162006",
+        "tps": "9403162006003",
+        "url": "94\/9403\/940316\/9403162006\/9403162006003.json",
+        "nama": "TPS 003, PEKEGE, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162004",
+        "tps": "9403162004001",
+        "url": "94\/9403\/940316\/9403162004\/9403162004001.json",
+        "nama": "TPS 001, TOTIYO, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162003",
+        "tps": "9403162003001",
+        "url": "94\/9403\/940316\/9403162003\/9403162003001.json",
+        "nama": "TPS 001, UKAGO, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162003",
+        "tps": "9403162003002",
+        "url": "94\/9403\/940316\/9403162003\/9403162003002.json",
+        "nama": "TPS 002, UKAGO, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162001",
+        "tps": "9403162001001",
+        "url": "94\/9403\/940316\/9403162001\/9403162001001.json",
+        "nama": "TPS 001, UKAUWO, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162001",
+        "tps": "9403162001002",
+        "url": "94\/9403\/940316\/9403162001\/9403162001002.json",
+        "nama": "TPS 002, UKAUWO, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162002",
+        "tps": "9403162002001",
+        "url": "94\/9403\/940316\/9403162002\/9403162002001.json",
+        "nama": "TPS 001, WAIPA, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162002",
+        "tps": "9403162002002",
+        "url": "94\/9403\/940316\/9403162002\/9403162002002.json",
+        "nama": "TPS 002, WAIPA, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162002",
+        "tps": "9403162002003",
+        "url": "94\/9403\/940316\/9403162002\/9403162002003.json",
+        "nama": "TPS 003, WAIPA, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162002",
+        "tps": "9403162002004",
+        "url": "94\/9403\/940316\/9403162002\/9403162002004.json",
+        "nama": "TPS 004, WAIPA, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162002",
+        "tps": "9403162002005",
+        "url": "94\/9403\/940316\/9403162002\/9403162002005.json",
+        "nama": "TPS 005, WAIPA, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940316",
+        "desa": "9403162002",
+        "tps": "9403162002006",
+        "url": "94\/9403\/940316\/9403162002\/9403162002006.json",
+        "nama": "TPS 006, WAIPA, TELUK DEYA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232005",
+        "tps": "9403232005001",
+        "url": "94\/9403\/940323\/9403232005\/9403232005001.json",
+        "nama": "TPS 001, DEBAKEBOUDA, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232004",
+        "tps": "9403232004001",
+        "url": "94\/9403\/940323\/9403232004\/9403232004001.json",
+        "nama": "TPS 001, EKAUWIYA, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232004",
+        "tps": "9403232004002",
+        "url": "94\/9403\/940323\/9403232004\/9403232004002.json",
+        "nama": "TPS 002, EKAUWIYA, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232002",
+        "tps": "9403232002001",
+        "url": "94\/9403\/940323\/9403232002\/9403232002001.json",
+        "nama": "TPS 001, EYAGITAIDA, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232002",
+        "tps": "9403232002002",
+        "url": "94\/9403\/940323\/9403232002\/9403232002002.json",
+        "nama": "TPS 002, EYAGITAIDA, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232009",
+        "tps": "9403232009001",
+        "url": "94\/9403\/940323\/9403232009\/9403232009001.json",
+        "nama": "TPS 001, GAKOKOTU, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232006",
+        "tps": "9403232006001",
+        "url": "94\/9403\/940323\/9403232006\/9403232006001.json",
+        "nama": "TPS 001, KAIDOUTADI, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232006",
+        "tps": "9403232006002",
+        "url": "94\/9403\/940323\/9403232006\/9403232006002.json",
+        "nama": "TPS 002, KAIDOUTADI, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232006",
+        "tps": "9403232006003",
+        "url": "94\/9403\/940323\/9403232006\/9403232006003.json",
+        "nama": "TPS 003, KAIDOUTADI, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232006",
+        "tps": "9403232006004",
+        "url": "94\/9403\/940323\/9403232006\/9403232006004.json",
+        "nama": "TPS 004, KAIDOUTADI, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232010",
+        "tps": "9403232010001",
+        "url": "94\/9403\/940323\/9403232010\/9403232010001.json",
+        "nama": "TPS 001, KEGAMA, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232003",
+        "tps": "9403232003001",
+        "url": "94\/9403\/940323\/9403232003\/9403232003001.json",
+        "nama": "TPS 001, MOMAGEIDA, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232001",
+        "tps": "9403232001001",
+        "url": "94\/9403\/940323\/9403232001\/9403232001001.json",
+        "nama": "TPS 001, OBAIPUGAIDA, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232008",
+        "tps": "9403232008001",
+        "url": "94\/9403\/940323\/9403232008\/9403232008001.json",
+        "nama": "TPS 001, OKONOBAIDA, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940323",
+        "desa": "9403232007",
+        "tps": "9403232007001",
+        "url": "94\/9403\/940323\/9403232007\/9403232007001.json",
+        "nama": "TPS 001, POGEIDIMI, TOPIYAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122008",
+        "tps": "9403122008001",
+        "url": "94\/9403\/940312\/9403122008\/9403122008001.json",
+        "nama": "TPS 001, BOUTAI, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122008",
+        "tps": "9403122008002",
+        "url": "94\/9403\/940312\/9403122008\/9403122008002.json",
+        "nama": "TPS 002, BOUTAI, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122003",
+        "tps": "9403122003001",
+        "url": "94\/9403\/940312\/9403122003\/9403122003001.json",
+        "nama": "TPS 001, BUBUGIWO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122003",
+        "tps": "9403122003002",
+        "url": "94\/9403\/940312\/9403122003\/9403122003002.json",
+        "nama": "TPS 002, BUBUGIWO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122003",
+        "tps": "9403122003003",
+        "url": "94\/9403\/940312\/9403122003\/9403122003003.json",
+        "nama": "TPS 003, BUBUGIWO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122009",
+        "tps": "9403122009001",
+        "url": "94\/9403\/940312\/9403122009\/9403122009001.json",
+        "nama": "TPS 001, BUKA DUWATA, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122006",
+        "tps": "9403122006001",
+        "url": "94\/9403\/940312\/9403122006\/9403122006001.json",
+        "nama": "TPS 001, DAGOUTO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122006",
+        "tps": "9403122006002",
+        "url": "94\/9403\/940312\/9403122006\/9403122006002.json",
+        "nama": "TPS 002, DAGOUTO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122001",
+        "tps": "9403122001001",
+        "url": "94\/9403\/940312\/9403122001\/9403122001001.json",
+        "nama": "TPS 001, DEI, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122001",
+        "tps": "9403122001002",
+        "url": "94\/9403\/940312\/9403122001\/9403122001002.json",
+        "nama": "TPS 002, DEI, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122001",
+        "tps": "9403122001003",
+        "url": "94\/9403\/940312\/9403122001\/9403122001003.json",
+        "nama": "TPS 003, DEI, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122007",
+        "tps": "9403122007001",
+        "url": "94\/9403\/940312\/9403122007\/9403122007001.json",
+        "nama": "TPS 001, KOPABUTU, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122007",
+        "tps": "9403122007002",
+        "url": "94\/9403\/940312\/9403122007\/9403122007002.json",
+        "nama": "TPS 002, KOPABUTU, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122002",
+        "tps": "9403122002001",
+        "url": "94\/9403\/940312\/9403122002\/9403122002001.json",
+        "nama": "TPS 001, OBAIYOWETA, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122002",
+        "tps": "9403122002002",
+        "url": "94\/9403\/940312\/9403122002\/9403122002002.json",
+        "nama": "TPS 002, OBAIYOWETA, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122005",
+        "tps": "9403122005001",
+        "url": "94\/9403\/940312\/9403122005\/9403122005001.json",
+        "nama": "TPS 001, TAMUGAUWO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122005",
+        "tps": "9403122005002",
+        "url": "94\/9403\/940312\/9403122005\/9403122005002.json",
+        "nama": "TPS 002, TAMUGAUWO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122005",
+        "tps": "9403122005003",
+        "url": "94\/9403\/940312\/9403122005\/9403122005003.json",
+        "nama": "TPS 003, TAMUGAUWO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122004",
+        "tps": "9403122004001",
+        "url": "94\/9403\/940312\/9403122004\/9403122004001.json",
+        "nama": "TPS 001, YIMOUTO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122004",
+        "tps": "9403122004002",
+        "url": "94\/9403\/940312\/9403122004\/9403122004002.json",
+        "nama": "TPS 002, YIMOUTO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940312",
+        "desa": "9403122004",
+        "tps": "9403122004003",
+        "url": "94\/9403\/940312\/9403122004\/9403122004003.json",
+        "nama": "TPS 003, YIMOUTO, WEGEE BINO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403111006",
+        "tps": "9403111006001",
+        "url": "94\/9403\/940311\/9403111006\/9403111006001.json",
+        "nama": "TPS 001, BADAWO, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403111006",
+        "tps": "9403111006002",
+        "url": "94\/9403\/940311\/9403111006\/9403111006002.json",
+        "nama": "TPS 002, BADAWO, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403111006",
+        "tps": "9403111006003",
+        "url": "94\/9403\/940311\/9403111006\/9403111006003.json",
+        "nama": "TPS 003, BADAWO, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403111006",
+        "tps": "9403111006004",
+        "url": "94\/9403\/940311\/9403111006\/9403111006004.json",
+        "nama": "TPS 004, BADAWO, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112007",
+        "tps": "9403112007001",
+        "url": "94\/9403\/940311\/9403112007\/9403112007001.json",
+        "nama": "TPS 001, GEKO, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112007",
+        "tps": "9403112007002",
+        "url": "94\/9403\/940311\/9403112007\/9403112007002.json",
+        "nama": "TPS 002, GEKO, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112008",
+        "tps": "9403112008001",
+        "url": "94\/9403\/940311\/9403112008\/9403112008001.json",
+        "nama": "TPS 001, KINOU, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112008",
+        "tps": "9403112008002",
+        "url": "94\/9403\/940311\/9403112008\/9403112008002.json",
+        "nama": "TPS 002, KINOU, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112005",
+        "tps": "9403112005001",
+        "url": "94\/9403\/940311\/9403112005\/9403112005001.json",
+        "nama": "TPS 001, KOBOUYAGAPA, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112005",
+        "tps": "9403112005002",
+        "url": "94\/9403\/940311\/9403112005\/9403112005002.json",
+        "nama": "TPS 002, KOBOUYAGAPA, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112004",
+        "tps": "9403112004001",
+        "url": "94\/9403\/940311\/9403112004\/9403112004001.json",
+        "nama": "TPS 001, KUGITADI, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112004",
+        "tps": "9403112004002",
+        "url": "94\/9403\/940311\/9403112004\/9403112004002.json",
+        "nama": "TPS 002, KUGITADI, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112004",
+        "tps": "9403112004003",
+        "url": "94\/9403\/940311\/9403112004\/9403112004003.json",
+        "nama": "TPS 003, KUGITADI, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112002",
+        "tps": "9403112002001",
+        "url": "94\/9403\/940311\/9403112002\/9403112002001.json",
+        "nama": "TPS 001, MUYADEBE, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112002",
+        "tps": "9403112002002",
+        "url": "94\/9403\/940311\/9403112002\/9403112002002.json",
+        "nama": "TPS 002, MUYADEBE, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112011",
+        "tps": "9403112011001",
+        "url": "94\/9403\/940311\/9403112011\/9403112011001.json",
+        "nama": "TPS 001, OBAIDAGI, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112011",
+        "tps": "9403112011002",
+        "url": "94\/9403\/940311\/9403112011\/9403112011002.json",
+        "nama": "TPS 002, OBAIDAGI, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112009",
+        "tps": "9403112009001",
+        "url": "94\/9403\/940311\/9403112009\/9403112009001.json",
+        "nama": "TPS 001, TOKO, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112001",
+        "tps": "9403112001001",
+        "url": "94\/9403\/940311\/9403112001\/9403112001001.json",
+        "nama": "TPS 001, UWAMANI, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112001",
+        "tps": "9403112001002",
+        "url": "94\/9403\/940311\/9403112001\/9403112001002.json",
+        "nama": "TPS 002, UWAMANI, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112001",
+        "tps": "9403112001003",
+        "url": "94\/9403\/940311\/9403112001\/9403112001003.json",
+        "nama": "TPS 003, UWAMANI, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112003",
+        "tps": "9403112003001",
+        "url": "94\/9403\/940311\/9403112003\/9403112003001.json",
+        "nama": "TPS 001, WOUBUTU, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112003",
+        "tps": "9403112003002",
+        "url": "94\/9403\/940311\/9403112003\/9403112003002.json",
+        "nama": "TPS 002, WOUBUTU, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112003",
+        "tps": "9403112003003",
+        "url": "94\/9403\/940311\/9403112003\/9403112003003.json",
+        "nama": "TPS 003, WOUBUTU, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112010",
+        "tps": "9403112010001",
+        "url": "94\/9403\/940311\/9403112010\/9403112010001.json",
+        "nama": "TPS 001, YAGIYO BUTU, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112010",
+        "tps": "9403112010002",
+        "url": "94\/9403\/940311\/9403112010\/9403112010002.json",
+        "nama": "TPS 002, YAGIYO BUTU, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112010",
+        "tps": "9403112010003",
+        "url": "94\/9403\/940311\/9403112010\/9403112010003.json",
+        "nama": "TPS 003, YAGIYO BUTU, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940311",
+        "desa": "9403112010",
+        "tps": "9403112010004",
+        "url": "94\/9403\/940311\/9403112010\/9403112010004.json",
+        "nama": "TPS 004, YAGIYO BUTU, WEGEE MUKA, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172003",
+        "tps": "9403172003001",
+        "url": "94\/9403\/940317\/9403172003\/9403172003001.json",
+        "nama": "TPS 001, AWEUBUTU, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172003",
+        "tps": "9403172003002",
+        "url": "94\/9403\/940317\/9403172003\/9403172003002.json",
+        "nama": "TPS 002, AWEUBUTU, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172008",
+        "tps": "9403172008001",
+        "url": "94\/9403\/940317\/9403172008\/9403172008001.json",
+        "nama": "TPS 001, DETAUWO, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172008",
+        "tps": "9403172008002",
+        "url": "94\/9403\/940317\/9403172008\/9403172008002.json",
+        "nama": "TPS 002, DETAUWO, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172008",
+        "tps": "9403172008003",
+        "url": "94\/9403\/940317\/9403172008\/9403172008003.json",
+        "nama": "TPS 003, DETAUWO, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172008",
+        "tps": "9403172008004",
+        "url": "94\/9403\/940317\/9403172008\/9403172008004.json",
+        "nama": "TPS 004, DETAUWO, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172008",
+        "tps": "9403172008005",
+        "url": "94\/9403\/940317\/9403172008\/9403172008005.json",
+        "nama": "TPS 005, DETAUWO, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172004",
+        "tps": "9403172004001",
+        "url": "94\/9403\/940317\/9403172004\/9403172004001.json",
+        "nama": "TPS 001, IPUWA, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172004",
+        "tps": "9403172004002",
+        "url": "94\/9403\/940317\/9403172004\/9403172004002.json",
+        "nama": "TPS 002, IPUWA, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172006",
+        "tps": "9403172006001",
+        "url": "94\/9403\/940317\/9403172006\/9403172006001.json",
+        "nama": "TPS 001, KEBO I, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172006",
+        "tps": "9403172006002",
+        "url": "94\/9403\/940317\/9403172006\/9403172006002.json",
+        "nama": "TPS 002, KEBO I, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172005",
+        "tps": "9403172005001",
+        "url": "94\/9403\/940317\/9403172005\/9403172005001.json",
+        "nama": "TPS 001, MUNAIYEPA, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172005",
+        "tps": "9403172005002",
+        "url": "94\/9403\/940317\/9403172005\/9403172005002.json",
+        "nama": "TPS 002, MUNAIYEPA, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172001",
+        "tps": "9403172001001",
+        "url": "94\/9403\/940317\/9403172001\/9403172001001.json",
+        "nama": "TPS 001, PANIBAGATA, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172001",
+        "tps": "9403172001002",
+        "url": "94\/9403\/940317\/9403172001\/9403172001002.json",
+        "nama": "TPS 002, PANIBAGATA, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172007",
+        "tps": "9403172007001",
+        "url": "94\/9403\/940317\/9403172007\/9403172007001.json",
+        "nama": "TPS 001, PAYOGEI, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172007",
+        "tps": "9403172007002",
+        "url": "94\/9403\/940317\/9403172007\/9403172007002.json",
+        "nama": "TPS 002, PAYOGEI, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172002",
+        "tps": "9403172002001",
+        "url": "94\/9403\/940317\/9403172002\/9403172002001.json",
+        "nama": "TPS 001, PUGAIDA, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172002",
+        "tps": "9403172002002",
+        "url": "94\/9403\/940317\/9403172002\/9403172002002.json",
+        "nama": "TPS 002, PUGAIDA, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172010",
+        "tps": "9403172010001",
+        "url": "94\/9403\/940317\/9403172010\/9403172010001.json",
+        "nama": "TPS 001, WOYOUTO, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172010",
+        "tps": "9403172010002",
+        "url": "94\/9403\/940317\/9403172010\/9403172010002.json",
+        "nama": "TPS 002, WOYOUTO, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172010",
+        "tps": "9403172010003",
+        "url": "94\/9403\/940317\/9403172010\/9403172010003.json",
+        "nama": "TPS 003, WOYOUTO, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172009",
+        "tps": "9403172009001",
+        "url": "94\/9403\/940317\/9403172009\/9403172009001.json",
+        "nama": "TPS 001, YAIBU, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172009",
+        "tps": "9403172009002",
+        "url": "94\/9403\/940317\/9403172009\/9403172009002.json",
+        "nama": "TPS 002, YAIBU, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940317",
+        "desa": "9403172009",
+        "tps": "9403172009003",
+        "url": "94\/9403\/940317\/9403172009\/9403172009003.json",
+        "nama": "TPS 003, YAIBU, YAGAI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940309",
+        "desa": "9403092004",
+        "tps": "9403092004001",
+        "url": "94\/9403\/940309\/9403092004\/9403092004001.json",
+        "nama": "TPS 001, DIMIYA, YATAMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940309",
+        "desa": "9403092004",
+        "tps": "9403092004002",
+        "url": "94\/9403\/940309\/9403092004\/9403092004002.json",
+        "nama": "TPS 002, DIMIYA, YATAMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940309",
+        "desa": "9403092002",
+        "tps": "9403092002001",
+        "url": "94\/9403\/940309\/9403092002\/9403092002001.json",
+        "nama": "TPS 001, KENIAPA, YATAMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940309",
+        "desa": "9403092003",
+        "tps": "9403092003001",
+        "url": "94\/9403\/940309\/9403092003\/9403092003001.json",
+        "nama": "TPS 001, MEMIYAIBUTU, YATAMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940309",
+        "desa": "9403092003",
+        "tps": "9403092003002",
+        "url": "94\/9403\/940309\/9403092003\/9403092003002.json",
+        "nama": "TPS 002, MEMIYAIBUTU, YATAMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940309",
+        "desa": "9403092005",
+        "tps": "9403092005001",
+        "url": "94\/9403\/940309\/9403092005\/9403092005001.json",
+        "nama": "TPS 001, UDAUGI, YATAMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940309",
+        "desa": "9403092001",
+        "tps": "9403092001001",
+        "url": "94\/9403\/940309\/9403092001\/9403092001001.json",
+        "nama": "TPS 001, WOTAI, YATAMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940309",
+        "desa": "9403092001",
+        "tps": "9403092001002",
+        "url": "94\/9403\/940309\/9403092001\/9403092001002.json",
+        "nama": "TPS 002, WOTAI, YATAMO, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005001",
+        "url": "94\/9403\/940318\/9403182005\/9403182005001.json",
+        "nama": "TPS 001, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005002",
+        "url": "94\/9403\/940318\/9403182005\/9403182005002.json",
+        "nama": "TPS 002, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005003",
+        "url": "94\/9403\/940318\/9403182005\/9403182005003.json",
+        "nama": "TPS 003, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005004",
+        "url": "94\/9403\/940318\/9403182005\/9403182005004.json",
+        "nama": "TPS 004, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005005",
+        "url": "94\/9403\/940318\/9403182005\/9403182005005.json",
+        "nama": "TPS 005, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005006",
+        "url": "94\/9403\/940318\/9403182005\/9403182005006.json",
+        "nama": "TPS 006, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005007",
+        "url": "94\/9403\/940318\/9403182005\/9403182005007.json",
+        "nama": "TPS 007, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005008",
+        "url": "94\/9403\/940318\/9403182005\/9403182005008.json",
+        "nama": "TPS 008, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005009",
+        "url": "94\/9403\/940318\/9403182005\/9403182005009.json",
+        "nama": "TPS 009, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005010",
+        "url": "94\/9403\/940318\/9403182005\/9403182005010.json",
+        "nama": "TPS 010, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005011",
+        "url": "94\/9403\/940318\/9403182005\/9403182005011.json",
+        "nama": "TPS 011, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182005",
+        "tps": "9403182005012",
+        "url": "94\/9403\/940318\/9403182005\/9403182005012.json",
+        "nama": "TPS 012, DOKONEIDA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182003",
+        "tps": "9403182003001",
+        "url": "94\/9403\/940318\/9403182003\/9403182003001.json",
+        "nama": "TPS 001, IPOUWA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182003",
+        "tps": "9403182003002",
+        "url": "94\/9403\/940318\/9403182003\/9403182003002.json",
+        "nama": "TPS 002, IPOUWA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182003",
+        "tps": "9403182003003",
+        "url": "94\/9403\/940318\/9403182003\/9403182003003.json",
+        "nama": "TPS 003, IPOUWA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182004",
+        "tps": "9403182004001",
+        "url": "94\/9403\/940318\/9403182004\/9403182004001.json",
+        "nama": "TPS 001, MUNAIYEPA, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182006",
+        "tps": "9403182006001",
+        "url": "94\/9403\/940318\/9403182006\/9403182006001.json",
+        "nama": "TPS 001, NAMUTADI, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182002",
+        "tps": "9403182002001",
+        "url": "94\/9403\/940318\/9403182002\/9403182002001.json",
+        "nama": "TPS 001, UWAGI, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182002",
+        "tps": "9403182002002",
+        "url": "94\/9403\/940318\/9403182002\/9403182002002.json",
+        "nama": "TPS 002, UWAGI, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182001",
+        "tps": "9403182001001",
+        "url": "94\/9403\/940318\/9403182001\/9403182001001.json",
+        "nama": "TPS 001, YOUTADI, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182001",
+        "tps": "9403182001002",
+        "url": "94\/9403\/940318\/9403182001\/9403182001002.json",
+        "nama": "TPS 002, YOUTADI, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182001",
+        "tps": "9403182001003",
+        "url": "94\/9403\/940318\/9403182001\/9403182001003.json",
+        "nama": "TPS 003, YOUTADI, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182001",
+        "tps": "9403182001004",
+        "url": "94\/9403\/940318\/9403182001\/9403182001004.json",
+        "nama": "TPS 004, YOUTADI, YOUTADI, PANIAI, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9403",
+        "kecamatan": "940318",
+        "desa": "9403182001",
+        "tps": "9403182001005",
+        "url": "94\/9403\/940318\/9403182001\/9403182001005.json",
+        "nama": "TPS 005, YOUTADI, YOUTADI, PANIAI, PAPUA TENGAH"
+    }
+]

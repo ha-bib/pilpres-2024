@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "16",
+        "kabupaten": "1609",
+        "kecamatan": "160901",
+        "desa": "1609012024",
+        "tps": "1609012024001",
+        "nama": "TPS 001, PELANGKI, MUARA DUA, OGAN KOMERING ULU SELATAN, SUMATERA SELATAN",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1609\/160901\/1609012024\/1609012024001"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1609",
+        "kecamatan": "160902",
+        "desa": "1609022015",
+        "tps": "1609022015003",
+        "nama": "TPS 003, TANJUNG KARI, PULAU BERINGIN, OGAN KOMERING ULU SELATAN, SUMATERA SELATAN",
+        "selisih": -60,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1609\/160902\/1609022015\/1609022015003"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1609",
+        "kecamatan": "160914",
+        "desa": "1609142007",
+        "tps": "1609142007009",
+        "nama": "TPS 009, GEDUNG WANI, RUNJUNG AGUNG, OGAN KOMERING ULU SELATAN, SUMATERA SELATAN",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1609\/160914\/1609142007\/1609142007009"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1609",
+        "kecamatan": "160913",
+        "desa": "1609132002",
+        "tps": "1609132002010",
+        "nama": "TPS 010, KOTA BATU, WARKUK RANAU SELATAN, OGAN KOMERING ULU SELATAN, SUMATERA SELATAN",
+        "selisih": -31,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1609\/160913\/1609132002\/1609132002010"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1609",
+        "kecamatan": "160902",
+        "desa": "1609022017",
+        "tps": "1609022017005",
+        "nama": "TPS 005, PAGAR AGUNG, PULAU BERINGIN, OGAN KOMERING ULU SELATAN, SUMATERA SELATAN",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1609\/160902\/1609022017\/1609022017005"
+    }
+]

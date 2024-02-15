@@ -1,0 +1,1145 @@
+[
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042009",
+        "tps": "9211042009001",
+        "url": "92\/9211\/921104\/9211042009\/9211042009001.json",
+        "nama": "TPS 001, DESRA, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042012",
+        "tps": "9211042012001",
+        "url": "92\/9211\/921104\/9211042012\/9211042012001.json",
+        "nama": "TPS 001, DIBERA, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042007",
+        "tps": "9211042007001",
+        "url": "92\/9211\/921104\/9211042007\/9211042007001.json",
+        "nama": "TPS 001, DIHISU, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042002",
+        "tps": "9211042002001",
+        "url": "92\/9211\/921104\/9211042002\/9211042002001.json",
+        "nama": "TPS 001, DUHUGESA, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042006",
+        "tps": "9211042006001",
+        "url": "92\/9211\/921104\/9211042006\/9211042006001.json",
+        "nama": "TPS 001, HUGOMOT, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042008",
+        "tps": "9211042008001",
+        "url": "92\/9211\/921104\/9211042008\/9211042008001.json",
+        "nama": "TPS 001, INYUARA, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042001",
+        "tps": "9211042001001",
+        "url": "92\/9211\/921104\/9211042001\/9211042001001.json",
+        "nama": "TPS 001, ISIM, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042010",
+        "tps": "9211042010001",
+        "url": "92\/9211\/921104\/9211042010\/9211042010001.json",
+        "nama": "TPS 001, MINDERMES, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042011",
+        "tps": "9211042011001",
+        "url": "92\/9211\/921104\/9211042011\/9211042011001.json",
+        "nama": "TPS 001, SIBJO, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042005",
+        "tps": "9211042005001",
+        "url": "92\/9211\/921104\/9211042005\/9211042005001.json",
+        "nama": "TPS 001, TOHOSTA, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042003",
+        "tps": "9211042003001",
+        "url": "92\/9211\/921104\/9211042003\/9211042003001.json",
+        "nama": "TPS 001, TUBES, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042003",
+        "tps": "9211042003002",
+        "url": "92\/9211\/921104\/9211042003\/9211042003002.json",
+        "nama": "TPS 002, TUBES, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921104",
+        "desa": "9211042004",
+        "tps": "9211042004001",
+        "url": "92\/9211\/921104\/9211042004\/9211042004001.json",
+        "nama": "TPS 001, UMOHOUSI, DATARAN ISIM, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052001",
+        "tps": "9211052001001",
+        "url": "92\/9211\/921105\/9211052001\/9211052001001.json",
+        "nama": "TPS 001, DEMBEK, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052001",
+        "tps": "9211052001002",
+        "url": "92\/9211\/921105\/9211052001\/9211052001002.json",
+        "nama": "TPS 002, DEMBEK, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052001",
+        "tps": "9211052001003",
+        "url": "92\/9211\/921105\/9211052001\/9211052001003.json",
+        "nama": "TPS 003, DEMBEK, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052001",
+        "tps": "9211052001004",
+        "url": "92\/9211\/921105\/9211052001\/9211052001004.json",
+        "nama": "TPS 004, DEMBEK, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052001",
+        "tps": "9211052001005",
+        "url": "92\/9211\/921105\/9211052001\/9211052001005.json",
+        "nama": "TPS 005, DEMBEK, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052006",
+        "tps": "9211052006001",
+        "url": "92\/9211\/921105\/9211052006\/9211052006001.json",
+        "nama": "TPS 001, DEMINI, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052006",
+        "tps": "9211052006002",
+        "url": "92\/9211\/921105\/9211052006\/9211052006002.json",
+        "nama": "TPS 002, DEMINI, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052004",
+        "tps": "9211052004001",
+        "url": "92\/9211\/921105\/9211052004\/9211052004001.json",
+        "nama": "TPS 001, GAYA BARU, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052004",
+        "tps": "9211052004002",
+        "url": "92\/9211\/921105\/9211052004\/9211052004002.json",
+        "nama": "TPS 002, GAYA BARU, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052004",
+        "tps": "9211052004003",
+        "url": "92\/9211\/921105\/9211052004\/9211052004003.json",
+        "nama": "TPS 003, GAYA BARU, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052002",
+        "tps": "9211052002001",
+        "url": "92\/9211\/921105\/9211052002\/9211052002001.json",
+        "nama": "TPS 001, NIJ, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052003",
+        "tps": "9211052003001",
+        "url": "92\/9211\/921105\/9211052003\/9211052003001.json",
+        "nama": "TPS 001, SIWI, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052003",
+        "tps": "9211052003002",
+        "url": "92\/9211\/921105\/9211052003\/9211052003002.json",
+        "nama": "TPS 002, SIWI, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052003",
+        "tps": "9211052003003",
+        "url": "92\/9211\/921105\/9211052003\/9211052003003.json",
+        "nama": "TPS 003, SIWI, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052005",
+        "tps": "9211052005001",
+        "url": "92\/9211\/921105\/9211052005\/9211052005001.json",
+        "nama": "TPS 001, WAREN, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052005",
+        "tps": "9211052005002",
+        "url": "92\/9211\/921105\/9211052005\/9211052005002.json",
+        "nama": "TPS 002, WAREN, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052007",
+        "tps": "9211052007001",
+        "url": "92\/9211\/921105\/9211052007\/9211052007001.json",
+        "nama": "TPS 001, YEKWANDI, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921105",
+        "desa": "9211052007",
+        "tps": "9211052007002",
+        "url": "92\/9211\/921105\/9211052007\/9211052007002.json",
+        "nama": "TPS 002, YEKWANDI, MOMI WAREN, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032006",
+        "tps": "9211032006001",
+        "url": "92\/9211\/921103\/9211032006\/9211032006001.json",
+        "nama": "TPS 001, ARYAWENMOHO, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032006",
+        "tps": "9211032006002",
+        "url": "92\/9211\/921103\/9211032006\/9211032006002.json",
+        "nama": "TPS 002, ARYAWENMOHO, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032005",
+        "tps": "9211032005001",
+        "url": "92\/9211\/921103\/9211032005\/9211032005001.json",
+        "nama": "TPS 001, BENYAS, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032002",
+        "tps": "9211032002001",
+        "url": "92\/9211\/921103\/9211032002\/9211032002001.json",
+        "nama": "TPS 001, DISI, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032003",
+        "tps": "9211032003001",
+        "url": "92\/9211\/921103\/9211032003\/9211032003001.json",
+        "nama": "TPS 001, HIYOU, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032003",
+        "tps": "9211032003002",
+        "url": "92\/9211\/921103\/9211032003\/9211032003002.json",
+        "nama": "TPS 002, HIYOU, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032007",
+        "tps": "9211032007001",
+        "url": "92\/9211\/921103\/9211032007\/9211032007001.json",
+        "nama": "TPS 001, NENEY, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032007",
+        "tps": "9211032007002",
+        "url": "92\/9211\/921103\/9211032007\/9211032007002.json",
+        "nama": "TPS 002, NENEY, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032004",
+        "tps": "9211032004001",
+        "url": "92\/9211\/921103\/9211032004\/9211032004001.json",
+        "nama": "TPS 001, SESUM, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032004",
+        "tps": "9211032004002",
+        "url": "92\/9211\/921103\/9211032004\/9211032004002.json",
+        "nama": "TPS 002, SESUM, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921103",
+        "desa": "9211032001",
+        "tps": "9211032001001",
+        "url": "92\/9211\/921103\/9211032001\/9211032001001.json",
+        "nama": "TPS 001, WAMA, NENEY, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022013",
+        "tps": "9211022013001",
+        "url": "92\/9211\/921102\/9211022013\/9211022013001.json",
+        "nama": "TPS 001, AKEJU, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022004",
+        "tps": "9211022004001",
+        "url": "92\/9211\/921102\/9211022004\/9211022004001.json",
+        "nama": "TPS 001, MARGO RUKUN, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022004",
+        "tps": "9211022004002",
+        "url": "92\/9211\/921102\/9211022004\/9211022004002.json",
+        "nama": "TPS 002, MARGO RUKUN, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022009",
+        "tps": "9211022009001",
+        "url": "92\/9211\/921102\/9211022009\/9211022009001.json",
+        "nama": "TPS 001, MARGOMULYO, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022009",
+        "tps": "9211022009002",
+        "url": "92\/9211\/921102\/9211022009\/9211022009002.json",
+        "nama": "TPS 002, MARGOMULYO, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022007",
+        "tps": "9211022007001",
+        "url": "92\/9211\/921102\/9211022007\/9211022007001.json",
+        "nama": "TPS 001, MASABUI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022014",
+        "tps": "9211022014001",
+        "url": "92\/9211\/921102\/9211022014\/9211022014001.json",
+        "nama": "TPS 001, MASABUI II, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022005",
+        "tps": "9211022005001",
+        "url": "92\/9211\/921102\/9211022005\/9211022005001.json",
+        "nama": "TPS 001, MUARI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022005",
+        "tps": "9211022005002",
+        "url": "92\/9211\/921102\/9211022005\/9211022005002.json",
+        "nama": "TPS 002, MUARI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022005",
+        "tps": "9211022005003",
+        "url": "92\/9211\/921102\/9211022005\/9211022005003.json",
+        "nama": "TPS 003, MUARI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022001",
+        "tps": "9211022001001",
+        "url": "92\/9211\/921102\/9211022001\/9211022001001.json",
+        "nama": "TPS 001, ORANSBARI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022001",
+        "tps": "9211022001002",
+        "url": "92\/9211\/921102\/9211022001\/9211022001002.json",
+        "nama": "TPS 002, ORANSBARI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022002",
+        "tps": "9211022002001",
+        "url": "92\/9211\/921102\/9211022002\/9211022002001.json",
+        "nama": "TPS 001, SIDOMULYO, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022002",
+        "tps": "9211022002002",
+        "url": "92\/9211\/921102\/9211022002\/9211022002002.json",
+        "nama": "TPS 002, SIDOMULYO, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022002",
+        "tps": "9211022002003",
+        "url": "92\/9211\/921102\/9211022002\/9211022002003.json",
+        "nama": "TPS 003, SIDOMULYO, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022002",
+        "tps": "9211022002004",
+        "url": "92\/9211\/921102\/9211022002\/9211022002004.json",
+        "nama": "TPS 004, SIDOMULYO, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022011",
+        "tps": "9211022011001",
+        "url": "92\/9211\/921102\/9211022011\/9211022011001.json",
+        "nama": "TPS 001, SINDANG JAYA, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022011",
+        "tps": "9211022011002",
+        "url": "92\/9211\/921102\/9211022011\/9211022011002.json",
+        "nama": "TPS 002, SINDANG JAYA, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022011",
+        "tps": "9211022011003",
+        "url": "92\/9211\/921102\/9211022011\/9211022011003.json",
+        "nama": "TPS 003, SINDANG JAYA, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022012",
+        "tps": "9211022012001",
+        "url": "92\/9211\/921102\/9211022012\/9211022012001.json",
+        "nama": "TPS 001, WANDOKI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022008",
+        "tps": "9211022008001",
+        "url": "92\/9211\/921102\/9211022008\/9211022008001.json",
+        "nama": "TPS 001, WARBIADI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022008",
+        "tps": "9211022008002",
+        "url": "92\/9211\/921102\/9211022008\/9211022008002.json",
+        "nama": "TPS 002, WARBIADI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022010",
+        "tps": "9211022010001",
+        "url": "92\/9211\/921102\/9211022010\/9211022010001.json",
+        "nama": "TPS 001, WARKWANDI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022010",
+        "tps": "9211022010002",
+        "url": "92\/9211\/921102\/9211022010\/9211022010002.json",
+        "nama": "TPS 002, WARKWANDI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022003",
+        "tps": "9211022003001",
+        "url": "92\/9211\/921102\/9211022003\/9211022003001.json",
+        "nama": "TPS 001, WAROSER, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022003",
+        "tps": "9211022003002",
+        "url": "92\/9211\/921102\/9211022003\/9211022003002.json",
+        "nama": "TPS 002, WAROSER, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921102",
+        "desa": "9211022006",
+        "tps": "9211022006001",
+        "url": "92\/9211\/921102\/9211022006\/9211022006001.json",
+        "nama": "TPS 001, WATARIRI, ORANSBARI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007001",
+        "url": "92\/9211\/921101\/9211012007\/9211012007001.json",
+        "nama": "TPS 001, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007002",
+        "url": "92\/9211\/921101\/9211012007\/9211012007002.json",
+        "nama": "TPS 002, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007003",
+        "url": "92\/9211\/921101\/9211012007\/9211012007003.json",
+        "nama": "TPS 003, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007004",
+        "url": "92\/9211\/921101\/9211012007\/9211012007004.json",
+        "nama": "TPS 004, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007005",
+        "url": "92\/9211\/921101\/9211012007\/9211012007005.json",
+        "nama": "TPS 005, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007006",
+        "url": "92\/9211\/921101\/9211012007\/9211012007006.json",
+        "nama": "TPS 006, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007007",
+        "url": "92\/9211\/921101\/9211012007\/9211012007007.json",
+        "nama": "TPS 007, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007008",
+        "url": "92\/9211\/921101\/9211012007\/9211012007008.json",
+        "nama": "TPS 008, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007009",
+        "url": "92\/9211\/921101\/9211012007\/9211012007009.json",
+        "nama": "TPS 009, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007010",
+        "url": "92\/9211\/921101\/9211012007\/9211012007010.json",
+        "nama": "TPS 010, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007011",
+        "url": "92\/9211\/921101\/9211012007\/9211012007011.json",
+        "nama": "TPS 011, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007012",
+        "url": "92\/9211\/921101\/9211012007\/9211012007012.json",
+        "nama": "TPS 012, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007013",
+        "url": "92\/9211\/921101\/9211012007\/9211012007013.json",
+        "nama": "TPS 013, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012007",
+        "tps": "9211012007014",
+        "url": "92\/9211\/921101\/9211012007\/9211012007014.json",
+        "nama": "TPS 014, ABRESO, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012006",
+        "tps": "9211012006001",
+        "url": "92\/9211\/921101\/9211012006\/9211012006001.json",
+        "nama": "TPS 001, BAMAHA, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012006",
+        "tps": "9211012006002",
+        "url": "92\/9211\/921101\/9211012006\/9211012006002.json",
+        "nama": "TPS 002, BAMAHA, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012006",
+        "tps": "9211012006003",
+        "url": "92\/9211\/921101\/9211012006\/9211012006003.json",
+        "nama": "TPS 003, BAMAHA, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012008",
+        "tps": "9211012008001",
+        "url": "92\/9211\/921101\/9211012008\/9211012008001.json",
+        "nama": "TPS 001, HAMAWI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012008",
+        "tps": "9211012008002",
+        "url": "92\/9211\/921101\/9211012008\/9211012008002.json",
+        "nama": "TPS 002, HAMAWI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012011",
+        "tps": "9211012011001",
+        "url": "92\/9211\/921101\/9211012011\/9211012011001.json",
+        "nama": "TPS 001, HAMOR, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012011",
+        "tps": "9211012011002",
+        "url": "92\/9211\/921101\/9211012011\/9211012011002.json",
+        "nama": "TPS 002, HAMOR, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012009",
+        "tps": "9211012009001",
+        "url": "92\/9211\/921101\/9211012009\/9211012009001.json",
+        "nama": "TPS 001, KOBREY, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012009",
+        "tps": "9211012009002",
+        "url": "92\/9211\/921101\/9211012009\/9211012009002.json",
+        "nama": "TPS 002, KOBREY, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012009",
+        "tps": "9211012009003",
+        "url": "92\/9211\/921101\/9211012009\/9211012009003.json",
+        "nama": "TPS 003, KOBREY, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012013",
+        "tps": "9211012013001",
+        "url": "92\/9211\/921101\/9211012013\/9211012013001.json",
+        "nama": "TPS 001, MAMBREMA, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012002",
+        "tps": "9211012002001",
+        "url": "92\/9211\/921101\/9211012002\/9211012002001.json",
+        "nama": "TPS 001, NUHUWEI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012002",
+        "tps": "9211012002002",
+        "url": "92\/9211\/921101\/9211012002\/9211012002002.json",
+        "nama": "TPS 002, NUHUWEI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001001",
+        "url": "92\/9211\/921101\/9211012001\/9211012001001.json",
+        "nama": "TPS 001, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001002",
+        "url": "92\/9211\/921101\/9211012001\/9211012001002.json",
+        "nama": "TPS 002, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001003",
+        "url": "92\/9211\/921101\/9211012001\/9211012001003.json",
+        "nama": "TPS 003, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001004",
+        "url": "92\/9211\/921101\/9211012001\/9211012001004.json",
+        "nama": "TPS 004, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001005",
+        "url": "92\/9211\/921101\/9211012001\/9211012001005.json",
+        "nama": "TPS 005, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001006",
+        "url": "92\/9211\/921101\/9211012001\/9211012001006.json",
+        "nama": "TPS 006, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001007",
+        "url": "92\/9211\/921101\/9211012001\/9211012001007.json",
+        "nama": "TPS 007, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001008",
+        "url": "92\/9211\/921101\/9211012001\/9211012001008.json",
+        "nama": "TPS 008, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001009",
+        "url": "92\/9211\/921101\/9211012001\/9211012001009.json",
+        "nama": "TPS 009, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001010",
+        "url": "92\/9211\/921101\/9211012001\/9211012001010.json",
+        "nama": "TPS 010, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012001",
+        "tps": "9211012001011",
+        "url": "92\/9211\/921101\/9211012001\/9211012001011.json",
+        "nama": "TPS 011, RANSIKI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012005",
+        "tps": "9211012005001",
+        "url": "92\/9211\/921101\/9211012005\/9211012005001.json",
+        "nama": "TPS 001, SABRI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012005",
+        "tps": "9211012005002",
+        "url": "92\/9211\/921101\/9211012005\/9211012005002.json",
+        "nama": "TPS 002, SABRI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012005",
+        "tps": "9211012005003",
+        "url": "92\/9211\/921101\/9211012005\/9211012005003.json",
+        "nama": "TPS 003, SABRI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012005",
+        "tps": "9211012005004",
+        "url": "92\/9211\/921101\/9211012005\/9211012005004.json",
+        "nama": "TPS 004, SABRI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012005",
+        "tps": "9211012005005",
+        "url": "92\/9211\/921101\/9211012005\/9211012005005.json",
+        "nama": "TPS 005, SABRI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012012",
+        "tps": "9211012012001",
+        "url": "92\/9211\/921101\/9211012012\/9211012012001.json",
+        "nama": "TPS 001, SUSMOROF, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012012",
+        "tps": "9211012012002",
+        "url": "92\/9211\/921101\/9211012012\/9211012012002.json",
+        "nama": "TPS 002, SUSMOROF, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012004",
+        "tps": "9211012004001",
+        "url": "92\/9211\/921101\/9211012004\/9211012004001.json",
+        "nama": "TPS 001, TOBOU, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012004",
+        "tps": "9211012004002",
+        "url": "92\/9211\/921101\/9211012004\/9211012004002.json",
+        "nama": "TPS 002, TOBOU, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012004",
+        "tps": "9211012004003",
+        "url": "92\/9211\/921101\/9211012004\/9211012004003.json",
+        "nama": "TPS 003, TOBOU, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012010",
+        "tps": "9211012010001",
+        "url": "92\/9211\/921101\/9211012010\/9211012010001.json",
+        "nama": "TPS 001, WAMCEI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012010",
+        "tps": "9211012010002",
+        "url": "92\/9211\/921101\/9211012010\/9211012010002.json",
+        "nama": "TPS 002, WAMCEI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012010",
+        "tps": "9211012010003",
+        "url": "92\/9211\/921101\/9211012010\/9211012010003.json",
+        "nama": "TPS 003, WAMCEI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012003",
+        "tps": "9211012003001",
+        "url": "92\/9211\/921101\/9211012003\/9211012003001.json",
+        "nama": "TPS 001, YAMBOI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921101",
+        "desa": "9211012003",
+        "tps": "9211012003002",
+        "url": "92\/9211\/921101\/9211012003\/9211012003002.json",
+        "nama": "TPS 002, YAMBOI, RANSIKI, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921106",
+        "desa": "9211062003",
+        "tps": "9211062003001",
+        "url": "92\/9211\/921106\/9211062003\/9211062003001.json",
+        "nama": "TPS 001, KAPRUS, TAHOTA, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921106",
+        "desa": "9211062002",
+        "tps": "9211062002001",
+        "url": "92\/9211\/921106\/9211062002\/9211062002001.json",
+        "nama": "TPS 001, REYOB, TAHOTA, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921106",
+        "desa": "9211062004",
+        "tps": "9211062004001",
+        "url": "92\/9211\/921106\/9211062004\/9211062004001.json",
+        "nama": "TPS 001, SEIMEBA, TAHOTA, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921106",
+        "desa": "9211062001",
+        "tps": "9211062001001",
+        "url": "92\/9211\/921106\/9211062001\/9211062001001.json",
+        "nama": "TPS 001, YARMATUM, TAHOTA, MANOKWARI SELATAN, PAPUA BARAT"
+    },
+    {
+        "provinsi": "92",
+        "kabupaten": "9211",
+        "kecamatan": "921106",
+        "desa": "9211062001",
+        "tps": "9211062001002",
+        "url": "92\/9211\/921106\/9211062001\/9211062001002.json",
+        "nama": "TPS 002, YARMATUM, TAHOTA, MANOKWARI SELATAN, PAPUA BARAT"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99BB",
+        "kecamatan": "99BB01",
+        "desa": "99BB010001",
+        "tps": "99BB010001001",
+        "url": "99\/99BB\/99BB01\/99BB010001\/99BB010001001.json",
+        "nama": "POS 001, Wina, Austria, Wina, Austria, Wina, Austria, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BB",
+        "kecamatan": "99BB01",
+        "desa": "99BB010001",
+        "tps": "99BB010001002",
+        "url": "99\/99BB\/99BB01\/99BB010001\/99BB010001002.json",
+        "nama": "TPS 001, Wina, Austria, Wina, Austria, Wina, Austria, Luar Negeri"
+    }
+]

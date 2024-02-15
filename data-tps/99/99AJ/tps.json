@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AJ",
+        "kecamatan": "99AJ01",
+        "desa": "99AJ010001",
+        "tps": "99AJ010001001",
+        "url": "99\/99AJ\/99AJ01\/99AJ010001\/99AJ010001001.json",
+        "nama": "POS 001, Stockholm, Swedia, Stockholm, Swedia, Stockholm, Swedia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AJ",
+        "kecamatan": "99AJ01",
+        "desa": "99AJ010001",
+        "tps": "99AJ010001002",
+        "url": "99\/99AJ\/99AJ01\/99AJ010001\/99AJ010001002.json",
+        "nama": "TPS 001, Stockholm, Swedia, Stockholm, Swedia, Stockholm, Swedia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AJ",
+        "kecamatan": "99AJ01",
+        "desa": "99AJ010001",
+        "tps": "99AJ010001003",
+        "url": "99\/99AJ\/99AJ01\/99AJ010001\/99AJ010001003.json",
+        "nama": "TPS 002, Stockholm, Swedia, Stockholm, Swedia, Stockholm, Swedia, Luar Negeri"
+    }
+]

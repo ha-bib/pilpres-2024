@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "15",
+        "kabupaten": "1501",
+        "kecamatan": "150120",
+        "desa": "1501202009",
+        "tps": "1501202009001",
+        "nama": "TPS 001, PENGASI LAMA, BUKITKERMAN,  KERINCI, JAMBI",
+        "selisih": 23,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1501\/150120\/1501202009\/1501202009001"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1501",
+        "kecamatan": "150102",
+        "desa": "1501022013",
+        "tps": "1501022013003",
+        "nama": "TPS 003, SIMPANG EMPAT, DANAU KERINCI,  KERINCI, JAMBI",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1501\/150102\/1501022013\/1501022013003"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1501",
+        "kecamatan": "150106",
+        "desa": "1501062010",
+        "tps": "1501062010001",
+        "nama": "TPS 001, SUNGAIBETUNG HILIR, GUNUNG KERINCI,  KERINCI, JAMBI",
+        "selisih": 885,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1501\/150106\/1501062010\/1501062010001"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1501",
+        "kecamatan": "150109",
+        "desa": "1501092045",
+        "tps": "1501092045005",
+        "nama": "TPS 005, MEKAR JAYA, KAYU ARO,  KERINCI, JAMBI",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1501\/150109\/1501092045\/1501092045005"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1501",
+        "kecamatan": "150104",
+        "desa": "1501042034",
+        "tps": "1501042034001",
+        "nama": "TPS 001, PENAWAR TINGGI, SITINJAU LAUT,  KERINCI, JAMBI",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1501\/150104\/1501042034\/1501042034001"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1501",
+        "kecamatan": "150109",
+        "desa": "1501092049",
+        "tps": "1501092049001",
+        "nama": "TPS 001, BENDUNG AIR TIMUR, KAYU ARO,  KERINCI, JAMBI",
+        "selisih": 885,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1501\/150109\/1501092049\/1501092049001"
+    }
+]

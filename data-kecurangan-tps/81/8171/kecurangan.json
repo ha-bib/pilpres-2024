@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "81",
+        "kabupaten": "8171",
+        "kecamatan": "817101",
+        "desa": "8171011009",
+        "tps": "8171011009022",
+        "nama": "TPS 022, KUDAMATI, NUSANIWE, KOTA AMBON, MALUKU",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/81\/8171\/817101\/8171011009\/8171011009022"
+    },
+    {
+        "provinsi": "81",
+        "kabupaten": "8171",
+        "kecamatan": "817101",
+        "desa": "8171011011",
+        "tps": "8171011011001",
+        "nama": "TPS 001, URIMESSING, NUSANIWE, KOTA AMBON, MALUKU",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/81\/8171\/817101\/8171011011\/8171011011001"
+    },
+    {
+        "provinsi": "81",
+        "kabupaten": "8171",
+        "kecamatan": "817102",
+        "desa": "8171021016",
+        "tps": "8171021016012",
+        "nama": "TPS 012, BATU GAJAH, SIRIMAU, KOTA AMBON, MALUKU",
+        "selisih": 603,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/81\/8171\/817102\/8171021016\/8171021016012"
+    },
+    {
+        "provinsi": "81",
+        "kabupaten": "8171",
+        "kecamatan": "817102",
+        "desa": "8171022001",
+        "tps": "8171022001014",
+        "nama": "TPS 014, HATIVE KECIL, SIRIMAU, KOTA AMBON, MALUKU",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/81\/8171\/817102\/8171022001\/8171022001014"
+    },
+    {
+        "provinsi": "81",
+        "kabupaten": "8171",
+        "kecamatan": "817102",
+        "desa": "8171021015",
+        "tps": "8171021015022",
+        "nama": "TPS 022, BATU MEJA, SIRIMAU, KOTA AMBON, MALUKU",
+        "selisih": 603,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/81\/8171\/817102\/8171021015\/8171021015022"
+    }
+]

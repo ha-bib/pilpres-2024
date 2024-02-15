@@ -1,0 +1,3368 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112005",
+        "tps": "1110112005001",
+        "url": "11\/1110\/111011\/1110112005\/1110112005001.json",
+        "nama": "TPS 001, BISKANG, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112005",
+        "tps": "1110112005002",
+        "url": "11\/1110\/111011\/1110112005\/1110112005002.json",
+        "nama": "TPS 002, BISKANG, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112005",
+        "tps": "1110112005003",
+        "url": "11\/1110\/111011\/1110112005\/1110112005003.json",
+        "nama": "TPS 003, BISKANG, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112005",
+        "tps": "1110112005004",
+        "url": "11\/1110\/111011\/1110112005\/1110112005004.json",
+        "nama": "TPS 004, BISKANG, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112001",
+        "tps": "1110112001001",
+        "url": "11\/1110\/111011\/1110112001\/1110112001001.json",
+        "nama": "TPS 001, LAE BALNO, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112001",
+        "tps": "1110112001002",
+        "url": "11\/1110\/111011\/1110112001\/1110112001002.json",
+        "nama": "TPS 002, LAE BALNO, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112001",
+        "tps": "1110112001003",
+        "url": "11\/1110\/111011\/1110112001\/1110112001003.json",
+        "nama": "TPS 003, LAE BALNO, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112002",
+        "tps": "1110112002001",
+        "url": "11\/1110\/111011\/1110112002\/1110112002001.json",
+        "nama": "TPS 001, NAPAGALUH, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112002",
+        "tps": "1110112002002",
+        "url": "11\/1110\/111011\/1110112002\/1110112002002.json",
+        "nama": "TPS 002, NAPAGALUH, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112003",
+        "tps": "1110112003001",
+        "url": "11\/1110\/111011\/1110112003\/1110112003001.json",
+        "nama": "TPS 001, SIKORAN, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112003",
+        "tps": "1110112003002",
+        "url": "11\/1110\/111011\/1110112003\/1110112003002.json",
+        "nama": "TPS 002, SIKORAN, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112006",
+        "tps": "1110112006001",
+        "url": "11\/1110\/111011\/1110112006\/1110112006001.json",
+        "nama": "TPS 001, SINTUBAN MAKMUR, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112006",
+        "tps": "1110112006002",
+        "url": "11\/1110\/111011\/1110112006\/1110112006002.json",
+        "nama": "TPS 002, SINTUBAN MAKMUR, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112006",
+        "tps": "1110112006003",
+        "url": "11\/1110\/111011\/1110112006\/1110112006003.json",
+        "nama": "TPS 003, SINTUBAN MAKMUR, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112006",
+        "tps": "1110112006004",
+        "url": "11\/1110\/111011\/1110112006\/1110112006004.json",
+        "nama": "TPS 004, SINTUBAN MAKMUR, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112006",
+        "tps": "1110112006005",
+        "url": "11\/1110\/111011\/1110112006\/1110112006005.json",
+        "nama": "TPS 005, SINTUBAN MAKMUR, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112006",
+        "tps": "1110112006006",
+        "url": "11\/1110\/111011\/1110112006\/1110112006006.json",
+        "nama": "TPS 006, SINTUBAN MAKMUR, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112004",
+        "tps": "1110112004001",
+        "url": "11\/1110\/111011\/1110112004\/1110112004001.json",
+        "nama": "TPS 001, SITUBUH-TUBUH, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112004",
+        "tps": "1110112004002",
+        "url": "11\/1110\/111011\/1110112004\/1110112004002.json",
+        "nama": "TPS 002, SITUBUH-TUBUH, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111011",
+        "desa": "1110112004",
+        "tps": "1110112004003",
+        "url": "11\/1110\/111011\/1110112004\/1110112004003.json",
+        "nama": "TPS 003, SITUBUH-TUBUH, DANAU PARIS, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062009",
+        "tps": "1110062009001",
+        "url": "11\/1110\/111006\/1110062009\/1110062009001.json",
+        "nama": "TPS 001, BLOK 15, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062009",
+        "tps": "1110062009002",
+        "url": "11\/1110\/111006\/1110062009\/1110062009002.json",
+        "nama": "TPS 002, BLOK 15, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062009",
+        "tps": "1110062009003",
+        "url": "11\/1110\/111006\/1110062009\/1110062009003.json",
+        "nama": "TPS 003, BLOK 15, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062009",
+        "tps": "1110062009004",
+        "url": "11\/1110\/111006\/1110062009\/1110062009004.json",
+        "nama": "TPS 004, BLOK 15, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062009",
+        "tps": "1110062009005",
+        "url": "11\/1110\/111006\/1110062009\/1110062009005.json",
+        "nama": "TPS 005, BLOK 15, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062009",
+        "tps": "1110062009006",
+        "url": "11\/1110\/111006\/1110062009\/1110062009006.json",
+        "nama": "TPS 006, BLOK 15, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062010",
+        "tps": "1110062010001",
+        "url": "11\/1110\/111006\/1110062010\/1110062010001.json",
+        "nama": "TPS 001, BLOK 18, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062010",
+        "tps": "1110062010002",
+        "url": "11\/1110\/111006\/1110062010\/1110062010002.json",
+        "nama": "TPS 002, BLOK 18, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062011",
+        "tps": "1110062011001",
+        "url": "11\/1110\/111006\/1110062011\/1110062011001.json",
+        "nama": "TPS 001, BLOK 31, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008001",
+        "url": "11\/1110\/111006\/1110062008\/1110062008001.json",
+        "nama": "TPS 001, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008002",
+        "url": "11\/1110\/111006\/1110062008\/1110062008002.json",
+        "nama": "TPS 002, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008003",
+        "url": "11\/1110\/111006\/1110062008\/1110062008003.json",
+        "nama": "TPS 003, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008004",
+        "url": "11\/1110\/111006\/1110062008\/1110062008004.json",
+        "nama": "TPS 004, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008005",
+        "url": "11\/1110\/111006\/1110062008\/1110062008005.json",
+        "nama": "TPS 005, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008006",
+        "url": "11\/1110\/111006\/1110062008\/1110062008006.json",
+        "nama": "TPS 006, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008007",
+        "url": "11\/1110\/111006\/1110062008\/1110062008007.json",
+        "nama": "TPS 007, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008008",
+        "url": "11\/1110\/111006\/1110062008\/1110062008008.json",
+        "nama": "TPS 008, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008009",
+        "url": "11\/1110\/111006\/1110062008\/1110062008009.json",
+        "nama": "TPS 009, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062008",
+        "tps": "1110062008010",
+        "url": "11\/1110\/111006\/1110062008\/1110062008010.json",
+        "nama": "TPS 010, BLOK VI BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003001",
+        "url": "11\/1110\/111006\/1110062003\/1110062003001.json",
+        "nama": "TPS 001, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003002",
+        "url": "11\/1110\/111006\/1110062003\/1110062003002.json",
+        "nama": "TPS 002, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003003",
+        "url": "11\/1110\/111006\/1110062003\/1110062003003.json",
+        "nama": "TPS 003, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003004",
+        "url": "11\/1110\/111006\/1110062003\/1110062003004.json",
+        "nama": "TPS 004, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003005",
+        "url": "11\/1110\/111006\/1110062003\/1110062003005.json",
+        "nama": "TPS 005, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003006",
+        "url": "11\/1110\/111006\/1110062003\/1110062003006.json",
+        "nama": "TPS 006, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003007",
+        "url": "11\/1110\/111006\/1110062003\/1110062003007.json",
+        "nama": "TPS 007, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003008",
+        "url": "11\/1110\/111006\/1110062003\/1110062003008.json",
+        "nama": "TPS 008, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003009",
+        "url": "11\/1110\/111006\/1110062003\/1110062003009.json",
+        "nama": "TPS 009, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003010",
+        "url": "11\/1110\/111006\/1110062003\/1110062003010.json",
+        "nama": "TPS 010, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062003",
+        "tps": "1110062003011",
+        "url": "11\/1110\/111006\/1110062003\/1110062003011.json",
+        "nama": "TPS 011, BUKIT HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062004",
+        "tps": "1110062004001",
+        "url": "11\/1110\/111006\/1110062004\/1110062004001.json",
+        "nama": "TPS 001, CINGKAM, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062004",
+        "tps": "1110062004002",
+        "url": "11\/1110\/111006\/1110062004\/1110062004002.json",
+        "nama": "TPS 002, CINGKAM, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062014",
+        "tps": "1110062014001",
+        "url": "11\/1110\/111006\/1110062014\/1110062014001.json",
+        "nama": "TPS 001, GUNUNG LAGAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062014",
+        "tps": "1110062014002",
+        "url": "11\/1110\/111006\/1110062014\/1110062014002.json",
+        "nama": "TPS 002, GUNUNG LAGAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062014",
+        "tps": "1110062014003",
+        "url": "11\/1110\/111006\/1110062014\/1110062014003.json",
+        "nama": "TPS 003, GUNUNG LAGAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062014",
+        "tps": "1110062014004",
+        "url": "11\/1110\/111006\/1110062014\/1110062014004.json",
+        "nama": "TPS 004, GUNUNG LAGAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062014",
+        "tps": "1110062014005",
+        "url": "11\/1110\/111006\/1110062014\/1110062014005.json",
+        "nama": "TPS 005, GUNUNG LAGAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062014",
+        "tps": "1110062014006",
+        "url": "11\/1110\/111006\/1110062014\/1110062014006.json",
+        "nama": "TPS 006, GUNUNG LAGAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062014",
+        "tps": "1110062014007",
+        "url": "11\/1110\/111006\/1110062014\/1110062014007.json",
+        "nama": "TPS 007, GUNUNG LAGAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062014",
+        "tps": "1110062014008",
+        "url": "11\/1110\/111006\/1110062014\/1110062014008.json",
+        "nama": "TPS 008, GUNUNG LAGAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062014",
+        "tps": "1110062014009",
+        "url": "11\/1110\/111006\/1110062014\/1110062014009.json",
+        "nama": "TPS 009, GUNUNG LAGAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062005",
+        "tps": "1110062005001",
+        "url": "11\/1110\/111006\/1110062005\/1110062005001.json",
+        "nama": "TPS 001, LABUHAN KERA, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062024",
+        "tps": "1110062024001",
+        "url": "11\/1110\/111006\/1110062024\/1110062024001.json",
+        "nama": "TPS 001, LAE BUTAR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062024",
+        "tps": "1110062024002",
+        "url": "11\/1110\/111006\/1110062024\/1110062024002.json",
+        "nama": "TPS 002, LAE BUTAR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062024",
+        "tps": "1110062024003",
+        "url": "11\/1110\/111006\/1110062024\/1110062024003.json",
+        "nama": "TPS 003, LAE BUTAR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062024",
+        "tps": "1110062024004",
+        "url": "11\/1110\/111006\/1110062024\/1110062024004.json",
+        "nama": "TPS 004, LAE BUTAR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062024",
+        "tps": "1110062024005",
+        "url": "11\/1110\/111006\/1110062024\/1110062024005.json",
+        "nama": "TPS 005, LAE BUTAR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062024",
+        "tps": "1110062024006",
+        "url": "11\/1110\/111006\/1110062024\/1110062024006.json",
+        "nama": "TPS 006, LAE BUTAR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062024",
+        "tps": "1110062024007",
+        "url": "11\/1110\/111006\/1110062024\/1110062024007.json",
+        "nama": "TPS 007, LAE BUTAR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062024",
+        "tps": "1110062024008",
+        "url": "11\/1110\/111006\/1110062024\/1110062024008.json",
+        "nama": "TPS 008, LAE BUTAR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062024",
+        "tps": "1110062024009",
+        "url": "11\/1110\/111006\/1110062024\/1110062024009.json",
+        "nama": "TPS 009, LAE BUTAR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062020",
+        "tps": "1110062020001",
+        "url": "11\/1110\/111006\/1110062020\/1110062020001.json",
+        "nama": "TPS 001, PANDAN SARI, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062020",
+        "tps": "1110062020002",
+        "url": "11\/1110\/111006\/1110062020\/1110062020002.json",
+        "nama": "TPS 002, PANDAN SARI, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062020",
+        "tps": "1110062020003",
+        "url": "11\/1110\/111006\/1110062020\/1110062020003.json",
+        "nama": "TPS 003, PANDAN SARI, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062020",
+        "tps": "1110062020004",
+        "url": "11\/1110\/111006\/1110062020\/1110062020004.json",
+        "nama": "TPS 004, PANDAN SARI, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062020",
+        "tps": "1110062020005",
+        "url": "11\/1110\/111006\/1110062020\/1110062020005.json",
+        "nama": "TPS 005, PANDAN SARI, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062002",
+        "tps": "1110062002001",
+        "url": "11\/1110\/111006\/1110062002\/1110062002001.json",
+        "nama": "TPS 001, PENJAHITAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062015",
+        "tps": "1110062015001",
+        "url": "11\/1110\/111006\/1110062015\/1110062015001.json",
+        "nama": "TPS 001, PERANGUSAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062015",
+        "tps": "1110062015002",
+        "url": "11\/1110\/111006\/1110062015\/1110062015002.json",
+        "nama": "TPS 002, PERANGUSAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062019",
+        "tps": "1110062019001",
+        "url": "11\/1110\/111006\/1110062019\/1110062019001.json",
+        "nama": "TPS 001, PERTAMPAKAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062007",
+        "tps": "1110062007001",
+        "url": "11\/1110\/111006\/1110062007\/1110062007001.json",
+        "nama": "TPS 001, RIMO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062007",
+        "tps": "1110062007002",
+        "url": "11\/1110\/111006\/1110062007\/1110062007002.json",
+        "nama": "TPS 002, RIMO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062007",
+        "tps": "1110062007003",
+        "url": "11\/1110\/111006\/1110062007\/1110062007003.json",
+        "nama": "TPS 003, RIMO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062007",
+        "tps": "1110062007004",
+        "url": "11\/1110\/111006\/1110062007\/1110062007004.json",
+        "nama": "TPS 004, RIMO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062007",
+        "tps": "1110062007005",
+        "url": "11\/1110\/111006\/1110062007\/1110062007005.json",
+        "nama": "TPS 005, RIMO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062007",
+        "tps": "1110062007006",
+        "url": "11\/1110\/111006\/1110062007\/1110062007006.json",
+        "nama": "TPS 006, RIMO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062007",
+        "tps": "1110062007007",
+        "url": "11\/1110\/111006\/1110062007\/1110062007007.json",
+        "nama": "TPS 007, RIMO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062007",
+        "tps": "1110062007008",
+        "url": "11\/1110\/111006\/1110062007\/1110062007008.json",
+        "nama": "TPS 008, RIMO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062007",
+        "tps": "1110062007009",
+        "url": "11\/1110\/111006\/1110062007\/1110062007009.json",
+        "nama": "TPS 009, RIMO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062021",
+        "tps": "1110062021001",
+        "url": "11\/1110\/111006\/1110062021\/1110062021001.json",
+        "nama": "TPS 001, SANGGABERU SILULUSAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062021",
+        "tps": "1110062021002",
+        "url": "11\/1110\/111006\/1110062021\/1110062021002.json",
+        "nama": "TPS 002, SANGGABERU SILULUSAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062021",
+        "tps": "1110062021003",
+        "url": "11\/1110\/111006\/1110062021\/1110062021003.json",
+        "nama": "TPS 003, SANGGABERU SILULUSAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062021",
+        "tps": "1110062021004",
+        "url": "11\/1110\/111006\/1110062021\/1110062021004.json",
+        "nama": "TPS 004, SANGGABERU SILULUSAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062021",
+        "tps": "1110062021005",
+        "url": "11\/1110\/111006\/1110062021\/1110062021005.json",
+        "nama": "TPS 005, SANGGABERU SILULUSAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062017",
+        "tps": "1110062017001",
+        "url": "11\/1110\/111006\/1110062017\/1110062017001.json",
+        "nama": "TPS 001, SEBATANG, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062017",
+        "tps": "1110062017002",
+        "url": "11\/1110\/111006\/1110062017\/1110062017002.json",
+        "nama": "TPS 002, SEBATANG, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062016",
+        "tps": "1110062016001",
+        "url": "11\/1110\/111006\/1110062016\/1110062016001.json",
+        "nama": "TPS 001, SEPING BARU, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062025",
+        "tps": "1110062025001",
+        "url": "11\/1110\/111006\/1110062025\/1110062025001.json",
+        "nama": "TPS 001, SIANJO-ANJO MERIAH, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062025",
+        "tps": "1110062025002",
+        "url": "11\/1110\/111006\/1110062025\/1110062025002.json",
+        "nama": "TPS 002, SIANJO-ANJO MERIAH, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062025",
+        "tps": "1110062025003",
+        "url": "11\/1110\/111006\/1110062025\/1110062025003.json",
+        "nama": "TPS 003, SIANJO-ANJO MERIAH, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062025",
+        "tps": "1110062025004",
+        "url": "11\/1110\/111006\/1110062025\/1110062025004.json",
+        "nama": "TPS 004, SIANJO-ANJO MERIAH, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062025",
+        "tps": "1110062025005",
+        "url": "11\/1110\/111006\/1110062025\/1110062025005.json",
+        "nama": "TPS 005, SIANJO-ANJO MERIAH, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062025",
+        "tps": "1110062025006",
+        "url": "11\/1110\/111006\/1110062025\/1110062025006.json",
+        "nama": "TPS 006, SIANJO-ANJO MERIAH, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012001",
+        "url": "11\/1110\/111006\/1110062012\/1110062012001.json",
+        "nama": "TPS 001, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012002",
+        "url": "11\/1110\/111006\/1110062012\/1110062012002.json",
+        "nama": "TPS 002, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012003",
+        "url": "11\/1110\/111006\/1110062012\/1110062012003.json",
+        "nama": "TPS 003, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012004",
+        "url": "11\/1110\/111006\/1110062012\/1110062012004.json",
+        "nama": "TPS 004, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012005",
+        "url": "11\/1110\/111006\/1110062012\/1110062012005.json",
+        "nama": "TPS 005, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012006",
+        "url": "11\/1110\/111006\/1110062012\/1110062012006.json",
+        "nama": "TPS 006, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012007",
+        "url": "11\/1110\/111006\/1110062012\/1110062012007.json",
+        "nama": "TPS 007, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012008",
+        "url": "11\/1110\/111006\/1110062012\/1110062012008.json",
+        "nama": "TPS 008, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012009",
+        "url": "11\/1110\/111006\/1110062012\/1110062012009.json",
+        "nama": "TPS 009, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012010",
+        "url": "11\/1110\/111006\/1110062012\/1110062012010.json",
+        "nama": "TPS 010, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062012",
+        "tps": "1110062012011",
+        "url": "11\/1110\/111006\/1110062012\/1110062012011.json",
+        "nama": "TPS 011, SIDOREJO, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062013",
+        "tps": "1110062013001",
+        "url": "11\/1110\/111006\/1110062013\/1110062013001.json",
+        "nama": "TPS 001, SUKA MAKMUR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062013",
+        "tps": "1110062013002",
+        "url": "11\/1110\/111006\/1110062013\/1110062013002.json",
+        "nama": "TPS 002, SUKA MAKMUR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062013",
+        "tps": "1110062013003",
+        "url": "11\/1110\/111006\/1110062013\/1110062013003.json",
+        "nama": "TPS 003, SUKA MAKMUR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062013",
+        "tps": "1110062013004",
+        "url": "11\/1110\/111006\/1110062013\/1110062013004.json",
+        "nama": "TPS 004, SUKA MAKMUR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062013",
+        "tps": "1110062013005",
+        "url": "11\/1110\/111006\/1110062013\/1110062013005.json",
+        "nama": "TPS 005, SUKA MAKMUR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062013",
+        "tps": "1110062013006",
+        "url": "11\/1110\/111006\/1110062013\/1110062013006.json",
+        "nama": "TPS 006, SUKA MAKMUR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062013",
+        "tps": "1110062013007",
+        "url": "11\/1110\/111006\/1110062013\/1110062013007.json",
+        "nama": "TPS 007, SUKA MAKMUR, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062006",
+        "tps": "1110062006001",
+        "url": "11\/1110\/111006\/1110062006\/1110062006001.json",
+        "nama": "TPS 001, TANAH BARA, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062006",
+        "tps": "1110062006002",
+        "url": "11\/1110\/111006\/1110062006\/1110062006002.json",
+        "nama": "TPS 002, TANAH BARA, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062006",
+        "tps": "1110062006003",
+        "url": "11\/1110\/111006\/1110062006\/1110062006003.json",
+        "nama": "TPS 003, TANAH BARA, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062006",
+        "tps": "1110062006004",
+        "url": "11\/1110\/111006\/1110062006\/1110062006004.json",
+        "nama": "TPS 004, TANAH BARA, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062006",
+        "tps": "1110062006005",
+        "url": "11\/1110\/111006\/1110062006\/1110062006005.json",
+        "nama": "TPS 005, TANAH BARA, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062006",
+        "tps": "1110062006006",
+        "url": "11\/1110\/111006\/1110062006\/1110062006006.json",
+        "nama": "TPS 006, TANAH BARA, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062006",
+        "tps": "1110062006007",
+        "url": "11\/1110\/111006\/1110062006\/1110062006007.json",
+        "nama": "TPS 007, TANAH BARA, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062018",
+        "tps": "1110062018001",
+        "url": "11\/1110\/111006\/1110062018\/1110062018001.json",
+        "nama": "TPS 001, TANAH MERAH, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062018",
+        "tps": "1110062018002",
+        "url": "11\/1110\/111006\/1110062018\/1110062018002.json",
+        "nama": "TPS 002, TANAH MERAH, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062001",
+        "tps": "1110062001001",
+        "url": "11\/1110\/111006\/1110062001\/1110062001001.json",
+        "nama": "TPS 001, TANJUNG BETIK, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062022",
+        "tps": "1110062022001",
+        "url": "11\/1110\/111006\/1110062022\/1110062022001.json",
+        "nama": "TPS 001, TULAAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062022",
+        "tps": "1110062022002",
+        "url": "11\/1110\/111006\/1110062022\/1110062022002.json",
+        "nama": "TPS 002, TULAAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062022",
+        "tps": "1110062022003",
+        "url": "11\/1110\/111006\/1110062022\/1110062022003.json",
+        "nama": "TPS 003, TULAAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062022",
+        "tps": "1110062022004",
+        "url": "11\/1110\/111006\/1110062022\/1110062022004.json",
+        "nama": "TPS 004, TULAAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062022",
+        "tps": "1110062022005",
+        "url": "11\/1110\/111006\/1110062022\/1110062022005.json",
+        "nama": "TPS 005, TULAAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062022",
+        "tps": "1110062022006",
+        "url": "11\/1110\/111006\/1110062022\/1110062022006.json",
+        "nama": "TPS 006, TULAAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062022",
+        "tps": "1110062022007",
+        "url": "11\/1110\/111006\/1110062022\/1110062022007.json",
+        "nama": "TPS 007, TULAAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062023",
+        "tps": "1110062023001",
+        "url": "11\/1110\/111006\/1110062023\/1110062023001.json",
+        "nama": "TPS 001, TUNAS HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062023",
+        "tps": "1110062023002",
+        "url": "11\/1110\/111006\/1110062023\/1110062023002.json",
+        "nama": "TPS 002, TUNAS HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062023",
+        "tps": "1110062023003",
+        "url": "11\/1110\/111006\/1110062023\/1110062023003.json",
+        "nama": "TPS 003, TUNAS HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111006",
+        "desa": "1110062023",
+        "tps": "1110062023004",
+        "url": "11\/1110\/111006\/1110062023\/1110062023004.json",
+        "nama": "TPS 004, TUNAS HARAPAN, GUNUNG MERIAH, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092003",
+        "tps": "1110092003001",
+        "url": "11\/1110\/111009\/1110092003\/1110092003001.json",
+        "nama": "TPS 001, BUTAR, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092003",
+        "tps": "1110092003002",
+        "url": "11\/1110\/111009\/1110092003\/1110092003002.json",
+        "nama": "TPS 002, BUTAR, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092010",
+        "tps": "1110092010001",
+        "url": "11\/1110\/111009\/1110092010\/1110092010001.json",
+        "nama": "TPS 001, DANAU BUNGARA, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092010",
+        "tps": "1110092010002",
+        "url": "11\/1110\/111009\/1110092010\/1110092010002.json",
+        "nama": "TPS 002, DANAU BUNGARA, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092010",
+        "tps": "1110092010003",
+        "url": "11\/1110\/111009\/1110092010\/1110092010003.json",
+        "nama": "TPS 003, DANAU BUNGARA, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092005",
+        "tps": "1110092005001",
+        "url": "11\/1110\/111009\/1110092005\/1110092005001.json",
+        "nama": "TPS 001, LADANG BISIK, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092005",
+        "tps": "1110092005002",
+        "url": "11\/1110\/111009\/1110092005\/1110092005002.json",
+        "nama": "TPS 002, LADANG BISIK, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092002",
+        "tps": "1110092002001",
+        "url": "11\/1110\/111009\/1110092002\/1110092002001.json",
+        "nama": "TPS 001, LAPAHAN BUAYA, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092001",
+        "tps": "1110092001001",
+        "url": "11\/1110\/111009\/1110092001\/1110092001001.json",
+        "nama": "TPS 001, LENTONG, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092001",
+        "tps": "1110092001002",
+        "url": "11\/1110\/111009\/1110092001\/1110092001002.json",
+        "nama": "TPS 002, LENTONG, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092006",
+        "tps": "1110092006001",
+        "url": "11\/1110\/111009\/1110092006\/1110092006001.json",
+        "nama": "TPS 001, MUARA PEA, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092009",
+        "tps": "1110092009001",
+        "url": "11\/1110\/111009\/1110092009\/1110092009001.json",
+        "nama": "TPS 001, MUKTI LINCER, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092009",
+        "tps": "1110092009002",
+        "url": "11\/1110\/111009\/1110092009\/1110092009002.json",
+        "nama": "TPS 002, MUKTI LINCER, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092004",
+        "tps": "1110092004001",
+        "url": "11\/1110\/111009\/1110092004\/1110092004001.json",
+        "nama": "TPS 001, SAMAR DUA, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092004",
+        "tps": "1110092004002",
+        "url": "11\/1110\/111009\/1110092004\/1110092004002.json",
+        "nama": "TPS 002, SAMAR DUA, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092008",
+        "tps": "1110092008001",
+        "url": "11\/1110\/111009\/1110092008\/1110092008001.json",
+        "nama": "TPS 001, SUMBER MUKTI, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092008",
+        "tps": "1110092008002",
+        "url": "11\/1110\/111009\/1110092008\/1110092008002.json",
+        "nama": "TPS 002, SUMBER MUKTI, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092008",
+        "tps": "1110092008003",
+        "url": "11\/1110\/111009\/1110092008\/1110092008003.json",
+        "nama": "TPS 003, SUMBER MUKTI, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092008",
+        "tps": "1110092008004",
+        "url": "11\/1110\/111009\/1110092008\/1110092008004.json",
+        "nama": "TPS 004, SUMBER MUKTI, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111009",
+        "desa": "1110092008",
+        "tps": "1110092008005",
+        "url": "11\/1110\/111009\/1110092008\/1110092008005.json",
+        "nama": "TPS 005, SUMBER MUKTI, KOTA BAHARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111014",
+        "desa": "1110142004",
+        "tps": "1110142004001",
+        "url": "11\/1110\/111014\/1110142004\/1110142004001.json",
+        "nama": "TPS 001, KAYU MENANG, KUALA BARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111014",
+        "desa": "1110142001",
+        "tps": "1110142001001",
+        "url": "11\/1110\/111014\/1110142001\/1110142001001.json",
+        "nama": "TPS 001, KUALA BARU LAUT, KUALA BARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111014",
+        "desa": "1110142001",
+        "tps": "1110142001002",
+        "url": "11\/1110\/111014\/1110142001\/1110142001002.json",
+        "nama": "TPS 002, KUALA BARU LAUT, KUALA BARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111014",
+        "desa": "1110142001",
+        "tps": "1110142001003",
+        "url": "11\/1110\/111014\/1110142001\/1110142001003.json",
+        "nama": "TPS 003, KUALA BARU LAUT, KUALA BARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111014",
+        "desa": "1110142002",
+        "tps": "1110142002001",
+        "url": "11\/1110\/111014\/1110142002\/1110142002001.json",
+        "nama": "TPS 001, KUALA BARU SUNGAI, KUALA BARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111014",
+        "desa": "1110142002",
+        "tps": "1110142002002",
+        "url": "11\/1110\/111014\/1110142002\/1110142002002.json",
+        "nama": "TPS 002, KUALA BARU SUNGAI, KUALA BARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111014",
+        "desa": "1110142002",
+        "tps": "1110142002003",
+        "url": "11\/1110\/111014\/1110142002\/1110142002003.json",
+        "nama": "TPS 003, KUALA BARU SUNGAI, KUALA BARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111014",
+        "desa": "1110142003",
+        "tps": "1110142003001",
+        "url": "11\/1110\/111014\/1110142003\/1110142003001.json",
+        "nama": "TPS 001, SUKA JAYA, KUALA BARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111014",
+        "desa": "1110142003",
+        "tps": "1110142003002",
+        "url": "11\/1110\/111014\/1110142003\/1110142003002.json",
+        "nama": "TPS 002, SUKA JAYA, KUALA BARU, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012002",
+        "tps": "1110012002001",
+        "url": "11\/1110\/111001\/1110012002\/1110012002001.json",
+        "nama": "TPS 001, PULAU BAGUK, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012002",
+        "tps": "1110012002002",
+        "url": "11\/1110\/111001\/1110012002\/1110012002002.json",
+        "nama": "TPS 002, PULAU BAGUK, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012002",
+        "tps": "1110012002003",
+        "url": "11\/1110\/111001\/1110012002\/1110012002003.json",
+        "nama": "TPS 003, PULAU BAGUK, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012002",
+        "tps": "1110012002004",
+        "url": "11\/1110\/111001\/1110012002\/1110012002004.json",
+        "nama": "TPS 004, PULAU BAGUK, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012002",
+        "tps": "1110012002005",
+        "url": "11\/1110\/111001\/1110012002\/1110012002005.json",
+        "nama": "TPS 005, PULAU BAGUK, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012001",
+        "tps": "1110012001001",
+        "url": "11\/1110\/111001\/1110012001\/1110012001001.json",
+        "nama": "TPS 001, PULAU BALAI, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012001",
+        "tps": "1110012001002",
+        "url": "11\/1110\/111001\/1110012001\/1110012001002.json",
+        "nama": "TPS 002, PULAU BALAI, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012001",
+        "tps": "1110012001003",
+        "url": "11\/1110\/111001\/1110012001\/1110012001003.json",
+        "nama": "TPS 003, PULAU BALAI, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012001",
+        "tps": "1110012001004",
+        "url": "11\/1110\/111001\/1110012001\/1110012001004.json",
+        "nama": "TPS 004, PULAU BALAI, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012001",
+        "tps": "1110012001005",
+        "url": "11\/1110\/111001\/1110012001\/1110012001005.json",
+        "nama": "TPS 005, PULAU BALAI, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012001",
+        "tps": "1110012001006",
+        "url": "11\/1110\/111001\/1110012001\/1110012001006.json",
+        "nama": "TPS 006, PULAU BALAI, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012004",
+        "tps": "1110012004001",
+        "url": "11\/1110\/111001\/1110012004\/1110012004001.json",
+        "nama": "TPS 001, TELUK NIBUNG, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012004",
+        "tps": "1110012004002",
+        "url": "11\/1110\/111001\/1110012004\/1110012004002.json",
+        "nama": "TPS 002, TELUK NIBUNG, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111001",
+        "desa": "1110012004",
+        "tps": "1110012004003",
+        "url": "11\/1110\/111001\/1110012004\/1110012004003.json",
+        "nama": "TPS 003, TELUK NIBUNG, PULAU BANYAK, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162002",
+        "tps": "1110162002001",
+        "url": "11\/1110\/111016\/1110162002\/1110162002001.json",
+        "nama": "TPS 001, ASANTOLA, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162002",
+        "tps": "1110162002002",
+        "url": "11\/1110\/111016\/1110162002\/1110162002002.json",
+        "nama": "TPS 002, ASANTOLA, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162002",
+        "tps": "1110162002003",
+        "url": "11\/1110\/111016\/1110162002\/1110162002003.json",
+        "nama": "TPS 003, ASANTOLA, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162001",
+        "tps": "1110162001001",
+        "url": "11\/1110\/111016\/1110162001\/1110162001001.json",
+        "nama": "TPS 001, HALOBAN, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162001",
+        "tps": "1110162001002",
+        "url": "11\/1110\/111016\/1110162001\/1110162001002.json",
+        "nama": "TPS 002, HALOBAN, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162001",
+        "tps": "1110162001003",
+        "url": "11\/1110\/111016\/1110162001\/1110162001003.json",
+        "nama": "TPS 003, HALOBAN, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162004",
+        "tps": "1110162004001",
+        "url": "11\/1110\/111016\/1110162004\/1110162004001.json",
+        "nama": "TPS 001, SUKA MAKMUR, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162003",
+        "tps": "1110162003001",
+        "url": "11\/1110\/111016\/1110162003\/1110162003001.json",
+        "nama": "TPS 001, UJUNG SIALIT, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162003",
+        "tps": "1110162003002",
+        "url": "11\/1110\/111016\/1110162003\/1110162003002.json",
+        "nama": "TPS 002, UJUNG SIALIT, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111016",
+        "desa": "1110162003",
+        "tps": "1110162003003",
+        "url": "11\/1110\/111016\/1110162003\/1110162003003.json",
+        "nama": "TPS 003, UJUNG SIALIT, PULAU BANYAK BARAT, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022019",
+        "tps": "1110022019001",
+        "url": "11\/1110\/111002\/1110022019\/1110022019001.json",
+        "nama": "TPS 001, CIBUBUKAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022019",
+        "tps": "1110022019002",
+        "url": "11\/1110\/111002\/1110022019\/1110022019002.json",
+        "nama": "TPS 002, CIBUBUKAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022017",
+        "tps": "1110022017001",
+        "url": "11\/1110\/111002\/1110022017\/1110022017001.json",
+        "nama": "TPS 001, GUHA, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022002",
+        "tps": "1110022002001",
+        "url": "11\/1110\/111002\/1110022002\/1110022002001.json",
+        "nama": "TPS 001, KAIN GOLONG, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022002",
+        "tps": "1110022002002",
+        "url": "11\/1110\/111002\/1110022002\/1110022002002.json",
+        "nama": "TPS 002, KAIN GOLONG, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022002",
+        "tps": "1110022002003",
+        "url": "11\/1110\/111002\/1110022002\/1110022002003.json",
+        "nama": "TPS 003, KAIN GOLONG, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022012",
+        "tps": "1110022012001",
+        "url": "11\/1110\/111002\/1110022012\/1110022012001.json",
+        "nama": "TPS 001, KUTA BATU, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022003",
+        "tps": "1110022003001",
+        "url": "11\/1110\/111002\/1110022003\/1110022003001.json",
+        "nama": "TPS 001, KUTA KERANGAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022003",
+        "tps": "1110022003002",
+        "url": "11\/1110\/111002\/1110022003\/1110022003002.json",
+        "nama": "TPS 002, KUTA KERANGAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022003",
+        "tps": "1110022003003",
+        "url": "11\/1110\/111002\/1110022003\/1110022003003.json",
+        "nama": "TPS 003, KUTA KERANGAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022003",
+        "tps": "1110022003004",
+        "url": "11\/1110\/111002\/1110022003\/1110022003004.json",
+        "nama": "TPS 004, KUTA KERANGAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022014",
+        "tps": "1110022014001",
+        "url": "11\/1110\/111002\/1110022014\/1110022014001.json",
+        "nama": "TPS 001, KUTA TINGGI, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022014",
+        "tps": "1110022014002",
+        "url": "11\/1110\/111002\/1110022014\/1110022014002.json",
+        "nama": "TPS 002, KUTA TINGGI, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022014",
+        "tps": "1110022014003",
+        "url": "11\/1110\/111002\/1110022014\/1110022014003.json",
+        "nama": "TPS 003, KUTA TINGGI, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022018",
+        "tps": "1110022018001",
+        "url": "11\/1110\/111002\/1110022018\/1110022018001.json",
+        "nama": "TPS 001, LAE GAMBIR, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022016",
+        "tps": "1110022016001",
+        "url": "11\/1110\/111002\/1110022016\/1110022016001.json",
+        "nama": "TPS 001, LAE GECIH, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022016",
+        "tps": "1110022016002",
+        "url": "11\/1110\/111002\/1110022016\/1110022016002.json",
+        "nama": "TPS 002, LAE GECIH, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022013",
+        "tps": "1110022013001",
+        "url": "11\/1110\/111002\/1110022013\/1110022013001.json",
+        "nama": "TPS 001, LAE NIPE, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022010",
+        "tps": "1110022010001",
+        "url": "11\/1110\/111002\/1110022010\/1110022010001.json",
+        "nama": "TPS 001, LAE RIMAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022001",
+        "tps": "1110022001001",
+        "url": "11\/1110\/111002\/1110022001\/1110022001001.json",
+        "nama": "TPS 001, LIPAT KAJANG, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022001",
+        "tps": "1110022001002",
+        "url": "11\/1110\/111002\/1110022001\/1110022001002.json",
+        "nama": "TPS 002, LIPAT KAJANG, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022001",
+        "tps": "1110022001003",
+        "url": "11\/1110\/111002\/1110022001\/1110022001003.json",
+        "nama": "TPS 003, LIPAT KAJANG, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022001",
+        "tps": "1110022001004",
+        "url": "11\/1110\/111002\/1110022001\/1110022001004.json",
+        "nama": "TPS 004, LIPAT KAJANG, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022023",
+        "tps": "1110022023001",
+        "url": "11\/1110\/111002\/1110022023\/1110022023001.json",
+        "nama": "TPS 001, LIPAT KAJANG ATAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022023",
+        "tps": "1110022023002",
+        "url": "11\/1110\/111002\/1110022023\/1110022023002.json",
+        "nama": "TPS 002, LIPAT KAJANG ATAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022023",
+        "tps": "1110022023003",
+        "url": "11\/1110\/111002\/1110022023\/1110022023003.json",
+        "nama": "TPS 003, LIPAT KAJANG ATAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022011",
+        "tps": "1110022011001",
+        "url": "11\/1110\/111002\/1110022011\/1110022011001.json",
+        "nama": "TPS 001, PAKIRAMAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022025",
+        "tps": "1110022025001",
+        "url": "11\/1110\/111002\/1110022025\/1110022025001.json",
+        "nama": "TPS 001, PANDAN SARI, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022025",
+        "tps": "1110022025002",
+        "url": "11\/1110\/111002\/1110022025\/1110022025002.json",
+        "nama": "TPS 002, PANDAN SARI, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022005",
+        "tps": "1110022005001",
+        "url": "11\/1110\/111002\/1110022005\/1110022005001.json",
+        "nama": "TPS 001, PANGI, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022009",
+        "tps": "1110022009001",
+        "url": "11\/1110\/111002\/1110022009\/1110022009001.json",
+        "nama": "TPS 001, PERTABAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022009",
+        "tps": "1110022009002",
+        "url": "11\/1110\/111002\/1110022009\/1110022009002.json",
+        "nama": "TPS 002, PERTABAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022020",
+        "tps": "1110022020001",
+        "url": "11\/1110\/111002\/1110022020\/1110022020001.json",
+        "nama": "TPS 001, SERASAH, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022004",
+        "tps": "1110022004001",
+        "url": "11\/1110\/111002\/1110022004\/1110022004001.json",
+        "nama": "TPS 001, SIATAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022004",
+        "tps": "1110022004002",
+        "url": "11\/1110\/111002\/1110022004\/1110022004002.json",
+        "nama": "TPS 002, SIATAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022004",
+        "tps": "1110022004003",
+        "url": "11\/1110\/111002\/1110022004\/1110022004003.json",
+        "nama": "TPS 003, SIATAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022004",
+        "tps": "1110022004004",
+        "url": "11\/1110\/111002\/1110022004\/1110022004004.json",
+        "nama": "TPS 004, SIATAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022024",
+        "tps": "1110022024001",
+        "url": "11\/1110\/111002\/1110022024\/1110022024001.json",
+        "nama": "TPS 001, SIDODADI, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022024",
+        "tps": "1110022024002",
+        "url": "11\/1110\/111002\/1110022024\/1110022024002.json",
+        "nama": "TPS 002, SIDODADI, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022008",
+        "tps": "1110022008001",
+        "url": "11\/1110\/111002\/1110022008\/1110022008001.json",
+        "nama": "TPS 001, SILATONG, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022008",
+        "tps": "1110022008002",
+        "url": "11\/1110\/111002\/1110022008\/1110022008002.json",
+        "nama": "TPS 002, SILATONG, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022006",
+        "tps": "1110022006001",
+        "url": "11\/1110\/111002\/1110022006\/1110022006001.json",
+        "nama": "TPS 001, SUKAREJO, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022006",
+        "tps": "1110022006002",
+        "url": "11\/1110\/111002\/1110022006\/1110022006002.json",
+        "nama": "TPS 002, SUKAREJO, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022006",
+        "tps": "1110022006003",
+        "url": "11\/1110\/111002\/1110022006\/1110022006003.json",
+        "nama": "TPS 003, SUKAREJO, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022022",
+        "tps": "1110022022001",
+        "url": "11\/1110\/111002\/1110022022\/1110022022001.json",
+        "nama": "TPS 001, TANJUNG MAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022022",
+        "tps": "1110022022002",
+        "url": "11\/1110\/111002\/1110022022\/1110022022002.json",
+        "nama": "TPS 002, TANJUNG MAS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022021",
+        "tps": "1110022021001",
+        "url": "11\/1110\/111002\/1110022021\/1110022021001.json",
+        "nama": "TPS 001, TUGAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022015",
+        "tps": "1110022015001",
+        "url": "11\/1110\/111002\/1110022015\/1110022015001.json",
+        "nama": "TPS 001, TUHTUHAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022015",
+        "tps": "1110022015002",
+        "url": "11\/1110\/111002\/1110022015\/1110022015002.json",
+        "nama": "TPS 002, TUHTUHAN, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111002",
+        "desa": "1110022007",
+        "tps": "1110022007001",
+        "url": "11\/1110\/111002\/1110022007\/1110022007001.json",
+        "nama": "TPS 001, UJUNG LIMUS, SIMPANG KANAN, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042004",
+        "tps": "1110042004001",
+        "url": "11\/1110\/111004\/1110042004\/1110042004001.json",
+        "nama": "TPS 001, KILANGAN, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042004",
+        "tps": "1110042004002",
+        "url": "11\/1110\/111004\/1110042004\/1110042004002.json",
+        "nama": "TPS 002, KILANGAN, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042004",
+        "tps": "1110042004003",
+        "url": "11\/1110\/111004\/1110042004\/1110042004003.json",
+        "nama": "TPS 003, KILANGAN, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042004",
+        "tps": "1110042004004",
+        "url": "11\/1110\/111004\/1110042004\/1110042004004.json",
+        "nama": "TPS 004, KILANGAN, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042005",
+        "tps": "1110042005001",
+        "url": "11\/1110\/111004\/1110042005\/1110042005001.json",
+        "nama": "TPS 001, KUTA SIMBOLING, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042001",
+        "tps": "1110042001001",
+        "url": "11\/1110\/111004\/1110042001\/1110042001001.json",
+        "nama": "TPS 001, PASAR, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042001",
+        "tps": "1110042001002",
+        "url": "11\/1110\/111004\/1110042001\/1110042001002.json",
+        "nama": "TPS 002, PASAR, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042001",
+        "tps": "1110042001003",
+        "url": "11\/1110\/111004\/1110042001\/1110042001003.json",
+        "nama": "TPS 003, PASAR, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042001",
+        "tps": "1110042001004",
+        "url": "11\/1110\/111004\/1110042001\/1110042001004.json",
+        "nama": "TPS 004, PASAR, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042001",
+        "tps": "1110042001005",
+        "url": "11\/1110\/111004\/1110042001\/1110042001005.json",
+        "nama": "TPS 005, PASAR, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042010",
+        "tps": "1110042010001",
+        "url": "11\/1110\/111004\/1110042010\/1110042010001.json",
+        "nama": "TPS 001, PEA BUMBUNG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042010",
+        "tps": "1110042010002",
+        "url": "11\/1110\/111004\/1110042010\/1110042010002.json",
+        "nama": "TPS 002, PEA BUMBUNG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042011",
+        "tps": "1110042011001",
+        "url": "11\/1110\/111004\/1110042011\/1110042011001.json",
+        "nama": "TPS 001, PEMUKA, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003001",
+        "url": "11\/1110\/111004\/1110042003\/1110042003001.json",
+        "nama": "TPS 001, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003002",
+        "url": "11\/1110\/111004\/1110042003\/1110042003002.json",
+        "nama": "TPS 002, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003003",
+        "url": "11\/1110\/111004\/1110042003\/1110042003003.json",
+        "nama": "TPS 003, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003004",
+        "url": "11\/1110\/111004\/1110042003\/1110042003004.json",
+        "nama": "TPS 004, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003005",
+        "url": "11\/1110\/111004\/1110042003\/1110042003005.json",
+        "nama": "TPS 005, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003006",
+        "url": "11\/1110\/111004\/1110042003\/1110042003006.json",
+        "nama": "TPS 006, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003007",
+        "url": "11\/1110\/111004\/1110042003\/1110042003007.json",
+        "nama": "TPS 007, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003008",
+        "url": "11\/1110\/111004\/1110042003\/1110042003008.json",
+        "nama": "TPS 008, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003009",
+        "url": "11\/1110\/111004\/1110042003\/1110042003009.json",
+        "nama": "TPS 009, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003010",
+        "url": "11\/1110\/111004\/1110042003\/1110042003010.json",
+        "nama": "TPS 010, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003011",
+        "url": "11\/1110\/111004\/1110042003\/1110042003011.json",
+        "nama": "TPS 011, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042003",
+        "tps": "1110042003012",
+        "url": "11\/1110\/111004\/1110042003\/1110042003012.json",
+        "nama": "TPS 012, PULO SAROK, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042008",
+        "tps": "1110042008001",
+        "url": "11\/1110\/111004\/1110042008\/1110042008001.json",
+        "nama": "TPS 001, RANTAU GEDANG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042008",
+        "tps": "1110042008002",
+        "url": "11\/1110\/111004\/1110042008\/1110042008002.json",
+        "nama": "TPS 002, RANTAU GEDANG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042014",
+        "tps": "1110042014001",
+        "url": "11\/1110\/111004\/1110042014\/1110042014001.json",
+        "nama": "TPS 001, SELOK ACEH, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042014",
+        "tps": "1110042014002",
+        "url": "11\/1110\/111004\/1110042014\/1110042014002.json",
+        "nama": "TPS 002, SELOK ACEH, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042019",
+        "tps": "1110042019001",
+        "url": "11\/1110\/111004\/1110042019\/1110042019001.json",
+        "nama": "TPS 001, SITI AMBIA, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042019",
+        "tps": "1110042019002",
+        "url": "11\/1110\/111004\/1110042019\/1110042019002.json",
+        "nama": "TPS 002, SITI AMBIA, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042019",
+        "tps": "1110042019003",
+        "url": "11\/1110\/111004\/1110042019\/1110042019003.json",
+        "nama": "TPS 003, SITI AMBIA, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042019",
+        "tps": "1110042019004",
+        "url": "11\/1110\/111004\/1110042019\/1110042019004.json",
+        "nama": "TPS 004, SITI AMBIA, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042019",
+        "tps": "1110042019005",
+        "url": "11\/1110\/111004\/1110042019\/1110042019005.json",
+        "nama": "TPS 005, SITI AMBIA, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042020",
+        "tps": "1110042020001",
+        "url": "11\/1110\/111004\/1110042020\/1110042020001.json",
+        "nama": "TPS 001, SUKA DAMAI, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042020",
+        "tps": "1110042020002",
+        "url": "11\/1110\/111004\/1110042020\/1110042020002.json",
+        "nama": "TPS 002, SUKA DAMAI, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042016",
+        "tps": "1110042016001",
+        "url": "11\/1110\/111004\/1110042016\/1110042016001.json",
+        "nama": "TPS 001, SUKA MAKMUR, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042016",
+        "tps": "1110042016002",
+        "url": "11\/1110\/111004\/1110042016\/1110042016002.json",
+        "nama": "TPS 002, SUKA MAKMUR, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042012",
+        "tps": "1110042012001",
+        "url": "11\/1110\/111004\/1110042012\/1110042012001.json",
+        "nama": "TPS 001, TAKAL PASIR, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042012",
+        "tps": "1110042012002",
+        "url": "11\/1110\/111004\/1110042012\/1110042012002.json",
+        "nama": "TPS 002, TAKAL PASIR, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042007",
+        "tps": "1110042007001",
+        "url": "11\/1110\/111004\/1110042007\/1110042007001.json",
+        "nama": "TPS 001, TELUK AMBUN, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042007",
+        "tps": "1110042007002",
+        "url": "11\/1110\/111004\/1110042007\/1110042007002.json",
+        "nama": "TPS 002, TELUK AMBUN, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042007",
+        "tps": "1110042007003",
+        "url": "11\/1110\/111004\/1110042007\/1110042007003.json",
+        "nama": "TPS 003, TELUK AMBUN, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042009",
+        "tps": "1110042009001",
+        "url": "11\/1110\/111004\/1110042009\/1110042009001.json",
+        "nama": "TPS 001, TELUK RUMBIA, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042009",
+        "tps": "1110042009002",
+        "url": "11\/1110\/111004\/1110042009\/1110042009002.json",
+        "nama": "TPS 002, TELUK RUMBIA, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042002",
+        "tps": "1110042002001",
+        "url": "11\/1110\/111004\/1110042002\/1110042002001.json",
+        "nama": "TPS 001, UJUNG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042002",
+        "tps": "1110042002002",
+        "url": "11\/1110\/111004\/1110042002\/1110042002002.json",
+        "nama": "TPS 002, UJUNG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042002",
+        "tps": "1110042002003",
+        "url": "11\/1110\/111004\/1110042002\/1110042002003.json",
+        "nama": "TPS 003, UJUNG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042002",
+        "tps": "1110042002004",
+        "url": "11\/1110\/111004\/1110042002\/1110042002004.json",
+        "nama": "TPS 004, UJUNG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042002",
+        "tps": "1110042002005",
+        "url": "11\/1110\/111004\/1110042002\/1110042002005.json",
+        "nama": "TPS 005, UJUNG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042002",
+        "tps": "1110042002006",
+        "url": "11\/1110\/111004\/1110042002\/1110042002006.json",
+        "nama": "TPS 006, UJUNG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042017",
+        "tps": "1110042017001",
+        "url": "11\/1110\/111004\/1110042017\/1110042017001.json",
+        "nama": "TPS 001, UJUNG BAWANG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042017",
+        "tps": "1110042017002",
+        "url": "11\/1110\/111004\/1110042017\/1110042017002.json",
+        "nama": "TPS 002, UJUNG BAWANG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111004",
+        "desa": "1110042017",
+        "tps": "1110042017003",
+        "url": "11\/1110\/111004\/1110042017\/1110042017003.json",
+        "nama": "TPS 003, UJUNG BAWANG, SINGKIL, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102006",
+        "tps": "1110102006001",
+        "url": "11\/1110\/111010\/1110102006\/1110102006001.json",
+        "nama": "TPS 001, GOSONG TELAGA BARAT, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102006",
+        "tps": "1110102006002",
+        "url": "11\/1110\/111010\/1110102006\/1110102006002.json",
+        "nama": "TPS 002, GOSONG TELAGA BARAT, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102006",
+        "tps": "1110102006003",
+        "url": "11\/1110\/111010\/1110102006\/1110102006003.json",
+        "nama": "TPS 003, GOSONG TELAGA BARAT, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102002",
+        "tps": "1110102002001",
+        "url": "11\/1110\/111010\/1110102002\/1110102002001.json",
+        "nama": "TPS 001, GOSONG TELAGA SELATAN, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102002",
+        "tps": "1110102002002",
+        "url": "11\/1110\/111010\/1110102002\/1110102002002.json",
+        "nama": "TPS 002, GOSONG TELAGA SELATAN, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102002",
+        "tps": "1110102002003",
+        "url": "11\/1110\/111010\/1110102002\/1110102002003.json",
+        "nama": "TPS 003, GOSONG TELAGA SELATAN, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102005",
+        "tps": "1110102005001",
+        "url": "11\/1110\/111010\/1110102005\/1110102005001.json",
+        "nama": "TPS 001, GOSONG TELAGA TIMUR, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102005",
+        "tps": "1110102005002",
+        "url": "11\/1110\/111010\/1110102005\/1110102005002.json",
+        "nama": "TPS 002, GOSONG TELAGA TIMUR, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102005",
+        "tps": "1110102005003",
+        "url": "11\/1110\/111010\/1110102005\/1110102005003.json",
+        "nama": "TPS 003, GOSONG TELAGA TIMUR, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102005",
+        "tps": "1110102005004",
+        "url": "11\/1110\/111010\/1110102005\/1110102005004.json",
+        "nama": "TPS 004, GOSONG TELAGA TIMUR, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102005",
+        "tps": "1110102005005",
+        "url": "11\/1110\/111010\/1110102005\/1110102005005.json",
+        "nama": "TPS 005, GOSONG TELAGA TIMUR, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102001",
+        "tps": "1110102001001",
+        "url": "11\/1110\/111010\/1110102001\/1110102001001.json",
+        "nama": "TPS 001, GOSONG TELAGA UTARA, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102001",
+        "tps": "1110102001002",
+        "url": "11\/1110\/111010\/1110102001\/1110102001002.json",
+        "nama": "TPS 002, GOSONG TELAGA UTARA, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102001",
+        "tps": "1110102001003",
+        "url": "11\/1110\/111010\/1110102001\/1110102001003.json",
+        "nama": "TPS 003, GOSONG TELAGA UTARA, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102003",
+        "tps": "1110102003001",
+        "url": "11\/1110\/111010\/1110102003\/1110102003001.json",
+        "nama": "TPS 001, KAMPUNG BARU, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102003",
+        "tps": "1110102003002",
+        "url": "11\/1110\/111010\/1110102003\/1110102003002.json",
+        "nama": "TPS 002, KAMPUNG BARU, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102003",
+        "tps": "1110102003003",
+        "url": "11\/1110\/111010\/1110102003\/1110102003003.json",
+        "nama": "TPS 003, KAMPUNG BARU, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102003",
+        "tps": "1110102003004",
+        "url": "11\/1110\/111010\/1110102003\/1110102003004.json",
+        "nama": "TPS 004, KAMPUNG BARU, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102003",
+        "tps": "1110102003005",
+        "url": "11\/1110\/111010\/1110102003\/1110102003005.json",
+        "nama": "TPS 005, KAMPUNG BARU, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102004",
+        "tps": "1110102004001",
+        "url": "11\/1110\/111010\/1110102004\/1110102004001.json",
+        "nama": "TPS 001, KETAPANG INDAH, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102004",
+        "tps": "1110102004002",
+        "url": "11\/1110\/111010\/1110102004\/1110102004002.json",
+        "nama": "TPS 002, KETAPANG INDAH, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102004",
+        "tps": "1110102004003",
+        "url": "11\/1110\/111010\/1110102004\/1110102004003.json",
+        "nama": "TPS 003, KETAPANG INDAH, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102004",
+        "tps": "1110102004004",
+        "url": "11\/1110\/111010\/1110102004\/1110102004004.json",
+        "nama": "TPS 004, KETAPANG INDAH, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102004",
+        "tps": "1110102004005",
+        "url": "11\/1110\/111010\/1110102004\/1110102004005.json",
+        "nama": "TPS 005, KETAPANG INDAH, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102004",
+        "tps": "1110102004901",
+        "url": "11\/1110\/111010\/1110102004\/1110102004901.json",
+        "nama": "TPS 901, KETAPANG INDAH, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102007",
+        "tps": "1110102007001",
+        "url": "11\/1110\/111010\/1110102007\/1110102007001.json",
+        "nama": "TPS 001, TELAGA BAKTI, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102007",
+        "tps": "1110102007002",
+        "url": "11\/1110\/111010\/1110102007\/1110102007002.json",
+        "nama": "TPS 002, TELAGA BAKTI, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102007",
+        "tps": "1110102007003",
+        "url": "11\/1110\/111010\/1110102007\/1110102007003.json",
+        "nama": "TPS 003, TELAGA BAKTI, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111010",
+        "desa": "1110102007",
+        "tps": "1110102007004",
+        "url": "11\/1110\/111010\/1110102007\/1110102007004.json",
+        "nama": "TPS 004, TELAGA BAKTI, SINGKIL UTARA, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132003",
+        "tps": "1110132003001",
+        "url": "11\/1110\/111013\/1110132003\/1110132003001.json",
+        "nama": "TPS 001, LAE PINANG, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132003",
+        "tps": "1110132003002",
+        "url": "11\/1110\/111013\/1110132003\/1110132003002.json",
+        "nama": "TPS 002, LAE PINANG, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132003",
+        "tps": "1110132003003",
+        "url": "11\/1110\/111013\/1110132003\/1110132003003.json",
+        "nama": "TPS 003, LAE PINANG, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132003",
+        "tps": "1110132003004",
+        "url": "11\/1110\/111013\/1110132003\/1110132003004.json",
+        "nama": "TPS 004, LAE PINANG, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132002",
+        "tps": "1110132002001",
+        "url": "11\/1110\/111013\/1110132002\/1110132002001.json",
+        "nama": "TPS 001, LAE SIPOLA, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132004",
+        "tps": "1110132004001",
+        "url": "11\/1110\/111013\/1110132004\/1110132004001.json",
+        "nama": "TPS 001, MUKTI JAYA, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132004",
+        "tps": "1110132004002",
+        "url": "11\/1110\/111013\/1110132004\/1110132004002.json",
+        "nama": "TPS 002, MUKTI JAYA, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132004",
+        "tps": "1110132004003",
+        "url": "11\/1110\/111013\/1110132004\/1110132004003.json",
+        "nama": "TPS 003, MUKTI JAYA, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132007",
+        "tps": "1110132007001",
+        "url": "11\/1110\/111013\/1110132007\/1110132007001.json",
+        "nama": "TPS 001, PEA JAMBU, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132007",
+        "tps": "1110132007002",
+        "url": "11\/1110\/111013\/1110132007\/1110132007002.json",
+        "nama": "TPS 002, PEA JAMBU, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132001",
+        "tps": "1110132001001",
+        "url": "11\/1110\/111013\/1110132001\/1110132001001.json",
+        "nama": "TPS 001, SINGKOHOR, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132001",
+        "tps": "1110132001002",
+        "url": "11\/1110\/111013\/1110132001\/1110132001002.json",
+        "nama": "TPS 002, SINGKOHOR, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132001",
+        "tps": "1110132001003",
+        "url": "11\/1110\/111013\/1110132001\/1110132001003.json",
+        "nama": "TPS 003, SINGKOHOR, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132001",
+        "tps": "1110132001004",
+        "url": "11\/1110\/111013\/1110132001\/1110132001004.json",
+        "nama": "TPS 004, SINGKOHOR, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132001",
+        "tps": "1110132001005",
+        "url": "11\/1110\/111013\/1110132001\/1110132001005.json",
+        "nama": "TPS 005, SINGKOHOR, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132001",
+        "tps": "1110132001006",
+        "url": "11\/1110\/111013\/1110132001\/1110132001006.json",
+        "nama": "TPS 006, SINGKOHOR, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132006",
+        "tps": "1110132006001",
+        "url": "11\/1110\/111013\/1110132006\/1110132006001.json",
+        "nama": "TPS 001, SRI KAYU, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132006",
+        "tps": "1110132006002",
+        "url": "11\/1110\/111013\/1110132006\/1110132006002.json",
+        "nama": "TPS 002, SRI KAYU, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132006",
+        "tps": "1110132006003",
+        "url": "11\/1110\/111013\/1110132006\/1110132006003.json",
+        "nama": "TPS 003, SRI KAYU, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111013",
+        "desa": "1110132006",
+        "tps": "1110132006004",
+        "url": "11\/1110\/111013\/1110132006\/1110132006004.json",
+        "nama": "TPS 004, SRI KAYU, SINGKOHOR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122005",
+        "tps": "1110122005001",
+        "url": "11\/1110\/111012\/1110122005\/1110122005001.json",
+        "nama": "TPS 001, ALUR LINCI, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122011",
+        "tps": "1110122011001",
+        "url": "11\/1110\/111012\/1110122011\/1110122011001.json",
+        "nama": "TPS 001, BULU ARA, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122003",
+        "tps": "1110122003001",
+        "url": "11\/1110\/111012\/1110122003\/1110122003001.json",
+        "nama": "TPS 001, BULU SEMA, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122003",
+        "tps": "1110122003002",
+        "url": "11\/1110\/111012\/1110122003\/1110122003002.json",
+        "nama": "TPS 002, BULU SEMA, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122003",
+        "tps": "1110122003003",
+        "url": "11\/1110\/111012\/1110122003\/1110122003003.json",
+        "nama": "TPS 003, BULU SEMA, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122003",
+        "tps": "1110122003004",
+        "url": "11\/1110\/111012\/1110122003\/1110122003004.json",
+        "nama": "TPS 004, BULU SEMA, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122008",
+        "tps": "1110122008001",
+        "url": "11\/1110\/111012\/1110122008\/1110122008001.json",
+        "nama": "TPS 001, KERAS, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122008",
+        "tps": "1110122008002",
+        "url": "11\/1110\/111012\/1110122008\/1110122008002.json",
+        "nama": "TPS 002, KERAS, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122007",
+        "tps": "1110122007001",
+        "url": "11\/1110\/111012\/1110122007\/1110122007001.json",
+        "nama": "TPS 001, KETANGKUHAN, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122004",
+        "tps": "1110122004001",
+        "url": "11\/1110\/111012\/1110122004\/1110122004001.json",
+        "nama": "TPS 001, LAE BANGUN, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122009",
+        "tps": "1110122009001",
+        "url": "11\/1110\/111012\/1110122009\/1110122009001.json",
+        "nama": "TPS 001, MANDUMPANG, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122009",
+        "tps": "1110122009002",
+        "url": "11\/1110\/111012\/1110122009\/1110122009002.json",
+        "nama": "TPS 002, MANDUMPANG, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122009",
+        "tps": "1110122009003",
+        "url": "11\/1110\/111012\/1110122009\/1110122009003.json",
+        "nama": "TPS 003, MANDUMPANG, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122009",
+        "tps": "1110122009004",
+        "url": "11\/1110\/111012\/1110122009\/1110122009004.json",
+        "nama": "TPS 004, MANDUMPANG, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122002",
+        "tps": "1110122002001",
+        "url": "11\/1110\/111012\/1110122002\/1110122002001.json",
+        "nama": "TPS 001, PANGKALAN SULAMPI, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122002",
+        "tps": "1110122002002",
+        "url": "11\/1110\/111012\/1110122002\/1110122002002.json",
+        "nama": "TPS 002, PANGKALAN SULAMPI, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122006",
+        "tps": "1110122006001",
+        "url": "11\/1110\/111012\/1110122006\/1110122006001.json",
+        "nama": "TPS 001, SIOMPIN, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122006",
+        "tps": "1110122006002",
+        "url": "11\/1110\/111012\/1110122006\/1110122006002.json",
+        "nama": "TPS 002, SIOMPIN, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122006",
+        "tps": "1110122006003",
+        "url": "11\/1110\/111012\/1110122006\/1110122006003.json",
+        "nama": "TPS 003, SIOMPIN, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122006",
+        "tps": "1110122006004",
+        "url": "11\/1110\/111012\/1110122006\/1110122006004.json",
+        "nama": "TPS 004, SIOMPIN, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122006",
+        "tps": "1110122006005",
+        "url": "11\/1110\/111012\/1110122006\/1110122006005.json",
+        "nama": "TPS 005, SIOMPIN, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122006",
+        "tps": "1110122006006",
+        "url": "11\/1110\/111012\/1110122006\/1110122006006.json",
+        "nama": "TPS 006, SIOMPIN, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122010",
+        "tps": "1110122010001",
+        "url": "11\/1110\/111012\/1110122010\/1110122010001.json",
+        "nama": "TPS 001, SIRIMO MUNGKUR, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122010",
+        "tps": "1110122010002",
+        "url": "11\/1110\/111012\/1110122010\/1110122010002.json",
+        "nama": "TPS 002, SIRIMO MUNGKUR, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122001",
+        "tps": "1110122001001",
+        "url": "11\/1110\/111012\/1110122001\/1110122001001.json",
+        "nama": "TPS 001, SURO MAKMUR, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1110",
+        "kecamatan": "111012",
+        "desa": "1110122001",
+        "tps": "1110122001002",
+        "url": "11\/1110\/111012\/1110122001\/1110122001002.json",
+        "nama": "TPS 002, SURO MAKMUR, SURO MAKMUR, ACEH SINGKIL, ACEH"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9985",
+        "kecamatan": "998501",
+        "desa": "9985010001",
+        "tps": "9985010001001",
+        "url": "99\/9985\/998501\/9985010001\/9985010001001.json",
+        "nama": "POS 001, Ottawa, Kanada, Ottawa, Kanada, Ottawa, Kanada, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9985",
+        "kecamatan": "998501",
+        "desa": "9985010001",
+        "tps": "9985010001002",
+        "url": "99\/9985\/998501\/9985010001\/9985010001002.json",
+        "nama": "POS 002, Ottawa, Kanada, Ottawa, Kanada, Ottawa, Kanada, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9985",
+        "kecamatan": "998501",
+        "desa": "9985010001",
+        "tps": "9985010001003",
+        "url": "99\/9985\/998501\/9985010001\/9985010001003.json",
+        "nama": "TPS 001, Ottawa, Kanada, Ottawa, Kanada, Ottawa, Kanada, Luar Negeri"
+    }
+]

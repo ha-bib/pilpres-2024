@@ -1,0 +1,3233 @@
+[
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062004",
+        "tps": "9303062004001",
+        "url": "93\/9303\/930306\/9303062004\/9303062004001.json",
+        "nama": "TPS 001, ABOGE, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062004",
+        "tps": "9303062004002",
+        "url": "93\/9303\/930306\/9303062004\/9303062004002.json",
+        "nama": "TPS 002, ABOGE, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062004",
+        "tps": "9303062004003",
+        "url": "93\/9303\/930306\/9303062004\/9303062004003.json",
+        "nama": "TPS 003, ABOGE, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062014",
+        "tps": "9303062014001",
+        "url": "93\/9303\/930306\/9303062014\/9303062014001.json",
+        "nama": "TPS 001, ASAREN, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062014",
+        "tps": "9303062014002",
+        "url": "93\/9303\/930306\/9303062014\/9303062014002.json",
+        "nama": "TPS 002, ASAREN, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062003",
+        "tps": "9303062003001",
+        "url": "93\/9303\/930306\/9303062003\/9303062003001.json",
+        "nama": "TPS 001, ECI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062003",
+        "tps": "9303062003002",
+        "url": "93\/9303\/930306\/9303062003\/9303062003002.json",
+        "nama": "TPS 002, ECI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062003",
+        "tps": "9303062003003",
+        "url": "93\/9303\/930306\/9303062003\/9303062003003.json",
+        "nama": "TPS 003, ECI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062003",
+        "tps": "9303062003004",
+        "url": "93\/9303\/930306\/9303062003\/9303062003004.json",
+        "nama": "TPS 004, ECI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062003",
+        "tps": "9303062003005",
+        "url": "93\/9303\/930306\/9303062003\/9303062003005.json",
+        "nama": "TPS 005, ECI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062016",
+        "tps": "9303062016001",
+        "url": "93\/9303\/930306\/9303062016\/9303062016001.json",
+        "nama": "TPS 001, GIRIMIO, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062016",
+        "tps": "9303062016002",
+        "url": "93\/9303\/930306\/9303062016\/9303062016002.json",
+        "nama": "TPS 002, GIRIMIO, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062017",
+        "tps": "9303062017001",
+        "url": "93\/9303\/930306\/9303062017\/9303062017001.json",
+        "nama": "TPS 001, HAFFO, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062017",
+        "tps": "9303062017002",
+        "url": "93\/9303\/930306\/9303062017\/9303062017002.json",
+        "nama": "TPS 002, HAFFO, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062017",
+        "tps": "9303062017003",
+        "url": "93\/9303\/930306\/9303062017\/9303062017003.json",
+        "nama": "TPS 003, HAFFO, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062008",
+        "tps": "9303062008001",
+        "url": "93\/9303\/930306\/9303062008\/9303062008001.json",
+        "nama": "TPS 001, HOMANG, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062012",
+        "tps": "9303062012001",
+        "url": "93\/9303\/930306\/9303062012\/9303062012001.json",
+        "nama": "TPS 001, ISAGE, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062012",
+        "tps": "9303062012002",
+        "url": "93\/9303\/930306\/9303062012\/9303062012002.json",
+        "nama": "TPS 002, ISAGE, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062002",
+        "tps": "9303062002001",
+        "url": "93\/9303\/930306\/9303062002\/9303062002001.json",
+        "nama": "TPS 001, JUFO BESAR, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062009",
+        "tps": "9303062009001",
+        "url": "93\/9303\/930306\/9303062009\/9303062009001.json",
+        "nama": "TPS 001, JUFO KECIL, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062007",
+        "tps": "9303062007001",
+        "url": "93\/9303\/930306\/9303062007\/9303062007001.json",
+        "nama": "TPS 001, KAITOK, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062015",
+        "tps": "9303062015001",
+        "url": "93\/9303\/930306\/9303062015\/9303062015001.json",
+        "nama": "TPS 001, KERU, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062010",
+        "tps": "9303062010001",
+        "url": "93\/9303\/930306\/9303062010\/9303062010001.json",
+        "nama": "TPS 001, KHABU, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062005",
+        "tps": "9303062005001",
+        "url": "93\/9303\/930306\/9303062005\/9303062005001.json",
+        "nama": "TPS 001, KHANAMI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062005",
+        "tps": "9303062005002",
+        "url": "93\/9303\/930306\/9303062005\/9303062005002.json",
+        "nama": "TPS 002, KHANAMI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062011",
+        "tps": "9303062011001",
+        "url": "93\/9303\/930306\/9303062011\/9303062011001.json",
+        "nama": "TPS 001, KIKI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062013",
+        "tps": "9303062013001",
+        "url": "93\/9303\/930306\/9303062013\/9303062013001.json",
+        "nama": "TPS 001, KOPI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062013",
+        "tps": "9303062013002",
+        "url": "93\/9303\/930306\/9303062013\/9303062013002.json",
+        "nama": "TPS 002, KOPI, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062018",
+        "tps": "9303062018001",
+        "url": "93\/9303\/930306\/9303062018\/9303062018001.json",
+        "nama": "TPS 001, MEDA, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062001",
+        "tps": "9303062001001",
+        "url": "93\/9303\/930306\/9303062001\/9303062001001.json",
+        "nama": "TPS 001, SIGARE, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062001",
+        "tps": "9303062001002",
+        "url": "93\/9303\/930306\/9303062001\/9303062001002.json",
+        "nama": "TPS 002, SIGARE, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062006",
+        "tps": "9303062006001",
+        "url": "93\/9303\/930306\/9303062006\/9303062006001.json",
+        "nama": "TPS 001, YAME, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930306",
+        "desa": "9303062006",
+        "tps": "9303062006002",
+        "url": "93\/9303\/930306\/9303062006\/9303062006002.json",
+        "nama": "TPS 002, YAME, ASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930313",
+        "desa": "9303132002",
+        "tps": "9303132002001",
+        "url": "93\/9303\/930313\/9303132002\/9303132002001.json",
+        "nama": "TPS 001, KONEBI, BAMGI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930313",
+        "desa": "9303132002",
+        "tps": "9303132002002",
+        "url": "93\/9303\/930313\/9303132002\/9303132002002.json",
+        "nama": "TPS 002, KONEBI, BAMGI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930313",
+        "desa": "9303132003",
+        "tps": "9303132003001",
+        "url": "93\/9303\/930313\/9303132003\/9303132003001.json",
+        "nama": "TPS 001, SIBI, BAMGI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930313",
+        "desa": "9303132003",
+        "tps": "9303132003002",
+        "url": "93\/9303\/930313\/9303132003\/9303132003002.json",
+        "nama": "TPS 002, SIBI, BAMGI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930313",
+        "desa": "9303132005",
+        "tps": "9303132005001",
+        "url": "93\/9303\/930313\/9303132005\/9303132005001.json",
+        "nama": "TPS 001, TAGAIMON KAROME, BAMGI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930313",
+        "desa": "9303132005",
+        "tps": "9303132005002",
+        "url": "93\/9303\/930313\/9303132005\/9303132005002.json",
+        "nama": "TPS 002, TAGAIMON KAROME, BAMGI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930313",
+        "desa": "9303132004",
+        "tps": "9303132004001",
+        "url": "93\/9303\/930313\/9303132004\/9303132004001.json",
+        "nama": "TPS 001, TAGAIMON SINO, BAMGI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930313",
+        "desa": "9303132001",
+        "tps": "9303132001001",
+        "url": "93\/9303\/930313\/9303132001\/9303132001001.json",
+        "nama": "TPS 001, YELOBA, BAMGI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032007",
+        "tps": "9303032007001",
+        "url": "93\/9303\/930303\/9303032007\/9303032007001.json",
+        "nama": "TPS 001, ABAU, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032001",
+        "tps": "9303032001001",
+        "url": "93\/9303\/930303\/9303032001\/9303032001001.json",
+        "nama": "TPS 001, BIDNEW, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032001",
+        "tps": "9303032001002",
+        "url": "93\/9303\/930303\/9303032001\/9303032001002.json",
+        "nama": "TPS 002, BIDNEW, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032006",
+        "tps": "9303032006001",
+        "url": "93\/9303\/930303\/9303032006\/9303032006001.json",
+        "nama": "TPS 001, EPEM, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032003",
+        "tps": "9303032003001",
+        "url": "93\/9303\/930303\/9303032003\/9303032003001.json",
+        "nama": "TPS 001, KUMASMA, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032003",
+        "tps": "9303032003002",
+        "url": "93\/9303\/930303\/9303032003\/9303032003002.json",
+        "nama": "TPS 002, KUMASMA, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032002",
+        "tps": "9303032002001",
+        "url": "93\/9303\/930303\/9303032002\/9303032002001.json",
+        "nama": "TPS 001, SENGGO, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032002",
+        "tps": "9303032002002",
+        "url": "93\/9303\/930303\/9303032002\/9303032002002.json",
+        "nama": "TPS 002, SENGGO, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032002",
+        "tps": "9303032002003",
+        "url": "93\/9303\/930303\/9303032002\/9303032002003.json",
+        "nama": "TPS 003, SENGGO, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032002",
+        "tps": "9303032002004",
+        "url": "93\/9303\/930303\/9303032002\/9303032002004.json",
+        "nama": "TPS 004, SENGGO, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032002",
+        "tps": "9303032002005",
+        "url": "93\/9303\/930303\/9303032002\/9303032002005.json",
+        "nama": "TPS 005, SENGGO, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032002",
+        "tps": "9303032002006",
+        "url": "93\/9303\/930303\/9303032002\/9303032002006.json",
+        "nama": "TPS 006, SENGGO, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032005",
+        "tps": "9303032005001",
+        "url": "93\/9303\/930303\/9303032005\/9303032005001.json",
+        "nama": "TPS 001, TAMANIN, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032005",
+        "tps": "9303032005002",
+        "url": "93\/9303\/930303\/9303032005\/9303032005002.json",
+        "nama": "TPS 002, TAMANIN, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032004",
+        "tps": "9303032004001",
+        "url": "93\/9303\/930303\/9303032004\/9303032004001.json",
+        "nama": "TPS 001, WOMIN, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930303",
+        "desa": "9303032004",
+        "tps": "9303032004002",
+        "url": "93\/9303\/930303\/9303032004\/9303032004002.json",
+        "nama": "TPS 002, WOMIN, CITAK-MITAK, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001001",
+        "url": "93\/9303\/930304\/9303041001\/9303041001001.json",
+        "nama": "TPS 001, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001002",
+        "url": "93\/9303\/930304\/9303041001\/9303041001002.json",
+        "nama": "TPS 002, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001003",
+        "url": "93\/9303\/930304\/9303041001\/9303041001003.json",
+        "nama": "TPS 003, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001004",
+        "url": "93\/9303\/930304\/9303041001\/9303041001004.json",
+        "nama": "TPS 004, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001005",
+        "url": "93\/9303\/930304\/9303041001\/9303041001005.json",
+        "nama": "TPS 005, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001006",
+        "url": "93\/9303\/930304\/9303041001\/9303041001006.json",
+        "nama": "TPS 006, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001007",
+        "url": "93\/9303\/930304\/9303041001\/9303041001007.json",
+        "nama": "TPS 007, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001008",
+        "url": "93\/9303\/930304\/9303041001\/9303041001008.json",
+        "nama": "TPS 008, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001009",
+        "url": "93\/9303\/930304\/9303041001\/9303041001009.json",
+        "nama": "TPS 009, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001010",
+        "url": "93\/9303\/930304\/9303041001\/9303041001010.json",
+        "nama": "TPS 010, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001011",
+        "url": "93\/9303\/930304\/9303041001\/9303041001011.json",
+        "nama": "TPS 011, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001012",
+        "url": "93\/9303\/930304\/9303041001\/9303041001012.json",
+        "nama": "TPS 012, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001013",
+        "url": "93\/9303\/930304\/9303041001\/9303041001013.json",
+        "nama": "TPS 013, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001014",
+        "url": "93\/9303\/930304\/9303041001\/9303041001014.json",
+        "nama": "TPS 014, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303041001",
+        "tps": "9303041001015",
+        "url": "93\/9303\/930304\/9303041001\/9303041001015.json",
+        "nama": "TPS 015, BADE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042005",
+        "tps": "9303042005001",
+        "url": "93\/9303\/930304\/9303042005\/9303042005001.json",
+        "nama": "TPS 001, BANAMEPE, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042002",
+        "tps": "9303042002001",
+        "url": "93\/9303\/930304\/9303042002\/9303042002001.json",
+        "nama": "TPS 001, GETURKI, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042002",
+        "tps": "9303042002002",
+        "url": "93\/9303\/930304\/9303042002\/9303042002002.json",
+        "nama": "TPS 002, GETURKI, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042004",
+        "tps": "9303042004001",
+        "url": "93\/9303\/930304\/9303042004\/9303042004001.json",
+        "nama": "TPS 001, GIMIKYA, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042004",
+        "tps": "9303042004002",
+        "url": "93\/9303\/930304\/9303042004\/9303042004002.json",
+        "nama": "TPS 002, GIMIKYA, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042007",
+        "tps": "9303042007001",
+        "url": "93\/9303\/930304\/9303042007\/9303042007001.json",
+        "nama": "TPS 001, ISYAMAN, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042007",
+        "tps": "9303042007002",
+        "url": "93\/9303\/930304\/9303042007\/9303042007002.json",
+        "nama": "TPS 002, ISYAMAN, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042003",
+        "tps": "9303042003001",
+        "url": "93\/9303\/930304\/9303042003\/9303042003001.json",
+        "nama": "TPS 001, MEMEMU, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042006",
+        "tps": "9303042006001",
+        "url": "93\/9303\/930304\/9303042006\/9303042006001.json",
+        "nama": "TPS 001, YODOM, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930304",
+        "desa": "9303042006",
+        "tps": "9303042006002",
+        "url": "93\/9303\/930304\/9303042006\/9303042006002.json",
+        "nama": "TPS 002, YODOM, EDERA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052002",
+        "tps": "9303052002001",
+        "url": "93\/9303\/930305\/9303052002\/9303052002001.json",
+        "nama": "TPS 001, AMAGATSU, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052002",
+        "tps": "9303052002002",
+        "url": "93\/9303\/930305\/9303052002\/9303052002002.json",
+        "nama": "TPS 002, AMAGATSU, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052007",
+        "tps": "9303052007001",
+        "url": "93\/9303\/930305\/9303052007\/9303052007001.json",
+        "nama": "TPS 001, AMENDA, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052016",
+        "tps": "9303052016001",
+        "url": "93\/9303\/930305\/9303052016\/9303052016001.json",
+        "nama": "TPS 001, ARARE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052016",
+        "tps": "9303052016002",
+        "url": "93\/9303\/930305\/9303052016\/9303052016002.json",
+        "nama": "TPS 002, ARARE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052016",
+        "tps": "9303052016003",
+        "url": "93\/9303\/930305\/9303052016\/9303052016003.json",
+        "nama": "TPS 003, ARARE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052011",
+        "tps": "9303052011001",
+        "url": "93\/9303\/930305\/9303052011\/9303052011001.json",
+        "nama": "TPS 001, ATSIPIM, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052011",
+        "tps": "9303052011002",
+        "url": "93\/9303\/930305\/9303052011\/9303052011002.json",
+        "nama": "TPS 002, ATSIPIM, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052013",
+        "tps": "9303052013001",
+        "url": "93\/9303\/930305\/9303052013\/9303052013001.json",
+        "nama": "TPS 001, GEIRIPIM, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052013",
+        "tps": "9303052013002",
+        "url": "93\/9303\/930305\/9303052013\/9303052013002.json",
+        "nama": "TPS 002, GEIRIPIM, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052008",
+        "tps": "9303052008001",
+        "url": "93\/9303\/930305\/9303052008\/9303052008001.json",
+        "nama": "TPS 001, KAIBU, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052015",
+        "tps": "9303052015001",
+        "url": "93\/9303\/930305\/9303052015\/9303052015001.json",
+        "nama": "TPS 001, KAIBUSENE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052015",
+        "tps": "9303052015002",
+        "url": "93\/9303\/930305\/9303052015\/9303052015002.json",
+        "nama": "TPS 002, KAIBUSENE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052006",
+        "tps": "9303052006001",
+        "url": "93\/9303\/930305\/9303052006\/9303052006001.json",
+        "nama": "TPS 001, KASIMA, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052006",
+        "tps": "9303052006002",
+        "url": "93\/9303\/930305\/9303052006\/9303052006002.json",
+        "nama": "TPS 002, KASIMA, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052003",
+        "tps": "9303052003001",
+        "url": "93\/9303\/930305\/9303052003\/9303052003001.json",
+        "nama": "TPS 001, KATAGE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052003",
+        "tps": "9303052003002",
+        "url": "93\/9303\/930305\/9303052003\/9303052003002.json",
+        "nama": "TPS 002, KATAGE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052018",
+        "tps": "9303052018001",
+        "url": "93\/9303\/930305\/9303052018\/9303052018001.json",
+        "nama": "TPS 001, KERKE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052018",
+        "tps": "9303052018002",
+        "url": "93\/9303\/930305\/9303052018\/9303052018002.json",
+        "nama": "TPS 002, KERKE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052019",
+        "tps": "9303052019001",
+        "url": "93\/9303\/930305\/9303052019\/9303052019001.json",
+        "nama": "TPS 001, MANI, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052010",
+        "tps": "9303052010001",
+        "url": "93\/9303\/930305\/9303052010\/9303052010001.json",
+        "nama": "TPS 001, OKOR, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052010",
+        "tps": "9303052010002",
+        "url": "93\/9303\/930305\/9303052010\/9303052010002.json",
+        "nama": "TPS 002, OKOR, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052009",
+        "tps": "9303052009001",
+        "url": "93\/9303\/930305\/9303052009\/9303052009001.json",
+        "nama": "TPS 001, OMURO, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052017",
+        "tps": "9303052017001",
+        "url": "93\/9303\/930305\/9303052017\/9303052017001.json",
+        "nama": "TPS 001, PAGHAI, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052012",
+        "tps": "9303052012001",
+        "url": "93\/9303\/930305\/9303052012\/9303052012001.json",
+        "nama": "TPS 001, SEMTAIPIM, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052012",
+        "tps": "9303052012002",
+        "url": "93\/9303\/930305\/9303052012\/9303052012002.json",
+        "nama": "TPS 002, SEMTAIPIM, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052004",
+        "tps": "9303052004001",
+        "url": "93\/9303\/930305\/9303052004\/9303052004001.json",
+        "nama": "TPS 001, SOGOPE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052004",
+        "tps": "9303052004002",
+        "url": "93\/9303\/930305\/9303052004\/9303052004002.json",
+        "nama": "TPS 002, SOGOPE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052014",
+        "tps": "9303052014001",
+        "url": "93\/9303\/930305\/9303052014\/9303052014001.json",
+        "nama": "TPS 001, WAROGOM, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052005",
+        "tps": "9303052005001",
+        "url": "93\/9303\/930305\/9303052005\/9303052005001.json",
+        "nama": "TPS 001, WIYAGE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052005",
+        "tps": "9303052005002",
+        "url": "93\/9303\/930305\/9303052005\/9303052005002.json",
+        "nama": "TPS 002, WIYAGE, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052001",
+        "tps": "9303052001001",
+        "url": "93\/9303\/930305\/9303052001\/9303052001001.json",
+        "nama": "TPS 001, YAGATSU, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052001",
+        "tps": "9303052001002",
+        "url": "93\/9303\/930305\/9303052001\/9303052001002.json",
+        "nama": "TPS 002, YAGATSU, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930305",
+        "desa": "9303052001",
+        "tps": "9303052001003",
+        "url": "93\/9303\/930305\/9303052001\/9303052001003.json",
+        "nama": "TPS 003, YAGATSU, HAJU, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072001",
+        "tps": "9303072001001",
+        "url": "93\/9303\/930307\/9303072001\/9303072001001.json",
+        "nama": "TPS 001, AMAZU, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072001",
+        "tps": "9303072001002",
+        "url": "93\/9303\/930307\/9303072001\/9303072001002.json",
+        "nama": "TPS 002, AMAZU, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072006",
+        "tps": "9303072006001",
+        "url": "93\/9303\/930307\/9303072006\/9303072006001.json",
+        "nama": "TPS 001, BINERBIS, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072004",
+        "tps": "9303072004001",
+        "url": "93\/9303\/930307\/9303072004\/9303072004001.json",
+        "nama": "TPS 001, FOMU, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072004",
+        "tps": "9303072004002",
+        "url": "93\/9303\/930307\/9303072004\/9303072004002.json",
+        "nama": "TPS 002, FOMU, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072002",
+        "tps": "9303072002001",
+        "url": "93\/9303\/930307\/9303072002\/9303072002001.json",
+        "nama": "TPS 001, IMEMBI, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072007",
+        "tps": "9303072007001",
+        "url": "93\/9303\/930307\/9303072007\/9303072007001.json",
+        "nama": "TPS 001, TAYAU, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072005",
+        "tps": "9303072005001",
+        "url": "93\/9303\/930307\/9303072005\/9303072005001.json",
+        "nama": "TPS 001, TIAU, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072003",
+        "tps": "9303072003001",
+        "url": "93\/9303\/930307\/9303072003\/9303072003001.json",
+        "nama": "TPS 001, YEMU, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930307",
+        "desa": "9303072003",
+        "tps": "9303072003002",
+        "url": "93\/9303\/930307\/9303072003\/9303072003002.json",
+        "nama": "TPS 002, YEMU, KAIBAR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022002",
+        "tps": "9303022002001",
+        "url": "93\/9303\/930302\/9303022002\/9303022002001.json",
+        "nama": "TPS 001, AGHAM, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022002",
+        "tps": "9303022002002",
+        "url": "93\/9303\/930302\/9303022002\/9303022002002.json",
+        "nama": "TPS 002, AGHAM, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022002",
+        "tps": "9303022002003",
+        "url": "93\/9303\/930302\/9303022002\/9303022002003.json",
+        "nama": "TPS 003, AGHAM, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022015",
+        "tps": "9303022015001",
+        "url": "93\/9303\/930302\/9303022015\/9303022015001.json",
+        "nama": "TPS 001, GHANU, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022008",
+        "tps": "9303022008001",
+        "url": "93\/9303\/930302\/9303022008\/9303022008001.json",
+        "nama": "TPS 001, IMA, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022008",
+        "tps": "9303022008002",
+        "url": "93\/9303\/930302\/9303022008\/9303022008002.json",
+        "nama": "TPS 002, IMA, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022004",
+        "tps": "9303022004001",
+        "url": "93\/9303\/930302\/9303022004\/9303022004001.json",
+        "nama": "TPS 001, KHATAN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022004",
+        "tps": "9303022004002",
+        "url": "93\/9303\/930302\/9303022004\/9303022004002.json",
+        "nama": "TPS 002, KHATAN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022004",
+        "tps": "9303022004003",
+        "url": "93\/9303\/930302\/9303022004\/9303022004003.json",
+        "nama": "TPS 003, KHATAN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022009",
+        "tps": "9303022009001",
+        "url": "93\/9303\/930302\/9303022009\/9303022009001.json",
+        "nama": "TPS 001, KOGOYAMAN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022009",
+        "tps": "9303022009002",
+        "url": "93\/9303\/930302\/9303022009\/9303022009002.json",
+        "nama": "TPS 002, KOGOYAMAN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022013",
+        "tps": "9303022013001",
+        "url": "93\/9303\/930302\/9303022013\/9303022013001.json",
+        "nama": "TPS 001, LINGGUA, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022013",
+        "tps": "9303022013002",
+        "url": "93\/9303\/930302\/9303022013\/9303022013002.json",
+        "nama": "TPS 002, LINGGUA, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022010",
+        "tps": "9303022010001",
+        "url": "93\/9303\/930302\/9303022010\/9303022010001.json",
+        "nama": "TPS 001, MAGABAG, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022010",
+        "tps": "9303022010002",
+        "url": "93\/9303\/930302\/9303022010\/9303022010002.json",
+        "nama": "TPS 002, MAGABAG, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022005",
+        "tps": "9303022005001",
+        "url": "93\/9303\/930302\/9303022005\/9303022005001.json",
+        "nama": "TPS 001, MONANA, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022005",
+        "tps": "9303022005002",
+        "url": "93\/9303\/930302\/9303022005\/9303022005002.json",
+        "nama": "TPS 002, MONANA, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022001",
+        "tps": "9303022001001",
+        "url": "93\/9303\/930302\/9303022001\/9303022001001.json",
+        "nama": "TPS 001, MUR, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022001",
+        "tps": "9303022001002",
+        "url": "93\/9303\/930302\/9303022001\/9303022001002.json",
+        "nama": "TPS 002, MUR, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022001",
+        "tps": "9303022001003",
+        "url": "93\/9303\/930302\/9303022001\/9303022001003.json",
+        "nama": "TPS 003, MUR, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022001",
+        "tps": "9303022001004",
+        "url": "93\/9303\/930302\/9303022001\/9303022001004.json",
+        "nama": "TPS 004, MUR, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022001",
+        "tps": "9303022001005",
+        "url": "93\/9303\/930302\/9303022001\/9303022001005.json",
+        "nama": "TPS 005, MUR, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022011",
+        "tps": "9303022011001",
+        "url": "93\/9303\/930302\/9303022011\/9303022011001.json",
+        "nama": "TPS 001, TEREYEMU, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022003",
+        "tps": "9303022003001",
+        "url": "93\/9303\/930302\/9303022003\/9303022003001.json",
+        "nama": "TPS 001, WAGHIEN\/KOBA, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022003",
+        "tps": "9303022003002",
+        "url": "93\/9303\/930302\/9303022003\/9303022003002.json",
+        "nama": "TPS 002, WAGHIEN\/KOBA, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022006",
+        "tps": "9303022006001",
+        "url": "93\/9303\/930302\/9303022006\/9303022006001.json",
+        "nama": "TPS 001, WAGIN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022006",
+        "tps": "9303022006002",
+        "url": "93\/9303\/930302\/9303022006\/9303022006002.json",
+        "nama": "TPS 002, WAGIN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022007",
+        "tps": "9303022007001",
+        "url": "93\/9303\/930302\/9303022007\/9303022007001.json",
+        "nama": "TPS 001, WAMAN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022014",
+        "tps": "9303022014001",
+        "url": "93\/9303\/930302\/9303022014\/9303022014001.json",
+        "nama": "TPS 001, WARUWE, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022012",
+        "tps": "9303022012001",
+        "url": "93\/9303\/930302\/9303022012\/9303022012001.json",
+        "nama": "TPS 001, YATAN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930302",
+        "desa": "9303022012",
+        "tps": "9303022012002",
+        "url": "93\/9303\/930302\/9303022012\/9303022012002.json",
+        "nama": "TPS 002, YATAN, MAMBIOMAN BAPAI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092004",
+        "tps": "9303092004001",
+        "url": "93\/9303\/930309\/9303092004\/9303092004001.json",
+        "nama": "TPS 001, ATI, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092001",
+        "tps": "9303092001001",
+        "url": "93\/9303\/930309\/9303092001\/9303092001001.json",
+        "nama": "TPS 001, KABE, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092001",
+        "tps": "9303092001002",
+        "url": "93\/9303\/930309\/9303092001\/9303092001002.json",
+        "nama": "TPS 002, KABE, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092002",
+        "tps": "9303092002001",
+        "url": "93\/9303\/930309\/9303092002\/9303092002001.json",
+        "nama": "TPS 001, KAUMI, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092002",
+        "tps": "9303092002002",
+        "url": "93\/9303\/930309\/9303092002\/9303092002002.json",
+        "nama": "TPS 002, KAUMI, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092002",
+        "tps": "9303092002003",
+        "url": "93\/9303\/930309\/9303092002\/9303092002003.json",
+        "nama": "TPS 003, KAUMI, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092003",
+        "tps": "9303092003001",
+        "url": "93\/9303\/930309\/9303092003\/9303092003001.json",
+        "nama": "TPS 001, KAYAGAI, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092003",
+        "tps": "9303092003002",
+        "url": "93\/9303\/930309\/9303092003\/9303092003002.json",
+        "nama": "TPS 002, KAYAGAI, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092009",
+        "tps": "9303092009001",
+        "url": "93\/9303\/930309\/9303092009\/9303092009001.json",
+        "nama": "TPS 001, KOFAR, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092009",
+        "tps": "9303092009002",
+        "url": "93\/9303\/930309\/9303092009\/9303092009002.json",
+        "nama": "TPS 002, KOFAR, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092012",
+        "tps": "9303092012001",
+        "url": "93\/9303\/930309\/9303092012\/9303092012001.json",
+        "nama": "TPS 001, KOGIR, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092008",
+        "tps": "9303092008001",
+        "url": "93\/9303\/930309\/9303092008\/9303092008001.json",
+        "nama": "TPS 001, KOMRU, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092011",
+        "tps": "9303092011001",
+        "url": "93\/9303\/930309\/9303092011\/9303092011001.json",
+        "nama": "TPS 001, PANO, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092007",
+        "tps": "9303092007001",
+        "url": "93\/9303\/930309\/9303092007\/9303092007001.json",
+        "nama": "TPS 001, SENE, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092010",
+        "tps": "9303092010001",
+        "url": "93\/9303\/930309\/9303092010\/9303092010001.json",
+        "nama": "TPS 001, SUMURAMAN, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092010",
+        "tps": "9303092010002",
+        "url": "93\/9303\/930309\/9303092010\/9303092010002.json",
+        "nama": "TPS 002, SUMURAMAN, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092006",
+        "tps": "9303092006001",
+        "url": "93\/9303\/930309\/9303092006\/9303092006001.json",
+        "nama": "TPS 001, TARAGAI, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092006",
+        "tps": "9303092006002",
+        "url": "93\/9303\/930309\/9303092006\/9303092006002.json",
+        "nama": "TPS 002, TARAGAI, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930309",
+        "desa": "9303092005",
+        "tps": "9303092005001",
+        "url": "93\/9303\/930309\/9303092005\/9303092005001.json",
+        "nama": "TPS 001, UPIN, MINYAMUR, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012002",
+        "tps": "9303012002001",
+        "url": "93\/9303\/930301\/9303012002\/9303012002001.json",
+        "nama": "TPS 001, DAGIMON, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012002",
+        "tps": "9303012002002",
+        "url": "93\/9303\/930301\/9303012002\/9303012002002.json",
+        "nama": "TPS 002, DAGIMON, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012002",
+        "tps": "9303012002003",
+        "url": "93\/9303\/930301\/9303012002\/9303012002003.json",
+        "nama": "TPS 003, DAGIMON, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012002",
+        "tps": "9303012002004",
+        "url": "93\/9303\/930301\/9303012002\/9303012002004.json",
+        "nama": "TPS 004, DAGIMON, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012002",
+        "tps": "9303012002005",
+        "url": "93\/9303\/930301\/9303012002\/9303012002005.json",
+        "nama": "TPS 005, DAGIMON, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015001",
+        "url": "93\/9303\/930301\/9303012015\/9303012015001.json",
+        "nama": "TPS 001, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015002",
+        "url": "93\/9303\/930301\/9303012015\/9303012015002.json",
+        "nama": "TPS 002, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015003",
+        "url": "93\/9303\/930301\/9303012015\/9303012015003.json",
+        "nama": "TPS 003, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015004",
+        "url": "93\/9303\/930301\/9303012015\/9303012015004.json",
+        "nama": "TPS 004, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015005",
+        "url": "93\/9303\/930301\/9303012015\/9303012015005.json",
+        "nama": "TPS 005, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015006",
+        "url": "93\/9303\/930301\/9303012015\/9303012015006.json",
+        "nama": "TPS 006, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015007",
+        "url": "93\/9303\/930301\/9303012015\/9303012015007.json",
+        "nama": "TPS 007, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015008",
+        "url": "93\/9303\/930301\/9303012015\/9303012015008.json",
+        "nama": "TPS 008, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015009",
+        "url": "93\/9303\/930301\/9303012015\/9303012015009.json",
+        "nama": "TPS 009, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015010",
+        "url": "93\/9303\/930301\/9303012015\/9303012015010.json",
+        "nama": "TPS 010, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015011",
+        "url": "93\/9303\/930301\/9303012015\/9303012015011.json",
+        "nama": "TPS 011, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015012",
+        "url": "93\/9303\/930301\/9303012015\/9303012015012.json",
+        "nama": "TPS 012, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015013",
+        "url": "93\/9303\/930301\/9303012015\/9303012015013.json",
+        "nama": "TPS 013, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012015",
+        "tps": "9303012015014",
+        "url": "93\/9303\/930301\/9303012015\/9303012015014.json",
+        "nama": "TPS 014, EMETE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012010",
+        "tps": "9303012010001",
+        "url": "93\/9303\/930301\/9303012010\/9303012010001.json",
+        "nama": "TPS 001, ENEM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012010",
+        "tps": "9303012010002",
+        "url": "93\/9303\/930301\/9303012010\/9303012010002.json",
+        "nama": "TPS 002, ENEM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012008",
+        "tps": "9303012008001",
+        "url": "93\/9303\/930301\/9303012008\/9303012008001.json",
+        "nama": "TPS 001, GAUDA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012008",
+        "tps": "9303012008002",
+        "url": "93\/9303\/930301\/9303012008\/9303012008002.json",
+        "nama": "TPS 002, GAUDA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012018",
+        "tps": "9303012018001",
+        "url": "93\/9303\/930301\/9303012018\/9303012018001.json",
+        "nama": "TPS 001, HAROME, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012018",
+        "tps": "9303012018002",
+        "url": "93\/9303\/930301\/9303012018\/9303012018002.json",
+        "nama": "TPS 002, HAROME, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012012",
+        "tps": "9303012012001",
+        "url": "93\/9303\/930301\/9303012012\/9303012012001.json",
+        "nama": "TPS 001, KADAM\/OYIM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012012",
+        "tps": "9303012012002",
+        "url": "93\/9303\/930301\/9303012012\/9303012012002.json",
+        "nama": "TPS 002, KADAM\/OYIM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012012",
+        "tps": "9303012012003",
+        "url": "93\/9303\/930301\/9303012012\/9303012012003.json",
+        "nama": "TPS 003, KADAM\/OYIM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012012",
+        "tps": "9303012012004",
+        "url": "93\/9303\/930301\/9303012012\/9303012012004.json",
+        "nama": "TPS 004, KADAM\/OYIM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013001",
+        "url": "93\/9303\/930301\/9303011013\/9303011013001.json",
+        "nama": "TPS 001, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013002",
+        "url": "93\/9303\/930301\/9303011013\/9303011013002.json",
+        "nama": "TPS 002, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013003",
+        "url": "93\/9303\/930301\/9303011013\/9303011013003.json",
+        "nama": "TPS 003, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013004",
+        "url": "93\/9303\/930301\/9303011013\/9303011013004.json",
+        "nama": "TPS 004, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013005",
+        "url": "93\/9303\/930301\/9303011013\/9303011013005.json",
+        "nama": "TPS 005, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013006",
+        "url": "93\/9303\/930301\/9303011013\/9303011013006.json",
+        "nama": "TPS 006, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013007",
+        "url": "93\/9303\/930301\/9303011013\/9303011013007.json",
+        "nama": "TPS 007, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013008",
+        "url": "93\/9303\/930301\/9303011013\/9303011013008.json",
+        "nama": "TPS 008, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013009",
+        "url": "93\/9303\/930301\/9303011013\/9303011013009.json",
+        "nama": "TPS 009, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013010",
+        "url": "93\/9303\/930301\/9303011013\/9303011013010.json",
+        "nama": "TPS 010, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013011",
+        "url": "93\/9303\/930301\/9303011013\/9303011013011.json",
+        "nama": "TPS 011, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013012",
+        "url": "93\/9303\/930301\/9303011013\/9303011013012.json",
+        "nama": "TPS 012, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013013",
+        "url": "93\/9303\/930301\/9303011013\/9303011013013.json",
+        "nama": "TPS 013, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013014",
+        "url": "93\/9303\/930301\/9303011013\/9303011013014.json",
+        "nama": "TPS 014, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013015",
+        "url": "93\/9303\/930301\/9303011013\/9303011013015.json",
+        "nama": "TPS 015, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013016",
+        "url": "93\/9303\/930301\/9303011013\/9303011013016.json",
+        "nama": "TPS 016, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013017",
+        "url": "93\/9303\/930301\/9303011013\/9303011013017.json",
+        "nama": "TPS 017, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013018",
+        "url": "93\/9303\/930301\/9303011013\/9303011013018.json",
+        "nama": "TPS 018, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013019",
+        "url": "93\/9303\/930301\/9303011013\/9303011013019.json",
+        "nama": "TPS 019, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013020",
+        "url": "93\/9303\/930301\/9303011013\/9303011013020.json",
+        "nama": "TPS 020, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013021",
+        "url": "93\/9303\/930301\/9303011013\/9303011013021.json",
+        "nama": "TPS 021, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013022",
+        "url": "93\/9303\/930301\/9303011013\/9303011013022.json",
+        "nama": "TPS 022, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303011013",
+        "tps": "9303011013023",
+        "url": "93\/9303\/930301\/9303011013\/9303011013023.json",
+        "nama": "TPS 023, KEPI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012011",
+        "tps": "9303012011001",
+        "url": "93\/9303\/930301\/9303012011\/9303012011001.json",
+        "nama": "TPS 001, KOGO, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012011",
+        "tps": "9303012011002",
+        "url": "93\/9303\/930301\/9303012011\/9303012011002.json",
+        "nama": "TPS 002, KOGO, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012011",
+        "tps": "9303012011003",
+        "url": "93\/9303\/930301\/9303012011\/9303012011003.json",
+        "nama": "TPS 003, KOGO, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012021",
+        "tps": "9303012021001",
+        "url": "93\/9303\/930301\/9303012021\/9303012021001.json",
+        "nama": "TPS 001, MADU, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012004",
+        "tps": "9303012004001",
+        "url": "93\/9303\/930301\/9303012004\/9303012004001.json",
+        "nama": "TPS 001, MAPPI BAWAH\/YAMUI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012004",
+        "tps": "9303012004002",
+        "url": "93\/9303\/930301\/9303012004\/9303012004002.json",
+        "nama": "TPS 002, MAPPI BAWAH\/YAMUI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012004",
+        "tps": "9303012004003",
+        "url": "93\/9303\/930301\/9303012004\/9303012004003.json",
+        "nama": "TPS 003, MAPPI BAWAH\/YAMUI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012004",
+        "tps": "9303012004004",
+        "url": "93\/9303\/930301\/9303012004\/9303012004004.json",
+        "nama": "TPS 004, MAPPI BAWAH\/YAMUI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012024",
+        "tps": "9303012024001",
+        "url": "93\/9303\/930301\/9303012024\/9303012024001.json",
+        "nama": "TPS 001, MARBIN, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012020",
+        "tps": "9303012020001",
+        "url": "93\/9303\/930301\/9303012020\/9303012020001.json",
+        "nama": "TPS 001, MASIN, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012019",
+        "tps": "9303012019001",
+        "url": "93\/9303\/930301\/9303012019\/9303012019001.json",
+        "nama": "TPS 001, METIM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012019",
+        "tps": "9303012019002",
+        "url": "93\/9303\/930301\/9303012019\/9303012019002.json",
+        "nama": "TPS 002, METIM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012007",
+        "tps": "9303012007001",
+        "url": "93\/9303\/930301\/9303012007\/9303012007001.json",
+        "nama": "TPS 001, MUIN, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012007",
+        "tps": "9303012007002",
+        "url": "93\/9303\/930301\/9303012007\/9303012007002.json",
+        "nama": "TPS 002, MUIN, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012007",
+        "tps": "9303012007003",
+        "url": "93\/9303\/930301\/9303012007\/9303012007003.json",
+        "nama": "TPS 003, MUIN, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012001",
+        "tps": "9303012001001",
+        "url": "93\/9303\/930301\/9303012001\/9303012001001.json",
+        "nama": "TPS 001, OBAA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012001",
+        "tps": "9303012001002",
+        "url": "93\/9303\/930301\/9303012001\/9303012001002.json",
+        "nama": "TPS 002, OBAA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012001",
+        "tps": "9303012001003",
+        "url": "93\/9303\/930301\/9303012001\/9303012001003.json",
+        "nama": "TPS 003, OBAA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012001",
+        "tps": "9303012001004",
+        "url": "93\/9303\/930301\/9303012001\/9303012001004.json",
+        "nama": "TPS 004, OBAA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012001",
+        "tps": "9303012001005",
+        "url": "93\/9303\/930301\/9303012001\/9303012001005.json",
+        "nama": "TPS 005, OBAA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012001",
+        "tps": "9303012001006",
+        "url": "93\/9303\/930301\/9303012001\/9303012001006.json",
+        "nama": "TPS 006, OBAA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012001",
+        "tps": "9303012001007",
+        "url": "93\/9303\/930301\/9303012001\/9303012001007.json",
+        "nama": "TPS 007, OBAA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012001",
+        "tps": "9303012001008",
+        "url": "93\/9303\/930301\/9303012001\/9303012001008.json",
+        "nama": "TPS 008, OBAA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012001",
+        "tps": "9303012001009",
+        "url": "93\/9303\/930301\/9303012001\/9303012001009.json",
+        "nama": "TPS 009, OBAA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012023",
+        "tps": "9303012023001",
+        "url": "93\/9303\/930301\/9303012023\/9303012023001.json",
+        "nama": "TPS 001, PAEDAM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012023",
+        "tps": "9303012023002",
+        "url": "93\/9303\/930301\/9303012023\/9303012023002.json",
+        "nama": "TPS 002, PAEDAM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012006",
+        "tps": "9303012006001",
+        "url": "93\/9303\/930301\/9303012006\/9303012006001.json",
+        "nama": "TPS 001, PIAI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012006",
+        "tps": "9303012006002",
+        "url": "93\/9303\/930301\/9303012006\/9303012006002.json",
+        "nama": "TPS 002, PIAI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012006",
+        "tps": "9303012006003",
+        "url": "93\/9303\/930301\/9303012006\/9303012006003.json",
+        "nama": "TPS 003, PIAI, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012017",
+        "tps": "9303012017001",
+        "url": "93\/9303\/930301\/9303012017\/9303012017001.json",
+        "nama": "TPS 001, RAYAM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012017",
+        "tps": "9303012017002",
+        "url": "93\/9303\/930301\/9303012017\/9303012017002.json",
+        "nama": "TPS 002, RAYAM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012003",
+        "tps": "9303012003001",
+        "url": "93\/9303\/930301\/9303012003\/9303012003001.json",
+        "nama": "TPS 001, REP, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012003",
+        "tps": "9303012003002",
+        "url": "93\/9303\/930301\/9303012003\/9303012003002.json",
+        "nama": "TPS 002, REP, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012003",
+        "tps": "9303012003003",
+        "url": "93\/9303\/930301\/9303012003\/9303012003003.json",
+        "nama": "TPS 003, REP, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012009",
+        "tps": "9303012009001",
+        "url": "93\/9303\/930301\/9303012009\/9303012009001.json",
+        "nama": "TPS 001, SOBA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012009",
+        "tps": "9303012009002",
+        "url": "93\/9303\/930301\/9303012009\/9303012009002.json",
+        "nama": "TPS 002, SOBA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012009",
+        "tps": "9303012009003",
+        "url": "93\/9303\/930301\/9303012009\/9303012009003.json",
+        "nama": "TPS 003, SOBA, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012014",
+        "tps": "9303012014001",
+        "url": "93\/9303\/930301\/9303012014\/9303012014001.json",
+        "nama": "TPS 001, TOKHOM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012014",
+        "tps": "9303012014002",
+        "url": "93\/9303\/930301\/9303012014\/9303012014002.json",
+        "nama": "TPS 002, TOKHOM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012014",
+        "tps": "9303012014003",
+        "url": "93\/9303\/930301\/9303012014\/9303012014003.json",
+        "nama": "TPS 003, TOKHOM, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012016",
+        "tps": "9303012016001",
+        "url": "93\/9303\/930301\/9303012016\/9303012016001.json",
+        "nama": "TPS 001, WAIRU, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012016",
+        "tps": "9303012016002",
+        "url": "93\/9303\/930301\/9303012016\/9303012016002.json",
+        "nama": "TPS 002, WAIRU, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012005",
+        "tps": "9303012005001",
+        "url": "93\/9303\/930301\/9303012005\/9303012005001.json",
+        "nama": "TPS 001, WANGGATE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012005",
+        "tps": "9303012005002",
+        "url": "93\/9303\/930301\/9303012005\/9303012005002.json",
+        "nama": "TPS 002, WANGGATE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012005",
+        "tps": "9303012005003",
+        "url": "93\/9303\/930301\/9303012005\/9303012005003.json",
+        "nama": "TPS 003, WANGGATE, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012022",
+        "tps": "9303012022001",
+        "url": "93\/9303\/930301\/9303012022\/9303012022001.json",
+        "nama": "TPS 001, YANGPOP, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930301",
+        "desa": "9303012022",
+        "tps": "9303012022002",
+        "url": "93\/9303\/930301\/9303012022\/9303012022002.json",
+        "nama": "TPS 002, YANGPOP, OBAA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082013",
+        "tps": "9303082013001",
+        "url": "93\/9303\/930308\/9303082013\/9303082013001.json",
+        "nama": "TPS 001, AFOGOMA, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082002",
+        "tps": "9303082002001",
+        "url": "93\/9303\/930308\/9303082002\/9303082002001.json",
+        "nama": "TPS 001, BAGARAM, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082002",
+        "tps": "9303082002002",
+        "url": "93\/9303\/930308\/9303082002\/9303082002002.json",
+        "nama": "TPS 002, BAGARAM, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082011",
+        "tps": "9303082011001",
+        "url": "93\/9303\/930308\/9303082011\/9303082011001.json",
+        "nama": "TPS 001, BAITATE, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082010",
+        "tps": "9303082010001",
+        "url": "93\/9303\/930308\/9303082010\/9303082010001.json",
+        "nama": "TPS 001, KAIME, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082010",
+        "tps": "9303082010002",
+        "url": "93\/9303\/930308\/9303082010\/9303082010002.json",
+        "nama": "TPS 002, KAIME, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082005",
+        "tps": "9303082005001",
+        "url": "93\/9303\/930308\/9303082005\/9303082005001.json",
+        "nama": "TPS 001, KOTIAK, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082005",
+        "tps": "9303082005002",
+        "url": "93\/9303\/930308\/9303082005\/9303082005002.json",
+        "nama": "TPS 002, KOTIAK, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082005",
+        "tps": "9303082005003",
+        "url": "93\/9303\/930308\/9303082005\/9303082005003.json",
+        "nama": "TPS 003, KOTIAK, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082008",
+        "tps": "9303082008001",
+        "url": "93\/9303\/930308\/9303082008\/9303082008001.json",
+        "nama": "TPS 001, KOTUP, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082008",
+        "tps": "9303082008002",
+        "url": "93\/9303\/930308\/9303082008\/9303082008002.json",
+        "nama": "TPS 002, KOTUP, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082008",
+        "tps": "9303082008003",
+        "url": "93\/9303\/930308\/9303082008\/9303082008003.json",
+        "nama": "TPS 003, KOTUP, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082006",
+        "tps": "9303082006001",
+        "url": "93\/9303\/930308\/9303082006\/9303082006001.json",
+        "nama": "TPS 001, MENYA, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082006",
+        "tps": "9303082006002",
+        "url": "93\/9303\/930308\/9303082006\/9303082006002.json",
+        "nama": "TPS 002, MENYA, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082006",
+        "tps": "9303082006003",
+        "url": "93\/9303\/930308\/9303082006\/9303082006003.json",
+        "nama": "TPS 003, MENYA, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082004",
+        "tps": "9303082004001",
+        "url": "93\/9303\/930308\/9303082004\/9303082004001.json",
+        "nama": "TPS 001, NOHON, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082004",
+        "tps": "9303082004002",
+        "url": "93\/9303\/930308\/9303082004\/9303082004002.json",
+        "nama": "TPS 002, NOHON, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082004",
+        "tps": "9303082004003",
+        "url": "93\/9303\/930308\/9303082004\/9303082004003.json",
+        "nama": "TPS 003, NOHON, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082003",
+        "tps": "9303082003001",
+        "url": "93\/9303\/930308\/9303082003\/9303082003001.json",
+        "nama": "TPS 001, PASSUE\/TAIM, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082003",
+        "tps": "9303082003002",
+        "url": "93\/9303\/930308\/9303082003\/9303082003002.json",
+        "nama": "TPS 002, PASSUE\/TAIM, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082003",
+        "tps": "9303082003003",
+        "url": "93\/9303\/930308\/9303082003\/9303082003003.json",
+        "nama": "TPS 003, PASSUE\/TAIM, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082009",
+        "tps": "9303082009001",
+        "url": "93\/9303\/930308\/9303082009\/9303082009001.json",
+        "nama": "TPS 001, RIMBA JAYA\/GAYU, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082009",
+        "tps": "9303082009002",
+        "url": "93\/9303\/930308\/9303082009\/9303082009002.json",
+        "nama": "TPS 002, RIMBA JAYA\/GAYU, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082001",
+        "tps": "9303082001001",
+        "url": "93\/9303\/930308\/9303082001\/9303082001001.json",
+        "nama": "TPS 001, SEPOH, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082001",
+        "tps": "9303082001002",
+        "url": "93\/9303\/930308\/9303082001\/9303082001002.json",
+        "nama": "TPS 002, SEPOH, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082007",
+        "tps": "9303082007001",
+        "url": "93\/9303\/930308\/9303082007\/9303082007001.json",
+        "nama": "TPS 001, TOKHOMPATU, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930308",
+        "desa": "9303082012",
+        "tps": "9303082012001",
+        "url": "93\/9303\/930308\/9303082012\/9303082012001.json",
+        "nama": "TPS 001, URUFU, PASSUE, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142007",
+        "tps": "9303142007001",
+        "url": "93\/9303\/930314\/9303142007\/9303142007001.json",
+        "nama": "TPS 001, BIFO, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142002",
+        "tps": "9303142002001",
+        "url": "93\/9303\/930314\/9303142002\/9303142002001.json",
+        "nama": "TPS 001, BUSIRI, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142002",
+        "tps": "9303142002002",
+        "url": "93\/9303\/930314\/9303142002\/9303142002002.json",
+        "nama": "TPS 002, BUSIRI, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142006",
+        "tps": "9303142006001",
+        "url": "93\/9303\/930314\/9303142006\/9303142006001.json",
+        "nama": "TPS 001, HAKU, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142005",
+        "tps": "9303142005001",
+        "url": "93\/9303\/930314\/9303142005\/9303142005001.json",
+        "nama": "TPS 001, HONYA, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142003",
+        "tps": "9303142003001",
+        "url": "93\/9303\/930314\/9303142003\/9303142003001.json",
+        "nama": "TPS 001, KETA, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142003",
+        "tps": "9303142003002",
+        "url": "93\/9303\/930314\/9303142003\/9303142003002.json",
+        "nama": "TPS 002, KETA, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142008",
+        "tps": "9303142008001",
+        "url": "93\/9303\/930314\/9303142008\/9303142008001.json",
+        "nama": "TPS 001, SAMURUKIE, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142004",
+        "tps": "9303142004001",
+        "url": "93\/9303\/930314\/9303142004\/9303142004001.json",
+        "nama": "TPS 001, VETA, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142004",
+        "tps": "9303142004002",
+        "url": "93\/9303\/930314\/9303142004\/9303142004002.json",
+        "nama": "TPS 002, VETA, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142004",
+        "tps": "9303142004003",
+        "url": "93\/9303\/930314\/9303142004\/9303142004003.json",
+        "nama": "TPS 003, VETA, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142001",
+        "tps": "9303142001001",
+        "url": "93\/9303\/930314\/9303142001\/9303142001001.json",
+        "nama": "TPS 001, WONGGI, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930314",
+        "desa": "9303142001",
+        "tps": "9303142001002",
+        "url": "93\/9303\/930314\/9303142001\/9303142001002.json",
+        "nama": "TPS 002, WONGGI, PASSUE BAWAH, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112003",
+        "tps": "9303112003001",
+        "url": "93\/9303\/930311\/9303112003\/9303112003001.json",
+        "nama": "TPS 001, ASSET, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112003",
+        "tps": "9303112003002",
+        "url": "93\/9303\/930311\/9303112003\/9303112003002.json",
+        "nama": "TPS 002, ASSET, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112005",
+        "tps": "9303112005001",
+        "url": "93\/9303\/930311\/9303112005\/9303112005001.json",
+        "nama": "TPS 001, BOSMA, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112005",
+        "tps": "9303112005002",
+        "url": "93\/9303\/930311\/9303112005\/9303112005002.json",
+        "nama": "TPS 002, BOSMA, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112001",
+        "tps": "9303112001001",
+        "url": "93\/9303\/930311\/9303112001\/9303112001001.json",
+        "nama": "TPS 001, HOMLIKIA, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112001",
+        "tps": "9303112001002",
+        "url": "93\/9303\/930311\/9303112001\/9303112001002.json",
+        "nama": "TPS 002, HOMLIKIA, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112002",
+        "tps": "9303112002001",
+        "url": "93\/9303\/930311\/9303112002\/9303112002001.json",
+        "nama": "TPS 001, KOBETA, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112002",
+        "tps": "9303112002002",
+        "url": "93\/9303\/930311\/9303112002\/9303112002002.json",
+        "nama": "TPS 002, KOBETA, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112006",
+        "tps": "9303112006001",
+        "url": "93\/9303\/930311\/9303112006\/9303112006001.json",
+        "nama": "TPS 001, OGHOTO, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112006",
+        "tps": "9303112006002",
+        "url": "93\/9303\/930311\/9303112006\/9303112006002.json",
+        "nama": "TPS 002, OGHOTO, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112004",
+        "tps": "9303112004001",
+        "url": "93\/9303\/930311\/9303112004\/9303112004001.json",
+        "nama": "TPS 001, OSSO, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930311",
+        "desa": "9303112004",
+        "tps": "9303112004002",
+        "url": "93\/9303\/930311\/9303112004\/9303112004002.json",
+        "nama": "TPS 002, OSSO, SYAHCAME, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152004",
+        "tps": "9303152004001",
+        "url": "93\/9303\/930315\/9303152004\/9303152004001.json",
+        "nama": "TPS 001, BASMAN, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152002",
+        "tps": "9303152002001",
+        "url": "93\/9303\/930315\/9303152002\/9303152002001.json",
+        "nama": "TPS 001, KUMABAN, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152002",
+        "tps": "9303152002002",
+        "url": "93\/9303\/930315\/9303152002\/9303152002002.json",
+        "nama": "TPS 002, KUMABAN, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152005",
+        "tps": "9303152005001",
+        "url": "93\/9303\/930315\/9303152005\/9303152005001.json",
+        "nama": "TPS 001, MEROKIMA, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152006",
+        "tps": "9303152006001",
+        "url": "93\/9303\/930315\/9303152006\/9303152006001.json",
+        "nama": "TPS 001, MU, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152007",
+        "tps": "9303152007001",
+        "url": "93\/9303\/930315\/9303152007\/9303152007001.json",
+        "nama": "TPS 001, PIER, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152001",
+        "tps": "9303152001001",
+        "url": "93\/9303\/930315\/9303152001\/9303152001001.json",
+        "nama": "TPS 001, SAGIS, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152008",
+        "tps": "9303152008001",
+        "url": "93\/9303\/930315\/9303152008\/9303152008001.json",
+        "nama": "TPS 001, TARWA, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152003",
+        "tps": "9303152003001",
+        "url": "93\/9303\/930315\/9303152003\/9303152003001.json",
+        "nama": "TPS 001, TUGUMAU, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930315",
+        "desa": "9303152003",
+        "tps": "9303152003002",
+        "url": "93\/9303\/930315\/9303152003\/9303152003002.json",
+        "nama": "TPS 002, TUGUMAU, TI ZAIN, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102008",
+        "tps": "9303102008001",
+        "url": "93\/9303\/930310\/9303102008\/9303102008001.json",
+        "nama": "TPS 001, GETIYO, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102003",
+        "tps": "9303102003001",
+        "url": "93\/9303\/930310\/9303102003\/9303102003001.json",
+        "nama": "TPS 001, HARAPAN, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102007",
+        "tps": "9303102007001",
+        "url": "93\/9303\/930310\/9303102007\/9303102007001.json",
+        "nama": "TPS 001, MEMES, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102005",
+        "tps": "9303102005001",
+        "url": "93\/9303\/930310\/9303102005\/9303102005001.json",
+        "nama": "TPS 001, MOPIO, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102006",
+        "tps": "9303102006001",
+        "url": "93\/9303\/930310\/9303102006\/9303102006001.json",
+        "nama": "TPS 001, PIES, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102006",
+        "tps": "9303102006002",
+        "url": "93\/9303\/930310\/9303102006\/9303102006002.json",
+        "nama": "TPS 002, PIES, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102002",
+        "tps": "9303102002001",
+        "url": "93\/9303\/930310\/9303102002\/9303102002001.json",
+        "nama": "TPS 001, SAHAPIKYA, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102002",
+        "tps": "9303102002002",
+        "url": "93\/9303\/930310\/9303102002\/9303102002002.json",
+        "nama": "TPS 002, SAHAPIKYA, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102001",
+        "tps": "9303102001001",
+        "url": "93\/9303\/930310\/9303102001\/9303102001001.json",
+        "nama": "TPS 001, SIEN, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102004",
+        "tps": "9303102004001",
+        "url": "93\/9303\/930310\/9303102004\/9303102004001.json",
+        "nama": "TPS 001, YIBIN, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930310",
+        "desa": "9303102004",
+        "tps": "9303102004002",
+        "url": "93\/9303\/930310\/9303102004\/9303102004002.json",
+        "nama": "TPS 002, YIBIN, VENAHA, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122001",
+        "tps": "9303122001001",
+        "url": "93\/9303\/930312\/9303122001\/9303122001001.json",
+        "nama": "TPS 001, AMK, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122001",
+        "tps": "9303122001002",
+        "url": "93\/9303\/930312\/9303122001\/9303122001002.json",
+        "nama": "TPS 002, AMK, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122003",
+        "tps": "9303122003001",
+        "url": "93\/9303\/930312\/9303122003\/9303122003001.json",
+        "nama": "TPS 001, BENGGO, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122005",
+        "tps": "9303122005001",
+        "url": "93\/9303\/930312\/9303122005\/9303122005001.json",
+        "nama": "TPS 001, BOROHABA, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122005",
+        "tps": "9303122005002",
+        "url": "93\/9303\/930312\/9303122005\/9303122005002.json",
+        "nama": "TPS 002, BOROHABA, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122007",
+        "tps": "9303122007001",
+        "url": "93\/9303\/930312\/9303122007\/9303122007001.json",
+        "nama": "TPS 001, HEBESKE, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122004",
+        "tps": "9303122004001",
+        "url": "93\/9303\/930312\/9303122004\/9303122004001.json",
+        "nama": "TPS 001, KOKOYA, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122006",
+        "tps": "9303122006001",
+        "url": "93\/9303\/930312\/9303122006\/9303122006001.json",
+        "nama": "TPS 001, OGORITO, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122006",
+        "tps": "9303122006002",
+        "url": "93\/9303\/930312\/9303122006\/9303122006002.json",
+        "nama": "TPS 002, OGORITO, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122002",
+        "tps": "9303122002001",
+        "url": "93\/9303\/930312\/9303122002\/9303122002001.json",
+        "nama": "TPS 001, YAME, YAKOMI, MAPPI, PAPUA SELATAN"
+    },
+    {
+        "provinsi": "93",
+        "kabupaten": "9303",
+        "kecamatan": "930312",
+        "desa": "9303122002",
+        "tps": "9303122002002",
+        "url": "93\/9303\/930312\/9303122002\/9303122002002.json",
+        "nama": "TPS 002, YAME, YAKOMI, MAPPI, PAPUA SELATAN"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "62",
+        "kabupaten": "6202",
+        "kecamatan": "620210",
+        "desa": "6202102025",
+        "tps": "6202102025004",
+        "nama": "TPS 004, GUNUNG MAKMUR, ANTANG KALANG, KOTAWARINGIN TIMUR, KALIMANTAN TENGAH",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/62\/6202\/620210\/6202102025\/6202102025004"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6202",
+        "kecamatan": "620205",
+        "desa": "6202051002",
+        "tps": "6202051002030",
+        "nama": "TPS 030, BAAMANG TENGAH, BAAMANG, KOTAWARINGIN TIMUR, KALIMANTAN TENGAH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/62\/6202\/620205\/6202051002\/6202051002030"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6202",
+        "kecamatan": "620206",
+        "desa": "6202061003",
+        "tps": "6202061003022",
+        "nama": "TPS 022, KETAPANG, MENTAWA BARU KETAPANG, KOTAWARINGIN TIMUR, KALIMANTAN TENGAH",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/62\/6202\/620206\/6202061003\/6202061003022"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6202",
+        "kecamatan": "620206",
+        "desa": "6202061002",
+        "tps": "6202061002006",
+        "nama": "TPS 006, MENTAWA BARU HILIR, MENTAWA BARU KETAPANG, KOTAWARINGIN TIMUR, KALIMANTAN TENGAH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/62\/6202\/620206\/6202061002\/6202061002006"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6202",
+        "kecamatan": "620206",
+        "desa": "6202061002",
+        "tps": "6202061002034",
+        "nama": "TPS 034, MENTAWA BARU HILIR, MENTAWA BARU KETAPANG, KOTAWARINGIN TIMUR, KALIMANTAN TENGAH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/62\/6202\/620206\/6202061002\/6202061002034"
+    },
+    {
+        "provinsi": "62",
+        "kabupaten": "6202",
+        "kecamatan": "620217",
+        "desa": "6202172006",
+        "tps": "6202172006003",
+        "nama": "TPS 003, TUMBANG SANGAI, TELAGA ANTANG, KOTAWARINGIN TIMUR, KALIMANTAN TENGAH",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/62\/6202\/620217\/6202172006\/6202172006003"
+    }
+]

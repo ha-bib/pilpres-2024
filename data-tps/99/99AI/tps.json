@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AI",
+        "kecamatan": "99AI01",
+        "desa": "99AI010001",
+        "tps": "99AI010001003",
+        "url": "99\/99AI\/99AI01\/99AI010001\/99AI010001003.json",
+        "nama": "KSK 001, Songkhla, Thailand, Songkhla, Thailand, Songkhla, Thailand, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AI",
+        "kecamatan": "99AI01",
+        "desa": "99AI010001",
+        "tps": "99AI010001001",
+        "url": "99\/99AI\/99AI01\/99AI010001\/99AI010001001.json",
+        "nama": "POS 001, Songkhla, Thailand, Songkhla, Thailand, Songkhla, Thailand, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AI",
+        "kecamatan": "99AI01",
+        "desa": "99AI010001",
+        "tps": "99AI010001002",
+        "url": "99\/99AI\/99AI01\/99AI010001\/99AI010001002.json",
+        "nama": "TPS 001, Songkhla, Thailand, Songkhla, Thailand, Songkhla, Thailand, Luar Negeri"
+    }
+]

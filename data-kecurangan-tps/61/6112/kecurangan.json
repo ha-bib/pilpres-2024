@@ -1,0 +1,82 @@
+[
+    {
+        "provinsi": "61",
+        "kabupaten": "6112",
+        "kecamatan": "611202",
+        "desa": "6112022005",
+        "tps": "6112022005007",
+        "nama": "TPS 007, SUNGAI ENAU, KUALA MANDOR B, KUBU RAYA, KALIMANTAN BARAT",
+        "selisih": 6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6112\/611202\/6112022005\/6112022005007"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6112",
+        "kecamatan": "611207",
+        "desa": "6112072003",
+        "tps": "6112072003003",
+        "nama": "TPS 003, RASAU JAYA DUA, RASAU JAYA, KUBU RAYA, KALIMANTAN BARAT",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6112\/611207\/6112072003\/6112072003003"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6112",
+        "kecamatan": "611203",
+        "desa": "6112032011",
+        "tps": "6112032011003",
+        "nama": "TPS 003, PASAK, SUNGAI AMBAWANG, KUBU RAYA, KALIMANTAN BARAT",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6112\/611203\/6112032011\/6112032011003"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6112",
+        "kecamatan": "611203",
+        "desa": "6112032011",
+        "tps": "6112032011017",
+        "nama": "TPS 017, PASAK, SUNGAI AMBAWANG, KUBU RAYA, KALIMANTAN BARAT",
+        "selisih": -11,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6112\/611203\/6112032011\/6112032011017"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6112",
+        "kecamatan": "611201",
+        "desa": "6112012013",
+        "tps": "6112012013008",
+        "nama": "TPS 008, MADU SARI, SUNGAI RAYA, KUBU RAYA, KALIMANTAN BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6112\/611201\/6112012013\/6112012013008"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6112",
+        "kecamatan": "611201",
+        "desa": "6112012014",
+        "tps": "6112012014007",
+        "nama": "TPS 007, MEKAR SARI, SUNGAI RAYA, KUBU RAYA, KALIMANTAN BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6112\/611201\/6112012014\/6112012014007"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6112",
+        "kecamatan": "611201",
+        "desa": "6112012014",
+        "tps": "6112012014026",
+        "nama": "TPS 026, MEKAR SARI, SUNGAI RAYA, KUBU RAYA, KALIMANTAN BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6112\/611201\/6112012014\/6112012014026"
+    },
+    {
+        "provinsi": "61",
+        "kabupaten": "6112",
+        "kecamatan": "611201",
+        "desa": "6112012001",
+        "tps": "6112012001042",
+        "nama": "TPS 042, SUNGAI RAYA, SUNGAI RAYA, KUBU RAYA, KALIMANTAN BARAT",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/61\/6112\/611201\/6112012001\/6112012001042"
+    }
+]

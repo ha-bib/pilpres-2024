@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "14",
+        "kabupaten": "1401",
+        "kecamatan": "140101",
+        "desa": "1401011013",
+        "tps": "1401011013015",
+        "nama": "TPS 015, LANGGINI, BANGKINANG KOTA, KAMPAR, RIAU",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1401\/140101\/1401011013\/1401011013015"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1401",
+        "kecamatan": "140118",
+        "desa": "1401182005",
+        "tps": "1401182005006",
+        "nama": "TPS 006, SUNGAI TONANG, KAMPAR UTARA, KAMPAR, RIAU",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1401\/140118\/1401182005\/1401182005006"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1401",
+        "kecamatan": "140110",
+        "desa": "1401102024",
+        "tps": "1401102024010",
+        "nama": "TPS 010, BENCAH KELUBI, TAPUNG, KAMPAR, RIAU",
+        "selisih": 47,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1401\/140110\/1401102024\/1401102024010"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1401",
+        "kecamatan": "140110",
+        "desa": "1401102022",
+        "tps": "1401102022002",
+        "nama": "TPS 002, KIJANG REJO, TAPUNG, KAMPAR, RIAU",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1401\/140110\/1401102022\/1401102022002"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1401",
+        "kecamatan": "140110",
+        "desa": "1401102001",
+        "tps": "1401102001044",
+        "nama": "TPS 044, PETAPAHAN, TAPUNG, KAMPAR, RIAU",
+        "selisih": -23,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1401\/140110\/1401102001\/1401102001044"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1401",
+        "kecamatan": "140110",
+        "desa": "1401102013",
+        "tps": "1401102013009",
+        "nama": "TPS 009, TANJUNG SAWIT, TAPUNG, KAMPAR, RIAU",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1401\/140110\/1401102013\/1401102013009"
+    },
+    {
+        "provinsi": "14",
+        "kabupaten": "1401",
+        "kecamatan": "140112",
+        "desa": "1401122010",
+        "tps": "1401122010007",
+        "nama": "TPS 007, RIMBA BERINGIN, TAPUNG HULU, KAMPAR, RIAU",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/14\/1401\/140112\/1401122010\/1401122010007"
+    }
+]

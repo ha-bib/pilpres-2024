@@ -1,0 +1,20 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99BE",
+        "kecamatan": "99BE01",
+        "desa": "99BE010001",
+        "tps": "99BE010001001",
+        "url": "99\/99BE\/99BE01\/99BE010001\/99BE010001001.json",
+        "nama": "POS 001, Zagreb, Kroasia, Zagreb, Kroasia, Zagreb, Kroasia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BE",
+        "kecamatan": "99BE01",
+        "desa": "99BE010001",
+        "tps": "99BE010001002",
+        "url": "99\/99BE\/99BE01\/99BE010001\/99BE010001002.json",
+        "nama": "TPS 001, Zagreb, Kroasia, Zagreb, Kroasia, Zagreb, Kroasia, Luar Negeri"
+    }
+]

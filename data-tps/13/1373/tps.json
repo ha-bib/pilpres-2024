@@ -1,0 +1,1874 @@
+[
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022010",
+        "tps": "1373022010001",
+        "url": "13\/1373\/137302\/1373022010\/1373022010001.json",
+        "nama": "TPS 001, BALAI BATU SANDARAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022010",
+        "tps": "1373022010002",
+        "url": "13\/1373\/137302\/1373022010\/1373022010002.json",
+        "nama": "TPS 002, BALAI BATU SANDARAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022010",
+        "tps": "1373022010003",
+        "url": "13\/1373\/137302\/1373022010\/1373022010003.json",
+        "nama": "TPS 003, BALAI BATU SANDARAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021003",
+        "tps": "1373021003001",
+        "url": "13\/1373\/137302\/1373021003\/1373021003001.json",
+        "nama": "TPS 001, DURIAN I, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021003",
+        "tps": "1373021003002",
+        "url": "13\/1373\/137302\/1373021003\/1373021003002.json",
+        "nama": "TPS 002, DURIAN I, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021003",
+        "tps": "1373021003003",
+        "url": "13\/1373\/137302\/1373021003\/1373021003003.json",
+        "nama": "TPS 003, DURIAN I, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021003",
+        "tps": "1373021003004",
+        "url": "13\/1373\/137302\/1373021003\/1373021003004.json",
+        "nama": "TPS 004, DURIAN I, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021003",
+        "tps": "1373021003005",
+        "url": "13\/1373\/137302\/1373021003\/1373021003005.json",
+        "nama": "TPS 005, DURIAN I, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021003",
+        "tps": "1373021003006",
+        "url": "13\/1373\/137302\/1373021003\/1373021003006.json",
+        "nama": "TPS 006, DURIAN I, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021003",
+        "tps": "1373021003007",
+        "url": "13\/1373\/137302\/1373021003\/1373021003007.json",
+        "nama": "TPS 007, DURIAN I, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021004",
+        "tps": "1373021004001",
+        "url": "13\/1373\/137302\/1373021004\/1373021004001.json",
+        "nama": "TPS 001, DURIAN II, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021004",
+        "tps": "1373021004002",
+        "url": "13\/1373\/137302\/1373021004\/1373021004002.json",
+        "nama": "TPS 002, DURIAN II, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021004",
+        "tps": "1373021004003",
+        "url": "13\/1373\/137302\/1373021004\/1373021004003.json",
+        "nama": "TPS 003, DURIAN II, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021004",
+        "tps": "1373021004004",
+        "url": "13\/1373\/137302\/1373021004\/1373021004004.json",
+        "nama": "TPS 004, DURIAN II, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021004",
+        "tps": "1373021004005",
+        "url": "13\/1373\/137302\/1373021004\/1373021004005.json",
+        "nama": "TPS 005, DURIAN II, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021004",
+        "tps": "1373021004006",
+        "url": "13\/1373\/137302\/1373021004\/1373021004006.json",
+        "nama": "TPS 006, DURIAN II, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021004",
+        "tps": "1373021004007",
+        "url": "13\/1373\/137302\/1373021004\/1373021004007.json",
+        "nama": "TPS 007, DURIAN II, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022006",
+        "tps": "1373022006001",
+        "url": "13\/1373\/137302\/1373022006\/1373022006001.json",
+        "nama": "TPS 001, KOLOK MUDIAK, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022006",
+        "tps": "1373022006002",
+        "url": "13\/1373\/137302\/1373022006\/1373022006002.json",
+        "nama": "TPS 002, KOLOK MUDIAK, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022006",
+        "tps": "1373022006003",
+        "url": "13\/1373\/137302\/1373022006\/1373022006003.json",
+        "nama": "TPS 003, KOLOK MUDIAK, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022006",
+        "tps": "1373022006004",
+        "url": "13\/1373\/137302\/1373022006\/1373022006004.json",
+        "nama": "TPS 004, KOLOK MUDIAK, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022006",
+        "tps": "1373022006005",
+        "url": "13\/1373\/137302\/1373022006\/1373022006005.json",
+        "nama": "TPS 005, KOLOK MUDIAK, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022006",
+        "tps": "1373022006901",
+        "url": "13\/1373\/137302\/1373022006\/1373022006901.json",
+        "nama": "TPS 901, KOLOK MUDIAK, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022006",
+        "tps": "1373022006902",
+        "url": "13\/1373\/137302\/1373022006\/1373022006902.json",
+        "nama": "TPS 902, KOLOK MUDIAK, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022007",
+        "tps": "1373022007001",
+        "url": "13\/1373\/137302\/1373022007\/1373022007001.json",
+        "nama": "TPS 001, KOLOK NAN TUO, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022007",
+        "tps": "1373022007002",
+        "url": "13\/1373\/137302\/1373022007\/1373022007002.json",
+        "nama": "TPS 002, KOLOK NAN TUO, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022007",
+        "tps": "1373022007003",
+        "url": "13\/1373\/137302\/1373022007\/1373022007003.json",
+        "nama": "TPS 003, KOLOK NAN TUO, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022007",
+        "tps": "1373022007004",
+        "url": "13\/1373\/137302\/1373022007\/1373022007004.json",
+        "nama": "TPS 004, KOLOK NAN TUO, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021002",
+        "tps": "1373021002001",
+        "url": "13\/1373\/137302\/1373021002\/1373021002001.json",
+        "nama": "TPS 001, LUBANG PANJANG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021002",
+        "tps": "1373021002002",
+        "url": "13\/1373\/137302\/1373021002\/1373021002002.json",
+        "nama": "TPS 002, LUBANG PANJANG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021002",
+        "tps": "1373021002003",
+        "url": "13\/1373\/137302\/1373021002\/1373021002003.json",
+        "nama": "TPS 003, LUBANG PANJANG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021002",
+        "tps": "1373021002004",
+        "url": "13\/1373\/137302\/1373021002\/1373021002004.json",
+        "nama": "TPS 004, LUBANG PANJANG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009001",
+        "url": "13\/1373\/137302\/1373022009\/1373022009001.json",
+        "nama": "TPS 001, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009002",
+        "url": "13\/1373\/137302\/1373022009\/1373022009002.json",
+        "nama": "TPS 002, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009003",
+        "url": "13\/1373\/137302\/1373022009\/1373022009003.json",
+        "nama": "TPS 003, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009004",
+        "url": "13\/1373\/137302\/1373022009\/1373022009004.json",
+        "nama": "TPS 004, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009005",
+        "url": "13\/1373\/137302\/1373022009\/1373022009005.json",
+        "nama": "TPS 005, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009006",
+        "url": "13\/1373\/137302\/1373022009\/1373022009006.json",
+        "nama": "TPS 006, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009007",
+        "url": "13\/1373\/137302\/1373022009\/1373022009007.json",
+        "nama": "TPS 007, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009008",
+        "url": "13\/1373\/137302\/1373022009\/1373022009008.json",
+        "nama": "TPS 008, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009009",
+        "url": "13\/1373\/137302\/1373022009\/1373022009009.json",
+        "nama": "TPS 009, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022009",
+        "tps": "1373022009010",
+        "url": "13\/1373\/137302\/1373022009\/1373022009010.json",
+        "nama": "TPS 010, LUMINDAI, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005001",
+        "url": "13\/1373\/137302\/1373022005\/1373022005001.json",
+        "nama": "TPS 001, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005002",
+        "url": "13\/1373\/137302\/1373022005\/1373022005002.json",
+        "nama": "TPS 002, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005003",
+        "url": "13\/1373\/137302\/1373022005\/1373022005003.json",
+        "nama": "TPS 003, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005004",
+        "url": "13\/1373\/137302\/1373022005\/1373022005004.json",
+        "nama": "TPS 004, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005005",
+        "url": "13\/1373\/137302\/1373022005\/1373022005005.json",
+        "nama": "TPS 005, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005006",
+        "url": "13\/1373\/137302\/1373022005\/1373022005006.json",
+        "nama": "TPS 006, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005007",
+        "url": "13\/1373\/137302\/1373022005\/1373022005007.json",
+        "nama": "TPS 007, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005008",
+        "url": "13\/1373\/137302\/1373022005\/1373022005008.json",
+        "nama": "TPS 008, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005009",
+        "url": "13\/1373\/137302\/1373022005\/1373022005009.json",
+        "nama": "TPS 009, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005010",
+        "url": "13\/1373\/137302\/1373022005\/1373022005010.json",
+        "nama": "TPS 010, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022005",
+        "tps": "1373022005011",
+        "url": "13\/1373\/137302\/1373022005\/1373022005011.json",
+        "nama": "TPS 011, SANTUR, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021001",
+        "tps": "1373021001001",
+        "url": "13\/1373\/137302\/1373021001\/1373021001001.json",
+        "nama": "TPS 001, SARINGAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021001",
+        "tps": "1373021001002",
+        "url": "13\/1373\/137302\/1373021001\/1373021001002.json",
+        "nama": "TPS 002, SARINGAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021001",
+        "tps": "1373021001003",
+        "url": "13\/1373\/137302\/1373021001\/1373021001003.json",
+        "nama": "TPS 003, SARINGAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021001",
+        "tps": "1373021001004",
+        "url": "13\/1373\/137302\/1373021001\/1373021001004.json",
+        "nama": "TPS 004, SARINGAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021001",
+        "tps": "1373021001005",
+        "url": "13\/1373\/137302\/1373021001\/1373021001005.json",
+        "nama": "TPS 005, SARINGAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021001",
+        "tps": "1373021001006",
+        "url": "13\/1373\/137302\/1373021001\/1373021001006.json",
+        "nama": "TPS 006, SARINGAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373021001",
+        "tps": "1373021001901",
+        "url": "13\/1373\/137302\/1373021001\/1373021001901.json",
+        "nama": "TPS 901, SARINGAN, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022008",
+        "tps": "1373022008001",
+        "url": "13\/1373\/137302\/1373022008\/1373022008001.json",
+        "nama": "TPS 001, TALAGO GUNUNG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022008",
+        "tps": "1373022008002",
+        "url": "13\/1373\/137302\/1373022008\/1373022008002.json",
+        "nama": "TPS 002, TALAGO GUNUNG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022008",
+        "tps": "1373022008003",
+        "url": "13\/1373\/137302\/1373022008\/1373022008003.json",
+        "nama": "TPS 003, TALAGO GUNUNG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022008",
+        "tps": "1373022008004",
+        "url": "13\/1373\/137302\/1373022008\/1373022008004.json",
+        "nama": "TPS 004, TALAGO GUNUNG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022008",
+        "tps": "1373022008005",
+        "url": "13\/1373\/137302\/1373022008\/1373022008005.json",
+        "nama": "TPS 005, TALAGO GUNUNG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137302",
+        "desa": "1373022008",
+        "tps": "1373022008006",
+        "url": "13\/1373\/137302\/1373022008\/1373022008006.json",
+        "nama": "TPS 006, TALAGO GUNUNG, BARANGIN, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011006",
+        "tps": "1373011006001",
+        "url": "13\/1373\/137301\/1373011006\/1373011006001.json",
+        "nama": "TPS 001, AIA DINGIN, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011006",
+        "tps": "1373011006002",
+        "url": "13\/1373\/137301\/1373011006\/1373011006002.json",
+        "nama": "TPS 002, AIA DINGIN, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011006",
+        "tps": "1373011006003",
+        "url": "13\/1373\/137301\/1373011006\/1373011006003.json",
+        "nama": "TPS 003, AIA DINGIN, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011001",
+        "tps": "1373011001001",
+        "url": "13\/1373\/137301\/1373011001\/1373011001001.json",
+        "nama": "TPS 001, AUR MULIO, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011001",
+        "tps": "1373011001002",
+        "url": "13\/1373\/137301\/1373011001\/1373011001002.json",
+        "nama": "TPS 002, AUR MULIO, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011001",
+        "tps": "1373011001003",
+        "url": "13\/1373\/137301\/1373011001\/1373011001003.json",
+        "nama": "TPS 003, AUR MULIO, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011001",
+        "tps": "1373011001004",
+        "url": "13\/1373\/137301\/1373011001\/1373011001004.json",
+        "nama": "TPS 004, AUR MULIO, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011003",
+        "tps": "1373011003001",
+        "url": "13\/1373\/137301\/1373011003\/1373011003001.json",
+        "nama": "TPS 001, KUBANG S. SELATAN, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011003",
+        "tps": "1373011003002",
+        "url": "13\/1373\/137301\/1373011003\/1373011003002.json",
+        "nama": "TPS 002, KUBANG S. SELATAN, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011003",
+        "tps": "1373011003003",
+        "url": "13\/1373\/137301\/1373011003\/1373011003003.json",
+        "nama": "TPS 003, KUBANG S. SELATAN, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011002",
+        "tps": "1373011002001",
+        "url": "13\/1373\/137301\/1373011002\/1373011002001.json",
+        "nama": "TPS 001, KUBANG SIRAKUK UTARA, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011002",
+        "tps": "1373011002002",
+        "url": "13\/1373\/137301\/1373011002\/1373011002002.json",
+        "nama": "TPS 002, KUBANG SIRAKUK UTARA, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011002",
+        "tps": "1373011002003",
+        "url": "13\/1373\/137301\/1373011002\/1373011002003.json",
+        "nama": "TPS 003, KUBANG SIRAKUK UTARA, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012009",
+        "tps": "1373012009001",
+        "url": "13\/1373\/137301\/1373012009\/1373012009001.json",
+        "nama": "TPS 001, KUBANG TANGAH, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012009",
+        "tps": "1373012009002",
+        "url": "13\/1373\/137301\/1373012009\/1373012009002.json",
+        "nama": "TPS 002, KUBANG TANGAH, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012009",
+        "tps": "1373012009003",
+        "url": "13\/1373\/137301\/1373012009\/1373012009003.json",
+        "nama": "TPS 003, KUBANG TANGAH, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012009",
+        "tps": "1373012009004",
+        "url": "13\/1373\/137301\/1373012009\/1373012009004.json",
+        "nama": "TPS 004, KUBANG TANGAH, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012009",
+        "tps": "1373012009005",
+        "url": "13\/1373\/137301\/1373012009\/1373012009005.json",
+        "nama": "TPS 005, KUBANG TANGAH, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012009",
+        "tps": "1373012009006",
+        "url": "13\/1373\/137301\/1373012009\/1373012009006.json",
+        "nama": "TPS 006, KUBANG TANGAH, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012010",
+        "tps": "1373012010001",
+        "url": "13\/1373\/137301\/1373012010\/1373012010001.json",
+        "nama": "TPS 001, KUBANG UTARA SIKABU, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012010",
+        "tps": "1373012010002",
+        "url": "13\/1373\/137301\/1373012010\/1373012010002.json",
+        "nama": "TPS 002, KUBANG UTARA SIKABU, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012010",
+        "tps": "1373012010003",
+        "url": "13\/1373\/137301\/1373012010\/1373012010003.json",
+        "nama": "TPS 003, KUBANG UTARA SIKABU, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012010",
+        "tps": "1373012010004",
+        "url": "13\/1373\/137301\/1373012010\/1373012010004.json",
+        "nama": "TPS 004, KUBANG UTARA SIKABU, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012008",
+        "tps": "1373012008001",
+        "url": "13\/1373\/137301\/1373012008\/1373012008001.json",
+        "nama": "TPS 001, LUNTO BARAT, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012008",
+        "tps": "1373012008002",
+        "url": "13\/1373\/137301\/1373012008\/1373012008002.json",
+        "nama": "TPS 002, LUNTO BARAT, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012008",
+        "tps": "1373012008003",
+        "url": "13\/1373\/137301\/1373012008\/1373012008003.json",
+        "nama": "TPS 003, LUNTO BARAT, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012008",
+        "tps": "1373012008004",
+        "url": "13\/1373\/137301\/1373012008\/1373012008004.json",
+        "nama": "TPS 004, LUNTO BARAT, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012008",
+        "tps": "1373012008005",
+        "url": "13\/1373\/137301\/1373012008\/1373012008005.json",
+        "nama": "TPS 005, LUNTO BARAT, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012007",
+        "tps": "1373012007001",
+        "url": "13\/1373\/137301\/1373012007\/1373012007001.json",
+        "nama": "TPS 001, LUNTO TIMUR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012007",
+        "tps": "1373012007002",
+        "url": "13\/1373\/137301\/1373012007\/1373012007002.json",
+        "nama": "TPS 002, LUNTO TIMUR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012007",
+        "tps": "1373012007003",
+        "url": "13\/1373\/137301\/1373012007\/1373012007003.json",
+        "nama": "TPS 003, LUNTO TIMUR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012007",
+        "tps": "1373012007004",
+        "url": "13\/1373\/137301\/1373012007\/1373012007004.json",
+        "nama": "TPS 004, LUNTO TIMUR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012007",
+        "tps": "1373012007005",
+        "url": "13\/1373\/137301\/1373012007\/1373012007005.json",
+        "nama": "TPS 005, LUNTO TIMUR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012007",
+        "tps": "1373012007006",
+        "url": "13\/1373\/137301\/1373012007\/1373012007006.json",
+        "nama": "TPS 006, LUNTO TIMUR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012011",
+        "tps": "1373012011001",
+        "url": "13\/1373\/137301\/1373012011\/1373012011001.json",
+        "nama": "TPS 001, PASA KUBANG, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012011",
+        "tps": "1373012011002",
+        "url": "13\/1373\/137301\/1373012011\/1373012011002.json",
+        "nama": "TPS 002, PASA KUBANG, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373012011",
+        "tps": "1373012011003",
+        "url": "13\/1373\/137301\/1373012011\/1373012011003.json",
+        "nama": "TPS 003, PASA KUBANG, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011004",
+        "tps": "1373011004001",
+        "url": "13\/1373\/137301\/1373011004\/1373011004001.json",
+        "nama": "TPS 001, PASAR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011004",
+        "tps": "1373011004002",
+        "url": "13\/1373\/137301\/1373011004\/1373011004002.json",
+        "nama": "TPS 002, PASAR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011004",
+        "tps": "1373011004003",
+        "url": "13\/1373\/137301\/1373011004\/1373011004003.json",
+        "nama": "TPS 003, PASAR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011004",
+        "tps": "1373011004004",
+        "url": "13\/1373\/137301\/1373011004\/1373011004004.json",
+        "nama": "TPS 004, PASAR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011004",
+        "tps": "1373011004005",
+        "url": "13\/1373\/137301\/1373011004\/1373011004005.json",
+        "nama": "TPS 005, PASAR, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011005",
+        "tps": "1373011005001",
+        "url": "13\/1373\/137301\/1373011005\/1373011005001.json",
+        "nama": "TPS 001, TANAH LAPANG, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011005",
+        "tps": "1373011005002",
+        "url": "13\/1373\/137301\/1373011005\/1373011005002.json",
+        "nama": "TPS 002, TANAH LAPANG, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011005",
+        "tps": "1373011005003",
+        "url": "13\/1373\/137301\/1373011005\/1373011005003.json",
+        "nama": "TPS 003, TANAH LAPANG, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137301",
+        "desa": "1373011005",
+        "tps": "1373011005004",
+        "url": "13\/1373\/137301\/1373011005\/1373011005004.json",
+        "nama": "TPS 004, TANAH LAPANG, LEMBAH SEGAR, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004001",
+        "url": "13\/1373\/137303\/1373032004\/1373032004001.json",
+        "nama": "TPS 001, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004002",
+        "url": "13\/1373\/137303\/1373032004\/1373032004002.json",
+        "nama": "TPS 002, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004003",
+        "url": "13\/1373\/137303\/1373032004\/1373032004003.json",
+        "nama": "TPS 003, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004004",
+        "url": "13\/1373\/137303\/1373032004\/1373032004004.json",
+        "nama": "TPS 004, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004005",
+        "url": "13\/1373\/137303\/1373032004\/1373032004005.json",
+        "nama": "TPS 005, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004006",
+        "url": "13\/1373\/137303\/1373032004\/1373032004006.json",
+        "nama": "TPS 006, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004007",
+        "url": "13\/1373\/137303\/1373032004\/1373032004007.json",
+        "nama": "TPS 007, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004008",
+        "url": "13\/1373\/137303\/1373032004\/1373032004008.json",
+        "nama": "TPS 008, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004009",
+        "url": "13\/1373\/137303\/1373032004\/1373032004009.json",
+        "nama": "TPS 009, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004010",
+        "url": "13\/1373\/137303\/1373032004\/1373032004010.json",
+        "nama": "TPS 010, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004011",
+        "url": "13\/1373\/137303\/1373032004\/1373032004011.json",
+        "nama": "TPS 011, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004012",
+        "url": "13\/1373\/137303\/1373032004\/1373032004012.json",
+        "nama": "TPS 012, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004013",
+        "url": "13\/1373\/137303\/1373032004\/1373032004013.json",
+        "nama": "TPS 013, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004014",
+        "url": "13\/1373\/137303\/1373032004\/1373032004014.json",
+        "nama": "TPS 014, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004015",
+        "url": "13\/1373\/137303\/1373032004\/1373032004015.json",
+        "nama": "TPS 015, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032004",
+        "tps": "1373032004016",
+        "url": "13\/1373\/137303\/1373032004\/1373032004016.json",
+        "nama": "TPS 016, MUARO KALABAN, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032001",
+        "tps": "1373032001001",
+        "url": "13\/1373\/137303\/1373032001\/1373032001001.json",
+        "nama": "TPS 001, SILUNGKANG DUO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032001",
+        "tps": "1373032001002",
+        "url": "13\/1373\/137303\/1373032001\/1373032001002.json",
+        "nama": "TPS 002, SILUNGKANG DUO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032001",
+        "tps": "1373032001003",
+        "url": "13\/1373\/137303\/1373032001\/1373032001003.json",
+        "nama": "TPS 003, SILUNGKANG DUO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032001",
+        "tps": "1373032001004",
+        "url": "13\/1373\/137303\/1373032001\/1373032001004.json",
+        "nama": "TPS 004, SILUNGKANG DUO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032001",
+        "tps": "1373032001005",
+        "url": "13\/1373\/137303\/1373032001\/1373032001005.json",
+        "nama": "TPS 005, SILUNGKANG DUO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032002",
+        "tps": "1373032002001",
+        "url": "13\/1373\/137303\/1373032002\/1373032002001.json",
+        "nama": "TPS 001, SILUNGKANG OSO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032002",
+        "tps": "1373032002002",
+        "url": "13\/1373\/137303\/1373032002\/1373032002002.json",
+        "nama": "TPS 002, SILUNGKANG OSO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032002",
+        "tps": "1373032002003",
+        "url": "13\/1373\/137303\/1373032002\/1373032002003.json",
+        "nama": "TPS 003, SILUNGKANG OSO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032002",
+        "tps": "1373032002004",
+        "url": "13\/1373\/137303\/1373032002\/1373032002004.json",
+        "nama": "TPS 004, SILUNGKANG OSO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032002",
+        "tps": "1373032002005",
+        "url": "13\/1373\/137303\/1373032002\/1373032002005.json",
+        "nama": "TPS 005, SILUNGKANG OSO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032003",
+        "tps": "1373032003001",
+        "url": "13\/1373\/137303\/1373032003\/1373032003001.json",
+        "nama": "TPS 001, SILUNGKANG TIGO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032003",
+        "tps": "1373032003002",
+        "url": "13\/1373\/137303\/1373032003\/1373032003002.json",
+        "nama": "TPS 002, SILUNGKANG TIGO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032003",
+        "tps": "1373032003003",
+        "url": "13\/1373\/137303\/1373032003\/1373032003003.json",
+        "nama": "TPS 003, SILUNGKANG TIGO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032003",
+        "tps": "1373032003004",
+        "url": "13\/1373\/137303\/1373032003\/1373032003004.json",
+        "nama": "TPS 004, SILUNGKANG TIGO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032003",
+        "tps": "1373032003005",
+        "url": "13\/1373\/137303\/1373032003\/1373032003005.json",
+        "nama": "TPS 005, SILUNGKANG TIGO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032003",
+        "tps": "1373032003006",
+        "url": "13\/1373\/137303\/1373032003\/1373032003006.json",
+        "nama": "TPS 006, SILUNGKANG TIGO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032003",
+        "tps": "1373032003007",
+        "url": "13\/1373\/137303\/1373032003\/1373032003007.json",
+        "nama": "TPS 007, SILUNGKANG TIGO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032003",
+        "tps": "1373032003008",
+        "url": "13\/1373\/137303\/1373032003\/1373032003008.json",
+        "nama": "TPS 008, SILUNGKANG TIGO, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032005",
+        "tps": "1373032005001",
+        "url": "13\/1373\/137303\/1373032005\/1373032005001.json",
+        "nama": "TPS 001, TARATAK BONCAH, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137303",
+        "desa": "1373032005",
+        "tps": "1373032005002",
+        "url": "13\/1373\/137303\/1373032005\/1373032005002.json",
+        "nama": "TPS 002, TARATAK BONCAH, SILUNGKANG, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042004",
+        "tps": "1373042004001",
+        "url": "13\/1373\/137304\/1373042004\/1373042004001.json",
+        "nama": "TPS 001, BATU TANJUNG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042004",
+        "tps": "1373042004002",
+        "url": "13\/1373\/137304\/1373042004\/1373042004002.json",
+        "nama": "TPS 002, BATU TANJUNG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042004",
+        "tps": "1373042004003",
+        "url": "13\/1373\/137304\/1373042004\/1373042004003.json",
+        "nama": "TPS 003, BATU TANJUNG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042004",
+        "tps": "1373042004004",
+        "url": "13\/1373\/137304\/1373042004\/1373042004004.json",
+        "nama": "TPS 004, BATU TANJUNG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042004",
+        "tps": "1373042004005",
+        "url": "13\/1373\/137304\/1373042004\/1373042004005.json",
+        "nama": "TPS 005, BATU TANJUNG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042004",
+        "tps": "1373042004006",
+        "url": "13\/1373\/137304\/1373042004\/1373042004006.json",
+        "nama": "TPS 006, BATU TANJUNG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042003",
+        "tps": "1373042003001",
+        "url": "13\/1373\/137304\/1373042003\/1373042003001.json",
+        "nama": "TPS 001, BUKIT GADANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042003",
+        "tps": "1373042003002",
+        "url": "13\/1373\/137304\/1373042003\/1373042003002.json",
+        "nama": "TPS 002, BUKIT GADANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042003",
+        "tps": "1373042003003",
+        "url": "13\/1373\/137304\/1373042003\/1373042003003.json",
+        "nama": "TPS 003, BUKIT GADANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042003",
+        "tps": "1373042003004",
+        "url": "13\/1373\/137304\/1373042003\/1373042003004.json",
+        "nama": "TPS 004, BUKIT GADANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042003",
+        "tps": "1373042003005",
+        "url": "13\/1373\/137304\/1373042003\/1373042003005.json",
+        "nama": "TPS 005, BUKIT GADANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042007",
+        "tps": "1373042007001",
+        "url": "13\/1373\/137304\/1373042007\/1373042007001.json",
+        "nama": "TPS 001, DATAR MANSIANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042005",
+        "tps": "1373042005001",
+        "url": "13\/1373\/137304\/1373042005\/1373042005001.json",
+        "nama": "TPS 001, KUMBAYAU, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042005",
+        "tps": "1373042005002",
+        "url": "13\/1373\/137304\/1373042005\/1373042005002.json",
+        "nama": "TPS 002, KUMBAYAU, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042005",
+        "tps": "1373042005003",
+        "url": "13\/1373\/137304\/1373042005\/1373042005003.json",
+        "nama": "TPS 003, KUMBAYAU, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042005",
+        "tps": "1373042005004",
+        "url": "13\/1373\/137304\/1373042005\/1373042005004.json",
+        "nama": "TPS 004, KUMBAYAU, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042005",
+        "tps": "1373042005005",
+        "url": "13\/1373\/137304\/1373042005\/1373042005005.json",
+        "nama": "TPS 005, KUMBAYAU, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042011",
+        "tps": "1373042011001",
+        "url": "13\/1373\/137304\/1373042011\/1373042011001.json",
+        "nama": "TPS 001, RANTIH, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042011",
+        "tps": "1373042011002",
+        "url": "13\/1373\/137304\/1373042011\/1373042011002.json",
+        "nama": "TPS 002, RANTIH, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042009",
+        "tps": "1373042009001",
+        "url": "13\/1373\/137304\/1373042009\/1373042009001.json",
+        "nama": "TPS 001, SALAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042009",
+        "tps": "1373042009002",
+        "url": "13\/1373\/137304\/1373042009\/1373042009002.json",
+        "nama": "TPS 002, SALAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042009",
+        "tps": "1373042009003",
+        "url": "13\/1373\/137304\/1373042009\/1373042009003.json",
+        "nama": "TPS 003, SALAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042009",
+        "tps": "1373042009004",
+        "url": "13\/1373\/137304\/1373042009\/1373042009004.json",
+        "nama": "TPS 004, SALAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042008",
+        "tps": "1373042008001",
+        "url": "13\/1373\/137304\/1373042008\/1373042008001.json",
+        "nama": "TPS 001, SIJANTANG KOTO, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042008",
+        "tps": "1373042008002",
+        "url": "13\/1373\/137304\/1373042008\/1373042008002.json",
+        "nama": "TPS 002, SIJANTANG KOTO, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042008",
+        "tps": "1373042008003",
+        "url": "13\/1373\/137304\/1373042008\/1373042008003.json",
+        "nama": "TPS 003, SIJANTANG KOTO, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042008",
+        "tps": "1373042008004",
+        "url": "13\/1373\/137304\/1373042008\/1373042008004.json",
+        "nama": "TPS 004, SIJANTANG KOTO, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042010",
+        "tps": "1373042010001",
+        "url": "13\/1373\/137304\/1373042010\/1373042010001.json",
+        "nama": "TPS 001, SIKALANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042010",
+        "tps": "1373042010002",
+        "url": "13\/1373\/137304\/1373042010\/1373042010002.json",
+        "nama": "TPS 002, SIKALANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042010",
+        "tps": "1373042010003",
+        "url": "13\/1373\/137304\/1373042010\/1373042010003.json",
+        "nama": "TPS 003, SIKALANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042010",
+        "tps": "1373042010004",
+        "url": "13\/1373\/137304\/1373042010\/1373042010004.json",
+        "nama": "TPS 004, SIKALANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042010",
+        "tps": "1373042010005",
+        "url": "13\/1373\/137304\/1373042010\/1373042010005.json",
+        "nama": "TPS 005, SIKALANG, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001001",
+        "url": "13\/1373\/137304\/1373042001\/1373042001001.json",
+        "nama": "TPS 001, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001002",
+        "url": "13\/1373\/137304\/1373042001\/1373042001002.json",
+        "nama": "TPS 002, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001003",
+        "url": "13\/1373\/137304\/1373042001\/1373042001003.json",
+        "nama": "TPS 003, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001004",
+        "url": "13\/1373\/137304\/1373042001\/1373042001004.json",
+        "nama": "TPS 004, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001005",
+        "url": "13\/1373\/137304\/1373042001\/1373042001005.json",
+        "nama": "TPS 005, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001006",
+        "url": "13\/1373\/137304\/1373042001\/1373042001006.json",
+        "nama": "TPS 006, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001007",
+        "url": "13\/1373\/137304\/1373042001\/1373042001007.json",
+        "nama": "TPS 007, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001008",
+        "url": "13\/1373\/137304\/1373042001\/1373042001008.json",
+        "nama": "TPS 008, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001009",
+        "url": "13\/1373\/137304\/1373042001\/1373042001009.json",
+        "nama": "TPS 009, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001010",
+        "url": "13\/1373\/137304\/1373042001\/1373042001010.json",
+        "nama": "TPS 010, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001011",
+        "url": "13\/1373\/137304\/1373042001\/1373042001011.json",
+        "nama": "TPS 011, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042001",
+        "tps": "1373042001012",
+        "url": "13\/1373\/137304\/1373042001\/1373042001012.json",
+        "nama": "TPS 012, TALAWI HILIE, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042002",
+        "tps": "1373042002001",
+        "url": "13\/1373\/137304\/1373042002\/1373042002001.json",
+        "nama": "TPS 001, TALAWI MUDIAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042002",
+        "tps": "1373042002002",
+        "url": "13\/1373\/137304\/1373042002\/1373042002002.json",
+        "nama": "TPS 002, TALAWI MUDIAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042002",
+        "tps": "1373042002003",
+        "url": "13\/1373\/137304\/1373042002\/1373042002003.json",
+        "nama": "TPS 003, TALAWI MUDIAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042002",
+        "tps": "1373042002004",
+        "url": "13\/1373\/137304\/1373042002\/1373042002004.json",
+        "nama": "TPS 004, TALAWI MUDIAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042002",
+        "tps": "1373042002005",
+        "url": "13\/1373\/137304\/1373042002\/1373042002005.json",
+        "nama": "TPS 005, TALAWI MUDIAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042002",
+        "tps": "1373042002006",
+        "url": "13\/1373\/137304\/1373042002\/1373042002006.json",
+        "nama": "TPS 006, TALAWI MUDIAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042002",
+        "tps": "1373042002007",
+        "url": "13\/1373\/137304\/1373042002\/1373042002007.json",
+        "nama": "TPS 007, TALAWI MUDIAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042002",
+        "tps": "1373042002008",
+        "url": "13\/1373\/137304\/1373042002\/1373042002008.json",
+        "nama": "TPS 008, TALAWI MUDIAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042002",
+        "tps": "1373042002009",
+        "url": "13\/1373\/137304\/1373042002\/1373042002009.json",
+        "nama": "TPS 009, TALAWI MUDIAK, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042006",
+        "tps": "1373042006001",
+        "url": "13\/1373\/137304\/1373042006\/1373042006001.json",
+        "nama": "TPS 001, TUMPUK TANGAH, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042006",
+        "tps": "1373042006002",
+        "url": "13\/1373\/137304\/1373042006\/1373042006002.json",
+        "nama": "TPS 002, TUMPUK TANGAH, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042006",
+        "tps": "1373042006003",
+        "url": "13\/1373\/137304\/1373042006\/1373042006003.json",
+        "nama": "TPS 003, TUMPUK TANGAH, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042006",
+        "tps": "1373042006004",
+        "url": "13\/1373\/137304\/1373042006\/1373042006004.json",
+        "nama": "TPS 004, TUMPUK TANGAH, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042006",
+        "tps": "1373042006005",
+        "url": "13\/1373\/137304\/1373042006\/1373042006005.json",
+        "nama": "TPS 005, TUMPUK TANGAH, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042006",
+        "tps": "1373042006006",
+        "url": "13\/1373\/137304\/1373042006\/1373042006006.json",
+        "nama": "TPS 006, TUMPUK TANGAH, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1373",
+        "kecamatan": "137304",
+        "desa": "1373042006",
+        "tps": "1373042006007",
+        "url": "13\/1373\/137304\/1373042006\/1373042006007.json",
+        "nama": "TPS 007, TUMPUK TANGAH, TALAWI, KOTA SAWAHLUNTO, SUMATERA BARAT"
+    }
+]

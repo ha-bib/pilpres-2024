@@ -1,0 +1,4403 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022015",
+        "tps": "1173022015001",
+        "url": "11\/1173\/117302\/1173022015\/1173022015001.json",
+        "nama": "TPS 001, BANDA MASEN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022015",
+        "tps": "1173022015002",
+        "url": "11\/1173\/117302\/1173022015\/1173022015002.json",
+        "nama": "TPS 002, BANDA MASEN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022015",
+        "tps": "1173022015003",
+        "url": "11\/1173\/117302\/1173022015\/1173022015003.json",
+        "nama": "TPS 003, BANDA MASEN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022015",
+        "tps": "1173022015004",
+        "url": "11\/1173\/117302\/1173022015\/1173022015004.json",
+        "nama": "TPS 004, BANDA MASEN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022015",
+        "tps": "1173022015005",
+        "url": "11\/1173\/117302\/1173022015\/1173022015005.json",
+        "nama": "TPS 005, BANDA MASEN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022015",
+        "tps": "1173022015006",
+        "url": "11\/1173\/117302\/1173022015\/1173022015006.json",
+        "nama": "TPS 006, BANDA MASEN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022015",
+        "tps": "1173022015007",
+        "url": "11\/1173\/117302\/1173022015\/1173022015007.json",
+        "nama": "TPS 007, BANDA MASEN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022015",
+        "tps": "1173022015008",
+        "url": "11\/1173\/117302\/1173022015\/1173022015008.json",
+        "nama": "TPS 008, BANDA MASEN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022015",
+        "tps": "1173022015009",
+        "url": "11\/1173\/117302\/1173022015\/1173022015009.json",
+        "nama": "TPS 009, BANDA MASEN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018001",
+        "url": "11\/1173\/117302\/1173022018\/1173022018001.json",
+        "nama": "TPS 001, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018002",
+        "url": "11\/1173\/117302\/1173022018\/1173022018002.json",
+        "nama": "TPS 002, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018003",
+        "url": "11\/1173\/117302\/1173022018\/1173022018003.json",
+        "nama": "TPS 003, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018004",
+        "url": "11\/1173\/117302\/1173022018\/1173022018004.json",
+        "nama": "TPS 004, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018005",
+        "url": "11\/1173\/117302\/1173022018\/1173022018005.json",
+        "nama": "TPS 005, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018006",
+        "url": "11\/1173\/117302\/1173022018\/1173022018006.json",
+        "nama": "TPS 006, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018007",
+        "url": "11\/1173\/117302\/1173022018\/1173022018007.json",
+        "nama": "TPS 007, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018008",
+        "url": "11\/1173\/117302\/1173022018\/1173022018008.json",
+        "nama": "TPS 008, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018009",
+        "url": "11\/1173\/117302\/1173022018\/1173022018009.json",
+        "nama": "TPS 009, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022018",
+        "tps": "1173022018010",
+        "url": "11\/1173\/117302\/1173022018\/1173022018010.json",
+        "nama": "TPS 010, HAGU BARAT LAUT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012001",
+        "url": "11\/1173\/117302\/1173022012\/1173022012001.json",
+        "nama": "TPS 001, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012002",
+        "url": "11\/1173\/117302\/1173022012\/1173022012002.json",
+        "nama": "TPS 002, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012003",
+        "url": "11\/1173\/117302\/1173022012\/1173022012003.json",
+        "nama": "TPS 003, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012004",
+        "url": "11\/1173\/117302\/1173022012\/1173022012004.json",
+        "nama": "TPS 004, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012005",
+        "url": "11\/1173\/117302\/1173022012\/1173022012005.json",
+        "nama": "TPS 005, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012006",
+        "url": "11\/1173\/117302\/1173022012\/1173022012006.json",
+        "nama": "TPS 006, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012007",
+        "url": "11\/1173\/117302\/1173022012\/1173022012007.json",
+        "nama": "TPS 007, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012008",
+        "url": "11\/1173\/117302\/1173022012\/1173022012008.json",
+        "nama": "TPS 008, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012009",
+        "url": "11\/1173\/117302\/1173022012\/1173022012009.json",
+        "nama": "TPS 009, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012010",
+        "url": "11\/1173\/117302\/1173022012\/1173022012010.json",
+        "nama": "TPS 010, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022012",
+        "tps": "1173022012011",
+        "url": "11\/1173\/117302\/1173022012\/1173022012011.json",
+        "nama": "TPS 011, HAGU SELATAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009001",
+        "url": "11\/1173\/117302\/1173022009\/1173022009001.json",
+        "nama": "TPS 001, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009002",
+        "url": "11\/1173\/117302\/1173022009\/1173022009002.json",
+        "nama": "TPS 002, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009003",
+        "url": "11\/1173\/117302\/1173022009\/1173022009003.json",
+        "nama": "TPS 003, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009004",
+        "url": "11\/1173\/117302\/1173022009\/1173022009004.json",
+        "nama": "TPS 004, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009005",
+        "url": "11\/1173\/117302\/1173022009\/1173022009005.json",
+        "nama": "TPS 005, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009006",
+        "url": "11\/1173\/117302\/1173022009\/1173022009006.json",
+        "nama": "TPS 006, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009007",
+        "url": "11\/1173\/117302\/1173022009\/1173022009007.json",
+        "nama": "TPS 007, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009008",
+        "url": "11\/1173\/117302\/1173022009\/1173022009008.json",
+        "nama": "TPS 008, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009009",
+        "url": "11\/1173\/117302\/1173022009\/1173022009009.json",
+        "nama": "TPS 009, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009010",
+        "url": "11\/1173\/117302\/1173022009\/1173022009010.json",
+        "nama": "TPS 010, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009011",
+        "url": "11\/1173\/117302\/1173022009\/1173022009011.json",
+        "nama": "TPS 011, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022009",
+        "tps": "1173022009012",
+        "url": "11\/1173\/117302\/1173022009\/1173022009012.json",
+        "nama": "TPS 012, HAGU TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022017",
+        "tps": "1173022017001",
+        "url": "11\/1173\/117302\/1173022017\/1173022017001.json",
+        "nama": "TPS 001, JAWA BAROE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022017",
+        "tps": "1173022017002",
+        "url": "11\/1173\/117302\/1173022017\/1173022017002.json",
+        "nama": "TPS 002, JAWA BAROE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022017",
+        "tps": "1173022017003",
+        "url": "11\/1173\/117302\/1173022017\/1173022017003.json",
+        "nama": "TPS 003, JAWA BAROE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022017",
+        "tps": "1173022017004",
+        "url": "11\/1173\/117302\/1173022017\/1173022017004.json",
+        "nama": "TPS 004, JAWA BAROE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022017",
+        "tps": "1173022017005",
+        "url": "11\/1173\/117302\/1173022017\/1173022017005.json",
+        "nama": "TPS 005, JAWA BAROE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022017",
+        "tps": "1173022017006",
+        "url": "11\/1173\/117302\/1173022017\/1173022017006.json",
+        "nama": "TPS 006, JAWA BAROE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022017",
+        "tps": "1173022017007",
+        "url": "11\/1173\/117302\/1173022017\/1173022017007.json",
+        "nama": "TPS 007, JAWA BAROE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022017",
+        "tps": "1173022017008",
+        "url": "11\/1173\/117302\/1173022017\/1173022017008.json",
+        "nama": "TPS 008, JAWA BAROE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004001",
+        "url": "11\/1173\/117302\/1173022004\/1173022004001.json",
+        "nama": "TPS 001, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004002",
+        "url": "11\/1173\/117302\/1173022004\/1173022004002.json",
+        "nama": "TPS 002, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004003",
+        "url": "11\/1173\/117302\/1173022004\/1173022004003.json",
+        "nama": "TPS 003, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004004",
+        "url": "11\/1173\/117302\/1173022004\/1173022004004.json",
+        "nama": "TPS 004, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004005",
+        "url": "11\/1173\/117302\/1173022004\/1173022004005.json",
+        "nama": "TPS 005, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004006",
+        "url": "11\/1173\/117302\/1173022004\/1173022004006.json",
+        "nama": "TPS 006, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004007",
+        "url": "11\/1173\/117302\/1173022004\/1173022004007.json",
+        "nama": "TPS 007, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004008",
+        "url": "11\/1173\/117302\/1173022004\/1173022004008.json",
+        "nama": "TPS 008, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004009",
+        "url": "11\/1173\/117302\/1173022004\/1173022004009.json",
+        "nama": "TPS 009, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004010",
+        "url": "11\/1173\/117302\/1173022004\/1173022004010.json",
+        "nama": "TPS 010, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004011",
+        "url": "11\/1173\/117302\/1173022004\/1173022004011.json",
+        "nama": "TPS 011, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004012",
+        "url": "11\/1173\/117302\/1173022004\/1173022004012.json",
+        "nama": "TPS 012, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004013",
+        "url": "11\/1173\/117302\/1173022004\/1173022004013.json",
+        "nama": "TPS 013, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004014",
+        "url": "11\/1173\/117302\/1173022004\/1173022004014.json",
+        "nama": "TPS 014, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004015",
+        "url": "11\/1173\/117302\/1173022004\/1173022004015.json",
+        "nama": "TPS 015, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004016",
+        "url": "11\/1173\/117302\/1173022004\/1173022004016.json",
+        "nama": "TPS 016, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004017",
+        "url": "11\/1173\/117302\/1173022004\/1173022004017.json",
+        "nama": "TPS 017, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004901",
+        "url": "11\/1173\/117302\/1173022004\/1173022004901.json",
+        "nama": "TPS 901, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022004",
+        "tps": "1173022004902",
+        "url": "11\/1173\/117302\/1173022004\/1173022004902.json",
+        "nama": "TPS 902, KAMPUNG JAWA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022007",
+        "tps": "1173022007001",
+        "url": "11\/1173\/117302\/1173022007\/1173022007001.json",
+        "nama": "TPS 001, KEUDE ACEH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022007",
+        "tps": "1173022007002",
+        "url": "11\/1173\/117302\/1173022007\/1173022007002.json",
+        "nama": "TPS 002, KEUDE ACEH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022007",
+        "tps": "1173022007003",
+        "url": "11\/1173\/117302\/1173022007\/1173022007003.json",
+        "nama": "TPS 003, KEUDE ACEH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022007",
+        "tps": "1173022007004",
+        "url": "11\/1173\/117302\/1173022007\/1173022007004.json",
+        "nama": "TPS 004, KEUDE ACEH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022007",
+        "tps": "1173022007005",
+        "url": "11\/1173\/117302\/1173022007\/1173022007005.json",
+        "nama": "TPS 005, KEUDE ACEH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022007",
+        "tps": "1173022007006",
+        "url": "11\/1173\/117302\/1173022007\/1173022007006.json",
+        "nama": "TPS 006, KEUDE ACEH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022007",
+        "tps": "1173022007007",
+        "url": "11\/1173\/117302\/1173022007\/1173022007007.json",
+        "nama": "TPS 007, KEUDE ACEH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022005",
+        "tps": "1173022005001",
+        "url": "11\/1173\/117302\/1173022005\/1173022005001.json",
+        "nama": "TPS 001, KOTA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022005",
+        "tps": "1173022005002",
+        "url": "11\/1173\/117302\/1173022005\/1173022005002.json",
+        "nama": "TPS 002, KOTA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022005",
+        "tps": "1173022005003",
+        "url": "11\/1173\/117302\/1173022005\/1173022005003.json",
+        "nama": "TPS 003, KOTA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022005",
+        "tps": "1173022005004",
+        "url": "11\/1173\/117302\/1173022005\/1173022005004.json",
+        "nama": "TPS 004, KOTA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022005",
+        "tps": "1173022005005",
+        "url": "11\/1173\/117302\/1173022005\/1173022005005.json",
+        "nama": "TPS 005, KOTA LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001001",
+        "url": "11\/1173\/117302\/1173022001\/1173022001001.json",
+        "nama": "TPS 001, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001002",
+        "url": "11\/1173\/117302\/1173022001\/1173022001002.json",
+        "nama": "TPS 002, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001003",
+        "url": "11\/1173\/117302\/1173022001\/1173022001003.json",
+        "nama": "TPS 003, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001004",
+        "url": "11\/1173\/117302\/1173022001\/1173022001004.json",
+        "nama": "TPS 004, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001005",
+        "url": "11\/1173\/117302\/1173022001\/1173022001005.json",
+        "nama": "TPS 005, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001006",
+        "url": "11\/1173\/117302\/1173022001\/1173022001006.json",
+        "nama": "TPS 006, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001007",
+        "url": "11\/1173\/117302\/1173022001\/1173022001007.json",
+        "nama": "TPS 007, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001008",
+        "url": "11\/1173\/117302\/1173022001\/1173022001008.json",
+        "nama": "TPS 008, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001009",
+        "url": "11\/1173\/117302\/1173022001\/1173022001009.json",
+        "nama": "TPS 009, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001010",
+        "url": "11\/1173\/117302\/1173022001\/1173022001010.json",
+        "nama": "TPS 010, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001011",
+        "url": "11\/1173\/117302\/1173022001\/1173022001011.json",
+        "nama": "TPS 011, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001012",
+        "url": "11\/1173\/117302\/1173022001\/1173022001012.json",
+        "nama": "TPS 012, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022016",
+        "tps": "1173022016001",
+        "url": "11\/1173\/117302\/1173022016\/1173022016001.json",
+        "nama": "TPS 001, LANCANG GARAM, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022016",
+        "tps": "1173022016002",
+        "url": "11\/1173\/117302\/1173022016\/1173022016002.json",
+        "nama": "TPS 002, LANCANG GARAM, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022016",
+        "tps": "1173022016003",
+        "url": "11\/1173\/117302\/1173022016\/1173022016003.json",
+        "nama": "TPS 003, LANCANG GARAM, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022016",
+        "tps": "1173022016004",
+        "url": "11\/1173\/117302\/1173022016\/1173022016004.json",
+        "nama": "TPS 004, LANCANG GARAM, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006001",
+        "url": "11\/1173\/117302\/1173022006\/1173022006001.json",
+        "nama": "TPS 001, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006002",
+        "url": "11\/1173\/117302\/1173022006\/1173022006002.json",
+        "nama": "TPS 002, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006003",
+        "url": "11\/1173\/117302\/1173022006\/1173022006003.json",
+        "nama": "TPS 003, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006004",
+        "url": "11\/1173\/117302\/1173022006\/1173022006004.json",
+        "nama": "TPS 004, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006005",
+        "url": "11\/1173\/117302\/1173022006\/1173022006005.json",
+        "nama": "TPS 005, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006006",
+        "url": "11\/1173\/117302\/1173022006\/1173022006006.json",
+        "nama": "TPS 006, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006007",
+        "url": "11\/1173\/117302\/1173022006\/1173022006007.json",
+        "nama": "TPS 007, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006008",
+        "url": "11\/1173\/117302\/1173022006\/1173022006008.json",
+        "nama": "TPS 008, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006009",
+        "url": "11\/1173\/117302\/1173022006\/1173022006009.json",
+        "nama": "TPS 009, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006010",
+        "url": "11\/1173\/117302\/1173022006\/1173022006010.json",
+        "nama": "TPS 010, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006011",
+        "url": "11\/1173\/117302\/1173022006\/1173022006011.json",
+        "nama": "TPS 011, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022006",
+        "tps": "1173022006012",
+        "url": "11\/1173\/117302\/1173022006\/1173022006012.json",
+        "nama": "TPS 012, MON GEUDONG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022013",
+        "tps": "1173022013001",
+        "url": "11\/1173\/117302\/1173022013\/1173022013001.json",
+        "nama": "TPS 001, PUSONG BARU, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022013",
+        "tps": "1173022013002",
+        "url": "11\/1173\/117302\/1173022013\/1173022013002.json",
+        "nama": "TPS 002, PUSONG BARU, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022013",
+        "tps": "1173022013003",
+        "url": "11\/1173\/117302\/1173022013\/1173022013003.json",
+        "nama": "TPS 003, PUSONG BARU, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022013",
+        "tps": "1173022013004",
+        "url": "11\/1173\/117302\/1173022013\/1173022013004.json",
+        "nama": "TPS 004, PUSONG BARU, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022013",
+        "tps": "1173022013005",
+        "url": "11\/1173\/117302\/1173022013\/1173022013005.json",
+        "nama": "TPS 005, PUSONG BARU, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022013",
+        "tps": "1173022013006",
+        "url": "11\/1173\/117302\/1173022013\/1173022013006.json",
+        "nama": "TPS 006, PUSONG BARU, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022013",
+        "tps": "1173022013007",
+        "url": "11\/1173\/117302\/1173022013\/1173022013007.json",
+        "nama": "TPS 007, PUSONG BARU, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022013",
+        "tps": "1173022013008",
+        "url": "11\/1173\/117302\/1173022013\/1173022013008.json",
+        "nama": "TPS 008, PUSONG BARU, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022013",
+        "tps": "1173022013009",
+        "url": "11\/1173\/117302\/1173022013\/1173022013009.json",
+        "nama": "TPS 009, PUSONG BARU, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008001",
+        "url": "11\/1173\/117302\/1173022008\/1173022008001.json",
+        "nama": "TPS 001, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008002",
+        "url": "11\/1173\/117302\/1173022008\/1173022008002.json",
+        "nama": "TPS 002, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008003",
+        "url": "11\/1173\/117302\/1173022008\/1173022008003.json",
+        "nama": "TPS 003, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008004",
+        "url": "11\/1173\/117302\/1173022008\/1173022008004.json",
+        "nama": "TPS 004, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008005",
+        "url": "11\/1173\/117302\/1173022008\/1173022008005.json",
+        "nama": "TPS 005, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008006",
+        "url": "11\/1173\/117302\/1173022008\/1173022008006.json",
+        "nama": "TPS 006, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008007",
+        "url": "11\/1173\/117302\/1173022008\/1173022008007.json",
+        "nama": "TPS 007, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008008",
+        "url": "11\/1173\/117302\/1173022008\/1173022008008.json",
+        "nama": "TPS 008, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008009",
+        "url": "11\/1173\/117302\/1173022008\/1173022008009.json",
+        "nama": "TPS 009, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008010",
+        "url": "11\/1173\/117302\/1173022008\/1173022008010.json",
+        "nama": "TPS 010, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008011",
+        "url": "11\/1173\/117302\/1173022008\/1173022008011.json",
+        "nama": "TPS 011, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008012",
+        "url": "11\/1173\/117302\/1173022008\/1173022008012.json",
+        "nama": "TPS 012, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022008",
+        "tps": "1173022008013",
+        "url": "11\/1173\/117302\/1173022008\/1173022008013.json",
+        "nama": "TPS 013, PUSONG LHOKSEUMAWE, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003001",
+        "url": "11\/1173\/117302\/1173022003\/1173022003001.json",
+        "nama": "TPS 001, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003002",
+        "url": "11\/1173\/117302\/1173022003\/1173022003002.json",
+        "nama": "TPS 002, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003003",
+        "url": "11\/1173\/117302\/1173022003\/1173022003003.json",
+        "nama": "TPS 003, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003004",
+        "url": "11\/1173\/117302\/1173022003\/1173022003004.json",
+        "nama": "TPS 004, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003005",
+        "url": "11\/1173\/117302\/1173022003\/1173022003005.json",
+        "nama": "TPS 005, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003006",
+        "url": "11\/1173\/117302\/1173022003\/1173022003006.json",
+        "nama": "TPS 006, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003007",
+        "url": "11\/1173\/117302\/1173022003\/1173022003007.json",
+        "nama": "TPS 007, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003008",
+        "url": "11\/1173\/117302\/1173022003\/1173022003008.json",
+        "nama": "TPS 008, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003009",
+        "url": "11\/1173\/117302\/1173022003\/1173022003009.json",
+        "nama": "TPS 009, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022003",
+        "tps": "1173022003010",
+        "url": "11\/1173\/117302\/1173022003\/1173022003010.json",
+        "nama": "TPS 010, SIMPANG EMPAT, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002001",
+        "url": "11\/1173\/117302\/1173022002\/1173022002001.json",
+        "nama": "TPS 001, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002002",
+        "url": "11\/1173\/117302\/1173022002\/1173022002002.json",
+        "nama": "TPS 002, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002003",
+        "url": "11\/1173\/117302\/1173022002\/1173022002003.json",
+        "nama": "TPS 003, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002004",
+        "url": "11\/1173\/117302\/1173022002\/1173022002004.json",
+        "nama": "TPS 004, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002005",
+        "url": "11\/1173\/117302\/1173022002\/1173022002005.json",
+        "nama": "TPS 005, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002006",
+        "url": "11\/1173\/117302\/1173022002\/1173022002006.json",
+        "nama": "TPS 006, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002007",
+        "url": "11\/1173\/117302\/1173022002\/1173022002007.json",
+        "nama": "TPS 007, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002008",
+        "url": "11\/1173\/117302\/1173022002\/1173022002008.json",
+        "nama": "TPS 008, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002009",
+        "url": "11\/1173\/117302\/1173022002\/1173022002009.json",
+        "nama": "TPS 009, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002010",
+        "url": "11\/1173\/117302\/1173022002\/1173022002010.json",
+        "nama": "TPS 010, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002011",
+        "url": "11\/1173\/117302\/1173022002\/1173022002011.json",
+        "nama": "TPS 011, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002012",
+        "url": "11\/1173\/117302\/1173022002\/1173022002012.json",
+        "nama": "TPS 012, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002013",
+        "url": "11\/1173\/117302\/1173022002\/1173022002013.json",
+        "nama": "TPS 013, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002014",
+        "url": "11\/1173\/117302\/1173022002\/1173022002014.json",
+        "nama": "TPS 014, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002015",
+        "url": "11\/1173\/117302\/1173022002\/1173022002015.json",
+        "nama": "TPS 015, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002016",
+        "url": "11\/1173\/117302\/1173022002\/1173022002016.json",
+        "nama": "TPS 016, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002017",
+        "url": "11\/1173\/117302\/1173022002\/1173022002017.json",
+        "nama": "TPS 017, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002018",
+        "url": "11\/1173\/117302\/1173022002\/1173022002018.json",
+        "nama": "TPS 018, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002019",
+        "url": "11\/1173\/117302\/1173022002\/1173022002019.json",
+        "nama": "TPS 019, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002020",
+        "url": "11\/1173\/117302\/1173022002\/1173022002020.json",
+        "nama": "TPS 020, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002021",
+        "url": "11\/1173\/117302\/1173022002\/1173022002021.json",
+        "nama": "TPS 021, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011001",
+        "url": "11\/1173\/117302\/1173022011\/1173022011001.json",
+        "nama": "TPS 001, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011002",
+        "url": "11\/1173\/117302\/1173022011\/1173022011002.json",
+        "nama": "TPS 002, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011003",
+        "url": "11\/1173\/117302\/1173022011\/1173022011003.json",
+        "nama": "TPS 003, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011004",
+        "url": "11\/1173\/117302\/1173022011\/1173022011004.json",
+        "nama": "TPS 004, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011005",
+        "url": "11\/1173\/117302\/1173022011\/1173022011005.json",
+        "nama": "TPS 005, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011006",
+        "url": "11\/1173\/117302\/1173022011\/1173022011006.json",
+        "nama": "TPS 006, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011007",
+        "url": "11\/1173\/117302\/1173022011\/1173022011007.json",
+        "nama": "TPS 007, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011008",
+        "url": "11\/1173\/117302\/1173022011\/1173022011008.json",
+        "nama": "TPS 008, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011009",
+        "url": "11\/1173\/117302\/1173022011\/1173022011009.json",
+        "nama": "TPS 009, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011010",
+        "url": "11\/1173\/117302\/1173022011\/1173022011010.json",
+        "nama": "TPS 010, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011011",
+        "url": "11\/1173\/117302\/1173022011\/1173022011011.json",
+        "nama": "TPS 011, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011012",
+        "url": "11\/1173\/117302\/1173022011\/1173022011012.json",
+        "nama": "TPS 012, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022011",
+        "tps": "1173022011013",
+        "url": "11\/1173\/117302\/1173022011\/1173022011013.json",
+        "nama": "TPS 013, UJONG BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022014",
+        "tps": "1173022014001",
+        "url": "11\/1173\/117302\/1173022014\/1173022014001.json",
+        "nama": "TPS 001, ULEE JALAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022014",
+        "tps": "1173022014002",
+        "url": "11\/1173\/117302\/1173022014\/1173022014002.json",
+        "nama": "TPS 002, ULEE JALAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022014",
+        "tps": "1173022014003",
+        "url": "11\/1173\/117302\/1173022014\/1173022014003.json",
+        "nama": "TPS 003, ULEE JALAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022014",
+        "tps": "1173022014004",
+        "url": "11\/1173\/117302\/1173022014\/1173022014004.json",
+        "nama": "TPS 004, ULEE JALAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022014",
+        "tps": "1173022014005",
+        "url": "11\/1173\/117302\/1173022014\/1173022014005.json",
+        "nama": "TPS 005, ULEE JALAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022014",
+        "tps": "1173022014006",
+        "url": "11\/1173\/117302\/1173022014\/1173022014006.json",
+        "nama": "TPS 006, ULEE JALAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022014",
+        "tps": "1173022014007",
+        "url": "11\/1173\/117302\/1173022014\/1173022014007.json",
+        "nama": "TPS 007, ULEE JALAN, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010001",
+        "url": "11\/1173\/117302\/1173022010\/1173022010001.json",
+        "nama": "TPS 001, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010002",
+        "url": "11\/1173\/117302\/1173022010\/1173022010002.json",
+        "nama": "TPS 002, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010003",
+        "url": "11\/1173\/117302\/1173022010\/1173022010003.json",
+        "nama": "TPS 003, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010004",
+        "url": "11\/1173\/117302\/1173022010\/1173022010004.json",
+        "nama": "TPS 004, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010005",
+        "url": "11\/1173\/117302\/1173022010\/1173022010005.json",
+        "nama": "TPS 005, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010006",
+        "url": "11\/1173\/117302\/1173022010\/1173022010006.json",
+        "nama": "TPS 006, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010007",
+        "url": "11\/1173\/117302\/1173022010\/1173022010007.json",
+        "nama": "TPS 007, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010008",
+        "url": "11\/1173\/117302\/1173022010\/1173022010008.json",
+        "nama": "TPS 008, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010009",
+        "url": "11\/1173\/117302\/1173022010\/1173022010009.json",
+        "nama": "TPS 009, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010010",
+        "url": "11\/1173\/117302\/1173022010\/1173022010010.json",
+        "nama": "TPS 010, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010011",
+        "url": "11\/1173\/117302\/1173022010\/1173022010011.json",
+        "nama": "TPS 011, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010012",
+        "url": "11\/1173\/117302\/1173022010\/1173022010012.json",
+        "nama": "TPS 012, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010013",
+        "url": "11\/1173\/117302\/1173022010\/1173022010013.json",
+        "nama": "TPS 013, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032017",
+        "tps": "1173032017001",
+        "url": "11\/1173\/117303\/1173032017\/1173032017001.json",
+        "nama": "TPS 001, ALUE LIM, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032017",
+        "tps": "1173032017002",
+        "url": "11\/1173\/117303\/1173032017\/1173032017002.json",
+        "nama": "TPS 002, ALUE LIM, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032017",
+        "tps": "1173032017003",
+        "url": "11\/1173\/117303\/1173032017\/1173032017003.json",
+        "nama": "TPS 003, ALUE LIM, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032017",
+        "tps": "1173032017004",
+        "url": "11\/1173\/117303\/1173032017\/1173032017004.json",
+        "nama": "TPS 004, ALUE LIM, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032017",
+        "tps": "1173032017005",
+        "url": "11\/1173\/117303\/1173032017\/1173032017005.json",
+        "nama": "TPS 005, ALUE LIM, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032010",
+        "tps": "1173032010001",
+        "url": "11\/1173\/117303\/1173032010\/1173032010001.json",
+        "nama": "TPS 001, ASAN KAREUNG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032010",
+        "tps": "1173032010002",
+        "url": "11\/1173\/117303\/1173032010\/1173032010002.json",
+        "nama": "TPS 002, ASAN KAREUNG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032010",
+        "tps": "1173032010003",
+        "url": "11\/1173\/117303\/1173032010\/1173032010003.json",
+        "nama": "TPS 003, ASAN KAREUNG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032008",
+        "tps": "1173032008001",
+        "url": "11\/1173\/117303\/1173032008\/1173032008001.json",
+        "nama": "TPS 001, BALOI, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032008",
+        "tps": "1173032008002",
+        "url": "11\/1173\/117303\/1173032008\/1173032008002.json",
+        "nama": "TPS 002, BALOI, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032018",
+        "tps": "1173032018001",
+        "url": "11\/1173\/117303\/1173032018\/1173032018001.json",
+        "nama": "TPS 001, BLANG BULOH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032018",
+        "tps": "1173032018002",
+        "url": "11\/1173\/117303\/1173032018\/1173032018002.json",
+        "nama": "TPS 002, BLANG BULOH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032018",
+        "tps": "1173032018003",
+        "url": "11\/1173\/117303\/1173032018\/1173032018003.json",
+        "nama": "TPS 003, BLANG BULOH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032018",
+        "tps": "1173032018004",
+        "url": "11\/1173\/117303\/1173032018\/1173032018004.json",
+        "nama": "TPS 004, BLANG BULOH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032002",
+        "tps": "1173032002001",
+        "url": "11\/1173\/117303\/1173032002\/1173032002001.json",
+        "nama": "TPS 001, BLANG CUT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032002",
+        "tps": "1173032002002",
+        "url": "11\/1173\/117303\/1173032002\/1173032002002.json",
+        "nama": "TPS 002, BLANG CUT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032002",
+        "tps": "1173032002003",
+        "url": "11\/1173\/117303\/1173032002\/1173032002003.json",
+        "nama": "TPS 003, BLANG CUT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032002",
+        "tps": "1173032002004",
+        "url": "11\/1173\/117303\/1173032002\/1173032002004.json",
+        "nama": "TPS 004, BLANG CUT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032012",
+        "tps": "1173032012001",
+        "url": "11\/1173\/117303\/1173032012\/1173032012001.json",
+        "nama": "TPS 001, BLANG PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032012",
+        "tps": "1173032012002",
+        "url": "11\/1173\/117303\/1173032012\/1173032012002.json",
+        "nama": "TPS 002, BLANG PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032012",
+        "tps": "1173032012003",
+        "url": "11\/1173\/117303\/1173032012\/1173032012003.json",
+        "nama": "TPS 003, BLANG PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032012",
+        "tps": "1173032012004",
+        "url": "11\/1173\/117303\/1173032012\/1173032012004.json",
+        "nama": "TPS 004, BLANG PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032006",
+        "tps": "1173032006001",
+        "url": "11\/1173\/117303\/1173032006\/1173032006001.json",
+        "nama": "TPS 001, BLANG TEUE, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032021",
+        "tps": "1173032021001",
+        "url": "11\/1173\/117303\/1173032021\/1173032021001.json",
+        "nama": "TPS 001, BLANG WEU BAROH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032021",
+        "tps": "1173032021002",
+        "url": "11\/1173\/117303\/1173032021\/1173032021002.json",
+        "nama": "TPS 002, BLANG WEU BAROH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032021",
+        "tps": "1173032021003",
+        "url": "11\/1173\/117303\/1173032021\/1173032021003.json",
+        "nama": "TPS 003, BLANG WEU BAROH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032021",
+        "tps": "1173032021004",
+        "url": "11\/1173\/117303\/1173032021\/1173032021004.json",
+        "nama": "TPS 004, BLANG WEU BAROH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032021",
+        "tps": "1173032021005",
+        "url": "11\/1173\/117303\/1173032021\/1173032021005.json",
+        "nama": "TPS 005, BLANG WEU BAROH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032019",
+        "tps": "1173032019001",
+        "url": "11\/1173\/117303\/1173032019\/1173032019001.json",
+        "nama": "TPS 001, BLANG WEU PANJOE, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032019",
+        "tps": "1173032019002",
+        "url": "11\/1173\/117303\/1173032019\/1173032019002.json",
+        "nama": "TPS 002, BLANG WEU PANJOE, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032019",
+        "tps": "1173032019003",
+        "url": "11\/1173\/117303\/1173032019\/1173032019003.json",
+        "nama": "TPS 003, BLANG WEU PANJOE, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032003",
+        "tps": "1173032003001",
+        "url": "11\/1173\/117303\/1173032003\/1173032003001.json",
+        "nama": "TPS 001, JAMBO MESJID, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032003",
+        "tps": "1173032003002",
+        "url": "11\/1173\/117303\/1173032003\/1173032003002.json",
+        "nama": "TPS 002, JAMBO MESJID, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032004",
+        "tps": "1173032004001",
+        "url": "11\/1173\/117303\/1173032004\/1173032004001.json",
+        "nama": "TPS 001, JAMBO TIMU, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032004",
+        "tps": "1173032004002",
+        "url": "11\/1173\/117303\/1173032004\/1173032004002.json",
+        "nama": "TPS 002, JAMBO TIMU, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032004",
+        "tps": "1173032004003",
+        "url": "11\/1173\/117303\/1173032004\/1173032004003.json",
+        "nama": "TPS 003, JAMBO TIMU, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032020",
+        "tps": "1173032020001",
+        "url": "11\/1173\/117303\/1173032020\/1173032020001.json",
+        "nama": "TPS 001, JEULIKAT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032020",
+        "tps": "1173032020002",
+        "url": "11\/1173\/117303\/1173032020\/1173032020002.json",
+        "nama": "TPS 002, JEULIKAT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032020",
+        "tps": "1173032020003",
+        "url": "11\/1173\/117303\/1173032020\/1173032020003.json",
+        "nama": "TPS 003, JEULIKAT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032020",
+        "tps": "1173032020004",
+        "url": "11\/1173\/117303\/1173032020\/1173032020004.json",
+        "nama": "TPS 004, JEULIKAT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032020",
+        "tps": "1173032020005",
+        "url": "11\/1173\/117303\/1173032020\/1173032020005.json",
+        "nama": "TPS 005, JEULIKAT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032016",
+        "tps": "1173032016001",
+        "url": "11\/1173\/117303\/1173032016\/1173032016001.json",
+        "nama": "TPS 001, KEUDE PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032016",
+        "tps": "1173032016002",
+        "url": "11\/1173\/117303\/1173032016\/1173032016002.json",
+        "nama": "TPS 002, KEUDE PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032001",
+        "tps": "1173032001001",
+        "url": "11\/1173\/117303\/1173032001\/1173032001001.json",
+        "nama": "TPS 001, KUALA, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032001",
+        "tps": "1173032001002",
+        "url": "11\/1173\/117303\/1173032001\/1173032001002.json",
+        "nama": "TPS 002, KUALA, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032001",
+        "tps": "1173032001003",
+        "url": "11\/1173\/117303\/1173032001\/1173032001003.json",
+        "nama": "TPS 003, KUALA, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032013",
+        "tps": "1173032013001",
+        "url": "11\/1173\/117303\/1173032013\/1173032013001.json",
+        "nama": "TPS 001, KUMBANG PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032013",
+        "tps": "1173032013002",
+        "url": "11\/1173\/117303\/1173032013\/1173032013002.json",
+        "nama": "TPS 002, KUMBANG PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032013",
+        "tps": "1173032013003",
+        "url": "11\/1173\/117303\/1173032013\/1173032013003.json",
+        "nama": "TPS 003, KUMBANG PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032009",
+        "tps": "1173032009001",
+        "url": "11\/1173\/117303\/1173032009\/1173032009001.json",
+        "nama": "TPS 001, MANE KAREUNG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032009",
+        "tps": "1173032009002",
+        "url": "11\/1173\/117303\/1173032009\/1173032009002.json",
+        "nama": "TPS 002, MANE KAREUNG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032009",
+        "tps": "1173032009003",
+        "url": "11\/1173\/117303\/1173032009\/1173032009003.json",
+        "nama": "TPS 003, MANE KAREUNG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032014",
+        "tps": "1173032014001",
+        "url": "11\/1173\/117303\/1173032014\/1173032014001.json",
+        "nama": "TPS 001, MESJID PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032014",
+        "tps": "1173032014002",
+        "url": "11\/1173\/117303\/1173032014\/1173032014002.json",
+        "nama": "TPS 002, MESJID PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032014",
+        "tps": "1173032014003",
+        "url": "11\/1173\/117303\/1173032014\/1173032014003.json",
+        "nama": "TPS 003, MESJID PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032014",
+        "tps": "1173032014004",
+        "url": "11\/1173\/117303\/1173032014\/1173032014004.json",
+        "nama": "TPS 004, MESJID PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032014",
+        "tps": "1173032014005",
+        "url": "11\/1173\/117303\/1173032014\/1173032014005.json",
+        "nama": "TPS 005, MESJID PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032014",
+        "tps": "1173032014006",
+        "url": "11\/1173\/117303\/1173032014\/1173032014006.json",
+        "nama": "TPS 006, MESJID PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032014",
+        "tps": "1173032014007",
+        "url": "11\/1173\/117303\/1173032014\/1173032014007.json",
+        "nama": "TPS 007, MESJID PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032014",
+        "tps": "1173032014008",
+        "url": "11\/1173\/117303\/1173032014\/1173032014008.json",
+        "nama": "TPS 008, MESJID PUNTEUET, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032011",
+        "tps": "1173032011001",
+        "url": "11\/1173\/117303\/1173032011\/1173032011001.json",
+        "nama": "TPS 001, RAYEUK KAREUNG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032011",
+        "tps": "1173032011002",
+        "url": "11\/1173\/117303\/1173032011\/1173032011002.json",
+        "nama": "TPS 002, RAYEUK KAREUNG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032011",
+        "tps": "1173032011003",
+        "url": "11\/1173\/117303\/1173032011\/1173032011003.json",
+        "nama": "TPS 003, RAYEUK KAREUNG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032022",
+        "tps": "1173032022001",
+        "url": "11\/1173\/117303\/1173032022\/1173032022001.json",
+        "nama": "TPS 001, SEUNEUBOK, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032022",
+        "tps": "1173032022002",
+        "url": "11\/1173\/117303\/1173032022\/1173032022002.json",
+        "nama": "TPS 002, SEUNEUBOK, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032007",
+        "tps": "1173032007001",
+        "url": "11\/1173\/117303\/1173032007\/1173032007001.json",
+        "nama": "TPS 001, TEUNGOH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032007",
+        "tps": "1173032007002",
+        "url": "11\/1173\/117303\/1173032007\/1173032007002.json",
+        "nama": "TPS 002, TEUNGOH, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032005",
+        "tps": "1173032005001",
+        "url": "11\/1173\/117303\/1173032005\/1173032005001.json",
+        "nama": "TPS 001, TUNONG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032005",
+        "tps": "1173032005002",
+        "url": "11\/1173\/117303\/1173032005\/1173032005002.json",
+        "nama": "TPS 002, TUNONG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032005",
+        "tps": "1173032005003",
+        "url": "11\/1173\/117303\/1173032005\/1173032005003.json",
+        "nama": "TPS 003, TUNONG, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032015",
+        "tps": "1173032015001",
+        "url": "11\/1173\/117303\/1173032015\/1173032015001.json",
+        "nama": "TPS 001, ULEE BLANG MANE, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032015",
+        "tps": "1173032015002",
+        "url": "11\/1173\/117303\/1173032015\/1173032015002.json",
+        "nama": "TPS 002, ULEE BLANG MANE, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032015",
+        "tps": "1173032015003",
+        "url": "11\/1173\/117303\/1173032015\/1173032015003.json",
+        "nama": "TPS 003, ULEE BLANG MANE, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012002",
+        "tps": "1173012002001",
+        "url": "11\/1173\/117301\/1173012002\/1173012002001.json",
+        "nama": "TPS 001, ALUE AWE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012002",
+        "tps": "1173012002002",
+        "url": "11\/1173\/117301\/1173012002\/1173012002002.json",
+        "nama": "TPS 002, ALUE AWE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012002",
+        "tps": "1173012002003",
+        "url": "11\/1173\/117301\/1173012002\/1173012002003.json",
+        "nama": "TPS 003, ALUE AWE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012002",
+        "tps": "1173012002004",
+        "url": "11\/1173\/117301\/1173012002\/1173012002004.json",
+        "nama": "TPS 004, ALUE AWE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012002",
+        "tps": "1173012002005",
+        "url": "11\/1173\/117301\/1173012002\/1173012002005.json",
+        "nama": "TPS 005, ALUE AWE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012002",
+        "tps": "1173012002006",
+        "url": "11\/1173\/117301\/1173012002\/1173012002006.json",
+        "nama": "TPS 006, ALUE AWE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012002",
+        "tps": "1173012002007",
+        "url": "11\/1173\/117301\/1173012002\/1173012002007.json",
+        "nama": "TPS 007, ALUE AWE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012002",
+        "tps": "1173012002008",
+        "url": "11\/1173\/117301\/1173012002\/1173012002008.json",
+        "nama": "TPS 008, ALUE AWE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012003",
+        "tps": "1173012003001",
+        "url": "11\/1173\/117301\/1173012003\/1173012003001.json",
+        "nama": "TPS 001, BLANG CRUM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012003",
+        "tps": "1173012003002",
+        "url": "11\/1173\/117301\/1173012003\/1173012003002.json",
+        "nama": "TPS 002, BLANG CRUM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012003",
+        "tps": "1173012003003",
+        "url": "11\/1173\/117301\/1173012003\/1173012003003.json",
+        "nama": "TPS 003, BLANG CRUM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012003",
+        "tps": "1173012003004",
+        "url": "11\/1173\/117301\/1173012003\/1173012003004.json",
+        "nama": "TPS 004, BLANG CRUM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012003",
+        "tps": "1173012003005",
+        "url": "11\/1173\/117301\/1173012003\/1173012003005.json",
+        "nama": "TPS 005, BLANG CRUM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012003",
+        "tps": "1173012003006",
+        "url": "11\/1173\/117301\/1173012003\/1173012003006.json",
+        "nama": "TPS 006, BLANG CRUM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012003",
+        "tps": "1173012003007",
+        "url": "11\/1173\/117301\/1173012003\/1173012003007.json",
+        "nama": "TPS 007, BLANG CRUM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012003",
+        "tps": "1173012003008",
+        "url": "11\/1173\/117301\/1173012003\/1173012003008.json",
+        "nama": "TPS 008, BLANG CRUM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012016",
+        "tps": "1173012016001",
+        "url": "11\/1173\/117301\/1173012016\/1173012016001.json",
+        "nama": "TPS 001, BLANG POROH, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012016",
+        "tps": "1173012016002",
+        "url": "11\/1173\/117301\/1173012016\/1173012016002.json",
+        "nama": "TPS 002, BLANG POROH, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012016",
+        "tps": "1173012016003",
+        "url": "11\/1173\/117301\/1173012016\/1173012016003.json",
+        "nama": "TPS 003, BLANG POROH, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012016",
+        "tps": "1173012016004",
+        "url": "11\/1173\/117301\/1173012016\/1173012016004.json",
+        "nama": "TPS 004, BLANG POROH, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012006",
+        "tps": "1173012006001",
+        "url": "11\/1173\/117301\/1173012006\/1173012006001.json",
+        "nama": "TPS 001, COT GIREK KANDANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012006",
+        "tps": "1173012006002",
+        "url": "11\/1173\/117301\/1173012006\/1173012006002.json",
+        "nama": "TPS 002, COT GIREK KANDANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012006",
+        "tps": "1173012006003",
+        "url": "11\/1173\/117301\/1173012006\/1173012006003.json",
+        "nama": "TPS 003, COT GIREK KANDANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012006",
+        "tps": "1173012006004",
+        "url": "11\/1173\/117301\/1173012006\/1173012006004.json",
+        "nama": "TPS 004, COT GIREK KANDANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012006",
+        "tps": "1173012006005",
+        "url": "11\/1173\/117301\/1173012006\/1173012006005.json",
+        "nama": "TPS 005, COT GIREK KANDANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012006",
+        "tps": "1173012006006",
+        "url": "11\/1173\/117301\/1173012006\/1173012006006.json",
+        "nama": "TPS 006, COT GIREK KANDANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012006",
+        "tps": "1173012006007",
+        "url": "11\/1173\/117301\/1173012006\/1173012006007.json",
+        "nama": "TPS 007, COT GIREK KANDANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012006",
+        "tps": "1173012006008",
+        "url": "11\/1173\/117301\/1173012006\/1173012006008.json",
+        "nama": "TPS 008, COT GIREK KANDANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012004",
+        "tps": "1173012004001",
+        "url": "11\/1173\/117301\/1173012004\/1173012004001.json",
+        "nama": "TPS 001, CUT MAMPLAM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012004",
+        "tps": "1173012004002",
+        "url": "11\/1173\/117301\/1173012004\/1173012004002.json",
+        "nama": "TPS 002, CUT MAMPLAM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012004",
+        "tps": "1173012004003",
+        "url": "11\/1173\/117301\/1173012004\/1173012004003.json",
+        "nama": "TPS 003, CUT MAMPLAM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012004",
+        "tps": "1173012004004",
+        "url": "11\/1173\/117301\/1173012004\/1173012004004.json",
+        "nama": "TPS 004, CUT MAMPLAM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012004",
+        "tps": "1173012004005",
+        "url": "11\/1173\/117301\/1173012004\/1173012004005.json",
+        "nama": "TPS 005, CUT MAMPLAM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012004",
+        "tps": "1173012004006",
+        "url": "11\/1173\/117301\/1173012004\/1173012004006.json",
+        "nama": "TPS 006, CUT MAMPLAM, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012007",
+        "tps": "1173012007001",
+        "url": "11\/1173\/117301\/1173012007\/1173012007001.json",
+        "nama": "TPS 001, KEUDE CUNDA, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012007",
+        "tps": "1173012007002",
+        "url": "11\/1173\/117301\/1173012007\/1173012007002.json",
+        "nama": "TPS 002, KEUDE CUNDA, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012007",
+        "tps": "1173012007003",
+        "url": "11\/1173\/117301\/1173012007\/1173012007003.json",
+        "nama": "TPS 003, KEUDE CUNDA, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012007",
+        "tps": "1173012007004",
+        "url": "11\/1173\/117301\/1173012007\/1173012007004.json",
+        "nama": "TPS 004, KEUDE CUNDA, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012007",
+        "tps": "1173012007005",
+        "url": "11\/1173\/117301\/1173012007\/1173012007005.json",
+        "nama": "TPS 005, KEUDE CUNDA, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012009",
+        "tps": "1173012009001",
+        "url": "11\/1173\/117301\/1173012009\/1173012009001.json",
+        "nama": "TPS 001, LHOK MON PUTEH, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012009",
+        "tps": "1173012009002",
+        "url": "11\/1173\/117301\/1173012009\/1173012009002.json",
+        "nama": "TPS 002, LHOK MON PUTEH, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012009",
+        "tps": "1173012009003",
+        "url": "11\/1173\/117301\/1173012009\/1173012009003.json",
+        "nama": "TPS 003, LHOK MON PUTEH, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012009",
+        "tps": "1173012009901",
+        "url": "11\/1173\/117301\/1173012009\/1173012009901.json",
+        "nama": "TPS 901, LHOK MON PUTEH, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012014",
+        "tps": "1173012014001",
+        "url": "11\/1173\/117301\/1173012014\/1173012014001.json",
+        "nama": "TPS 001, MEUNASAH ALUE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012014",
+        "tps": "1173012014002",
+        "url": "11\/1173\/117301\/1173012014\/1173012014002.json",
+        "nama": "TPS 002, MEUNASAH ALUE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012014",
+        "tps": "1173012014003",
+        "url": "11\/1173\/117301\/1173012014\/1173012014003.json",
+        "nama": "TPS 003, MEUNASAH ALUE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012014",
+        "tps": "1173012014004",
+        "url": "11\/1173\/117301\/1173012014\/1173012014004.json",
+        "nama": "TPS 004, MEUNASAH ALUE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012014",
+        "tps": "1173012014005",
+        "url": "11\/1173\/117301\/1173012014\/1173012014005.json",
+        "nama": "TPS 005, MEUNASAH ALUE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012014",
+        "tps": "1173012014006",
+        "url": "11\/1173\/117301\/1173012014\/1173012014006.json",
+        "nama": "TPS 006, MEUNASAH ALUE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012014",
+        "tps": "1173012014007",
+        "url": "11\/1173\/117301\/1173012014\/1173012014007.json",
+        "nama": "TPS 007, MEUNASAH ALUE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012014",
+        "tps": "1173012014008",
+        "url": "11\/1173\/117301\/1173012014\/1173012014008.json",
+        "nama": "TPS 008, MEUNASAH ALUE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012025",
+        "tps": "1173012025001",
+        "url": "11\/1173\/117301\/1173012025\/1173012025001.json",
+        "nama": "TPS 001, MEUNASAH BLANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012025",
+        "tps": "1173012025002",
+        "url": "11\/1173\/117301\/1173012025\/1173012025002.json",
+        "nama": "TPS 002, MEUNASAH BLANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012025",
+        "tps": "1173012025003",
+        "url": "11\/1173\/117301\/1173012025\/1173012025003.json",
+        "nama": "TPS 003, MEUNASAH BLANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012025",
+        "tps": "1173012025004",
+        "url": "11\/1173\/117301\/1173012025\/1173012025004.json",
+        "nama": "TPS 004, MEUNASAH BLANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012025",
+        "tps": "1173012025005",
+        "url": "11\/1173\/117301\/1173012025\/1173012025005.json",
+        "nama": "TPS 005, MEUNASAH BLANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012025",
+        "tps": "1173012025006",
+        "url": "11\/1173\/117301\/1173012025\/1173012025006.json",
+        "nama": "TPS 006, MEUNASAH BLANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012025",
+        "tps": "1173012025007",
+        "url": "11\/1173\/117301\/1173012025\/1173012025007.json",
+        "nama": "TPS 007, MEUNASAH BLANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012024",
+        "tps": "1173012024001",
+        "url": "11\/1173\/117301\/1173012024\/1173012024001.json",
+        "nama": "TPS 001, MEUNASAH MANYANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012024",
+        "tps": "1173012024002",
+        "url": "11\/1173\/117301\/1173012024\/1173012024002.json",
+        "nama": "TPS 002, MEUNASAH MANYANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012024",
+        "tps": "1173012024003",
+        "url": "11\/1173\/117301\/1173012024\/1173012024003.json",
+        "nama": "TPS 003, MEUNASAH MANYANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012024",
+        "tps": "1173012024004",
+        "url": "11\/1173\/117301\/1173012024\/1173012024004.json",
+        "nama": "TPS 004, MEUNASAH MANYANG, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012005",
+        "tps": "1173012005001",
+        "url": "11\/1173\/117301\/1173012005\/1173012005001.json",
+        "nama": "TPS 001, MEUNASAH MEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012005",
+        "tps": "1173012005002",
+        "url": "11\/1173\/117301\/1173012005\/1173012005002.json",
+        "nama": "TPS 002, MEUNASAH MEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012005",
+        "tps": "1173012005003",
+        "url": "11\/1173\/117301\/1173012005\/1173012005003.json",
+        "nama": "TPS 003, MEUNASAH MEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012005",
+        "tps": "1173012005004",
+        "url": "11\/1173\/117301\/1173012005\/1173012005004.json",
+        "nama": "TPS 004, MEUNASAH MEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012005",
+        "tps": "1173012005005",
+        "url": "11\/1173\/117301\/1173012005\/1173012005005.json",
+        "nama": "TPS 005, MEUNASAH MEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012005",
+        "tps": "1173012005006",
+        "url": "11\/1173\/117301\/1173012005\/1173012005006.json",
+        "nama": "TPS 006, MEUNASAH MEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012005",
+        "tps": "1173012005007",
+        "url": "11\/1173\/117301\/1173012005\/1173012005007.json",
+        "nama": "TPS 007, MEUNASAH MEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010001",
+        "url": "11\/1173\/117301\/1173012010\/1173012010001.json",
+        "nama": "TPS 001, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010002",
+        "url": "11\/1173\/117301\/1173012010\/1173012010002.json",
+        "nama": "TPS 002, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010003",
+        "url": "11\/1173\/117301\/1173012010\/1173012010003.json",
+        "nama": "TPS 003, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010004",
+        "url": "11\/1173\/117301\/1173012010\/1173012010004.json",
+        "nama": "TPS 004, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010005",
+        "url": "11\/1173\/117301\/1173012010\/1173012010005.json",
+        "nama": "TPS 005, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010006",
+        "url": "11\/1173\/117301\/1173012010\/1173012010006.json",
+        "nama": "TPS 006, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010007",
+        "url": "11\/1173\/117301\/1173012010\/1173012010007.json",
+        "nama": "TPS 007, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010008",
+        "url": "11\/1173\/117301\/1173012010\/1173012010008.json",
+        "nama": "TPS 008, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010009",
+        "url": "11\/1173\/117301\/1173012010\/1173012010009.json",
+        "nama": "TPS 009, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010010",
+        "url": "11\/1173\/117301\/1173012010\/1173012010010.json",
+        "nama": "TPS 010, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010011",
+        "url": "11\/1173\/117301\/1173012010\/1173012010011.json",
+        "nama": "TPS 011, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010012",
+        "url": "11\/1173\/117301\/1173012010\/1173012010012.json",
+        "nama": "TPS 012, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010013",
+        "url": "11\/1173\/117301\/1173012010\/1173012010013.json",
+        "nama": "TPS 013, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010014",
+        "url": "11\/1173\/117301\/1173012010\/1173012010014.json",
+        "nama": "TPS 014, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010015",
+        "url": "11\/1173\/117301\/1173012010\/1173012010015.json",
+        "nama": "TPS 015, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010016",
+        "url": "11\/1173\/117301\/1173012010\/1173012010016.json",
+        "nama": "TPS 016, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010017",
+        "url": "11\/1173\/117301\/1173012010\/1173012010017.json",
+        "nama": "TPS 017, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010018",
+        "url": "11\/1173\/117301\/1173012010\/1173012010018.json",
+        "nama": "TPS 018, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012010",
+        "tps": "1173012010019",
+        "url": "11\/1173\/117301\/1173012010\/1173012010019.json",
+        "nama": "TPS 019, MEUNASAH MESJID, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011001",
+        "url": "11\/1173\/117301\/1173012011\/1173012011001.json",
+        "nama": "TPS 001, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011002",
+        "url": "11\/1173\/117301\/1173012011\/1173012011002.json",
+        "nama": "TPS 002, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011003",
+        "url": "11\/1173\/117301\/1173012011\/1173012011003.json",
+        "nama": "TPS 003, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011004",
+        "url": "11\/1173\/117301\/1173012011\/1173012011004.json",
+        "nama": "TPS 004, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011005",
+        "url": "11\/1173\/117301\/1173012011\/1173012011005.json",
+        "nama": "TPS 005, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011006",
+        "url": "11\/1173\/117301\/1173012011\/1173012011006.json",
+        "nama": "TPS 006, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011007",
+        "url": "11\/1173\/117301\/1173012011\/1173012011007.json",
+        "nama": "TPS 007, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011008",
+        "url": "11\/1173\/117301\/1173012011\/1173012011008.json",
+        "nama": "TPS 008, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011009",
+        "url": "11\/1173\/117301\/1173012011\/1173012011009.json",
+        "nama": "TPS 009, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011010",
+        "url": "11\/1173\/117301\/1173012011\/1173012011010.json",
+        "nama": "TPS 010, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011011",
+        "url": "11\/1173\/117301\/1173012011\/1173012011011.json",
+        "nama": "TPS 011, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011012",
+        "url": "11\/1173\/117301\/1173012011\/1173012011012.json",
+        "nama": "TPS 012, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011013",
+        "url": "11\/1173\/117301\/1173012011\/1173012011013.json",
+        "nama": "TPS 013, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011014",
+        "url": "11\/1173\/117301\/1173012011\/1173012011014.json",
+        "nama": "TPS 014, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011015",
+        "url": "11\/1173\/117301\/1173012011\/1173012011015.json",
+        "nama": "TPS 015, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011016",
+        "url": "11\/1173\/117301\/1173012011\/1173012011016.json",
+        "nama": "TPS 016, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012011",
+        "tps": "1173012011017",
+        "url": "11\/1173\/117301\/1173012011\/1173012011017.json",
+        "nama": "TPS 017, MNS. PANGGOI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012026",
+        "tps": "1173012026001",
+        "url": "11\/1173\/117301\/1173012026\/1173012026001.json",
+        "nama": "TPS 001, PALOH BATEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012026",
+        "tps": "1173012026002",
+        "url": "11\/1173\/117301\/1173012026\/1173012026002.json",
+        "nama": "TPS 002, PALOH BATEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012026",
+        "tps": "1173012026003",
+        "url": "11\/1173\/117301\/1173012026\/1173012026003.json",
+        "nama": "TPS 003, PALOH BATEE, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012013",
+        "tps": "1173012013001",
+        "url": "11\/1173\/117301\/1173012013\/1173012013001.json",
+        "nama": "TPS 001, PAYA BILI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012013",
+        "tps": "1173012013002",
+        "url": "11\/1173\/117301\/1173012013\/1173012013002.json",
+        "nama": "TPS 002, PAYA BILI, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012015",
+        "tps": "1173012015001",
+        "url": "11\/1173\/117301\/1173012015\/1173012015001.json",
+        "nama": "TPS 001, PAYA PUNTEUET, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012015",
+        "tps": "1173012015002",
+        "url": "11\/1173\/117301\/1173012015\/1173012015002.json",
+        "nama": "TPS 002, PAYA PUNTEUET, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012015",
+        "tps": "1173012015003",
+        "url": "11\/1173\/117301\/1173012015\/1173012015003.json",
+        "nama": "TPS 003, PAYA PUNTEUET, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012015",
+        "tps": "1173012015004",
+        "url": "11\/1173\/117301\/1173012015\/1173012015004.json",
+        "nama": "TPS 004, PAYA PUNTEUET, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012015",
+        "tps": "1173012015005",
+        "url": "11\/1173\/117301\/1173012015\/1173012015005.json",
+        "nama": "TPS 005, PAYA PUNTEUET, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012015",
+        "tps": "1173012015006",
+        "url": "11\/1173\/117301\/1173012015\/1173012015006.json",
+        "nama": "TPS 006, PAYA PUNTEUET, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012015",
+        "tps": "1173012015007",
+        "url": "11\/1173\/117301\/1173012015\/1173012015007.json",
+        "nama": "TPS 007, PAYA PUNTEUET, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012015",
+        "tps": "1173012015008",
+        "url": "11\/1173\/117301\/1173012015\/1173012015008.json",
+        "nama": "TPS 008, PAYA PUNTEUET, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008001",
+        "url": "11\/1173\/117301\/1173012008\/1173012008001.json",
+        "nama": "TPS 001, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008002",
+        "url": "11\/1173\/117301\/1173012008\/1173012008002.json",
+        "nama": "TPS 002, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008003",
+        "url": "11\/1173\/117301\/1173012008\/1173012008003.json",
+        "nama": "TPS 003, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008004",
+        "url": "11\/1173\/117301\/1173012008\/1173012008004.json",
+        "nama": "TPS 004, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008005",
+        "url": "11\/1173\/117301\/1173012008\/1173012008005.json",
+        "nama": "TPS 005, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008006",
+        "url": "11\/1173\/117301\/1173012008\/1173012008006.json",
+        "nama": "TPS 006, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008007",
+        "url": "11\/1173\/117301\/1173012008\/1173012008007.json",
+        "nama": "TPS 007, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008008",
+        "url": "11\/1173\/117301\/1173012008\/1173012008008.json",
+        "nama": "TPS 008, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008009",
+        "url": "11\/1173\/117301\/1173012008\/1173012008009.json",
+        "nama": "TPS 009, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008010",
+        "url": "11\/1173\/117301\/1173012008\/1173012008010.json",
+        "nama": "TPS 010, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008011",
+        "url": "11\/1173\/117301\/1173012008\/1173012008011.json",
+        "nama": "TPS 011, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008012",
+        "url": "11\/1173\/117301\/1173012008\/1173012008012.json",
+        "nama": "TPS 012, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008013",
+        "url": "11\/1173\/117301\/1173012008\/1173012008013.json",
+        "nama": "TPS 013, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008014",
+        "url": "11\/1173\/117301\/1173012008\/1173012008014.json",
+        "nama": "TPS 014, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008015",
+        "url": "11\/1173\/117301\/1173012008\/1173012008015.json",
+        "nama": "TPS 015, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001001",
+        "url": "11\/1173\/117304\/1173042001\/1173042001001.json",
+        "nama": "TPS 001, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001002",
+        "url": "11\/1173\/117304\/1173042001\/1173042001002.json",
+        "nama": "TPS 002, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001003",
+        "url": "11\/1173\/117304\/1173042001\/1173042001003.json",
+        "nama": "TPS 003, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001004",
+        "url": "11\/1173\/117304\/1173042001\/1173042001004.json",
+        "nama": "TPS 004, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001005",
+        "url": "11\/1173\/117304\/1173042001\/1173042001005.json",
+        "nama": "TPS 005, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001006",
+        "url": "11\/1173\/117304\/1173042001\/1173042001006.json",
+        "nama": "TPS 006, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001007",
+        "url": "11\/1173\/117304\/1173042001\/1173042001007.json",
+        "nama": "TPS 007, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001008",
+        "url": "11\/1173\/117304\/1173042001\/1173042001008.json",
+        "nama": "TPS 008, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001009",
+        "url": "11\/1173\/117304\/1173042001\/1173042001009.json",
+        "nama": "TPS 009, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001010",
+        "url": "11\/1173\/117304\/1173042001\/1173042001010.json",
+        "nama": "TPS 010, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001011",
+        "url": "11\/1173\/117304\/1173042001\/1173042001011.json",
+        "nama": "TPS 011, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042001",
+        "tps": "1173042001012",
+        "url": "11\/1173\/117304\/1173042001\/1173042001012.json",
+        "nama": "TPS 012, BATUPHAT BARAT, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006001",
+        "url": "11\/1173\/117304\/1173042006\/1173042006001.json",
+        "nama": "TPS 001, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006002",
+        "url": "11\/1173\/117304\/1173042006\/1173042006002.json",
+        "nama": "TPS 002, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006003",
+        "url": "11\/1173\/117304\/1173042006\/1173042006003.json",
+        "nama": "TPS 003, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006004",
+        "url": "11\/1173\/117304\/1173042006\/1173042006004.json",
+        "nama": "TPS 004, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006005",
+        "url": "11\/1173\/117304\/1173042006\/1173042006005.json",
+        "nama": "TPS 005, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006006",
+        "url": "11\/1173\/117304\/1173042006\/1173042006006.json",
+        "nama": "TPS 006, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006007",
+        "url": "11\/1173\/117304\/1173042006\/1173042006007.json",
+        "nama": "TPS 007, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006008",
+        "url": "11\/1173\/117304\/1173042006\/1173042006008.json",
+        "nama": "TPS 008, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006009",
+        "url": "11\/1173\/117304\/1173042006\/1173042006009.json",
+        "nama": "TPS 009, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006010",
+        "url": "11\/1173\/117304\/1173042006\/1173042006010.json",
+        "nama": "TPS 010, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006011",
+        "url": "11\/1173\/117304\/1173042006\/1173042006011.json",
+        "nama": "TPS 011, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006012",
+        "url": "11\/1173\/117304\/1173042006\/1173042006012.json",
+        "nama": "TPS 012, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006013",
+        "url": "11\/1173\/117304\/1173042006\/1173042006013.json",
+        "nama": "TPS 013, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006014",
+        "url": "11\/1173\/117304\/1173042006\/1173042006014.json",
+        "nama": "TPS 014, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042007",
+        "tps": "1173042007001",
+        "url": "11\/1173\/117304\/1173042007\/1173042007001.json",
+        "nama": "TPS 001, BLANG NALEUNG MAMEH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042007",
+        "tps": "1173042007002",
+        "url": "11\/1173\/117304\/1173042007\/1173042007002.json",
+        "nama": "TPS 002, BLANG NALEUNG MAMEH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042007",
+        "tps": "1173042007003",
+        "url": "11\/1173\/117304\/1173042007\/1173042007003.json",
+        "nama": "TPS 003, BLANG NALEUNG MAMEH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042007",
+        "tps": "1173042007004",
+        "url": "11\/1173\/117304\/1173042007\/1173042007004.json",
+        "nama": "TPS 004, BLANG NALEUNG MAMEH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042007",
+        "tps": "1173042007005",
+        "url": "11\/1173\/117304\/1173042007\/1173042007005.json",
+        "nama": "TPS 005, BLANG NALEUNG MAMEH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042007",
+        "tps": "1173042007006",
+        "url": "11\/1173\/117304\/1173042007\/1173042007006.json",
+        "nama": "TPS 006, BLANG NALEUNG MAMEH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042007",
+        "tps": "1173042007007",
+        "url": "11\/1173\/117304\/1173042007\/1173042007007.json",
+        "nama": "TPS 007, BLANG NALEUNG MAMEH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042007",
+        "tps": "1173042007008",
+        "url": "11\/1173\/117304\/1173042007\/1173042007008.json",
+        "nama": "TPS 008, BLANG NALEUNG MAMEH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042007",
+        "tps": "1173042007009",
+        "url": "11\/1173\/117304\/1173042007\/1173042007009.json",
+        "nama": "TPS 009, BLANG NALEUNG MAMEH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042002",
+        "tps": "1173042002001",
+        "url": "11\/1173\/117304\/1173042002\/1173042002001.json",
+        "nama": "TPS 001, BLANG PANYANG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042002",
+        "tps": "1173042002002",
+        "url": "11\/1173\/117304\/1173042002\/1173042002002.json",
+        "nama": "TPS 002, BLANG PANYANG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042002",
+        "tps": "1173042002003",
+        "url": "11\/1173\/117304\/1173042002\/1173042002003.json",
+        "nama": "TPS 003, BLANG PANYANG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042002",
+        "tps": "1173042002004",
+        "url": "11\/1173\/117304\/1173042002\/1173042002004.json",
+        "nama": "TPS 004, BLANG PANYANG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042002",
+        "tps": "1173042002005",
+        "url": "11\/1173\/117304\/1173042002\/1173042002005.json",
+        "nama": "TPS 005, BLANG PANYANG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042002",
+        "tps": "1173042002006",
+        "url": "11\/1173\/117304\/1173042002\/1173042002006.json",
+        "nama": "TPS 006, BLANG PANYANG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005001",
+        "url": "11\/1173\/117304\/1173042005\/1173042005001.json",
+        "nama": "TPS 001, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005002",
+        "url": "11\/1173\/117304\/1173042005\/1173042005002.json",
+        "nama": "TPS 002, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005003",
+        "url": "11\/1173\/117304\/1173042005\/1173042005003.json",
+        "nama": "TPS 003, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005004",
+        "url": "11\/1173\/117304\/1173042005\/1173042005004.json",
+        "nama": "TPS 004, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005005",
+        "url": "11\/1173\/117304\/1173042005\/1173042005005.json",
+        "nama": "TPS 005, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005006",
+        "url": "11\/1173\/117304\/1173042005\/1173042005006.json",
+        "nama": "TPS 006, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005007",
+        "url": "11\/1173\/117304\/1173042005\/1173042005007.json",
+        "nama": "TPS 007, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005008",
+        "url": "11\/1173\/117304\/1173042005\/1173042005008.json",
+        "nama": "TPS 008, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005009",
+        "url": "11\/1173\/117304\/1173042005\/1173042005009.json",
+        "nama": "TPS 009, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005010",
+        "url": "11\/1173\/117304\/1173042005\/1173042005010.json",
+        "nama": "TPS 010, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005011",
+        "url": "11\/1173\/117304\/1173042005\/1173042005011.json",
+        "nama": "TPS 011, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005012",
+        "url": "11\/1173\/117304\/1173042005\/1173042005012.json",
+        "nama": "TPS 012, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042005",
+        "tps": "1173042005013",
+        "url": "11\/1173\/117304\/1173042005\/1173042005013.json",
+        "nama": "TPS 013, BLANG PULO, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042008",
+        "tps": "1173042008001",
+        "url": "11\/1173\/117304\/1173042008\/1173042008001.json",
+        "nama": "TPS 001, COT TRIENG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042008",
+        "tps": "1173042008002",
+        "url": "11\/1173\/117304\/1173042008\/1173042008002.json",
+        "nama": "TPS 002, COT TRIENG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042008",
+        "tps": "1173042008003",
+        "url": "11\/1173\/117304\/1173042008\/1173042008003.json",
+        "nama": "TPS 003, COT TRIENG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042003",
+        "tps": "1173042003001",
+        "url": "11\/1173\/117304\/1173042003\/1173042003001.json",
+        "nama": "TPS 001, MEUNASAH DAYAH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042003",
+        "tps": "1173042003002",
+        "url": "11\/1173\/117304\/1173042003\/1173042003002.json",
+        "nama": "TPS 002, MEUNASAH DAYAH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042003",
+        "tps": "1173042003003",
+        "url": "11\/1173\/117304\/1173042003\/1173042003003.json",
+        "nama": "TPS 003, MEUNASAH DAYAH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042003",
+        "tps": "1173042003004",
+        "url": "11\/1173\/117304\/1173042003\/1173042003004.json",
+        "nama": "TPS 004, MEUNASAH DAYAH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042010",
+        "tps": "1173042010001",
+        "url": "11\/1173\/117304\/1173042010\/1173042010001.json",
+        "nama": "TPS 001, MEURIA PALOH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042010",
+        "tps": "1173042010002",
+        "url": "11\/1173\/117304\/1173042010\/1173042010002.json",
+        "nama": "TPS 002, MEURIA PALOH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042010",
+        "tps": "1173042010003",
+        "url": "11\/1173\/117304\/1173042010\/1173042010003.json",
+        "nama": "TPS 003, MEURIA PALOH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042010",
+        "tps": "1173042010004",
+        "url": "11\/1173\/117304\/1173042010\/1173042010004.json",
+        "nama": "TPS 004, MEURIA PALOH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042010",
+        "tps": "1173042010005",
+        "url": "11\/1173\/117304\/1173042010\/1173042010005.json",
+        "nama": "TPS 005, MEURIA PALOH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042010",
+        "tps": "1173042010006",
+        "url": "11\/1173\/117304\/1173042010\/1173042010006.json",
+        "nama": "TPS 006, MEURIA PALOH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042010",
+        "tps": "1173042010007",
+        "url": "11\/1173\/117304\/1173042010\/1173042010007.json",
+        "nama": "TPS 007, MEURIA PALOH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042010",
+        "tps": "1173042010008",
+        "url": "11\/1173\/117304\/1173042010\/1173042010008.json",
+        "nama": "TPS 008, MEURIA PALOH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042010",
+        "tps": "1173042010901",
+        "url": "11\/1173\/117304\/1173042010\/1173042010901.json",
+        "nama": "TPS 901, MEURIA PALOH, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042009",
+        "tps": "1173042009001",
+        "url": "11\/1173\/117304\/1173042009\/1173042009001.json",
+        "nama": "TPS 001, PADANG SAKTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042009",
+        "tps": "1173042009002",
+        "url": "11\/1173\/117304\/1173042009\/1173042009002.json",
+        "nama": "TPS 002, PADANG SAKTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042009",
+        "tps": "1173042009003",
+        "url": "11\/1173\/117304\/1173042009\/1173042009003.json",
+        "nama": "TPS 003, PADANG SAKTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042009",
+        "tps": "1173042009004",
+        "url": "11\/1173\/117304\/1173042009\/1173042009004.json",
+        "nama": "TPS 004, PADANG SAKTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042009",
+        "tps": "1173042009005",
+        "url": "11\/1173\/117304\/1173042009\/1173042009005.json",
+        "nama": "TPS 005, PADANG SAKTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042009",
+        "tps": "1173042009006",
+        "url": "11\/1173\/117304\/1173042009\/1173042009006.json",
+        "nama": "TPS 006, PADANG SAKTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042009",
+        "tps": "1173042009007",
+        "url": "11\/1173\/117304\/1173042009\/1173042009007.json",
+        "nama": "TPS 007, PADANG SAKTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042009",
+        "tps": "1173042009008",
+        "url": "11\/1173\/117304\/1173042009\/1173042009008.json",
+        "nama": "TPS 008, PADANG SAKTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042004",
+        "tps": "1173042004001",
+        "url": "11\/1173\/117304\/1173042004\/1173042004001.json",
+        "nama": "TPS 001, PALOH PUNTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042004",
+        "tps": "1173042004002",
+        "url": "11\/1173\/117304\/1173042004\/1173042004002.json",
+        "nama": "TPS 002, PALOH PUNTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042004",
+        "tps": "1173042004003",
+        "url": "11\/1173\/117304\/1173042004\/1173042004003.json",
+        "nama": "TPS 003, PALOH PUNTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042004",
+        "tps": "1173042004004",
+        "url": "11\/1173\/117304\/1173042004\/1173042004004.json",
+        "nama": "TPS 004, PALOH PUNTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042004",
+        "tps": "1173042004005",
+        "url": "11\/1173\/117304\/1173042004\/1173042004005.json",
+        "nama": "TPS 005, PALOH PUNTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042004",
+        "tps": "1173042004006",
+        "url": "11\/1173\/117304\/1173042004\/1173042004006.json",
+        "nama": "TPS 006, PALOH PUNTI, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042011",
+        "tps": "1173042011001",
+        "url": "11\/1173\/117304\/1173042011\/1173042011001.json",
+        "nama": "TPS 001, UJONG PACU, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042011",
+        "tps": "1173042011002",
+        "url": "11\/1173\/117304\/1173042011\/1173042011002.json",
+        "nama": "TPS 002, UJONG PACU, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042011",
+        "tps": "1173042011003",
+        "url": "11\/1173\/117304\/1173042011\/1173042011003.json",
+        "nama": "TPS 003, UJONG PACU, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042011",
+        "tps": "1173042011004",
+        "url": "11\/1173\/117304\/1173042011\/1173042011004.json",
+        "nama": "TPS 004, UJONG PACU, MUARA SATU, KOTA LHOKSEUMAWE, ACEH"
+    }
+]

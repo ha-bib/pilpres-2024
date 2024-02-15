@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170904",
+        "desa": "1709042017",
+        "tps": "1709042017002",
+        "nama": "TPS 002, PEMATANG TIGA, PEMATANG TIGA, BENGKULU TENGAH, BENGKULU",
+        "selisih": 65,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1709\/170904\/1709042017\/1709042017002"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032022",
+        "tps": "1709032022004",
+        "nama": "TPS 004, SRI KUNCORO, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU",
+        "selisih": 293,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1709\/170903\/1709032022\/1709032022004"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170903",
+        "desa": "1709032009",
+        "tps": "1709032009003",
+        "nama": "TPS 003, TALANG PAUH, PONDOK KELAPA, BENGKULU TENGAH, BENGKULU",
+        "selisih": 129,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1709\/170903\/1709032009\/1709032009003"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112004",
+        "tps": "1709112004002",
+        "nama": "TPS 002, GAJAH MATI, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1709\/170911\/1709112004\/1709112004002"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170911",
+        "desa": "1709112007",
+        "tps": "1709112007002",
+        "nama": "TPS 002, PAGAR JATI, SEMIDANG LAGAN, BENGKULU TENGAH, BENGKULU",
+        "selisih": 60,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1709\/170911\/1709112007\/1709112007002"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022008",
+        "tps": "1709022008001",
+        "nama": "TPS 001, NAKAU, TALANG EMPAT, BENGKULU TENGAH, BENGKULU",
+        "selisih": 1483,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1709\/170902\/1709022008\/1709022008001"
+    },
+    {
+        "provinsi": "17",
+        "kabupaten": "1709",
+        "kecamatan": "170902",
+        "desa": "1709022009",
+        "tps": "1709022009003",
+        "nama": "TPS 003, PULAU PANGGUNG, TALANG EMPAT, BENGKULU TENGAH, BENGKULU",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/17\/1709\/170902\/1709022009\/1709022009003"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AF",
+        "kecamatan": "99AF01",
+        "desa": "99AF010001",
+        "tps": "99AF010001004",
+        "url": "99\/99AF\/99AF01\/99AF010001\/99AF010001004.json",
+        "nama": "KSK 001, Shanghai, Republik Rakyat Tiongkok, Shanghai, Republik Rakyat Tiongkok, Shanghai, Republik Rakyat Tiongkok, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AF",
+        "kecamatan": "99AF01",
+        "desa": "99AF010001",
+        "tps": "99AF010001001",
+        "url": "99\/99AF\/99AF01\/99AF010001\/99AF010001001.json",
+        "nama": "POS 001, Shanghai, Republik Rakyat Tiongkok, Shanghai, Republik Rakyat Tiongkok, Shanghai, Republik Rakyat Tiongkok, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AF",
+        "kecamatan": "99AF01",
+        "desa": "99AF010001",
+        "tps": "99AF010001002",
+        "url": "99\/99AF\/99AF01\/99AF010001\/99AF010001002.json",
+        "nama": "TPS 001, Shanghai, Republik Rakyat Tiongkok, Shanghai, Republik Rakyat Tiongkok, Shanghai, Republik Rakyat Tiongkok, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AF",
+        "kecamatan": "99AF01",
+        "desa": "99AF010001",
+        "tps": "99AF010001003",
+        "url": "99\/99AF\/99AF01\/99AF010001\/99AF010001003.json",
+        "nama": "TPS 002, Shanghai, Republik Rakyat Tiongkok, Shanghai, Republik Rakyat Tiongkok, Shanghai, Republik Rakyat Tiongkok, Luar Negeri"
+    }
+]

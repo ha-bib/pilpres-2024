@@ -1,0 +1,4322 @@
+[
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940114",
+        "desa": "9401142002",
+        "tps": "9401142002001",
+        "url": "94\/9401\/940114\/9401142002\/9401142002001.json",
+        "nama": "TPS 001, DIKIYA, DIPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940114",
+        "desa": "9401142001",
+        "tps": "9401142001001",
+        "url": "94\/9401\/940114\/9401142001\/9401142001001.json",
+        "nama": "TPS 001, EPOUWA, DIPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940114",
+        "desa": "9401142005",
+        "tps": "9401142005001",
+        "url": "94\/9401\/940114\/9401142005\/9401142005001.json",
+        "nama": "TPS 001, JAINOA, DIPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940114",
+        "desa": "9401142004",
+        "tps": "9401142004001",
+        "url": "94\/9401\/940114\/9401142004\/9401142004001.json",
+        "nama": "TPS 001, JIGIKEBO, DIPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940114",
+        "desa": "9401142003",
+        "tps": "9401142003001",
+        "url": "94\/9401\/940114\/9401142003\/9401142003001.json",
+        "nama": "TPS 001, TAGAUTO, DIPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940114",
+        "desa": "9401142003",
+        "tps": "9401142003002",
+        "url": "94\/9401\/940114\/9401142003\/9401142003002.json",
+        "nama": "TPS 002, TAGAUTO, DIPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072003",
+        "tps": "9401072003001",
+        "url": "94\/9401\/940107\/9401072003\/9401072003001.json",
+        "nama": "TPS 001, BIHA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072003",
+        "tps": "9401072003002",
+        "url": "94\/9401\/940107\/9401072003\/9401072003002.json",
+        "nama": "TPS 002, BIHA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072003",
+        "tps": "9401072003003",
+        "url": "94\/9401\/940107\/9401072003\/9401072003003.json",
+        "nama": "TPS 003, BIHA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072003",
+        "tps": "9401072003004",
+        "url": "94\/9401\/940107\/9401072003\/9401072003004.json",
+        "nama": "TPS 004, BIHA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072003",
+        "tps": "9401072003005",
+        "url": "94\/9401\/940107\/9401072003\/9401072003005.json",
+        "nama": "TPS 005, BIHA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072003",
+        "tps": "9401072003006",
+        "url": "94\/9401\/940107\/9401072003\/9401072003006.json",
+        "nama": "TPS 006, BIHA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072004",
+        "tps": "9401072004001",
+        "url": "94\/9401\/940107\/9401072004\/9401072004001.json",
+        "nama": "TPS 001, LAGARI JAYA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072004",
+        "tps": "9401072004002",
+        "url": "94\/9401\/940107\/9401072004\/9401072004002.json",
+        "nama": "TPS 002, LAGARI JAYA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072004",
+        "tps": "9401072004003",
+        "url": "94\/9401\/940107\/9401072004\/9401072004003.json",
+        "nama": "TPS 003, LAGARI JAYA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072004",
+        "tps": "9401072004004",
+        "url": "94\/9401\/940107\/9401072004\/9401072004004.json",
+        "nama": "TPS 004, LAGARI JAYA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072004",
+        "tps": "9401072004005",
+        "url": "94\/9401\/940107\/9401072004\/9401072004005.json",
+        "nama": "TPS 005, LAGARI JAYA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072004",
+        "tps": "9401072004006",
+        "url": "94\/9401\/940107\/9401072004\/9401072004006.json",
+        "nama": "TPS 006, LAGARI JAYA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072005",
+        "tps": "9401072005001",
+        "url": "94\/9401\/940107\/9401072005\/9401072005001.json",
+        "nama": "TPS 001, MAIDEI, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072005",
+        "tps": "9401072005002",
+        "url": "94\/9401\/940107\/9401072005\/9401072005002.json",
+        "nama": "TPS 002, MAIDEI, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072005",
+        "tps": "9401072005003",
+        "url": "94\/9401\/940107\/9401072005\/9401072005003.json",
+        "nama": "TPS 003, MAIDEI, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072005",
+        "tps": "9401072005004",
+        "url": "94\/9401\/940107\/9401072005\/9401072005004.json",
+        "nama": "TPS 004, MAIDEI, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072001",
+        "tps": "9401072001001",
+        "url": "94\/9401\/940107\/9401072001\/9401072001001.json",
+        "nama": "TPS 001, MAKIMI, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072001",
+        "tps": "9401072001002",
+        "url": "94\/9401\/940107\/9401072001\/9401072001002.json",
+        "nama": "TPS 002, MAKIMI, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072006",
+        "tps": "9401072006001",
+        "url": "94\/9401\/940107\/9401072006\/9401072006001.json",
+        "nama": "TPS 001, MANUNGGAL JAYA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072006",
+        "tps": "9401072006002",
+        "url": "94\/9401\/940107\/9401072006\/9401072006002.json",
+        "nama": "TPS 002, MANUNGGAL JAYA, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072002",
+        "tps": "9401072002001",
+        "url": "94\/9401\/940107\/9401072002\/9401072002001.json",
+        "nama": "TPS 001, NIFASI, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072002",
+        "tps": "9401072002002",
+        "url": "94\/9401\/940107\/9401072002\/9401072002002.json",
+        "nama": "TPS 002, NIFASI, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940107",
+        "desa": "9401072002",
+        "tps": "9401072002003",
+        "url": "94\/9401\/940107\/9401072002\/9401072002003.json",
+        "nama": "TPS 003, NIFASI, MAKIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940115",
+        "desa": "9401152001",
+        "tps": "9401152001001",
+        "url": "94\/9401\/940115\/9401152001\/9401152001001.json",
+        "nama": "TPS 001, KUNUPI, MENOU, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940115",
+        "desa": "9401152003",
+        "tps": "9401152003001",
+        "url": "94\/9401\/940115\/9401152003\/9401152003001.json",
+        "nama": "TPS 001, LOKODIMI, MENOU, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940115",
+        "desa": "9401152003",
+        "tps": "9401152003002",
+        "url": "94\/9401\/940115\/9401152003\/9401152003002.json",
+        "nama": "TPS 002, LOKODIMI, MENOU, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940115",
+        "desa": "9401152002",
+        "tps": "9401152002001",
+        "url": "94\/9401\/940115\/9401152002\/9401152002001.json",
+        "nama": "TPS 001, OGIYAI, MENOU, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940115",
+        "desa": "9401152004",
+        "tps": "9401152004001",
+        "url": "94\/9401\/940115\/9401152004\/9401152004001.json",
+        "nama": "TPS 001, YEGEUGI, MENOU, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940113",
+        "desa": "9401132005",
+        "tps": "9401132005001",
+        "url": "94\/9401\/940113\/9401132005\/9401132005001.json",
+        "nama": "TPS 001, ARUI, MOORA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940113",
+        "desa": "9401132002",
+        "tps": "9401132002001",
+        "url": "94\/9401\/940113\/9401132002\/9401132002001.json",
+        "nama": "TPS 001, HARITI, MOORA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940113",
+        "desa": "9401132004",
+        "tps": "9401132004001",
+        "url": "94\/9401\/940113\/9401132004\/9401132004001.json",
+        "nama": "TPS 001, KAMA, MOORA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940113",
+        "desa": "9401132001",
+        "tps": "9401132001001",
+        "url": "94\/9401\/940113\/9401132001\/9401132001001.json",
+        "nama": "TPS 001, MAMBOR, MOORA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940113",
+        "desa": "9401132001",
+        "tps": "9401132001002",
+        "url": "94\/9401\/940113\/9401132001\/9401132001002.json",
+        "nama": "TPS 002, MAMBOR, MOORA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940113",
+        "desa": "9401132003",
+        "tps": "9401132003001",
+        "url": "94\/9401\/940113\/9401132003\/9401132003001.json",
+        "nama": "TPS 001, MOOR, MOORA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004001",
+        "url": "94\/9401\/940101\/9401011004\/9401011004001.json",
+        "nama": "TPS 001, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004002",
+        "url": "94\/9401\/940101\/9401011004\/9401011004002.json",
+        "nama": "TPS 002, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004003",
+        "url": "94\/9401\/940101\/9401011004\/9401011004003.json",
+        "nama": "TPS 003, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004004",
+        "url": "94\/9401\/940101\/9401011004\/9401011004004.json",
+        "nama": "TPS 004, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004005",
+        "url": "94\/9401\/940101\/9401011004\/9401011004005.json",
+        "nama": "TPS 005, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004006",
+        "url": "94\/9401\/940101\/9401011004\/9401011004006.json",
+        "nama": "TPS 006, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004007",
+        "url": "94\/9401\/940101\/9401011004\/9401011004007.json",
+        "nama": "TPS 007, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004008",
+        "url": "94\/9401\/940101\/9401011004\/9401011004008.json",
+        "nama": "TPS 008, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004009",
+        "url": "94\/9401\/940101\/9401011004\/9401011004009.json",
+        "nama": "TPS 009, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004010",
+        "url": "94\/9401\/940101\/9401011004\/9401011004010.json",
+        "nama": "TPS 010, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004011",
+        "url": "94\/9401\/940101\/9401011004\/9401011004011.json",
+        "nama": "TPS 011, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004012",
+        "url": "94\/9401\/940101\/9401011004\/9401011004012.json",
+        "nama": "TPS 012, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004013",
+        "url": "94\/9401\/940101\/9401011004\/9401011004013.json",
+        "nama": "TPS 013, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004014",
+        "url": "94\/9401\/940101\/9401011004\/9401011004014.json",
+        "nama": "TPS 014, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004015",
+        "url": "94\/9401\/940101\/9401011004\/9401011004015.json",
+        "nama": "TPS 015, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004016",
+        "url": "94\/9401\/940101\/9401011004\/9401011004016.json",
+        "nama": "TPS 016, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004017",
+        "url": "94\/9401\/940101\/9401011004\/9401011004017.json",
+        "nama": "TPS 017, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004018",
+        "url": "94\/9401\/940101\/9401011004\/9401011004018.json",
+        "nama": "TPS 018, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004019",
+        "url": "94\/9401\/940101\/9401011004\/9401011004019.json",
+        "nama": "TPS 019, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004020",
+        "url": "94\/9401\/940101\/9401011004\/9401011004020.json",
+        "nama": "TPS 020, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011004",
+        "tps": "9401011004021",
+        "url": "94\/9401\/940101\/9401011004\/9401011004021.json",
+        "nama": "TPS 021, GIRIMULYO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002001",
+        "url": "94\/9401\/940101\/9401011002\/9401011002001.json",
+        "nama": "TPS 001, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002002",
+        "url": "94\/9401\/940101\/9401011002\/9401011002002.json",
+        "nama": "TPS 002, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002003",
+        "url": "94\/9401\/940101\/9401011002\/9401011002003.json",
+        "nama": "TPS 003, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002004",
+        "url": "94\/9401\/940101\/9401011002\/9401011002004.json",
+        "nama": "TPS 004, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002005",
+        "url": "94\/9401\/940101\/9401011002\/9401011002005.json",
+        "nama": "TPS 005, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002006",
+        "url": "94\/9401\/940101\/9401011002\/9401011002006.json",
+        "nama": "TPS 006, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002007",
+        "url": "94\/9401\/940101\/9401011002\/9401011002007.json",
+        "nama": "TPS 007, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002008",
+        "url": "94\/9401\/940101\/9401011002\/9401011002008.json",
+        "nama": "TPS 008, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002009",
+        "url": "94\/9401\/940101\/9401011002\/9401011002009.json",
+        "nama": "TPS 009, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002010",
+        "url": "94\/9401\/940101\/9401011002\/9401011002010.json",
+        "nama": "TPS 010, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002011",
+        "url": "94\/9401\/940101\/9401011002\/9401011002011.json",
+        "nama": "TPS 011, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002012",
+        "url": "94\/9401\/940101\/9401011002\/9401011002012.json",
+        "nama": "TPS 012, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002013",
+        "url": "94\/9401\/940101\/9401011002\/9401011002013.json",
+        "nama": "TPS 013, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002014",
+        "url": "94\/9401\/940101\/9401011002\/9401011002014.json",
+        "nama": "TPS 014, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002015",
+        "url": "94\/9401\/940101\/9401011002\/9401011002015.json",
+        "nama": "TPS 015, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002016",
+        "url": "94\/9401\/940101\/9401011002\/9401011002016.json",
+        "nama": "TPS 016, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002017",
+        "url": "94\/9401\/940101\/9401011002\/9401011002017.json",
+        "nama": "TPS 017, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002018",
+        "url": "94\/9401\/940101\/9401011002\/9401011002018.json",
+        "nama": "TPS 018, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002019",
+        "url": "94\/9401\/940101\/9401011002\/9401011002019.json",
+        "nama": "TPS 019, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002020",
+        "url": "94\/9401\/940101\/9401011002\/9401011002020.json",
+        "nama": "TPS 020, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002021",
+        "url": "94\/9401\/940101\/9401011002\/9401011002021.json",
+        "nama": "TPS 021, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002022",
+        "url": "94\/9401\/940101\/9401011002\/9401011002022.json",
+        "nama": "TPS 022, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002023",
+        "url": "94\/9401\/940101\/9401011002\/9401011002023.json",
+        "nama": "TPS 023, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002024",
+        "url": "94\/9401\/940101\/9401011002\/9401011002024.json",
+        "nama": "TPS 024, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002025",
+        "url": "94\/9401\/940101\/9401011002\/9401011002025.json",
+        "nama": "TPS 025, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002026",
+        "url": "94\/9401\/940101\/9401011002\/9401011002026.json",
+        "nama": "TPS 026, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002027",
+        "url": "94\/9401\/940101\/9401011002\/9401011002027.json",
+        "nama": "TPS 027, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002028",
+        "url": "94\/9401\/940101\/9401011002\/9401011002028.json",
+        "nama": "TPS 028, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002029",
+        "url": "94\/9401\/940101\/9401011002\/9401011002029.json",
+        "nama": "TPS 029, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002030",
+        "url": "94\/9401\/940101\/9401011002\/9401011002030.json",
+        "nama": "TPS 030, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002031",
+        "url": "94\/9401\/940101\/9401011002\/9401011002031.json",
+        "nama": "TPS 031, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002032",
+        "url": "94\/9401\/940101\/9401011002\/9401011002032.json",
+        "nama": "TPS 032, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002033",
+        "url": "94\/9401\/940101\/9401011002\/9401011002033.json",
+        "nama": "TPS 033, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002034",
+        "url": "94\/9401\/940101\/9401011002\/9401011002034.json",
+        "nama": "TPS 034, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011002",
+        "tps": "9401011002035",
+        "url": "94\/9401\/940101\/9401011002\/9401011002035.json",
+        "nama": "TPS 035, KALI BOBO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011001",
+        "url": "94\/9401\/940101\/9401012011\/9401012011001.json",
+        "nama": "TPS 001, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011002",
+        "url": "94\/9401\/940101\/9401012011\/9401012011002.json",
+        "nama": "TPS 002, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011003",
+        "url": "94\/9401\/940101\/9401012011\/9401012011003.json",
+        "nama": "TPS 003, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011004",
+        "url": "94\/9401\/940101\/9401012011\/9401012011004.json",
+        "nama": "TPS 004, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011005",
+        "url": "94\/9401\/940101\/9401012011\/9401012011005.json",
+        "nama": "TPS 005, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011006",
+        "url": "94\/9401\/940101\/9401012011\/9401012011006.json",
+        "nama": "TPS 006, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011007",
+        "url": "94\/9401\/940101\/9401012011\/9401012011007.json",
+        "nama": "TPS 007, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011008",
+        "url": "94\/9401\/940101\/9401012011\/9401012011008.json",
+        "nama": "TPS 008, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011009",
+        "url": "94\/9401\/940101\/9401012011\/9401012011009.json",
+        "nama": "TPS 009, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012011",
+        "tps": "9401012011010",
+        "url": "94\/9401\/940101\/9401012011\/9401012011010.json",
+        "nama": "TPS 010, KALI HARAPAN, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010001",
+        "url": "94\/9401\/940101\/9401012010\/9401012010001.json",
+        "nama": "TPS 001, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010002",
+        "url": "94\/9401\/940101\/9401012010\/9401012010002.json",
+        "nama": "TPS 002, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010003",
+        "url": "94\/9401\/940101\/9401012010\/9401012010003.json",
+        "nama": "TPS 003, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010004",
+        "url": "94\/9401\/940101\/9401012010\/9401012010004.json",
+        "nama": "TPS 004, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010005",
+        "url": "94\/9401\/940101\/9401012010\/9401012010005.json",
+        "nama": "TPS 005, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010006",
+        "url": "94\/9401\/940101\/9401012010\/9401012010006.json",
+        "nama": "TPS 006, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010007",
+        "url": "94\/9401\/940101\/9401012010\/9401012010007.json",
+        "nama": "TPS 007, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010008",
+        "url": "94\/9401\/940101\/9401012010\/9401012010008.json",
+        "nama": "TPS 008, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010009",
+        "url": "94\/9401\/940101\/9401012010\/9401012010009.json",
+        "nama": "TPS 009, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012010",
+        "tps": "9401012010010",
+        "url": "94\/9401\/940101\/9401012010\/9401012010010.json",
+        "nama": "TPS 010, KALISUSU, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007001",
+        "url": "94\/9401\/940101\/9401011007\/9401011007001.json",
+        "nama": "TPS 001, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007002",
+        "url": "94\/9401\/940101\/9401011007\/9401011007002.json",
+        "nama": "TPS 002, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007003",
+        "url": "94\/9401\/940101\/9401011007\/9401011007003.json",
+        "nama": "TPS 003, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007004",
+        "url": "94\/9401\/940101\/9401011007\/9401011007004.json",
+        "nama": "TPS 004, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007005",
+        "url": "94\/9401\/940101\/9401011007\/9401011007005.json",
+        "nama": "TPS 005, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007006",
+        "url": "94\/9401\/940101\/9401011007\/9401011007006.json",
+        "nama": "TPS 006, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007007",
+        "url": "94\/9401\/940101\/9401011007\/9401011007007.json",
+        "nama": "TPS 007, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007008",
+        "url": "94\/9401\/940101\/9401011007\/9401011007008.json",
+        "nama": "TPS 008, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007009",
+        "url": "94\/9401\/940101\/9401011007\/9401011007009.json",
+        "nama": "TPS 009, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007010",
+        "url": "94\/9401\/940101\/9401011007\/9401011007010.json",
+        "nama": "TPS 010, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007011",
+        "url": "94\/9401\/940101\/9401011007\/9401011007011.json",
+        "nama": "TPS 011, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007012",
+        "url": "94\/9401\/940101\/9401011007\/9401011007012.json",
+        "nama": "TPS 012, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007013",
+        "url": "94\/9401\/940101\/9401011007\/9401011007013.json",
+        "nama": "TPS 013, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007014",
+        "url": "94\/9401\/940101\/9401011007\/9401011007014.json",
+        "nama": "TPS 014, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007015",
+        "url": "94\/9401\/940101\/9401011007\/9401011007015.json",
+        "nama": "TPS 015, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007016",
+        "url": "94\/9401\/940101\/9401011007\/9401011007016.json",
+        "nama": "TPS 016, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007017",
+        "url": "94\/9401\/940101\/9401011007\/9401011007017.json",
+        "nama": "TPS 017, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007018",
+        "url": "94\/9401\/940101\/9401011007\/9401011007018.json",
+        "nama": "TPS 018, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007019",
+        "url": "94\/9401\/940101\/9401011007\/9401011007019.json",
+        "nama": "TPS 019, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007020",
+        "url": "94\/9401\/940101\/9401011007\/9401011007020.json",
+        "nama": "TPS 020, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007021",
+        "url": "94\/9401\/940101\/9401011007\/9401011007021.json",
+        "nama": "TPS 021, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007022",
+        "url": "94\/9401\/940101\/9401011007\/9401011007022.json",
+        "nama": "TPS 022, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011007",
+        "tps": "9401011007023",
+        "url": "94\/9401\/940101\/9401011007\/9401011007023.json",
+        "nama": "TPS 023, KARANG MULIA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005001",
+        "url": "94\/9401\/940101\/9401011005\/9401011005001.json",
+        "nama": "TPS 001, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005002",
+        "url": "94\/9401\/940101\/9401011005\/9401011005002.json",
+        "nama": "TPS 002, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005003",
+        "url": "94\/9401\/940101\/9401011005\/9401011005003.json",
+        "nama": "TPS 003, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005004",
+        "url": "94\/9401\/940101\/9401011005\/9401011005004.json",
+        "nama": "TPS 004, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005005",
+        "url": "94\/9401\/940101\/9401011005\/9401011005005.json",
+        "nama": "TPS 005, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005006",
+        "url": "94\/9401\/940101\/9401011005\/9401011005006.json",
+        "nama": "TPS 006, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005007",
+        "url": "94\/9401\/940101\/9401011005\/9401011005007.json",
+        "nama": "TPS 007, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005008",
+        "url": "94\/9401\/940101\/9401011005\/9401011005008.json",
+        "nama": "TPS 008, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005009",
+        "url": "94\/9401\/940101\/9401011005\/9401011005009.json",
+        "nama": "TPS 009, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005010",
+        "url": "94\/9401\/940101\/9401011005\/9401011005010.json",
+        "nama": "TPS 010, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005011",
+        "url": "94\/9401\/940101\/9401011005\/9401011005011.json",
+        "nama": "TPS 011, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005012",
+        "url": "94\/9401\/940101\/9401011005\/9401011005012.json",
+        "nama": "TPS 012, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005013",
+        "url": "94\/9401\/940101\/9401011005\/9401011005013.json",
+        "nama": "TPS 013, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005014",
+        "url": "94\/9401\/940101\/9401011005\/9401011005014.json",
+        "nama": "TPS 014, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005015",
+        "url": "94\/9401\/940101\/9401011005\/9401011005015.json",
+        "nama": "TPS 015, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005016",
+        "url": "94\/9401\/940101\/9401011005\/9401011005016.json",
+        "nama": "TPS 016, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005017",
+        "url": "94\/9401\/940101\/9401011005\/9401011005017.json",
+        "nama": "TPS 017, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005018",
+        "url": "94\/9401\/940101\/9401011005\/9401011005018.json",
+        "nama": "TPS 018, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005019",
+        "url": "94\/9401\/940101\/9401011005\/9401011005019.json",
+        "nama": "TPS 019, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011005",
+        "tps": "9401011005020",
+        "url": "94\/9401\/940101\/9401011005\/9401011005020.json",
+        "nama": "TPS 020, KARANG TUMARITIS, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003001",
+        "url": "94\/9401\/940101\/9401011003\/9401011003001.json",
+        "nama": "TPS 001, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003002",
+        "url": "94\/9401\/940101\/9401011003\/9401011003002.json",
+        "nama": "TPS 002, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003003",
+        "url": "94\/9401\/940101\/9401011003\/9401011003003.json",
+        "nama": "TPS 003, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003004",
+        "url": "94\/9401\/940101\/9401011003\/9401011003004.json",
+        "nama": "TPS 004, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003005",
+        "url": "94\/9401\/940101\/9401011003\/9401011003005.json",
+        "nama": "TPS 005, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003006",
+        "url": "94\/9401\/940101\/9401011003\/9401011003006.json",
+        "nama": "TPS 006, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003007",
+        "url": "94\/9401\/940101\/9401011003\/9401011003007.json",
+        "nama": "TPS 007, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003008",
+        "url": "94\/9401\/940101\/9401011003\/9401011003008.json",
+        "nama": "TPS 008, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003009",
+        "url": "94\/9401\/940101\/9401011003\/9401011003009.json",
+        "nama": "TPS 009, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003010",
+        "url": "94\/9401\/940101\/9401011003\/9401011003010.json",
+        "nama": "TPS 010, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003011",
+        "url": "94\/9401\/940101\/9401011003\/9401011003011.json",
+        "nama": "TPS 011, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011003",
+        "tps": "9401011003012",
+        "url": "94\/9401\/940101\/9401011003\/9401011003012.json",
+        "nama": "TPS 012, MORGO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008001",
+        "url": "94\/9401\/940101\/9401011008\/9401011008001.json",
+        "nama": "TPS 001, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008002",
+        "url": "94\/9401\/940101\/9401011008\/9401011008002.json",
+        "nama": "TPS 002, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008003",
+        "url": "94\/9401\/940101\/9401011008\/9401011008003.json",
+        "nama": "TPS 003, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008004",
+        "url": "94\/9401\/940101\/9401011008\/9401011008004.json",
+        "nama": "TPS 004, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008005",
+        "url": "94\/9401\/940101\/9401011008\/9401011008005.json",
+        "nama": "TPS 005, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008006",
+        "url": "94\/9401\/940101\/9401011008\/9401011008006.json",
+        "nama": "TPS 006, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008007",
+        "url": "94\/9401\/940101\/9401011008\/9401011008007.json",
+        "nama": "TPS 007, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008008",
+        "url": "94\/9401\/940101\/9401011008\/9401011008008.json",
+        "nama": "TPS 008, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008009",
+        "url": "94\/9401\/940101\/9401011008\/9401011008009.json",
+        "nama": "TPS 009, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008010",
+        "url": "94\/9401\/940101\/9401011008\/9401011008010.json",
+        "nama": "TPS 010, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008011",
+        "url": "94\/9401\/940101\/9401011008\/9401011008011.json",
+        "nama": "TPS 011, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008012",
+        "url": "94\/9401\/940101\/9401011008\/9401011008012.json",
+        "nama": "TPS 012, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008013",
+        "url": "94\/9401\/940101\/9401011008\/9401011008013.json",
+        "nama": "TPS 013, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008014",
+        "url": "94\/9401\/940101\/9401011008\/9401011008014.json",
+        "nama": "TPS 014, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008015",
+        "url": "94\/9401\/940101\/9401011008\/9401011008015.json",
+        "nama": "TPS 015, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008016",
+        "url": "94\/9401\/940101\/9401011008\/9401011008016.json",
+        "nama": "TPS 016, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008017",
+        "url": "94\/9401\/940101\/9401011008\/9401011008017.json",
+        "nama": "TPS 017, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008018",
+        "url": "94\/9401\/940101\/9401011008\/9401011008018.json",
+        "nama": "TPS 018, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008019",
+        "url": "94\/9401\/940101\/9401011008\/9401011008019.json",
+        "nama": "TPS 019, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008020",
+        "url": "94\/9401\/940101\/9401011008\/9401011008020.json",
+        "nama": "TPS 020, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008021",
+        "url": "94\/9401\/940101\/9401011008\/9401011008021.json",
+        "nama": "TPS 021, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008022",
+        "url": "94\/9401\/940101\/9401011008\/9401011008022.json",
+        "nama": "TPS 022, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008023",
+        "url": "94\/9401\/940101\/9401011008\/9401011008023.json",
+        "nama": "TPS 023, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008024",
+        "url": "94\/9401\/940101\/9401011008\/9401011008024.json",
+        "nama": "TPS 024, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008025",
+        "url": "94\/9401\/940101\/9401011008\/9401011008025.json",
+        "nama": "TPS 025, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008026",
+        "url": "94\/9401\/940101\/9401011008\/9401011008026.json",
+        "nama": "TPS 026, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008027",
+        "url": "94\/9401\/940101\/9401011008\/9401011008027.json",
+        "nama": "TPS 027, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008028",
+        "url": "94\/9401\/940101\/9401011008\/9401011008028.json",
+        "nama": "TPS 028, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008029",
+        "url": "94\/9401\/940101\/9401011008\/9401011008029.json",
+        "nama": "TPS 029, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008030",
+        "url": "94\/9401\/940101\/9401011008\/9401011008030.json",
+        "nama": "TPS 030, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011008",
+        "tps": "9401011008901",
+        "url": "94\/9401\/940101\/9401011008\/9401011008901.json",
+        "nama": "TPS 901, NABARUA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006001",
+        "url": "94\/9401\/940101\/9401011006\/9401011006001.json",
+        "nama": "TPS 001, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006002",
+        "url": "94\/9401\/940101\/9401011006\/9401011006002.json",
+        "nama": "TPS 002, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006003",
+        "url": "94\/9401\/940101\/9401011006\/9401011006003.json",
+        "nama": "TPS 003, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006004",
+        "url": "94\/9401\/940101\/9401011006\/9401011006004.json",
+        "nama": "TPS 004, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006005",
+        "url": "94\/9401\/940101\/9401011006\/9401011006005.json",
+        "nama": "TPS 005, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006006",
+        "url": "94\/9401\/940101\/9401011006\/9401011006006.json",
+        "nama": "TPS 006, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006007",
+        "url": "94\/9401\/940101\/9401011006\/9401011006007.json",
+        "nama": "TPS 007, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006008",
+        "url": "94\/9401\/940101\/9401011006\/9401011006008.json",
+        "nama": "TPS 008, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006009",
+        "url": "94\/9401\/940101\/9401011006\/9401011006009.json",
+        "nama": "TPS 009, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006010",
+        "url": "94\/9401\/940101\/9401011006\/9401011006010.json",
+        "nama": "TPS 010, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006011",
+        "url": "94\/9401\/940101\/9401011006\/9401011006011.json",
+        "nama": "TPS 011, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006012",
+        "url": "94\/9401\/940101\/9401011006\/9401011006012.json",
+        "nama": "TPS 012, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011006",
+        "tps": "9401011006013",
+        "url": "94\/9401\/940101\/9401011006\/9401011006013.json",
+        "nama": "TPS 013, OYEHE, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012001",
+        "url": "94\/9401\/940101\/9401012012\/9401012012001.json",
+        "nama": "TPS 001, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012002",
+        "url": "94\/9401\/940101\/9401012012\/9401012012002.json",
+        "nama": "TPS 002, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012003",
+        "url": "94\/9401\/940101\/9401012012\/9401012012003.json",
+        "nama": "TPS 003, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012004",
+        "url": "94\/9401\/940101\/9401012012\/9401012012004.json",
+        "nama": "TPS 004, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012005",
+        "url": "94\/9401\/940101\/9401012012\/9401012012005.json",
+        "nama": "TPS 005, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012006",
+        "url": "94\/9401\/940101\/9401012012\/9401012012006.json",
+        "nama": "TPS 006, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012007",
+        "url": "94\/9401\/940101\/9401012012\/9401012012007.json",
+        "nama": "TPS 007, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012008",
+        "url": "94\/9401\/940101\/9401012012\/9401012012008.json",
+        "nama": "TPS 008, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012009",
+        "url": "94\/9401\/940101\/9401012012\/9401012012009.json",
+        "nama": "TPS 009, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012010",
+        "url": "94\/9401\/940101\/9401012012\/9401012012010.json",
+        "nama": "TPS 010, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012011",
+        "url": "94\/9401\/940101\/9401012012\/9401012012011.json",
+        "nama": "TPS 011, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012012",
+        "url": "94\/9401\/940101\/9401012012\/9401012012012.json",
+        "nama": "TPS 012, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012013",
+        "url": "94\/9401\/940101\/9401012012\/9401012012013.json",
+        "nama": "TPS 013, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012014",
+        "url": "94\/9401\/940101\/9401012012\/9401012012014.json",
+        "nama": "TPS 014, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401012012",
+        "tps": "9401012012015",
+        "url": "94\/9401\/940101\/9401012012\/9401012012015.json",
+        "nama": "TPS 015, SANOBA, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009001",
+        "url": "94\/9401\/940101\/9401011009\/9401011009001.json",
+        "nama": "TPS 001, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009002",
+        "url": "94\/9401\/940101\/9401011009\/9401011009002.json",
+        "nama": "TPS 002, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009003",
+        "url": "94\/9401\/940101\/9401011009\/9401011009003.json",
+        "nama": "TPS 003, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009004",
+        "url": "94\/9401\/940101\/9401011009\/9401011009004.json",
+        "nama": "TPS 004, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009005",
+        "url": "94\/9401\/940101\/9401011009\/9401011009005.json",
+        "nama": "TPS 005, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009006",
+        "url": "94\/9401\/940101\/9401011009\/9401011009006.json",
+        "nama": "TPS 006, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009007",
+        "url": "94\/9401\/940101\/9401011009\/9401011009007.json",
+        "nama": "TPS 007, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009008",
+        "url": "94\/9401\/940101\/9401011009\/9401011009008.json",
+        "nama": "TPS 008, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009009",
+        "url": "94\/9401\/940101\/9401011009\/9401011009009.json",
+        "nama": "TPS 009, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009010",
+        "url": "94\/9401\/940101\/9401011009\/9401011009010.json",
+        "nama": "TPS 010, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009011",
+        "url": "94\/9401\/940101\/9401011009\/9401011009011.json",
+        "nama": "TPS 011, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009012",
+        "url": "94\/9401\/940101\/9401011009\/9401011009012.json",
+        "nama": "TPS 012, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009013",
+        "url": "94\/9401\/940101\/9401011009\/9401011009013.json",
+        "nama": "TPS 013, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009014",
+        "url": "94\/9401\/940101\/9401011009\/9401011009014.json",
+        "nama": "TPS 014, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009015",
+        "url": "94\/9401\/940101\/9401011009\/9401011009015.json",
+        "nama": "TPS 015, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009016",
+        "url": "94\/9401\/940101\/9401011009\/9401011009016.json",
+        "nama": "TPS 016, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009017",
+        "url": "94\/9401\/940101\/9401011009\/9401011009017.json",
+        "nama": "TPS 017, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009018",
+        "url": "94\/9401\/940101\/9401011009\/9401011009018.json",
+        "nama": "TPS 018, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009019",
+        "url": "94\/9401\/940101\/9401011009\/9401011009019.json",
+        "nama": "TPS 019, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009020",
+        "url": "94\/9401\/940101\/9401011009\/9401011009020.json",
+        "nama": "TPS 020, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009021",
+        "url": "94\/9401\/940101\/9401011009\/9401011009021.json",
+        "nama": "TPS 021, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009022",
+        "url": "94\/9401\/940101\/9401011009\/9401011009022.json",
+        "nama": "TPS 022, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009023",
+        "url": "94\/9401\/940101\/9401011009\/9401011009023.json",
+        "nama": "TPS 023, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009024",
+        "url": "94\/9401\/940101\/9401011009\/9401011009024.json",
+        "nama": "TPS 024, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009025",
+        "url": "94\/9401\/940101\/9401011009\/9401011009025.json",
+        "nama": "TPS 025, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009026",
+        "url": "94\/9401\/940101\/9401011009\/9401011009026.json",
+        "nama": "TPS 026, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009027",
+        "url": "94\/9401\/940101\/9401011009\/9401011009027.json",
+        "nama": "TPS 027, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009028",
+        "url": "94\/9401\/940101\/9401011009\/9401011009028.json",
+        "nama": "TPS 028, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009029",
+        "url": "94\/9401\/940101\/9401011009\/9401011009029.json",
+        "nama": "TPS 029, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009030",
+        "url": "94\/9401\/940101\/9401011009\/9401011009030.json",
+        "nama": "TPS 030, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009031",
+        "url": "94\/9401\/940101\/9401011009\/9401011009031.json",
+        "nama": "TPS 031, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009032",
+        "url": "94\/9401\/940101\/9401011009\/9401011009032.json",
+        "nama": "TPS 032, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009033",
+        "url": "94\/9401\/940101\/9401011009\/9401011009033.json",
+        "nama": "TPS 033, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009034",
+        "url": "94\/9401\/940101\/9401011009\/9401011009034.json",
+        "nama": "TPS 034, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009035",
+        "url": "94\/9401\/940101\/9401011009\/9401011009035.json",
+        "nama": "TPS 035, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011009",
+        "tps": "9401011009036",
+        "url": "94\/9401\/940101\/9401011009\/9401011009036.json",
+        "nama": "TPS 036, SIRIWINI, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001001",
+        "url": "94\/9401\/940101\/9401011001\/9401011001001.json",
+        "nama": "TPS 001, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001002",
+        "url": "94\/9401\/940101\/9401011001\/9401011001002.json",
+        "nama": "TPS 002, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001003",
+        "url": "94\/9401\/940101\/9401011001\/9401011001003.json",
+        "nama": "TPS 003, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001004",
+        "url": "94\/9401\/940101\/9401011001\/9401011001004.json",
+        "nama": "TPS 004, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001005",
+        "url": "94\/9401\/940101\/9401011001\/9401011001005.json",
+        "nama": "TPS 005, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001006",
+        "url": "94\/9401\/940101\/9401011001\/9401011001006.json",
+        "nama": "TPS 006, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001007",
+        "url": "94\/9401\/940101\/9401011001\/9401011001007.json",
+        "nama": "TPS 007, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001008",
+        "url": "94\/9401\/940101\/9401011001\/9401011001008.json",
+        "nama": "TPS 008, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001009",
+        "url": "94\/9401\/940101\/9401011001\/9401011001009.json",
+        "nama": "TPS 009, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001010",
+        "url": "94\/9401\/940101\/9401011001\/9401011001010.json",
+        "nama": "TPS 010, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001011",
+        "url": "94\/9401\/940101\/9401011001\/9401011001011.json",
+        "nama": "TPS 011, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001012",
+        "url": "94\/9401\/940101\/9401011001\/9401011001012.json",
+        "nama": "TPS 012, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001013",
+        "url": "94\/9401\/940101\/9401011001\/9401011001013.json",
+        "nama": "TPS 013, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001014",
+        "url": "94\/9401\/940101\/9401011001\/9401011001014.json",
+        "nama": "TPS 014, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001015",
+        "url": "94\/9401\/940101\/9401011001\/9401011001015.json",
+        "nama": "TPS 015, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001016",
+        "url": "94\/9401\/940101\/9401011001\/9401011001016.json",
+        "nama": "TPS 016, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001017",
+        "url": "94\/9401\/940101\/9401011001\/9401011001017.json",
+        "nama": "TPS 017, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001018",
+        "url": "94\/9401\/940101\/9401011001\/9401011001018.json",
+        "nama": "TPS 018, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001019",
+        "url": "94\/9401\/940101\/9401011001\/9401011001019.json",
+        "nama": "TPS 019, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001020",
+        "url": "94\/9401\/940101\/9401011001\/9401011001020.json",
+        "nama": "TPS 020, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001021",
+        "url": "94\/9401\/940101\/9401011001\/9401011001021.json",
+        "nama": "TPS 021, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940101",
+        "desa": "9401011001",
+        "tps": "9401011001022",
+        "url": "94\/9401\/940101\/9401011001\/9401011001022.json",
+        "nama": "TPS 022, WONOREJO, NABIRE, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001001",
+        "url": "94\/9401\/940112\/9401122001\/9401122001001.json",
+        "nama": "TPS 001, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001002",
+        "url": "94\/9401\/940112\/9401122001\/9401122001002.json",
+        "nama": "TPS 002, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001003",
+        "url": "94\/9401\/940112\/9401122001\/9401122001003.json",
+        "nama": "TPS 003, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001004",
+        "url": "94\/9401\/940112\/9401122001\/9401122001004.json",
+        "nama": "TPS 004, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001005",
+        "url": "94\/9401\/940112\/9401122001\/9401122001005.json",
+        "nama": "TPS 005, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001006",
+        "url": "94\/9401\/940112\/9401122001\/9401122001006.json",
+        "nama": "TPS 006, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001007",
+        "url": "94\/9401\/940112\/9401122001\/9401122001007.json",
+        "nama": "TPS 007, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001008",
+        "url": "94\/9401\/940112\/9401122001\/9401122001008.json",
+        "nama": "TPS 008, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001009",
+        "url": "94\/9401\/940112\/9401122001\/9401122001009.json",
+        "nama": "TPS 009, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001010",
+        "url": "94\/9401\/940112\/9401122001\/9401122001010.json",
+        "nama": "TPS 010, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001011",
+        "url": "94\/9401\/940112\/9401122001\/9401122001011.json",
+        "nama": "TPS 011, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001012",
+        "url": "94\/9401\/940112\/9401122001\/9401122001012.json",
+        "nama": "TPS 012, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001013",
+        "url": "94\/9401\/940112\/9401122001\/9401122001013.json",
+        "nama": "TPS 013, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122001",
+        "tps": "9401122001014",
+        "url": "94\/9401\/940112\/9401122001\/9401122001014.json",
+        "nama": "TPS 014, BUMI RAYA, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122003",
+        "tps": "9401122003001",
+        "url": "94\/9401\/940112\/9401122003\/9401122003001.json",
+        "nama": "TPS 001, GERBANG SADU, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122003",
+        "tps": "9401122003002",
+        "url": "94\/9401\/940112\/9401122003\/9401122003002.json",
+        "nama": "TPS 002, GERBANG SADU, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122003",
+        "tps": "9401122003003",
+        "url": "94\/9401\/940112\/9401122003\/9401122003003.json",
+        "nama": "TPS 003, GERBANG SADU, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122003",
+        "tps": "9401122003004",
+        "url": "94\/9401\/940112\/9401122003\/9401122003004.json",
+        "nama": "TPS 004, GERBANG SADU, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122003",
+        "tps": "9401122003005",
+        "url": "94\/9401\/940112\/9401122003\/9401122003005.json",
+        "nama": "TPS 005, GERBANG SADU, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004001",
+        "url": "94\/9401\/940112\/9401122004\/9401122004001.json",
+        "nama": "TPS 001, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004002",
+        "url": "94\/9401\/940112\/9401122004\/9401122004002.json",
+        "nama": "TPS 002, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004003",
+        "url": "94\/9401\/940112\/9401122004\/9401122004003.json",
+        "nama": "TPS 003, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004004",
+        "url": "94\/9401\/940112\/9401122004\/9401122004004.json",
+        "nama": "TPS 004, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004005",
+        "url": "94\/9401\/940112\/9401122004\/9401122004005.json",
+        "nama": "TPS 005, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004006",
+        "url": "94\/9401\/940112\/9401122004\/9401122004006.json",
+        "nama": "TPS 006, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004007",
+        "url": "94\/9401\/940112\/9401122004\/9401122004007.json",
+        "nama": "TPS 007, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004008",
+        "url": "94\/9401\/940112\/9401122004\/9401122004008.json",
+        "nama": "TPS 008, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004009",
+        "url": "94\/9401\/940112\/9401122004\/9401122004009.json",
+        "nama": "TPS 009, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004010",
+        "url": "94\/9401\/940112\/9401122004\/9401122004010.json",
+        "nama": "TPS 010, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004011",
+        "url": "94\/9401\/940112\/9401122004\/9401122004011.json",
+        "nama": "TPS 011, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004012",
+        "url": "94\/9401\/940112\/9401122004\/9401122004012.json",
+        "nama": "TPS 012, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004013",
+        "url": "94\/9401\/940112\/9401122004\/9401122004013.json",
+        "nama": "TPS 013, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004014",
+        "url": "94\/9401\/940112\/9401122004\/9401122004014.json",
+        "nama": "TPS 014, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004015",
+        "url": "94\/9401\/940112\/9401122004\/9401122004015.json",
+        "nama": "TPS 015, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004016",
+        "url": "94\/9401\/940112\/9401122004\/9401122004016.json",
+        "nama": "TPS 016, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004017",
+        "url": "94\/9401\/940112\/9401122004\/9401122004017.json",
+        "nama": "TPS 017, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004018",
+        "url": "94\/9401\/940112\/9401122004\/9401122004018.json",
+        "nama": "TPS 018, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122004",
+        "tps": "9401122004019",
+        "url": "94\/9401\/940112\/9401122004\/9401122004019.json",
+        "nama": "TPS 019, KALI SEMEN, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122005",
+        "tps": "9401122005001",
+        "url": "94\/9401\/940112\/9401122005\/9401122005001.json",
+        "nama": "TPS 001, WADIO, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122005",
+        "tps": "9401122005002",
+        "url": "94\/9401\/940112\/9401122005\/9401122005002.json",
+        "nama": "TPS 002, WADIO, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122005",
+        "tps": "9401122005003",
+        "url": "94\/9401\/940112\/9401122005\/9401122005003.json",
+        "nama": "TPS 003, WADIO, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122005",
+        "tps": "9401122005004",
+        "url": "94\/9401\/940112\/9401122005\/9401122005004.json",
+        "nama": "TPS 004, WADIO, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122005",
+        "tps": "9401122005005",
+        "url": "94\/9401\/940112\/9401122005\/9401122005005.json",
+        "nama": "TPS 005, WADIO, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122005",
+        "tps": "9401122005006",
+        "url": "94\/9401\/940112\/9401122005\/9401122005006.json",
+        "nama": "TPS 006, WADIO, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122005",
+        "tps": "9401122005007",
+        "url": "94\/9401\/940112\/9401122005\/9401122005007.json",
+        "nama": "TPS 007, WADIO, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122002",
+        "tps": "9401122002001",
+        "url": "94\/9401\/940112\/9401122002\/9401122002001.json",
+        "nama": "TPS 001, WAROKI, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122002",
+        "tps": "9401122002002",
+        "url": "94\/9401\/940112\/9401122002\/9401122002002.json",
+        "nama": "TPS 002, WAROKI, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122002",
+        "tps": "9401122002003",
+        "url": "94\/9401\/940112\/9401122002\/9401122002003.json",
+        "nama": "TPS 003, WAROKI, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122002",
+        "tps": "9401122002004",
+        "url": "94\/9401\/940112\/9401122002\/9401122002004.json",
+        "nama": "TPS 004, WAROKI, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122002",
+        "tps": "9401122002005",
+        "url": "94\/9401\/940112\/9401122002\/9401122002005.json",
+        "nama": "TPS 005, WAROKI, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940112",
+        "desa": "9401122002",
+        "tps": "9401122002006",
+        "url": "94\/9401\/940112\/9401122002\/9401122002006.json",
+        "nama": "TPS 006, WAROKI, NABIRE BARAT, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940102",
+        "desa": "9401022002",
+        "tps": "9401022002001",
+        "url": "94\/9401\/940102\/9401022002\/9401022002001.json",
+        "nama": "TPS 001, MASIPAWA, NAPAN, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940102",
+        "desa": "9401022001",
+        "tps": "9401022001001",
+        "url": "94\/9401\/940102\/9401022001\/9401022001001.json",
+        "nama": "TPS 001, NAPAN, NAPAN, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940102",
+        "desa": "9401022001",
+        "tps": "9401022001002",
+        "url": "94\/9401\/940102\/9401022001\/9401022001002.json",
+        "nama": "TPS 002, NAPAN, NAPAN, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940102",
+        "desa": "9401022003",
+        "tps": "9401022003001",
+        "url": "94\/9401\/940102\/9401022003\/9401022003001.json",
+        "nama": "TPS 001, WEINAMI, NAPAN, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940102",
+        "desa": "9401022003",
+        "tps": "9401022003002",
+        "url": "94\/9401\/940102\/9401022003\/9401022003002.json",
+        "nama": "TPS 002, WEINAMI, NAPAN, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062002",
+        "tps": "9401062002001",
+        "url": "94\/9401\/940106\/9401062002\/9401062002001.json",
+        "nama": "TPS 001, AIBORE, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062002",
+        "tps": "9401062002002",
+        "url": "94\/9401\/940106\/9401062002\/9401062002002.json",
+        "nama": "TPS 002, AIBORE, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062003",
+        "tps": "9401062003001",
+        "url": "94\/9401\/940106\/9401062003\/9401062003001.json",
+        "nama": "TPS 001, EPOMANI, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062003",
+        "tps": "9401062003002",
+        "url": "94\/9401\/940106\/9401062003\/9401062003002.json",
+        "nama": "TPS 002, EPOMANI, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062005",
+        "tps": "9401062005001",
+        "url": "94\/9401\/940106\/9401062005\/9401062005001.json",
+        "nama": "TPS 001, MABOU, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062004",
+        "tps": "9401062004001",
+        "url": "94\/9401\/940106\/9401062004\/9401062004001.json",
+        "nama": "TPS 001, TIBAI, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062006",
+        "tps": "9401062006001",
+        "url": "94\/9401\/940106\/9401062006\/9401062006001.json",
+        "nama": "TPS 001, UGIDA, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062006",
+        "tps": "9401062006002",
+        "url": "94\/9401\/940106\/9401062006\/9401062006002.json",
+        "nama": "TPS 002, UGIDA, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062001",
+        "tps": "9401062001001",
+        "url": "94\/9401\/940106\/9401062001\/9401062001001.json",
+        "nama": "TPS 001, UNIPO, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940106",
+        "desa": "9401062001",
+        "tps": "9401062001002",
+        "url": "94\/9401\/940106\/9401062001\/9401062001002.json",
+        "nama": "TPS 002, UNIPO, SIRIWO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092005",
+        "tps": "9401092005001",
+        "url": "94\/9401\/940109\/9401092005\/9401092005001.json",
+        "nama": "TPS 001, AIR MANDIDI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092005",
+        "tps": "9401092005002",
+        "url": "94\/9401\/940109\/9401092005\/9401092005002.json",
+        "nama": "TPS 002, AIR MANDIDI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092005",
+        "tps": "9401092005003",
+        "url": "94\/9401\/940109\/9401092005\/9401092005003.json",
+        "nama": "TPS 003, AIR MANDIDI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092005",
+        "tps": "9401092005004",
+        "url": "94\/9401\/940109\/9401092005\/9401092005004.json",
+        "nama": "TPS 004, AIR MANDIDI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092005",
+        "tps": "9401092005005",
+        "url": "94\/9401\/940109\/9401092005\/9401092005005.json",
+        "nama": "TPS 005, AIR MANDIDI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092005",
+        "tps": "9401092005006",
+        "url": "94\/9401\/940109\/9401092005\/9401092005006.json",
+        "nama": "TPS 006, AIR MANDIDI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092005",
+        "tps": "9401092005007",
+        "url": "94\/9401\/940109\/9401092005\/9401092005007.json",
+        "nama": "TPS 007, AIR MANDIDI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003001",
+        "url": "94\/9401\/940109\/9401092003\/9401092003001.json",
+        "nama": "TPS 001, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003002",
+        "url": "94\/9401\/940109\/9401092003\/9401092003002.json",
+        "nama": "TPS 002, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003003",
+        "url": "94\/9401\/940109\/9401092003\/9401092003003.json",
+        "nama": "TPS 003, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003004",
+        "url": "94\/9401\/940109\/9401092003\/9401092003004.json",
+        "nama": "TPS 004, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003005",
+        "url": "94\/9401\/940109\/9401092003\/9401092003005.json",
+        "nama": "TPS 005, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003006",
+        "url": "94\/9401\/940109\/9401092003\/9401092003006.json",
+        "nama": "TPS 006, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003007",
+        "url": "94\/9401\/940109\/9401092003\/9401092003007.json",
+        "nama": "TPS 007, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003008",
+        "url": "94\/9401\/940109\/9401092003\/9401092003008.json",
+        "nama": "TPS 008, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003009",
+        "url": "94\/9401\/940109\/9401092003\/9401092003009.json",
+        "nama": "TPS 009, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092003",
+        "tps": "9401092003010",
+        "url": "94\/9401\/940109\/9401092003\/9401092003010.json",
+        "nama": "TPS 010, KIMI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092004",
+        "tps": "9401092004001",
+        "url": "94\/9401\/940109\/9401092004\/9401092004001.json",
+        "nama": "TPS 001, LANI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092004",
+        "tps": "9401092004002",
+        "url": "94\/9401\/940109\/9401092004\/9401092004002.json",
+        "nama": "TPS 002, LANI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092004",
+        "tps": "9401092004003",
+        "url": "94\/9401\/940109\/9401092004\/9401092004003.json",
+        "nama": "TPS 003, LANI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092004",
+        "tps": "9401092004004",
+        "url": "94\/9401\/940109\/9401092004\/9401092004004.json",
+        "nama": "TPS 004, LANI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092004",
+        "tps": "9401092004005",
+        "url": "94\/9401\/940109\/9401092004\/9401092004005.json",
+        "nama": "TPS 005, LANI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092004",
+        "tps": "9401092004006",
+        "url": "94\/9401\/940109\/9401092004\/9401092004006.json",
+        "nama": "TPS 006, LANI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092004",
+        "tps": "9401092004007",
+        "url": "94\/9401\/940109\/9401092004\/9401092004007.json",
+        "nama": "TPS 007, LANI, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001001",
+        "url": "94\/9401\/940109\/9401092001\/9401092001001.json",
+        "nama": "TPS 001, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001002",
+        "url": "94\/9401\/940109\/9401092001\/9401092001002.json",
+        "nama": "TPS 002, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001003",
+        "url": "94\/9401\/940109\/9401092001\/9401092001003.json",
+        "nama": "TPS 003, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001004",
+        "url": "94\/9401\/940109\/9401092001\/9401092001004.json",
+        "nama": "TPS 004, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001005",
+        "url": "94\/9401\/940109\/9401092001\/9401092001005.json",
+        "nama": "TPS 005, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001006",
+        "url": "94\/9401\/940109\/9401092001\/9401092001006.json",
+        "nama": "TPS 006, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001007",
+        "url": "94\/9401\/940109\/9401092001\/9401092001007.json",
+        "nama": "TPS 007, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001008",
+        "url": "94\/9401\/940109\/9401092001\/9401092001008.json",
+        "nama": "TPS 008, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001009",
+        "url": "94\/9401\/940109\/9401092001\/9401092001009.json",
+        "nama": "TPS 009, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001010",
+        "url": "94\/9401\/940109\/9401092001\/9401092001010.json",
+        "nama": "TPS 010, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001011",
+        "url": "94\/9401\/940109\/9401092001\/9401092001011.json",
+        "nama": "TPS 011, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001012",
+        "url": "94\/9401\/940109\/9401092001\/9401092001012.json",
+        "nama": "TPS 012, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001013",
+        "url": "94\/9401\/940109\/9401092001\/9401092001013.json",
+        "nama": "TPS 013, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001014",
+        "url": "94\/9401\/940109\/9401092001\/9401092001014.json",
+        "nama": "TPS 014, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001015",
+        "url": "94\/9401\/940109\/9401092001\/9401092001015.json",
+        "nama": "TPS 015, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001016",
+        "url": "94\/9401\/940109\/9401092001\/9401092001016.json",
+        "nama": "TPS 016, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001017",
+        "url": "94\/9401\/940109\/9401092001\/9401092001017.json",
+        "nama": "TPS 017, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092001",
+        "tps": "9401092001018",
+        "url": "94\/9401\/940109\/9401092001\/9401092001018.json",
+        "nama": "TPS 018, SAMABUSA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092002",
+        "tps": "9401092002001",
+        "url": "94\/9401\/940109\/9401092002\/9401092002001.json",
+        "nama": "TPS 001, WAHARIA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092002",
+        "tps": "9401092002002",
+        "url": "94\/9401\/940109\/9401092002\/9401092002002.json",
+        "nama": "TPS 002, WAHARIA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092002",
+        "tps": "9401092002003",
+        "url": "94\/9401\/940109\/9401092002\/9401092002003.json",
+        "nama": "TPS 003, WAHARIA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092002",
+        "tps": "9401092002004",
+        "url": "94\/9401\/940109\/9401092002\/9401092002004.json",
+        "nama": "TPS 004, WAHARIA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092002",
+        "tps": "9401092002005",
+        "url": "94\/9401\/940109\/9401092002\/9401092002005.json",
+        "nama": "TPS 005, WAHARIA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940109",
+        "desa": "9401092002",
+        "tps": "9401092002006",
+        "url": "94\/9401\/940109\/9401092002\/9401092002006.json",
+        "nama": "TPS 006, WAHARIA, TELUK KIMI, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940108",
+        "desa": "9401082003",
+        "tps": "9401082003001",
+        "url": "94\/9401\/940108\/9401082003\/9401082003001.json",
+        "nama": "TPS 001, BAWEI, TELUK UMAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940108",
+        "desa": "9401082004",
+        "tps": "9401082004001",
+        "url": "94\/9401\/940108\/9401082004\/9401082004001.json",
+        "nama": "TPS 001, GONI, TELUK UMAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940108",
+        "desa": "9401082001",
+        "tps": "9401082001001",
+        "url": "94\/9401\/940108\/9401082001\/9401082001001.json",
+        "nama": "TPS 001, NAPAN YAUR, TELUK UMAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940108",
+        "desa": "9401082002",
+        "tps": "9401082002001",
+        "url": "94\/9401\/940108\/9401082002\/9401082002001.json",
+        "nama": "TPS 001, YERETUAR, TELUK UMAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940108",
+        "desa": "9401082002",
+        "tps": "9401082002002",
+        "url": "94\/9401\/940108\/9401082002\/9401082002002.json",
+        "nama": "TPS 002, YERETUAR, TELUK UMAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042004",
+        "tps": "9401042004001",
+        "url": "94\/9401\/940104\/9401042004\/9401042004001.json",
+        "nama": "TPS 001, ARGO MULYO, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042004",
+        "tps": "9401042004002",
+        "url": "94\/9401\/940104\/9401042004\/9401042004002.json",
+        "nama": "TPS 002, ARGO MULYO, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042004",
+        "tps": "9401042004003",
+        "url": "94\/9401\/940104\/9401042004\/9401042004003.json",
+        "nama": "TPS 003, ARGO MULYO, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042006",
+        "tps": "9401042006001",
+        "url": "94\/9401\/940104\/9401042006\/9401042006001.json",
+        "nama": "TPS 001, GAMEI JAYA, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042006",
+        "tps": "9401042006002",
+        "url": "94\/9401\/940104\/9401042006\/9401042006002.json",
+        "nama": "TPS 002, GAMEI JAYA, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042003",
+        "tps": "9401042003001",
+        "url": "94\/9401\/940104\/9401042003\/9401042003001.json",
+        "nama": "TPS 001, MARGA JAYA, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042003",
+        "tps": "9401042003002",
+        "url": "94\/9401\/940104\/9401042003\/9401042003002.json",
+        "nama": "TPS 002, MARGA JAYA, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042003",
+        "tps": "9401042003003",
+        "url": "94\/9401\/940104\/9401042003\/9401042003003.json",
+        "nama": "TPS 003, MARGA JAYA, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042001",
+        "tps": "9401042001001",
+        "url": "94\/9401\/940104\/9401042001\/9401042001001.json",
+        "nama": "TPS 001, TOPO, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042001",
+        "tps": "9401042001002",
+        "url": "94\/9401\/940104\/9401042001\/9401042001002.json",
+        "nama": "TPS 002, TOPO, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042001",
+        "tps": "9401042001003",
+        "url": "94\/9401\/940104\/9401042001\/9401042001003.json",
+        "nama": "TPS 003, TOPO, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042005",
+        "tps": "9401042005001",
+        "url": "94\/9401\/940104\/9401042005\/9401042005001.json",
+        "nama": "TPS 001, TOPO JAYA, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042005",
+        "tps": "9401042005002",
+        "url": "94\/9401\/940104\/9401042005\/9401042005002.json",
+        "nama": "TPS 002, TOPO JAYA, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042002",
+        "tps": "9401042002001",
+        "url": "94\/9401\/940104\/9401042002\/9401042002001.json",
+        "nama": "TPS 001, URUMUSU, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940104",
+        "desa": "9401042002",
+        "tps": "9401042002002",
+        "url": "94\/9401\/940104\/9401042002\/9401042002002.json",
+        "nama": "TPS 002, URUMUSU, UWAPA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052001",
+        "tps": "9401052001001",
+        "url": "94\/9401\/940105\/9401052001\/9401052001001.json",
+        "nama": "TPS 001, BUMI MULIA, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052001",
+        "tps": "9401052001002",
+        "url": "94\/9401\/940105\/9401052001\/9401052001002.json",
+        "nama": "TPS 002, BUMI MULIA, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052001",
+        "tps": "9401052001003",
+        "url": "94\/9401\/940105\/9401052001\/9401052001003.json",
+        "nama": "TPS 003, BUMI MULIA, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052001",
+        "tps": "9401052001004",
+        "url": "94\/9401\/940105\/9401052001\/9401052001004.json",
+        "nama": "TPS 004, BUMI MULIA, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052001",
+        "tps": "9401052001005",
+        "url": "94\/9401\/940105\/9401052001\/9401052001005.json",
+        "nama": "TPS 005, BUMI MULIA, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052001",
+        "tps": "9401052001006",
+        "url": "94\/9401\/940105\/9401052001\/9401052001006.json",
+        "nama": "TPS 006, BUMI MULIA, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052002",
+        "tps": "9401052002001",
+        "url": "94\/9401\/940105\/9401052002\/9401052002001.json",
+        "nama": "TPS 001, KARADIRI, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052002",
+        "tps": "9401052002002",
+        "url": "94\/9401\/940105\/9401052002\/9401052002002.json",
+        "nama": "TPS 002, KARADIRI, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052002",
+        "tps": "9401052002003",
+        "url": "94\/9401\/940105\/9401052002\/9401052002003.json",
+        "nama": "TPS 003, KARADIRI, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052002",
+        "tps": "9401052002004",
+        "url": "94\/9401\/940105\/9401052002\/9401052002004.json",
+        "nama": "TPS 004, KARADIRI, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052002",
+        "tps": "9401052002005",
+        "url": "94\/9401\/940105\/9401052002\/9401052002005.json",
+        "nama": "TPS 005, KARADIRI, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052003",
+        "tps": "9401052003001",
+        "url": "94\/9401\/940105\/9401052003\/9401052003001.json",
+        "nama": "TPS 001, WANGGAR MAKMUR, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052003",
+        "tps": "9401052003002",
+        "url": "94\/9401\/940105\/9401052003\/9401052003002.json",
+        "nama": "TPS 002, WANGGAR MAKMUR, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052003",
+        "tps": "9401052003003",
+        "url": "94\/9401\/940105\/9401052003\/9401052003003.json",
+        "nama": "TPS 003, WANGGAR MAKMUR, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940105",
+        "desa": "9401052003",
+        "tps": "9401052003004",
+        "url": "94\/9401\/940105\/9401052003\/9401052003004.json",
+        "nama": "TPS 004, WANGGAR MAKMUR, WANGGAR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940111",
+        "desa": "9401112003",
+        "tps": "9401112003001",
+        "url": "94\/9401\/940111\/9401112003\/9401112003001.json",
+        "nama": "TPS 001, KAMARISANO, WAPOGA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940111",
+        "desa": "9401112005",
+        "tps": "9401112005001",
+        "url": "94\/9401\/940111\/9401112005\/9401112005001.json",
+        "nama": "TPS 001, KEUW, WAPOGA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940111",
+        "desa": "9401112002",
+        "tps": "9401112002001",
+        "url": "94\/9401\/940111\/9401112002\/9401112002001.json",
+        "nama": "TPS 001, SAMANUI, WAPOGA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940111",
+        "desa": "9401112004",
+        "tps": "9401112004001",
+        "url": "94\/9401\/940111\/9401112004\/9401112004001.json",
+        "nama": "TPS 001, TAUMI, WAPOGA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940111",
+        "desa": "9401112004",
+        "tps": "9401112004002",
+        "url": "94\/9401\/940111\/9401112004\/9401112004002.json",
+        "nama": "TPS 002, TAUMI, WAPOGA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940111",
+        "desa": "9401112001",
+        "tps": "9401112001001",
+        "url": "94\/9401\/940111\/9401112001\/9401112001001.json",
+        "nama": "TPS 001, TOTOBERI, WAPOGA, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102007",
+        "tps": "9401102007001",
+        "url": "94\/9401\/940110\/9401102007\/9401102007001.json",
+        "nama": "TPS 001, BOMOPAI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102007",
+        "tps": "9401102007002",
+        "url": "94\/9401\/940110\/9401102007\/9401102007002.json",
+        "nama": "TPS 002, BOMOPAI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102004",
+        "tps": "9401102004001",
+        "url": "94\/9401\/940110\/9401102004\/9401102004001.json",
+        "nama": "TPS 001, JAYA MUKTI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102004",
+        "tps": "9401102004002",
+        "url": "94\/9401\/940110\/9401102004\/9401102004002.json",
+        "nama": "TPS 002, JAYA MUKTI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102004",
+        "tps": "9401102004003",
+        "url": "94\/9401\/940110\/9401102004\/9401102004003.json",
+        "nama": "TPS 003, JAYA MUKTI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102004",
+        "tps": "9401102004004",
+        "url": "94\/9401\/940110\/9401102004\/9401102004004.json",
+        "nama": "TPS 004, JAYA MUKTI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102006",
+        "tps": "9401102006001",
+        "url": "94\/9401\/940110\/9401102006\/9401102006001.json",
+        "nama": "TPS 001, ORORODO, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102008",
+        "tps": "9401102008001",
+        "url": "94\/9401\/940110\/9401102008\/9401102008001.json",
+        "nama": "TPS 001, PARAUTO, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102008",
+        "tps": "9401102008002",
+        "url": "94\/9401\/940110\/9401102008\/9401102008002.json",
+        "nama": "TPS 002, PARAUTO, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102005",
+        "tps": "9401102005001",
+        "url": "94\/9401\/940110\/9401102005\/9401102005001.json",
+        "nama": "TPS 001, WANGGAR PANTAI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102005",
+        "tps": "9401102005002",
+        "url": "94\/9401\/940110\/9401102005\/9401102005002.json",
+        "nama": "TPS 002, WANGGAR PANTAI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102005",
+        "tps": "9401102005003",
+        "url": "94\/9401\/940110\/9401102005\/9401102005003.json",
+        "nama": "TPS 003, WANGGAR PANTAI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102001",
+        "tps": "9401102001001",
+        "url": "94\/9401\/940110\/9401102001\/9401102001001.json",
+        "nama": "TPS 001, WANGGAR SARI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102001",
+        "tps": "9401102001002",
+        "url": "94\/9401\/940110\/9401102001\/9401102001002.json",
+        "nama": "TPS 002, WANGGAR SARI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102001",
+        "tps": "9401102001003",
+        "url": "94\/9401\/940110\/9401102001\/9401102001003.json",
+        "nama": "TPS 003, WANGGAR SARI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102001",
+        "tps": "9401102001004",
+        "url": "94\/9401\/940110\/9401102001\/9401102001004.json",
+        "nama": "TPS 004, WANGGAR SARI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102001",
+        "tps": "9401102001005",
+        "url": "94\/9401\/940110\/9401102001\/9401102001005.json",
+        "nama": "TPS 005, WANGGAR SARI, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102002",
+        "tps": "9401102002001",
+        "url": "94\/9401\/940110\/9401102002\/9401102002001.json",
+        "nama": "TPS 001, WIRASKA, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102002",
+        "tps": "9401102002002",
+        "url": "94\/9401\/940110\/9401102002\/9401102002002.json",
+        "nama": "TPS 002, WIRASKA, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102002",
+        "tps": "9401102002003",
+        "url": "94\/9401\/940110\/9401102002\/9401102002003.json",
+        "nama": "TPS 003, WIRASKA, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102002",
+        "tps": "9401102002004",
+        "url": "94\/9401\/940110\/9401102002\/9401102002004.json",
+        "nama": "TPS 004, WIRASKA, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102002",
+        "tps": "9401102002005",
+        "url": "94\/9401\/940110\/9401102002\/9401102002005.json",
+        "nama": "TPS 005, WIRASKA, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102002",
+        "tps": "9401102002006",
+        "url": "94\/9401\/940110\/9401102002\/9401102002006.json",
+        "nama": "TPS 006, WIRASKA, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102002",
+        "tps": "9401102002007",
+        "url": "94\/9401\/940110\/9401102002\/9401102002007.json",
+        "nama": "TPS 007, WIRASKA, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102003",
+        "tps": "9401102003001",
+        "url": "94\/9401\/940110\/9401102003\/9401102003001.json",
+        "nama": "TPS 001, YARO MAKMUR, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102003",
+        "tps": "9401102003002",
+        "url": "94\/9401\/940110\/9401102003\/9401102003002.json",
+        "nama": "TPS 002, YARO MAKMUR, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102003",
+        "tps": "9401102003003",
+        "url": "94\/9401\/940110\/9401102003\/9401102003003.json",
+        "nama": "TPS 003, YARO MAKMUR, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940110",
+        "desa": "9401102003",
+        "tps": "9401102003004",
+        "url": "94\/9401\/940110\/9401102003\/9401102003004.json",
+        "nama": "TPS 004, YARO MAKMUR, YARO, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940103",
+        "desa": "9401032002",
+        "tps": "9401032002001",
+        "url": "94\/9401\/940103\/9401032002\/9401032002001.json",
+        "nama": "TPS 001, AKUDIOMI, YAUR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940103",
+        "desa": "9401032002",
+        "tps": "9401032002002",
+        "url": "94\/9401\/940103\/9401032002\/9401032002002.json",
+        "nama": "TPS 002, AKUDIOMI, YAUR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940103",
+        "desa": "9401032003",
+        "tps": "9401032003001",
+        "url": "94\/9401\/940103\/9401032003\/9401032003001.json",
+        "nama": "TPS 001, SIMA, YAUR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940103",
+        "desa": "9401032003",
+        "tps": "9401032003002",
+        "url": "94\/9401\/940103\/9401032003\/9401032003002.json",
+        "nama": "TPS 002, SIMA, YAUR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940103",
+        "desa": "9401032004",
+        "tps": "9401032004001",
+        "url": "94\/9401\/940103\/9401032004\/9401032004001.json",
+        "nama": "TPS 001, WAMI, YAUR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940103",
+        "desa": "9401032004",
+        "tps": "9401032004002",
+        "url": "94\/9401\/940103\/9401032004\/9401032004002.json",
+        "nama": "TPS 002, WAMI, YAUR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940103",
+        "desa": "9401032004",
+        "tps": "9401032004003",
+        "url": "94\/9401\/940103\/9401032004\/9401032004003.json",
+        "nama": "TPS 003, WAMI, YAUR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940103",
+        "desa": "9401032001",
+        "tps": "9401032001001",
+        "url": "94\/9401\/940103\/9401032001\/9401032001001.json",
+        "nama": "TPS 001, YAUR, YAUR, NABIRE, PAPUA TENGAH"
+    },
+    {
+        "provinsi": "94",
+        "kabupaten": "9401",
+        "kecamatan": "940103",
+        "desa": "9401032001",
+        "tps": "9401032001002",
+        "url": "94\/9401\/940103\/9401032001\/9401032001002.json",
+        "nama": "TPS 002, YAUR, YAUR, NABIRE, PAPUA TENGAH"
+    }
+]

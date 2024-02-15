@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "34",
+        "kabupaten": "3401",
+        "kecamatan": "340112",
+        "desa": "3401122001",
+        "tps": "3401122001024",
+        "nama": "TPS 024, BANJARARUM, KALIBAWANG, KULON PROGO, DAERAH ISTIMEWA YOGYAKARTA",
+        "selisih": -9,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/34\/3401\/340112\/3401122001\/3401122001024"
+    },
+    {
+        "provinsi": "34",
+        "kabupaten": "3401",
+        "kecamatan": "340105",
+        "desa": "3401052002",
+        "tps": "3401052002023",
+        "nama": "TPS 023, BUMIREJO, LENDAH, KULON PROGO, DAERAH ISTIMEWA YOGYAKARTA",
+        "selisih": 1288,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/34\/3401\/340105\/3401052002\/3401052002023"
+    },
+    {
+        "provinsi": "34",
+        "kabupaten": "3401",
+        "kecamatan": "340106",
+        "desa": "3401062007",
+        "tps": "3401062007008",
+        "nama": "TPS 008, SENTOLO, SENTOLO, KULON PROGO, DAERAH ISTIMEWA YOGYAKARTA",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/34\/3401\/340106\/3401062007\/3401062007008"
+    },
+    {
+        "provinsi": "34",
+        "kabupaten": "3401",
+        "kecamatan": "340106",
+        "desa": "3401062007",
+        "tps": "3401062007010",
+        "nama": "TPS 010, SENTOLO, SENTOLO, KULON PROGO, DAERAH ISTIMEWA YOGYAKARTA",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/34\/3401\/340106\/3401062007\/3401062007010"
+    }
+]

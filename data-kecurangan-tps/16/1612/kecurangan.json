@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "16",
+        "kabupaten": "1612",
+        "kecamatan": "161201",
+        "desa": "1612012014",
+        "tps": "1612012014006",
+        "nama": "TPS 006, BENAKAT MINYAK, TALANG UBI, PENUKAL ABAB LEMATANG ILIR, SUMATERA SELATAN",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1612\/161201\/1612012014\/1612012014006"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1612",
+        "kecamatan": "161201",
+        "desa": "1612011003",
+        "tps": "1612011003006",
+        "nama": "TPS 006, TALANG UBI TIMUR, TALANG UBI, PENUKAL ABAB LEMATANG ILIR, SUMATERA SELATAN",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1612\/161201\/1612011003\/1612011003006"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1612",
+        "kecamatan": "161205",
+        "desa": "1612052016",
+        "tps": "1612052016001",
+        "nama": "TPS 001, MUARA DUA, TANAH ABANG, PENUKAL ABAB LEMATANG ILIR, SUMATERA SELATAN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1612\/161205\/1612052016\/1612052016001"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1612",
+        "kecamatan": "161205",
+        "desa": "1612052008",
+        "tps": "1612052008006",
+        "nama": "TPS 006, PANDAN, TANAH ABANG, PENUKAL ABAB LEMATANG ILIR, SUMATERA SELATAN",
+        "selisih": 60,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1612\/161205\/1612052008\/1612052008006"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1612",
+        "kecamatan": "161201",
+        "desa": "1612011011",
+        "tps": "1612011011006",
+        "nama": "TPS 006, TALANG UBI UTARA, TALANG UBI, PENUKAL ABAB LEMATANG ILIR, SUMATERA SELATAN",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1612\/161201\/1612011011\/1612011011006"
+    },
+    {
+        "provinsi": "16",
+        "kabupaten": "1612",
+        "kecamatan": "161201",
+        "desa": "1612011011",
+        "tps": "1612011011006",
+        "nama": "TPS 006, TALANG UBI UTARA, TALANG UBI, PENUKAL ABAB LEMATANG ILIR, SUMATERA SELATAN",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/16\/1612\/161201\/1612011011\/1612011011006"
+    }
+]

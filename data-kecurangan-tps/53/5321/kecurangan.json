@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "53",
+        "kabupaten": "5321",
+        "kecamatan": "532106",
+        "desa": "5321062007",
+        "tps": "5321062007004",
+        "nama": "TPS 004, IKAN TUANBEIS, IO KUFEU, MALAKA, NUSA TENGGARA TIMUR",
+        "selisih": 161,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5321\/532106\/5321062007\/5321062007004"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5321",
+        "kecamatan": "532101",
+        "desa": "5321012014",
+        "tps": "5321012014003",
+        "nama": "TPS 003, BARADA, MALAKA TENGAH, MALAKA, NUSA TENGGARA TIMUR",
+        "selisih": -113,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5321\/532101\/5321012014\/5321012014003"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5321",
+        "kecamatan": "532103",
+        "desa": "5321032005",
+        "tps": "5321032005007",
+        "nama": "TPS 007, WEOE, WEWIKU, MALAKA, NUSA TENGGARA TIMUR",
+        "selisih": 500,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5321\/532103\/5321032005\/5321032005007"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5321",
+        "kecamatan": "532107",
+        "desa": "5321072005",
+        "tps": "5321072005001",
+        "nama": "TPS 001, BUILARAN, SASITAMEAN, MALAKA, NUSA TENGGARA TIMUR",
+        "selisih": -113,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/53\/5321\/532107\/5321072005\/5321072005001"
+    }
+]

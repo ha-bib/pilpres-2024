@@ -1,0 +1,2540 @@
+[
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650211",
+        "desa": "6502112005",
+        "tps": "6502112005001",
+        "url": "65\/6502\/650211\/6502112005\/6502112005001.json",
+        "nama": "TPS 001, APAU PING, BAHAU HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650211",
+        "desa": "6502112002",
+        "tps": "6502112002001",
+        "url": "65\/6502\/650211\/6502112002\/6502112002001.json",
+        "nama": "TPS 001, LONG ALANGO, BAHAU HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650211",
+        "desa": "6502112002",
+        "tps": "6502112002002",
+        "url": "65\/6502\/650211\/6502112002\/6502112002002.json",
+        "nama": "TPS 002, LONG ALANGO, BAHAU HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650211",
+        "desa": "6502112003",
+        "tps": "6502112003001",
+        "url": "65\/6502\/650211\/6502112003\/6502112003001.json",
+        "nama": "TPS 001, LONG BERINI, BAHAU HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650211",
+        "desa": "6502112006",
+        "tps": "6502112006001",
+        "url": "65\/6502\/650211\/6502112006\/6502112006001.json",
+        "nama": "TPS 001, LONG KEMUAT, BAHAU HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650211",
+        "desa": "6502112004",
+        "tps": "6502112004001",
+        "url": "65\/6502\/650211\/6502112004\/6502112004001.json",
+        "nama": "TPS 001, LONG TEBULO, BAHAU HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650211",
+        "desa": "6502112001",
+        "tps": "6502112001001",
+        "url": "65\/6502\/650211\/6502112001\/6502112001001.json",
+        "nama": "TPS 001, LONG ULI, BAHAU HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650204",
+        "desa": "6502042001",
+        "tps": "6502042001001",
+        "url": "65\/6502\/650204\/6502042001\/6502042001001.json",
+        "nama": "TPS 001, DATA DIAN, KAYAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650204",
+        "desa": "6502042001",
+        "tps": "6502042001002",
+        "url": "65\/6502\/650204\/6502042001\/6502042001002.json",
+        "nama": "TPS 002, DATA DIAN, KAYAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650204",
+        "desa": "6502042005",
+        "tps": "6502042005001",
+        "url": "65\/6502\/650204\/6502042005\/6502042005001.json",
+        "nama": "TPS 001, LONG METUN, KAYAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650204",
+        "desa": "6502042002",
+        "tps": "6502042002001",
+        "url": "65\/6502\/650204\/6502042002\/6502042002001.json",
+        "nama": "TPS 001, LONG PIPA, KAYAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650204",
+        "desa": "6502042003",
+        "tps": "6502042003001",
+        "url": "65\/6502\/650204\/6502042003\/6502042003001.json",
+        "nama": "TPS 001, LONG SULE, KAYAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650204",
+        "desa": "6502042003",
+        "tps": "6502042003002",
+        "url": "65\/6502\/650204\/6502042003\/6502042003002.json",
+        "nama": "TPS 002, LONG SULE, KAYAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650204",
+        "desa": "6502042004",
+        "tps": "6502042004001",
+        "url": "65\/6502\/650204\/6502042004\/6502042004001.json",
+        "nama": "TPS 001, SUNGAI ANAI, KAYAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052004",
+        "tps": "6502052004001",
+        "url": "65\/6502\/650205\/6502052004\/6502052004001.json",
+        "nama": "TPS 001, LONG BETAOH, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052001",
+        "tps": "6502052001001",
+        "url": "65\/6502\/650205\/6502052001\/6502052001001.json",
+        "nama": "TPS 001, LONG NAWANG, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052001",
+        "tps": "6502052001002",
+        "url": "65\/6502\/650205\/6502052001\/6502052001002.json",
+        "nama": "TPS 002, LONG NAWANG, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052001",
+        "tps": "6502052001003",
+        "url": "65\/6502\/650205\/6502052001\/6502052001003.json",
+        "nama": "TPS 003, LONG NAWANG, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052005",
+        "tps": "6502052005001",
+        "url": "65\/6502\/650205\/6502052005\/6502052005001.json",
+        "nama": "TPS 001, LONG PAYAU, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052003",
+        "tps": "6502052003001",
+        "url": "65\/6502\/650205\/6502052003\/6502052003001.json",
+        "nama": "TPS 001, LONG TEMUYAT, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052003",
+        "tps": "6502052003002",
+        "url": "65\/6502\/650205\/6502052003\/6502052003002.json",
+        "nama": "TPS 002, LONG TEMUYAT, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052002",
+        "tps": "6502052002001",
+        "url": "65\/6502\/650205\/6502052002\/6502052002001.json",
+        "nama": "TPS 001, NAWANG BARU, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052002",
+        "tps": "6502052002002",
+        "url": "65\/6502\/650205\/6502052002\/6502052002002.json",
+        "nama": "TPS 002, NAWANG BARU, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650205",
+        "desa": "6502052002",
+        "tps": "6502052002003",
+        "url": "65\/6502\/650205\/6502052002\/6502052002003.json",
+        "nama": "TPS 003, NAWANG BARU, KAYAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650210",
+        "desa": "6502102003",
+        "tps": "6502102003001",
+        "url": "65\/6502\/650210\/6502102003\/6502102003001.json",
+        "nama": "TPS 001, LIDUNG PAYAU, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650210",
+        "desa": "6502102003",
+        "tps": "6502102003002",
+        "url": "65\/6502\/650210\/6502102003\/6502102003002.json",
+        "nama": "TPS 002, LIDUNG PAYAU, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650210",
+        "desa": "6502102001",
+        "tps": "6502102001001",
+        "url": "65\/6502\/650210\/6502102001\/6502102001001.json",
+        "nama": "TPS 001, LONG AMPUNG, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650210",
+        "desa": "6502102001",
+        "tps": "6502102001002",
+        "url": "65\/6502\/650210\/6502102001\/6502102001002.json",
+        "nama": "TPS 002, LONG AMPUNG, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650210",
+        "desa": "6502102002",
+        "tps": "6502102002001",
+        "url": "65\/6502\/650210\/6502102002\/6502102002001.json",
+        "nama": "TPS 001, LONG URO, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650210",
+        "desa": "6502102002",
+        "tps": "6502102002002",
+        "url": "65\/6502\/650210\/6502102002\/6502102002002.json",
+        "nama": "TPS 002, LONG URO, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650210",
+        "desa": "6502102005",
+        "tps": "6502102005001",
+        "url": "65\/6502\/650210\/6502102005\/6502102005001.json",
+        "nama": "TPS 001, METULANG, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650210",
+        "desa": "6502102004",
+        "tps": "6502102004001",
+        "url": "65\/6502\/650210\/6502102004\/6502102004001.json",
+        "nama": "TPS 001, SUNGAI BARANG, KAYAN SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082008",
+        "tps": "6502082008001",
+        "url": "65\/6502\/650208\/6502082008\/6502082008001.json",
+        "nama": "TPS 001, KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082008",
+        "tps": "6502082008002",
+        "url": "65\/6502\/650208\/6502082008\/6502082008002.json",
+        "nama": "TPS 002, KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082008",
+        "tps": "6502082008003",
+        "url": "65\/6502\/650208\/6502082008\/6502082008003.json",
+        "nama": "TPS 003, KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082008",
+        "tps": "6502082008004",
+        "url": "65\/6502\/650208\/6502082008\/6502082008004.json",
+        "nama": "TPS 004, KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082008",
+        "tps": "6502082008005",
+        "url": "65\/6502\/650208\/6502082008\/6502082008005.json",
+        "nama": "TPS 005, KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082008",
+        "tps": "6502082008006",
+        "url": "65\/6502\/650208\/6502082008\/6502082008006.json",
+        "nama": "TPS 006, KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082008",
+        "tps": "6502082008007",
+        "url": "65\/6502\/650208\/6502082008\/6502082008007.json",
+        "nama": "TPS 007, KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082008",
+        "tps": "6502082008008",
+        "url": "65\/6502\/650208\/6502082008\/6502082008008.json",
+        "nama": "TPS 008, KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082008",
+        "tps": "6502082008009",
+        "url": "65\/6502\/650208\/6502082008\/6502082008009.json",
+        "nama": "TPS 009, KUALA LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082001",
+        "tps": "6502082001001",
+        "url": "65\/6502\/650208\/6502082001\/6502082001001.json",
+        "nama": "TPS 001, LONG BILA, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082002",
+        "tps": "6502082002001",
+        "url": "65\/6502\/650208\/6502082002\/6502082002001.json",
+        "nama": "TPS 001, LONG KENIPE, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082003",
+        "tps": "6502082003001",
+        "url": "65\/6502\/650208\/6502082003\/6502082003001.json",
+        "nama": "TPS 001, PUNAN BENGALUN, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082009",
+        "tps": "6502082009001",
+        "url": "65\/6502\/650208\/6502082009\/6502082009001.json",
+        "nama": "TPS 001, SEMPAYANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082009",
+        "tps": "6502082009002",
+        "url": "65\/6502\/650208\/6502082009\/6502082009002.json",
+        "nama": "TPS 002, SEMPAYANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082005",
+        "tps": "6502082005001",
+        "url": "65\/6502\/650208\/6502082005\/6502082005001.json",
+        "nama": "TPS 001, SENTABAN, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082004",
+        "tps": "6502082004001",
+        "url": "65\/6502\/650208\/6502082004\/6502082004001.json",
+        "nama": "TPS 001, SESUA, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082004",
+        "tps": "6502082004002",
+        "url": "65\/6502\/650208\/6502082004\/6502082004002.json",
+        "nama": "TPS 002, SESUA, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082004",
+        "tps": "6502082004003",
+        "url": "65\/6502\/650208\/6502082004\/6502082004003.json",
+        "nama": "TPS 003, SESUA, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082004",
+        "tps": "6502082004004",
+        "url": "65\/6502\/650208\/6502082004\/6502082004004.json",
+        "nama": "TPS 004, SESUA, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006001",
+        "url": "65\/6502\/650208\/6502082006\/6502082006001.json",
+        "nama": "TPS 001, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006002",
+        "url": "65\/6502\/650208\/6502082006\/6502082006002.json",
+        "nama": "TPS 002, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006003",
+        "url": "65\/6502\/650208\/6502082006\/6502082006003.json",
+        "nama": "TPS 003, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006004",
+        "url": "65\/6502\/650208\/6502082006\/6502082006004.json",
+        "nama": "TPS 004, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006005",
+        "url": "65\/6502\/650208\/6502082006\/6502082006005.json",
+        "nama": "TPS 005, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006006",
+        "url": "65\/6502\/650208\/6502082006\/6502082006006.json",
+        "nama": "TPS 006, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006007",
+        "url": "65\/6502\/650208\/6502082006\/6502082006007.json",
+        "nama": "TPS 007, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006008",
+        "url": "65\/6502\/650208\/6502082006\/6502082006008.json",
+        "nama": "TPS 008, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006009",
+        "url": "65\/6502\/650208\/6502082006\/6502082006009.json",
+        "nama": "TPS 009, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006010",
+        "url": "65\/6502\/650208\/6502082006\/6502082006010.json",
+        "nama": "TPS 010, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006011",
+        "url": "65\/6502\/650208\/6502082006\/6502082006011.json",
+        "nama": "TPS 011, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006012",
+        "url": "65\/6502\/650208\/6502082006\/6502082006012.json",
+        "nama": "TPS 012, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006013",
+        "url": "65\/6502\/650208\/6502082006\/6502082006013.json",
+        "nama": "TPS 013, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006014",
+        "url": "65\/6502\/650208\/6502082006\/6502082006014.json",
+        "nama": "TPS 014, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006015",
+        "url": "65\/6502\/650208\/6502082006\/6502082006015.json",
+        "nama": "TPS 015, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082006",
+        "tps": "6502082006016",
+        "url": "65\/6502\/650208\/6502082006\/6502082006016.json",
+        "nama": "TPS 016, TANJUNG LAPANG, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650208",
+        "desa": "6502082007",
+        "tps": "6502082007001",
+        "url": "65\/6502\/650208\/6502082007\/6502082007001.json",
+        "nama": "TPS 001, TARAS, MALINAU BARAT, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022001",
+        "tps": "6502022001001",
+        "url": "65\/6502\/650202\/6502022001\/6502022001001.json",
+        "nama": "TPS 001, BATU LIDUNG, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022001",
+        "tps": "6502022001002",
+        "url": "65\/6502\/650202\/6502022001\/6502022001002.json",
+        "nama": "TPS 002, BATU LIDUNG, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022001",
+        "tps": "6502022001003",
+        "url": "65\/6502\/650202\/6502022001\/6502022001003.json",
+        "nama": "TPS 003, BATU LIDUNG, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022001",
+        "tps": "6502022001004",
+        "url": "65\/6502\/650202\/6502022001\/6502022001004.json",
+        "nama": "TPS 004, BATU LIDUNG, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022001",
+        "tps": "6502022001005",
+        "url": "65\/6502\/650202\/6502022001\/6502022001005.json",
+        "nama": "TPS 005, BATU LIDUNG, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022005",
+        "tps": "6502022005001",
+        "url": "65\/6502\/650202\/6502022005\/6502022005001.json",
+        "nama": "TPS 001, MALINAU HILIR, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022005",
+        "tps": "6502022005002",
+        "url": "65\/6502\/650202\/6502022005\/6502022005002.json",
+        "nama": "TPS 002, MALINAU HILIR, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022005",
+        "tps": "6502022005003",
+        "url": "65\/6502\/650202\/6502022005\/6502022005003.json",
+        "nama": "TPS 003, MALINAU HILIR, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022005",
+        "tps": "6502022005004",
+        "url": "65\/6502\/650202\/6502022005\/6502022005004.json",
+        "nama": "TPS 004, MALINAU HILIR, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004001",
+        "url": "65\/6502\/650202\/6502022004\/6502022004001.json",
+        "nama": "TPS 001, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004002",
+        "url": "65\/6502\/650202\/6502022004\/6502022004002.json",
+        "nama": "TPS 002, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004003",
+        "url": "65\/6502\/650202\/6502022004\/6502022004003.json",
+        "nama": "TPS 003, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004004",
+        "url": "65\/6502\/650202\/6502022004\/6502022004004.json",
+        "nama": "TPS 004, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004005",
+        "url": "65\/6502\/650202\/6502022004\/6502022004005.json",
+        "nama": "TPS 005, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004006",
+        "url": "65\/6502\/650202\/6502022004\/6502022004006.json",
+        "nama": "TPS 006, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004007",
+        "url": "65\/6502\/650202\/6502022004\/6502022004007.json",
+        "nama": "TPS 007, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004008",
+        "url": "65\/6502\/650202\/6502022004\/6502022004008.json",
+        "nama": "TPS 008, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004009",
+        "url": "65\/6502\/650202\/6502022004\/6502022004009.json",
+        "nama": "TPS 009, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004010",
+        "url": "65\/6502\/650202\/6502022004\/6502022004010.json",
+        "nama": "TPS 010, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004011",
+        "url": "65\/6502\/650202\/6502022004\/6502022004011.json",
+        "nama": "TPS 011, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004012",
+        "url": "65\/6502\/650202\/6502022004\/6502022004012.json",
+        "nama": "TPS 012, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004013",
+        "url": "65\/6502\/650202\/6502022004\/6502022004013.json",
+        "nama": "TPS 013, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004014",
+        "url": "65\/6502\/650202\/6502022004\/6502022004014.json",
+        "nama": "TPS 014, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004015",
+        "url": "65\/6502\/650202\/6502022004\/6502022004015.json",
+        "nama": "TPS 015, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004016",
+        "url": "65\/6502\/650202\/6502022004\/6502022004016.json",
+        "nama": "TPS 016, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004017",
+        "url": "65\/6502\/650202\/6502022004\/6502022004017.json",
+        "nama": "TPS 017, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004018",
+        "url": "65\/6502\/650202\/6502022004\/6502022004018.json",
+        "nama": "TPS 018, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022004",
+        "tps": "6502022004019",
+        "url": "65\/6502\/650202\/6502022004\/6502022004019.json",
+        "nama": "TPS 019, MALINAU HULU, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002001",
+        "url": "65\/6502\/650202\/6502022002\/6502022002001.json",
+        "nama": "TPS 001, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002002",
+        "url": "65\/6502\/650202\/6502022002\/6502022002002.json",
+        "nama": "TPS 002, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002003",
+        "url": "65\/6502\/650202\/6502022002\/6502022002003.json",
+        "nama": "TPS 003, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002004",
+        "url": "65\/6502\/650202\/6502022002\/6502022002004.json",
+        "nama": "TPS 004, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002005",
+        "url": "65\/6502\/650202\/6502022002\/6502022002005.json",
+        "nama": "TPS 005, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002006",
+        "url": "65\/6502\/650202\/6502022002\/6502022002006.json",
+        "nama": "TPS 006, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002007",
+        "url": "65\/6502\/650202\/6502022002\/6502022002007.json",
+        "nama": "TPS 007, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002008",
+        "url": "65\/6502\/650202\/6502022002\/6502022002008.json",
+        "nama": "TPS 008, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002009",
+        "url": "65\/6502\/650202\/6502022002\/6502022002009.json",
+        "nama": "TPS 009, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002010",
+        "url": "65\/6502\/650202\/6502022002\/6502022002010.json",
+        "nama": "TPS 010, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002011",
+        "url": "65\/6502\/650202\/6502022002\/6502022002011.json",
+        "nama": "TPS 011, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002012",
+        "url": "65\/6502\/650202\/6502022002\/6502022002012.json",
+        "nama": "TPS 012, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002013",
+        "url": "65\/6502\/650202\/6502022002\/6502022002013.json",
+        "nama": "TPS 013, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002014",
+        "url": "65\/6502\/650202\/6502022002\/6502022002014.json",
+        "nama": "TPS 014, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002015",
+        "url": "65\/6502\/650202\/6502022002\/6502022002015.json",
+        "nama": "TPS 015, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002016",
+        "url": "65\/6502\/650202\/6502022002\/6502022002016.json",
+        "nama": "TPS 016, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002017",
+        "url": "65\/6502\/650202\/6502022002\/6502022002017.json",
+        "nama": "TPS 017, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002018",
+        "url": "65\/6502\/650202\/6502022002\/6502022002018.json",
+        "nama": "TPS 018, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002019",
+        "url": "65\/6502\/650202\/6502022002\/6502022002019.json",
+        "nama": "TPS 019, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002020",
+        "url": "65\/6502\/650202\/6502022002\/6502022002020.json",
+        "nama": "TPS 020, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002021",
+        "url": "65\/6502\/650202\/6502022002\/6502022002021.json",
+        "nama": "TPS 021, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002022",
+        "url": "65\/6502\/650202\/6502022002\/6502022002022.json",
+        "nama": "TPS 022, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002023",
+        "url": "65\/6502\/650202\/6502022002\/6502022002023.json",
+        "nama": "TPS 023, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002024",
+        "url": "65\/6502\/650202\/6502022002\/6502022002024.json",
+        "nama": "TPS 024, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002025",
+        "url": "65\/6502\/650202\/6502022002\/6502022002025.json",
+        "nama": "TPS 025, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002026",
+        "url": "65\/6502\/650202\/6502022002\/6502022002026.json",
+        "nama": "TPS 026, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002027",
+        "url": "65\/6502\/650202\/6502022002\/6502022002027.json",
+        "nama": "TPS 027, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002028",
+        "url": "65\/6502\/650202\/6502022002\/6502022002028.json",
+        "nama": "TPS 028, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002029",
+        "url": "65\/6502\/650202\/6502022002\/6502022002029.json",
+        "nama": "TPS 029, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002030",
+        "url": "65\/6502\/650202\/6502022002\/6502022002030.json",
+        "nama": "TPS 030, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002031",
+        "url": "65\/6502\/650202\/6502022002\/6502022002031.json",
+        "nama": "TPS 031, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002032",
+        "url": "65\/6502\/650202\/6502022002\/6502022002032.json",
+        "nama": "TPS 032, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002033",
+        "url": "65\/6502\/650202\/6502022002\/6502022002033.json",
+        "nama": "TPS 033, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002034",
+        "url": "65\/6502\/650202\/6502022002\/6502022002034.json",
+        "nama": "TPS 034, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022002",
+        "tps": "6502022002035",
+        "url": "65\/6502\/650202\/6502022002\/6502022002035.json",
+        "nama": "TPS 035, MALINAU KOTA, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022003",
+        "tps": "6502022003001",
+        "url": "65\/6502\/650202\/6502022003\/6502022003001.json",
+        "nama": "TPS 001, PELITA KANAAN, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022003",
+        "tps": "6502022003002",
+        "url": "65\/6502\/650202\/6502022003\/6502022003002.json",
+        "nama": "TPS 002, PELITA KANAAN, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022003",
+        "tps": "6502022003003",
+        "url": "65\/6502\/650202\/6502022003\/6502022003003.json",
+        "nama": "TPS 003, PELITA KANAAN, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022003",
+        "tps": "6502022003004",
+        "url": "65\/6502\/650202\/6502022003\/6502022003004.json",
+        "nama": "TPS 004, PELITA KANAAN, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022003",
+        "tps": "6502022003005",
+        "url": "65\/6502\/650202\/6502022003\/6502022003005.json",
+        "nama": "TPS 005, PELITA KANAAN, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022003",
+        "tps": "6502022003006",
+        "url": "65\/6502\/650202\/6502022003\/6502022003006.json",
+        "nama": "TPS 006, PELITA KANAAN, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022006",
+        "tps": "6502022006001",
+        "url": "65\/6502\/650202\/6502022006\/6502022006001.json",
+        "nama": "TPS 001, TANJUNG KERANJANG, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650202",
+        "desa": "6502022006",
+        "tps": "6502022006002",
+        "url": "65\/6502\/650202\/6502022006\/6502022006002.json",
+        "nama": "TPS 002, TANJUNG KERANJANG, MALINAU KOTA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062001",
+        "tps": "6502062001001",
+        "url": "65\/6502\/650206\/6502062001\/6502062001001.json",
+        "nama": "TPS 001, BILA BEKAYUK, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062004",
+        "tps": "6502062004001",
+        "url": "65\/6502\/650206\/6502062004\/6502062004001.json",
+        "nama": "TPS 001, LABAN NYARIT, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062003",
+        "tps": "6502062003001",
+        "url": "65\/6502\/650206\/6502062003\/6502062003001.json",
+        "nama": "TPS 001, LANGAP, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062003",
+        "tps": "6502062003002",
+        "url": "65\/6502\/650206\/6502062003\/6502062003002.json",
+        "nama": "TPS 002, LANGAP, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062003",
+        "tps": "6502062003003",
+        "url": "65\/6502\/650206\/6502062003\/6502062003003.json",
+        "nama": "TPS 003, LANGAP, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062003",
+        "tps": "6502062003004",
+        "url": "65\/6502\/650206\/6502062003\/6502062003004.json",
+        "nama": "TPS 004, LANGAP, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062003",
+        "tps": "6502062003005",
+        "url": "65\/6502\/650206\/6502062003\/6502062003005.json",
+        "nama": "TPS 005, LANGAP, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062002",
+        "tps": "6502062002001",
+        "url": "65\/6502\/650206\/6502062002\/6502062002001.json",
+        "nama": "TPS 001, LONG LOREH, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062002",
+        "tps": "6502062002002",
+        "url": "65\/6502\/650206\/6502062002\/6502062002002.json",
+        "nama": "TPS 002, LONG LOREH, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062002",
+        "tps": "6502062002003",
+        "url": "65\/6502\/650206\/6502062002\/6502062002003.json",
+        "nama": "TPS 003, LONG LOREH, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062002",
+        "tps": "6502062002004",
+        "url": "65\/6502\/650206\/6502062002\/6502062002004.json",
+        "nama": "TPS 004, LONG LOREH, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062002",
+        "tps": "6502062002005",
+        "url": "65\/6502\/650206\/6502062002\/6502062002005.json",
+        "nama": "TPS 005, LONG LOREH, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062005",
+        "tps": "6502062005001",
+        "url": "65\/6502\/650206\/6502062005\/6502062005001.json",
+        "nama": "TPS 001, NUNUK TANAH KIBANG, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062007",
+        "tps": "6502062007001",
+        "url": "65\/6502\/650206\/6502062007\/6502062007001.json",
+        "nama": "TPS 001, PAYA SETURAN, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062006",
+        "tps": "6502062006001",
+        "url": "65\/6502\/650206\/6502062006\/6502062006001.json",
+        "nama": "TPS 001, PELENCAU, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062008",
+        "tps": "6502062008001",
+        "url": "65\/6502\/650206\/6502062008\/6502062008001.json",
+        "nama": "TPS 001, PUNAN RIAN, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062009",
+        "tps": "6502062009001",
+        "url": "65\/6502\/650206\/6502062009\/6502062009001.json",
+        "nama": "TPS 001, SENGAYAN, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650206",
+        "desa": "6502062009",
+        "tps": "6502062009002",
+        "url": "65\/6502\/650206\/6502062009\/6502062009002.json",
+        "nama": "TPS 002, SENGAYAN, MALINAU SELATAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132004",
+        "tps": "6502132004001",
+        "url": "65\/6502\/650213\/6502132004\/6502132004001.json",
+        "nama": "TPS 001, BATU KAJANG, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132004",
+        "tps": "6502132004002",
+        "url": "65\/6502\/650213\/6502132004\/6502132004002.json",
+        "nama": "TPS 002, BATU KAJANG, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132005",
+        "tps": "6502132005001",
+        "url": "65\/6502\/650213\/6502132005\/6502132005001.json",
+        "nama": "TPS 001, GONG SOLOK, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132007",
+        "tps": "6502132007001",
+        "url": "65\/6502\/650213\/6502132007\/6502132007001.json",
+        "nama": "TPS 001, LONG ADIU, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132006",
+        "tps": "6502132006001",
+        "url": "65\/6502\/650213\/6502132006\/6502132006001.json",
+        "nama": "TPS 001, PUNAN GONG SOLOK, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132006",
+        "tps": "6502132006002",
+        "url": "65\/6502\/650213\/6502132006\/6502132006002.json",
+        "nama": "TPS 002, PUNAN GONG SOLOK, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132008",
+        "tps": "6502132008001",
+        "url": "65\/6502\/650213\/6502132008\/6502132008001.json",
+        "nama": "TPS 001, PUNAN LONG ADIU, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132003",
+        "tps": "6502132003001",
+        "url": "65\/6502\/650213\/6502132003\/6502132003001.json",
+        "nama": "TPS 001, PUNAN SETARAP, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132002",
+        "tps": "6502132002001",
+        "url": "65\/6502\/650213\/6502132002\/6502132002001.json",
+        "nama": "TPS 001, SETARAP, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132001",
+        "tps": "6502132001001",
+        "url": "65\/6502\/650213\/6502132001\/6502132001001.json",
+        "nama": "TPS 001, SETULANG, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132001",
+        "tps": "6502132001002",
+        "url": "65\/6502\/650213\/6502132001\/6502132001002.json",
+        "nama": "TPS 002, SETULANG, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650213",
+        "desa": "6502132001",
+        "tps": "6502132001003",
+        "url": "65\/6502\/650213\/6502132001\/6502132001003.json",
+        "nama": "TPS 003, SETULANG, MALINAU SELATAN HILIR, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142004",
+        "tps": "6502142004001",
+        "url": "65\/6502\/650214\/6502142004\/6502142004001.json",
+        "nama": "TPS 001, HALANGA, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142006",
+        "tps": "6502142006001",
+        "url": "65\/6502\/650214\/6502142006\/6502142006001.json",
+        "nama": "TPS 001, LONG JALAN, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142001",
+        "tps": "6502142001001",
+        "url": "65\/6502\/650214\/6502142001\/6502142001001.json",
+        "nama": "TPS 001, LONG LAKE, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142001",
+        "tps": "6502142001002",
+        "url": "65\/6502\/650214\/6502142001\/6502142001002.json",
+        "nama": "TPS 002, LONG LAKE, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142001",
+        "tps": "6502142001003",
+        "url": "65\/6502\/650214\/6502142001\/6502142001003.json",
+        "nama": "TPS 003, LONG LAKE, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142003",
+        "tps": "6502142003001",
+        "url": "65\/6502\/650214\/6502142003\/6502142003001.json",
+        "nama": "TPS 001, LONG RAT, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142005",
+        "tps": "6502142005001",
+        "url": "65\/6502\/650214\/6502142005\/6502142005001.json",
+        "nama": "TPS 001, METUT, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142007",
+        "tps": "6502142007001",
+        "url": "65\/6502\/650214\/6502142007\/6502142007001.json",
+        "nama": "TPS 001, NAHAKRAMO, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142002",
+        "tps": "6502142002001",
+        "url": "65\/6502\/650214\/6502142002\/6502142002001.json",
+        "nama": "TPS 001, PUNAN MIRAU, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142008",
+        "tps": "6502142008001",
+        "url": "65\/6502\/650214\/6502142008\/6502142008001.json",
+        "nama": "TPS 001, TANJUNG NANGA, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142008",
+        "tps": "6502142008002",
+        "url": "65\/6502\/650214\/6502142008\/6502142008002.json",
+        "nama": "TPS 002, TANJUNG NANGA, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650214",
+        "desa": "6502142008",
+        "tps": "6502142008003",
+        "url": "65\/6502\/650214\/6502142008\/6502142008003.json",
+        "nama": "TPS 003, TANJUNG NANGA, MALINAU SELATAN HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072008",
+        "tps": "6502072008001",
+        "url": "65\/6502\/650207\/6502072008\/6502072008001.json",
+        "nama": "TPS 001, BELAYAN, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072008",
+        "tps": "6502072008002",
+        "url": "65\/6502\/650207\/6502072008\/6502072008002.json",
+        "nama": "TPS 002, BELAYAN, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072008",
+        "tps": "6502072008003",
+        "url": "65\/6502\/650207\/6502072008\/6502072008003.json",
+        "nama": "TPS 003, BELAYAN, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072008",
+        "tps": "6502072008004",
+        "url": "65\/6502\/650207\/6502072008\/6502072008004.json",
+        "nama": "TPS 004, BELAYAN, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072001",
+        "tps": "6502072001001",
+        "url": "65\/6502\/650207\/6502072001\/6502072001001.json",
+        "nama": "TPS 001, KALIAMOK, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072001",
+        "tps": "6502072001002",
+        "url": "65\/6502\/650207\/6502072001\/6502072001002.json",
+        "nama": "TPS 002, KALIAMOK, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072001",
+        "tps": "6502072001003",
+        "url": "65\/6502\/650207\/6502072001\/6502072001003.json",
+        "nama": "TPS 003, KALIAMOK, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072001",
+        "tps": "6502072001004",
+        "url": "65\/6502\/650207\/6502072001\/6502072001004.json",
+        "nama": "TPS 004, KALIAMOK, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072011",
+        "tps": "6502072011001",
+        "url": "65\/6502\/650207\/6502072011\/6502072011001.json",
+        "nama": "TPS 001, KELAPIS, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072011",
+        "tps": "6502072011002",
+        "url": "65\/6502\/650207\/6502072011\/6502072011002.json",
+        "nama": "TPS 002, KELAPIS, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072011",
+        "tps": "6502072011003",
+        "url": "65\/6502\/650207\/6502072011\/6502072011003.json",
+        "nama": "TPS 003, KELAPIS, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072010",
+        "tps": "6502072010001",
+        "url": "65\/6502\/650207\/6502072010\/6502072010001.json",
+        "nama": "TPS 001, LUBAK MANIS, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072010",
+        "tps": "6502072010002",
+        "url": "65\/6502\/650207\/6502072010\/6502072010002.json",
+        "nama": "TPS 002, LUBAK MANIS, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072002",
+        "tps": "6502072002001",
+        "url": "65\/6502\/650207\/6502072002\/6502072002001.json",
+        "nama": "TPS 001, LUSO, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072002",
+        "tps": "6502072002002",
+        "url": "65\/6502\/650207\/6502072002\/6502072002002.json",
+        "nama": "TPS 002, LUSO, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003001",
+        "url": "65\/6502\/650207\/6502072003\/6502072003001.json",
+        "nama": "TPS 001, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003002",
+        "url": "65\/6502\/650207\/6502072003\/6502072003002.json",
+        "nama": "TPS 002, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003003",
+        "url": "65\/6502\/650207\/6502072003\/6502072003003.json",
+        "nama": "TPS 003, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003004",
+        "url": "65\/6502\/650207\/6502072003\/6502072003004.json",
+        "nama": "TPS 004, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003005",
+        "url": "65\/6502\/650207\/6502072003\/6502072003005.json",
+        "nama": "TPS 005, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003006",
+        "url": "65\/6502\/650207\/6502072003\/6502072003006.json",
+        "nama": "TPS 006, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003007",
+        "url": "65\/6502\/650207\/6502072003\/6502072003007.json",
+        "nama": "TPS 007, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003008",
+        "url": "65\/6502\/650207\/6502072003\/6502072003008.json",
+        "nama": "TPS 008, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003009",
+        "url": "65\/6502\/650207\/6502072003\/6502072003009.json",
+        "nama": "TPS 009, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003010",
+        "url": "65\/6502\/650207\/6502072003\/6502072003010.json",
+        "nama": "TPS 010, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003011",
+        "url": "65\/6502\/650207\/6502072003\/6502072003011.json",
+        "nama": "TPS 011, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072003",
+        "tps": "6502072003012",
+        "url": "65\/6502\/650207\/6502072003\/6502072003012.json",
+        "nama": "TPS 012, MALINAU SEBERANG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072004",
+        "tps": "6502072004001",
+        "url": "65\/6502\/650207\/6502072004\/6502072004001.json",
+        "nama": "TPS 001, PUTAT, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072004",
+        "tps": "6502072004002",
+        "url": "65\/6502\/650207\/6502072004\/6502072004002.json",
+        "nama": "TPS 002, PUTAT, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072007",
+        "tps": "6502072007001",
+        "url": "65\/6502\/650207\/6502072007\/6502072007001.json",
+        "nama": "TPS 001, RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072007",
+        "tps": "6502072007002",
+        "url": "65\/6502\/650207\/6502072007\/6502072007002.json",
+        "nama": "TPS 002, RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072007",
+        "tps": "6502072007003",
+        "url": "65\/6502\/650207\/6502072007\/6502072007003.json",
+        "nama": "TPS 003, RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072007",
+        "tps": "6502072007004",
+        "url": "65\/6502\/650207\/6502072007\/6502072007004.json",
+        "nama": "TPS 004, RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072007",
+        "tps": "6502072007005",
+        "url": "65\/6502\/650207\/6502072007\/6502072007005.json",
+        "nama": "TPS 005, RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072007",
+        "tps": "6502072007006",
+        "url": "65\/6502\/650207\/6502072007\/6502072007006.json",
+        "nama": "TPS 006, RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072007",
+        "tps": "6502072007007",
+        "url": "65\/6502\/650207\/6502072007\/6502072007007.json",
+        "nama": "TPS 007, RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072007",
+        "tps": "6502072007008",
+        "url": "65\/6502\/650207\/6502072007\/6502072007008.json",
+        "nama": "TPS 008, RESPEN TUBU, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072005",
+        "tps": "6502072005001",
+        "url": "65\/6502\/650207\/6502072005\/6502072005001.json",
+        "nama": "TPS 001, SALAP, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072005",
+        "tps": "6502072005002",
+        "url": "65\/6502\/650207\/6502072005\/6502072005002.json",
+        "nama": "TPS 002, SALAP, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072009",
+        "tps": "6502072009001",
+        "url": "65\/6502\/650207\/6502072009\/6502072009001.json",
+        "nama": "TPS 001, SEMBUAK WAROD, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072009",
+        "tps": "6502072009002",
+        "url": "65\/6502\/650207\/6502072009\/6502072009002.json",
+        "nama": "TPS 002, SEMBUAK WAROD, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072012",
+        "tps": "6502072012001",
+        "url": "65\/6502\/650207\/6502072012\/6502072012001.json",
+        "nama": "TPS 001, SEMENGARIS, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650207",
+        "desa": "6502072006",
+        "tps": "6502072006001",
+        "url": "65\/6502\/650207\/6502072006\/6502072006001.json",
+        "nama": "TPS 001, SERUYUNG, MALINAU UTARA, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012009",
+        "tps": "6502012009001",
+        "url": "65\/6502\/650201\/6502012009\/6502012009001.json",
+        "nama": "TPS 001, HARAPAN MAJU, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012009",
+        "tps": "6502012009002",
+        "url": "65\/6502\/650201\/6502012009\/6502012009002.json",
+        "nama": "TPS 002, HARAPAN MAJU, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012009",
+        "tps": "6502012009003",
+        "url": "65\/6502\/650201\/6502012009\/6502012009003.json",
+        "nama": "TPS 003, HARAPAN MAJU, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012007",
+        "tps": "6502012007001",
+        "url": "65\/6502\/650201\/6502012007\/6502012007001.json",
+        "nama": "TPS 001, LIDUNG KEMENCI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012007",
+        "tps": "6502012007002",
+        "url": "65\/6502\/650201\/6502012007\/6502012007002.json",
+        "nama": "TPS 002, LIDUNG KEMENCI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012002",
+        "tps": "6502012002001",
+        "url": "65\/6502\/650201\/6502012002\/6502012002001.json",
+        "nama": "TPS 001, LONG BISAI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012002",
+        "tps": "6502012002002",
+        "url": "65\/6502\/650201\/6502012002\/6502012002002.json",
+        "nama": "TPS 002, LONG BISAI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012008",
+        "tps": "6502012008001",
+        "url": "65\/6502\/650201\/6502012008\/6502012008001.json",
+        "nama": "TPS 001, MENTARANG BARU, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012008",
+        "tps": "6502012008002",
+        "url": "65\/6502\/650201\/6502012008\/6502012008002.json",
+        "nama": "TPS 002, MENTARANG BARU, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012008",
+        "tps": "6502012008003",
+        "url": "65\/6502\/650201\/6502012008\/6502012008003.json",
+        "nama": "TPS 003, MENTARANG BARU, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012008",
+        "tps": "6502012008004",
+        "url": "65\/6502\/650201\/6502012008\/6502012008004.json",
+        "nama": "TPS 004, MENTARANG BARU, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012006",
+        "tps": "6502012006001",
+        "url": "65\/6502\/650201\/6502012006\/6502012006001.json",
+        "nama": "TPS 001, PAKING, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012006",
+        "tps": "6502012006002",
+        "url": "65\/6502\/650201\/6502012006\/6502012006002.json",
+        "nama": "TPS 002, PAKING, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012005",
+        "tps": "6502012005001",
+        "url": "65\/6502\/650201\/6502012005\/6502012005001.json",
+        "nama": "TPS 001, PULAU SAPI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012005",
+        "tps": "6502012005002",
+        "url": "65\/6502\/650201\/6502012005\/6502012005002.json",
+        "nama": "TPS 002, PULAU SAPI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012005",
+        "tps": "6502012005003",
+        "url": "65\/6502\/650201\/6502012005\/6502012005003.json",
+        "nama": "TPS 003, PULAU SAPI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012005",
+        "tps": "6502012005004",
+        "url": "65\/6502\/650201\/6502012005\/6502012005004.json",
+        "nama": "TPS 004, PULAU SAPI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012005",
+        "tps": "6502012005005",
+        "url": "65\/6502\/650201\/6502012005\/6502012005005.json",
+        "nama": "TPS 005, PULAU SAPI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650201",
+        "desa": "6502012005",
+        "tps": "6502012005006",
+        "url": "65\/6502\/650201\/6502012005\/6502012005006.json",
+        "nama": "TPS 006, PULAU SAPI, MENTARANG, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122008",
+        "tps": "6502122008001",
+        "url": "65\/6502\/650212\/6502122008\/6502122008001.json",
+        "nama": "TPS 001, LONG GAFID, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122010",
+        "tps": "6502122010001",
+        "url": "65\/6502\/650212\/6502122010\/6502122010001.json",
+        "nama": "TPS 001, LONG LIKU, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122005",
+        "tps": "6502122005001",
+        "url": "65\/6502\/650212\/6502122005\/6502122005001.json",
+        "nama": "TPS 001, LUNG BERANG, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122005",
+        "tps": "6502122005002",
+        "url": "65\/6502\/650212\/6502122005\/6502122005002.json",
+        "nama": "TPS 002, LUNG BERANG, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122005",
+        "tps": "6502122005003",
+        "url": "65\/6502\/650212\/6502122005\/6502122005003.json",
+        "nama": "TPS 003, LUNG BERANG, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122005",
+        "tps": "6502122005004",
+        "url": "65\/6502\/650212\/6502122005\/6502122005004.json",
+        "nama": "TPS 004, LUNG BERANG, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122001",
+        "tps": "6502122001001",
+        "url": "65\/6502\/650212\/6502122001\/6502122001001.json",
+        "nama": "TPS 001, LUNG FALA, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122002",
+        "tps": "6502122002001",
+        "url": "65\/6502\/650212\/6502122002\/6502122002001.json",
+        "nama": "TPS 001, LUNG KEBINU, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122003",
+        "tps": "6502122003001",
+        "url": "65\/6502\/650212\/6502122003\/6502122003001.json",
+        "nama": "TPS 001, LUNG MEKATIF, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122007",
+        "tps": "6502122007001",
+        "url": "65\/6502\/650212\/6502122007\/6502122007001.json",
+        "nama": "TPS 001, LUNG SEMAMU, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122004",
+        "tps": "6502122004001",
+        "url": "65\/6502\/650212\/6502122004\/6502122004001.json",
+        "nama": "TPS 001, LUNG SIMAU, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122006",
+        "tps": "6502122006001",
+        "url": "65\/6502\/650212\/6502122006\/6502122006001.json",
+        "nama": "TPS 001, LUNG SULIT, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650212",
+        "desa": "6502122009",
+        "tps": "6502122009001",
+        "url": "65\/6502\/650212\/6502122009\/6502122009001.json",
+        "nama": "TPS 001, TEMALANG, MENTARANG HULU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032006",
+        "tps": "6502032006001",
+        "url": "65\/6502\/650203\/6502032006\/6502032006001.json",
+        "nama": "TPS 001, LONG ARAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032006",
+        "tps": "6502032006002",
+        "url": "65\/6502\/650203\/6502032006\/6502032006002.json",
+        "nama": "TPS 002, LONG ARAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032009",
+        "tps": "6502032009001",
+        "url": "65\/6502\/650203\/6502032009\/6502032009001.json",
+        "nama": "TPS 001, LONG BELAKA PITAU, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032008",
+        "tps": "6502032008001",
+        "url": "65\/6502\/650203\/6502032008\/6502032008001.json",
+        "nama": "TPS 001, LONG BENA, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032005",
+        "tps": "6502032005001",
+        "url": "65\/6502\/650203\/6502032005\/6502032005001.json",
+        "nama": "TPS 001, LONG JELET, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032002",
+        "tps": "6502032002001",
+        "url": "65\/6502\/650203\/6502032002\/6502032002001.json",
+        "nama": "TPS 001, LONG KETAMAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032004",
+        "tps": "6502032004001",
+        "url": "65\/6502\/650203\/6502032004\/6502032004001.json",
+        "nama": "TPS 001, LONG LAME, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032007",
+        "tps": "6502032007001",
+        "url": "65\/6502\/650203\/6502032007\/6502032007001.json",
+        "nama": "TPS 001, LONG PELIRAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032003",
+        "tps": "6502032003001",
+        "url": "65\/6502\/650203\/6502032003\/6502032003001.json",
+        "nama": "TPS 001, LONG PUA, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032001",
+        "tps": "6502032001001",
+        "url": "65\/6502\/650203\/6502032001\/6502032001001.json",
+        "nama": "TPS 001, LONG PUJUNGAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650203",
+        "desa": "6502032001",
+        "tps": "6502032001002",
+        "url": "65\/6502\/650203\/6502032001\/6502032001002.json",
+        "nama": "TPS 002, LONG PUJUNGAN, PUJUNGAN, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650209",
+        "desa": "6502092005",
+        "tps": "6502092005001",
+        "url": "65\/6502\/650209\/6502092005\/6502092005001.json",
+        "nama": "TPS 001, AGUNG BARU, SUNGAI BOH, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650209",
+        "desa": "6502092006",
+        "tps": "6502092006001",
+        "url": "65\/6502\/650209\/6502092006\/6502092006001.json",
+        "nama": "TPS 001, DATA BARU, SUNGAI BOH, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650209",
+        "desa": "6502092001",
+        "tps": "6502092001001",
+        "url": "65\/6502\/650209\/6502092001\/6502092001001.json",
+        "nama": "TPS 001, DUMU MAHAK, SUNGAI BOH, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650209",
+        "desa": "6502092001",
+        "tps": "6502092001002",
+        "url": "65\/6502\/650209\/6502092001\/6502092001002.json",
+        "nama": "TPS 002, DUMU MAHAK, SUNGAI BOH, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650209",
+        "desa": "6502092002",
+        "tps": "6502092002001",
+        "url": "65\/6502\/650209\/6502092002\/6502092002001.json",
+        "nama": "TPS 001, LONG LEBUSAN, SUNGAI BOH, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650209",
+        "desa": "6502092002",
+        "tps": "6502092002002",
+        "url": "65\/6502\/650209\/6502092002\/6502092002002.json",
+        "nama": "TPS 002, LONG LEBUSAN, SUNGAI BOH, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650209",
+        "desa": "6502092004",
+        "tps": "6502092004001",
+        "url": "65\/6502\/650209\/6502092004\/6502092004001.json",
+        "nama": "TPS 001, LONG TOP, SUNGAI BOH, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650209",
+        "desa": "6502092003",
+        "tps": "6502092003001",
+        "url": "65\/6502\/650209\/6502092003\/6502092003001.json",
+        "nama": "TPS 001, MAHAK BARU, SUNGAI BOH, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650209",
+        "desa": "6502092003",
+        "tps": "6502092003002",
+        "url": "65\/6502\/650209\/6502092003\/6502092003002.json",
+        "nama": "TPS 002, MAHAK BARU, SUNGAI BOH, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650215",
+        "desa": "6502152001",
+        "tps": "6502152001001",
+        "url": "65\/6502\/650215\/6502152001\/6502152001001.json",
+        "nama": "TPS 001, LONG NYAU, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650215",
+        "desa": "6502152005",
+        "tps": "6502152005001",
+        "url": "65\/6502\/650215\/6502152005\/6502152005001.json",
+        "nama": "TPS 001, LONG PADA, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650215",
+        "desa": "6502152003",
+        "tps": "6502152003001",
+        "url": "65\/6502\/650215\/6502152003\/6502152003001.json",
+        "nama": "TPS 001, LONG RANAU, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650215",
+        "desa": "6502152002",
+        "tps": "6502152002001",
+        "url": "65\/6502\/650215\/6502152002\/6502152002001.json",
+        "nama": "TPS 001, LONG TITI, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650215",
+        "desa": "6502152004",
+        "tps": "6502152004001",
+        "url": "65\/6502\/650215\/6502152004\/6502152004001.json",
+        "nama": "TPS 001, RIAN TUBU, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA"
+    },
+    {
+        "provinsi": "65",
+        "kabupaten": "6502",
+        "kecamatan": "650215",
+        "desa": "6502152004",
+        "tps": "6502152004002",
+        "url": "65\/6502\/650215\/6502152004\/6502152004002.json",
+        "nama": "TPS 002, RIAN TUBU, SUNGAI TUBU, MALINAU, KALIMANTAN UTARA"
+    }
+]

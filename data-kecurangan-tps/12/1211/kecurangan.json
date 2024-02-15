@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1211",
+        "kecamatan": "121101",
+        "desa": "1211012011",
+        "tps": "1211012011019",
+        "nama": "TPS 019, HUTA RAKYAT, SIDIKALANG, DAIRI, SUMATERA UTARA",
+        "selisih": -47,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1211\/121101\/1211012011\/1211012011019"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1211",
+        "kecamatan": "121101",
+        "desa": "1211011010",
+        "tps": "1211011010022",
+        "nama": "TPS 022, SIDIKALANG, SIDIKALANG, DAIRI, SUMATERA UTARA",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1211\/121101\/1211011010\/1211011010022"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1211",
+        "kecamatan": "121107",
+        "desa": "1211072006",
+        "tps": "1211072006005",
+        "nama": "TPS 005, SILUMBOYAH, SIEMPAT NEMPU HULU, DAIRI, SUMATERA UTARA",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1211\/121107\/1211072006\/1211072006005"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1211",
+        "kecamatan": "121103",
+        "desa": "1211032013",
+        "tps": "1211032013003",
+        "nama": "TPS 003, LAU MIL, TIGALINGGA, DAIRI, SUMATERA UTARA",
+        "selisih": 214,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1211\/121103\/1211032013\/1211032013003"
+    }
+]

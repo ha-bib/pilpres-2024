@@ -1,0 +1,3890 @@
+[
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022001",
+        "tps": "5313022001001",
+        "url": "53\/5313\/531302\/5313022001\/5313022001001.json",
+        "nama": "TPS 001, ATAKERA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022001",
+        "tps": "5313022001002",
+        "url": "53\/5313\/531302\/5313022001\/5313022001002.json",
+        "nama": "TPS 002, ATAKERA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022012",
+        "tps": "5313022012001",
+        "url": "53\/5313\/531302\/5313022012\/5313022012001.json",
+        "nama": "TPS 001, DORI PEWUT, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022012",
+        "tps": "5313022012002",
+        "url": "53\/5313\/531302\/5313022012\/5313022012002.json",
+        "nama": "TPS 002, DORI PEWUT, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022011",
+        "tps": "5313022011001",
+        "url": "53\/5313\/531302\/5313022011\/5313022011001.json",
+        "nama": "TPS 001, DULIR, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022011",
+        "tps": "5313022011002",
+        "url": "53\/5313\/531302\/5313022011\/5313022011002.json",
+        "nama": "TPS 002, DULIR, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022010",
+        "tps": "5313022010001",
+        "url": "53\/5313\/531302\/5313022010\/5313022010001.json",
+        "nama": "TPS 001, ILE KERBAU, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022008",
+        "tps": "5313022008001",
+        "url": "53\/5313\/531302\/5313022008\/5313022008001.json",
+        "nama": "TPS 001, ILE KIMOK, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022008",
+        "tps": "5313022008002",
+        "url": "53\/5313\/531302\/5313022008\/5313022008002.json",
+        "nama": "TPS 002, ILE KIMOK, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022008",
+        "tps": "5313022008003",
+        "url": "53\/5313\/531302\/5313022008\/5313022008003.json",
+        "nama": "TPS 003, ILE KIMOK, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022008",
+        "tps": "5313022008004",
+        "url": "53\/5313\/531302\/5313022008\/5313022008004.json",
+        "nama": "TPS 004, ILE KIMOK, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022008",
+        "tps": "5313022008005",
+        "url": "53\/5313\/531302\/5313022008\/5313022008005.json",
+        "nama": "TPS 005, ILE KIMOK, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022009",
+        "tps": "5313022009001",
+        "url": "53\/5313\/531302\/5313022009\/5313022009001.json",
+        "nama": "TPS 001, KATAKEJA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022009",
+        "tps": "5313022009002",
+        "url": "53\/5313\/531302\/5313022009\/5313022009002.json",
+        "nama": "TPS 002, KATAKEJA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022009",
+        "tps": "5313022009003",
+        "url": "53\/5313\/531302\/5313022009\/5313022009003.json",
+        "nama": "TPS 003, KATAKEJA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022009",
+        "tps": "5313022009004",
+        "url": "53\/5313\/531302\/5313022009\/5313022009004.json",
+        "nama": "TPS 004, KATAKEJA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022007",
+        "tps": "5313022007001",
+        "url": "53\/5313\/531302\/5313022007\/5313022007001.json",
+        "nama": "TPS 001, LEBAATA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022004",
+        "tps": "5313022004001",
+        "url": "53\/5313\/531302\/5313022004\/5313022004001.json",
+        "nama": "TPS 001, LEREK, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022004",
+        "tps": "5313022004002",
+        "url": "53\/5313\/531302\/5313022004\/5313022004002.json",
+        "nama": "TPS 002, LEREK, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022016",
+        "tps": "5313022016001",
+        "url": "53\/5313\/531302\/5313022016\/5313022016001.json",
+        "nama": "TPS 001, LEWOGROMA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022002",
+        "tps": "5313022002001",
+        "url": "53\/5313\/531302\/5313022002\/5313022002001.json",
+        "nama": "TPS 001, LUSILAME, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022002",
+        "tps": "5313022002002",
+        "url": "53\/5313\/531302\/5313022002\/5313022002002.json",
+        "nama": "TPS 002, LUSILAME, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022014",
+        "tps": "5313022014001",
+        "url": "53\/5313\/531302\/5313022014\/5313022014001.json",
+        "nama": "TPS 001, NOGO DONI, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022013",
+        "tps": "5313022013001",
+        "url": "53\/5313\/531302\/5313022013\/5313022013001.json",
+        "nama": "TPS 001, NUBA ATALOJO, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022013",
+        "tps": "5313022013002",
+        "url": "53\/5313\/531302\/5313022013\/5313022013002.json",
+        "nama": "TPS 002, NUBA ATALOJO, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022015",
+        "tps": "5313022015001",
+        "url": "53\/5313\/531302\/5313022015\/5313022015001.json",
+        "nama": "TPS 001, NUBABOLI, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022005",
+        "tps": "5313022005001",
+        "url": "53\/5313\/531302\/5313022005\/5313022005001.json",
+        "nama": "TPS 001, NUBAHAERAKA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022005",
+        "tps": "5313022005002",
+        "url": "53\/5313\/531302\/5313022005\/5313022005002.json",
+        "nama": "TPS 002, NUBAHAERAKA, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022006",
+        "tps": "5313022006001",
+        "url": "53\/5313\/531302\/5313022006\/5313022006001.json",
+        "nama": "TPS 001, TUBUKRAJAN, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531302",
+        "desa": "5313022006",
+        "tps": "5313022006002",
+        "url": "53\/5313\/531302\/5313022006\/5313022006002.json",
+        "nama": "TPS 002, TUBUKRAJAN, ATADEI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072020",
+        "tps": "5313072020001",
+        "url": "53\/5313\/531307\/5313072020\/5313072020001.json",
+        "nama": "TPS 001, ATU WA'LUPANG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072020",
+        "tps": "5313072020002",
+        "url": "53\/5313\/531307\/5313072020\/5313072020002.json",
+        "nama": "TPS 002, ATU WA'LUPANG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072003",
+        "tps": "5313072003001",
+        "url": "53\/5313\/531307\/5313072003\/5313072003001.json",
+        "nama": "TPS 001, ATULALENG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072003",
+        "tps": "5313072003002",
+        "url": "53\/5313\/531307\/5313072003\/5313072003002.json",
+        "nama": "TPS 002, ATULALENG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072013",
+        "tps": "5313072013001",
+        "url": "53\/5313\/531307\/5313072013\/5313072013001.json",
+        "nama": "TPS 001, BARENG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072013",
+        "tps": "5313072013002",
+        "url": "53\/5313\/531307\/5313072013\/5313072013002.json",
+        "nama": "TPS 002, BARENG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072013",
+        "tps": "5313072013003",
+        "url": "53\/5313\/531307\/5313072013\/5313072013003.json",
+        "nama": "TPS 003, BARENG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072015",
+        "tps": "5313072015001",
+        "url": "53\/5313\/531307\/5313072015\/5313072015001.json",
+        "nama": "TPS 001, BEAN, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072015",
+        "tps": "5313072015002",
+        "url": "53\/5313\/531307\/5313072015\/5313072015002.json",
+        "nama": "TPS 002, BEAN, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072002",
+        "tps": "5313072002001",
+        "url": "53\/5313\/531307\/5313072002\/5313072002001.json",
+        "nama": "TPS 001, BENIHADING I, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072002",
+        "tps": "5313072002002",
+        "url": "53\/5313\/531307\/5313072002\/5313072002002.json",
+        "nama": "TPS 002, BENIHADING I, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072016",
+        "tps": "5313072016001",
+        "url": "53\/5313\/531307\/5313072016\/5313072016001.json",
+        "nama": "TPS 001, BENIHADING II, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072016",
+        "tps": "5313072016002",
+        "url": "53\/5313\/531307\/5313072016\/5313072016002.json",
+        "nama": "TPS 002, BENIHADING II, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072016",
+        "tps": "5313072016003",
+        "url": "53\/5313\/531307\/5313072016\/5313072016003.json",
+        "nama": "TPS 003, BENIHADING II, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072016",
+        "tps": "5313072016004",
+        "url": "53\/5313\/531307\/5313072016\/5313072016004.json",
+        "nama": "TPS 004, BENIHADING II, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072010",
+        "tps": "5313072010001",
+        "url": "53\/5313\/531307\/5313072010\/5313072010001.json",
+        "nama": "TPS 001, BURIWUTUNG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072010",
+        "tps": "5313072010002",
+        "url": "53\/5313\/531307\/5313072010\/5313072010002.json",
+        "nama": "TPS 002, BURIWUTUNG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072010",
+        "tps": "5313072010003",
+        "url": "53\/5313\/531307\/5313072010\/5313072010003.json",
+        "nama": "TPS 003, BURIWUTUNG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072010",
+        "tps": "5313072010004",
+        "url": "53\/5313\/531307\/5313072010\/5313072010004.json",
+        "nama": "TPS 004, BURIWUTUNG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072010",
+        "tps": "5313072010005",
+        "url": "53\/5313\/531307\/5313072010\/5313072010005.json",
+        "nama": "TPS 005, BURIWUTUNG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072014",
+        "tps": "5313072014001",
+        "url": "53\/5313\/531307\/5313072014\/5313072014001.json",
+        "nama": "TPS 001, KALIKUR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072014",
+        "tps": "5313072014002",
+        "url": "53\/5313\/531307\/5313072014\/5313072014002.json",
+        "nama": "TPS 002, KALIKUR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072014",
+        "tps": "5313072014003",
+        "url": "53\/5313\/531307\/5313072014\/5313072014003.json",
+        "nama": "TPS 003, KALIKUR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072014",
+        "tps": "5313072014004",
+        "url": "53\/5313\/531307\/5313072014\/5313072014004.json",
+        "nama": "TPS 004, KALIKUR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072008",
+        "tps": "5313072008001",
+        "url": "53\/5313\/531307\/5313072008\/5313072008001.json",
+        "nama": "TPS 001, KALIKUR WL., BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072008",
+        "tps": "5313072008002",
+        "url": "53\/5313\/531307\/5313072008\/5313072008002.json",
+        "nama": "TPS 002, KALIKUR WL., BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072008",
+        "tps": "5313072008003",
+        "url": "53\/5313\/531307\/5313072008\/5313072008003.json",
+        "nama": "TPS 003, KALIKUR WL., BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072007",
+        "tps": "5313072007001",
+        "url": "53\/5313\/531307\/5313072007\/5313072007001.json",
+        "nama": "TPS 001, KAOHUA, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072007",
+        "tps": "5313072007002",
+        "url": "53\/5313\/531307\/5313072007\/5313072007002.json",
+        "nama": "TPS 002, KAOHUA, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072007",
+        "tps": "5313072007003",
+        "url": "53\/5313\/531307\/5313072007\/5313072007003.json",
+        "nama": "TPS 003, KAOHUA, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072006",
+        "tps": "5313072006001",
+        "url": "53\/5313\/531307\/5313072006\/5313072006001.json",
+        "nama": "TPS 001, LEUBURI, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072006",
+        "tps": "5313072006002",
+        "url": "53\/5313\/531307\/5313072006\/5313072006002.json",
+        "nama": "TPS 002, LEUBURI, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072006",
+        "tps": "5313072006003",
+        "url": "53\/5313\/531307\/5313072006\/5313072006003.json",
+        "nama": "TPS 003, LEUBURI, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072006",
+        "tps": "5313072006004",
+        "url": "53\/5313\/531307\/5313072006\/5313072006004.json",
+        "nama": "TPS 004, LEUBURI, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072012",
+        "tps": "5313072012001",
+        "url": "53\/5313\/531307\/5313072012\/5313072012001.json",
+        "nama": "TPS 001, LEUWOHUNG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072012",
+        "tps": "5313072012002",
+        "url": "53\/5313\/531307\/5313072012\/5313072012002.json",
+        "nama": "TPS 002, LEUWOHUNG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072012",
+        "tps": "5313072012003",
+        "url": "53\/5313\/531307\/5313072012\/5313072012003.json",
+        "nama": "TPS 003, LEUWOHUNG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072005",
+        "tps": "5313072005001",
+        "url": "53\/5313\/531307\/5313072005\/5313072005001.json",
+        "nama": "TPS 001, LOYOBOHOR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072005",
+        "tps": "5313072005002",
+        "url": "53\/5313\/531307\/5313072005\/5313072005002.json",
+        "nama": "TPS 002, LOYOBOHOR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072005",
+        "tps": "5313072005003",
+        "url": "53\/5313\/531307\/5313072005\/5313072005003.json",
+        "nama": "TPS 003, LOYOBOHOR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072005",
+        "tps": "5313072005004",
+        "url": "53\/5313\/531307\/5313072005\/5313072005004.json",
+        "nama": "TPS 004, LOYOBOHOR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072011",
+        "tps": "5313072011001",
+        "url": "53\/5313\/531307\/5313072011\/5313072011001.json",
+        "nama": "TPS 001, MAMPIR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072011",
+        "tps": "5313072011002",
+        "url": "53\/5313\/531307\/5313072011\/5313072011002.json",
+        "nama": "TPS 002, MAMPIR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072011",
+        "tps": "5313072011003",
+        "url": "53\/5313\/531307\/5313072011\/5313072011003.json",
+        "nama": "TPS 003, MAMPIR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072011",
+        "tps": "5313072011004",
+        "url": "53\/5313\/531307\/5313072011\/5313072011004.json",
+        "nama": "TPS 004, MAMPIR, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072001",
+        "tps": "5313072001001",
+        "url": "53\/5313\/531307\/5313072001\/5313072001001.json",
+        "nama": "TPS 001, PANAMA, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072001",
+        "tps": "5313072001002",
+        "url": "53\/5313\/531307\/5313072001\/5313072001002.json",
+        "nama": "TPS 002, PANAMA, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072001",
+        "tps": "5313072001003",
+        "url": "53\/5313\/531307\/5313072001\/5313072001003.json",
+        "nama": "TPS 003, PANAMA, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072001",
+        "tps": "5313072001004",
+        "url": "53\/5313\/531307\/5313072001\/5313072001004.json",
+        "nama": "TPS 004, PANAMA, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072001",
+        "tps": "5313072001005",
+        "url": "53\/5313\/531307\/5313072001\/5313072001005.json",
+        "nama": "TPS 005, PANAMA, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072004",
+        "tps": "5313072004001",
+        "url": "53\/5313\/531307\/5313072004\/5313072004001.json",
+        "nama": "TPS 001, ROHO, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072004",
+        "tps": "5313072004002",
+        "url": "53\/5313\/531307\/5313072004\/5313072004002.json",
+        "nama": "TPS 002, ROHO, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072004",
+        "tps": "5313072004003",
+        "url": "53\/5313\/531307\/5313072004\/5313072004003.json",
+        "nama": "TPS 003, ROHO, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072019",
+        "tps": "5313072019001",
+        "url": "53\/5313\/531307\/5313072019\/5313072019001.json",
+        "nama": "TPS 001, RUMANG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072019",
+        "tps": "5313072019002",
+        "url": "53\/5313\/531307\/5313072019\/5313072019002.json",
+        "nama": "TPS 002, RUMANG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072017",
+        "tps": "5313072017001",
+        "url": "53\/5313\/531307\/5313072017\/5313072017001.json",
+        "nama": "TPS 001, TOBOTANI, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072017",
+        "tps": "5313072017002",
+        "url": "53\/5313\/531307\/5313072017\/5313072017002.json",
+        "nama": "TPS 002, TOBOTANI, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072018",
+        "tps": "5313072018001",
+        "url": "53\/5313\/531307\/5313072018\/5313072018001.json",
+        "nama": "TPS 001, TUBUNG WALANG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072018",
+        "tps": "5313072018002",
+        "url": "53\/5313\/531307\/5313072018\/5313072018002.json",
+        "nama": "TPS 002, TUBUNG WALANG, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072009",
+        "tps": "5313072009001",
+        "url": "53\/5313\/531307\/5313072009\/5313072009001.json",
+        "nama": "TPS 001, UMALEU, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072009",
+        "tps": "5313072009002",
+        "url": "53\/5313\/531307\/5313072009\/5313072009002.json",
+        "nama": "TPS 002, UMALEU, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072009",
+        "tps": "5313072009003",
+        "url": "53\/5313\/531307\/5313072009\/5313072009003.json",
+        "nama": "TPS 003, UMALEU, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072009",
+        "tps": "5313072009004",
+        "url": "53\/5313\/531307\/5313072009\/5313072009004.json",
+        "nama": "TPS 004, UMALEU, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072009",
+        "tps": "5313072009005",
+        "url": "53\/5313\/531307\/5313072009\/5313072009005.json",
+        "nama": "TPS 005, UMALEU, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531307",
+        "desa": "5313072009",
+        "tps": "5313072009006",
+        "url": "53\/5313\/531307\/5313072009\/5313072009006.json",
+        "nama": "TPS 006, UMALEU, BUYASURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032005",
+        "tps": "5313032005001",
+        "url": "53\/5313\/531303\/5313032005\/5313032005001.json",
+        "nama": "TPS 001, AMAKAKA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032005",
+        "tps": "5313032005002",
+        "url": "53\/5313\/531303\/5313032005\/5313032005002.json",
+        "nama": "TPS 002, AMAKAKA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032005",
+        "tps": "5313032005003",
+        "url": "53\/5313\/531303\/5313032005\/5313032005003.json",
+        "nama": "TPS 003, AMAKAKA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032005",
+        "tps": "5313032005004",
+        "url": "53\/5313\/531303\/5313032005\/5313032005004.json",
+        "nama": "TPS 004, AMAKAKA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032025",
+        "tps": "5313032025001",
+        "url": "53\/5313\/531303\/5313032025\/5313032025001.json",
+        "nama": "TPS 001, BEUTARAN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032025",
+        "tps": "5313032025002",
+        "url": "53\/5313\/531303\/5313032025\/5313032025002.json",
+        "nama": "TPS 002, BEUTARAN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032006",
+        "tps": "5313032006001",
+        "url": "53\/5313\/531303\/5313032006\/5313032006001.json",
+        "nama": "TPS 001, BUNGAMUDA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032006",
+        "tps": "5313032006002",
+        "url": "53\/5313\/531303\/5313032006\/5313032006002.json",
+        "nama": "TPS 002, BUNGAMUDA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032002",
+        "tps": "5313032002001",
+        "url": "53\/5313\/531303\/5313032002\/5313032002001.json",
+        "nama": "TPS 001, DULITUKAN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032002",
+        "tps": "5313032002002",
+        "url": "53\/5313\/531303\/5313032002\/5313032002002.json",
+        "nama": "TPS 002, DULITUKAN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032002",
+        "tps": "5313032002003",
+        "url": "53\/5313\/531303\/5313032002\/5313032002003.json",
+        "nama": "TPS 003, DULITUKAN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032001",
+        "tps": "5313032001001",
+        "url": "53\/5313\/531303\/5313032001\/5313032001001.json",
+        "nama": "TPS 001, KOLIPADAN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032001",
+        "tps": "5313032001002",
+        "url": "53\/5313\/531303\/5313032001\/5313032001002.json",
+        "nama": "TPS 002, KOLIPADAN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032001",
+        "tps": "5313032001003",
+        "url": "53\/5313\/531303\/5313032001\/5313032001003.json",
+        "nama": "TPS 003, KOLIPADAN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032013",
+        "tps": "5313032013001",
+        "url": "53\/5313\/531303\/5313032013\/5313032013001.json",
+        "nama": "TPS 001, KOLONTOBO, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032013",
+        "tps": "5313032013002",
+        "url": "53\/5313\/531303\/5313032013\/5313032013002.json",
+        "nama": "TPS 002, KOLONTOBO, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032013",
+        "tps": "5313032013003",
+        "url": "53\/5313\/531303\/5313032013\/5313032013003.json",
+        "nama": "TPS 003, KOLONTOBO, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032013",
+        "tps": "5313032013004",
+        "url": "53\/5313\/531303\/5313032013\/5313032013004.json",
+        "nama": "TPS 004, KOLONTOBO, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032024",
+        "tps": "5313032024001",
+        "url": "53\/5313\/531303\/5313032024\/5313032024001.json",
+        "nama": "TPS 001, LAMAWARA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032024",
+        "tps": "5313032024002",
+        "url": "53\/5313\/531303\/5313032024\/5313032024002.json",
+        "nama": "TPS 002, LAMAWARA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032014",
+        "tps": "5313032014001",
+        "url": "53\/5313\/531303\/5313032014\/5313032014001.json",
+        "nama": "TPS 001, LARANWUTUN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032014",
+        "tps": "5313032014002",
+        "url": "53\/5313\/531303\/5313032014\/5313032014002.json",
+        "nama": "TPS 002, LARANWUTUN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032014",
+        "tps": "5313032014003",
+        "url": "53\/5313\/531303\/5313032014\/5313032014003.json",
+        "nama": "TPS 003, LARANWUTUN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032014",
+        "tps": "5313032014004",
+        "url": "53\/5313\/531303\/5313032014\/5313032014004.json",
+        "nama": "TPS 004, LARANWUTUN, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032018",
+        "tps": "5313032018001",
+        "url": "53\/5313\/531303\/5313032018\/5313032018001.json",
+        "nama": "TPS 001, MURUONA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032018",
+        "tps": "5313032018002",
+        "url": "53\/5313\/531303\/5313032018\/5313032018002.json",
+        "nama": "TPS 002, MURUONA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032007",
+        "tps": "5313032007001",
+        "url": "53\/5313\/531303\/5313032007\/5313032007001.json",
+        "nama": "TPS 001, NAPASABOK, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032007",
+        "tps": "5313032007002",
+        "url": "53\/5313\/531303\/5313032007\/5313032007002.json",
+        "nama": "TPS 002, NAPASABOK, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032022",
+        "tps": "5313032022001",
+        "url": "53\/5313\/531303\/5313032022\/5313032022001.json",
+        "nama": "TPS 001, PALILOLON, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032012",
+        "tps": "5313032012001",
+        "url": "53\/5313\/531303\/5313032012\/5313032012001.json",
+        "nama": "TPS 001, PETUNTAWA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032012",
+        "tps": "5313032012002",
+        "url": "53\/5313\/531303\/5313032012\/5313032012002.json",
+        "nama": "TPS 002, PETUNTAWA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032026",
+        "tps": "5313032026001",
+        "url": "53\/5313\/531303\/5313032026\/5313032026001.json",
+        "nama": "TPS 001, RIANGBAO, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032026",
+        "tps": "5313032026002",
+        "url": "53\/5313\/531303\/5313032026\/5313032026002.json",
+        "nama": "TPS 002, RIANGBAO, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032003",
+        "tps": "5313032003001",
+        "url": "53\/5313\/531303\/5313032003\/5313032003001.json",
+        "nama": "TPS 001, TAGAWITI, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032003",
+        "tps": "5313032003002",
+        "url": "53\/5313\/531303\/5313032003\/5313032003002.json",
+        "nama": "TPS 002, TAGAWITI, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032003",
+        "tps": "5313032003003",
+        "url": "53\/5313\/531303\/5313032003\/5313032003003.json",
+        "nama": "TPS 003, TAGAWITI, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032016",
+        "tps": "5313032016001",
+        "url": "53\/5313\/531303\/5313032016\/5313032016001.json",
+        "nama": "TPS 001, TANJUNG BATU, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032016",
+        "tps": "5313032016002",
+        "url": "53\/5313\/531303\/5313032016\/5313032016002.json",
+        "nama": "TPS 002, TANJUNG BATU, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032004",
+        "tps": "5313032004001",
+        "url": "53\/5313\/531303\/5313032004\/5313032004001.json",
+        "nama": "TPS 001, WAOWALA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032004",
+        "tps": "5313032004002",
+        "url": "53\/5313\/531303\/5313032004\/5313032004002.json",
+        "nama": "TPS 002, WAOWALA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032004",
+        "tps": "5313032004003",
+        "url": "53\/5313\/531303\/5313032004\/5313032004003.json",
+        "nama": "TPS 003, WAOWALA, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032015",
+        "tps": "5313032015001",
+        "url": "53\/5313\/531303\/5313032015\/5313032015001.json",
+        "nama": "TPS 001, WATODIRI, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531303",
+        "desa": "5313032015",
+        "tps": "5313032015002",
+        "url": "53\/5313\/531303\/5313032015\/5313032015002.json",
+        "nama": "TPS 002, WATODIRI, ILE APE, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092007",
+        "tps": "5313092007001",
+        "url": "53\/5313\/531309\/5313092007\/5313092007001.json",
+        "nama": "TPS 001, AULESA, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092007",
+        "tps": "5313092007002",
+        "url": "53\/5313\/531309\/5313092007\/5313092007002.json",
+        "nama": "TPS 002, AULESA, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092005",
+        "tps": "5313092005001",
+        "url": "53\/5313\/531309\/5313092005\/5313092005001.json",
+        "nama": "TPS 001, BAO LALI DULI, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092002",
+        "tps": "5313092002001",
+        "url": "53\/5313\/531309\/5313092002\/5313092002001.json",
+        "nama": "TPS 001, JONTONA, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092002",
+        "tps": "5313092002002",
+        "url": "53\/5313\/531309\/5313092002\/5313092002002.json",
+        "nama": "TPS 002, JONTONA, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092002",
+        "tps": "5313092002003",
+        "url": "53\/5313\/531309\/5313092002\/5313092002003.json",
+        "nama": "TPS 003, JONTONA, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092002",
+        "tps": "5313092002004",
+        "url": "53\/5313\/531309\/5313092002\/5313092002004.json",
+        "nama": "TPS 004, JONTONA, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092006",
+        "tps": "5313092006001",
+        "url": "53\/5313\/531309\/5313092006\/5313092006001.json",
+        "nama": "TPS 001, LAMAAU, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092009",
+        "tps": "5313092009001",
+        "url": "53\/5313\/531309\/5313092009\/5313092009001.json",
+        "nama": "TPS 001, LAMAGUTE, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092009",
+        "tps": "5313092009002",
+        "url": "53\/5313\/531309\/5313092009\/5313092009002.json",
+        "nama": "TPS 002, LAMAGUTE, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092004",
+        "tps": "5313092004001",
+        "url": "53\/5313\/531309\/5313092004\/5313092004001.json",
+        "nama": "TPS 001, LAMATOKAN, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092004",
+        "tps": "5313092004002",
+        "url": "53\/5313\/531309\/5313092004\/5313092004002.json",
+        "nama": "TPS 002, LAMATOKAN, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092004",
+        "tps": "5313092004003",
+        "url": "53\/5313\/531309\/5313092004\/5313092004003.json",
+        "nama": "TPS 003, LAMATOKAN, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092004",
+        "tps": "5313092004004",
+        "url": "53\/5313\/531309\/5313092004\/5313092004004.json",
+        "nama": "TPS 004, LAMATOKAN, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092003",
+        "tps": "5313092003001",
+        "url": "53\/5313\/531309\/5313092003\/5313092003001.json",
+        "nama": "TPS 001, LAMAWOLO, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092003",
+        "tps": "5313092003002",
+        "url": "53\/5313\/531309\/5313092003\/5313092003002.json",
+        "nama": "TPS 002, LAMAWOLO, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092001",
+        "tps": "5313092001001",
+        "url": "53\/5313\/531309\/5313092001\/5313092001001.json",
+        "nama": "TPS 001, TODANARA, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092001",
+        "tps": "5313092001002",
+        "url": "53\/5313\/531309\/5313092001\/5313092001002.json",
+        "nama": "TPS 002, TODANARA, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092008",
+        "tps": "5313092008001",
+        "url": "53\/5313\/531309\/5313092008\/5313092008001.json",
+        "nama": "TPS 001, WAIMATAN, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531309",
+        "desa": "5313092008",
+        "tps": "5313092008002",
+        "url": "53\/5313\/531309\/5313092008\/5313092008002.json",
+        "nama": "TPS 002, WAIMATAN, ILE APE TIMUR, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042016",
+        "tps": "5313042016001",
+        "url": "53\/5313\/531304\/5313042016\/5313042016001.json",
+        "nama": "TPS 001, ATAKOWA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042012",
+        "tps": "5313042012001",
+        "url": "53\/5313\/531304\/5313042012\/5313042012001.json",
+        "nama": "TPS 001, BALUREBONG, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042012",
+        "tps": "5313042012002",
+        "url": "53\/5313\/531304\/5313042012\/5313042012002.json",
+        "nama": "TPS 002, BALUREBONG, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042012",
+        "tps": "5313042012003",
+        "url": "53\/5313\/531304\/5313042012\/5313042012003.json",
+        "nama": "TPS 003, BALUREBONG, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042017",
+        "tps": "5313042017001",
+        "url": "53\/5313\/531304\/5313042017\/5313042017001.json",
+        "nama": "TPS 001, BANITOBO, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042017",
+        "tps": "5313042017002",
+        "url": "53\/5313\/531304\/5313042017\/5313042017002.json",
+        "nama": "TPS 002, BANITOBO, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042005",
+        "tps": "5313042005001",
+        "url": "53\/5313\/531304\/5313042005\/5313042005001.json",
+        "nama": "TPS 001, BAOPANA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042005",
+        "tps": "5313042005002",
+        "url": "53\/5313\/531304\/5313042005\/5313042005002.json",
+        "nama": "TPS 002, BAOPANA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042005",
+        "tps": "5313042005003",
+        "url": "53\/5313\/531304\/5313042005\/5313042005003.json",
+        "nama": "TPS 003, BAOPANA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042008",
+        "tps": "5313042008001",
+        "url": "53\/5313\/531304\/5313042008\/5313042008001.json",
+        "nama": "TPS 001, DIKESARE, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042008",
+        "tps": "5313042008002",
+        "url": "53\/5313\/531304\/5313042008\/5313042008002.json",
+        "nama": "TPS 002, DIKESARE, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042001",
+        "tps": "5313042001001",
+        "url": "53\/5313\/531304\/5313042001\/5313042001001.json",
+        "nama": "TPS 001, HADAKEWA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042001",
+        "tps": "5313042001002",
+        "url": "53\/5313\/531304\/5313042001\/5313042001002.json",
+        "nama": "TPS 002, HADAKEWA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042001",
+        "tps": "5313042001003",
+        "url": "53\/5313\/531304\/5313042001\/5313042001003.json",
+        "nama": "TPS 003, HADAKEWA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042013",
+        "tps": "5313042013001",
+        "url": "53\/5313\/531304\/5313042013\/5313042013001.json",
+        "nama": "TPS 001, LAMADALE, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042015",
+        "tps": "5313042015001",
+        "url": "53\/5313\/531304\/5313042015\/5313042015001.json",
+        "nama": "TPS 001, LAMALELA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042015",
+        "tps": "5313042015002",
+        "url": "53\/5313\/531304\/5313042015\/5313042015002.json",
+        "nama": "TPS 002, LAMALELA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042002",
+        "tps": "5313042002001",
+        "url": "53\/5313\/531304\/5313042002\/5313042002001.json",
+        "nama": "TPS 001, LAMATUKA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042002",
+        "tps": "5313042002002",
+        "url": "53\/5313\/531304\/5313042002\/5313042002002.json",
+        "nama": "TPS 002, LAMATUKA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042010",
+        "tps": "5313042010001",
+        "url": "53\/5313\/531304\/5313042010\/5313042010001.json",
+        "nama": "TPS 001, LERAHINGA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042010",
+        "tps": "5313042010002",
+        "url": "53\/5313\/531304\/5313042010\/5313042010002.json",
+        "nama": "TPS 002, LERAHINGA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042007",
+        "tps": "5313042007001",
+        "url": "53\/5313\/531304\/5313042007\/5313042007001.json",
+        "nama": "TPS 001, LEWOELENG, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042007",
+        "tps": "5313042007002",
+        "url": "53\/5313\/531304\/5313042007\/5313042007002.json",
+        "nama": "TPS 002, LEWOELENG, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042004",
+        "tps": "5313042004001",
+        "url": "53\/5313\/531304\/5313042004\/5313042004001.json",
+        "nama": "TPS 001, LODOTODOKOWA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042004",
+        "tps": "5313042004002",
+        "url": "53\/5313\/531304\/5313042004\/5313042004002.json",
+        "nama": "TPS 002, LODOTODOKOWA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042009",
+        "tps": "5313042009001",
+        "url": "53\/5313\/531304\/5313042009\/5313042009001.json",
+        "nama": "TPS 001, MERDEKA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042009",
+        "tps": "5313042009002",
+        "url": "53\/5313\/531304\/5313042009\/5313042009002.json",
+        "nama": "TPS 002, MERDEKA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042003",
+        "tps": "5313042003001",
+        "url": "53\/5313\/531304\/5313042003\/5313042003001.json",
+        "nama": "TPS 001, SERANGGORANG, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042003",
+        "tps": "5313042003002",
+        "url": "53\/5313\/531304\/5313042003\/5313042003002.json",
+        "nama": "TPS 002, SERANGGORANG, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042011",
+        "tps": "5313042011001",
+        "url": "53\/5313\/531304\/5313042011\/5313042011001.json",
+        "nama": "TPS 001, TAPOBARANG, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042011",
+        "tps": "5313042011002",
+        "url": "53\/5313\/531304\/5313042011\/5313042011002.json",
+        "nama": "TPS 002, TAPOBARANG, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042014",
+        "tps": "5313042014001",
+        "url": "53\/5313\/531304\/5313042014\/5313042014001.json",
+        "nama": "TPS 001, TAPOLANGU, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042014",
+        "tps": "5313042014002",
+        "url": "53\/5313\/531304\/5313042014\/5313042014002.json",
+        "nama": "TPS 002, TAPOLANGU, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042006",
+        "tps": "5313042006001",
+        "url": "53\/5313\/531304\/5313042006\/5313042006001.json",
+        "nama": "TPS 001, WAIENGA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042006",
+        "tps": "5313042006002",
+        "url": "53\/5313\/531304\/5313042006\/5313042006002.json",
+        "nama": "TPS 002, WAIENGA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531304",
+        "desa": "5313042006",
+        "tps": "5313042006003",
+        "url": "53\/5313\/531304\/5313042006\/5313042006003.json",
+        "nama": "TPS 003, WAIENGA, LEBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012003",
+        "tps": "5313012003001",
+        "url": "53\/5313\/531301\/5313012003\/5313012003001.json",
+        "nama": "TPS 001, ATAWAI, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012003",
+        "tps": "5313012003002",
+        "url": "53\/5313\/531301\/5313012003\/5313012003002.json",
+        "nama": "TPS 002, ATAWAI, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012007",
+        "tps": "5313012007001",
+        "url": "53\/5313\/531301\/5313012007\/5313012007001.json",
+        "nama": "TPS 001, BABOKERONG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012007",
+        "tps": "5313012007002",
+        "url": "53\/5313\/531301\/5313012007\/5313012007002.json",
+        "nama": "TPS 002, BABOKERONG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012007",
+        "tps": "5313012007003",
+        "url": "53\/5313\/531301\/5313012007\/5313012007003.json",
+        "nama": "TPS 003, BABOKERONG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012012",
+        "tps": "5313012012001",
+        "url": "53\/5313\/531301\/5313012012\/5313012012001.json",
+        "nama": "TPS 001, BAOBOLAK, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012009",
+        "tps": "5313012009001",
+        "url": "53\/5313\/531301\/5313012009\/5313012009001.json",
+        "nama": "TPS 001, BELOBAJA, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012009",
+        "tps": "5313012009002",
+        "url": "53\/5313\/531301\/5313012009\/5313012009002.json",
+        "nama": "TPS 002, BELOBAJA, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012014",
+        "tps": "5313012014001",
+        "url": "53\/5313\/531301\/5313012014\/5313012014001.json",
+        "nama": "TPS 001, BOLI BEAN, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012014",
+        "tps": "5313012014002",
+        "url": "53\/5313\/531301\/5313012014\/5313012014002.json",
+        "nama": "TPS 002, BOLI BEAN, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012002",
+        "tps": "5313012002001",
+        "url": "53\/5313\/531301\/5313012002\/5313012002001.json",
+        "nama": "TPS 001, DUAWUTUN, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012002",
+        "tps": "5313012002002",
+        "url": "53\/5313\/531301\/5313012002\/5313012002002.json",
+        "nama": "TPS 002, DUAWUTUN, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012016",
+        "tps": "5313012016001",
+        "url": "53\/5313\/531301\/5313012016\/5313012016001.json",
+        "nama": "TPS 001, IDALOLONG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012016",
+        "tps": "5313012016002",
+        "url": "53\/5313\/531301\/5313012016\/5313012016002.json",
+        "nama": "TPS 002, IDALOLONG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012006",
+        "tps": "5313012006001",
+        "url": "53\/5313\/531301\/5313012006\/5313012006001.json",
+        "nama": "TPS 001, ILEBOLI, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012005",
+        "tps": "5313012005001",
+        "url": "53\/5313\/531301\/5313012005\/5313012005001.json",
+        "nama": "TPS 001, LABALIMUT, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012005",
+        "tps": "5313012005002",
+        "url": "53\/5313\/531301\/5313012005\/5313012005002.json",
+        "nama": "TPS 002, LABALIMUT, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012005",
+        "tps": "5313012005003",
+        "url": "53\/5313\/531301\/5313012005\/5313012005003.json",
+        "nama": "TPS 003, LABALIMUT, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012018",
+        "tps": "5313012018001",
+        "url": "53\/5313\/531301\/5313012018\/5313012018001.json",
+        "nama": "TPS 001, LIWULAGANG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012010",
+        "tps": "5313012010001",
+        "url": "53\/5313\/531301\/5313012010\/5313012010001.json",
+        "nama": "TPS 001, LOLONG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012004",
+        "tps": "5313012004001",
+        "url": "53\/5313\/531301\/5313012004\/5313012004001.json",
+        "nama": "TPS 001, LUSIDUAWUTUN, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012004",
+        "tps": "5313012004002",
+        "url": "53\/5313\/531301\/5313012004\/5313012004002.json",
+        "nama": "TPS 002, LUSIDUAWUTUN, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012001",
+        "tps": "5313012001001",
+        "url": "53\/5313\/531301\/5313012001\/5313012001001.json",
+        "nama": "TPS 001, PASIR PUTIH, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012001",
+        "tps": "5313012001002",
+        "url": "53\/5313\/531301\/5313012001\/5313012001002.json",
+        "nama": "TPS 002, PASIR PUTIH, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012001",
+        "tps": "5313012001003",
+        "url": "53\/5313\/531301\/5313012001\/5313012001003.json",
+        "nama": "TPS 003, PASIR PUTIH, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012001",
+        "tps": "5313012001004",
+        "url": "53\/5313\/531301\/5313012001\/5313012001004.json",
+        "nama": "TPS 004, PASIR PUTIH, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012008",
+        "tps": "5313012008001",
+        "url": "53\/5313\/531301\/5313012008\/5313012008001.json",
+        "nama": "TPS 001, PENIKENEK, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012017",
+        "tps": "5313012017001",
+        "url": "53\/5313\/531301\/5313012017\/5313012017001.json",
+        "nama": "TPS 001, RIA BAO, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012017",
+        "tps": "5313012017002",
+        "url": "53\/5313\/531301\/5313012017\/5313012017002.json",
+        "nama": "TPS 002, RIA BAO, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012013",
+        "tps": "5313012013001",
+        "url": "53\/5313\/531301\/5313012013\/5313012013001.json",
+        "nama": "TPS 001, TEWAOWUTUNG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012015",
+        "tps": "5313012015001",
+        "url": "53\/5313\/531301\/5313012015\/5313012015001.json",
+        "nama": "TPS 001, WARAWATUNG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012011",
+        "tps": "5313012011001",
+        "url": "53\/5313\/531301\/5313012011\/5313012011001.json",
+        "nama": "TPS 001, WUAKORENG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531301",
+        "desa": "5313012011",
+        "tps": "5313012011002",
+        "url": "53\/5313\/531301\/5313012011\/5313012011002.json",
+        "nama": "TPS 002, WUAKORENG, NAGA WUTUNG, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052018",
+        "tps": "5313052018001",
+        "url": "53\/5313\/531305\/5313052018\/5313052018001.json",
+        "nama": "TPS 001, BAKALEREK, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052018",
+        "tps": "5313052018002",
+        "url": "53\/5313\/531305\/5313052018\/5313052018002.json",
+        "nama": "TPS 002, BAKALEREK, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052006",
+        "tps": "5313052006001",
+        "url": "53\/5313\/531305\/5313052006\/5313052006001.json",
+        "nama": "TPS 001, BAOLANGU, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052006",
+        "tps": "5313052006002",
+        "url": "53\/5313\/531305\/5313052006\/5313052006002.json",
+        "nama": "TPS 002, BAOLANGU, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052009",
+        "tps": "5313052009001",
+        "url": "53\/5313\/531305\/5313052009\/5313052009001.json",
+        "nama": "TPS 001, BELOBATANG, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052009",
+        "tps": "5313052009002",
+        "url": "53\/5313\/531305\/5313052009\/5313052009002.json",
+        "nama": "TPS 002, BELOBATANG, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052019",
+        "tps": "5313052019001",
+        "url": "53\/5313\/531305\/5313052019\/5313052019001.json",
+        "nama": "TPS 001, BOUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001001",
+        "url": "53\/5313\/531305\/5313051001\/5313051001001.json",
+        "nama": "TPS 001, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001002",
+        "url": "53\/5313\/531305\/5313051001\/5313051001002.json",
+        "nama": "TPS 002, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001003",
+        "url": "53\/5313\/531305\/5313051001\/5313051001003.json",
+        "nama": "TPS 003, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001004",
+        "url": "53\/5313\/531305\/5313051001\/5313051001004.json",
+        "nama": "TPS 004, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001005",
+        "url": "53\/5313\/531305\/5313051001\/5313051001005.json",
+        "nama": "TPS 005, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001006",
+        "url": "53\/5313\/531305\/5313051001\/5313051001006.json",
+        "nama": "TPS 006, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001007",
+        "url": "53\/5313\/531305\/5313051001\/5313051001007.json",
+        "nama": "TPS 007, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001008",
+        "url": "53\/5313\/531305\/5313051001\/5313051001008.json",
+        "nama": "TPS 008, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001009",
+        "url": "53\/5313\/531305\/5313051001\/5313051001009.json",
+        "nama": "TPS 009, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001010",
+        "url": "53\/5313\/531305\/5313051001\/5313051001010.json",
+        "nama": "TPS 010, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001011",
+        "url": "53\/5313\/531305\/5313051001\/5313051001011.json",
+        "nama": "TPS 011, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001012",
+        "url": "53\/5313\/531305\/5313051001\/5313051001012.json",
+        "nama": "TPS 012, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051001",
+        "tps": "5313051001013",
+        "url": "53\/5313\/531305\/5313051001\/5313051001013.json",
+        "nama": "TPS 013, LEWOLEBA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017001",
+        "url": "53\/5313\/531305\/5313051017\/5313051017001.json",
+        "nama": "TPS 001, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017002",
+        "url": "53\/5313\/531305\/5313051017\/5313051017002.json",
+        "nama": "TPS 002, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017003",
+        "url": "53\/5313\/531305\/5313051017\/5313051017003.json",
+        "nama": "TPS 003, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017004",
+        "url": "53\/5313\/531305\/5313051017\/5313051017004.json",
+        "nama": "TPS 004, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017005",
+        "url": "53\/5313\/531305\/5313051017\/5313051017005.json",
+        "nama": "TPS 005, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017006",
+        "url": "53\/5313\/531305\/5313051017\/5313051017006.json",
+        "nama": "TPS 006, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017007",
+        "url": "53\/5313\/531305\/5313051017\/5313051017007.json",
+        "nama": "TPS 007, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017008",
+        "url": "53\/5313\/531305\/5313051017\/5313051017008.json",
+        "nama": "TPS 008, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017009",
+        "url": "53\/5313\/531305\/5313051017\/5313051017009.json",
+        "nama": "TPS 009, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017010",
+        "url": "53\/5313\/531305\/5313051017\/5313051017010.json",
+        "nama": "TPS 010, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051017",
+        "tps": "5313051017011",
+        "url": "53\/5313\/531305\/5313051017\/5313051017011.json",
+        "nama": "TPS 011, LEWOLEBA BARAT, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051016",
+        "tps": "5313051016001",
+        "url": "53\/5313\/531305\/5313051016\/5313051016001.json",
+        "nama": "TPS 001, LEWOLEBA SELATAN, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051016",
+        "tps": "5313051016002",
+        "url": "53\/5313\/531305\/5313051016\/5313051016002.json",
+        "nama": "TPS 002, LEWOLEBA SELATAN, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051016",
+        "tps": "5313051016003",
+        "url": "53\/5313\/531305\/5313051016\/5313051016003.json",
+        "nama": "TPS 003, LEWOLEBA SELATAN, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051016",
+        "tps": "5313051016004",
+        "url": "53\/5313\/531305\/5313051016\/5313051016004.json",
+        "nama": "TPS 004, LEWOLEBA SELATAN, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051016",
+        "tps": "5313051016005",
+        "url": "53\/5313\/531305\/5313051016\/5313051016005.json",
+        "nama": "TPS 005, LEWOLEBA SELATAN, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051016",
+        "tps": "5313051016006",
+        "url": "53\/5313\/531305\/5313051016\/5313051016006.json",
+        "nama": "TPS 006, LEWOLEBA SELATAN, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051016",
+        "tps": "5313051016007",
+        "url": "53\/5313\/531305\/5313051016\/5313051016007.json",
+        "nama": "TPS 007, LEWOLEBA SELATAN, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051016",
+        "tps": "5313051016008",
+        "url": "53\/5313\/531305\/5313051016\/5313051016008.json",
+        "nama": "TPS 008, LEWOLEBA SELATAN, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051016",
+        "tps": "5313051016009",
+        "url": "53\/5313\/531305\/5313051016\/5313051016009.json",
+        "nama": "TPS 009, LEWOLEBA SELATAN, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003001",
+        "url": "53\/5313\/531305\/5313051003\/5313051003001.json",
+        "nama": "TPS 001, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003002",
+        "url": "53\/5313\/531305\/5313051003\/5313051003002.json",
+        "nama": "TPS 002, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003003",
+        "url": "53\/5313\/531305\/5313051003\/5313051003003.json",
+        "nama": "TPS 003, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003004",
+        "url": "53\/5313\/531305\/5313051003\/5313051003004.json",
+        "nama": "TPS 004, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003005",
+        "url": "53\/5313\/531305\/5313051003\/5313051003005.json",
+        "nama": "TPS 005, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003006",
+        "url": "53\/5313\/531305\/5313051003\/5313051003006.json",
+        "nama": "TPS 006, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003007",
+        "url": "53\/5313\/531305\/5313051003\/5313051003007.json",
+        "nama": "TPS 007, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003008",
+        "url": "53\/5313\/531305\/5313051003\/5313051003008.json",
+        "nama": "TPS 008, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003009",
+        "url": "53\/5313\/531305\/5313051003\/5313051003009.json",
+        "nama": "TPS 009, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051003",
+        "tps": "5313051003010",
+        "url": "53\/5313\/531305\/5313051003\/5313051003010.json",
+        "nama": "TPS 010, LEWOLEBA TENGAH, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002001",
+        "url": "53\/5313\/531305\/5313051002\/5313051002001.json",
+        "nama": "TPS 001, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002002",
+        "url": "53\/5313\/531305\/5313051002\/5313051002002.json",
+        "nama": "TPS 002, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002003",
+        "url": "53\/5313\/531305\/5313051002\/5313051002003.json",
+        "nama": "TPS 003, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002004",
+        "url": "53\/5313\/531305\/5313051002\/5313051002004.json",
+        "nama": "TPS 004, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002005",
+        "url": "53\/5313\/531305\/5313051002\/5313051002005.json",
+        "nama": "TPS 005, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002006",
+        "url": "53\/5313\/531305\/5313051002\/5313051002006.json",
+        "nama": "TPS 006, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002007",
+        "url": "53\/5313\/531305\/5313051002\/5313051002007.json",
+        "nama": "TPS 007, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002008",
+        "url": "53\/5313\/531305\/5313051002\/5313051002008.json",
+        "nama": "TPS 008, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002009",
+        "url": "53\/5313\/531305\/5313051002\/5313051002009.json",
+        "nama": "TPS 009, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002010",
+        "url": "53\/5313\/531305\/5313051002\/5313051002010.json",
+        "nama": "TPS 010, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002011",
+        "url": "53\/5313\/531305\/5313051002\/5313051002011.json",
+        "nama": "TPS 011, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002012",
+        "url": "53\/5313\/531305\/5313051002\/5313051002012.json",
+        "nama": "TPS 012, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002013",
+        "url": "53\/5313\/531305\/5313051002\/5313051002013.json",
+        "nama": "TPS 013, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051002",
+        "tps": "5313051002014",
+        "url": "53\/5313\/531305\/5313051002\/5313051002014.json",
+        "nama": "TPS 014, LEWOLEBA TIMUR, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004001",
+        "url": "53\/5313\/531305\/5313051004\/5313051004001.json",
+        "nama": "TPS 001, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004002",
+        "url": "53\/5313\/531305\/5313051004\/5313051004002.json",
+        "nama": "TPS 002, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004003",
+        "url": "53\/5313\/531305\/5313051004\/5313051004003.json",
+        "nama": "TPS 003, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004004",
+        "url": "53\/5313\/531305\/5313051004\/5313051004004.json",
+        "nama": "TPS 004, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004005",
+        "url": "53\/5313\/531305\/5313051004\/5313051004005.json",
+        "nama": "TPS 005, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004006",
+        "url": "53\/5313\/531305\/5313051004\/5313051004006.json",
+        "nama": "TPS 006, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004007",
+        "url": "53\/5313\/531305\/5313051004\/5313051004007.json",
+        "nama": "TPS 007, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004008",
+        "url": "53\/5313\/531305\/5313051004\/5313051004008.json",
+        "nama": "TPS 008, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004009",
+        "url": "53\/5313\/531305\/5313051004\/5313051004009.json",
+        "nama": "TPS 009, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004010",
+        "url": "53\/5313\/531305\/5313051004\/5313051004010.json",
+        "nama": "TPS 010, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004011",
+        "url": "53\/5313\/531305\/5313051004\/5313051004011.json",
+        "nama": "TPS 011, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051004",
+        "tps": "5313051004901",
+        "url": "53\/5313\/531305\/5313051004\/5313051004901.json",
+        "nama": "TPS 901, LEWOLEBA UTARA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052014",
+        "tps": "5313052014001",
+        "url": "53\/5313\/531305\/5313052014\/5313052014001.json",
+        "nama": "TPS 001, LITE ULU MADO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052007",
+        "tps": "5313052007001",
+        "url": "53\/5313\/531305\/5313052007\/5313052007001.json",
+        "nama": "TPS 001, NUBAMADO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052007",
+        "tps": "5313052007002",
+        "url": "53\/5313\/531305\/5313052007\/5313052007002.json",
+        "nama": "TPS 002, NUBAMADO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052013",
+        "tps": "5313052013001",
+        "url": "53\/5313\/531305\/5313052013\/5313052013001.json",
+        "nama": "TPS 001, PADA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052013",
+        "tps": "5313052013002",
+        "url": "53\/5313\/531305\/5313052013\/5313052013002.json",
+        "nama": "TPS 002, PADA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052013",
+        "tps": "5313052013003",
+        "url": "53\/5313\/531305\/5313052013\/5313052013003.json",
+        "nama": "TPS 003, PADA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052013",
+        "tps": "5313052013004",
+        "url": "53\/5313\/531305\/5313052013\/5313052013004.json",
+        "nama": "TPS 004, PADA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052012",
+        "tps": "5313052012001",
+        "url": "53\/5313\/531305\/5313052012\/5313052012001.json",
+        "nama": "TPS 001, PAUBOKOL, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015001",
+        "url": "53\/5313\/531305\/5313051015\/5313051015001.json",
+        "nama": "TPS 001, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015002",
+        "url": "53\/5313\/531305\/5313051015\/5313051015002.json",
+        "nama": "TPS 002, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015003",
+        "url": "53\/5313\/531305\/5313051015\/5313051015003.json",
+        "nama": "TPS 003, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015004",
+        "url": "53\/5313\/531305\/5313051015\/5313051015004.json",
+        "nama": "TPS 004, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015005",
+        "url": "53\/5313\/531305\/5313051015\/5313051015005.json",
+        "nama": "TPS 005, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015006",
+        "url": "53\/5313\/531305\/5313051015\/5313051015006.json",
+        "nama": "TPS 006, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015007",
+        "url": "53\/5313\/531305\/5313051015\/5313051015007.json",
+        "nama": "TPS 007, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015008",
+        "url": "53\/5313\/531305\/5313051015\/5313051015008.json",
+        "nama": "TPS 008, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015009",
+        "url": "53\/5313\/531305\/5313051015\/5313051015009.json",
+        "nama": "TPS 009, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015010",
+        "url": "53\/5313\/531305\/5313051015\/5313051015010.json",
+        "nama": "TPS 010, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015011",
+        "url": "53\/5313\/531305\/5313051015\/5313051015011.json",
+        "nama": "TPS 011, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015012",
+        "url": "53\/5313\/531305\/5313051015\/5313051015012.json",
+        "nama": "TPS 012, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015013",
+        "url": "53\/5313\/531305\/5313051015\/5313051015013.json",
+        "nama": "TPS 013, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015014",
+        "url": "53\/5313\/531305\/5313051015\/5313051015014.json",
+        "nama": "TPS 014, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015015",
+        "url": "53\/5313\/531305\/5313051015\/5313051015015.json",
+        "nama": "TPS 015, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015016",
+        "url": "53\/5313\/531305\/5313051015\/5313051015016.json",
+        "nama": "TPS 016, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015017",
+        "url": "53\/5313\/531305\/5313051015\/5313051015017.json",
+        "nama": "TPS 017, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313051015",
+        "tps": "5313051015018",
+        "url": "53\/5313\/531305\/5313051015\/5313051015018.json",
+        "nama": "TPS 018, SELANDORO, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052011",
+        "tps": "5313052011001",
+        "url": "53\/5313\/531305\/5313052011\/5313052011001.json",
+        "nama": "TPS 001, UDAK MELOMATA, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052010",
+        "tps": "5313052010001",
+        "url": "53\/5313\/531305\/5313052010\/5313052010001.json",
+        "nama": "TPS 001, WAIJARANG, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052010",
+        "tps": "5313052010002",
+        "url": "53\/5313\/531305\/5313052010\/5313052010002.json",
+        "nama": "TPS 002, WAIJARANG, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052008",
+        "tps": "5313052008001",
+        "url": "53\/5313\/531305\/5313052008\/5313052008001.json",
+        "nama": "TPS 001, WATOKOBU, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052008",
+        "tps": "5313052008002",
+        "url": "53\/5313\/531305\/5313052008\/5313052008002.json",
+        "nama": "TPS 002, WATOKOBU, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052008",
+        "tps": "5313052008003",
+        "url": "53\/5313\/531305\/5313052008\/5313052008003.json",
+        "nama": "TPS 003, WATOKOBU, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531305",
+        "desa": "5313052008",
+        "tps": "5313052008004",
+        "url": "53\/5313\/531305\/5313052008\/5313052008004.json",
+        "nama": "TPS 004, WATOKOBU, NUBATUKAN, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062006",
+        "tps": "5313062006001",
+        "url": "53\/5313\/531306\/5313062006\/5313062006001.json",
+        "nama": "TPS 001, ARAMENGI, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062006",
+        "tps": "5313062006002",
+        "url": "53\/5313\/531306\/5313062006\/5313062006002.json",
+        "nama": "TPS 002, ARAMENGI, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062001",
+        "tps": "5313062001001",
+        "url": "53\/5313\/531306\/5313062001\/5313062001001.json",
+        "nama": "TPS 001, BALAURING, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062001",
+        "tps": "5313062001002",
+        "url": "53\/5313\/531306\/5313062001\/5313062001002.json",
+        "nama": "TPS 002, BALAURING, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062001",
+        "tps": "5313062001003",
+        "url": "53\/5313\/531306\/5313062001\/5313062001003.json",
+        "nama": "TPS 003, BALAURING, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062001",
+        "tps": "5313062001004",
+        "url": "53\/5313\/531306\/5313062001\/5313062001004.json",
+        "nama": "TPS 004, BALAURING, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062001",
+        "tps": "5313062001005",
+        "url": "53\/5313\/531306\/5313062001\/5313062001005.json",
+        "nama": "TPS 005, BALAURING, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062009",
+        "tps": "5313062009001",
+        "url": "53\/5313\/531306\/5313062009\/5313062009001.json",
+        "nama": "TPS 001, DOLULOLONG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062009",
+        "tps": "5313062009002",
+        "url": "53\/5313\/531306\/5313062009\/5313062009002.json",
+        "nama": "TPS 002, DOLULOLONG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062009",
+        "tps": "5313062009003",
+        "url": "53\/5313\/531306\/5313062009\/5313062009003.json",
+        "nama": "TPS 003, DOLULOLONG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062008",
+        "tps": "5313062008001",
+        "url": "53\/5313\/531306\/5313062008\/5313062008001.json",
+        "nama": "TPS 001, HINGALAMAMENGI, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062008",
+        "tps": "5313062008002",
+        "url": "53\/5313\/531306\/5313062008\/5313062008002.json",
+        "nama": "TPS 002, HINGALAMAMENGI, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062008",
+        "tps": "5313062008003",
+        "url": "53\/5313\/531306\/5313062008\/5313062008003.json",
+        "nama": "TPS 003, HINGALAMAMENGI, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062008",
+        "tps": "5313062008004",
+        "url": "53\/5313\/531306\/5313062008\/5313062008004.json",
+        "nama": "TPS 004, HINGALAMAMENGI, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062008",
+        "tps": "5313062008005",
+        "url": "53\/5313\/531306\/5313062008\/5313062008005.json",
+        "nama": "TPS 005, HINGALAMAMENGI, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062010",
+        "tps": "5313062010001",
+        "url": "53\/5313\/531306\/5313062010\/5313062010001.json",
+        "nama": "TPS 001, HOELEA I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062010",
+        "tps": "5313062010002",
+        "url": "53\/5313\/531306\/5313062010\/5313062010002.json",
+        "nama": "TPS 002, HOELEA I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062010",
+        "tps": "5313062010003",
+        "url": "53\/5313\/531306\/5313062010\/5313062010003.json",
+        "nama": "TPS 003, HOELEA I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062016",
+        "tps": "5313062016001",
+        "url": "53\/5313\/531306\/5313062016\/5313062016001.json",
+        "nama": "TPS 001, HOELEA II, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062016",
+        "tps": "5313062016002",
+        "url": "53\/5313\/531306\/5313062016\/5313062016002.json",
+        "nama": "TPS 002, HOELEA II, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062017",
+        "tps": "5313062017001",
+        "url": "53\/5313\/531306\/5313062017\/5313062017001.json",
+        "nama": "TPS 001, LEBEWALA, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062017",
+        "tps": "5313062017002",
+        "url": "53\/5313\/531306\/5313062017\/5313062017002.json",
+        "nama": "TPS 002, LEBEWALA, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062017",
+        "tps": "5313062017003",
+        "url": "53\/5313\/531306\/5313062017\/5313062017003.json",
+        "nama": "TPS 003, LEBEWALA, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062003",
+        "tps": "5313062003001",
+        "url": "53\/5313\/531306\/5313062003\/5313062003001.json",
+        "nama": "TPS 001, LEUBATANG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062003",
+        "tps": "5313062003002",
+        "url": "53\/5313\/531306\/5313062003\/5313062003002.json",
+        "nama": "TPS 002, LEUBATANG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062003",
+        "tps": "5313062003003",
+        "url": "53\/5313\/531306\/5313062003\/5313062003003.json",
+        "nama": "TPS 003, LEUBATANG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062013",
+        "tps": "5313062013001",
+        "url": "53\/5313\/531306\/5313062013\/5313062013001.json",
+        "nama": "TPS 001, LEUDANUNG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062013",
+        "tps": "5313062013002",
+        "url": "53\/5313\/531306\/5313062013\/5313062013002.json",
+        "nama": "TPS 002, LEUDANUNG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062012",
+        "tps": "5313062012001",
+        "url": "53\/5313\/531306\/5313062012\/5313062012001.json",
+        "nama": "TPS 001, LEUWAYANG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062012",
+        "tps": "5313062012002",
+        "url": "53\/5313\/531306\/5313062012\/5313062012002.json",
+        "nama": "TPS 002, LEUWAYANG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062012",
+        "tps": "5313062012003",
+        "url": "53\/5313\/531306\/5313062012\/5313062012003.json",
+        "nama": "TPS 003, LEUWAYANG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062012",
+        "tps": "5313062012004",
+        "url": "53\/5313\/531306\/5313062012\/5313062012004.json",
+        "nama": "TPS 004, LEUWAYANG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062005",
+        "tps": "5313062005001",
+        "url": "53\/5313\/531306\/5313062005\/5313062005001.json",
+        "nama": "TPS 001, MAHAL I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062005",
+        "tps": "5313062005002",
+        "url": "53\/5313\/531306\/5313062005\/5313062005002.json",
+        "nama": "TPS 002, MAHAL I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062005",
+        "tps": "5313062005003",
+        "url": "53\/5313\/531306\/5313062005\/5313062005003.json",
+        "nama": "TPS 003, MAHAL I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062018",
+        "tps": "5313062018001",
+        "url": "53\/5313\/531306\/5313062018\/5313062018001.json",
+        "nama": "TPS 001, MAHAL II, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062018",
+        "tps": "5313062018002",
+        "url": "53\/5313\/531306\/5313062018\/5313062018002.json",
+        "nama": "TPS 002, MAHAL II, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062007",
+        "tps": "5313062007001",
+        "url": "53\/5313\/531306\/5313062007\/5313062007001.json",
+        "nama": "TPS 001, MELUWITING, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062007",
+        "tps": "5313062007002",
+        "url": "53\/5313\/531306\/5313062007\/5313062007002.json",
+        "nama": "TPS 002, MELUWITING, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062007",
+        "tps": "5313062007003",
+        "url": "53\/5313\/531306\/5313062007\/5313062007003.json",
+        "nama": "TPS 003, MELUWITING, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062022",
+        "tps": "5313062022001",
+        "url": "53\/5313\/531306\/5313062022\/5313062022001.json",
+        "nama": "TPS 001, MELUWITING I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062022",
+        "tps": "5313062022002",
+        "url": "53\/5313\/531306\/5313062022\/5313062022002.json",
+        "nama": "TPS 002, MELUWITING I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062002",
+        "tps": "5313062002001",
+        "url": "53\/5313\/531306\/5313062002\/5313062002001.json",
+        "nama": "TPS 001, NILANAPO, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062002",
+        "tps": "5313062002002",
+        "url": "53\/5313\/531306\/5313062002\/5313062002002.json",
+        "nama": "TPS 002, NILANAPO, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062002",
+        "tps": "5313062002003",
+        "url": "53\/5313\/531306\/5313062002\/5313062002003.json",
+        "nama": "TPS 003, NILANAPO, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062014",
+        "tps": "5313062014001",
+        "url": "53\/5313\/531306\/5313062014\/5313062014001.json",
+        "nama": "TPS 001, NORMAL, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062014",
+        "tps": "5313062014002",
+        "url": "53\/5313\/531306\/5313062014\/5313062014002.json",
+        "nama": "TPS 002, NORMAL, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062021",
+        "tps": "5313062021001",
+        "url": "53\/5313\/531306\/5313062021\/5313062021001.json",
+        "nama": "TPS 001, NORMAL I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062021",
+        "tps": "5313062021002",
+        "url": "53\/5313\/531306\/5313062021\/5313062021002.json",
+        "nama": "TPS 002, NORMAL I, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062019",
+        "tps": "5313062019001",
+        "url": "53\/5313\/531306\/5313062019\/5313062019001.json",
+        "nama": "TPS 001, PEUSAWA, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062019",
+        "tps": "5313062019002",
+        "url": "53\/5313\/531306\/5313062019\/5313062019002.json",
+        "nama": "TPS 002, PEUSAWA, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062011",
+        "tps": "5313062011001",
+        "url": "53\/5313\/531306\/5313062011\/5313062011001.json",
+        "nama": "TPS 001, ROMA, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062011",
+        "tps": "5313062011002",
+        "url": "53\/5313\/531306\/5313062011\/5313062011002.json",
+        "nama": "TPS 002, ROMA, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062015",
+        "tps": "5313062015001",
+        "url": "53\/5313\/531306\/5313062015\/5313062015001.json",
+        "nama": "TPS 001, WAILOLONG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062015",
+        "tps": "5313062015002",
+        "url": "53\/5313\/531306\/5313062015\/5313062015002.json",
+        "nama": "TPS 002, WAILOLONG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062015",
+        "tps": "5313062015003",
+        "url": "53\/5313\/531306\/5313062015\/5313062015003.json",
+        "nama": "TPS 003, WAILOLONG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062004",
+        "tps": "5313062004001",
+        "url": "53\/5313\/531306\/5313062004\/5313062004001.json",
+        "nama": "TPS 001, WALANG SAWAH, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062004",
+        "tps": "5313062004002",
+        "url": "53\/5313\/531306\/5313062004\/5313062004002.json",
+        "nama": "TPS 002, WALANG SAWAH, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062004",
+        "tps": "5313062004003",
+        "url": "53\/5313\/531306\/5313062004\/5313062004003.json",
+        "nama": "TPS 003, WALANG SAWAH, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062020",
+        "tps": "5313062020001",
+        "url": "53\/5313\/531306\/5313062020\/5313062020001.json",
+        "nama": "TPS 001, WOWONG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531306",
+        "desa": "5313062020",
+        "tps": "5313062020002",
+        "url": "53\/5313\/531306\/5313062020\/5313062020002.json",
+        "nama": "TPS 002, WOWONG, OMESURI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082001",
+        "tps": "5313082001001",
+        "url": "53\/5313\/531308\/5313082001\/5313082001001.json",
+        "nama": "TPS 001, ALAP ATADEI, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082001",
+        "tps": "5313082001002",
+        "url": "53\/5313\/531308\/5313082001\/5313082001002.json",
+        "nama": "TPS 002, ALAP ATADEI, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082014",
+        "tps": "5313082014001",
+        "url": "53\/5313\/531308\/5313082014\/5313082014001.json",
+        "nama": "TPS 001, ATAILI, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082002",
+        "tps": "5313082002001",
+        "url": "53\/5313\/531308\/5313082002\/5313082002001.json",
+        "nama": "TPS 001, ATAKERA, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082002",
+        "tps": "5313082002002",
+        "url": "53\/5313\/531308\/5313082002\/5313082002002.json",
+        "nama": "TPS 002, ATAKERA, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082011",
+        "tps": "5313082011001",
+        "url": "53\/5313\/531308\/5313082011\/5313082011001.json",
+        "nama": "TPS 001, BELOBAO, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082011",
+        "tps": "5313082011002",
+        "url": "53\/5313\/531308\/5313082011\/5313082011002.json",
+        "nama": "TPS 002, BELOBAO, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082011",
+        "tps": "5313082011003",
+        "url": "53\/5313\/531308\/5313082011\/5313082011003.json",
+        "nama": "TPS 003, BELOBAO, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082006",
+        "tps": "5313082006001",
+        "url": "53\/5313\/531308\/5313082006\/5313082006001.json",
+        "nama": "TPS 001, IMU LOLONG, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082006",
+        "tps": "5313082006002",
+        "url": "53\/5313\/531308\/5313082006\/5313082006002.json",
+        "nama": "TPS 002, IMU LOLONG, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082006",
+        "tps": "5313082006003",
+        "url": "53\/5313\/531308\/5313082006\/5313082006003.json",
+        "nama": "TPS 003, IMU LOLONG, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082008",
+        "tps": "5313082008001",
+        "url": "53\/5313\/531308\/5313082008\/5313082008001.json",
+        "nama": "TPS 001, LAMALERA A, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082008",
+        "tps": "5313082008002",
+        "url": "53\/5313\/531308\/5313082008\/5313082008002.json",
+        "nama": "TPS 002, LAMALERA A, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082008",
+        "tps": "5313082008003",
+        "url": "53\/5313\/531308\/5313082008\/5313082008003.json",
+        "nama": "TPS 003, LAMALERA A, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082007",
+        "tps": "5313082007001",
+        "url": "53\/5313\/531308\/5313082007\/5313082007001.json",
+        "nama": "TPS 001, LAMALERA B, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082007",
+        "tps": "5313082007002",
+        "url": "53\/5313\/531308\/5313082007\/5313082007002.json",
+        "nama": "TPS 002, LAMALERA B, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082007",
+        "tps": "5313082007003",
+        "url": "53\/5313\/531308\/5313082007\/5313082007003.json",
+        "nama": "TPS 003, LAMALERA B, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082009",
+        "tps": "5313082009001",
+        "url": "53\/5313\/531308\/5313082009\/5313082009001.json",
+        "nama": "TPS 001, LELATA, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082009",
+        "tps": "5313082009002",
+        "url": "53\/5313\/531308\/5313082009\/5313082009002.json",
+        "nama": "TPS 002, LELATA, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082003",
+        "tps": "5313082003001",
+        "url": "53\/5313\/531308\/5313082003\/5313082003001.json",
+        "nama": "TPS 001, LEWORAJA, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082003",
+        "tps": "5313082003002",
+        "url": "53\/5313\/531308\/5313082003\/5313082003002.json",
+        "nama": "TPS 002, LEWORAJA, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082003",
+        "tps": "5313082003003",
+        "url": "53\/5313\/531308\/5313082003\/5313082003003.json",
+        "nama": "TPS 003, LEWORAJA, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082004",
+        "tps": "5313082004001",
+        "url": "53\/5313\/531308\/5313082004\/5313082004001.json",
+        "nama": "TPS 001, PANTAI HARAPAN, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082004",
+        "tps": "5313082004002",
+        "url": "53\/5313\/531308\/5313082004\/5313082004002.json",
+        "nama": "TPS 002, PANTAI HARAPAN, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082004",
+        "tps": "5313082004003",
+        "url": "53\/5313\/531308\/5313082004\/5313082004003.json",
+        "nama": "TPS 003, PANTAI HARAPAN, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082012",
+        "tps": "5313082012001",
+        "url": "53\/5313\/531308\/5313082012\/5313082012001.json",
+        "nama": "TPS 001, POSIWATU, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082012",
+        "tps": "5313082012002",
+        "url": "53\/5313\/531308\/5313082012\/5313082012002.json",
+        "nama": "TPS 002, POSIWATU, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082005",
+        "tps": "5313082005001",
+        "url": "53\/5313\/531308\/5313082005\/5313082005001.json",
+        "nama": "TPS 001, PUOR, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082005",
+        "tps": "5313082005002",
+        "url": "53\/5313\/531308\/5313082005\/5313082005002.json",
+        "nama": "TPS 002, PUOR, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082013",
+        "tps": "5313082013001",
+        "url": "53\/5313\/531308\/5313082013\/5313082013001.json",
+        "nama": "TPS 001, PUOR B, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082013",
+        "tps": "5313082013002",
+        "url": "53\/5313\/531308\/5313082013\/5313082013002.json",
+        "nama": "TPS 002, PUOR B, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082015",
+        "tps": "5313082015001",
+        "url": "53\/5313\/531308\/5313082015\/5313082015001.json",
+        "nama": "TPS 001, TAPOBALI, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082015",
+        "tps": "5313082015002",
+        "url": "53\/5313\/531308\/5313082015\/5313082015002.json",
+        "nama": "TPS 002, TAPOBALI, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082010",
+        "tps": "5313082010001",
+        "url": "53\/5313\/531308\/5313082010\/5313082010001.json",
+        "nama": "TPS 001, WULANDONI, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    },
+    {
+        "provinsi": "53",
+        "kabupaten": "5313",
+        "kecamatan": "531308",
+        "desa": "5313082010",
+        "tps": "5313082010002",
+        "url": "53\/5313\/531308\/5313082010\/5313082010002.json",
+        "nama": "TPS 002, WULANDONI, WULANDONI, LEMBATA, NUSA TENGGARA TIMUR"
+    }
+]

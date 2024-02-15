@@ -1,0 +1,92 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1102",
+        "kecamatan": "110206",
+        "desa": "1102062025",
+        "tps": "1102062025002",
+        "nama": "TPS 002, SABILUSSALAM, BABUL MAKMUR, ACEH TENGGARA, ACEH",
+        "selisih": -53,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1102\/110206\/1102062025\/1102062025002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1102",
+        "kecamatan": "110206",
+        "desa": "1102062011",
+        "tps": "1102062011002",
+        "nama": "TPS 002, SEJAHTERA, BABUL MAKMUR, ACEH TENGGARA, ACEH",
+        "selisih": 80,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1102\/110206\/1102062011\/1102062011002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1102",
+        "kecamatan": "110205",
+        "desa": "1102052027",
+        "tps": "1102052027001",
+        "nama": "TPS 001, NATAM BARU, BADAR, ACEH TENGGARA, ACEH",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1102\/110205\/1102052027\/1102052027001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1102",
+        "kecamatan": "110209",
+        "desa": "1102092022",
+        "tps": "1102092022001",
+        "nama": "TPS 001, DARUL IMAMI, BUKIT TUSAM, ACEH TENGGARA, ACEH",
+        "selisih": -224,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1102\/110209\/1102092022\/1102092022001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1102",
+        "kecamatan": "110209",
+        "desa": "1102092014",
+        "tps": "1102092014002",
+        "nama": "TPS 002, PEJUANG, BUKIT TUSAM, ACEH TENGGARA, ACEH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1102\/110209\/1102092014\/1102092014002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1102",
+        "kecamatan": "110210",
+        "desa": "1102102018",
+        "tps": "1102102018002",
+        "nama": "TPS 002, LAWE MEJILE, SEMADAM, ACEH TENGGARA, ACEH",
+        "selisih": -65,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1102\/110210\/1102102018\/1102102018002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1102",
+        "kecamatan": "110210",
+        "desa": "1102102011",
+        "tps": "1102102011001",
+        "nama": "TPS 001, TITI PASIR, SEMADAM, ACEH TENGGARA, ACEH",
+        "selisih": 900,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1102\/110210\/1102102011\/1102102011001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1102",
+        "kecamatan": "110208",
+        "desa": "1102082017",
+        "tps": "1102082017001",
+        "nama": "TPS 001, KATAMBARU BECAWAN, LAWE BULAN, ACEH TENGGARA, ACEH",
+        "selisih": -224,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1102\/110208\/1102082017\/1102082017001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1102",
+        "kecamatan": "110208",
+        "desa": "1102082017",
+        "tps": "1102082017001",
+        "nama": "TPS 001, KATAMBARU BECAWAN, LAWE BULAN, ACEH TENGGARA, ACEH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1102\/110208\/1102082017\/1102082017001"
+    }
+]

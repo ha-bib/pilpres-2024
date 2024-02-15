@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "13",
+        "kabupaten": "1309",
+        "kecamatan": "130901",
+        "desa": "1309012008",
+        "tps": "1309012008004",
+        "nama": "TPS 004, SILABU, PAGAI UTARA, KEPULAUAN MENTAWAI, SUMATERA BARAT",
+        "selisih": 6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1309\/130901\/1309012008\/1309012008004"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1309",
+        "kecamatan": "130907",
+        "desa": "1309072001",
+        "tps": "1309072001010",
+        "nama": "TPS 010, SAIBI SAMUKOP, SIBERUT TENGAH, KEPULAUAN MENTAWAI, SUMATERA BARAT",
+        "selisih": -96,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1309\/130907\/1309072001\/1309072001010"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1309",
+        "kecamatan": "130909",
+        "desa": "1309092001",
+        "tps": "1309092001003",
+        "nama": "TPS 003, SIKAKAP, SIKAKAP, KEPULAUAN MENTAWAI, SUMATERA BARAT",
+        "selisih": -20,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1309\/130909\/1309092001\/1309092001003"
+    },
+    {
+        "provinsi": "13",
+        "kabupaten": "1309",
+        "kecamatan": "130910",
+        "desa": "1309102002",
+        "tps": "1309102002001",
+        "nama": "TPS 001, BULASAT, PAGAI SELATAN, KEPULAUAN MENTAWAI, SUMATERA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/13\/1309\/130910\/1309102002\/1309102002001"
+    }
+]

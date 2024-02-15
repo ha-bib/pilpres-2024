@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AX",
+        "kecamatan": "99AX01",
+        "desa": "99AX010001",
+        "tps": "99AX010001003",
+        "url": "99\/99AX\/99AX01\/99AX010001\/99AX010001003.json",
+        "nama": "KSK 001, Vientiane, Laos, Vientiane, Laos, Vientiane, Laos, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AX",
+        "kecamatan": "99AX01",
+        "desa": "99AX010001",
+        "tps": "99AX010001001",
+        "url": "99\/99AX\/99AX01\/99AX010001\/99AX010001001.json",
+        "nama": "POS 001, Vientiane, Laos, Vientiane, Laos, Vientiane, Laos, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AX",
+        "kecamatan": "99AX01",
+        "desa": "99AX010001",
+        "tps": "99AX010001002",
+        "url": "99\/99AX\/99AX01\/99AX010001\/99AX010001002.json",
+        "nama": "TPS 001, Vientiane, Laos, Vientiane, Laos, Vientiane, Laos, Luar Negeri"
+    }
+]

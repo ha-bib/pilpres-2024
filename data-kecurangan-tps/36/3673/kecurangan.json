@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "36",
+        "kabupaten": "3673",
+        "kecamatan": "367302",
+        "desa": "3673021006",
+        "tps": "3673021006004",
+        "nama": "TPS 004, BENDUNG, KASEMEN, KOTA SERANG, BANTEN",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/36\/3673\/367302\/3673021006\/3673021006004"
+    },
+    {
+        "provinsi": "36",
+        "kabupaten": "3673",
+        "kecamatan": "367301",
+        "desa": "3673011006",
+        "tps": "3673011006059",
+        "nama": "TPS 059, CIMUNCANG, SERANG, KOTA SERANG, BANTEN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/36\/3673\/367301\/3673011006\/3673011006059"
+    },
+    {
+        "provinsi": "36",
+        "kabupaten": "3673",
+        "kecamatan": "367301",
+        "desa": "3673011010",
+        "tps": "3673011010033",
+        "nama": "TPS 033, KALIGANDU, SERANG, KOTA SERANG, BANTEN",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/36\/3673\/367301\/3673011010\/3673011010033"
+    },
+    {
+        "provinsi": "36",
+        "kabupaten": "3673",
+        "kecamatan": "367306",
+        "desa": "3673061010",
+        "tps": "3673061010013",
+        "nama": "TPS 013, SEPANG, TAKTAKAN, KOTA SERANG, BANTEN",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/36\/3673\/367306\/3673061010\/3673061010013"
+    },
+    {
+        "provinsi": "36",
+        "kabupaten": "3673",
+        "kecamatan": "367303",
+        "desa": "3673031002",
+        "tps": "3673031002003",
+        "nama": "TPS 003, CIGOONG, WALANTAKA, KOTA SERANG, BANTEN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/36\/3673\/367303\/3673031002\/3673031002003"
+    },
+    {
+        "provinsi": "36",
+        "kabupaten": "3673",
+        "kecamatan": "367303",
+        "desa": "3673031002",
+        "tps": "3673031002009",
+        "nama": "TPS 009, CIGOONG, WALANTAKA, KOTA SERANG, BANTEN",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/36\/3673\/367303\/3673031002\/3673031002009"
+    }
+]

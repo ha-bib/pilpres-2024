@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "15",
+        "kabupaten": "1503",
+        "kecamatan": "150301",
+        "desa": "1503012022",
+        "tps": "1503012022002",
+        "nama": "TPS 002, BUKIT SULAH, BATANG ASAI, SAROLANGUN, JAMBI",
+        "selisih": 8,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1503\/150301\/1503012022\/1503012022002"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1503",
+        "kecamatan": "150301",
+        "desa": "1503012001",
+        "tps": "1503012001002",
+        "nama": "TPS 002, TAMBAK RATU, BATANG ASAI, SAROLANGUN, JAMBI",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1503\/150301\/1503012001\/1503012001002"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1503",
+        "kecamatan": "150308",
+        "desa": "1503082004",
+        "tps": "1503082004009",
+        "nama": "TPS 009, TANJUNG, BATHIN VIII, SAROLANGUN, JAMBI",
+        "selisih": -8,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1503\/150308\/1503082004\/1503082004009"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1503",
+        "kecamatan": "150308",
+        "desa": "1503082004",
+        "tps": "1503082004010",
+        "nama": "TPS 010, TANJUNG, BATHIN VIII, SAROLANGUN, JAMBI",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1503\/150308\/1503082004\/1503082004010"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1503",
+        "kecamatan": "150304",
+        "desa": "1503042002",
+        "tps": "1503042002002",
+        "nama": "TPS 002, KARANG MENDAPO, PAUH, SAROLANGUN, JAMBI",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1503\/150304\/1503042002\/1503042002002"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1503",
+        "kecamatan": "150305",
+        "desa": "1503052004",
+        "tps": "1503052004006",
+        "nama": "TPS 006, BUKIT, PELAWAN, SAROLANGUN, JAMBI",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1503\/150305\/1503052004\/1503052004006"
+    }
+]

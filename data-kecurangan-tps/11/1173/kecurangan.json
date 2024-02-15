@@ -1,0 +1,72 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022001",
+        "tps": "1173022001010",
+        "nama": "TPS 010, KUTA BLANG, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1173\/117302\/1173022001\/1173022001010"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022002",
+        "tps": "1173022002010",
+        "nama": "TPS 010, TUMPOK TEUNGOH, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH",
+        "selisih": -9,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1173\/117302\/1173022002\/1173022002010"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117302",
+        "desa": "1173022010",
+        "tps": "1173022010001",
+        "nama": "TPS 001, UTEUN BAYI, BANDA SAKTI, KOTA LHOKSEUMAWE, ACEH",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1173\/117302\/1173022010\/1173022010001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117303",
+        "desa": "1173032020",
+        "tps": "1173032020003",
+        "nama": "TPS 003, JEULIKAT, BLANG MANGAT, KOTA LHOKSEUMAWE, ACEH",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1173\/117303\/1173032020\/1173032020003"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117301",
+        "desa": "1173012008",
+        "tps": "1173012008012",
+        "nama": "TPS 012, UTEUNKOT, MUARA DUA, KOTA LHOKSEUMAWE, ACEH",
+        "selisih": -6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1173\/117301\/1173012008\/1173012008012"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042006",
+        "tps": "1173042006006",
+        "nama": "TPS 006, BATUPHAT TIMUR, MUARA SATU, KOTA LHOKSEUMAWE, ACEH",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1173\/117304\/1173042006\/1173042006006"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1173",
+        "kecamatan": "117304",
+        "desa": "1173042002",
+        "tps": "1173042002003",
+        "nama": "TPS 003, BLANG PANYANG, MUARA SATU, KOTA LHOKSEUMAWE, ACEH",
+        "selisih": -30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1173\/117304\/1173042002\/1173042002003"
+    }
+]

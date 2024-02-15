@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9904",
+        "kecamatan": "990401",
+        "desa": "9904010001",
+        "tps": "9904010001003",
+        "url": "99\/9904\/990401\/9904010001\/9904010001003.json",
+        "nama": "KSK 001, Alger, Aljazair, Alger, Aljazair, Alger, Aljazair, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9904",
+        "kecamatan": "990401",
+        "desa": "9904010001",
+        "tps": "9904010001001",
+        "url": "99\/9904\/990401\/9904010001\/9904010001001.json",
+        "nama": "POS 001, Alger, Aljazair, Alger, Aljazair, Alger, Aljazair, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9904",
+        "kecamatan": "990401",
+        "desa": "9904010001",
+        "tps": "9904010001002",
+        "url": "99\/9904\/990401\/9904010001\/9904010001002.json",
+        "nama": "TPS 001, Alger, Aljazair, Alger, Aljazair, Alger, Aljazair, Luar Negeri"
+    }
+]

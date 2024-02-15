@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9986",
+        "kecamatan": "998601",
+        "desa": "9986010001",
+        "tps": "9986010001003",
+        "url": "99\/9986\/998601\/9986010001\/9986010001003.json",
+        "nama": "KSK 001, Panama City, Panama, Panama City, Panama, Panama City, Panama, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9986",
+        "kecamatan": "998601",
+        "desa": "9986010001",
+        "tps": "9986010001001",
+        "url": "99\/9986\/998601\/9986010001\/9986010001001.json",
+        "nama": "POS 001, Panama City, Panama, Panama City, Panama, Panama City, Panama, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9986",
+        "kecamatan": "998601",
+        "desa": "9986010001",
+        "tps": "9986010001002",
+        "url": "99\/9986\/998601\/9986010001\/9986010001002.json",
+        "nama": "TPS 001, Panama City, Panama, Panama City, Panama, Panama City, Panama, Luar Negeri"
+    }
+]

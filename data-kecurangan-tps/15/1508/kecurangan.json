@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "15",
+        "kabupaten": "1508",
+        "kecamatan": "150811",
+        "desa": "1508111001",
+        "tps": "1508111001013",
+        "nama": "TPS 013, MANGGIS, BATHIN III, BUNGO, JAMBI",
+        "selisih": 140,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1508\/150811\/1508111001\/1508111001013"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1508",
+        "kecamatan": "150804",
+        "desa": "1508042001",
+        "tps": "1508042001003",
+        "nama": "TPS 003, TANJUNG BELIT, JUJUHAN, BUNGO, JAMBI",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1508\/150804\/1508042001\/1508042001003"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1508",
+        "kecamatan": "150817",
+        "desa": "1508172001",
+        "tps": "1508172001001",
+        "nama": "TPS 001, SUNGAI MANCUR, TANAH SEPENGGAL LINTAS, BUNGO, JAMBI",
+        "selisih": -6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1508\/150817\/1508172001\/1508172001001"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1508",
+        "kecamatan": "150817",
+        "desa": "1508172011",
+        "tps": "1508172011006",
+        "nama": "TPS 006, SUNGAI TEMBANG, TANAH SEPENGGAL LINTAS, BUNGO, JAMBI",
+        "selisih": -6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1508\/150817\/1508172011\/1508172011006"
+    }
+]

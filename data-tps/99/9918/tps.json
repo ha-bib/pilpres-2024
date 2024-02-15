@@ -1,0 +1,20 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9918",
+        "kecamatan": "991801",
+        "desa": "9918010001",
+        "tps": "9918010001001",
+        "url": "99\/9918\/991801\/9918010001\/9918010001001.json",
+        "nama": "POS 001, Bern, Swiss, Bern, Swiss, Bern, Swiss, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9918",
+        "kecamatan": "991801",
+        "desa": "9918010001",
+        "tps": "9918010001002",
+        "url": "99\/9918\/991801\/9918010001\/9918010001002.json",
+        "nama": "TPS 001, Bern, Swiss, Bern, Swiss, Bern, Swiss, Luar Negeri"
+    }
+]

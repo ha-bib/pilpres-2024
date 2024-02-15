@@ -1,0 +1,3890 @@
+[
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032029",
+        "tps": "9506032029001",
+        "url": "95\/9506\/950603\/9506032029\/9506032029001.json",
+        "nama": "TPS 001, ABAGIMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032001",
+        "tps": "9506032001001",
+        "url": "95\/9506\/950603\/9506032001\/9506032001001.json",
+        "nama": "TPS 001, ABENAHO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032001",
+        "tps": "9506032001002",
+        "url": "95\/9506\/950603\/9506032001\/9506032001002.json",
+        "nama": "TPS 002, ABENAHO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032083",
+        "tps": "9506032083001",
+        "url": "95\/9506\/950603\/9506032083\/9506032083001.json",
+        "nama": "TPS 001, AKRIS, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032049",
+        "tps": "9506032049001",
+        "url": "95\/9506\/950603\/9506032049\/9506032049001.json",
+        "nama": "TPS 001, ALUGI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032087",
+        "tps": "9506032087001",
+        "url": "95\/9506\/950603\/9506032087\/9506032087001.json",
+        "nama": "TPS 001, AMUKI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032054",
+        "tps": "9506032054001",
+        "url": "95\/9506\/950603\/9506032054\/9506032054001.json",
+        "nama": "TPS 001, ARIKBALEK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032054",
+        "tps": "9506032054002",
+        "url": "95\/9506\/950603\/9506032054\/9506032054002.json",
+        "nama": "TPS 002, ARIKBALEK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032033",
+        "tps": "9506032033001",
+        "url": "95\/9506\/950603\/9506032033\/9506032033001.json",
+        "nama": "TPS 001, BABIN, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032065",
+        "tps": "9506032065001",
+        "url": "95\/9506\/950603\/9506032065\/9506032065001.json",
+        "nama": "TPS 001, BEIM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032019",
+        "tps": "9506032019001",
+        "url": "95\/9506\/950603\/9506032019\/9506032019001.json",
+        "nama": "TPS 001, BOHUM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032019",
+        "tps": "9506032019002",
+        "url": "95\/9506\/950603\/9506032019\/9506032019002.json",
+        "nama": "TPS 002, BOHUM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032051",
+        "tps": "9506032051001",
+        "url": "95\/9506\/950603\/9506032051\/9506032051001.json",
+        "nama": "TPS 001, BONAHIK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032059",
+        "tps": "9506032059001",
+        "url": "95\/9506\/950603\/9506032059\/9506032059001.json",
+        "nama": "TPS 001, BONGGI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032059",
+        "tps": "9506032059002",
+        "url": "95\/9506\/950603\/9506032059\/9506032059002.json",
+        "nama": "TPS 002, BONGGI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032040",
+        "tps": "9506032040001",
+        "url": "95\/9506\/950603\/9506032040\/9506032040001.json",
+        "nama": "TPS 001, BUKURIK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032025",
+        "tps": "9506032025001",
+        "url": "95\/9506\/950603\/9506032025\/9506032025001.json",
+        "nama": "TPS 001, BUMBUM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032026",
+        "tps": "9506032026001",
+        "url": "95\/9506\/950603\/9506032026\/9506032026001.json",
+        "nama": "TPS 001, BURIM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032027",
+        "tps": "9506032027001",
+        "url": "95\/9506\/950603\/9506032027\/9506032027001.json",
+        "nama": "TPS 001, DAHONAIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032098",
+        "tps": "9506032098001",
+        "url": "95\/9506\/950603\/9506032098\/9506032098001.json",
+        "nama": "TPS 001, DAMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032004",
+        "tps": "9506032004001",
+        "url": "95\/9506\/950603\/9506032004\/9506032004001.json",
+        "nama": "TPS 001, DOMBOMI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032004",
+        "tps": "9506032004002",
+        "url": "95\/9506\/950603\/9506032004\/9506032004002.json",
+        "nama": "TPS 002, DOMBOMI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032005",
+        "tps": "9506032005001",
+        "url": "95\/9506\/950603\/9506032005\/9506032005001.json",
+        "nama": "TPS 001, DOSUMO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032034",
+        "tps": "9506032034001",
+        "url": "95\/9506\/950603\/9506032034\/9506032034001.json",
+        "nama": "TPS 001, ELESIM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032052",
+        "tps": "9506032052001",
+        "url": "95\/9506\/950603\/9506032052\/9506032052001.json",
+        "nama": "TPS 001, ELIYEKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032077",
+        "tps": "9506032077001",
+        "url": "95\/9506\/950603\/9506032077\/9506032077001.json",
+        "nama": "TPS 001, FIALEM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032013",
+        "tps": "9506032013001",
+        "url": "95\/9506\/950603\/9506032013\/9506032013001.json",
+        "nama": "TPS 001, FUAHE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032056",
+        "tps": "9506032056001",
+        "url": "95\/9506\/950603\/9506032056\/9506032056001.json",
+        "nama": "TPS 001, FUIM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032056",
+        "tps": "9506032056002",
+        "url": "95\/9506\/950603\/9506032056\/9506032056002.json",
+        "nama": "TPS 002, FUIM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032075",
+        "tps": "9506032075001",
+        "url": "95\/9506\/950603\/9506032075\/9506032075001.json",
+        "nama": "TPS 001, GEFIDO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032064",
+        "tps": "9506032064001",
+        "url": "95\/9506\/950603\/9506032064\/9506032064001.json",
+        "nama": "TPS 001, HALIFUR, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032071",
+        "tps": "9506032071001",
+        "url": "95\/9506\/950603\/9506032071\/9506032071001.json",
+        "nama": "TPS 001, HALISEK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032104",
+        "tps": "9506032104001",
+        "url": "95\/9506\/950603\/9506032104\/9506032104001.json",
+        "nama": "TPS 001, HEAHOBAK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032104",
+        "tps": "9506032104002",
+        "url": "95\/9506\/950603\/9506032104\/9506032104002.json",
+        "nama": "TPS 002, HEAHOBAK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032039",
+        "tps": "9506032039001",
+        "url": "95\/9506\/950603\/9506032039\/9506032039001.json",
+        "nama": "TPS 001, HELAKSILI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032062",
+        "tps": "9506032062001",
+        "url": "95\/9506\/950603\/9506032062\/9506032062001.json",
+        "nama": "TPS 001, HOMBANMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032062",
+        "tps": "9506032062002",
+        "url": "95\/9506\/950603\/9506032062\/9506032062002.json",
+        "nama": "TPS 002, HOMBANMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032078",
+        "tps": "9506032078001",
+        "url": "95\/9506\/950603\/9506032078\/9506032078001.json",
+        "nama": "TPS 001, HORAKIA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032101",
+        "tps": "9506032101001",
+        "url": "95\/9506\/950603\/9506032101\/9506032101001.json",
+        "nama": "TPS 001, HORENIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032101",
+        "tps": "9506032101002",
+        "url": "95\/9506\/950603\/9506032101\/9506032101002.json",
+        "nama": "TPS 002, HORENIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032008",
+        "tps": "9506032008001",
+        "url": "95\/9506\/950603\/9506032008\/9506032008001.json",
+        "nama": "TPS 001, HUBLIKI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032008",
+        "tps": "9506032008002",
+        "url": "95\/9506\/950603\/9506032008\/9506032008002.json",
+        "nama": "TPS 002, HUBLIKI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032043",
+        "tps": "9506032043001",
+        "url": "95\/9506\/950603\/9506032043\/9506032043001.json",
+        "nama": "TPS 001, HUBUALMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032047",
+        "tps": "9506032047001",
+        "url": "95\/9506\/950603\/9506032047\/9506032047001.json",
+        "nama": "TPS 001, HULHULE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032009",
+        "tps": "9506032009001",
+        "url": "95\/9506\/950603\/9506032009\/9506032009001.json",
+        "nama": "TPS 001, HULIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032009",
+        "tps": "9506032009002",
+        "url": "95\/9506\/950603\/9506032009\/9506032009002.json",
+        "nama": "TPS 002, HULIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032022",
+        "tps": "9506032022001",
+        "url": "95\/9506\/950603\/9506032022\/9506032022001.json",
+        "nama": "TPS 001, HUMALMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032086",
+        "tps": "9506032086001",
+        "url": "95\/9506\/950603\/9506032086\/9506032086001.json",
+        "nama": "TPS 001, HUNDILIP, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032086",
+        "tps": "9506032086002",
+        "url": "95\/9506\/950603\/9506032086\/9506032086002.json",
+        "nama": "TPS 002, HUNDILIP, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032021",
+        "tps": "9506032021001",
+        "url": "95\/9506\/950603\/9506032021\/9506032021001.json",
+        "nama": "TPS 001, HURUALMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032020",
+        "tps": "9506032020001",
+        "url": "95\/9506\/950603\/9506032020\/9506032020001.json",
+        "nama": "TPS 001, JINGGIWI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032020",
+        "tps": "9506032020002",
+        "url": "95\/9506\/950603\/9506032020\/9506032020002.json",
+        "nama": "TPS 002, JINGGIWI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032100",
+        "tps": "9506032100001",
+        "url": "95\/9506\/950603\/9506032100\/9506032100001.json",
+        "nama": "TPS 001, KABOHOLIK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032100",
+        "tps": "9506032100002",
+        "url": "95\/9506\/950603\/9506032100\/9506032100002.json",
+        "nama": "TPS 002, KABOHOLIK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032074",
+        "tps": "9506032074001",
+        "url": "95\/9506\/950603\/9506032074\/9506032074001.json",
+        "nama": "TPS 001, KANDIBUNG, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032099",
+        "tps": "9506032099001",
+        "url": "95\/9506\/950603\/9506032099\/9506032099001.json",
+        "nama": "TPS 001, KELESU, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032099",
+        "tps": "9506032099002",
+        "url": "95\/9506\/950603\/9506032099\/9506032099002.json",
+        "nama": "TPS 002, KELESU, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032089",
+        "tps": "9506032089001",
+        "url": "95\/9506\/950603\/9506032089\/9506032089001.json",
+        "nama": "TPS 001, KESUWI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032041",
+        "tps": "9506032041001",
+        "url": "95\/9506\/950603\/9506032041\/9506032041001.json",
+        "nama": "TPS 001, KEWI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032015",
+        "tps": "9506032015001",
+        "url": "95\/9506\/950603\/9506032015\/9506032015001.json",
+        "nama": "TPS 001, KOLAIMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032015",
+        "tps": "9506032015002",
+        "url": "95\/9506\/950603\/9506032015\/9506032015002.json",
+        "nama": "TPS 002, KOLAIMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032073",
+        "tps": "9506032073001",
+        "url": "95\/9506\/950603\/9506032073\/9506032073001.json",
+        "nama": "TPS 001, KULE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032038",
+        "tps": "9506032038001",
+        "url": "95\/9506\/950603\/9506032038\/9506032038001.json",
+        "nama": "TPS 001, LAKONGKONG, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032003",
+        "tps": "9506032003001",
+        "url": "95\/9506\/950603\/9506032003\/9506032003001.json",
+        "nama": "TPS 001, LANDIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032003",
+        "tps": "9506032003002",
+        "url": "95\/9506\/950603\/9506032003\/9506032003002.json",
+        "nama": "TPS 002, LANDIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032102",
+        "tps": "9506032102001",
+        "url": "95\/9506\/950603\/9506032102\/9506032102001.json",
+        "nama": "TPS 001, LASIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032102",
+        "tps": "9506032102002",
+        "url": "95\/9506\/950603\/9506032102\/9506032102002.json",
+        "nama": "TPS 002, LASIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032046",
+        "tps": "9506032046001",
+        "url": "95\/9506\/950603\/9506032046\/9506032046001.json",
+        "nama": "TPS 001, LILIMUHUK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032092",
+        "tps": "9506032092001",
+        "url": "95\/9506\/950603\/9506032092\/9506032092001.json",
+        "nama": "TPS 001, LILLUIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032092",
+        "tps": "9506032092002",
+        "url": "95\/9506\/950603\/9506032092\/9506032092002.json",
+        "nama": "TPS 002, LILLUIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032072",
+        "tps": "9506032072001",
+        "url": "95\/9506\/950603\/9506032072\/9506032072001.json",
+        "nama": "TPS 001, LOHOMABEL, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032072",
+        "tps": "9506032072002",
+        "url": "95\/9506\/950603\/9506032072\/9506032072002.json",
+        "nama": "TPS 002, LOHOMABEL, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032048",
+        "tps": "9506032048001",
+        "url": "95\/9506\/950603\/9506032048\/9506032048001.json",
+        "nama": "TPS 001, MAHIYAL, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032105",
+        "tps": "9506032105001",
+        "url": "95\/9506\/950603\/9506032105\/9506032105001.json",
+        "nama": "TPS 001, MALEO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032068",
+        "tps": "9506032068001",
+        "url": "95\/9506\/950603\/9506032068\/9506032068001.json",
+        "nama": "TPS 001, MOBAN, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032069",
+        "tps": "9506032069001",
+        "url": "95\/9506\/950603\/9506032069\/9506032069001.json",
+        "nama": "TPS 001, MULIP, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032069",
+        "tps": "9506032069002",
+        "url": "95\/9506\/950603\/9506032069\/9506032069002.json",
+        "nama": "TPS 002, MULIP, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032028",
+        "tps": "9506032028001",
+        "url": "95\/9506\/950603\/9506032028\/9506032028001.json",
+        "nama": "TPS 001, MUSANAHIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032095",
+        "tps": "9506032095001",
+        "url": "95\/9506\/950603\/9506032095\/9506032095001.json",
+        "nama": "TPS 001, NENOMANI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032095",
+        "tps": "9506032095002",
+        "url": "95\/9506\/950603\/9506032095\/9506032095002.json",
+        "nama": "TPS 002, NENOMANI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032093",
+        "tps": "9506032093001",
+        "url": "95\/9506\/950603\/9506032093\/9506032093001.json",
+        "nama": "TPS 001, NOHOLUOK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032093",
+        "tps": "9506032093002",
+        "url": "95\/9506\/950603\/9506032093\/9506032093002.json",
+        "nama": "TPS 002, NOHOLUOK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032032",
+        "tps": "9506032032001",
+        "url": "95\/9506\/950603\/9506032032\/9506032032001.json",
+        "nama": "TPS 001, OBABIN, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032090",
+        "tps": "9506032090001",
+        "url": "95\/9506\/950603\/9506032090\/9506032090001.json",
+        "nama": "TPS 001, PAMUMU, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032090",
+        "tps": "9506032090002",
+        "url": "95\/9506\/950603\/9506032090\/9506032090002.json",
+        "nama": "TPS 002, PAMUMU, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032084",
+        "tps": "9506032084001",
+        "url": "95\/9506\/950603\/9506032084\/9506032084001.json",
+        "nama": "TPS 001, PIRIKALEM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032036",
+        "tps": "9506032036001",
+        "url": "95\/9506\/950603\/9506032036\/9506032036001.json",
+        "nama": "TPS 001, SABILIRONGGO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032050",
+        "tps": "9506032050001",
+        "url": "95\/9506\/950603\/9506032050\/9506032050001.json",
+        "nama": "TPS 001, SAHIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032050",
+        "tps": "9506032050002",
+        "url": "95\/9506\/950603\/9506032050\/9506032050002.json",
+        "nama": "TPS 002, SAHIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032067",
+        "tps": "9506032067001",
+        "url": "95\/9506\/950603\/9506032067\/9506032067001.json",
+        "nama": "TPS 001, SALO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032097",
+        "tps": "9506032097001",
+        "url": "95\/9506\/950603\/9506032097\/9506032097001.json",
+        "nama": "TPS 001, SALOHE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032097",
+        "tps": "9506032097002",
+        "url": "95\/9506\/950603\/9506032097\/9506032097002.json",
+        "nama": "TPS 002, SALOHE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032076",
+        "tps": "9506032076001",
+        "url": "95\/9506\/950603\/9506032076\/9506032076001.json",
+        "nama": "TPS 001, SAPIWAREK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032010",
+        "tps": "9506032010001",
+        "url": "95\/9506\/950603\/9506032010\/9506032010001.json",
+        "nama": "TPS 001, SEBI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032010",
+        "tps": "9506032010002",
+        "url": "95\/9506\/950603\/9506032010\/9506032010002.json",
+        "nama": "TPS 002, SEBI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032082",
+        "tps": "9506032082001",
+        "url": "95\/9506\/950603\/9506032082\/9506032082001.json",
+        "nama": "TPS 001, SOHI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032024",
+        "tps": "9506032024001",
+        "url": "95\/9506\/950603\/9506032024\/9506032024001.json",
+        "nama": "TPS 001, SOHOMBUNU, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032007",
+        "tps": "9506032007001",
+        "url": "95\/9506\/950603\/9506032007\/9506032007001.json",
+        "nama": "TPS 001, SOMBULE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032007",
+        "tps": "9506032007002",
+        "url": "95\/9506\/950603\/9506032007\/9506032007002.json",
+        "nama": "TPS 002, SOMBULE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032108",
+        "tps": "9506032108001",
+        "url": "95\/9506\/950603\/9506032108\/9506032108001.json",
+        "nama": "TPS 001, SOMOHI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032079",
+        "tps": "9506032079001",
+        "url": "95\/9506\/950603\/9506032079\/9506032079001.json",
+        "nama": "TPS 001, SUAHE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032103",
+        "tps": "9506032103001",
+        "url": "95\/9506\/950603\/9506032103\/9506032103001.json",
+        "nama": "TPS 001, SUELE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032103",
+        "tps": "9506032103002",
+        "url": "95\/9506\/950603\/9506032103\/9506032103002.json",
+        "nama": "TPS 002, SUELE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032085",
+        "tps": "9506032085001",
+        "url": "95\/9506\/950603\/9506032085\/9506032085001.json",
+        "nama": "TPS 001, SUMBUL, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032011",
+        "tps": "9506032011001",
+        "url": "95\/9506\/950603\/9506032011\/9506032011001.json",
+        "nama": "TPS 001, SUMINAIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032011",
+        "tps": "9506032011002",
+        "url": "95\/9506\/950603\/9506032011\/9506032011002.json",
+        "nama": "TPS 002, SUMINAIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032018",
+        "tps": "9506032018001",
+        "url": "95\/9506\/950603\/9506032018\/9506032018001.json",
+        "nama": "TPS 001, TAGABAGA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032080",
+        "tps": "9506032080001",
+        "url": "95\/9506\/950603\/9506032080\/9506032080001.json",
+        "nama": "TPS 001, ULUHUFUK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032070",
+        "tps": "9506032070001",
+        "url": "95\/9506\/950603\/9506032070\/9506032070001.json",
+        "nama": "TPS 001, ULUKHUMI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032012",
+        "tps": "9506032012001",
+        "url": "95\/9506\/950603\/9506032012\/9506032012001.json",
+        "nama": "TPS 001, ULUN, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032012",
+        "tps": "9506032012002",
+        "url": "95\/9506\/950603\/9506032012\/9506032012002.json",
+        "nama": "TPS 002, ULUN, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032066",
+        "tps": "9506032066001",
+        "url": "95\/9506\/950603\/9506032066\/9506032066001.json",
+        "nama": "TPS 001, ULUSI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032106",
+        "tps": "9506032106001",
+        "url": "95\/9506\/950603\/9506032106\/9506032106001.json",
+        "nama": "TPS 001, USABIYE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032106",
+        "tps": "9506032106002",
+        "url": "95\/9506\/950603\/9506032106\/9506032106002.json",
+        "nama": "TPS 002, USABIYE, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032091",
+        "tps": "9506032091001",
+        "url": "95\/9506\/950603\/9506032091\/9506032091001.json",
+        "nama": "TPS 001, WAFUHUK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032030",
+        "tps": "9506032030001",
+        "url": "95\/9506\/950603\/9506032030\/9506032030001.json",
+        "nama": "TPS 001, WAGHASILIMO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032017",
+        "tps": "9506032017001",
+        "url": "95\/9506\/950603\/9506032017\/9506032017001.json",
+        "nama": "TPS 001, WALAGIMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032045",
+        "tps": "9506032045001",
+        "url": "95\/9506\/950603\/9506032045\/9506032045001.json",
+        "nama": "TPS 001, WAMBAL, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032002",
+        "tps": "9506032002001",
+        "url": "95\/9506\/950603\/9506032002\/9506032002001.json",
+        "nama": "TPS 001, WAMBALFAK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032002",
+        "tps": "9506032002002",
+        "url": "95\/9506\/950603\/9506032002\/9506032002002.json",
+        "nama": "TPS 002, WAMBALFAK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032006",
+        "tps": "9506032006001",
+        "url": "95\/9506\/950603\/9506032006\/9506032006001.json",
+        "nama": "TPS 001, WAMBO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032006",
+        "tps": "9506032006002",
+        "url": "95\/9506\/950603\/9506032006\/9506032006002.json",
+        "nama": "TPS 002, WAMBO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032088",
+        "tps": "9506032088001",
+        "url": "95\/9506\/950603\/9506032088\/9506032088001.json",
+        "nama": "TPS 001, WAMHOR, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032094",
+        "tps": "9506032094001",
+        "url": "95\/9506\/950603\/9506032094\/9506032094001.json",
+        "nama": "TPS 001, WANAM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032094",
+        "tps": "9506032094002",
+        "url": "95\/9506\/950603\/9506032094\/9506032094002.json",
+        "nama": "TPS 002, WANAM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032016",
+        "tps": "9506032016001",
+        "url": "95\/9506\/950603\/9506032016\/9506032016001.json",
+        "nama": "TPS 001, WANGGIBO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032061",
+        "tps": "9506032061001",
+        "url": "95\/9506\/950603\/9506032061\/9506032061001.json",
+        "nama": "TPS 001, WANGGUN, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032061",
+        "tps": "9506032061002",
+        "url": "95\/9506\/950603\/9506032061\/9506032061002.json",
+        "nama": "TPS 002, WANGGUN, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032035",
+        "tps": "9506032035001",
+        "url": "95\/9506\/950603\/9506032035\/9506032035001.json",
+        "nama": "TPS 001, WANWAL, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032081",
+        "tps": "9506032081001",
+        "url": "95\/9506\/950603\/9506032081\/9506032081001.json",
+        "nama": "TPS 001, WAROHAM, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032060",
+        "tps": "9506032060001",
+        "url": "95\/9506\/950603\/9506032060\/9506032060001.json",
+        "nama": "TPS 001, WILAK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032060",
+        "tps": "9506032060002",
+        "url": "95\/9506\/950603\/9506032060\/9506032060002.json",
+        "nama": "TPS 002, WILAK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032031",
+        "tps": "9506032031001",
+        "url": "95\/9506\/950603\/9506032031\/9506032031001.json",
+        "nama": "TPS 001, WILEROMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032096",
+        "tps": "9506032096001",
+        "url": "95\/9506\/950603\/9506032096\/9506032096001.json",
+        "nama": "TPS 001, WILOFING, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032057",
+        "tps": "9506032057001",
+        "url": "95\/9506\/950603\/9506032057\/9506032057001.json",
+        "nama": "TPS 001, WITLANGGO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032107",
+        "tps": "9506032107001",
+        "url": "95\/9506\/950603\/9506032107\/9506032107001.json",
+        "nama": "TPS 001, WIWULIK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032058",
+        "tps": "9506032058001",
+        "url": "95\/9506\/950603\/9506032058\/9506032058001.json",
+        "nama": "TPS 001, WOROWI, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032014",
+        "tps": "9506032014001",
+        "url": "95\/9506\/950603\/9506032014\/9506032014001.json",
+        "nama": "TPS 001, WUTLARIN, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032053",
+        "tps": "9506032053001",
+        "url": "95\/9506\/950603\/9506032053\/9506032053001.json",
+        "nama": "TPS 001, YABUSUP, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032053",
+        "tps": "9506032053002",
+        "url": "95\/9506\/950603\/9506032053\/9506032053002.json",
+        "nama": "TPS 002, YABUSUP, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032023",
+        "tps": "9506032023001",
+        "url": "95\/9506\/950603\/9506032023\/9506032023001.json",
+        "nama": "TPS 001, YAHATMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032063",
+        "tps": "9506032063001",
+        "url": "95\/9506\/950603\/9506032063\/9506032063001.json",
+        "nama": "TPS 001, YAMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032042",
+        "tps": "9506032042001",
+        "url": "95\/9506\/950603\/9506032042\/9506032042001.json",
+        "nama": "TPS 001, YAMBAIKMA, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032037",
+        "tps": "9506032037001",
+        "url": "95\/9506\/950603\/9506032037\/9506032037001.json",
+        "nama": "TPS 001, YANAMIK, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032055",
+        "tps": "9506032055001",
+        "url": "95\/9506\/950603\/9506032055\/9506032055001.json",
+        "nama": "TPS 001, YAWAN, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950603",
+        "desa": "9506032044",
+        "tps": "9506032044001",
+        "url": "95\/9506\/950603\/9506032044\/9506032044001.json",
+        "nama": "TPS 001, YUKTANGGO, ABENAHO, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022044",
+        "tps": "9506022044001",
+        "url": "95\/9506\/950602\/9506022044\/9506022044001.json",
+        "nama": "TPS 001, ALIMUHUK, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022001",
+        "tps": "9506022001001",
+        "url": "95\/9506\/950602\/9506022001\/9506022001001.json",
+        "nama": "TPS 001, APALAPSILI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022001",
+        "tps": "9506022001002",
+        "url": "95\/9506\/950602\/9506022001\/9506022001002.json",
+        "nama": "TPS 002, APALAPSILI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022005",
+        "tps": "9506022005001",
+        "url": "95\/9506\/950602\/9506022005\/9506022005001.json",
+        "nama": "TPS 001, ASILIGMA, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022039",
+        "tps": "9506022039001",
+        "url": "95\/9506\/950602\/9506022039\/9506022039001.json",
+        "nama": "TPS 001, ASILIKMA, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022037",
+        "tps": "9506022037001",
+        "url": "95\/9506\/950602\/9506022037\/9506022037001.json",
+        "nama": "TPS 001, BAPTEKMA, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022037",
+        "tps": "9506022037002",
+        "url": "95\/9506\/950602\/9506022037\/9506022037002.json",
+        "nama": "TPS 002, BAPTEKMA, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022024",
+        "tps": "9506022024001",
+        "url": "95\/9506\/950602\/9506022024\/9506022024001.json",
+        "nama": "TPS 001, BENYAM, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022042",
+        "tps": "9506022042001",
+        "url": "95\/9506\/950602\/9506022042\/9506022042001.json",
+        "nama": "TPS 001, EAL, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022050",
+        "tps": "9506022050001",
+        "url": "95\/9506\/950602\/9506022050\/9506022050001.json",
+        "nama": "TPS 001, FALUKWALILO, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022050",
+        "tps": "9506022050002",
+        "url": "95\/9506\/950602\/9506022050\/9506022050002.json",
+        "nama": "TPS 002, FALUKWALILO, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022013",
+        "tps": "9506022013001",
+        "url": "95\/9506\/950602\/9506022013\/9506022013001.json",
+        "nama": "TPS 001, FARI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022035",
+        "tps": "9506022035001",
+        "url": "95\/9506\/950602\/9506022035\/9506022035001.json",
+        "nama": "TPS 001, FILIAHIK, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022035",
+        "tps": "9506022035002",
+        "url": "95\/9506\/950602\/9506022035\/9506022035002.json",
+        "nama": "TPS 002, FILIAHIK, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022017",
+        "tps": "9506022017001",
+        "url": "95\/9506\/950602\/9506022017\/9506022017001.json",
+        "nama": "TPS 001, HABALO, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022011",
+        "tps": "9506022011001",
+        "url": "95\/9506\/950602\/9506022011\/9506022011001.json",
+        "nama": "TPS 001, HINANGGOAMBUT, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022022",
+        "tps": "9506022022001",
+        "url": "95\/9506\/950602\/9506022022\/9506022022001.json",
+        "nama": "TPS 001, HOLUKALEM, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022049",
+        "tps": "9506022049001",
+        "url": "95\/9506\/950602\/9506022049\/9506022049001.json",
+        "nama": "TPS 001, HOLUOGALMA, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022002",
+        "tps": "9506022002001",
+        "url": "95\/9506\/950602\/9506022002\/9506022002001.json",
+        "nama": "TPS 001, HUBLIKI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022002",
+        "tps": "9506022002002",
+        "url": "95\/9506\/950602\/9506022002\/9506022002002.json",
+        "nama": "TPS 002, HUBLIKI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022043",
+        "tps": "9506022043001",
+        "url": "95\/9506\/950602\/9506022043\/9506022043001.json",
+        "nama": "TPS 001, HUKALOPUNU, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022031",
+        "tps": "9506022031001",
+        "url": "95\/9506\/950602\/9506022031\/9506022031001.json",
+        "nama": "TPS 001, HUMALEM, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022034",
+        "tps": "9506022034001",
+        "url": "95\/9506\/950602\/9506022034\/9506022034001.json",
+        "nama": "TPS 001, ILIREK, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022021",
+        "tps": "9506022021001",
+        "url": "95\/9506\/950602\/9506022021\/9506022021001.json",
+        "nama": "TPS 001, KELAMPURIM, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022028",
+        "tps": "9506022028001",
+        "url": "95\/9506\/950602\/9506022028\/9506022028001.json",
+        "nama": "TPS 001, KENGKENBUN, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022028",
+        "tps": "9506022028002",
+        "url": "95\/9506\/950602\/9506022028\/9506022028002.json",
+        "nama": "TPS 002, KENGKENBUN, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022036",
+        "tps": "9506022036001",
+        "url": "95\/9506\/950602\/9506022036\/9506022036001.json",
+        "nama": "TPS 001, KILAT, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022036",
+        "tps": "9506022036002",
+        "url": "95\/9506\/950602\/9506022036\/9506022036002.json",
+        "nama": "TPS 002, KILAT, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022030",
+        "tps": "9506022030001",
+        "url": "95\/9506\/950602\/9506022030\/9506022030001.json",
+        "nama": "TPS 001, KINHE, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022003",
+        "tps": "9506022003001",
+        "url": "95\/9506\/950602\/9506022003\/9506022003001.json",
+        "nama": "TPS 001, KULET, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022003",
+        "tps": "9506022003002",
+        "url": "95\/9506\/950602\/9506022003\/9506022003002.json",
+        "nama": "TPS 002, KULET, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022003",
+        "tps": "9506022003003",
+        "url": "95\/9506\/950602\/9506022003\/9506022003003.json",
+        "nama": "TPS 003, KULET, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022020",
+        "tps": "9506022020001",
+        "url": "95\/9506\/950602\/9506022020\/9506022020001.json",
+        "nama": "TPS 001, KUNDIKELE, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022020",
+        "tps": "9506022020002",
+        "url": "95\/9506\/950602\/9506022020\/9506022020002.json",
+        "nama": "TPS 002, KUNDIKELE, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022006",
+        "tps": "9506022006001",
+        "url": "95\/9506\/950602\/9506022006\/9506022006001.json",
+        "nama": "TPS 001, LAMBUKMU, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022009",
+        "tps": "9506022009001",
+        "url": "95\/9506\/950602\/9506022009\/9506022009001.json",
+        "nama": "TPS 001, LILINSALUK, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022033",
+        "tps": "9506022033001",
+        "url": "95\/9506\/950602\/9506022033\/9506022033001.json",
+        "nama": "TPS 001, MAKRIG, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022033",
+        "tps": "9506022033002",
+        "url": "95\/9506\/950602\/9506022033\/9506022033002.json",
+        "nama": "TPS 002, MAKRIG, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022046",
+        "tps": "9506022046001",
+        "url": "95\/9506\/950602\/9506022046\/9506022046001.json",
+        "nama": "TPS 001, MOLINGGI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022027",
+        "tps": "9506022027001",
+        "url": "95\/9506\/950602\/9506022027\/9506022027001.json",
+        "nama": "TPS 001, NANAHORUK, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022041",
+        "tps": "9506022041001",
+        "url": "95\/9506\/950602\/9506022041\/9506022041001.json",
+        "nama": "TPS 001, NASINEMA, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022010",
+        "tps": "9506022010001",
+        "url": "95\/9506\/950602\/9506022010\/9506022010001.json",
+        "nama": "TPS 001, NATOKSILI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022010",
+        "tps": "9506022010002",
+        "url": "95\/9506\/950602\/9506022010\/9506022010002.json",
+        "nama": "TPS 002, NATOKSILI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022038",
+        "tps": "9506022038001",
+        "url": "95\/9506\/950602\/9506022038\/9506022038001.json",
+        "nama": "TPS 001, NOHONIL, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022038",
+        "tps": "9506022038002",
+        "url": "95\/9506\/950602\/9506022038\/9506022038002.json",
+        "nama": "TPS 002, NOHONIL, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022016",
+        "tps": "9506022016001",
+        "url": "95\/9506\/950602\/9506022016\/9506022016001.json",
+        "nama": "TPS 001, OROHON, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022032",
+        "tps": "9506022032001",
+        "url": "95\/9506\/950602\/9506022032\/9506022032001.json",
+        "nama": "TPS 001, PIPISIM, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022045",
+        "tps": "9506022045001",
+        "url": "95\/9506\/950602\/9506022045\/9506022045001.json",
+        "nama": "TPS 001, PONG, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022018",
+        "tps": "9506022018001",
+        "url": "95\/9506\/950602\/9506022018\/9506022018001.json",
+        "nama": "TPS 001, SABILIKALEM, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022026",
+        "tps": "9506022026001",
+        "url": "95\/9506\/950602\/9506022026\/9506022026001.json",
+        "nama": "TPS 001, SABUALO, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022029",
+        "tps": "9506022029001",
+        "url": "95\/9506\/950602\/9506022029\/9506022029001.json",
+        "nama": "TPS 001, SIEN, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022047",
+        "tps": "9506022047001",
+        "url": "95\/9506\/950602\/9506022047\/9506022047001.json",
+        "nama": "TPS 001, SOBIKAMBUT, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022015",
+        "tps": "9506022015001",
+        "url": "95\/9506\/950602\/9506022015\/9506022015001.json",
+        "nama": "TPS 001, SUERLIHIM, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022007",
+        "tps": "9506022007001",
+        "url": "95\/9506\/950602\/9506022007\/9506022007001.json",
+        "nama": "TPS 001, SUWEWILI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022025",
+        "tps": "9506022025001",
+        "url": "95\/9506\/950602\/9506022025\/9506022025001.json",
+        "nama": "TPS 001, TEMPUT, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022040",
+        "tps": "9506022040001",
+        "url": "95\/9506\/950602\/9506022040\/9506022040001.json",
+        "nama": "TPS 001, TIKANO, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022019",
+        "tps": "9506022019001",
+        "url": "95\/9506\/950602\/9506022019\/9506022019001.json",
+        "nama": "TPS 001, WANAMALO, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022014",
+        "tps": "9506022014001",
+        "url": "95\/9506\/950602\/9506022014\/9506022014001.json",
+        "nama": "TPS 001, WASALALO, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022048",
+        "tps": "9506022048001",
+        "url": "95\/9506\/950602\/9506022048\/9506022048001.json",
+        "nama": "TPS 001, WIRALESILI, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022012",
+        "tps": "9506022012001",
+        "url": "95\/9506\/950602\/9506022012\/9506022012001.json",
+        "nama": "TPS 001, WIYUKWILIK, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022004",
+        "tps": "9506022004001",
+        "url": "95\/9506\/950602\/9506022004\/9506022004001.json",
+        "nama": "TPS 001, YAREMA, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022004",
+        "tps": "9506022004002",
+        "url": "95\/9506\/950602\/9506022004\/9506022004002.json",
+        "nama": "TPS 002, YAREMA, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022023",
+        "tps": "9506022023001",
+        "url": "95\/9506\/950602\/9506022023\/9506022023001.json",
+        "nama": "TPS 001, YEPTEK, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950602",
+        "desa": "9506022008",
+        "tps": "9506022008001",
+        "url": "95\/9506\/950602\/9506022008\/9506022008001.json",
+        "nama": "TPS 001, YOHUL, APALAPSILI, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042003",
+        "tps": "9506042003001",
+        "url": "95\/9506\/950604\/9506042003\/9506042003001.json",
+        "nama": "TPS 001, AMPERA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042003",
+        "tps": "9506042003002",
+        "url": "95\/9506\/950604\/9506042003\/9506042003002.json",
+        "nama": "TPS 002, AMPERA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042023",
+        "tps": "9506042023001",
+        "url": "95\/9506\/950604\/9506042023\/9506042023001.json",
+        "nama": "TPS 001, DUKUNASI, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042023",
+        "tps": "9506042023002",
+        "url": "95\/9506\/950604\/9506042023\/9506042023002.json",
+        "nama": "TPS 002, DUKUNASI, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042001",
+        "tps": "9506042001001",
+        "url": "95\/9506\/950604\/9506042001\/9506042001001.json",
+        "nama": "TPS 001, GILIKA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042001",
+        "tps": "9506042001002",
+        "url": "95\/9506\/950604\/9506042001\/9506042001002.json",
+        "nama": "TPS 002, GILIKA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042001",
+        "tps": "9506042001003",
+        "url": "95\/9506\/950604\/9506042001\/9506042001003.json",
+        "nama": "TPS 003, GILIKA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042012",
+        "tps": "9506042012001",
+        "url": "95\/9506\/950604\/9506042012\/9506042012001.json",
+        "nama": "TPS 001, HIMI, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042032",
+        "tps": "9506042032001",
+        "url": "95\/9506\/950604\/9506042032\/9506042032001.json",
+        "nama": "TPS 001, IKON, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042018",
+        "tps": "9506042018001",
+        "url": "95\/9506\/950604\/9506042018\/9506042018001.json",
+        "nama": "TPS 001, IYAP, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042018",
+        "tps": "9506042018002",
+        "url": "95\/9506\/950604\/9506042018\/9506042018002.json",
+        "nama": "TPS 002, IYAP, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042025",
+        "tps": "9506042025001",
+        "url": "95\/9506\/950604\/9506042025\/9506042025001.json",
+        "nama": "TPS 001, KAMIKA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042025",
+        "tps": "9506042025002",
+        "url": "95\/9506\/950604\/9506042025\/9506042025002.json",
+        "nama": "TPS 002, KAMIKA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042027",
+        "tps": "9506042027001",
+        "url": "95\/9506\/950604\/9506042027\/9506042027001.json",
+        "nama": "TPS 001, KAPAWA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042027",
+        "tps": "9506042027002",
+        "url": "95\/9506\/950604\/9506042027\/9506042027002.json",
+        "nama": "TPS 002, KAPAWA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042022",
+        "tps": "9506042022001",
+        "url": "95\/9506\/950604\/9506042022\/9506042022001.json",
+        "nama": "TPS 001, KARAMINA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042022",
+        "tps": "9506042022002",
+        "url": "95\/9506\/950604\/9506042022\/9506042022002.json",
+        "nama": "TPS 002, KARAMINA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042033",
+        "tps": "9506042033001",
+        "url": "95\/9506\/950604\/9506042033\/9506042033001.json",
+        "nama": "TPS 001, KEY, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042020",
+        "tps": "9506042020001",
+        "url": "95\/9506\/950604\/9506042020\/9506042020001.json",
+        "nama": "TPS 001, KONOBUN, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042020",
+        "tps": "9506042020002",
+        "url": "95\/9506\/950604\/9506042020\/9506042020002.json",
+        "nama": "TPS 002, KONOBUN, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042035",
+        "tps": "9506042035001",
+        "url": "95\/9506\/950604\/9506042035\/9506042035001.json",
+        "nama": "TPS 001, KUKDOMOL, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042035",
+        "tps": "9506042035002",
+        "url": "95\/9506\/950604\/9506042035\/9506042035002.json",
+        "nama": "TPS 002, KUKDOMOL, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042008",
+        "tps": "9506042008001",
+        "url": "95\/9506\/950604\/9506042008\/9506042008001.json",
+        "nama": "TPS 001, KUTAKURUK, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042034",
+        "tps": "9506042034001",
+        "url": "95\/9506\/950604\/9506042034\/9506042034001.json",
+        "nama": "TPS 001, LAWE, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042016",
+        "tps": "9506042016001",
+        "url": "95\/9506\/950604\/9506042016\/9506042016001.json",
+        "nama": "TPS 001, LULUM, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042016",
+        "tps": "9506042016002",
+        "url": "95\/9506\/950604\/9506042016\/9506042016002.json",
+        "nama": "TPS 002, LULUM, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042031",
+        "tps": "9506042031001",
+        "url": "95\/9506\/950604\/9506042031\/9506042031001.json",
+        "nama": "TPS 001, MAKRIP, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042011",
+        "tps": "9506042011001",
+        "url": "95\/9506\/950604\/9506042011\/9506042011001.json",
+        "nama": "TPS 001, MARTARU, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042028",
+        "tps": "9506042028001",
+        "url": "95\/9506\/950604\/9506042028\/9506042028001.json",
+        "nama": "TPS 001, MIYAWI, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042005",
+        "tps": "9506042005001",
+        "url": "95\/9506\/950604\/9506042005\/9506042005001.json",
+        "nama": "TPS 001, NAIRA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042009",
+        "tps": "9506042009001",
+        "url": "95\/9506\/950604\/9506042009\/9506042009001.json",
+        "nama": "TPS 001, NARAU, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042010",
+        "tps": "9506042010001",
+        "url": "95\/9506\/950604\/9506042010\/9506042010001.json",
+        "nama": "TPS 001, NEIGASE, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042036",
+        "tps": "9506042036001",
+        "url": "95\/9506\/950604\/9506042036\/9506042036001.json",
+        "nama": "TPS 001, NIHOL, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042013",
+        "tps": "9506042013001",
+        "url": "95\/9506\/950604\/9506042013\/9506042013001.json",
+        "nama": "TPS 001, NUNGKERE, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042013",
+        "tps": "9506042013002",
+        "url": "95\/9506\/950604\/9506042013\/9506042013002.json",
+        "nama": "TPS 002, NUNGKERE, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042037",
+        "tps": "9506042037001",
+        "url": "95\/9506\/950604\/9506042037\/9506042037001.json",
+        "nama": "TPS 001, NUOROK, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042015",
+        "tps": "9506042015001",
+        "url": "95\/9506\/950604\/9506042015\/9506042015001.json",
+        "nama": "TPS 001, PALUKE, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042017",
+        "tps": "9506042017001",
+        "url": "95\/9506\/950604\/9506042017\/9506042017001.json",
+        "nama": "TPS 001, PENSALE, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042017",
+        "tps": "9506042017002",
+        "url": "95\/9506\/950604\/9506042017\/9506042017002.json",
+        "nama": "TPS 002, PENSALE, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042004",
+        "tps": "9506042004001",
+        "url": "95\/9506\/950604\/9506042004\/9506042004001.json",
+        "nama": "TPS 001, PEPERA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042004",
+        "tps": "9506042004002",
+        "url": "95\/9506\/950604\/9506042004\/9506042004002.json",
+        "nama": "TPS 002, PEPERA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042014",
+        "tps": "9506042014001",
+        "url": "95\/9506\/950604\/9506042014\/9506042014001.json",
+        "nama": "TPS 001, PURUKU, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042006",
+        "tps": "9506042006001",
+        "url": "95\/9506\/950604\/9506042006\/9506042006001.json",
+        "nama": "TPS 001, SIWA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042024",
+        "tps": "9506042024001",
+        "url": "95\/9506\/950604\/9506042024\/9506042024001.json",
+        "nama": "TPS 001, THAMAKSIN, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042024",
+        "tps": "9506042024002",
+        "url": "95\/9506\/950604\/9506042024\/9506042024002.json",
+        "nama": "TPS 002, THAMAKSIN, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042007",
+        "tps": "9506042007001",
+        "url": "95\/9506\/950604\/9506042007\/9506042007001.json",
+        "nama": "TPS 001, TIWAYI, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042002",
+        "tps": "9506042002001",
+        "url": "95\/9506\/950604\/9506042002\/9506042002001.json",
+        "nama": "TPS 001, TRIKORA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042002",
+        "tps": "9506042002002",
+        "url": "95\/9506\/950604\/9506042002\/9506042002002.json",
+        "nama": "TPS 002, TRIKORA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042026",
+        "tps": "9506042026001",
+        "url": "95\/9506\/950604\/9506042026\/9506042026001.json",
+        "nama": "TPS 001, URAMBURU, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042030",
+        "tps": "9506042030001",
+        "url": "95\/9506\/950604\/9506042030\/9506042030001.json",
+        "nama": "TPS 001, WERMAS, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042019",
+        "tps": "9506042019001",
+        "url": "95\/9506\/950604\/9506042019\/9506042019001.json",
+        "nama": "TPS 001, WIBI, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042019",
+        "tps": "9506042019002",
+        "url": "95\/9506\/950604\/9506042019\/9506042019002.json",
+        "nama": "TPS 002, WIBI, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042021",
+        "tps": "9506042021001",
+        "url": "95\/9506\/950604\/9506042021\/9506042021001.json",
+        "nama": "TPS 001, WIRSA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042021",
+        "tps": "9506042021002",
+        "url": "95\/9506\/950604\/9506042021\/9506042021002.json",
+        "nama": "TPS 002, WIRSA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950604",
+        "desa": "9506042029",
+        "tps": "9506042029001",
+        "url": "95\/9506\/950604\/9506042029\/9506042029001.json",
+        "nama": "TPS 001, YAKWA, BENAWA, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012002",
+        "tps": "9506012002001",
+        "url": "95\/9506\/950601\/9506012002\/9506012002001.json",
+        "nama": "TPS 001, ALUIS, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012002",
+        "tps": "9506012002002",
+        "url": "95\/9506\/950601\/9506012002\/9506012002002.json",
+        "nama": "TPS 002, ALUIS, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012013",
+        "tps": "9506012013001",
+        "url": "95\/9506\/950601\/9506012013\/9506012013001.json",
+        "nama": "TPS 001, BULMU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012013",
+        "tps": "9506012013002",
+        "url": "95\/9506\/950601\/9506012013\/9506012013002.json",
+        "nama": "TPS 002, BULMU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012013",
+        "tps": "9506012013003",
+        "url": "95\/9506\/950601\/9506012013\/9506012013003.json",
+        "nama": "TPS 003, BULMU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012013",
+        "tps": "9506012013004",
+        "url": "95\/9506\/950601\/9506012013\/9506012013004.json",
+        "nama": "TPS 004, BULMU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012013",
+        "tps": "9506012013005",
+        "url": "95\/9506\/950601\/9506012013\/9506012013005.json",
+        "nama": "TPS 005, BULMU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012035",
+        "tps": "9506012035001",
+        "url": "95\/9506\/950601\/9506012035\/9506012035001.json",
+        "nama": "TPS 001, DUWONG, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012001",
+        "tps": "9506012001001",
+        "url": "95\/9506\/950601\/9506012001\/9506012001001.json",
+        "nama": "TPS 001, ELELIM, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012001",
+        "tps": "9506012001002",
+        "url": "95\/9506\/950601\/9506012001\/9506012001002.json",
+        "nama": "TPS 002, ELELIM, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012043",
+        "tps": "9506012043001",
+        "url": "95\/9506\/950601\/9506012043\/9506012043001.json",
+        "nama": "TPS 001, EMON, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012032",
+        "tps": "9506012032001",
+        "url": "95\/9506\/950601\/9506012032\/9506012032001.json",
+        "nama": "TPS 001, EREGI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012025",
+        "tps": "9506012025001",
+        "url": "95\/9506\/950601\/9506012025\/9506012025001.json",
+        "nama": "TPS 001, FIMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012017",
+        "tps": "9506012017001",
+        "url": "95\/9506\/950601\/9506012017\/9506012017001.json",
+        "nama": "TPS 001, HELABU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012040",
+        "tps": "9506012040001",
+        "url": "95\/9506\/950601\/9506012040\/9506012040001.json",
+        "nama": "TPS 001, HESMAT, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012034",
+        "tps": "9506012034001",
+        "url": "95\/9506\/950601\/9506012034\/9506012034001.json",
+        "nama": "TPS 001, HILING, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012020",
+        "tps": "9506012020001",
+        "url": "95\/9506\/950601\/9506012020\/9506012020001.json",
+        "nama": "TPS 001, HOBAKMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012020",
+        "tps": "9506012020002",
+        "url": "95\/9506\/950601\/9506012020\/9506012020002.json",
+        "nama": "TPS 002, HOBAKMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012003",
+        "tps": "9506012003001",
+        "url": "95\/9506\/950601\/9506012003\/9506012003001.json",
+        "nama": "TPS 001, HONITA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012003",
+        "tps": "9506012003002",
+        "url": "95\/9506\/950601\/9506012003\/9506012003002.json",
+        "nama": "TPS 002, HONITA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012023",
+        "tps": "9506012023001",
+        "url": "95\/9506\/950601\/9506012023\/9506012023001.json",
+        "nama": "TPS 001, KALAK, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012023",
+        "tps": "9506012023002",
+        "url": "95\/9506\/950601\/9506012023\/9506012023002.json",
+        "nama": "TPS 002, KALAK, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012044",
+        "tps": "9506012044001",
+        "url": "95\/9506\/950601\/9506012044\/9506012044001.json",
+        "nama": "TPS 001, KWIKMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012044",
+        "tps": "9506012044002",
+        "url": "95\/9506\/950601\/9506012044\/9506012044002.json",
+        "nama": "TPS 002, KWIKMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012008",
+        "tps": "9506012008001",
+        "url": "95\/9506\/950601\/9506012008\/9506012008001.json",
+        "nama": "TPS 001, MARIBU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012041",
+        "tps": "9506012041001",
+        "url": "95\/9506\/950601\/9506012041\/9506012041001.json",
+        "nama": "TPS 001, MOLINGGU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012041",
+        "tps": "9506012041002",
+        "url": "95\/9506\/950601\/9506012041\/9506012041002.json",
+        "nama": "TPS 002, MOLINGGU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012016",
+        "tps": "9506012016001",
+        "url": "95\/9506\/950601\/9506012016\/9506012016001.json",
+        "nama": "TPS 001, MOMONHUSI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012012",
+        "tps": "9506012012001",
+        "url": "95\/9506\/950601\/9506012012\/9506012012001.json",
+        "nama": "TPS 001, OHOAM, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012033",
+        "tps": "9506012033001",
+        "url": "95\/9506\/950601\/9506012033\/9506012033001.json",
+        "nama": "TPS 001, OHONIAM, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012038",
+        "tps": "9506012038001",
+        "url": "95\/9506\/950601\/9506012038\/9506012038001.json",
+        "nama": "TPS 001, OLANI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012007",
+        "tps": "9506012007001",
+        "url": "95\/9506\/950601\/9506012007\/9506012007001.json",
+        "nama": "TPS 001, PANGKIK, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012027",
+        "tps": "9506012027001",
+        "url": "95\/9506\/950601\/9506012027\/9506012027001.json",
+        "nama": "TPS 001, PASIMBOLO, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012027",
+        "tps": "9506012027002",
+        "url": "95\/9506\/950601\/9506012027\/9506012027002.json",
+        "nama": "TPS 002, PASIMBOLO, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012005",
+        "tps": "9506012005001",
+        "url": "95\/9506\/950601\/9506012005\/9506012005001.json",
+        "nama": "TPS 001, PIHEL, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012005",
+        "tps": "9506012005002",
+        "url": "95\/9506\/950601\/9506012005\/9506012005002.json",
+        "nama": "TPS 002, PIHEL, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012015",
+        "tps": "9506012015001",
+        "url": "95\/9506\/950601\/9506012015\/9506012015001.json",
+        "nama": "TPS 001, PIRIP, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012015",
+        "tps": "9506012015002",
+        "url": "95\/9506\/950601\/9506012015\/9506012015002.json",
+        "nama": "TPS 002, PIRIP, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012036",
+        "tps": "9506012036001",
+        "url": "95\/9506\/950601\/9506012036\/9506012036001.json",
+        "nama": "TPS 001, PISIREG, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012018",
+        "tps": "9506012018001",
+        "url": "95\/9506\/950601\/9506012018\/9506012018001.json",
+        "nama": "TPS 001, PUNGKAHIK, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012039",
+        "tps": "9506012039001",
+        "url": "95\/9506\/950601\/9506012039\/9506012039001.json",
+        "nama": "TPS 001, SILI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012039",
+        "tps": "9506012039002",
+        "url": "95\/9506\/950601\/9506012039\/9506012039002.json",
+        "nama": "TPS 002, SILI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012031",
+        "tps": "9506012031001",
+        "url": "95\/9506\/950601\/9506012031\/9506012031001.json",
+        "nama": "TPS 001, SIPSOI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012031",
+        "tps": "9506012031002",
+        "url": "95\/9506\/950601\/9506012031\/9506012031002.json",
+        "nama": "TPS 002, SIPSOI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012030",
+        "tps": "9506012030001",
+        "url": "95\/9506\/950601\/9506012030\/9506012030001.json",
+        "nama": "TPS 001, SIPSON, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012030",
+        "tps": "9506012030002",
+        "url": "95\/9506\/950601\/9506012030\/9506012030002.json",
+        "nama": "TPS 002, SIPSON, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012011",
+        "tps": "9506012011001",
+        "url": "95\/9506\/950601\/9506012011\/9506012011001.json",
+        "nama": "TPS 001, SIRA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012029",
+        "tps": "9506012029001",
+        "url": "95\/9506\/950601\/9506012029\/9506012029001.json",
+        "nama": "TPS 001, SOWI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012029",
+        "tps": "9506012029002",
+        "url": "95\/9506\/950601\/9506012029\/9506012029002.json",
+        "nama": "TPS 002, SOWI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012037",
+        "tps": "9506012037001",
+        "url": "95\/9506\/950601\/9506012037\/9506012037001.json",
+        "nama": "TPS 001, TANAPASIR, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012014",
+        "tps": "9506012014001",
+        "url": "95\/9506\/950601\/9506012014\/9506012014001.json",
+        "nama": "TPS 001, UBI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012010",
+        "tps": "9506012010001",
+        "url": "95\/9506\/950601\/9506012010\/9506012010001.json",
+        "nama": "TPS 001, ULO, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012028",
+        "tps": "9506012028001",
+        "url": "95\/9506\/950601\/9506012028\/9506012028001.json",
+        "nama": "TPS 001, WAGAGU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012028",
+        "tps": "9506012028002",
+        "url": "95\/9506\/950601\/9506012028\/9506012028002.json",
+        "nama": "TPS 002, WAGAGU, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012006",
+        "tps": "9506012006001",
+        "url": "95\/9506\/950601\/9506012006\/9506012006001.json",
+        "nama": "TPS 001, WALKEP, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012022",
+        "tps": "9506012022001",
+        "url": "95\/9506\/950601\/9506012022\/9506012022001.json",
+        "nama": "TPS 001, WARIKMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012021",
+        "tps": "9506012021001",
+        "url": "95\/9506\/950601\/9506012021\/9506012021001.json",
+        "nama": "TPS 001, WASUA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012019",
+        "tps": "9506012019001",
+        "url": "95\/9506\/950601\/9506012019\/9506012019001.json",
+        "nama": "TPS 001, WEKOLANI, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012042",
+        "tps": "9506012042001",
+        "url": "95\/9506\/950601\/9506012042\/9506012042001.json",
+        "nama": "TPS 001, WEREKMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012042",
+        "tps": "9506012042002",
+        "url": "95\/9506\/950601\/9506012042\/9506012042002.json",
+        "nama": "TPS 002, WEREKMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012004",
+        "tps": "9506012004001",
+        "url": "95\/9506\/950601\/9506012004\/9506012004001.json",
+        "nama": "TPS 001, YABEMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012004",
+        "tps": "9506012004002",
+        "url": "95\/9506\/950601\/9506012004\/9506012004002.json",
+        "nama": "TPS 002, YABEMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950601",
+        "desa": "9506012009",
+        "tps": "9506012009001",
+        "url": "95\/9506\/950601\/9506012009\/9506012009001.json",
+        "nama": "TPS 001, YAKIKMA, ELELIM, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052035",
+        "tps": "9506052035001",
+        "url": "95\/9506\/950605\/9506052035\/9506052035001.json",
+        "nama": "TPS 001, AMBILIKI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052035",
+        "tps": "9506052035002",
+        "url": "95\/9506\/950605\/9506052035\/9506052035002.json",
+        "nama": "TPS 002, AMBILIKI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052045",
+        "tps": "9506052045001",
+        "url": "95\/9506\/950605\/9506052045\/9506052045001.json",
+        "nama": "TPS 001, AMPOLONGSILI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052061",
+        "tps": "9506052061001",
+        "url": "95\/9506\/950605\/9506052061\/9506052061001.json",
+        "nama": "TPS 001, AMULUK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052027",
+        "tps": "9506052027001",
+        "url": "95\/9506\/950605\/9506052027\/9506052027001.json",
+        "nama": "TPS 001, FEINGKAMA, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052027",
+        "tps": "9506052027002",
+        "url": "95\/9506\/950605\/9506052027\/9506052027002.json",
+        "nama": "TPS 002, FEINGKAMA, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052024",
+        "tps": "9506052024001",
+        "url": "95\/9506\/950605\/9506052024\/9506052024001.json",
+        "nama": "TPS 001, FIKFAK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052060",
+        "tps": "9506052060001",
+        "url": "95\/9506\/950605\/9506052060\/9506052060001.json",
+        "nama": "TPS 001, FOLONGSILI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052060",
+        "tps": "9506052060002",
+        "url": "95\/9506\/950605\/9506052060\/9506052060002.json",
+        "nama": "TPS 002, FOLONGSILI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052018",
+        "tps": "9506052018001",
+        "url": "95\/9506\/950605\/9506052018\/9506052018001.json",
+        "nama": "TPS 001, HALIALO, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052018",
+        "tps": "9506052018002",
+        "url": "95\/9506\/950605\/9506052018\/9506052018002.json",
+        "nama": "TPS 002, HALIALO, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052022",
+        "tps": "9506052022001",
+        "url": "95\/9506\/950605\/9506052022\/9506052022001.json",
+        "nama": "TPS 001, HALISEK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052016",
+        "tps": "9506052016001",
+        "url": "95\/9506\/950605\/9506052016\/9506052016001.json",
+        "nama": "TPS 001, HAMBOIK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052053",
+        "tps": "9506052053001",
+        "url": "95\/9506\/950605\/9506052053\/9506052053001.json",
+        "nama": "TPS 001, HELEBOL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052053",
+        "tps": "9506052053002",
+        "url": "95\/9506\/950605\/9506052053\/9506052053002.json",
+        "nama": "TPS 002, HELEBOL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052050",
+        "tps": "9506052050001",
+        "url": "95\/9506\/950605\/9506052050\/9506052050001.json",
+        "nama": "TPS 001, HILARIKI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052007",
+        "tps": "9506052007001",
+        "url": "95\/9506\/950605\/9506052007\/9506052007001.json",
+        "nama": "TPS 001, HINDALIMUHUK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052007",
+        "tps": "9506052007002",
+        "url": "95\/9506\/950605\/9506052007\/9506052007002.json",
+        "nama": "TPS 002, HINDALIMUHUK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052007",
+        "tps": "9506052007003",
+        "url": "95\/9506\/950605\/9506052007\/9506052007003.json",
+        "nama": "TPS 003, HINDALIMUHUK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052031",
+        "tps": "9506052031001",
+        "url": "95\/9506\/950605\/9506052031\/9506052031001.json",
+        "nama": "TPS 001, HOBUT, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052031",
+        "tps": "9506052031002",
+        "url": "95\/9506\/950605\/9506052031\/9506052031002.json",
+        "nama": "TPS 002, HOBUT, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052028",
+        "tps": "9506052028001",
+        "url": "95\/9506\/950605\/9506052028\/9506052028001.json",
+        "nama": "TPS 001, HOLOWI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052028",
+        "tps": "9506052028002",
+        "url": "95\/9506\/950605\/9506052028\/9506052028002.json",
+        "nama": "TPS 002, HOLOWI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052044",
+        "tps": "9506052044001",
+        "url": "95\/9506\/950605\/9506052044\/9506052044001.json",
+        "nama": "TPS 001, IRAREK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052010",
+        "tps": "9506052010001",
+        "url": "95\/9506\/950605\/9506052010\/9506052010001.json",
+        "nama": "TPS 001, KAMPOL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052010",
+        "tps": "9506052010002",
+        "url": "95\/9506\/950605\/9506052010\/9506052010002.json",
+        "nama": "TPS 002, KAMPOL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052020",
+        "tps": "9506052020001",
+        "url": "95\/9506\/950605\/9506052020\/9506052020001.json",
+        "nama": "TPS 001, KAYALEM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052020",
+        "tps": "9506052020002",
+        "url": "95\/9506\/950605\/9506052020\/9506052020002.json",
+        "nama": "TPS 002, KAYALEM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052048",
+        "tps": "9506052048001",
+        "url": "95\/9506\/950605\/9506052048\/9506052048001.json",
+        "nama": "TPS 001, KAYO, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052030",
+        "tps": "9506052030001",
+        "url": "95\/9506\/950605\/9506052030\/9506052030001.json",
+        "nama": "TPS 001, KOUM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052030",
+        "tps": "9506052030002",
+        "url": "95\/9506\/950605\/9506052030\/9506052030002.json",
+        "nama": "TPS 002, KOUM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052039",
+        "tps": "9506052039001",
+        "url": "95\/9506\/950605\/9506052039\/9506052039001.json",
+        "nama": "TPS 001, LANGAM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052057",
+        "tps": "9506052057001",
+        "url": "95\/9506\/950605\/9506052057\/9506052057001.json",
+        "nama": "TPS 001, LASIK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052004",
+        "tps": "9506052004001",
+        "url": "95\/9506\/950605\/9506052004\/9506052004001.json",
+        "nama": "TPS 001, MABUALEM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052004",
+        "tps": "9506052004002",
+        "url": "95\/9506\/950605\/9506052004\/9506052004002.json",
+        "nama": "TPS 002, MABUALEM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052033",
+        "tps": "9506052033001",
+        "url": "95\/9506\/950605\/9506052033\/9506052033001.json",
+        "nama": "TPS 001, MAMION, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052033",
+        "tps": "9506052033002",
+        "url": "95\/9506\/950605\/9506052033\/9506052033002.json",
+        "nama": "TPS 002, MAMION, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052008",
+        "tps": "9506052008001",
+        "url": "95\/9506\/950605\/9506052008\/9506052008001.json",
+        "nama": "TPS 001, MENEPINI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052008",
+        "tps": "9506052008002",
+        "url": "95\/9506\/950605\/9506052008\/9506052008002.json",
+        "nama": "TPS 002, MENEPINI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052008",
+        "tps": "9506052008003",
+        "url": "95\/9506\/950605\/9506052008\/9506052008003.json",
+        "nama": "TPS 003, MENEPINI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052017",
+        "tps": "9506052017001",
+        "url": "95\/9506\/950605\/9506052017\/9506052017001.json",
+        "nama": "TPS 001, MOHOBIYE, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052017",
+        "tps": "9506052017002",
+        "url": "95\/9506\/950605\/9506052017\/9506052017002.json",
+        "nama": "TPS 002, MOHOBIYE, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052025",
+        "tps": "9506052025001",
+        "url": "95\/9506\/950605\/9506052025\/9506052025001.json",
+        "nama": "TPS 001, MOHONU, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052025",
+        "tps": "9506052025002",
+        "url": "95\/9506\/950605\/9506052025\/9506052025002.json",
+        "nama": "TPS 002, MOHONU, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052032",
+        "tps": "9506052032001",
+        "url": "95\/9506\/950605\/9506052032\/9506052032001.json",
+        "nama": "TPS 001, MONDEK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052032",
+        "tps": "9506052032002",
+        "url": "95\/9506\/950605\/9506052032\/9506052032002.json",
+        "nama": "TPS 002, MONDEK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052043",
+        "tps": "9506052043001",
+        "url": "95\/9506\/950605\/9506052043\/9506052043001.json",
+        "nama": "TPS 001, NANGKULAMULAN, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052056",
+        "tps": "9506052056001",
+        "url": "95\/9506\/950605\/9506052056\/9506052056001.json",
+        "nama": "TPS 001, NOHONIL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052040",
+        "tps": "9506052040001",
+        "url": "95\/9506\/950605\/9506052040\/9506052040001.json",
+        "nama": "TPS 001, PAMI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052049",
+        "tps": "9506052049001",
+        "url": "95\/9506\/950605\/9506052049\/9506052049001.json",
+        "nama": "TPS 001, PANAL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052049",
+        "tps": "9506052049002",
+        "url": "95\/9506\/950605\/9506052049\/9506052049002.json",
+        "nama": "TPS 002, PANAL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052058",
+        "tps": "9506052058001",
+        "url": "95\/9506\/950605\/9506052058\/9506052058001.json",
+        "nama": "TPS 001, PANALULUN, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052058",
+        "tps": "9506052058002",
+        "url": "95\/9506\/950605\/9506052058\/9506052058002.json",
+        "nama": "TPS 002, PANALULUN, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052026",
+        "tps": "9506052026001",
+        "url": "95\/9506\/950605\/9506052026\/9506052026001.json",
+        "nama": "TPS 001, PIKOHOFARI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052026",
+        "tps": "9506052026002",
+        "url": "95\/9506\/950605\/9506052026\/9506052026002.json",
+        "nama": "TPS 002, PIKOHOFARI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052041",
+        "tps": "9506052041001",
+        "url": "95\/9506\/950605\/9506052041\/9506052041001.json",
+        "nama": "TPS 001, PIRANG, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052005",
+        "tps": "9506052005001",
+        "url": "95\/9506\/950605\/9506052005\/9506052005001.json",
+        "nama": "TPS 001, PISANGGO, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052005",
+        "tps": "9506052005002",
+        "url": "95\/9506\/950605\/9506052005\/9506052005002.json",
+        "nama": "TPS 002, PISANGGO, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052005",
+        "tps": "9506052005003",
+        "url": "95\/9506\/950605\/9506052005\/9506052005003.json",
+        "nama": "TPS 003, PISANGGO, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052005",
+        "tps": "9506052005004",
+        "url": "95\/9506\/950605\/9506052005\/9506052005004.json",
+        "nama": "TPS 004, PISANGGO, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052042",
+        "tps": "9506052042001",
+        "url": "95\/9506\/950605\/9506052042\/9506052042001.json",
+        "nama": "TPS 001, POHOLANGGEN, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052029",
+        "tps": "9506052029001",
+        "url": "95\/9506\/950605\/9506052029\/9506052029001.json",
+        "nama": "TPS 001, POIK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052029",
+        "tps": "9506052029002",
+        "url": "95\/9506\/950605\/9506052029\/9506052029002.json",
+        "nama": "TPS 002, POIK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052012",
+        "tps": "9506052012001",
+        "url": "95\/9506\/950605\/9506052012\/9506052012001.json",
+        "nama": "TPS 001, PUNUI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052013",
+        "tps": "9506052013001",
+        "url": "95\/9506\/950605\/9506052013\/9506052013001.json",
+        "nama": "TPS 001, SAKAM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052013",
+        "tps": "9506052013002",
+        "url": "95\/9506\/950605\/9506052013\/9506052013002.json",
+        "nama": "TPS 002, SAKAM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052037",
+        "tps": "9506052037001",
+        "url": "95\/9506\/950605\/9506052037\/9506052037001.json",
+        "nama": "TPS 001, SALEMA, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052003",
+        "tps": "9506052003001",
+        "url": "95\/9506\/950605\/9506052003\/9506052003001.json",
+        "nama": "TPS 001, SALY, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052015",
+        "tps": "9506052015001",
+        "url": "95\/9506\/950605\/9506052015\/9506052015001.json",
+        "nama": "TPS 001, SAMARIA, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052015",
+        "tps": "9506052015002",
+        "url": "95\/9506\/950605\/9506052015\/9506052015002.json",
+        "nama": "TPS 002, SAMARIA, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052015",
+        "tps": "9506052015003",
+        "url": "95\/9506\/950605\/9506052015\/9506052015003.json",
+        "nama": "TPS 003, SAMARIA, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052021",
+        "tps": "9506052021001",
+        "url": "95\/9506\/950605\/9506052021\/9506052021001.json",
+        "nama": "TPS 001, SEHEREK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052038",
+        "tps": "9506052038001",
+        "url": "95\/9506\/950605\/9506052038\/9506052038001.json",
+        "nama": "TPS 001, SELEBI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052034",
+        "tps": "9506052034001",
+        "url": "95\/9506\/950605\/9506052034\/9506052034001.json",
+        "nama": "TPS 001, SELEK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052034",
+        "tps": "9506052034002",
+        "url": "95\/9506\/950605\/9506052034\/9506052034002.json",
+        "nama": "TPS 002, SELEK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052054",
+        "tps": "9506052054001",
+        "url": "95\/9506\/950605\/9506052054\/9506052054001.json",
+        "nama": "TPS 001, SILFAL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052054",
+        "tps": "9506052054002",
+        "url": "95\/9506\/950605\/9506052054\/9506052054002.json",
+        "nama": "TPS 002, SILFAL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052014",
+        "tps": "9506052014001",
+        "url": "95\/9506\/950605\/9506052014\/9506052014001.json",
+        "nama": "TPS 001, SINAHAL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052014",
+        "tps": "9506052014002",
+        "url": "95\/9506\/950605\/9506052014\/9506052014002.json",
+        "nama": "TPS 002, SINAHAL, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052009",
+        "tps": "9506052009001",
+        "url": "95\/9506\/950605\/9506052009\/9506052009001.json",
+        "nama": "TPS 001, SOHARAM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052009",
+        "tps": "9506052009002",
+        "url": "95\/9506\/950605\/9506052009\/9506052009002.json",
+        "nama": "TPS 002, SOHARAM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052055",
+        "tps": "9506052055001",
+        "url": "95\/9506\/950605\/9506052055\/9506052055001.json",
+        "nama": "TPS 001, SUKALIMI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052055",
+        "tps": "9506052055002",
+        "url": "95\/9506\/950605\/9506052055\/9506052055002.json",
+        "nama": "TPS 002, SUKALIMI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052046",
+        "tps": "9506052046001",
+        "url": "95\/9506\/950605\/9506052046\/9506052046001.json",
+        "nama": "TPS 001, SUMTAN, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052011",
+        "tps": "9506052011001",
+        "url": "95\/9506\/950605\/9506052011\/9506052011001.json",
+        "nama": "TPS 001, TAHAMAK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052011",
+        "tps": "9506052011002",
+        "url": "95\/9506\/950605\/9506052011\/9506052011002.json",
+        "nama": "TPS 002, TAHAMAK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052011",
+        "tps": "9506052011003",
+        "url": "95\/9506\/950605\/9506052011\/9506052011003.json",
+        "nama": "TPS 003, TAHAMAK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052051",
+        "tps": "9506052051001",
+        "url": "95\/9506\/950605\/9506052051\/9506052051001.json",
+        "nama": "TPS 001, TINMUHUK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052036",
+        "tps": "9506052036001",
+        "url": "95\/9506\/950605\/9506052036\/9506052036001.json",
+        "nama": "TPS 001, UBALIHI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052036",
+        "tps": "9506052036002",
+        "url": "95\/9506\/950605\/9506052036\/9506052036002.json",
+        "nama": "TPS 002, UBALIHI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052047",
+        "tps": "9506052047001",
+        "url": "95\/9506\/950605\/9506052047\/9506052047001.json",
+        "nama": "TPS 001, ULUM, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052019",
+        "tps": "9506052019001",
+        "url": "95\/9506\/950605\/9506052019\/9506052019001.json",
+        "nama": "TPS 001, WALINGKAPMA, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052019",
+        "tps": "9506052019002",
+        "url": "95\/9506\/950605\/9506052019\/9506052019002.json",
+        "nama": "TPS 002, WALINGKAPMA, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052059",
+        "tps": "9506052059001",
+        "url": "95\/9506\/950605\/9506052059\/9506052059001.json",
+        "nama": "TPS 001, WASUPAHIK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052001",
+        "tps": "9506052001001",
+        "url": "95\/9506\/950605\/9506052001\/9506052001001.json",
+        "nama": "TPS 001, WELAREK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052001",
+        "tps": "9506052001002",
+        "url": "95\/9506\/950605\/9506052001\/9506052001002.json",
+        "nama": "TPS 002, WELAREK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052001",
+        "tps": "9506052001003",
+        "url": "95\/9506\/950605\/9506052001\/9506052001003.json",
+        "nama": "TPS 003, WELAREK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052006",
+        "tps": "9506052006001",
+        "url": "95\/9506\/950605\/9506052006\/9506052006001.json",
+        "nama": "TPS 001, WELAREKPUNU, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052006",
+        "tps": "9506052006002",
+        "url": "95\/9506\/950605\/9506052006\/9506052006002.json",
+        "nama": "TPS 002, WELAREKPUNU, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052006",
+        "tps": "9506052006003",
+        "url": "95\/9506\/950605\/9506052006\/9506052006003.json",
+        "nama": "TPS 003, WELAREKPUNU, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052002",
+        "tps": "9506052002001",
+        "url": "95\/9506\/950605\/9506052002\/9506052002001.json",
+        "nama": "TPS 001, WERENGGIK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052002",
+        "tps": "9506052002002",
+        "url": "95\/9506\/950605\/9506052002\/9506052002002.json",
+        "nama": "TPS 002, WERENGGIK, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052023",
+        "tps": "9506052023001",
+        "url": "95\/9506\/950605\/9506052023\/9506052023001.json",
+        "nama": "TPS 001, WOMPOLI, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    },
+    {
+        "provinsi": "95",
+        "kabupaten": "9506",
+        "kecamatan": "950605",
+        "desa": "9506052052",
+        "tps": "9506052052001",
+        "url": "95\/9506\/950605\/9506052052\/9506052052001.json",
+        "nama": "TPS 001, YAHAMER, WELAREK, YALIMO, PAPUA PEGUNUNGAN"
+    }
+]

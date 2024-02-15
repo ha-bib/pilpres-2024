@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9982",
+        "kecamatan": "998201",
+        "desa": "9982010001",
+        "tps": "9982010001003",
+        "url": "99\/9982\/998201\/9982010001\/9982010001003.json",
+        "nama": "KSK 001, Noumea, Perancis, Noumea, Perancis, Noumea, Perancis, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9982",
+        "kecamatan": "998201",
+        "desa": "9982010001",
+        "tps": "9982010001001",
+        "url": "99\/9982\/998201\/9982010001\/9982010001001.json",
+        "nama": "POS 001, Noumea, Perancis, Noumea, Perancis, Noumea, Perancis, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9982",
+        "kecamatan": "998201",
+        "desa": "9982010001",
+        "tps": "9982010001002",
+        "url": "99\/9982\/998201\/9982010001\/9982010001002.json",
+        "nama": "TPS 001, Noumea, Perancis, Noumea, Perancis, Noumea, Perancis, Luar Negeri"
+    }
+]

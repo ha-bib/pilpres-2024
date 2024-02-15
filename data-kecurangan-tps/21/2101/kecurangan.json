@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "21",
+        "kabupaten": "2101",
+        "kecamatan": "210106",
+        "desa": "2101061008",
+        "tps": "2101061008027",
+        "nama": "TPS 027, KIJANG KOTA, BINTAN TIMUR, BINTAN, KEPULAUAN RIAU",
+        "selisih": 9,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2101\/210106\/2101061008\/2101061008027"
+    },
+    {
+        "provinsi": "21",
+        "kabupaten": "2101",
+        "kecamatan": "210106",
+        "desa": "2101061009",
+        "tps": "2101061009023",
+        "nama": "TPS 023, SUNGAI LEKOP, BINTAN TIMUR, BINTAN, KEPULAUAN RIAU",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2101\/210106\/2101061009\/2101061009023"
+    },
+    {
+        "provinsi": "21",
+        "kabupaten": "2101",
+        "kecamatan": "210107",
+        "desa": "2101071011",
+        "tps": "2101071011005",
+        "nama": "TPS 005, TANJUNG UBAN TIMUR, BINTAN UTARA, BINTAN, KEPULAUAN RIAU",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2101\/210107\/2101071011\/2101071011005"
+    },
+    {
+        "provinsi": "21",
+        "kabupaten": "2101",
+        "kecamatan": "210104",
+        "desa": "2101042002",
+        "tps": "2101042002006",
+        "nama": "TPS 006, MALANG RAPAT, GUNUNG KIJANG, BINTAN, KEPULAUAN RIAU",
+        "selisih": 101,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2101\/210104\/2101042002\/2101042002006"
+    },
+    {
+        "provinsi": "21",
+        "kabupaten": "2101",
+        "kecamatan": "210110",
+        "desa": "2101102005",
+        "tps": "2101102005011",
+        "nama": "TPS 011, SEBONG PEREH, TELOK SEBONG, BINTAN, KEPULAUAN RIAU",
+        "selisih": -24,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2101\/210110\/2101102005\/2101102005011"
+    },
+    {
+        "provinsi": "21",
+        "kabupaten": "2101",
+        "kecamatan": "210108",
+        "desa": "2101081006",
+        "tps": "2101081006006",
+        "nama": "TPS 006, TEMBELING TANJUNG, TELUK BINTAN, BINTAN, KEPULAUAN RIAU",
+        "selisih": 30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/21\/2101\/210108\/2101081006\/2101081006006"
+    }
+]

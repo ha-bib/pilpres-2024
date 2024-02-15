@@ -1,0 +1,4961 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042011",
+        "tps": "1115042011001",
+        "url": "11\/1115\/111504\/1115042011\/1115042011001.json",
+        "nama": "TPS 001, BABAH KRUENG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042011",
+        "tps": "1115042011002",
+        "url": "11\/1115\/111504\/1115042011\/1115042011002.json",
+        "nama": "TPS 002, BABAH KRUENG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042011",
+        "tps": "1115042011003",
+        "url": "11\/1115\/111504\/1115042011\/1115042011003.json",
+        "nama": "TPS 003, BABAH KRUENG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042008",
+        "tps": "1115042008001",
+        "url": "11\/1115\/111504\/1115042008\/1115042008001.json",
+        "nama": "TPS 001, BLANG BARO PULO RAGA, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042018",
+        "tps": "1115042018001",
+        "url": "11\/1115\/111504\/1115042018\/1115042018001.json",
+        "nama": "TPS 001, BLANG BARO RAMBONG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042018",
+        "tps": "1115042018002",
+        "url": "11\/1115\/111504\/1115042018\/1115042018002.json",
+        "nama": "TPS 002, BLANG BARO RAMBONG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042018",
+        "tps": "1115042018003",
+        "url": "11\/1115\/111504\/1115042018\/1115042018003.json",
+        "nama": "TPS 003, BLANG BARO RAMBONG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042018",
+        "tps": "1115042018004",
+        "url": "11\/1115\/111504\/1115042018\/1115042018004.json",
+        "nama": "TPS 004, BLANG BARO RAMBONG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042018",
+        "tps": "1115042018005",
+        "url": "11\/1115\/111504\/1115042018\/1115042018005.json",
+        "nama": "TPS 005, BLANG BARO RAMBONG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042016",
+        "tps": "1115042016001",
+        "url": "11\/1115\/111504\/1115042016\/1115042016001.json",
+        "nama": "TPS 001, BLANG DALAM, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042016",
+        "tps": "1115042016002",
+        "url": "11\/1115\/111504\/1115042016\/1115042016002.json",
+        "nama": "TPS 002, BLANG DALAM, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042010",
+        "tps": "1115042010001",
+        "url": "11\/1115\/111504\/1115042010\/1115042010001.json",
+        "nama": "TPS 001, BLANG LEUMAK, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042005",
+        "tps": "1115042005001",
+        "url": "11\/1115\/111504\/1115042005\/1115042005001.json",
+        "nama": "TPS 001, BLANG MESJID, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042005",
+        "tps": "1115042005002",
+        "url": "11\/1115\/111504\/1115042005\/1115042005002.json",
+        "nama": "TPS 002, BLANG MESJID, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042006",
+        "tps": "1115042006001",
+        "url": "11\/1115\/111504\/1115042006\/1115042006001.json",
+        "nama": "TPS 001, BLANG NEUANG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042012",
+        "tps": "1115042012001",
+        "url": "11\/1115\/111504\/1115042012\/1115042012001.json",
+        "nama": "TPS 001, BLANG SEUMOT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042012",
+        "tps": "1115042012002",
+        "url": "11\/1115\/111504\/1115042012\/1115042012002.json",
+        "nama": "TPS 002, BLANG SEUMOT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042012",
+        "tps": "1115042012003",
+        "url": "11\/1115\/111504\/1115042012\/1115042012003.json",
+        "nama": "TPS 003, BLANG SEUMOT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042001",
+        "tps": "1115042001001",
+        "url": "11\/1115\/111504\/1115042001\/1115042001001.json",
+        "nama": "TPS 001, BLANG SEUNONG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042028",
+        "tps": "1115042028001",
+        "url": "11\/1115\/111504\/1115042028\/1115042028001.json",
+        "nama": "TPS 001, BUMI SARI, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042028",
+        "tps": "1115042028002",
+        "url": "11\/1115\/111504\/1115042028\/1115042028002.json",
+        "nama": "TPS 002, BUMI SARI, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042003",
+        "tps": "1115042003001",
+        "url": "11\/1115\/111504\/1115042003\/1115042003001.json",
+        "nama": "TPS 001, GUNONG NAGAN, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042017",
+        "tps": "1115042017001",
+        "url": "11\/1115\/111504\/1115042017\/1115042017001.json",
+        "nama": "TPS 001, KEUDE SEUMOT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042017",
+        "tps": "1115042017002",
+        "url": "11\/1115\/111504\/1115042017\/1115042017002.json",
+        "nama": "TPS 002, KEUDE SEUMOT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042017",
+        "tps": "1115042017003",
+        "url": "11\/1115\/111504\/1115042017\/1115042017003.json",
+        "nama": "TPS 003, KEUDE SEUMOT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042009",
+        "tps": "1115042009001",
+        "url": "11\/1115\/111504\/1115042009\/1115042009001.json",
+        "nama": "TPS 001, KRUENG CUT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042023",
+        "tps": "1115042023001",
+        "url": "11\/1115\/111504\/1115042023\/1115042023001.json",
+        "nama": "TPS 001, KULAM JEUREUNEH, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042023",
+        "tps": "1115042023002",
+        "url": "11\/1115\/111504\/1115042023\/1115042023002.json",
+        "nama": "TPS 002, KULAM JEUREUNEH, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042023",
+        "tps": "1115042023003",
+        "url": "11\/1115\/111504\/1115042023\/1115042023003.json",
+        "nama": "TPS 003, KULAM JEUREUNEH, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042015",
+        "tps": "1115042015001",
+        "url": "11\/1115\/111504\/1115042015\/1115042015001.json",
+        "nama": "TPS 001, KUTA JEUMPA, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042013",
+        "tps": "1115042013001",
+        "url": "11\/1115\/111504\/1115042013\/1115042013001.json",
+        "nama": "TPS 001, LHOK SEUMOT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042013",
+        "tps": "1115042013002",
+        "url": "11\/1115\/111504\/1115042013\/1115042013002.json",
+        "nama": "TPS 002, LHOK SEUMOT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042013",
+        "tps": "1115042013003",
+        "url": "11\/1115\/111504\/1115042013\/1115042013003.json",
+        "nama": "TPS 003, LHOK SEUMOT, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042021",
+        "tps": "1115042021001",
+        "url": "11\/1115\/111504\/1115042021\/1115042021001.json",
+        "nama": "TPS 001, MEUNASAH DAYAH, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042021",
+        "tps": "1115042021002",
+        "url": "11\/1115\/111504\/1115042021\/1115042021002.json",
+        "nama": "TPS 002, MEUNASAH DAYAH, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042020",
+        "tps": "1115042020001",
+        "url": "11\/1115\/111504\/1115042020\/1115042020001.json",
+        "nama": "TPS 001, MEUNASAH KRUENG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042020",
+        "tps": "1115042020002",
+        "url": "11\/1115\/111504\/1115042020\/1115042020002.json",
+        "nama": "TPS 002, MEUNASAH KRUENG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042014",
+        "tps": "1115042014001",
+        "url": "11\/1115\/111504\/1115042014\/1115042014001.json",
+        "nama": "TPS 001, MEUNASAH PANTE, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042014",
+        "tps": "1115042014002",
+        "url": "11\/1115\/111504\/1115042014\/1115042014002.json",
+        "nama": "TPS 002, MEUNASAH PANTE, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042022",
+        "tps": "1115042022001",
+        "url": "11\/1115\/111504\/1115042022\/1115042022001.json",
+        "nama": "TPS 001, MEUNASAH TEUNGOH, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042022",
+        "tps": "1115042022002",
+        "url": "11\/1115\/111504\/1115042022\/1115042022002.json",
+        "nama": "TPS 002, MEUNASAH TEUNGOH, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042022",
+        "tps": "1115042022003",
+        "url": "11\/1115\/111504\/1115042022\/1115042022003.json",
+        "nama": "TPS 003, MEUNASAH TEUNGOH, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042002",
+        "tps": "1115042002001",
+        "url": "11\/1115\/111504\/1115042002\/1115042002001.json",
+        "nama": "TPS 001, PANTE ARA, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042002",
+        "tps": "1115042002002",
+        "url": "11\/1115\/111504\/1115042002\/1115042002002.json",
+        "nama": "TPS 002, PANTE ARA, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042007",
+        "tps": "1115042007001",
+        "url": "11\/1115\/111504\/1115042007\/1115042007001.json",
+        "nama": "TPS 001, PANTON BAYAM, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042007",
+        "tps": "1115042007002",
+        "url": "11\/1115\/111504\/1115042007\/1115042007002.json",
+        "nama": "TPS 002, PANTON BAYAM, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042004",
+        "tps": "1115042004001",
+        "url": "11\/1115\/111504\/1115042004\/1115042004001.json",
+        "nama": "TPS 001, TUWI BUNTA, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111504",
+        "desa": "1115042019",
+        "tps": "1115042019001",
+        "url": "11\/1115\/111504\/1115042019\/1115042019001.json",
+        "nama": "TPS 001, UJONG BLANG, BEUTONG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111510",
+        "desa": "1115102002",
+        "tps": "1115102002001",
+        "url": "11\/1115\/111510\/1115102002\/1115102002001.json",
+        "nama": "TPS 001, BABAH SUAK, BEUTONG ATEUH BANGGALANG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111510",
+        "desa": "1115102002",
+        "tps": "1115102002002",
+        "url": "11\/1115\/111510\/1115102002\/1115102002002.json",
+        "nama": "TPS 002, BABAH SUAK, BEUTONG ATEUH BANGGALANG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111510",
+        "desa": "1115102004",
+        "tps": "1115102004001",
+        "url": "11\/1115\/111510\/1115102004\/1115102004001.json",
+        "nama": "TPS 001, BLANG MEURANDEH, BEUTONG ATEUH BANGGALANG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111510",
+        "desa": "1115102004",
+        "tps": "1115102004002",
+        "url": "11\/1115\/111510\/1115102004\/1115102004002.json",
+        "nama": "TPS 002, BLANG MEURANDEH, BEUTONG ATEUH BANGGALANG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111510",
+        "desa": "1115102001",
+        "tps": "1115102001001",
+        "url": "11\/1115\/111510\/1115102001\/1115102001001.json",
+        "nama": "TPS 001, BLANG PUUK, BEUTONG ATEUH BANGGALANG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111510",
+        "desa": "1115102001",
+        "tps": "1115102001002",
+        "url": "11\/1115\/111510\/1115102001\/1115102001002.json",
+        "nama": "TPS 002, BLANG PUUK, BEUTONG ATEUH BANGGALANG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111510",
+        "desa": "1115102003",
+        "tps": "1115102003001",
+        "url": "11\/1115\/111510\/1115102003\/1115102003001.json",
+        "nama": "TPS 001, KUTA TEUNGOH, BEUTONG ATEUH BANGGALANG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111510",
+        "desa": "1115102003",
+        "tps": "1115102003002",
+        "url": "11\/1115\/111510\/1115102003\/1115102003002.json",
+        "nama": "TPS 002, KUTA TEUNGOH, BEUTONG ATEUH BANGGALANG, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052047",
+        "tps": "1115052047001",
+        "url": "11\/1115\/111505\/1115052047\/1115052047001.json",
+        "nama": "TPS 001, ALUE BATEUNG BROK, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052047",
+        "tps": "1115052047002",
+        "url": "11\/1115\/111505\/1115052047\/1115052047002.json",
+        "nama": "TPS 002, ALUE BATEUNG BROK, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052047",
+        "tps": "1115052047003",
+        "url": "11\/1115\/111505\/1115052047\/1115052047003.json",
+        "nama": "TPS 003, ALUE BATEUNG BROK, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052017",
+        "tps": "1115052017001",
+        "url": "11\/1115\/111505\/1115052017\/1115052017001.json",
+        "nama": "TPS 001, ALUE BILIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052017",
+        "tps": "1115052017002",
+        "url": "11\/1115\/111505\/1115052017\/1115052017002.json",
+        "nama": "TPS 002, ALUE BILIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052017",
+        "tps": "1115052017003",
+        "url": "11\/1115\/111505\/1115052017\/1115052017003.json",
+        "nama": "TPS 003, ALUE BILIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052025",
+        "tps": "1115052025001",
+        "url": "11\/1115\/111505\/1115052025\/1115052025001.json",
+        "nama": "TPS 001, ALUE GEUTAH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052025",
+        "tps": "1115052025002",
+        "url": "11\/1115\/111505\/1115052025\/1115052025002.json",
+        "nama": "TPS 002, ALUE GEUTAH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052036",
+        "tps": "1115052036001",
+        "url": "11\/1115\/111505\/1115052036\/1115052036001.json",
+        "nama": "TPS 001, ALUE JAMPAK, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052036",
+        "tps": "1115052036002",
+        "url": "11\/1115\/111505\/1115052036\/1115052036002.json",
+        "nama": "TPS 002, ALUE JAMPAK, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052034",
+        "tps": "1115052034001",
+        "url": "11\/1115\/111505\/1115052034\/1115052034001.json",
+        "nama": "TPS 001, ALUE KUYUN, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052034",
+        "tps": "1115052034002",
+        "url": "11\/1115\/111505\/1115052034\/1115052034002.json",
+        "nama": "TPS 002, ALUE KUYUN, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052027",
+        "tps": "1115052027001",
+        "url": "11\/1115\/111505\/1115052027\/1115052027001.json",
+        "nama": "TPS 001, ALUE RAMBOT, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052027",
+        "tps": "1115052027002",
+        "url": "11\/1115\/111505\/1115052027\/1115052027002.json",
+        "nama": "TPS 002, ALUE RAMBOT, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052027",
+        "tps": "1115052027003",
+        "url": "11\/1115\/111505\/1115052027\/1115052027003.json",
+        "nama": "TPS 003, ALUE RAMBOT, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052027",
+        "tps": "1115052027004",
+        "url": "11\/1115\/111505\/1115052027\/1115052027004.json",
+        "nama": "TPS 004, ALUE RAMBOT, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052035",
+        "tps": "1115052035001",
+        "url": "11\/1115\/111505\/1115052035\/1115052035001.json",
+        "nama": "TPS 001, ALUE RAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052035",
+        "tps": "1115052035002",
+        "url": "11\/1115\/111505\/1115052035\/1115052035002.json",
+        "nama": "TPS 002, ALUE RAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052035",
+        "tps": "1115052035003",
+        "url": "11\/1115\/111505\/1115052035\/1115052035003.json",
+        "nama": "TPS 003, ALUE RAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052035",
+        "tps": "1115052035004",
+        "url": "11\/1115\/111505\/1115052035\/1115052035004.json",
+        "nama": "TPS 004, ALUE RAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052035",
+        "tps": "1115052035005",
+        "url": "11\/1115\/111505\/1115052035\/1115052035005.json",
+        "nama": "TPS 005, ALUE RAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052035",
+        "tps": "1115052035006",
+        "url": "11\/1115\/111505\/1115052035\/1115052035006.json",
+        "nama": "TPS 006, ALUE RAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052024",
+        "tps": "1115052024001",
+        "url": "11\/1115\/111505\/1115052024\/1115052024001.json",
+        "nama": "TPS 001, ALUE WAKI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052024",
+        "tps": "1115052024002",
+        "url": "11\/1115\/111505\/1115052024\/1115052024002.json",
+        "nama": "TPS 002, ALUE WAKI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052024",
+        "tps": "1115052024003",
+        "url": "11\/1115\/111505\/1115052024\/1115052024003.json",
+        "nama": "TPS 003, ALUE WAKI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052024",
+        "tps": "1115052024004",
+        "url": "11\/1115\/111505\/1115052024\/1115052024004.json",
+        "nama": "TPS 004, ALUE WAKI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052024",
+        "tps": "1115052024005",
+        "url": "11\/1115\/111505\/1115052024\/1115052024005.json",
+        "nama": "TPS 005, ALUE WAKI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052024",
+        "tps": "1115052024006",
+        "url": "11\/1115\/111505\/1115052024\/1115052024006.json",
+        "nama": "TPS 006, ALUE WAKI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052024",
+        "tps": "1115052024007",
+        "url": "11\/1115\/111505\/1115052024\/1115052024007.json",
+        "nama": "TPS 007, ALUE WAKI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052016",
+        "tps": "1115052016001",
+        "url": "11\/1115\/111505\/1115052016\/1115052016001.json",
+        "nama": "TPS 001, BLANG BARO, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052016",
+        "tps": "1115052016002",
+        "url": "11\/1115\/111505\/1115052016\/1115052016002.json",
+        "nama": "TPS 002, BLANG BARO, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052016",
+        "tps": "1115052016003",
+        "url": "11\/1115\/111505\/1115052016\/1115052016003.json",
+        "nama": "TPS 003, BLANG BARO, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052049",
+        "tps": "1115052049001",
+        "url": "11\/1115\/111505\/1115052049\/1115052049001.json",
+        "nama": "TPS 001, BLANG LUAH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052049",
+        "tps": "1115052049002",
+        "url": "11\/1115\/111505\/1115052049\/1115052049002.json",
+        "nama": "TPS 002, BLANG LUAH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052049",
+        "tps": "1115052049003",
+        "url": "11\/1115\/111505\/1115052049\/1115052049003.json",
+        "nama": "TPS 003, BLANG LUAH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052049",
+        "tps": "1115052049004",
+        "url": "11\/1115\/111505\/1115052049\/1115052049004.json",
+        "nama": "TPS 004, BLANG LUAH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052049",
+        "tps": "1115052049005",
+        "url": "11\/1115\/111505\/1115052049\/1115052049005.json",
+        "nama": "TPS 005, BLANG LUAH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052014",
+        "tps": "1115052014001",
+        "url": "11\/1115\/111505\/1115052014\/1115052014001.json",
+        "nama": "TPS 001, GEULANGGANG GAJAH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052014",
+        "tps": "1115052014002",
+        "url": "11\/1115\/111505\/1115052014\/1115052014002.json",
+        "nama": "TPS 002, GEULANGGANG GAJAH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052019",
+        "tps": "1115052019001",
+        "url": "11\/1115\/111505\/1115052019\/1115052019001.json",
+        "nama": "TPS 001, GUNONG CUT, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052019",
+        "tps": "1115052019002",
+        "url": "11\/1115\/111505\/1115052019\/1115052019002.json",
+        "nama": "TPS 002, GUNONG CUT, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052019",
+        "tps": "1115052019003",
+        "url": "11\/1115\/111505\/1115052019\/1115052019003.json",
+        "nama": "TPS 003, GUNONG CUT, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052019",
+        "tps": "1115052019004",
+        "url": "11\/1115\/111505\/1115052019\/1115052019004.json",
+        "nama": "TPS 004, GUNONG CUT, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030001",
+        "url": "11\/1115\/111505\/1115052030\/1115052030001.json",
+        "nama": "TPS 001, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030002",
+        "url": "11\/1115\/111505\/1115052030\/1115052030002.json",
+        "nama": "TPS 002, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030003",
+        "url": "11\/1115\/111505\/1115052030\/1115052030003.json",
+        "nama": "TPS 003, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030004",
+        "url": "11\/1115\/111505\/1115052030\/1115052030004.json",
+        "nama": "TPS 004, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030005",
+        "url": "11\/1115\/111505\/1115052030\/1115052030005.json",
+        "nama": "TPS 005, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030006",
+        "url": "11\/1115\/111505\/1115052030\/1115052030006.json",
+        "nama": "TPS 006, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030007",
+        "url": "11\/1115\/111505\/1115052030\/1115052030007.json",
+        "nama": "TPS 007, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030008",
+        "url": "11\/1115\/111505\/1115052030\/1115052030008.json",
+        "nama": "TPS 008, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052030",
+        "tps": "1115052030009",
+        "url": "11\/1115\/111505\/1115052030\/1115052030009.json",
+        "nama": "TPS 009, KARANG ANYAR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052015",
+        "tps": "1115052015001",
+        "url": "11\/1115\/111505\/1115052015\/1115052015001.json",
+        "nama": "TPS 001, KAYEE UNOE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052026",
+        "tps": "1115052026001",
+        "url": "11\/1115\/111505\/1115052026\/1115052026001.json",
+        "nama": "TPS 001, KRUENG ALEM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052026",
+        "tps": "1115052026002",
+        "url": "11\/1115\/111505\/1115052026\/1115052026002.json",
+        "nama": "TPS 002, KRUENG ALEM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052026",
+        "tps": "1115052026003",
+        "url": "11\/1115\/111505\/1115052026\/1115052026003.json",
+        "nama": "TPS 003, KRUENG ALEM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052026",
+        "tps": "1115052026004",
+        "url": "11\/1115\/111505\/1115052026\/1115052026004.json",
+        "nama": "TPS 004, KRUENG ALEM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052026",
+        "tps": "1115052026005",
+        "url": "11\/1115\/111505\/1115052026\/1115052026005.json",
+        "nama": "TPS 005, KRUENG ALEM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052026",
+        "tps": "1115052026006",
+        "url": "11\/1115\/111505\/1115052026\/1115052026006.json",
+        "nama": "TPS 006, KRUENG ALEM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052026",
+        "tps": "1115052026007",
+        "url": "11\/1115\/111505\/1115052026\/1115052026007.json",
+        "nama": "TPS 007, KRUENG ALEM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052028",
+        "tps": "1115052028001",
+        "url": "11\/1115\/111505\/1115052028\/1115052028001.json",
+        "nama": "TPS 001, KRUENG SEUMAYAM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052028",
+        "tps": "1115052028002",
+        "url": "11\/1115\/111505\/1115052028\/1115052028002.json",
+        "nama": "TPS 002, KRUENG SEUMAYAM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052028",
+        "tps": "1115052028003",
+        "url": "11\/1115\/111505\/1115052028\/1115052028003.json",
+        "nama": "TPS 003, KRUENG SEUMAYAM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052028",
+        "tps": "1115052028004",
+        "url": "11\/1115\/111505\/1115052028\/1115052028004.json",
+        "nama": "TPS 004, KRUENG SEUMAYAM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052028",
+        "tps": "1115052028005",
+        "url": "11\/1115\/111505\/1115052028\/1115052028005.json",
+        "nama": "TPS 005, KRUENG SEUMAYAM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052031",
+        "tps": "1115052031001",
+        "url": "11\/1115\/111505\/1115052031\/1115052031001.json",
+        "nama": "TPS 001, KUALA SEUMAYAM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052031",
+        "tps": "1115052031002",
+        "url": "11\/1115\/111505\/1115052031\/1115052031002.json",
+        "nama": "TPS 002, KUALA SEUMAYAM, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052013",
+        "tps": "1115052013001",
+        "url": "11\/1115\/111505\/1115052013\/1115052013001.json",
+        "nama": "TPS 001, KUTA TRIENG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052013",
+        "tps": "1115052013002",
+        "url": "11\/1115\/111505\/1115052013\/1115052013002.json",
+        "nama": "TPS 002, KUTA TRIENG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052013",
+        "tps": "1115052013003",
+        "url": "11\/1115\/111505\/1115052013\/1115052013003.json",
+        "nama": "TPS 003, KUTA TRIENG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052013",
+        "tps": "1115052013004",
+        "url": "11\/1115\/111505\/1115052013\/1115052013004.json",
+        "nama": "TPS 004, KUTA TRIENG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052013",
+        "tps": "1115052013005",
+        "url": "11\/1115\/111505\/1115052013\/1115052013005.json",
+        "nama": "TPS 005, KUTA TRIENG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052046",
+        "tps": "1115052046001",
+        "url": "11\/1115\/111505\/1115052046\/1115052046001.json",
+        "nama": "TPS 001, LADANG BARO, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052012",
+        "tps": "1115052012001",
+        "url": "11\/1115\/111505\/1115052012\/1115052012001.json",
+        "nama": "TPS 001, LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052012",
+        "tps": "1115052012002",
+        "url": "11\/1115\/111505\/1115052012\/1115052012002.json",
+        "nama": "TPS 002, LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052012",
+        "tps": "1115052012003",
+        "url": "11\/1115\/111505\/1115052012\/1115052012003.json",
+        "nama": "TPS 003, LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052012",
+        "tps": "1115052012004",
+        "url": "11\/1115\/111505\/1115052012\/1115052012004.json",
+        "nama": "TPS 004, LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052012",
+        "tps": "1115052012005",
+        "url": "11\/1115\/111505\/1115052012\/1115052012005.json",
+        "nama": "TPS 005, LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052012",
+        "tps": "1115052012006",
+        "url": "11\/1115\/111505\/1115052012\/1115052012006.json",
+        "nama": "TPS 006, LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052051",
+        "tps": "1115052051001",
+        "url": "11\/1115\/111505\/1115052051\/1115052051001.json",
+        "nama": "TPS 001, MAKARTI JAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052051",
+        "tps": "1115052051002",
+        "url": "11\/1115\/111505\/1115052051\/1115052051002.json",
+        "nama": "TPS 002, MAKARTI JAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052051",
+        "tps": "1115052051003",
+        "url": "11\/1115\/111505\/1115052051\/1115052051003.json",
+        "nama": "TPS 003, MAKARTI JAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052051",
+        "tps": "1115052051004",
+        "url": "11\/1115\/111505\/1115052051\/1115052051004.json",
+        "nama": "TPS 004, MAKARTI JAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052051",
+        "tps": "1115052051005",
+        "url": "11\/1115\/111505\/1115052051\/1115052051005.json",
+        "nama": "TPS 005, MAKARTI JAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052051",
+        "tps": "1115052051006",
+        "url": "11\/1115\/111505\/1115052051\/1115052051006.json",
+        "nama": "TPS 006, MAKARTI JAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052051",
+        "tps": "1115052051007",
+        "url": "11\/1115\/111505\/1115052051\/1115052051007.json",
+        "nama": "TPS 007, MAKARTI JAYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052043",
+        "tps": "1115052043001",
+        "url": "11\/1115\/111505\/1115052043\/1115052043001.json",
+        "nama": "TPS 001, PANTON BAYU, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052043",
+        "tps": "1115052043002",
+        "url": "11\/1115\/111505\/1115052043\/1115052043002.json",
+        "nama": "TPS 002, PANTON BAYU, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052043",
+        "tps": "1115052043003",
+        "url": "11\/1115\/111505\/1115052043\/1115052043003.json",
+        "nama": "TPS 003, PANTON BAYU, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052043",
+        "tps": "1115052043004",
+        "url": "11\/1115\/111505\/1115052043\/1115052043004.json",
+        "nama": "TPS 004, PANTON BAYU, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052032",
+        "tps": "1115052032001",
+        "url": "11\/1115\/111505\/1115052032\/1115052032001.json",
+        "nama": "TPS 001, PULO IE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052032",
+        "tps": "1115052032002",
+        "url": "11\/1115\/111505\/1115052032\/1115052032002.json",
+        "nama": "TPS 002, PULO IE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052032",
+        "tps": "1115052032003",
+        "url": "11\/1115\/111505\/1115052032\/1115052032003.json",
+        "nama": "TPS 003, PULO IE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052033",
+        "tps": "1115052033001",
+        "url": "11\/1115\/111505\/1115052033\/1115052033001.json",
+        "nama": "TPS 001, PULO KRUET, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052033",
+        "tps": "1115052033002",
+        "url": "11\/1115\/111505\/1115052033\/1115052033002.json",
+        "nama": "TPS 002, PULO KRUET, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052029",
+        "tps": "1115052029001",
+        "url": "11\/1115\/111505\/1115052029\/1115052029001.json",
+        "nama": "TPS 001, PULO TEUNGOH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052029",
+        "tps": "1115052029002",
+        "url": "11\/1115\/111505\/1115052029\/1115052029002.json",
+        "nama": "TPS 002, PULO TEUNGOH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052029",
+        "tps": "1115052029003",
+        "url": "11\/1115\/111505\/1115052029\/1115052029003.json",
+        "nama": "TPS 003, PULO TEUNGOH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052029",
+        "tps": "1115052029004",
+        "url": "11\/1115\/111505\/1115052029\/1115052029004.json",
+        "nama": "TPS 004, PULO TEUNGOH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052029",
+        "tps": "1115052029005",
+        "url": "11\/1115\/111505\/1115052029\/1115052029005.json",
+        "nama": "TPS 005, PULO TEUNGOH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052029",
+        "tps": "1115052029006",
+        "url": "11\/1115\/111505\/1115052029\/1115052029006.json",
+        "nama": "TPS 006, PULO TEUNGOH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052029",
+        "tps": "1115052029007",
+        "url": "11\/1115\/111505\/1115052029\/1115052029007.json",
+        "nama": "TPS 007, PULO TEUNGOH, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052041",
+        "tps": "1115052041001",
+        "url": "11\/1115\/111505\/1115052041\/1115052041001.json",
+        "nama": "TPS 001, SERBA GUNA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052041",
+        "tps": "1115052041002",
+        "url": "11\/1115\/111505\/1115052041\/1115052041002.json",
+        "nama": "TPS 002, SERBA GUNA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052041",
+        "tps": "1115052041003",
+        "url": "11\/1115\/111505\/1115052041\/1115052041003.json",
+        "nama": "TPS 003, SERBA GUNA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052041",
+        "tps": "1115052041004",
+        "url": "11\/1115\/111505\/1115052041\/1115052041004.json",
+        "nama": "TPS 004, SERBA GUNA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052041",
+        "tps": "1115052041005",
+        "url": "11\/1115\/111505\/1115052041\/1115052041005.json",
+        "nama": "TPS 005, SERBA GUNA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052041",
+        "tps": "1115052041006",
+        "url": "11\/1115\/111505\/1115052041\/1115052041006.json",
+        "nama": "TPS 006, SERBA GUNA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052041",
+        "tps": "1115052041007",
+        "url": "11\/1115\/111505\/1115052041\/1115052041007.json",
+        "nama": "TPS 007, SERBA GUNA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052040",
+        "tps": "1115052040001",
+        "url": "11\/1115\/111505\/1115052040\/1115052040001.json",
+        "nama": "TPS 001, SERBA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052040",
+        "tps": "1115052040002",
+        "url": "11\/1115\/111505\/1115052040\/1115052040002.json",
+        "nama": "TPS 002, SERBA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052040",
+        "tps": "1115052040003",
+        "url": "11\/1115\/111505\/1115052040\/1115052040003.json",
+        "nama": "TPS 003, SERBA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052040",
+        "tps": "1115052040004",
+        "url": "11\/1115\/111505\/1115052040\/1115052040004.json",
+        "nama": "TPS 004, SERBA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052040",
+        "tps": "1115052040005",
+        "url": "11\/1115\/111505\/1115052040\/1115052040005.json",
+        "nama": "TPS 005, SERBA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052040",
+        "tps": "1115052040006",
+        "url": "11\/1115\/111505\/1115052040\/1115052040006.json",
+        "nama": "TPS 006, SERBA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052040",
+        "tps": "1115052040007",
+        "url": "11\/1115\/111505\/1115052040\/1115052040007.json",
+        "nama": "TPS 007, SERBA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052040",
+        "tps": "1115052040008",
+        "url": "11\/1115\/111505\/1115052040\/1115052040008.json",
+        "nama": "TPS 008, SERBA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052039",
+        "tps": "1115052039001",
+        "url": "11\/1115\/111505\/1115052039\/1115052039001.json",
+        "nama": "TPS 001, SIDOJADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052039",
+        "tps": "1115052039002",
+        "url": "11\/1115\/111505\/1115052039\/1115052039002.json",
+        "nama": "TPS 002, SIDOJADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052048",
+        "tps": "1115052048001",
+        "url": "11\/1115\/111505\/1115052048\/1115052048001.json",
+        "nama": "TPS 001, SIMPANG DELI KAMPONG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052048",
+        "tps": "1115052048002",
+        "url": "11\/1115\/111505\/1115052048\/1115052048002.json",
+        "nama": "TPS 002, SIMPANG DELI KAMPONG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052042",
+        "tps": "1115052042001",
+        "url": "11\/1115\/111505\/1115052042\/1115052042001.json",
+        "nama": "TPS 001, SIMPANG DELI KILANG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052042",
+        "tps": "1115052042002",
+        "url": "11\/1115\/111505\/1115052042\/1115052042002.json",
+        "nama": "TPS 002, SIMPANG DELI KILANG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052042",
+        "tps": "1115052042003",
+        "url": "11\/1115\/111505\/1115052042\/1115052042003.json",
+        "nama": "TPS 003, SIMPANG DELI KILANG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052042",
+        "tps": "1115052042004",
+        "url": "11\/1115\/111505\/1115052042\/1115052042004.json",
+        "nama": "TPS 004, SIMPANG DELI KILANG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052042",
+        "tps": "1115052042005",
+        "url": "11\/1115\/111505\/1115052042\/1115052042005.json",
+        "nama": "TPS 005, SIMPANG DELI KILANG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052042",
+        "tps": "1115052042006",
+        "url": "11\/1115\/111505\/1115052042\/1115052042006.json",
+        "nama": "TPS 006, SIMPANG DELI KILANG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052038",
+        "tps": "1115052038001",
+        "url": "11\/1115\/111505\/1115052038\/1115052038001.json",
+        "nama": "TPS 001, SIMPANG DUA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052038",
+        "tps": "1115052038002",
+        "url": "11\/1115\/111505\/1115052038\/1115052038002.json",
+        "nama": "TPS 002, SIMPANG DUA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052023",
+        "tps": "1115052023001",
+        "url": "11\/1115\/111505\/1115052023\/1115052023001.json",
+        "nama": "TPS 001, SUAK PALEMBANG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052023",
+        "tps": "1115052023002",
+        "url": "11\/1115\/111505\/1115052023\/1115052023002.json",
+        "nama": "TPS 002, SUAK PALEMBANG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052023",
+        "tps": "1115052023003",
+        "url": "11\/1115\/111505\/1115052023\/1115052023003.json",
+        "nama": "TPS 003, SUAK PALEMBANG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052020",
+        "tps": "1115052020001",
+        "url": "11\/1115\/111505\/1115052020\/1115052020001.json",
+        "nama": "TPS 001, SUKA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052020",
+        "tps": "1115052020002",
+        "url": "11\/1115\/111505\/1115052020\/1115052020002.json",
+        "nama": "TPS 002, SUKA JADI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052037",
+        "tps": "1115052037001",
+        "url": "11\/1115\/111505\/1115052037\/1115052037001.json",
+        "nama": "TPS 001, SUKA MULIA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052037",
+        "tps": "1115052037002",
+        "url": "11\/1115\/111505\/1115052037\/1115052037002.json",
+        "nama": "TPS 002, SUKA MULIA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052037",
+        "tps": "1115052037003",
+        "url": "11\/1115\/111505\/1115052037\/1115052037003.json",
+        "nama": "TPS 003, SUKA MULIA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052018",
+        "tps": "1115052018001",
+        "url": "11\/1115\/111505\/1115052018\/1115052018001.json",
+        "nama": "TPS 001, SUKA RAJA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052018",
+        "tps": "1115052018002",
+        "url": "11\/1115\/111505\/1115052018\/1115052018002.json",
+        "nama": "TPS 002, SUKA RAJA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052018",
+        "tps": "1115052018003",
+        "url": "11\/1115\/111505\/1115052018\/1115052018003.json",
+        "nama": "TPS 003, SUKA RAJA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052018",
+        "tps": "1115052018004",
+        "url": "11\/1115\/111505\/1115052018\/1115052018004.json",
+        "nama": "TPS 004, SUKA RAJA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052045",
+        "tps": "1115052045001",
+        "url": "11\/1115\/111505\/1115052045\/1115052045001.json",
+        "nama": "TPS 001, SUKA RAMAI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052045",
+        "tps": "1115052045002",
+        "url": "11\/1115\/111505\/1115052045\/1115052045002.json",
+        "nama": "TPS 002, SUKA RAMAI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052045",
+        "tps": "1115052045003",
+        "url": "11\/1115\/111505\/1115052045\/1115052045003.json",
+        "nama": "TPS 003, SUKA RAMAI, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052050",
+        "tps": "1115052050001",
+        "url": "11\/1115\/111505\/1115052050\/1115052050001.json",
+        "nama": "TPS 001, SUMBER MAKMUR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052050",
+        "tps": "1115052050002",
+        "url": "11\/1115\/111505\/1115052050\/1115052050002.json",
+        "nama": "TPS 002, SUMBER MAKMUR, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052021",
+        "tps": "1115052021001",
+        "url": "11\/1115\/111505\/1115052021\/1115052021001.json",
+        "nama": "TPS 001, TUWI BUYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052021",
+        "tps": "1115052021002",
+        "url": "11\/1115\/111505\/1115052021\/1115052021002.json",
+        "nama": "TPS 002, TUWI BUYA, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052022",
+        "tps": "1115052022001",
+        "url": "11\/1115\/111505\/1115052022\/1115052022001.json",
+        "nama": "TPS 001, UJONG LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052022",
+        "tps": "1115052022002",
+        "url": "11\/1115\/111505\/1115052022\/1115052022002.json",
+        "nama": "TPS 002, UJONG LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052022",
+        "tps": "1115052022003",
+        "url": "11\/1115\/111505\/1115052022\/1115052022003.json",
+        "nama": "TPS 003, UJONG LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052022",
+        "tps": "1115052022004",
+        "url": "11\/1115\/111505\/1115052022\/1115052022004.json",
+        "nama": "TPS 004, UJONG LAMIE, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052044",
+        "tps": "1115052044001",
+        "url": "11\/1115\/111505\/1115052044\/1115052044001.json",
+        "nama": "TPS 001, UJONG TANJONG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052044",
+        "tps": "1115052044002",
+        "url": "11\/1115\/111505\/1115052044\/1115052044002.json",
+        "nama": "TPS 002, UJONG TANJONG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111505",
+        "desa": "1115052044",
+        "tps": "1115052044003",
+        "url": "11\/1115\/111505\/1115052044\/1115052044003.json",
+        "nama": "TPS 003, UJONG TANJONG, DARUL MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012024",
+        "tps": "1115012024001",
+        "url": "11\/1115\/111501\/1115012024\/1115012024001.json",
+        "nama": "TPS 001, ALUE IE MAMEH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012024",
+        "tps": "1115012024002",
+        "url": "11\/1115\/111501\/1115012024\/1115012024002.json",
+        "nama": "TPS 002, ALUE IE MAMEH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012024",
+        "tps": "1115012024003",
+        "url": "11\/1115\/111501\/1115012024\/1115012024003.json",
+        "nama": "TPS 003, ALUE IE MAMEH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012023",
+        "tps": "1115012023001",
+        "url": "11\/1115\/111501\/1115012023\/1115012023001.json",
+        "nama": "TPS 001, BLANG BARO, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012023",
+        "tps": "1115012023002",
+        "url": "11\/1115\/111501\/1115012023\/1115012023002.json",
+        "nama": "TPS 002, BLANG BARO, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012030",
+        "tps": "1115012030001",
+        "url": "11\/1115\/111501\/1115012030\/1115012030001.json",
+        "nama": "TPS 001, BLANG BINTANG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012030",
+        "tps": "1115012030002",
+        "url": "11\/1115\/111501\/1115012030\/1115012030002.json",
+        "nama": "TPS 002, BLANG BINTANG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012030",
+        "tps": "1115012030003",
+        "url": "11\/1115\/111501\/1115012030\/1115012030003.json",
+        "nama": "TPS 003, BLANG BINTANG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012020",
+        "tps": "1115012020001",
+        "url": "11\/1115\/111501\/1115012020\/1115012020001.json",
+        "nama": "TPS 001, BLANG MUKO, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012020",
+        "tps": "1115012020002",
+        "url": "11\/1115\/111501\/1115012020\/1115012020002.json",
+        "nama": "TPS 002, BLANG MUKO, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012020",
+        "tps": "1115012020003",
+        "url": "11\/1115\/111501\/1115012020\/1115012020003.json",
+        "nama": "TPS 003, BLANG MUKO, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012027",
+        "tps": "1115012027001",
+        "url": "11\/1115\/111501\/1115012027\/1115012027001.json",
+        "nama": "TPS 001, BLANG TEUNGOH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012027",
+        "tps": "1115012027002",
+        "url": "11\/1115\/111501\/1115012027\/1115012027002.json",
+        "nama": "TPS 002, BLANG TEUNGOH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012027",
+        "tps": "1115012027003",
+        "url": "11\/1115\/111501\/1115012027\/1115012027003.json",
+        "nama": "TPS 003, BLANG TEUNGOH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012029",
+        "tps": "1115012029001",
+        "url": "11\/1115\/111501\/1115012029\/1115012029001.json",
+        "nama": "TPS 001, COT KUMBANG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012029",
+        "tps": "1115012029002",
+        "url": "11\/1115\/111501\/1115012029\/1115012029002.json",
+        "nama": "TPS 002, COT KUMBANG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012033",
+        "tps": "1115012033001",
+        "url": "11\/1115\/111501\/1115012033\/1115012033001.json",
+        "nama": "TPS 001, GUNONG REUBO, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012004",
+        "tps": "1115012004001",
+        "url": "11\/1115\/111501\/1115012004\/1115012004001.json",
+        "nama": "TPS 001, JOGJA, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012004",
+        "tps": "1115012004002",
+        "url": "11\/1115\/111501\/1115012004\/1115012004002.json",
+        "nama": "TPS 002, JOGJA, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012004",
+        "tps": "1115012004003",
+        "url": "11\/1115\/111501\/1115012004\/1115012004003.json",
+        "nama": "TPS 003, JOGJA, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012032",
+        "tps": "1115012032001",
+        "url": "11\/1115\/111501\/1115012032\/1115012032001.json",
+        "nama": "TPS 001, KUTA MAKMUE, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012032",
+        "tps": "1115012032002",
+        "url": "11\/1115\/111501\/1115012032\/1115012032002.json",
+        "nama": "TPS 002, KUTA MAKMUE, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012032",
+        "tps": "1115012032003",
+        "url": "11\/1115\/111501\/1115012032\/1115012032003.json",
+        "nama": "TPS 003, KUTA MAKMUE, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012003",
+        "tps": "1115012003001",
+        "url": "11\/1115\/111501\/1115012003\/1115012003001.json",
+        "nama": "TPS 001, LAWA BATU, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012003",
+        "tps": "1115012003002",
+        "url": "11\/1115\/111501\/1115012003\/1115012003002.json",
+        "nama": "TPS 002, LAWA BATU, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012021",
+        "tps": "1115012021001",
+        "url": "11\/1115\/111501\/1115012021\/1115012021001.json",
+        "nama": "TPS 001, PULO IE, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012021",
+        "tps": "1115012021002",
+        "url": "11\/1115\/111501\/1115012021\/1115012021002.json",
+        "nama": "TPS 002, PULO IE, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012021",
+        "tps": "1115012021003",
+        "url": "11\/1115\/111501\/1115012021\/1115012021003.json",
+        "nama": "TPS 003, PULO IE, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012022",
+        "tps": "1115012022001",
+        "url": "11\/1115\/111501\/1115012022\/1115012022001.json",
+        "nama": "TPS 001, PURWOREJO, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012022",
+        "tps": "1115012022002",
+        "url": "11\/1115\/111501\/1115012022\/1115012022002.json",
+        "nama": "TPS 002, PURWOREJO, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012022",
+        "tps": "1115012022003",
+        "url": "11\/1115\/111501\/1115012022\/1115012022003.json",
+        "nama": "TPS 003, PURWOREJO, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026001",
+        "url": "11\/1115\/111501\/1115012026\/1115012026001.json",
+        "nama": "TPS 001, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026002",
+        "url": "11\/1115\/111501\/1115012026\/1115012026002.json",
+        "nama": "TPS 002, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026003",
+        "url": "11\/1115\/111501\/1115012026\/1115012026003.json",
+        "nama": "TPS 003, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026004",
+        "url": "11\/1115\/111501\/1115012026\/1115012026004.json",
+        "nama": "TPS 004, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026005",
+        "url": "11\/1115\/111501\/1115012026\/1115012026005.json",
+        "nama": "TPS 005, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026006",
+        "url": "11\/1115\/111501\/1115012026\/1115012026006.json",
+        "nama": "TPS 006, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026007",
+        "url": "11\/1115\/111501\/1115012026\/1115012026007.json",
+        "nama": "TPS 007, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026008",
+        "url": "11\/1115\/111501\/1115012026\/1115012026008.json",
+        "nama": "TPS 008, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026009",
+        "url": "11\/1115\/111501\/1115012026\/1115012026009.json",
+        "nama": "TPS 009, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026010",
+        "url": "11\/1115\/111501\/1115012026\/1115012026010.json",
+        "nama": "TPS 010, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012026",
+        "tps": "1115012026011",
+        "url": "11\/1115\/111501\/1115012026\/1115012026011.json",
+        "nama": "TPS 011, SIMPANG PEUT, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012028",
+        "tps": "1115012028001",
+        "url": "11\/1115\/111501\/1115012028\/1115012028001.json",
+        "nama": "TPS 001, UJONG PADANG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012028",
+        "tps": "1115012028002",
+        "url": "11\/1115\/111501\/1115012028\/1115012028002.json",
+        "nama": "TPS 002, UJONG PADANG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012028",
+        "tps": "1115012028003",
+        "url": "11\/1115\/111501\/1115012028\/1115012028003.json",
+        "nama": "TPS 003, UJONG PADANG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012025",
+        "tps": "1115012025001",
+        "url": "11\/1115\/111501\/1115012025\/1115012025001.json",
+        "nama": "TPS 001, UJONG PASI, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012025",
+        "tps": "1115012025002",
+        "url": "11\/1115\/111501\/1115012025\/1115012025002.json",
+        "nama": "TPS 002, UJONG PASI, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012025",
+        "tps": "1115012025003",
+        "url": "11\/1115\/111501\/1115012025\/1115012025003.json",
+        "nama": "TPS 003, UJONG PASI, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031001",
+        "url": "11\/1115\/111501\/1115012031\/1115012031001.json",
+        "nama": "TPS 001, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031002",
+        "url": "11\/1115\/111501\/1115012031\/1115012031002.json",
+        "nama": "TPS 002, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031003",
+        "url": "11\/1115\/111501\/1115012031\/1115012031003.json",
+        "nama": "TPS 003, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031004",
+        "url": "11\/1115\/111501\/1115012031\/1115012031004.json",
+        "nama": "TPS 004, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031005",
+        "url": "11\/1115\/111501\/1115012031\/1115012031005.json",
+        "nama": "TPS 005, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031006",
+        "url": "11\/1115\/111501\/1115012031\/1115012031006.json",
+        "nama": "TPS 006, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031007",
+        "url": "11\/1115\/111501\/1115012031\/1115012031007.json",
+        "nama": "TPS 007, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031008",
+        "url": "11\/1115\/111501\/1115012031\/1115012031008.json",
+        "nama": "TPS 008, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031009",
+        "url": "11\/1115\/111501\/1115012031\/1115012031009.json",
+        "nama": "TPS 009, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031010",
+        "url": "11\/1115\/111501\/1115012031\/1115012031010.json",
+        "nama": "TPS 010, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012031",
+        "tps": "1115012031011",
+        "url": "11\/1115\/111501\/1115012031\/1115012031011.json",
+        "nama": "TPS 011, UJONG PATIHAH, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012019",
+        "tps": "1115012019001",
+        "url": "11\/1115\/111501\/1115012019\/1115012019001.json",
+        "nama": "TPS 001, UJONG SIKUNENG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111501",
+        "desa": "1115012019",
+        "tps": "1115012019002",
+        "url": "11\/1115\/111501\/1115012019\/1115012019002.json",
+        "nama": "TPS 002, UJONG SIKUNENG, KUALA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072012",
+        "tps": "1115072012001",
+        "url": "11\/1115\/111507\/1115072012\/1115072012001.json",
+        "nama": "TPS 001, ARONGAN, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072012",
+        "tps": "1115072012002",
+        "url": "11\/1115\/111507\/1115072012\/1115072012002.json",
+        "nama": "TPS 002, ARONGAN, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072012",
+        "tps": "1115072012003",
+        "url": "11\/1115\/111507\/1115072012\/1115072012003.json",
+        "nama": "TPS 003, ARONGAN, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072010",
+        "tps": "1115072010001",
+        "url": "11\/1115\/111507\/1115072010\/1115072010001.json",
+        "nama": "TPS 001, COT RAMBONG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072010",
+        "tps": "1115072010002",
+        "url": "11\/1115\/111507\/1115072010\/1115072010002.json",
+        "nama": "TPS 002, COT RAMBONG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072002",
+        "tps": "1115072002001",
+        "url": "11\/1115\/111507\/1115072002\/1115072002001.json",
+        "nama": "TPS 001, GAMPONG LHOK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072002",
+        "tps": "1115072002002",
+        "url": "11\/1115\/111507\/1115072002\/1115072002002.json",
+        "nama": "TPS 002, GAMPONG LHOK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072013",
+        "tps": "1115072013001",
+        "url": "11\/1115\/111507\/1115072013\/1115072013001.json",
+        "nama": "TPS 001, JATI REJO, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072013",
+        "tps": "1115072013002",
+        "url": "11\/1115\/111507\/1115072013\/1115072013002.json",
+        "nama": "TPS 002, JATI REJO, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072013",
+        "tps": "1115072013003",
+        "url": "11\/1115\/111507\/1115072013\/1115072013003.json",
+        "nama": "TPS 003, JATI REJO, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072003",
+        "tps": "1115072003001",
+        "url": "11\/1115\/111507\/1115072003\/1115072003001.json",
+        "nama": "TPS 001, KUALA BARO, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072003",
+        "tps": "1115072003002",
+        "url": "11\/1115\/111507\/1115072003\/1115072003002.json",
+        "nama": "TPS 002, KUALA BARO, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072009",
+        "tps": "1115072009001",
+        "url": "11\/1115\/111507\/1115072009\/1115072009001.json",
+        "nama": "TPS 001, KUALA TRANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072009",
+        "tps": "1115072009002",
+        "url": "11\/1115\/111507\/1115072009\/1115072009002.json",
+        "nama": "TPS 002, KUALA TRANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072009",
+        "tps": "1115072009003",
+        "url": "11\/1115\/111507\/1115072009\/1115072009003.json",
+        "nama": "TPS 003, KUALA TRANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072009",
+        "tps": "1115072009004",
+        "url": "11\/1115\/111507\/1115072009\/1115072009004.json",
+        "nama": "TPS 004, KUALA TRANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072009",
+        "tps": "1115072009005",
+        "url": "11\/1115\/111507\/1115072009\/1115072009005.json",
+        "nama": "TPS 005, KUALA TRANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072009",
+        "tps": "1115072009006",
+        "url": "11\/1115\/111507\/1115072009\/1115072009006.json",
+        "nama": "TPS 006, KUALA TRANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072009",
+        "tps": "1115072009007",
+        "url": "11\/1115\/111507\/1115072009\/1115072009007.json",
+        "nama": "TPS 007, KUALA TRANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072007",
+        "tps": "1115072007001",
+        "url": "11\/1115\/111507\/1115072007\/1115072007001.json",
+        "nama": "TPS 001, KUALA TUHA, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072007",
+        "tps": "1115072007002",
+        "url": "11\/1115\/111507\/1115072007\/1115072007002.json",
+        "nama": "TPS 002, KUALA TUHA, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072008",
+        "tps": "1115072008001",
+        "url": "11\/1115\/111507\/1115072008\/1115072008001.json",
+        "nama": "TPS 001, KUBANG GAJAH, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072008",
+        "tps": "1115072008002",
+        "url": "11\/1115\/111507\/1115072008\/1115072008002.json",
+        "nama": "TPS 002, KUBANG GAJAH, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072008",
+        "tps": "1115072008003",
+        "url": "11\/1115\/111507\/1115072008\/1115072008003.json",
+        "nama": "TPS 003, KUBANG GAJAH, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072006",
+        "tps": "1115072006001",
+        "url": "11\/1115\/111507\/1115072006\/1115072006001.json",
+        "nama": "TPS 001, LANGKAK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072006",
+        "tps": "1115072006002",
+        "url": "11\/1115\/111507\/1115072006\/1115072006002.json",
+        "nama": "TPS 002, LANGKAK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072006",
+        "tps": "1115072006003",
+        "url": "11\/1115\/111507\/1115072006\/1115072006003.json",
+        "nama": "TPS 003, LANGKAK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072006",
+        "tps": "1115072006004",
+        "url": "11\/1115\/111507\/1115072006\/1115072006004.json",
+        "nama": "TPS 004, LANGKAK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072015",
+        "tps": "1115072015001",
+        "url": "11\/1115\/111507\/1115072015\/1115072015001.json",
+        "nama": "TPS 001, LUENG TEUKU BEN, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072015",
+        "tps": "1115072015002",
+        "url": "11\/1115\/111507\/1115072015\/1115072015002.json",
+        "nama": "TPS 002, LUENG TEUKU BEN, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072011",
+        "tps": "1115072011001",
+        "url": "11\/1115\/111507\/1115072011\/1115072011001.json",
+        "nama": "TPS 001, PADANG PANYANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072011",
+        "tps": "1115072011002",
+        "url": "11\/1115\/111507\/1115072011\/1115072011002.json",
+        "nama": "TPS 002, PADANG PANYANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072011",
+        "tps": "1115072011003",
+        "url": "11\/1115\/111507\/1115072011\/1115072011003.json",
+        "nama": "TPS 003, PADANG PANYANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072011",
+        "tps": "1115072011004",
+        "url": "11\/1115\/111507\/1115072011\/1115072011004.json",
+        "nama": "TPS 004, PADANG PANYANG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072004",
+        "tps": "1115072004001",
+        "url": "11\/1115\/111507\/1115072004\/1115072004001.json",
+        "nama": "TPS 001, PADANG RUBEK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072004",
+        "tps": "1115072004002",
+        "url": "11\/1115\/111507\/1115072004\/1115072004002.json",
+        "nama": "TPS 002, PADANG RUBEK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072004",
+        "tps": "1115072004003",
+        "url": "11\/1115\/111507\/1115072004\/1115072004003.json",
+        "nama": "TPS 003, PADANG RUBEK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072004",
+        "tps": "1115072004004",
+        "url": "11\/1115\/111507\/1115072004\/1115072004004.json",
+        "nama": "TPS 004, PADANG RUBEK, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072005",
+        "tps": "1115072005001",
+        "url": "11\/1115\/111507\/1115072005\/1115072005001.json",
+        "nama": "TPS 001, PULO, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072014",
+        "tps": "1115072014001",
+        "url": "11\/1115\/111507\/1115072014\/1115072014001.json",
+        "nama": "TPS 001, PURWODADI, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072014",
+        "tps": "1115072014002",
+        "url": "11\/1115\/111507\/1115072014\/1115072014002.json",
+        "nama": "TPS 002, PURWODADI, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072014",
+        "tps": "1115072014003",
+        "url": "11\/1115\/111507\/1115072014\/1115072014003.json",
+        "nama": "TPS 003, PURWODADI, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072014",
+        "tps": "1115072014004",
+        "url": "11\/1115\/111507\/1115072014\/1115072014004.json",
+        "nama": "TPS 004, PURWODADI, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072014",
+        "tps": "1115072014005",
+        "url": "11\/1115\/111507\/1115072014\/1115072014005.json",
+        "nama": "TPS 005, PURWODADI, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072016",
+        "tps": "1115072016001",
+        "url": "11\/1115\/111507\/1115072016\/1115072016001.json",
+        "nama": "TPS 001, PURWOSARI, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072016",
+        "tps": "1115072016002",
+        "url": "11\/1115\/111507\/1115072016\/1115072016002.json",
+        "nama": "TPS 002, PURWOSARI, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072016",
+        "tps": "1115072016003",
+        "url": "11\/1115\/111507\/1115072016\/1115072016003.json",
+        "nama": "TPS 003, PURWOSARI, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072001",
+        "tps": "1115072001001",
+        "url": "11\/1115\/111507\/1115072001\/1115072001001.json",
+        "nama": "TPS 001, SUAK PUNTONG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072001",
+        "tps": "1115072001002",
+        "url": "11\/1115\/111507\/1115072001\/1115072001002.json",
+        "nama": "TPS 002, SUAK PUNTONG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111507",
+        "desa": "1115072001",
+        "tps": "1115072001003",
+        "url": "11\/1115\/111507\/1115072001\/1115072001003.json",
+        "nama": "TPS 003, SUAK PUNTONG, KUALA PESISIR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022024",
+        "tps": "1115022024001",
+        "url": "11\/1115\/111502\/1115022024\/1115022024001.json",
+        "nama": "TPS 001, ALUE BULOH, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022012",
+        "tps": "1115022012001",
+        "url": "11\/1115\/111502\/1115022012\/1115022012001.json",
+        "nama": "TPS 001, ALUE DODOK, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022009",
+        "tps": "1115022009001",
+        "url": "11\/1115\/111502\/1115022009\/1115022009001.json",
+        "nama": "TPS 001, ALUE THO, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022009",
+        "tps": "1115022009002",
+        "url": "11\/1115\/111502\/1115022009\/1115022009002.json",
+        "nama": "TPS 002, ALUE THO, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022009",
+        "tps": "1115022009003",
+        "url": "11\/1115\/111502\/1115022009\/1115022009003.json",
+        "nama": "TPS 003, ALUE THO, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022020",
+        "tps": "1115022020001",
+        "url": "11\/1115\/111502\/1115022020\/1115022020001.json",
+        "nama": "TPS 001, BANTAN, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022007",
+        "tps": "1115022007001",
+        "url": "11\/1115\/111502\/1115022007\/1115022007001.json",
+        "nama": "TPS 001, BLANG BARO, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022007",
+        "tps": "1115022007002",
+        "url": "11\/1115\/111502\/1115022007\/1115022007002.json",
+        "nama": "TPS 002, BLANG BARO, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022033",
+        "tps": "1115022033001",
+        "url": "11\/1115\/111502\/1115022033\/1115022033001.json",
+        "nama": "TPS 001, BLANG MURONG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022033",
+        "tps": "1115022033002",
+        "url": "11\/1115\/111502\/1115022033\/1115022033002.json",
+        "nama": "TPS 002, BLANG MURONG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022017",
+        "tps": "1115022017001",
+        "url": "11\/1115\/111502\/1115022017\/1115022017001.json",
+        "nama": "TPS 001, BLANG PATEUK, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022032",
+        "tps": "1115022032001",
+        "url": "11\/1115\/111502\/1115022032\/1115022032001.json",
+        "nama": "TPS 001, BLANG PUUK KULU, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022032",
+        "tps": "1115022032002",
+        "url": "11\/1115\/111502\/1115022032\/1115022032002.json",
+        "nama": "TPS 002, BLANG PUUK KULU, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022018",
+        "tps": "1115022018001",
+        "url": "11\/1115\/111502\/1115022018\/1115022018001.json",
+        "nama": "TPS 001, BLANG PUUK NIGAN, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022013",
+        "tps": "1115022013001",
+        "url": "11\/1115\/111502\/1115022013\/1115022013001.json",
+        "nama": "TPS 001, COT KUMBANG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022021",
+        "tps": "1115022021001",
+        "url": "11\/1115\/111502\/1115022021\/1115022021001.json",
+        "nama": "TPS 001, COT LHE-LHE, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022016",
+        "tps": "1115022016001",
+        "url": "11\/1115\/111502\/1115022016\/1115022016001.json",
+        "nama": "TPS 001, GAMPONG COT, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022016",
+        "tps": "1115022016002",
+        "url": "11\/1115\/111502\/1115022016\/1115022016002.json",
+        "nama": "TPS 002, GAMPONG COT, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022001",
+        "tps": "1115022001001",
+        "url": "11\/1115\/111502\/1115022001\/1115022001001.json",
+        "nama": "TPS 001, JEURAM, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022001",
+        "tps": "1115022001002",
+        "url": "11\/1115\/111502\/1115022001\/1115022001002.json",
+        "nama": "TPS 002, JEURAM, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022019",
+        "tps": "1115022019001",
+        "url": "11\/1115\/111502\/1115022019\/1115022019001.json",
+        "nama": "TPS 001, KRUENG CEH, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022019",
+        "tps": "1115022019002",
+        "url": "11\/1115\/111502\/1115022019\/1115022019002.json",
+        "nama": "TPS 002, KRUENG CEH, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022026",
+        "tps": "1115022026001",
+        "url": "11\/1115\/111502\/1115022026\/1115022026001.json",
+        "nama": "TPS 001, KRUENG CEUKO, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022026",
+        "tps": "1115022026002",
+        "url": "11\/1115\/111502\/1115022026\/1115022026002.json",
+        "nama": "TPS 002, KRUENG CEUKO, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022029",
+        "tps": "1115022029001",
+        "url": "11\/1115\/111502\/1115022029\/1115022029001.json",
+        "nama": "TPS 001, KRUENG MANGKOM, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022034",
+        "tps": "1115022034001",
+        "url": "11\/1115\/111502\/1115022034\/1115022034001.json",
+        "nama": "TPS 001, KULU, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022034",
+        "tps": "1115022034002",
+        "url": "11\/1115\/111502\/1115022034\/1115022034002.json",
+        "nama": "TPS 002, KULU, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022028",
+        "tps": "1115022028001",
+        "url": "11\/1115\/111502\/1115022028\/1115022028001.json",
+        "nama": "TPS 001, KUTA ACEH, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022003",
+        "tps": "1115022003001",
+        "url": "11\/1115\/111502\/1115022003\/1115022003001.json",
+        "nama": "TPS 001, KUTA BARO JEURAM, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022003",
+        "tps": "1115022003002",
+        "url": "11\/1115\/111502\/1115022003\/1115022003002.json",
+        "nama": "TPS 002, KUTA BARO JEURAM, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022003",
+        "tps": "1115022003003",
+        "url": "11\/1115\/111502\/1115022003\/1115022003003.json",
+        "nama": "TPS 003, KUTA BARO JEURAM, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022014",
+        "tps": "1115022014001",
+        "url": "11\/1115\/111502\/1115022014\/1115022014001.json",
+        "nama": "TPS 001, KUTA KUMBANG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022014",
+        "tps": "1115022014002",
+        "url": "11\/1115\/111502\/1115022014\/1115022014002.json",
+        "nama": "TPS 002, KUTA KUMBANG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022025",
+        "tps": "1115022025001",
+        "url": "11\/1115\/111502\/1115022025\/1115022025001.json",
+        "nama": "TPS 001, KUTA PAYA, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022025",
+        "tps": "1115022025002",
+        "url": "11\/1115\/111502\/1115022025\/1115022025002.json",
+        "nama": "TPS 002, KUTA PAYA, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022006",
+        "tps": "1115022006001",
+        "url": "11\/1115\/111502\/1115022006\/1115022006001.json",
+        "nama": "TPS 001, KUTA SAYEH, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022030",
+        "tps": "1115022030001",
+        "url": "11\/1115\/111502\/1115022030\/1115022030001.json",
+        "nama": "TPS 001, LATONG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022030",
+        "tps": "1115022030002",
+        "url": "11\/1115\/111502\/1115022030\/1115022030002.json",
+        "nama": "TPS 002, LATONG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022030",
+        "tps": "1115022030003",
+        "url": "11\/1115\/111502\/1115022030\/1115022030003.json",
+        "nama": "TPS 003, LATONG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022027",
+        "tps": "1115022027001",
+        "url": "11\/1115\/111502\/1115022027\/1115022027001.json",
+        "nama": "TPS 001, LHOK PADANG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022010",
+        "tps": "1115022010001",
+        "url": "11\/1115\/111502\/1115022010\/1115022010001.json",
+        "nama": "TPS 001, LHOK PAROM, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022015",
+        "tps": "1115022015001",
+        "url": "11\/1115\/111502\/1115022015\/1115022015001.json",
+        "nama": "TPS 001, NIGAN, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022015",
+        "tps": "1115022015002",
+        "url": "11\/1115\/111502\/1115022015\/1115022015002.json",
+        "nama": "TPS 002, NIGAN, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022015",
+        "tps": "1115022015003",
+        "url": "11\/1115\/111502\/1115022015\/1115022015003.json",
+        "nama": "TPS 003, NIGAN, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022008",
+        "tps": "1115022008001",
+        "url": "11\/1115\/111502\/1115022008\/1115022008001.json",
+        "nama": "TPS 001, PADANG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022008",
+        "tps": "1115022008002",
+        "url": "11\/1115\/111502\/1115022008\/1115022008002.json",
+        "nama": "TPS 002, PADANG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022002",
+        "tps": "1115022002001",
+        "url": "11\/1115\/111502\/1115022002\/1115022002001.json",
+        "nama": "TPS 001, PANTE CEUREUMEN, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022002",
+        "tps": "1115022002002",
+        "url": "11\/1115\/111502\/1115022002\/1115022002002.json",
+        "nama": "TPS 002, PANTE CEUREUMEN, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022004",
+        "tps": "1115022004001",
+        "url": "11\/1115\/111502\/1115022004\/1115022004001.json",
+        "nama": "TPS 001, PAROM, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022004",
+        "tps": "1115022004002",
+        "url": "11\/1115\/111502\/1115022004\/1115022004002.json",
+        "nama": "TPS 002, PAROM, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022023",
+        "tps": "1115022023001",
+        "url": "11\/1115\/111502\/1115022023\/1115022023001.json",
+        "nama": "TPS 001, PAYA UDEUNG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022023",
+        "tps": "1115022023002",
+        "url": "11\/1115\/111502\/1115022023\/1115022023002.json",
+        "nama": "TPS 002, PAYA UDEUNG, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022031",
+        "tps": "1115022031001",
+        "url": "11\/1115\/111502\/1115022031\/1115022031001.json",
+        "nama": "TPS 001, PAYA UNDAN, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022031",
+        "tps": "1115022031002",
+        "url": "11\/1115\/111502\/1115022031\/1115022031002.json",
+        "nama": "TPS 002, PAYA UNDAN, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022005",
+        "tps": "1115022005001",
+        "url": "11\/1115\/111502\/1115022005\/1115022005001.json",
+        "nama": "TPS 001, PEUREULAK, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022035",
+        "tps": "1115022035001",
+        "url": "11\/1115\/111502\/1115022035\/1115022035001.json",
+        "nama": "TPS 001, RAMBONG CUT, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022022",
+        "tps": "1115022022001",
+        "url": "11\/1115\/111502\/1115022022\/1115022022001.json",
+        "nama": "TPS 001, RAMBONG RAYEUK, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022011",
+        "tps": "1115022011001",
+        "url": "11\/1115\/111502\/1115022011\/1115022011001.json",
+        "nama": "TPS 001, SAPEK, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111502",
+        "desa": "1115022011",
+        "tps": "1115022011002",
+        "url": "11\/1115\/111502\/1115022011\/1115022011002.json",
+        "nama": "TPS 002, SAPEK, SEUNAGAN, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032027",
+        "tps": "1115032027001",
+        "url": "11\/1115\/111503\/1115032027\/1115032027001.json",
+        "nama": "TPS 001, BLANG ARA GAMPONG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032027",
+        "tps": "1115032027002",
+        "url": "11\/1115\/111503\/1115032027\/1115032027002.json",
+        "nama": "TPS 002, BLANG ARA GAMPONG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032026",
+        "tps": "1115032026001",
+        "url": "11\/1115\/111503\/1115032026\/1115032026001.json",
+        "nama": "TPS 001, BLANG ARA KEUDE, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032026",
+        "tps": "1115032026002",
+        "url": "11\/1115\/111503\/1115032026\/1115032026002.json",
+        "nama": "TPS 002, BLANG ARA KEUDE, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032029",
+        "tps": "1115032029001",
+        "url": "11\/1115\/111503\/1115032029\/1115032029001.json",
+        "nama": "TPS 001, BLANG BAYU, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032029",
+        "tps": "1115032029002",
+        "url": "11\/1115\/111503\/1115032029\/1115032029002.json",
+        "nama": "TPS 002, BLANG BAYU, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032006",
+        "tps": "1115032006001",
+        "url": "11\/1115\/111503\/1115032006\/1115032006001.json",
+        "nama": "TPS 001, BLANG GEUDONG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032004",
+        "tps": "1115032004001",
+        "url": "11\/1115\/111503\/1115032004\/1115032004001.json",
+        "nama": "TPS 001, BLANG LANGO, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032001",
+        "tps": "1115032001001",
+        "url": "11\/1115\/111503\/1115032001\/1115032001001.json",
+        "nama": "TPS 001, BLANG PANYANG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032001",
+        "tps": "1115032001002",
+        "url": "11\/1115\/111503\/1115032001\/1115032001002.json",
+        "nama": "TPS 002, BLANG PANYANG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032025",
+        "tps": "1115032025001",
+        "url": "11\/1115\/111503\/1115032025\/1115032025001.json",
+        "nama": "TPS 001, BLANG PREH, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032007",
+        "tps": "1115032007001",
+        "url": "11\/1115\/111503\/1115032007\/1115032007001.json",
+        "nama": "TPS 001, BLANG TEUNGKU, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032020",
+        "tps": "1115032020001",
+        "url": "11\/1115\/111503\/1115032020\/1115032020001.json",
+        "nama": "TPS 001, COT DIRUI, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032012",
+        "tps": "1115032012001",
+        "url": "11\/1115\/111503\/1115032012\/1115032012001.json",
+        "nama": "TPS 001, COT GUD, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032012",
+        "tps": "1115032012002",
+        "url": "11\/1115\/111503\/1115032012\/1115032012002.json",
+        "nama": "TPS 002, COT GUD, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032018",
+        "tps": "1115032018001",
+        "url": "11\/1115\/111503\/1115032018\/1115032018001.json",
+        "nama": "TPS 001, COT MANYANG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032033",
+        "tps": "1115032033001",
+        "url": "11\/1115\/111503\/1115032033\/1115032033001.json",
+        "nama": "TPS 001, COT PUNTI, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032021",
+        "tps": "1115032021001",
+        "url": "11\/1115\/111503\/1115032021\/1115032021001.json",
+        "nama": "TPS 001, COT TEUKU DEK, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032028",
+        "tps": "1115032028001",
+        "url": "11\/1115\/111503\/1115032028\/1115032028001.json",
+        "nama": "TPS 001, IE BEUDOH, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032028",
+        "tps": "1115032028002",
+        "url": "11\/1115\/111503\/1115032028\/1115032028002.json",
+        "nama": "TPS 002, IE BEUDOH, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032013",
+        "tps": "1115032013001",
+        "url": "11\/1115\/111503\/1115032013\/1115032013001.json",
+        "nama": "TPS 001, KABU BAROH, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032014",
+        "tps": "1115032014001",
+        "url": "11\/1115\/111503\/1115032014\/1115032014001.json",
+        "nama": "TPS 001, KABU TUNONG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032014",
+        "tps": "1115032014002",
+        "url": "11\/1115\/111503\/1115032014\/1115032014002.json",
+        "nama": "TPS 002, KABU TUNONG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032014",
+        "tps": "1115032014003",
+        "url": "11\/1115\/111503\/1115032014\/1115032014003.json",
+        "nama": "TPS 003, KABU TUNONG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032011",
+        "tps": "1115032011001",
+        "url": "11\/1115\/111503\/1115032011\/1115032011001.json",
+        "nama": "TPS 001, KANDEH, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032015",
+        "tps": "1115032015001",
+        "url": "11\/1115\/111503\/1115032015\/1115032015001.json",
+        "nama": "TPS 001, KEUDE LINTEUNG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032015",
+        "tps": "1115032015002",
+        "url": "11\/1115\/111503\/1115032015\/1115032015002.json",
+        "nama": "TPS 002, KEUDE LINTEUNG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032009",
+        "tps": "1115032009001",
+        "url": "11\/1115\/111503\/1115032009\/1115032009001.json",
+        "nama": "TPS 001, KEUDE NEULOP, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032009",
+        "tps": "1115032009002",
+        "url": "11\/1115\/111503\/1115032009\/1115032009002.json",
+        "nama": "TPS 002, KEUDE NEULOP, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032010",
+        "tps": "1115032010001",
+        "url": "11\/1115\/111503\/1115032010\/1115032010001.json",
+        "nama": "TPS 001, KILA, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032032",
+        "tps": "1115032032001",
+        "url": "11\/1115\/111503\/1115032032\/1115032032001.json",
+        "nama": "TPS 001, KRUENG KULU, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032034",
+        "tps": "1115032034001",
+        "url": "11\/1115\/111503\/1115032034\/1115032034001.json",
+        "nama": "TPS 001, LHOK MESJID, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032034",
+        "tps": "1115032034002",
+        "url": "11\/1115\/111503\/1115032034\/1115032034002.json",
+        "nama": "TPS 002, LHOK MESJID, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032003",
+        "tps": "1115032003001",
+        "url": "11\/1115\/111503\/1115032003\/1115032003001.json",
+        "nama": "TPS 001, LHOK PANGE, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032003",
+        "tps": "1115032003002",
+        "url": "11\/1115\/111503\/1115032003\/1115032003002.json",
+        "nama": "TPS 002, LHOK PANGE, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032002",
+        "tps": "1115032002001",
+        "url": "11\/1115\/111503\/1115032002\/1115032002001.json",
+        "nama": "TPS 001, MEUGAT MEH, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032002",
+        "tps": "1115032002002",
+        "url": "11\/1115\/111503\/1115032002\/1115032002002.json",
+        "nama": "TPS 002, MEUGAT MEH, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032016",
+        "tps": "1115032016001",
+        "url": "11\/1115\/111503\/1115032016\/1115032016001.json",
+        "nama": "TPS 001, MEURANDEH SUAK, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032030",
+        "tps": "1115032030001",
+        "url": "11\/1115\/111503\/1115032030\/1115032030001.json",
+        "nama": "TPS 001, MON BATEUNG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032030",
+        "tps": "1115032030002",
+        "url": "11\/1115\/111503\/1115032030\/1115032030002.json",
+        "nama": "TPS 002, MON BATEUNG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032024",
+        "tps": "1115032024001",
+        "url": "11\/1115\/111503\/1115032024\/1115032024001.json",
+        "nama": "TPS 001, PAYA, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032023",
+        "tps": "1115032023001",
+        "url": "11\/1115\/111503\/1115032023\/1115032023001.json",
+        "nama": "TPS 001, PEULEUKUNG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032023",
+        "tps": "1115032023002",
+        "url": "11\/1115\/111503\/1115032023\/1115032023002.json",
+        "nama": "TPS 002, PEULEUKUNG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032019",
+        "tps": "1115032019001",
+        "url": "11\/1115\/111503\/1115032019\/1115032019001.json",
+        "nama": "TPS 001, PULO TEUNGOH, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032022",
+        "tps": "1115032022001",
+        "url": "11\/1115\/111503\/1115032022\/1115032022001.json",
+        "nama": "TPS 001, SAPENG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032008",
+        "tps": "1115032008001",
+        "url": "11\/1115\/111503\/1115032008\/1115032008001.json",
+        "nama": "TPS 001, SAWANG MANE, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032031",
+        "tps": "1115032031001",
+        "url": "11\/1115\/111503\/1115032031\/1115032031001.json",
+        "nama": "TPS 001, SUAK PEUREUBONG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032005",
+        "tps": "1115032005001",
+        "url": "11\/1115\/111503\/1115032005\/1115032005001.json",
+        "nama": "TPS 001, TUWI MEULEUSONG, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032017",
+        "tps": "1115032017001",
+        "url": "11\/1115\/111503\/1115032017\/1115032017001.json",
+        "nama": "TPS 001, UTEUN PULO, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032017",
+        "tps": "1115032017002",
+        "url": "11\/1115\/111503\/1115032017\/1115032017002.json",
+        "nama": "TPS 002, UTEUN PULO, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111503",
+        "desa": "1115032017",
+        "tps": "1115032017003",
+        "url": "11\/1115\/111503\/1115032017\/1115032017003.json",
+        "nama": "TPS 003, UTEUN PULO, SEUNAGAN TIMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062019",
+        "tps": "1115062019001",
+        "url": "11\/1115\/111506\/1115062019\/1115062019001.json",
+        "nama": "TPS 001, ALUE GAJAH, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062002",
+        "tps": "1115062002001",
+        "url": "11\/1115\/111506\/1115062002\/1115062002001.json",
+        "nama": "TPS 001, ALUE KAMBUK, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062002",
+        "tps": "1115062002002",
+        "url": "11\/1115\/111506\/1115062002\/1115062002002.json",
+        "nama": "TPS 002, ALUE KAMBUK, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062018",
+        "tps": "1115062018001",
+        "url": "11\/1115\/111506\/1115062018\/1115062018001.json",
+        "nama": "TPS 001, ALUE PEUSAJA, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062014",
+        "tps": "1115062014001",
+        "url": "11\/1115\/111506\/1115062014\/1115062014001.json",
+        "nama": "TPS 001, BLANG MULING, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062010",
+        "tps": "1115062010001",
+        "url": "11\/1115\/111506\/1115062010\/1115062010001.json",
+        "nama": "TPS 001, BLANG SAPEK, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062010",
+        "tps": "1115062010002",
+        "url": "11\/1115\/111506\/1115062010\/1115062010002.json",
+        "nama": "TPS 002, BLANG SAPEK, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062010",
+        "tps": "1115062010003",
+        "url": "11\/1115\/111506\/1115062010\/1115062010003.json",
+        "nama": "TPS 003, BLANG SAPEK, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062007",
+        "tps": "1115062007001",
+        "url": "11\/1115\/111506\/1115062007\/1115062007001.json",
+        "nama": "TPS 001, COT KUTA, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062007",
+        "tps": "1115062007002",
+        "url": "11\/1115\/111506\/1115062007\/1115062007002.json",
+        "nama": "TPS 002, COT KUTA, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062007",
+        "tps": "1115062007003",
+        "url": "11\/1115\/111506\/1115062007\/1115062007003.json",
+        "nama": "TPS 003, COT KUTA, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062009",
+        "tps": "1115062009001",
+        "url": "11\/1115\/111506\/1115062009\/1115062009001.json",
+        "nama": "TPS 001, COT PEURADI, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062009",
+        "tps": "1115062009002",
+        "url": "11\/1115\/111506\/1115062009\/1115062009002.json",
+        "nama": "TPS 002, COT PEURADI, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062012",
+        "tps": "1115062012001",
+        "url": "11\/1115\/111506\/1115062012\/1115062012001.json",
+        "nama": "TPS 001, GAMPONG TEUNGOH, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062012",
+        "tps": "1115062012002",
+        "url": "11\/1115\/111506\/1115062012\/1115062012002.json",
+        "nama": "TPS 002, GAMPONG TEUNGOH, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062008",
+        "tps": "1115062008001",
+        "url": "11\/1115\/111506\/1115062008\/1115062008001.json",
+        "nama": "TPS 001, KABU BLANG SAPEK, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062008",
+        "tps": "1115062008002",
+        "url": "11\/1115\/111506\/1115062008\/1115062008002.json",
+        "nama": "TPS 002, KABU BLANG SAPEK, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062015",
+        "tps": "1115062015001",
+        "url": "11\/1115\/111506\/1115062015\/1115062015001.json",
+        "nama": "TPS 001, KRAK TAMPAI, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062015",
+        "tps": "1115062015002",
+        "url": "11\/1115\/111506\/1115062015\/1115062015002.json",
+        "nama": "TPS 002, KRAK TAMPAI, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062017",
+        "tps": "1115062017001",
+        "url": "11\/1115\/111506\/1115062017\/1115062017001.json",
+        "nama": "TPS 001, KUTA BARO BLANG MULING, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062003",
+        "tps": "1115062003001",
+        "url": "11\/1115\/111506\/1115062003\/1115062003001.json",
+        "nama": "TPS 001, KUTA PADANG, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062003",
+        "tps": "1115062003002",
+        "url": "11\/1115\/111506\/1115062003\/1115062003002.json",
+        "nama": "TPS 002, KUTA PADANG, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062011",
+        "tps": "1115062011001",
+        "url": "11\/1115\/111506\/1115062011\/1115062011001.json",
+        "nama": "TPS 001, LHOK BEUTONG, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062013",
+        "tps": "1115062013001",
+        "url": "11\/1115\/111506\/1115062013\/1115062013001.json",
+        "nama": "TPS 001, LHOK RAMEUAN, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062001",
+        "tps": "1115062001001",
+        "url": "11\/1115\/111506\/1115062001\/1115062001001.json",
+        "nama": "TPS 001, LUENG BARO, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062001",
+        "tps": "1115062001002",
+        "url": "11\/1115\/111506\/1115062001\/1115062001002.json",
+        "nama": "TPS 002, LUENG BARO, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062001",
+        "tps": "1115062001003",
+        "url": "11\/1115\/111506\/1115062001\/1115062001003.json",
+        "nama": "TPS 003, LUENG BARO, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062001",
+        "tps": "1115062001004",
+        "url": "11\/1115\/111506\/1115062001\/1115062001004.json",
+        "nama": "TPS 004, LUENG BARO, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062001",
+        "tps": "1115062001005",
+        "url": "11\/1115\/111506\/1115062001\/1115062001005.json",
+        "nama": "TPS 005, LUENG BARO, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062005",
+        "tps": "1115062005001",
+        "url": "11\/1115\/111506\/1115062005\/1115062005001.json",
+        "nama": "TPS 001, MACAH, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062016",
+        "tps": "1115062016001",
+        "url": "11\/1115\/111506\/1115062016\/1115062016001.json",
+        "nama": "TPS 001, MEUREUBO, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062006",
+        "tps": "1115062006001",
+        "url": "11\/1115\/111506\/1115062006\/1115062006001.json",
+        "nama": "TPS 001, SEUMAMBEK, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062004",
+        "tps": "1115062004001",
+        "url": "11\/1115\/111506\/1115062004\/1115062004001.json",
+        "nama": "TPS 001, SUAK BILIE, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062004",
+        "tps": "1115062004002",
+        "url": "11\/1115\/111506\/1115062004\/1115062004002.json",
+        "nama": "TPS 002, SUAK BILIE, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111506",
+        "desa": "1115062004",
+        "tps": "1115062004003",
+        "url": "11\/1115\/111506\/1115062004\/1115062004003.json",
+        "nama": "TPS 003, SUAK BILIE, SUKA MAKMUE, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082001",
+        "tps": "1115082001001",
+        "url": "11\/1115\/111508\/1115082001\/1115082001001.json",
+        "nama": "TPS 001, ALUE BATA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082001",
+        "tps": "1115082001002",
+        "url": "11\/1115\/111508\/1115082001\/1115082001002.json",
+        "nama": "TPS 002, ALUE BATA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082001",
+        "tps": "1115082001003",
+        "url": "11\/1115\/111508\/1115082001\/1115082001003.json",
+        "nama": "TPS 003, ALUE BATA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082001",
+        "tps": "1115082001004",
+        "url": "11\/1115\/111508\/1115082001\/1115082001004.json",
+        "nama": "TPS 004, ALUE BATA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082018",
+        "tps": "1115082018001",
+        "url": "11\/1115\/111508\/1115082018\/1115082018001.json",
+        "nama": "TPS 001, ALUE GAJAH, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082019",
+        "tps": "1115082019001",
+        "url": "11\/1115\/111508\/1115082019\/1115082019001.json",
+        "nama": "TPS 001, ALUE LABU, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082016",
+        "tps": "1115082016001",
+        "url": "11\/1115\/111508\/1115082016\/1115082016001.json",
+        "nama": "TPS 001, ALUE SEUPEUNG, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082016",
+        "tps": "1115082016002",
+        "url": "11\/1115\/111508\/1115082016\/1115082016002.json",
+        "nama": "TPS 002, ALUE SEUPEUNG, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082008",
+        "tps": "1115082008001",
+        "url": "11\/1115\/111508\/1115082008\/1115082008001.json",
+        "nama": "TPS 001, ALUE SIRON, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082011",
+        "tps": "1115082011001",
+        "url": "11\/1115\/111508\/1115082011\/1115082011001.json",
+        "nama": "TPS 001, BABAH DUA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082011",
+        "tps": "1115082011002",
+        "url": "11\/1115\/111508\/1115082011\/1115082011002.json",
+        "nama": "TPS 002, BABAH DUA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082011",
+        "tps": "1115082011003",
+        "url": "11\/1115\/111508\/1115082011\/1115082011003.json",
+        "nama": "TPS 003, BABAH DUA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082011",
+        "tps": "1115082011004",
+        "url": "11\/1115\/111508\/1115082011\/1115082011004.json",
+        "nama": "TPS 004, BABAH DUA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082011",
+        "tps": "1115082011005",
+        "url": "11\/1115\/111508\/1115082011\/1115082011005.json",
+        "nama": "TPS 005, BABAH DUA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082010",
+        "tps": "1115082010001",
+        "url": "11\/1115\/111508\/1115082010\/1115082010001.json",
+        "nama": "TPS 001, BABAH ROT, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082010",
+        "tps": "1115082010002",
+        "url": "11\/1115\/111508\/1115082010\/1115082010002.json",
+        "nama": "TPS 002, BABAH ROT, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082012",
+        "tps": "1115082012001",
+        "url": "11\/1115\/111508\/1115082012\/1115082012001.json",
+        "nama": "TPS 001, BATU RAJA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082012",
+        "tps": "1115082012002",
+        "url": "11\/1115\/111508\/1115082012\/1115082012002.json",
+        "nama": "TPS 002, BATU RAJA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082022",
+        "tps": "1115082022001",
+        "url": "11\/1115\/111508\/1115082022\/1115082022001.json",
+        "nama": "TPS 001, COT MEE, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082022",
+        "tps": "1115082022002",
+        "url": "11\/1115\/111508\/1115082022\/1115082022002.json",
+        "nama": "TPS 002, COT MEE, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082022",
+        "tps": "1115082022003",
+        "url": "11\/1115\/111508\/1115082022\/1115082022003.json",
+        "nama": "TPS 003, COT MEE, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082022",
+        "tps": "1115082022004",
+        "url": "11\/1115\/111508\/1115082022\/1115082022004.json",
+        "nama": "TPS 004, COT MEE, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082009",
+        "tps": "1115082009001",
+        "url": "11\/1115\/111508\/1115082009\/1115082009001.json",
+        "nama": "TPS 001, COT MUE, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082009",
+        "tps": "1115082009002",
+        "url": "11\/1115\/111508\/1115082009\/1115082009002.json",
+        "nama": "TPS 002, COT MUE, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082020",
+        "tps": "1115082020001",
+        "url": "11\/1115\/111508\/1115082020\/1115082020001.json",
+        "nama": "TPS 001, GAPA GARU, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082005",
+        "tps": "1115082005001",
+        "url": "11\/1115\/111508\/1115082005\/1115082005001.json",
+        "nama": "TPS 001, GUNONG GEULUGO, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082005",
+        "tps": "1115082005002",
+        "url": "11\/1115\/111508\/1115082005\/1115082005002.json",
+        "nama": "TPS 002, GUNONG GEULUGO, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082006",
+        "tps": "1115082006001",
+        "url": "11\/1115\/111508\/1115082006\/1115082006001.json",
+        "nama": "TPS 001, GUNONG KUPOK, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082007",
+        "tps": "1115082007001",
+        "url": "11\/1115\/111508\/1115082007\/1115082007001.json",
+        "nama": "TPS 001, GUNONG PUNGKI, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082007",
+        "tps": "1115082007002",
+        "url": "11\/1115\/111508\/1115082007\/1115082007002.json",
+        "nama": "TPS 002, GUNONG PUNGKI, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082007",
+        "tps": "1115082007003",
+        "url": "11\/1115\/111508\/1115082007\/1115082007003.json",
+        "nama": "TPS 003, GUNONG PUNGKI, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082007",
+        "tps": "1115082007004",
+        "url": "11\/1115\/111508\/1115082007\/1115082007004.json",
+        "nama": "TPS 004, GUNONG PUNGKI, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082002",
+        "tps": "1115082002001",
+        "url": "11\/1115\/111508\/1115082002\/1115082002001.json",
+        "nama": "TPS 001, GUNONG SAPEK, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082017",
+        "tps": "1115082017001",
+        "url": "11\/1115\/111508\/1115082017\/1115082017001.json",
+        "nama": "TPS 001, KRUENG ITAM, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082017",
+        "tps": "1115082017002",
+        "url": "11\/1115\/111508\/1115082017\/1115082017002.json",
+        "nama": "TPS 002, KRUENG ITAM, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082017",
+        "tps": "1115082017003",
+        "url": "11\/1115\/111508\/1115082017\/1115082017003.json",
+        "nama": "TPS 003, KRUENG ITAM, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082017",
+        "tps": "1115082017004",
+        "url": "11\/1115\/111508\/1115082017\/1115082017004.json",
+        "nama": "TPS 004, KRUENG ITAM, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082017",
+        "tps": "1115082017005",
+        "url": "11\/1115\/111508\/1115082017\/1115082017005.json",
+        "nama": "TPS 005, KRUENG ITAM, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082017",
+        "tps": "1115082017006",
+        "url": "11\/1115\/111508\/1115082017\/1115082017006.json",
+        "nama": "TPS 006, KRUENG ITAM, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082021",
+        "tps": "1115082021001",
+        "url": "11\/1115\/111508\/1115082021\/1115082021001.json",
+        "nama": "TPS 001, KUALA TADU, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082021",
+        "tps": "1115082021002",
+        "url": "11\/1115\/111508\/1115082021\/1115082021002.json",
+        "nama": "TPS 002, KUALA TADU, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082004",
+        "tps": "1115082004001",
+        "url": "11\/1115\/111508\/1115082004\/1115082004001.json",
+        "nama": "TPS 001, PASIE LUAH, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082015",
+        "tps": "1115082015001",
+        "url": "11\/1115\/111508\/1115082015\/1115082015001.json",
+        "nama": "TPS 001, RANTAU SELAMAT, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082015",
+        "tps": "1115082015002",
+        "url": "11\/1115\/111508\/1115082015\/1115082015002.json",
+        "nama": "TPS 002, RANTAU SELAMAT, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082015",
+        "tps": "1115082015003",
+        "url": "11\/1115\/111508\/1115082015\/1115082015003.json",
+        "nama": "TPS 003, RANTAU SELAMAT, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082015",
+        "tps": "1115082015004",
+        "url": "11\/1115\/111508\/1115082015\/1115082015004.json",
+        "nama": "TPS 004, RANTAU SELAMAT, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082003",
+        "tps": "1115082003001",
+        "url": "11\/1115\/111508\/1115082003\/1115082003001.json",
+        "nama": "TPS 001, SARAH MANTOK, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082013",
+        "tps": "1115082013001",
+        "url": "11\/1115\/111508\/1115082013\/1115082013001.json",
+        "nama": "TPS 001, SIMPANG JAYA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082013",
+        "tps": "1115082013002",
+        "url": "11\/1115\/111508\/1115082013\/1115082013002.json",
+        "nama": "TPS 002, SIMPANG JAYA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082014",
+        "tps": "1115082014001",
+        "url": "11\/1115\/111508\/1115082014\/1115082014001.json",
+        "nama": "TPS 001, SUMBER DAYA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082014",
+        "tps": "1115082014002",
+        "url": "11\/1115\/111508\/1115082014\/1115082014002.json",
+        "nama": "TPS 002, SUMBER DAYA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111508",
+        "desa": "1115082014",
+        "tps": "1115082014003",
+        "url": "11\/1115\/111508\/1115082014\/1115082014003.json",
+        "nama": "TPS 003, SUMBER DAYA, TADU RAYA, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092002",
+        "tps": "1115092002001",
+        "url": "11\/1115\/111509\/1115092002\/1115092002001.json",
+        "nama": "TPS 001, BABAH LUENG, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092002",
+        "tps": "1115092002002",
+        "url": "11\/1115\/111509\/1115092002\/1115092002002.json",
+        "nama": "TPS 002, BABAH LUENG, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092002",
+        "tps": "1115092002003",
+        "url": "11\/1115\/111509\/1115092002\/1115092002003.json",
+        "nama": "TPS 003, BABAH LUENG, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092003",
+        "tps": "1115092003001",
+        "url": "11\/1115\/111509\/1115092003\/1115092003001.json",
+        "nama": "TPS 001, DRIEN TUJOH, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092003",
+        "tps": "1115092003002",
+        "url": "11\/1115\/111509\/1115092003\/1115092003002.json",
+        "nama": "TPS 002, DRIEN TUJOH, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092003",
+        "tps": "1115092003003",
+        "url": "11\/1115\/111509\/1115092003\/1115092003003.json",
+        "nama": "TPS 003, DRIEN TUJOH, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092005",
+        "tps": "1115092005001",
+        "url": "11\/1115\/111509\/1115092005\/1115092005001.json",
+        "nama": "TPS 001, KABU, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092005",
+        "tps": "1115092005002",
+        "url": "11\/1115\/111509\/1115092005\/1115092005002.json",
+        "nama": "TPS 002, KABU, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092005",
+        "tps": "1115092005003",
+        "url": "11\/1115\/111509\/1115092005\/1115092005003.json",
+        "nama": "TPS 003, KABU, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092005",
+        "tps": "1115092005004",
+        "url": "11\/1115\/111509\/1115092005\/1115092005004.json",
+        "nama": "TPS 004, KABU, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092005",
+        "tps": "1115092005005",
+        "url": "11\/1115\/111509\/1115092005\/1115092005005.json",
+        "nama": "TPS 005, KABU, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092001",
+        "tps": "1115092001001",
+        "url": "11\/1115\/111509\/1115092001\/1115092001001.json",
+        "nama": "TPS 001, KUALA TRIPA, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092001",
+        "tps": "1115092001002",
+        "url": "11\/1115\/111509\/1115092001\/1115092001002.json",
+        "nama": "TPS 002, KUALA TRIPA, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092001",
+        "tps": "1115092001003",
+        "url": "11\/1115\/111509\/1115092001\/1115092001003.json",
+        "nama": "TPS 003, KUALA TRIPA, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092001",
+        "tps": "1115092001004",
+        "url": "11\/1115\/111509\/1115092001\/1115092001004.json",
+        "nama": "TPS 004, KUALA TRIPA, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092004",
+        "tps": "1115092004001",
+        "url": "11\/1115\/111509\/1115092004\/1115092004001.json",
+        "nama": "TPS 001, LUENG KEUBEU JAGAT, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092004",
+        "tps": "1115092004002",
+        "url": "11\/1115\/111509\/1115092004\/1115092004002.json",
+        "nama": "TPS 002, LUENG KEUBEU JAGAT, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092004",
+        "tps": "1115092004003",
+        "url": "11\/1115\/111509\/1115092004\/1115092004003.json",
+        "nama": "TPS 003, LUENG KEUBEU JAGAT, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092004",
+        "tps": "1115092004004",
+        "url": "11\/1115\/111509\/1115092004\/1115092004004.json",
+        "nama": "TPS 004, LUENG KEUBEU JAGAT, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092004",
+        "tps": "1115092004005",
+        "url": "11\/1115\/111509\/1115092004\/1115092004005.json",
+        "nama": "TPS 005, LUENG KEUBEU JAGAT, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092009",
+        "tps": "1115092009001",
+        "url": "11\/1115\/111509\/1115092009\/1115092009001.json",
+        "nama": "TPS 001, MON DUA, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092009",
+        "tps": "1115092009002",
+        "url": "11\/1115\/111509\/1115092009\/1115092009002.json",
+        "nama": "TPS 002, MON DUA, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092007",
+        "tps": "1115092007001",
+        "url": "11\/1115\/111509\/1115092007\/1115092007001.json",
+        "nama": "TPS 001, NEUBOK YEE PK, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092007",
+        "tps": "1115092007002",
+        "url": "11\/1115\/111509\/1115092007\/1115092007002.json",
+        "nama": "TPS 002, NEUBOK YEE PK, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092008",
+        "tps": "1115092008001",
+        "url": "11\/1115\/111509\/1115092008\/1115092008001.json",
+        "nama": "TPS 001, NEUBOK YEE PP, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092008",
+        "tps": "1115092008002",
+        "url": "11\/1115\/111509\/1115092008\/1115092008002.json",
+        "nama": "TPS 002, NEUBOK YEE PP, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092011",
+        "tps": "1115092011001",
+        "url": "11\/1115\/111509\/1115092011\/1115092011001.json",
+        "nama": "TPS 001, PANTON PANGE, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092011",
+        "tps": "1115092011002",
+        "url": "11\/1115\/111509\/1115092011\/1115092011002.json",
+        "nama": "TPS 002, PANTON PANGE, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092006",
+        "tps": "1115092006001",
+        "url": "11\/1115\/111509\/1115092006\/1115092006001.json",
+        "nama": "TPS 001, PASIE KEUBE DOM, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092006",
+        "tps": "1115092006002",
+        "url": "11\/1115\/111509\/1115092006\/1115092006002.json",
+        "nama": "TPS 002, PASIE KEUBE DOM, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092010",
+        "tps": "1115092010001",
+        "url": "11\/1115\/111509\/1115092010\/1115092010001.json",
+        "nama": "TPS 001, UJONG KRUENG, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1115",
+        "kecamatan": "111509",
+        "desa": "1115092010",
+        "tps": "1115092010002",
+        "url": "11\/1115\/111509\/1115092010\/1115092010002.json",
+        "nama": "TPS 002, UJONG KRUENG, TRIPA MAKMUR, NAGAN RAYA, ACEH"
+    }
+]

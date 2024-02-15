@@ -1,0 +1,29 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "9926",
+        "kecamatan": "992601",
+        "desa": "9926010001",
+        "tps": "9926010001001",
+        "url": "99\/9926\/992601\/9926010001\/9926010001001.json",
+        "nama": "POS 001, Canberra, Australia, Canberra, Australia, Canberra, Australia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9926",
+        "kecamatan": "992601",
+        "desa": "9926010001",
+        "tps": "9926010001002",
+        "url": "99\/9926\/992601\/9926010001\/9926010001002.json",
+        "nama": "TPS 001, Canberra, Australia, Canberra, Australia, Canberra, Australia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "9926",
+        "kecamatan": "992601",
+        "desa": "9926010001",
+        "tps": "9926010001003",
+        "url": "99\/9926\/992601\/9926010001\/9926010001003.json",
+        "nama": "TPS 002, Canberra, Australia, Canberra, Australia, Canberra, Australia, Luar Negeri"
+    }
+]

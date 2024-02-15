@@ -1,0 +1,3098 @@
+[
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021005",
+        "tps": "7104021005001",
+        "url": "71\/7104\/710402\/7104021005\/7104021005001.json",
+        "nama": "TPS 001, B E O, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021005",
+        "tps": "7104021005002",
+        "url": "71\/7104\/710402\/7104021005\/7104021005002.json",
+        "nama": "TPS 002, B E O, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021005",
+        "tps": "7104021005003",
+        "url": "71\/7104\/710402\/7104021005\/7104021005003.json",
+        "nama": "TPS 003, B E O, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104022011",
+        "tps": "7104022011001",
+        "url": "71\/7104\/710402\/7104022011\/7104022011001.json",
+        "nama": "TPS 001, BANTIK, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104022011",
+        "tps": "7104022011002",
+        "url": "71\/7104\/710402\/7104022011\/7104022011002.json",
+        "nama": "TPS 002, BANTIK, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104022011",
+        "tps": "7104022011003",
+        "url": "71\/7104\/710402\/7104022011\/7104022011003.json",
+        "nama": "TPS 003, BANTIK, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104022020",
+        "tps": "7104022020001",
+        "url": "71\/7104\/710402\/7104022020\/7104022020001.json",
+        "nama": "TPS 001, BANTIK LAMA, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104022020",
+        "tps": "7104022020002",
+        "url": "71\/7104\/710402\/7104022020\/7104022020002.json",
+        "nama": "TPS 002, BANTIK LAMA, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104022019",
+        "tps": "7104022019001",
+        "url": "71\/7104\/710402\/7104022019\/7104022019001.json",
+        "nama": "TPS 001, BENGEL, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021018",
+        "tps": "7104021018001",
+        "url": "71\/7104\/710402\/7104021018\/7104021018001.json",
+        "nama": "TPS 001, BEO BARAT, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021018",
+        "tps": "7104021018002",
+        "url": "71\/7104\/710402\/7104021018\/7104021018002.json",
+        "nama": "TPS 002, BEO BARAT, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021018",
+        "tps": "7104021018003",
+        "url": "71\/7104\/710402\/7104021018\/7104021018003.json",
+        "nama": "TPS 003, BEO BARAT, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021018",
+        "tps": "7104021018004",
+        "url": "71\/7104\/710402\/7104021018\/7104021018004.json",
+        "nama": "TPS 004, BEO BARAT, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021018",
+        "tps": "7104021018005",
+        "url": "71\/7104\/710402\/7104021018\/7104021018005.json",
+        "nama": "TPS 005, BEO BARAT, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021017",
+        "tps": "7104021017001",
+        "url": "71\/7104\/710402\/7104021017\/7104021017001.json",
+        "nama": "TPS 001, BEO TIMUR, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021017",
+        "tps": "7104021017002",
+        "url": "71\/7104\/710402\/7104021017\/7104021017002.json",
+        "nama": "TPS 002, BEO TIMUR, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021017",
+        "tps": "7104021017003",
+        "url": "71\/7104\/710402\/7104021017\/7104021017003.json",
+        "nama": "TPS 003, BEO TIMUR, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710402",
+        "desa": "7104021017",
+        "tps": "7104021017004",
+        "url": "71\/7104\/710402\/7104021017\/7104021017004.json",
+        "nama": "TPS 004, BEO TIMUR, BEO, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182007",
+        "tps": "7104182007001",
+        "url": "71\/7104\/710418\/7104182007\/7104182007001.json",
+        "nama": "TPS 001, MATAHIT, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182007",
+        "tps": "7104182007002",
+        "url": "71\/7104\/710418\/7104182007\/7104182007002.json",
+        "nama": "TPS 002, MATAHIT, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182003",
+        "tps": "7104182003001",
+        "url": "71\/7104\/710418\/7104182003\/7104182003001.json",
+        "nama": "TPS 001, NIAMPAK, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182003",
+        "tps": "7104182003002",
+        "url": "71\/7104\/710418\/7104182003\/7104182003002.json",
+        "nama": "TPS 002, NIAMPAK, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182004",
+        "tps": "7104182004001",
+        "url": "71\/7104\/710418\/7104182004\/7104182004001.json",
+        "nama": "TPS 001, NIAMPAK UTARA, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182004",
+        "tps": "7104182004002",
+        "url": "71\/7104\/710418\/7104182004\/7104182004002.json",
+        "nama": "TPS 002, NIAMPAK UTARA, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182001",
+        "tps": "7104182001001",
+        "url": "71\/7104\/710418\/7104182001\/7104182001001.json",
+        "nama": "TPS 001, PAMPALU, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182001",
+        "tps": "7104182001002",
+        "url": "71\/7104\/710418\/7104182001\/7104182001002.json",
+        "nama": "TPS 002, PAMPALU, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182002",
+        "tps": "7104182002001",
+        "url": "71\/7104\/710418\/7104182002\/7104182002001.json",
+        "nama": "TPS 001, RUSO, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182002",
+        "tps": "7104182002002",
+        "url": "71\/7104\/710418\/7104182002\/7104182002002.json",
+        "nama": "TPS 002, RUSO, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182005",
+        "tps": "7104182005001",
+        "url": "71\/7104\/710418\/7104182005\/7104182005001.json",
+        "nama": "TPS 001, TAROHAN, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182005",
+        "tps": "7104182005002",
+        "url": "71\/7104\/710418\/7104182005\/7104182005002.json",
+        "nama": "TPS 002, TAROHAN, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182006",
+        "tps": "7104182006001",
+        "url": "71\/7104\/710418\/7104182006\/7104182006001.json",
+        "nama": "TPS 001, TAROHAN SELATAN, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710418",
+        "desa": "7104182006",
+        "tps": "7104182006002",
+        "url": "71\/7104\/710418\/7104182006\/7104182006002.json",
+        "nama": "TPS 002, TAROHAN SELATAN, BEO SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142003",
+        "tps": "7104142003001",
+        "url": "71\/7104\/710414\/7104142003\/7104142003001.json",
+        "nama": "TPS 001, AWIT, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142003",
+        "tps": "7104142003002",
+        "url": "71\/7104\/710414\/7104142003\/7104142003002.json",
+        "nama": "TPS 002, AWIT, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142004",
+        "tps": "7104142004001",
+        "url": "71\/7104\/710414\/7104142004\/7104142004001.json",
+        "nama": "TPS 001, AWIT SELATAN, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142004",
+        "tps": "7104142004002",
+        "url": "71\/7104\/710414\/7104142004\/7104142004002.json",
+        "nama": "TPS 002, AWIT SELATAN, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142007",
+        "tps": "7104142007001",
+        "url": "71\/7104\/710414\/7104142007\/7104142007001.json",
+        "nama": "TPS 001, LOBBO, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142007",
+        "tps": "7104142007002",
+        "url": "71\/7104\/710414\/7104142007\/7104142007002.json",
+        "nama": "TPS 002, LOBBO, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142008",
+        "tps": "7104142008001",
+        "url": "71\/7104\/710414\/7104142008\/7104142008001.json",
+        "nama": "TPS 001, LOBBO I, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142008",
+        "tps": "7104142008002",
+        "url": "71\/7104\/710414\/7104142008\/7104142008002.json",
+        "nama": "TPS 002, LOBBO I, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104141001",
+        "tps": "7104141001001",
+        "url": "71\/7104\/710414\/7104141001\/7104141001001.json",
+        "nama": "TPS 001, MAKATARA, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104141001",
+        "tps": "7104141001002",
+        "url": "71\/7104\/710414\/7104141001\/7104141001002.json",
+        "nama": "TPS 002, MAKATARA, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104141002",
+        "tps": "7104141002001",
+        "url": "71\/7104\/710414\/7104141002\/7104141002001.json",
+        "nama": "TPS 001, MAKATARA TIMUR, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104141002",
+        "tps": "7104141002002",
+        "url": "71\/7104\/710414\/7104141002\/7104141002002.json",
+        "nama": "TPS 002, MAKATARA TIMUR, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142005",
+        "tps": "7104142005001",
+        "url": "71\/7104\/710414\/7104142005\/7104142005001.json",
+        "nama": "TPS 001, RAE, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142005",
+        "tps": "7104142005002",
+        "url": "71\/7104\/710414\/7104142005\/7104142005002.json",
+        "nama": "TPS 002, RAE, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142006",
+        "tps": "7104142006001",
+        "url": "71\/7104\/710414\/7104142006\/7104142006001.json",
+        "nama": "TPS 001, RAE SELATAN, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710414",
+        "desa": "7104142006",
+        "tps": "7104142006002",
+        "url": "71\/7104\/710414\/7104142006\/7104142006002.json",
+        "nama": "TPS 002, RAE SELATAN, BEO UTARA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092004",
+        "tps": "7104092004001",
+        "url": "71\/7104\/710409\/7104092004\/7104092004001.json",
+        "nama": "TPS 001, AKAS, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092008",
+        "tps": "7104092008001",
+        "url": "71\/7104\/710409\/7104092008\/7104092008001.json",
+        "nama": "TPS 001, AKAS BALANE, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092008",
+        "tps": "7104092008002",
+        "url": "71\/7104\/710409\/7104092008\/7104092008002.json",
+        "nama": "TPS 002, AKAS BALANE, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092003",
+        "tps": "7104092003001",
+        "url": "71\/7104\/710409\/7104092003\/7104092003001.json",
+        "nama": "TPS 001, BIRANG, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092003",
+        "tps": "7104092003002",
+        "url": "71\/7104\/710409\/7104092003\/7104092003002.json",
+        "nama": "TPS 002, BIRANG, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092005",
+        "tps": "7104092005001",
+        "url": "71\/7104\/710409\/7104092005\/7104092005001.json",
+        "nama": "TPS 001, DAMAU, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092005",
+        "tps": "7104092005002",
+        "url": "71\/7104\/710409\/7104092005\/7104092005002.json",
+        "nama": "TPS 002, DAMAU, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092005",
+        "tps": "7104092005003",
+        "url": "71\/7104\/710409\/7104092005\/7104092005003.json",
+        "nama": "TPS 003, DAMAU, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092006",
+        "tps": "7104092006001",
+        "url": "71\/7104\/710409\/7104092006\/7104092006001.json",
+        "nama": "TPS 001, DAMAU BOWONE, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092006",
+        "tps": "7104092006002",
+        "url": "71\/7104\/710409\/7104092006\/7104092006002.json",
+        "nama": "TPS 002, DAMAU BOWONE, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092002",
+        "tps": "7104092002001",
+        "url": "71\/7104\/710409\/7104092002\/7104092002001.json",
+        "nama": "TPS 001, IGHIK, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092001",
+        "tps": "7104092001001",
+        "url": "71\/7104\/710409\/7104092001\/7104092001001.json",
+        "nama": "TPS 001, PERET, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092001",
+        "tps": "7104092001002",
+        "url": "71\/7104\/710409\/7104092001\/7104092001002.json",
+        "nama": "TPS 002, PERET, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092001",
+        "tps": "7104092001003",
+        "url": "71\/7104\/710409\/7104092001\/7104092001003.json",
+        "nama": "TPS 003, PERET, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092007",
+        "tps": "7104092007001",
+        "url": "71\/7104\/710409\/7104092007\/7104092007001.json",
+        "nama": "TPS 001, TADUWALE, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092007",
+        "tps": "7104092007002",
+        "url": "71\/7104\/710409\/7104092007\/7104092007002.json",
+        "nama": "TPS 002, TADUWALE, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710409",
+        "desa": "7104092007",
+        "tps": "7104092007003",
+        "url": "71\/7104\/710409\/7104092007\/7104092007003.json",
+        "nama": "TPS 003, TADUWALE, DAMAU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042008",
+        "tps": "7104042008001",
+        "url": "71\/7104\/710404\/7104042008\/7104042008001.json",
+        "nama": "TPS 001, BULUDE, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042008",
+        "tps": "7104042008002",
+        "url": "71\/7104\/710404\/7104042008\/7104042008002.json",
+        "nama": "TPS 002, BULUDE, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042019",
+        "tps": "7104042019001",
+        "url": "71\/7104\/710404\/7104042019\/7104042019001.json",
+        "nama": "TPS 001, BULUDE SELATAN, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042019",
+        "tps": "7104042019002",
+        "url": "71\/7104\/710404\/7104042019\/7104042019002.json",
+        "nama": "TPS 002, BULUDE SELATAN, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042006",
+        "tps": "7104042006001",
+        "url": "71\/7104\/710404\/7104042006\/7104042006001.json",
+        "nama": "TPS 001, E S S A N G, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042006",
+        "tps": "7104042006002",
+        "url": "71\/7104\/710404\/7104042006\/7104042006002.json",
+        "nama": "TPS 002, E S S A N G, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042018",
+        "tps": "7104042018001",
+        "url": "71\/7104\/710404\/7104042018\/7104042018001.json",
+        "nama": "TPS 001, ESSANG SELATAN, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042018",
+        "tps": "7104042018002",
+        "url": "71\/7104\/710404\/7104042018\/7104042018002.json",
+        "nama": "TPS 002, ESSANG SELATAN, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042018",
+        "tps": "7104042018003",
+        "url": "71\/7104\/710404\/7104042018\/7104042018003.json",
+        "nama": "TPS 003, ESSANG SELATAN, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042007",
+        "tps": "7104042007001",
+        "url": "71\/7104\/710404\/7104042007\/7104042007001.json",
+        "nama": "TPS 001, LALUE, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042007",
+        "tps": "7104042007002",
+        "url": "71\/7104\/710404\/7104042007\/7104042007002.json",
+        "nama": "TPS 002, LALUE, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042020",
+        "tps": "7104042020001",
+        "url": "71\/7104\/710404\/7104042020\/7104042020001.json",
+        "nama": "TPS 001, LALUE TENGAH, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042020",
+        "tps": "7104042020002",
+        "url": "71\/7104\/710404\/7104042020\/7104042020002.json",
+        "nama": "TPS 002, LALUE TENGAH, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042021",
+        "tps": "7104042021001",
+        "url": "71\/7104\/710404\/7104042021\/7104042021001.json",
+        "nama": "TPS 001, LALUE UTARA, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042021",
+        "tps": "7104042021002",
+        "url": "71\/7104\/710404\/7104042021\/7104042021002.json",
+        "nama": "TPS 002, LALUE UTARA, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042016",
+        "tps": "7104042016001",
+        "url": "71\/7104\/710404\/7104042016\/7104042016001.json",
+        "nama": "TPS 001, MARIRIK, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710404",
+        "desa": "7104042016",
+        "tps": "7104042016002",
+        "url": "71\/7104\/710404\/7104042016\/7104042016002.json",
+        "nama": "TPS 002, MARIRIK, ESSANG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192006",
+        "tps": "7104192006001",
+        "url": "71\/7104\/710419\/7104192006\/7104192006001.json",
+        "nama": "TPS 001, AMBIA, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192006",
+        "tps": "7104192006002",
+        "url": "71\/7104\/710419\/7104192006\/7104192006002.json",
+        "nama": "TPS 002, AMBIA, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192007",
+        "tps": "7104192007001",
+        "url": "71\/7104\/710419\/7104192007\/7104192007001.json",
+        "nama": "TPS 001, AMBIA UTARA, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192007",
+        "tps": "7104192007002",
+        "url": "71\/7104\/710419\/7104192007\/7104192007002.json",
+        "nama": "TPS 002, AMBIA UTARA, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192005",
+        "tps": "7104192005001",
+        "url": "71\/7104\/710419\/7104192005\/7104192005001.json",
+        "nama": "TPS 001, BATUMBALANGO, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192005",
+        "tps": "7104192005002",
+        "url": "71\/7104\/710419\/7104192005\/7104192005002.json",
+        "nama": "TPS 002, BATUMBALANGO, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192003",
+        "tps": "7104192003001",
+        "url": "71\/7104\/710419\/7104192003\/7104192003001.json",
+        "nama": "TPS 001, ENSEM, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192003",
+        "tps": "7104192003002",
+        "url": "71\/7104\/710419\/7104192003\/7104192003002.json",
+        "nama": "TPS 002, ENSEM, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192004",
+        "tps": "7104192004001",
+        "url": "71\/7104\/710419\/7104192004\/7104192004001.json",
+        "nama": "TPS 001, ENSEM TIMUR, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192004",
+        "tps": "7104192004002",
+        "url": "71\/7104\/710419\/7104192004\/7104192004002.json",
+        "nama": "TPS 002, ENSEM TIMUR, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192008",
+        "tps": "7104192008001",
+        "url": "71\/7104\/710419\/7104192008\/7104192008001.json",
+        "nama": "TPS 001, K U M A, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192008",
+        "tps": "7104192008002",
+        "url": "71\/7104\/710419\/7104192008\/7104192008002.json",
+        "nama": "TPS 002, K U M A, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192009",
+        "tps": "7104192009001",
+        "url": "71\/7104\/710419\/7104192009\/7104192009001.json",
+        "nama": "TPS 001, KUMA SELATAN, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192009",
+        "tps": "7104192009002",
+        "url": "71\/7104\/710419\/7104192009\/7104192009002.json",
+        "nama": "TPS 002, KUMA SELATAN, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192002",
+        "tps": "7104192002001",
+        "url": "71\/7104\/710419\/7104192002\/7104192002001.json",
+        "nama": "TPS 001, SAMBUARA, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192002",
+        "tps": "7104192002002",
+        "url": "71\/7104\/710419\/7104192002\/7104192002002.json",
+        "nama": "TPS 002, SAMBUARA, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192001",
+        "tps": "7104192001001",
+        "url": "71\/7104\/710419\/7104192001\/7104192001001.json",
+        "nama": "TPS 001, SAMBUARA SATU, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710419",
+        "desa": "7104192001",
+        "tps": "7104192001002",
+        "url": "71\/7104\/710419\/7104192001\/7104192001002.json",
+        "nama": "TPS 002, SAMBUARA SATU, ESSANG SELATAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082007",
+        "tps": "7104082007001",
+        "url": "71\/7104\/710408\/7104082007\/7104082007001.json",
+        "nama": "TPS 001, APAN, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082005",
+        "tps": "7104082005001",
+        "url": "71\/7104\/710408\/7104082005\/7104082005001.json",
+        "nama": "TPS 001, ARANGKAA, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082005",
+        "tps": "7104082005002",
+        "url": "71\/7104\/710408\/7104082005\/7104082005002.json",
+        "nama": "TPS 002, ARANGKAA, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082002",
+        "tps": "7104082002001",
+        "url": "71\/7104\/710408\/7104082002\/7104082002001.json",
+        "nama": "TPS 001, BAMBUNG, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082002",
+        "tps": "7104082002002",
+        "url": "71\/7104\/710408\/7104082002\/7104082002002.json",
+        "nama": "TPS 002, BAMBUNG, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082012",
+        "tps": "7104082012001",
+        "url": "71\/7104\/710408\/7104082012\/7104082012001.json",
+        "nama": "TPS 001, BAMBUNG TIMUR, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082012",
+        "tps": "7104082012002",
+        "url": "71\/7104\/710408\/7104082012\/7104082012002.json",
+        "nama": "TPS 002, BAMBUNG TIMUR, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082009",
+        "tps": "7104082009001",
+        "url": "71\/7104\/710408\/7104082009\/7104082009001.json",
+        "nama": "TPS 001, BANNADA, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082004",
+        "tps": "7104082004001",
+        "url": "71\/7104\/710408\/7104082004\/7104082004001.json",
+        "nama": "TPS 001, G E M E H, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082010",
+        "tps": "7104082010001",
+        "url": "71\/7104\/710408\/7104082010\/7104082010001.json",
+        "nama": "TPS 001, GEMEH RAAMATA, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082011",
+        "tps": "7104082011001",
+        "url": "71\/7104\/710408\/7104082011\/7104082011001.json",
+        "nama": "TPS 001, GEMEH WANTANE, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082015",
+        "tps": "7104082015001",
+        "url": "71\/7104\/710408\/7104082015\/7104082015001.json",
+        "nama": "TPS 001, LAHU, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082015",
+        "tps": "7104082015002",
+        "url": "71\/7104\/710408\/7104082015\/7104082015002.json",
+        "nama": "TPS 002, LAHU, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082006",
+        "tps": "7104082006001",
+        "url": "71\/7104\/710408\/7104082006\/7104082006001.json",
+        "nama": "TPS 001, MALAT, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082006",
+        "tps": "7104082006002",
+        "url": "71\/7104\/710408\/7104082006\/7104082006002.json",
+        "nama": "TPS 002, MALAT, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082013",
+        "tps": "7104082013001",
+        "url": "71\/7104\/710408\/7104082013\/7104082013001.json",
+        "nama": "TPS 001, MALAT UTARA, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082001",
+        "tps": "7104082001001",
+        "url": "71\/7104\/710408\/7104082001\/7104082001001.json",
+        "nama": "TPS 001, MAMAHAN, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082001",
+        "tps": "7104082001002",
+        "url": "71\/7104\/710408\/7104082001\/7104082001002.json",
+        "nama": "TPS 002, MAMAHAN, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082014",
+        "tps": "7104082014001",
+        "url": "71\/7104\/710408\/7104082014\/7104082014001.json",
+        "nama": "TPS 001, MAMAHAN BARAT, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082014",
+        "tps": "7104082014002",
+        "url": "71\/7104\/710408\/7104082014\/7104082014002.json",
+        "nama": "TPS 002, MAMAHAN BARAT, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082008",
+        "tps": "7104082008001",
+        "url": "71\/7104\/710408\/7104082008\/7104082008001.json",
+        "nama": "TPS 001, TARUAN, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082008",
+        "tps": "7104082008002",
+        "url": "71\/7104\/710408\/7104082008\/7104082008002.json",
+        "nama": "TPS 002, TARUAN, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082003",
+        "tps": "7104082003001",
+        "url": "71\/7104\/710408\/7104082003\/7104082003001.json",
+        "nama": "TPS 001, TATURAN, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710408",
+        "desa": "7104082003",
+        "tps": "7104082003002",
+        "url": "71\/7104\/710408\/7104082003\/7104082003002.json",
+        "nama": "TPS 002, TATURAN, GEMEH, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062007",
+        "tps": "7104062007001",
+        "url": "71\/7104\/710406\/7104062007\/7104062007001.json",
+        "nama": "TPS 001, BULUDE, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062007",
+        "tps": "7104062007002",
+        "url": "71\/7104\/710406\/7104062007\/7104062007002.json",
+        "nama": "TPS 002, BULUDE, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062020",
+        "tps": "7104062020001",
+        "url": "71\/7104\/710406\/7104062020\/7104062020001.json",
+        "nama": "TPS 001, BULUDE SELATAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062020",
+        "tps": "7104062020002",
+        "url": "71\/7104\/710406\/7104062020\/7104062020002.json",
+        "nama": "TPS 002, BULUDE SELATAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062009",
+        "tps": "7104062009001",
+        "url": "71\/7104\/710406\/7104062009\/7104062009001.json",
+        "nama": "TPS 001, KABARUAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062009",
+        "tps": "7104062009002",
+        "url": "71\/7104\/710406\/7104062009\/7104062009002.json",
+        "nama": "TPS 002, KABARUAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062017",
+        "tps": "7104062017001",
+        "url": "71\/7104\/710406\/7104062017\/7104062017001.json",
+        "nama": "TPS 001, KABARUAN TIMUR, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062017",
+        "tps": "7104062017002",
+        "url": "71\/7104\/710406\/7104062017\/7104062017002.json",
+        "nama": "TPS 002, KABARUAN TIMUR, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062011",
+        "tps": "7104062011001",
+        "url": "71\/7104\/710406\/7104062011\/7104062011001.json",
+        "nama": "TPS 001, KORDAKEL, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062011",
+        "tps": "7104062011002",
+        "url": "71\/7104\/710406\/7104062011\/7104062011002.json",
+        "nama": "TPS 002, KORDAKEL, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062010",
+        "tps": "7104062010001",
+        "url": "71\/7104\/710406\/7104062010\/7104062010001.json",
+        "nama": "TPS 001, MANGARAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062010",
+        "tps": "7104062010002",
+        "url": "71\/7104\/710406\/7104062010\/7104062010002.json",
+        "nama": "TPS 002, MANGARAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062001",
+        "tps": "7104062001001",
+        "url": "71\/7104\/710406\/7104062001\/7104062001001.json",
+        "nama": "TPS 001, PANGERAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062001",
+        "tps": "7104062001002",
+        "url": "71\/7104\/710406\/7104062001\/7104062001002.json",
+        "nama": "TPS 002, PANGERAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062019",
+        "tps": "7104062019001",
+        "url": "71\/7104\/710406\/7104062019\/7104062019001.json",
+        "nama": "TPS 001, PANNULAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062019",
+        "tps": "7104062019002",
+        "url": "71\/7104\/710406\/7104062019\/7104062019002.json",
+        "nama": "TPS 002, PANNULAN, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062008",
+        "tps": "7104062008001",
+        "url": "71\/7104\/710406\/7104062008\/7104062008001.json",
+        "nama": "TPS 001, PANTUGE, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062008",
+        "tps": "7104062008002",
+        "url": "71\/7104\/710406\/7104062008\/7104062008002.json",
+        "nama": "TPS 002, PANTUGE, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062018",
+        "tps": "7104062018001",
+        "url": "71\/7104\/710406\/7104062018\/7104062018001.json",
+        "nama": "TPS 001, PANTUGE TIMUR, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062012",
+        "tps": "7104062012001",
+        "url": "71\/7104\/710406\/7104062012\/7104062012001.json",
+        "nama": "TPS 001, RARANGE, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062012",
+        "tps": "7104062012002",
+        "url": "71\/7104\/710406\/7104062012\/7104062012002.json",
+        "nama": "TPS 002, RARANGE, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062013",
+        "tps": "7104062013001",
+        "url": "71\/7104\/710406\/7104062013\/7104062013001.json",
+        "nama": "TPS 001, TADUNA, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062013",
+        "tps": "7104062013002",
+        "url": "71\/7104\/710406\/7104062013\/7104062013002.json",
+        "nama": "TPS 002, TADUNA, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710406",
+        "desa": "7104062013",
+        "tps": "7104062013003",
+        "url": "71\/7104\/710406\/7104062013\/7104062013003.json",
+        "nama": "TPS 003, TADUNA, KABARUAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122004",
+        "tps": "7104122004001",
+        "url": "71\/7104\/710412\/7104122004\/7104122004001.json",
+        "nama": "TPS 001, ALUDE, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122004",
+        "tps": "7104122004002",
+        "url": "71\/7104\/710412\/7104122004\/7104122004002.json",
+        "nama": "TPS 002, ALUDE, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122001",
+        "tps": "7104122001001",
+        "url": "71\/7104\/710412\/7104122001\/7104122001001.json",
+        "nama": "TPS 001, KALONGAN, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122001",
+        "tps": "7104122001002",
+        "url": "71\/7104\/710412\/7104122001\/7104122001002.json",
+        "nama": "TPS 002, KALONGAN, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122001",
+        "tps": "7104122001003",
+        "url": "71\/7104\/710412\/7104122001\/7104122001003.json",
+        "nama": "TPS 003, KALONGAN, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122001",
+        "tps": "7104122001004",
+        "url": "71\/7104\/710412\/7104122001\/7104122001004.json",
+        "nama": "TPS 004, KALONGAN, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122003",
+        "tps": "7104122003001",
+        "url": "71\/7104\/710412\/7104122003\/7104122003001.json",
+        "nama": "TPS 001, KALONGAN SELATAN, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122003",
+        "tps": "7104122003002",
+        "url": "71\/7104\/710412\/7104122003\/7104122003002.json",
+        "nama": "TPS 002, KALONGAN SELATAN, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122002",
+        "tps": "7104122002001",
+        "url": "71\/7104\/710412\/7104122002\/7104122002001.json",
+        "nama": "TPS 001, KALONGAN UTARA, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122002",
+        "tps": "7104122002002",
+        "url": "71\/7104\/710412\/7104122002\/7104122002002.json",
+        "nama": "TPS 002, KALONGAN UTARA, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122005",
+        "tps": "7104122005001",
+        "url": "71\/7104\/710412\/7104122005\/7104122005001.json",
+        "nama": "TPS 001, MUSI I, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710412",
+        "desa": "7104122005",
+        "tps": "7104122005002",
+        "url": "71\/7104\/710412\/7104122005\/7104122005002.json",
+        "nama": "TPS 002, MUSI I, KALONGAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011005",
+        "tps": "7104011005001",
+        "url": "71\/7104\/710401\/7104011005\/7104011005001.json",
+        "nama": "TPS 001, LIRUNG, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011005",
+        "tps": "7104011005002",
+        "url": "71\/7104\/710401\/7104011005\/7104011005002.json",
+        "nama": "TPS 002, LIRUNG, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011005",
+        "tps": "7104011005003",
+        "url": "71\/7104\/710401\/7104011005\/7104011005003.json",
+        "nama": "TPS 003, LIRUNG, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011024",
+        "tps": "7104011024001",
+        "url": "71\/7104\/710401\/7104011024\/7104011024001.json",
+        "nama": "TPS 001, LIRUNG MATANE, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011024",
+        "tps": "7104011024002",
+        "url": "71\/7104\/710401\/7104011024\/7104011024002.json",
+        "nama": "TPS 002, LIRUNG MATANE, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011024",
+        "tps": "7104011024003",
+        "url": "71\/7104\/710401\/7104011024\/7104011024003.json",
+        "nama": "TPS 003, LIRUNG MATANE, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011011",
+        "tps": "7104011011001",
+        "url": "71\/7104\/710401\/7104011011\/7104011011001.json",
+        "nama": "TPS 001, LIRUNG SATU, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011011",
+        "tps": "7104011011002",
+        "url": "71\/7104\/710401\/7104011011\/7104011011002.json",
+        "nama": "TPS 002, LIRUNG SATU, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011011",
+        "tps": "7104011011003",
+        "url": "71\/7104\/710401\/7104011011\/7104011011003.json",
+        "nama": "TPS 003, LIRUNG SATU, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011011",
+        "tps": "7104011011004",
+        "url": "71\/7104\/710401\/7104011011\/7104011011004.json",
+        "nama": "TPS 004, LIRUNG SATU, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011011",
+        "tps": "7104011011005",
+        "url": "71\/7104\/710401\/7104011011\/7104011011005.json",
+        "nama": "TPS 005, LIRUNG SATU, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104011011",
+        "tps": "7104011011006",
+        "url": "71\/7104\/710401\/7104011011\/7104011011006.json",
+        "nama": "TPS 006, LIRUNG SATU, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012007",
+        "tps": "7104012007001",
+        "url": "71\/7104\/710401\/7104012007\/7104012007001.json",
+        "nama": "TPS 001, MUSI, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012007",
+        "tps": "7104012007002",
+        "url": "71\/7104\/710401\/7104012007\/7104012007002.json",
+        "nama": "TPS 002, MUSI, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012006",
+        "tps": "7104012006001",
+        "url": "71\/7104\/710401\/7104012006\/7104012006001.json",
+        "nama": "TPS 001, SEREH, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012006",
+        "tps": "7104012006002",
+        "url": "71\/7104\/710401\/7104012006\/7104012006002.json",
+        "nama": "TPS 002, SEREH, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012006",
+        "tps": "7104012006003",
+        "url": "71\/7104\/710401\/7104012006\/7104012006003.json",
+        "nama": "TPS 003, SEREH, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012017",
+        "tps": "7104012017001",
+        "url": "71\/7104\/710401\/7104012017\/7104012017001.json",
+        "nama": "TPS 001, SEREH I, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012017",
+        "tps": "7104012017002",
+        "url": "71\/7104\/710401\/7104012017\/7104012017002.json",
+        "nama": "TPS 002, SEREH I, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012015",
+        "tps": "7104012015001",
+        "url": "71\/7104\/710401\/7104012015\/7104012015001.json",
+        "nama": "TPS 001, TALOLANG, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012015",
+        "tps": "7104012015002",
+        "url": "71\/7104\/710401\/7104012015\/7104012015002.json",
+        "nama": "TPS 002, TALOLANG, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710401",
+        "desa": "7104012015",
+        "tps": "7104012015003",
+        "url": "71\/7104\/710401\/7104012015\/7104012015003.json",
+        "nama": "TPS 003, TALOLANG, LIRUNG, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072008",
+        "tps": "7104072008001",
+        "url": "71\/7104\/710407\/7104072008\/7104072008001.json",
+        "nama": "TPS 001, AMBELA, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072003",
+        "tps": "7104072003001",
+        "url": "71\/7104\/710407\/7104072003\/7104072003001.json",
+        "nama": "TPS 001, KIAMA, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072003",
+        "tps": "7104072003002",
+        "url": "71\/7104\/710407\/7104072003\/7104072003002.json",
+        "nama": "TPS 002, KIAMA, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072012",
+        "tps": "7104072012001",
+        "url": "71\/7104\/710407\/7104072012\/7104072012001.json",
+        "nama": "TPS 001, KIAMA BARAT, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072012",
+        "tps": "7104072012002",
+        "url": "71\/7104\/710407\/7104072012\/7104072012002.json",
+        "nama": "TPS 002, KIAMA BARAT, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072002",
+        "tps": "7104072002001",
+        "url": "71\/7104\/710407\/7104072002\/7104072002001.json",
+        "nama": "TPS 001, MALA, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072002",
+        "tps": "7104072002002",
+        "url": "71\/7104\/710407\/7104072002\/7104072002002.json",
+        "nama": "TPS 002, MALA, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072017",
+        "tps": "7104072017001",
+        "url": "71\/7104\/710407\/7104072017\/7104072017001.json",
+        "nama": "TPS 001, MALA TIMUR, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072017",
+        "tps": "7104072017002",
+        "url": "71\/7104\/710407\/7104072017\/7104072017002.json",
+        "nama": "TPS 002, MALA TIMUR, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072015",
+        "tps": "7104072015001",
+        "url": "71\/7104\/710407\/7104072015\/7104072015001.json",
+        "nama": "TPS 001, MAREDAREN KIAMA, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071001",
+        "tps": "7104071001001",
+        "url": "71\/7104\/710407\/7104071001\/7104071001001.json",
+        "nama": "TPS 001, MELONGUANE, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071001",
+        "tps": "7104071001002",
+        "url": "71\/7104\/710407\/7104071001\/7104071001002.json",
+        "nama": "TPS 002, MELONGUANE, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071001",
+        "tps": "7104071001003",
+        "url": "71\/7104\/710407\/7104071001\/7104071001003.json",
+        "nama": "TPS 003, MELONGUANE, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071001",
+        "tps": "7104071001004",
+        "url": "71\/7104\/710407\/7104071001\/7104071001004.json",
+        "nama": "TPS 004, MELONGUANE, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071001",
+        "tps": "7104071001005",
+        "url": "71\/7104\/710407\/7104071001\/7104071001005.json",
+        "nama": "TPS 005, MELONGUANE, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071010",
+        "tps": "7104071010001",
+        "url": "71\/7104\/710407\/7104071010\/7104071010001.json",
+        "nama": "TPS 001, MELONGUANE BARAT, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071010",
+        "tps": "7104071010002",
+        "url": "71\/7104\/710407\/7104071010\/7104071010002.json",
+        "nama": "TPS 002, MELONGUANE BARAT, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071010",
+        "tps": "7104071010003",
+        "url": "71\/7104\/710407\/7104071010\/7104071010003.json",
+        "nama": "TPS 003, MELONGUANE BARAT, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071010",
+        "tps": "7104071010004",
+        "url": "71\/7104\/710407\/7104071010\/7104071010004.json",
+        "nama": "TPS 004, MELONGUANE BARAT, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071010",
+        "tps": "7104071010005",
+        "url": "71\/7104\/710407\/7104071010\/7104071010005.json",
+        "nama": "TPS 005, MELONGUANE BARAT, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071010",
+        "tps": "7104071010006",
+        "url": "71\/7104\/710407\/7104071010\/7104071010006.json",
+        "nama": "TPS 006, MELONGUANE BARAT, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071010",
+        "tps": "7104071010007",
+        "url": "71\/7104\/710407\/7104071010\/7104071010007.json",
+        "nama": "TPS 007, MELONGUANE BARAT, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071009",
+        "tps": "7104071009001",
+        "url": "71\/7104\/710407\/7104071009\/7104071009001.json",
+        "nama": "TPS 001, MELONGUANE TIMUR, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071009",
+        "tps": "7104071009002",
+        "url": "71\/7104\/710407\/7104071009\/7104071009002.json",
+        "nama": "TPS 002, MELONGUANE TIMUR, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071009",
+        "tps": "7104071009003",
+        "url": "71\/7104\/710407\/7104071009\/7104071009003.json",
+        "nama": "TPS 003, MELONGUANE TIMUR, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071009",
+        "tps": "7104071009004",
+        "url": "71\/7104\/710407\/7104071009\/7104071009004.json",
+        "nama": "TPS 004, MELONGUANE TIMUR, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071009",
+        "tps": "7104071009005",
+        "url": "71\/7104\/710407\/7104071009\/7104071009005.json",
+        "nama": "TPS 005, MELONGUANE TIMUR, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071009",
+        "tps": "7104071009006",
+        "url": "71\/7104\/710407\/7104071009\/7104071009006.json",
+        "nama": "TPS 006, MELONGUANE TIMUR, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104071009",
+        "tps": "7104071009007",
+        "url": "71\/7104\/710407\/7104071009\/7104071009007.json",
+        "nama": "TPS 007, MELONGUANE TIMUR, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072007",
+        "tps": "7104072007001",
+        "url": "71\/7104\/710407\/7104072007\/7104072007001.json",
+        "nama": "TPS 001, SAWANG, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072007",
+        "tps": "7104072007002",
+        "url": "71\/7104\/710407\/7104072007\/7104072007002.json",
+        "nama": "TPS 002, SAWANG, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072016",
+        "tps": "7104072016001",
+        "url": "71\/7104\/710407\/7104072016\/7104072016001.json",
+        "nama": "TPS 001, SAWANG UTARA, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072016",
+        "tps": "7104072016002",
+        "url": "71\/7104\/710407\/7104072016\/7104072016002.json",
+        "nama": "TPS 002, SAWANG UTARA, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072006",
+        "tps": "7104072006001",
+        "url": "71\/7104\/710407\/7104072006\/7104072006001.json",
+        "nama": "TPS 001, TARUN, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072006",
+        "tps": "7104072006002",
+        "url": "71\/7104\/710407\/7104072006\/7104072006002.json",
+        "nama": "TPS 002, TARUN, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072006",
+        "tps": "7104072006003",
+        "url": "71\/7104\/710407\/7104072006\/7104072006003.json",
+        "nama": "TPS 003, TARUN, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072011",
+        "tps": "7104072011001",
+        "url": "71\/7104\/710407\/7104072011\/7104072011001.json",
+        "nama": "TPS 001, TARUN SELATAN, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710407",
+        "desa": "7104072011",
+        "tps": "7104072011002",
+        "url": "71\/7104\/710407\/7104072011\/7104072011002.json",
+        "nama": "TPS 002, TARUN SELATAN, MELONGUANE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162004",
+        "tps": "7104162004001",
+        "url": "71\/7104\/710416\/7104162004\/7104162004001.json",
+        "nama": "TPS 001, BOWOMBARU, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162004",
+        "tps": "7104162004002",
+        "url": "71\/7104\/710416\/7104162004\/7104162004002.json",
+        "nama": "TPS 002, BOWOMBARU, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162004",
+        "tps": "7104162004003",
+        "url": "71\/7104\/710416\/7104162004\/7104162004003.json",
+        "nama": "TPS 003, BOWOMBARU, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162005",
+        "tps": "7104162005001",
+        "url": "71\/7104\/710416\/7104162005\/7104162005001.json",
+        "nama": "TPS 001, BOWOMBARU TENGAH, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162005",
+        "tps": "7104162005002",
+        "url": "71\/7104\/710416\/7104162005\/7104162005002.json",
+        "nama": "TPS 002, BOWOMBARU TENGAH, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162006",
+        "tps": "7104162006001",
+        "url": "71\/7104\/710416\/7104162006\/7104162006001.json",
+        "nama": "TPS 001, BOWOMBARU UTARA, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162006",
+        "tps": "7104162006002",
+        "url": "71\/7104\/710416\/7104162006\/7104162006002.json",
+        "nama": "TPS 002, BOWOMBARU UTARA, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162006",
+        "tps": "7104162006003",
+        "url": "71\/7104\/710416\/7104162006\/7104162006003.json",
+        "nama": "TPS 003, BOWOMBARU UTARA, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162001",
+        "tps": "7104162001001",
+        "url": "71\/7104\/710416\/7104162001\/7104162001001.json",
+        "nama": "TPS 001, TULE, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162001",
+        "tps": "7104162001002",
+        "url": "71\/7104\/710416\/7104162001\/7104162001002.json",
+        "nama": "TPS 002, TULE, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162002",
+        "tps": "7104162002001",
+        "url": "71\/7104\/710416\/7104162002\/7104162002001.json",
+        "nama": "TPS 001, TULE TENGAH, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162002",
+        "tps": "7104162002002",
+        "url": "71\/7104\/710416\/7104162002\/7104162002002.json",
+        "nama": "TPS 002, TULE TENGAH, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162003",
+        "tps": "7104162003001",
+        "url": "71\/7104\/710416\/7104162003\/7104162003001.json",
+        "nama": "TPS 001, TULE UTARA, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710416",
+        "desa": "7104162003",
+        "tps": "7104162003002",
+        "url": "71\/7104\/710416\/7104162003\/7104162003002.json",
+        "nama": "TPS 002, TULE UTARA, MELONGUANE TIMUR, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710413",
+        "desa": "7104132001",
+        "tps": "7104132001001",
+        "url": "71\/7104\/710413\/7104132001\/7104132001001.json",
+        "nama": "TPS 001, PULAU MIANGAS, MIANGAS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710413",
+        "desa": "7104132001",
+        "tps": "7104132001002",
+        "url": "71\/7104\/710413\/7104132001\/7104132001002.json",
+        "nama": "TPS 002, PULAU MIANGAS, MIANGAS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710413",
+        "desa": "7104132001",
+        "tps": "7104132001003",
+        "url": "71\/7104\/710413\/7104132001\/7104132001003.json",
+        "nama": "TPS 003, PULAU MIANGAS, MIANGAS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172001",
+        "tps": "7104172001001",
+        "url": "71\/7104\/710417\/7104172001\/7104172001001.json",
+        "nama": "TPS 001, MORONGE, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172001",
+        "tps": "7104172001002",
+        "url": "71\/7104\/710417\/7104172001\/7104172001002.json",
+        "nama": "TPS 002, MORONGE, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172001",
+        "tps": "7104172001003",
+        "url": "71\/7104\/710417\/7104172001\/7104172001003.json",
+        "nama": "TPS 003, MORONGE, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172002",
+        "tps": "7104172002001",
+        "url": "71\/7104\/710417\/7104172002\/7104172002001.json",
+        "nama": "TPS 001, MORONGE I, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172002",
+        "tps": "7104172002002",
+        "url": "71\/7104\/710417\/7104172002\/7104172002002.json",
+        "nama": "TPS 002, MORONGE I, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172003",
+        "tps": "7104172003001",
+        "url": "71\/7104\/710417\/7104172003\/7104172003001.json",
+        "nama": "TPS 001, MORONGE II, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172003",
+        "tps": "7104172003002",
+        "url": "71\/7104\/710417\/7104172003\/7104172003002.json",
+        "nama": "TPS 002, MORONGE II, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172004",
+        "tps": "7104172004001",
+        "url": "71\/7104\/710417\/7104172004\/7104172004001.json",
+        "nama": "TPS 001, MORONGE SELATAN, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172004",
+        "tps": "7104172004002",
+        "url": "71\/7104\/710417\/7104172004\/7104172004002.json",
+        "nama": "TPS 002, MORONGE SELATAN, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172006",
+        "tps": "7104172006001",
+        "url": "71\/7104\/710417\/7104172006\/7104172006001.json",
+        "nama": "TPS 001, MORONGE SELATAN I, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172006",
+        "tps": "7104172006002",
+        "url": "71\/7104\/710417\/7104172006\/7104172006002.json",
+        "nama": "TPS 002, MORONGE SELATAN I, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172005",
+        "tps": "7104172005001",
+        "url": "71\/7104\/710417\/7104172005\/7104172005001.json",
+        "nama": "TPS 001, MORONGE SELATAN II, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172005",
+        "tps": "7104172005002",
+        "url": "71\/7104\/710417\/7104172005\/7104172005002.json",
+        "nama": "TPS 002, MORONGE SELATAN II, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710417",
+        "desa": "7104172005",
+        "tps": "7104172005003",
+        "url": "71\/7104\/710417\/7104172005\/7104172005003.json",
+        "nama": "TPS 003, MORONGE SELATAN II, MORONGE, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052004",
+        "tps": "7104052004001",
+        "url": "71\/7104\/710405\/7104052004\/7104052004001.json",
+        "nama": "TPS 001, DAMPULIS, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052009",
+        "tps": "7104052009001",
+        "url": "71\/7104\/710405\/7104052009\/7104052009001.json",
+        "nama": "TPS 001, DAMPULIS SELATAN, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052001",
+        "tps": "7104052001001",
+        "url": "71\/7104\/710405\/7104052001\/7104052001001.json",
+        "nama": "TPS 001, KAKOROTAN, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052001",
+        "tps": "7104052001002",
+        "url": "71\/7104\/710405\/7104052001\/7104052001002.json",
+        "nama": "TPS 002, KAKOROTAN, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052001",
+        "tps": "7104052001003",
+        "url": "71\/7104\/710405\/7104052001\/7104052001003.json",
+        "nama": "TPS 003, KAKOROTAN, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052005",
+        "tps": "7104052005001",
+        "url": "71\/7104\/710405\/7104052005\/7104052005001.json",
+        "nama": "TPS 001, KARATUNG, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052005",
+        "tps": "7104052005002",
+        "url": "71\/7104\/710405\/7104052005\/7104052005002.json",
+        "nama": "TPS 002, KARATUNG, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052008",
+        "tps": "7104052008001",
+        "url": "71\/7104\/710405\/7104052008\/7104052008001.json",
+        "nama": "TPS 001, KARATUNG SELATAN, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052007",
+        "tps": "7104052007001",
+        "url": "71\/7104\/710405\/7104052007\/7104052007001.json",
+        "nama": "TPS 001, KARATUNG TENGAH, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052007",
+        "tps": "7104052007002",
+        "url": "71\/7104\/710405\/7104052007\/7104052007002.json",
+        "nama": "TPS 002, KARATUNG TENGAH, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052003",
+        "tps": "7104052003001",
+        "url": "71\/7104\/710405\/7104052003\/7104052003001.json",
+        "nama": "TPS 001, LALUHE, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052002",
+        "tps": "7104052002001",
+        "url": "71\/7104\/710405\/7104052002\/7104052002001.json",
+        "nama": "TPS 001, MARAMPIT, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710405",
+        "desa": "7104052010",
+        "tps": "7104052010001",
+        "url": "71\/7104\/710405\/7104052010\/7104052010001.json",
+        "nama": "TPS 001, MARAMPIT TIMUR, NANUSA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152004",
+        "tps": "7104152004001",
+        "url": "71\/7104\/710415\/7104152004\/7104152004001.json",
+        "nama": "TPS 001, DARAN, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152004",
+        "tps": "7104152004002",
+        "url": "71\/7104\/710415\/7104152004\/7104152004002.json",
+        "nama": "TPS 002, DARAN, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152005",
+        "tps": "7104152005001",
+        "url": "71\/7104\/710415\/7104152005\/7104152005001.json",
+        "nama": "TPS 001, DARAN UTARA, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152005",
+        "tps": "7104152005002",
+        "url": "71\/7104\/710415\/7104152005\/7104152005002.json",
+        "nama": "TPS 002, DARAN UTARA, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152001",
+        "tps": "7104152001001",
+        "url": "71\/7104\/710415\/7104152001\/7104152001001.json",
+        "nama": "TPS 001, PULUTAN, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152001",
+        "tps": "7104152001002",
+        "url": "71\/7104\/710415\/7104152001\/7104152001002.json",
+        "nama": "TPS 002, PULUTAN, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152003",
+        "tps": "7104152003001",
+        "url": "71\/7104\/710415\/7104152003\/7104152003001.json",
+        "nama": "TPS 001, PULUTAN SELATAN, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152003",
+        "tps": "7104152003002",
+        "url": "71\/7104\/710415\/7104152003\/7104152003002.json",
+        "nama": "TPS 002, PULUTAN SELATAN, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152002",
+        "tps": "7104152002001",
+        "url": "71\/7104\/710415\/7104152002\/7104152002001.json",
+        "nama": "TPS 001, PULUTAN UTARA, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710415",
+        "desa": "7104152002",
+        "tps": "7104152002002",
+        "url": "71\/7104\/710415\/7104152002\/7104152002002.json",
+        "nama": "TPS 002, PULUTAN UTARA, PULUTAN, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032003",
+        "tps": "7104032003001",
+        "url": "71\/7104\/710403\/7104032003\/7104032003001.json",
+        "nama": "TPS 001, A L O, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032003",
+        "tps": "7104032003002",
+        "url": "71\/7104\/710403\/7104032003\/7104032003002.json",
+        "nama": "TPS 002, A L O, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032003",
+        "tps": "7104032003003",
+        "url": "71\/7104\/710403\/7104032003\/7104032003003.json",
+        "nama": "TPS 003, A L O, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032022",
+        "tps": "7104032022001",
+        "url": "71\/7104\/710403\/7104032022\/7104032022001.json",
+        "nama": "TPS 001, ALO UTARA, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032022",
+        "tps": "7104032022002",
+        "url": "71\/7104\/710403\/7104032022\/7104032022002.json",
+        "nama": "TPS 002, ALO UTARA, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032006",
+        "tps": "7104032006001",
+        "url": "71\/7104\/710403\/7104032006\/7104032006001.json",
+        "nama": "TPS 001, BANTANE, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032006",
+        "tps": "7104032006002",
+        "url": "71\/7104\/710403\/7104032006\/7104032006002.json",
+        "nama": "TPS 002, BANTANE, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032006",
+        "tps": "7104032006003",
+        "url": "71\/7104\/710403\/7104032006\/7104032006003.json",
+        "nama": "TPS 003, BANTANE, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032015",
+        "tps": "7104032015001",
+        "url": "71\/7104\/710403\/7104032015\/7104032015001.json",
+        "nama": "TPS 001, BANTANE UTARA, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032015",
+        "tps": "7104032015002",
+        "url": "71\/7104\/710403\/7104032015\/7104032015002.json",
+        "nama": "TPS 002, BANTANE UTARA, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032004",
+        "tps": "7104032004001",
+        "url": "71\/7104\/710403\/7104032004\/7104032004001.json",
+        "nama": "TPS 001, N U N U, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032004",
+        "tps": "7104032004002",
+        "url": "71\/7104\/710403\/7104032004\/7104032004002.json",
+        "nama": "TPS 002, N U N U, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032020",
+        "tps": "7104032020001",
+        "url": "71\/7104\/710403\/7104032020\/7104032020001.json",
+        "nama": "TPS 001, NUNU UTARA, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032020",
+        "tps": "7104032020002",
+        "url": "71\/7104\/710403\/7104032020\/7104032020002.json",
+        "nama": "TPS 002, NUNU UTARA, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032014",
+        "tps": "7104032014001",
+        "url": "71\/7104\/710403\/7104032014\/7104032014001.json",
+        "nama": "TPS 001, PARANGEN, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032014",
+        "tps": "7104032014002",
+        "url": "71\/7104\/710403\/7104032014\/7104032014002.json",
+        "nama": "TPS 002, PARANGEN, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032005",
+        "tps": "7104032005001",
+        "url": "71\/7104\/710403\/7104032005\/7104032005001.json",
+        "nama": "TPS 001, R A I N I S, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032005",
+        "tps": "7104032005002",
+        "url": "71\/7104\/710403\/7104032005\/7104032005002.json",
+        "nama": "TPS 002, R A I N I S, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032005",
+        "tps": "7104032005003",
+        "url": "71\/7104\/710403\/7104032005\/7104032005003.json",
+        "nama": "TPS 003, R A I N I S, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032021",
+        "tps": "7104032021001",
+        "url": "71\/7104\/710403\/7104032021\/7104032021001.json",
+        "nama": "TPS 001, RAINIS BATUPENGA, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032021",
+        "tps": "7104032021002",
+        "url": "71\/7104\/710403\/7104032021\/7104032021002.json",
+        "nama": "TPS 002, RAINIS BATUPENGA, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032007",
+        "tps": "7104032007001",
+        "url": "71\/7104\/710403\/7104032007\/7104032007001.json",
+        "nama": "TPS 001, TABANG, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032007",
+        "tps": "7104032007002",
+        "url": "71\/7104\/710403\/7104032007\/7104032007002.json",
+        "nama": "TPS 002, TABANG, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032007",
+        "tps": "7104032007003",
+        "url": "71\/7104\/710403\/7104032007\/7104032007003.json",
+        "nama": "TPS 003, TABANG, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032018",
+        "tps": "7104032018001",
+        "url": "71\/7104\/710403\/7104032018\/7104032018001.json",
+        "nama": "TPS 001, TABANG BARAT, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710403",
+        "desa": "7104032018",
+        "tps": "7104032018002",
+        "url": "71\/7104\/710403\/7104032018\/7104032018002.json",
+        "nama": "TPS 002, TABANG BARAT, RAINIS, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112006",
+        "tps": "7104112006001",
+        "url": "71\/7104\/710411\/7104112006\/7104112006001.json",
+        "nama": "TPS 001, BALANG, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112006",
+        "tps": "7104112006002",
+        "url": "71\/7104\/710411\/7104112006\/7104112006002.json",
+        "nama": "TPS 002, BALANG, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112001",
+        "tps": "7104112001001",
+        "url": "71\/7104\/710411\/7104112001\/7104112001001.json",
+        "nama": "TPS 001, BITUNURIS, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112001",
+        "tps": "7104112001002",
+        "url": "71\/7104\/710411\/7104112001\/7104112001002.json",
+        "nama": "TPS 002, BITUNURIS, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112001",
+        "tps": "7104112001003",
+        "url": "71\/7104\/710411\/7104112001\/7104112001003.json",
+        "nama": "TPS 003, BITUNURIS, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112001",
+        "tps": "7104112001004",
+        "url": "71\/7104\/710411\/7104112001\/7104112001004.json",
+        "nama": "TPS 004, BITUNURIS, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112001",
+        "tps": "7104112001005",
+        "url": "71\/7104\/710411\/7104112001\/7104112001005.json",
+        "nama": "TPS 005, BITUNURIS, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112002",
+        "tps": "7104112002001",
+        "url": "71\/7104\/710411\/7104112002\/7104112002001.json",
+        "nama": "TPS 001, BITUNURIS SELATAN, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112002",
+        "tps": "7104112002002",
+        "url": "71\/7104\/710411\/7104112002\/7104112002002.json",
+        "nama": "TPS 002, BITUNURIS SELATAN, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112002",
+        "tps": "7104112002003",
+        "url": "71\/7104\/710411\/7104112002\/7104112002003.json",
+        "nama": "TPS 003, BITUNURIS SELATAN, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112005",
+        "tps": "7104112005001",
+        "url": "71\/7104\/710411\/7104112005\/7104112005001.json",
+        "nama": "TPS 001, DALUM, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112005",
+        "tps": "7104112005002",
+        "url": "71\/7104\/710411\/7104112005\/7104112005002.json",
+        "nama": "TPS 002, DALUM, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112005",
+        "tps": "7104112005003",
+        "url": "71\/7104\/710411\/7104112005\/7104112005003.json",
+        "nama": "TPS 003, DALUM, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112005",
+        "tps": "7104112005004",
+        "url": "71\/7104\/710411\/7104112005\/7104112005004.json",
+        "nama": "TPS 004, DALUM, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112003",
+        "tps": "7104112003001",
+        "url": "71\/7104\/710411\/7104112003\/7104112003001.json",
+        "nama": "TPS 001, SALIBABU, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112003",
+        "tps": "7104112003002",
+        "url": "71\/7104\/710411\/7104112003\/7104112003002.json",
+        "nama": "TPS 002, SALIBABU, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112003",
+        "tps": "7104112003003",
+        "url": "71\/7104\/710411\/7104112003\/7104112003003.json",
+        "nama": "TPS 003, SALIBABU, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112004",
+        "tps": "7104112004001",
+        "url": "71\/7104\/710411\/7104112004\/7104112004001.json",
+        "nama": "TPS 001, SALIBABU UTARA, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112004",
+        "tps": "7104112004002",
+        "url": "71\/7104\/710411\/7104112004\/7104112004002.json",
+        "nama": "TPS 002, SALIBABU UTARA, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710411",
+        "desa": "7104112004",
+        "tps": "7104112004003",
+        "url": "71\/7104\/710411\/7104112004\/7104112004003.json",
+        "nama": "TPS 003, SALIBABU UTARA, SALIBABU, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102004",
+        "tps": "7104102004001",
+        "url": "71\/7104\/710410\/7104102004\/7104102004001.json",
+        "nama": "TPS 001, A M M A T, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102004",
+        "tps": "7104102004002",
+        "url": "71\/7104\/710410\/7104102004\/7104102004002.json",
+        "nama": "TPS 002, A M M A T, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102009",
+        "tps": "7104102009001",
+        "url": "71\/7104\/710410\/7104102009\/7104102009001.json",
+        "nama": "TPS 001, AMMAT SELATAN, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102009",
+        "tps": "7104102009002",
+        "url": "71\/7104\/710410\/7104102009\/7104102009002.json",
+        "nama": "TPS 002, AMMAT SELATAN, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102005",
+        "tps": "7104102005001",
+        "url": "71\/7104\/710410\/7104102005\/7104102005001.json",
+        "nama": "TPS 001, BINALANG, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102005",
+        "tps": "7104102005002",
+        "url": "71\/7104\/710410\/7104102005\/7104102005002.json",
+        "nama": "TPS 002, BINALANG, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102010",
+        "tps": "7104102010001",
+        "url": "71\/7104\/710410\/7104102010\/7104102010001.json",
+        "nama": "TPS 001, BINALANG TIMUR, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102010",
+        "tps": "7104102010002",
+        "url": "71\/7104\/710410\/7104102010\/7104102010002.json",
+        "nama": "TPS 002, BINALANG TIMUR, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102002",
+        "tps": "7104102002001",
+        "url": "71\/7104\/710410\/7104102002\/7104102002001.json",
+        "nama": "TPS 001, DAPALAN, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102002",
+        "tps": "7104102002002",
+        "url": "71\/7104\/710410\/7104102002\/7104102002002.json",
+        "nama": "TPS 002, DAPALAN, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102007",
+        "tps": "7104102007001",
+        "url": "71\/7104\/710410\/7104102007\/7104102007001.json",
+        "nama": "TPS 001, DAPIHE, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102007",
+        "tps": "7104102007002",
+        "url": "71\/7104\/710410\/7104102007\/7104102007002.json",
+        "nama": "TPS 002, DAPIHE, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102007",
+        "tps": "7104102007003",
+        "url": "71\/7104\/710410\/7104102007\/7104102007003.json",
+        "nama": "TPS 003, DAPIHE, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102007",
+        "tps": "7104102007004",
+        "url": "71\/7104\/710410\/7104102007\/7104102007004.json",
+        "nama": "TPS 004, DAPIHE, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102006",
+        "tps": "7104102006001",
+        "url": "71\/7104\/710410\/7104102006\/7104102006001.json",
+        "nama": "TPS 001, GANALO, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102006",
+        "tps": "7104102006002",
+        "url": "71\/7104\/710410\/7104102006\/7104102006002.json",
+        "nama": "TPS 002, GANALO, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102003",
+        "tps": "7104102003001",
+        "url": "71\/7104\/710410\/7104102003\/7104102003001.json",
+        "nama": "TPS 001, R I U N G, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102003",
+        "tps": "7104102003002",
+        "url": "71\/7104\/710410\/7104102003\/7104102003002.json",
+        "nama": "TPS 002, R I U N G, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102011",
+        "tps": "7104102011001",
+        "url": "71\/7104\/710410\/7104102011\/7104102011001.json",
+        "nama": "TPS 001, RIUNG UTARA, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102011",
+        "tps": "7104102011002",
+        "url": "71\/7104\/710410\/7104102011\/7104102011002.json",
+        "nama": "TPS 002, RIUNG UTARA, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102001",
+        "tps": "7104102001001",
+        "url": "71\/7104\/710410\/7104102001\/7104102001001.json",
+        "nama": "TPS 001, TUABATU, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102001",
+        "tps": "7104102001002",
+        "url": "71\/7104\/710410\/7104102001\/7104102001002.json",
+        "nama": "TPS 002, TUABATU, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102008",
+        "tps": "7104102008001",
+        "url": "71\/7104\/710410\/7104102008\/7104102008001.json",
+        "nama": "TPS 001, TUABATU BARAT, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    },
+    {
+        "provinsi": "71",
+        "kabupaten": "7104",
+        "kecamatan": "710410",
+        "desa": "7104102008",
+        "tps": "7104102008002",
+        "url": "71\/7104\/710410\/7104102008\/7104102008002.json",
+        "nama": "TPS 002, TUABATU BARAT, TAMPAN' AMMA, KEPULAUAN TALAUD, SULAWESI UTARA"
+    }
+]

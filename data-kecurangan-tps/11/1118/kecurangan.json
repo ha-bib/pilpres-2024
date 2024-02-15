@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111804",
+        "desa": "1118042037",
+        "tps": "1118042037001",
+        "nama": "TPS 001, KRUENG KIRAN, BANDAR DUA, PIDIE JAYA, ACEH",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1118\/111804\/1118042037\/1118042037001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111805",
+        "desa": "1118052012",
+        "tps": "1118052012002",
+        "nama": "TPS 002, DAYAH KRUET, MEURAH DUA, PIDIE JAYA, ACEH",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1118\/111805\/1118052012\/1118052012002"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111801",
+        "desa": "1118012020",
+        "tps": "1118012020001",
+        "nama": "TPS 001, POHROH, MEUREUDU, PIDIE JAYA, ACEH",
+        "selisih": 110,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1118\/111801\/1118012020\/1118012020001"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1118",
+        "kecamatan": "111802",
+        "desa": "1118022010",
+        "tps": "1118022010002",
+        "nama": "TPS 002, TIJIEN DABOH, ULIM, PIDIE JAYA, ACEH",
+        "selisih": 812,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/11\/1118\/111802\/1118022010\/1118022010002"
+    }
+]

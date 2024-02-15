@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "64",
+        "kabupaten": "6402",
+        "kecamatan": "640215",
+        "desa": "6402151003",
+        "tps": "6402151003013",
+        "nama": "TPS 013, SANGA-SANGA DALAM, SANGA SANGA, KUTAI KARTANEGARA, KALIMANTAN TIMUR",
+        "selisih": 600,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6402\/640215\/6402151003\/6402151003013"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6402",
+        "kecamatan": "640212",
+        "desa": "6402122003",
+        "tps": "6402122003004",
+        "nama": "TPS 004, MUARA RITAN, TABANG, KUTAI KARTANEGARA, KALIMANTAN TIMUR",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6402\/640212\/6402122003\/6402122003004"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6402",
+        "kecamatan": "640212",
+        "desa": "6402122017",
+        "tps": "6402122017001",
+        "nama": "TPS 001, MUARA TUBO, TABANG, KUTAI KARTANEGARA, KALIMANTAN TIMUR",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6402\/640212\/6402122017\/6402122017001"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6402",
+        "kecamatan": "640216",
+        "desa": "6402162008",
+        "tps": "6402162008003",
+        "nama": "TPS 003, BHUANA JAYA, TENGGARONG SEBERANG, KUTAI KARTANEGARA, KALIMANTAN TIMUR",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6402\/640216\/6402162008\/6402162008003"
+    }
+]

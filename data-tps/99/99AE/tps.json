@@ -1,0 +1,353 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001001",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001001.json",
+        "nama": "POS 001, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001002",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001002.json",
+        "nama": "POS 002, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001003",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001003.json",
+        "nama": "POS 003, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001004",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001004.json",
+        "nama": "POS 004, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001005",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001005.json",
+        "nama": "POS 005, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001006",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001006.json",
+        "nama": "POS 006, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001007",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001007.json",
+        "nama": "POS 007, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001008",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001008.json",
+        "nama": "POS 008, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001009",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001009.json",
+        "nama": "POS 009, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001010",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001010.json",
+        "nama": "POS 010, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001011",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001011.json",
+        "nama": "TPS 001, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001012",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001012.json",
+        "nama": "TPS 002, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001013",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001013.json",
+        "nama": "TPS 003, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001014",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001014.json",
+        "nama": "TPS 004, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001015",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001015.json",
+        "nama": "TPS 005, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001016",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001016.json",
+        "nama": "TPS 006, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001017",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001017.json",
+        "nama": "TPS 007, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001018",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001018.json",
+        "nama": "TPS 008, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001019",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001019.json",
+        "nama": "TPS 009, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001020",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001020.json",
+        "nama": "TPS 010, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001021",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001021.json",
+        "nama": "TPS 011, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001022",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001022.json",
+        "nama": "TPS 012, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001023",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001023.json",
+        "nama": "TPS 013, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001024",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001024.json",
+        "nama": "TPS 014, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001025",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001025.json",
+        "nama": "TPS 015, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001026",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001026.json",
+        "nama": "TPS 016, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001027",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001027.json",
+        "nama": "TPS 017, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001028",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001028.json",
+        "nama": "TPS 018, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001029",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001029.json",
+        "nama": "TPS 019, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001030",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001030.json",
+        "nama": "TPS 020, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001031",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001031.json",
+        "nama": "TPS 021, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001032",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001032.json",
+        "nama": "TPS 022, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001033",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001033.json",
+        "nama": "TPS 023, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001034",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001034.json",
+        "nama": "TPS 024, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001035",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001035.json",
+        "nama": "TPS 025, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001036",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001036.json",
+        "nama": "TPS 026, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001037",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001037.json",
+        "nama": "TPS 027, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001038",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001038.json",
+        "nama": "TPS 028, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99AE",
+        "kecamatan": "99AE01",
+        "desa": "99AE010001",
+        "tps": "99AE010001039",
+        "url": "99\/99AE\/99AE01\/99AE010001\/99AE010001039.json",
+        "nama": "TPS 029, Seoul, Korea Selatan, Seoul, Korea Selatan, Seoul, Korea Selatan, Luar Negeri"
+    }
+]

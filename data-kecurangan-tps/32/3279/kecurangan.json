@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "32",
+        "kabupaten": "3279",
+        "kecamatan": "327901",
+        "desa": "3279011002",
+        "tps": "3279011002009",
+        "nama": "TPS 009, MEKARSARI, BANJAR, KOTA BANJAR, JAWA BARAT",
+        "selisih": 649,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3279\/327901\/3279011002\/3279011002009"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3279",
+        "kecamatan": "327904",
+        "desa": "3279041005",
+        "tps": "3279041005005",
+        "nama": "TPS 005, BOJONGKANTONG, LANGENSARI, KOTA BANJAR, JAWA BARAT",
+        "selisih": 50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3279\/327904\/3279041005\/3279041005005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3279",
+        "kecamatan": "327902",
+        "desa": "3279021002",
+        "tps": "3279021002032",
+        "nama": "TPS 032, PATARUMAN, PATARUMAN, KOTA BANJAR, JAWA BARAT",
+        "selisih": 50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3279\/327902\/3279021002\/3279021002032"
+    }
+]

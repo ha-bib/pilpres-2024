@@ -1,0 +1,42 @@
+[
+    {
+        "provinsi": "64",
+        "kabupaten": "6403",
+        "kecamatan": "640306",
+        "desa": "6403062006",
+        "tps": "6403062006004",
+        "nama": "TPS 004, SAMBAKUNGAN, GUNUNG TABUR, BERAU, KALIMANTAN TIMUR",
+        "selisih": -30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6403\/640306\/6403062006\/6403062006004"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6403",
+        "kecamatan": "640307",
+        "desa": "6403072003",
+        "tps": "6403072003010",
+        "nama": "TPS 010, TANJUNG BATU, PULAU DERAWAN, BERAU, KALIMANTAN TIMUR",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6403\/640307\/6403072003\/6403072003010"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6403",
+        "kecamatan": "640302",
+        "desa": "6403022002",
+        "tps": "6403022002001",
+        "nama": "TPS 001, DUMARING, TALISAYAN, BERAU, KALIMANTAN TIMUR",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6403\/640302\/6403022002\/6403022002001"
+    },
+    {
+        "provinsi": "64",
+        "kabupaten": "6403",
+        "kecamatan": "640302",
+        "desa": "6403022003",
+        "tps": "6403022003012",
+        "nama": "TPS 012, TALISAYAN, TALISAYAN, BERAU, KALIMANTAN TIMUR",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/64\/6403\/640302\/6403022003\/6403022003012"
+    }
+]

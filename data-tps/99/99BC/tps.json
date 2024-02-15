@@ -1,0 +1,47 @@
+[
+    {
+        "provinsi": "99",
+        "kabupaten": "99BC",
+        "kecamatan": "99BC01",
+        "desa": "99BC010001",
+        "tps": "99BC010001003",
+        "url": "99\/99BC\/99BC01\/99BC010001\/99BC010001003.json",
+        "nama": "KSK 001, Windhoek, Namibia, Windhoek, Namibia, Windhoek, Namibia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BC",
+        "kecamatan": "99BC01",
+        "desa": "99BC010001",
+        "tps": "99BC010001004",
+        "url": "99\/99BC\/99BC01\/99BC010001\/99BC010001004.json",
+        "nama": "KSK 002, Windhoek, Namibia, Windhoek, Namibia, Windhoek, Namibia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BC",
+        "kecamatan": "99BC01",
+        "desa": "99BC010001",
+        "tps": "99BC010001005",
+        "url": "99\/99BC\/99BC01\/99BC010001\/99BC010001005.json",
+        "nama": "KSK 003, Windhoek, Namibia, Windhoek, Namibia, Windhoek, Namibia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BC",
+        "kecamatan": "99BC01",
+        "desa": "99BC010001",
+        "tps": "99BC010001001",
+        "url": "99\/99BC\/99BC01\/99BC010001\/99BC010001001.json",
+        "nama": "POS 001, Windhoek, Namibia, Windhoek, Namibia, Windhoek, Namibia, Luar Negeri"
+    },
+    {
+        "provinsi": "99",
+        "kabupaten": "99BC",
+        "kecamatan": "99BC01",
+        "desa": "99BC010001",
+        "tps": "99BC010001002",
+        "url": "99\/99BC\/99BC01\/99BC010001\/99BC010001002.json",
+        "nama": "TPS 001, Windhoek, Namibia, Windhoek, Namibia, Windhoek, Namibia, Luar Negeri"
+    }
+]

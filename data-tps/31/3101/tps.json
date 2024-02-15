@@ -1,0 +1,794 @@
+[
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003001",
+        "url": "31\/3101\/310102\/3101021003\/3101021003001.json",
+        "nama": "TPS 001, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003002",
+        "url": "31\/3101\/310102\/3101021003\/3101021003002.json",
+        "nama": "TPS 002, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003003",
+        "url": "31\/3101\/310102\/3101021003\/3101021003003.json",
+        "nama": "TPS 003, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003004",
+        "url": "31\/3101\/310102\/3101021003\/3101021003004.json",
+        "nama": "TPS 004, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003005",
+        "url": "31\/3101\/310102\/3101021003\/3101021003005.json",
+        "nama": "TPS 005, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003006",
+        "url": "31\/3101\/310102\/3101021003\/3101021003006.json",
+        "nama": "TPS 006, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003007",
+        "url": "31\/3101\/310102\/3101021003\/3101021003007.json",
+        "nama": "TPS 007, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003008",
+        "url": "31\/3101\/310102\/3101021003\/3101021003008.json",
+        "nama": "TPS 008, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003009",
+        "url": "31\/3101\/310102\/3101021003\/3101021003009.json",
+        "nama": "TPS 009, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021003",
+        "tps": "3101021003010",
+        "url": "31\/3101\/310102\/3101021003\/3101021003010.json",
+        "nama": "TPS 010, PULAU PARI, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002001",
+        "url": "31\/3101\/310102\/3101021002\/3101021002001.json",
+        "nama": "TPS 001, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002002",
+        "url": "31\/3101\/310102\/3101021002\/3101021002002.json",
+        "nama": "TPS 002, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002003",
+        "url": "31\/3101\/310102\/3101021002\/3101021002003.json",
+        "nama": "TPS 003, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002004",
+        "url": "31\/3101\/310102\/3101021002\/3101021002004.json",
+        "nama": "TPS 004, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002005",
+        "url": "31\/3101\/310102\/3101021002\/3101021002005.json",
+        "nama": "TPS 005, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002006",
+        "url": "31\/3101\/310102\/3101021002\/3101021002006.json",
+        "nama": "TPS 006, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002007",
+        "url": "31\/3101\/310102\/3101021002\/3101021002007.json",
+        "nama": "TPS 007, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002008",
+        "url": "31\/3101\/310102\/3101021002\/3101021002008.json",
+        "nama": "TPS 008, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002009",
+        "url": "31\/3101\/310102\/3101021002\/3101021002009.json",
+        "nama": "TPS 009, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002010",
+        "url": "31\/3101\/310102\/3101021002\/3101021002010.json",
+        "nama": "TPS 010, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002011",
+        "url": "31\/3101\/310102\/3101021002\/3101021002011.json",
+        "nama": "TPS 011, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002012",
+        "url": "31\/3101\/310102\/3101021002\/3101021002012.json",
+        "nama": "TPS 012, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002013",
+        "url": "31\/3101\/310102\/3101021002\/3101021002013.json",
+        "nama": "TPS 013, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002014",
+        "url": "31\/3101\/310102\/3101021002\/3101021002014.json",
+        "nama": "TPS 014, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002015",
+        "url": "31\/3101\/310102\/3101021002\/3101021002015.json",
+        "nama": "TPS 015, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002016",
+        "url": "31\/3101\/310102\/3101021002\/3101021002016.json",
+        "nama": "TPS 016, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002017",
+        "url": "31\/3101\/310102\/3101021002\/3101021002017.json",
+        "nama": "TPS 017, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021002",
+        "tps": "3101021002018",
+        "url": "31\/3101\/310102\/3101021002\/3101021002018.json",
+        "nama": "TPS 018, PULAU TIDUNG, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021001",
+        "tps": "3101021001001",
+        "url": "31\/3101\/310102\/3101021001\/3101021001001.json",
+        "nama": "TPS 001, PULAU UNTUNG JAWA, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021001",
+        "tps": "3101021001002",
+        "url": "31\/3101\/310102\/3101021001\/3101021001002.json",
+        "nama": "TPS 002, PULAU UNTUNG JAWA, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021001",
+        "tps": "3101021001003",
+        "url": "31\/3101\/310102\/3101021001\/3101021001003.json",
+        "nama": "TPS 003, PULAU UNTUNG JAWA, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021001",
+        "tps": "3101021001004",
+        "url": "31\/3101\/310102\/3101021001\/3101021001004.json",
+        "nama": "TPS 004, PULAU UNTUNG JAWA, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021001",
+        "tps": "3101021001005",
+        "url": "31\/3101\/310102\/3101021001\/3101021001005.json",
+        "nama": "TPS 005, PULAU UNTUNG JAWA, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021001",
+        "tps": "3101021001006",
+        "url": "31\/3101\/310102\/3101021001\/3101021001006.json",
+        "nama": "TPS 006, PULAU UNTUNG JAWA, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310102",
+        "desa": "3101021001",
+        "tps": "3101021001007",
+        "url": "31\/3101\/310102\/3101021001\/3101021001007.json",
+        "nama": "TPS 007, PULAU UNTUNG JAWA, KEPULAUAN SERIBU SELATAN., ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011003",
+        "tps": "3101011003001",
+        "url": "31\/3101\/310101\/3101011003\/3101011003001.json",
+        "nama": "TPS 001, PULAU HARAPAN, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011003",
+        "tps": "3101011003002",
+        "url": "31\/3101\/310101\/3101011003\/3101011003002.json",
+        "nama": "TPS 002, PULAU HARAPAN, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011003",
+        "tps": "3101011003003",
+        "url": "31\/3101\/310101\/3101011003\/3101011003003.json",
+        "nama": "TPS 003, PULAU HARAPAN, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011003",
+        "tps": "3101011003004",
+        "url": "31\/3101\/310101\/3101011003\/3101011003004.json",
+        "nama": "TPS 004, PULAU HARAPAN, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011003",
+        "tps": "3101011003005",
+        "url": "31\/3101\/310101\/3101011003\/3101011003005.json",
+        "nama": "TPS 005, PULAU HARAPAN, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011003",
+        "tps": "3101011003006",
+        "url": "31\/3101\/310101\/3101011003\/3101011003006.json",
+        "nama": "TPS 006, PULAU HARAPAN, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011003",
+        "tps": "3101011003007",
+        "url": "31\/3101\/310101\/3101011003\/3101011003007.json",
+        "nama": "TPS 007, PULAU HARAPAN, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011003",
+        "tps": "3101011003008",
+        "url": "31\/3101\/310101\/3101011003\/3101011003008.json",
+        "nama": "TPS 008, PULAU HARAPAN, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002001",
+        "url": "31\/3101\/310101\/3101011002\/3101011002001.json",
+        "nama": "TPS 001, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002002",
+        "url": "31\/3101\/310101\/3101011002\/3101011002002.json",
+        "nama": "TPS 002, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002003",
+        "url": "31\/3101\/310101\/3101011002\/3101011002003.json",
+        "nama": "TPS 003, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002004",
+        "url": "31\/3101\/310101\/3101011002\/3101011002004.json",
+        "nama": "TPS 004, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002005",
+        "url": "31\/3101\/310101\/3101011002\/3101011002005.json",
+        "nama": "TPS 005, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002006",
+        "url": "31\/3101\/310101\/3101011002\/3101011002006.json",
+        "nama": "TPS 006, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002007",
+        "url": "31\/3101\/310101\/3101011002\/3101011002007.json",
+        "nama": "TPS 007, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002008",
+        "url": "31\/3101\/310101\/3101011002\/3101011002008.json",
+        "nama": "TPS 008, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002009",
+        "url": "31\/3101\/310101\/3101011002\/3101011002009.json",
+        "nama": "TPS 009, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002010",
+        "url": "31\/3101\/310101\/3101011002\/3101011002010.json",
+        "nama": "TPS 010, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002011",
+        "url": "31\/3101\/310101\/3101011002\/3101011002011.json",
+        "nama": "TPS 011, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002012",
+        "url": "31\/3101\/310101\/3101011002\/3101011002012.json",
+        "nama": "TPS 012, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002013",
+        "url": "31\/3101\/310101\/3101011002\/3101011002013.json",
+        "nama": "TPS 013, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002014",
+        "url": "31\/3101\/310101\/3101011002\/3101011002014.json",
+        "nama": "TPS 014, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002015",
+        "url": "31\/3101\/310101\/3101011002\/3101011002015.json",
+        "nama": "TPS 015, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002016",
+        "url": "31\/3101\/310101\/3101011002\/3101011002016.json",
+        "nama": "TPS 016, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002017",
+        "url": "31\/3101\/310101\/3101011002\/3101011002017.json",
+        "nama": "TPS 017, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002018",
+        "url": "31\/3101\/310101\/3101011002\/3101011002018.json",
+        "nama": "TPS 018, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002019",
+        "url": "31\/3101\/310101\/3101011002\/3101011002019.json",
+        "nama": "TPS 019, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002901",
+        "url": "31\/3101\/310101\/3101011002\/3101011002901.json",
+        "nama": "TPS 901, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002902",
+        "url": "31\/3101\/310101\/3101011002\/3101011002902.json",
+        "nama": "TPS 902, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002903",
+        "url": "31\/3101\/310101\/3101011002\/3101011002903.json",
+        "nama": "TPS 903, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002904",
+        "url": "31\/3101\/310101\/3101011002\/3101011002904.json",
+        "nama": "TPS 904, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002905",
+        "url": "31\/3101\/310101\/3101011002\/3101011002905.json",
+        "nama": "TPS 905, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002906",
+        "url": "31\/3101\/310101\/3101011002\/3101011002906.json",
+        "nama": "TPS 906, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002907",
+        "url": "31\/3101\/310101\/3101011002\/3101011002907.json",
+        "nama": "TPS 907, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011002",
+        "tps": "3101011002908",
+        "url": "31\/3101\/310101\/3101011002\/3101011002908.json",
+        "nama": "TPS 908, PULAU KELAPA, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001001",
+        "url": "31\/3101\/310101\/3101011001\/3101011001001.json",
+        "nama": "TPS 001, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001002",
+        "url": "31\/3101\/310101\/3101011001\/3101011001002.json",
+        "nama": "TPS 002, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001003",
+        "url": "31\/3101\/310101\/3101011001\/3101011001003.json",
+        "nama": "TPS 003, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001004",
+        "url": "31\/3101\/310101\/3101011001\/3101011001004.json",
+        "nama": "TPS 004, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001005",
+        "url": "31\/3101\/310101\/3101011001\/3101011001005.json",
+        "nama": "TPS 005, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001006",
+        "url": "31\/3101\/310101\/3101011001\/3101011001006.json",
+        "nama": "TPS 006, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001007",
+        "url": "31\/3101\/310101\/3101011001\/3101011001007.json",
+        "nama": "TPS 007, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001008",
+        "url": "31\/3101\/310101\/3101011001\/3101011001008.json",
+        "nama": "TPS 008, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001009",
+        "url": "31\/3101\/310101\/3101011001\/3101011001009.json",
+        "nama": "TPS 009, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001010",
+        "url": "31\/3101\/310101\/3101011001\/3101011001010.json",
+        "nama": "TPS 010, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001011",
+        "url": "31\/3101\/310101\/3101011001\/3101011001011.json",
+        "nama": "TPS 011, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001012",
+        "url": "31\/3101\/310101\/3101011001\/3101011001012.json",
+        "nama": "TPS 012, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001013",
+        "url": "31\/3101\/310101\/3101011001\/3101011001013.json",
+        "nama": "TPS 013, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001014",
+        "url": "31\/3101\/310101\/3101011001\/3101011001014.json",
+        "nama": "TPS 014, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001015",
+        "url": "31\/3101\/310101\/3101011001\/3101011001015.json",
+        "nama": "TPS 015, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001016",
+        "url": "31\/3101\/310101\/3101011001\/3101011001016.json",
+        "nama": "TPS 016, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001017",
+        "url": "31\/3101\/310101\/3101011001\/3101011001017.json",
+        "nama": "TPS 017, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    },
+    {
+        "provinsi": "31",
+        "kabupaten": "3101",
+        "kecamatan": "310101",
+        "desa": "3101011001",
+        "tps": "3101011001018",
+        "url": "31\/3101\/310101\/3101011001\/3101011001018.json",
+        "nama": "TPS 018, PULAU PANGGANG, KEPULAUAN SERIBU UTARA, ADM. KEP. SERIBU, DKI JAKARTA"
+    }
+]

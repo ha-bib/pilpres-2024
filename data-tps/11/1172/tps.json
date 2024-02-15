@@ -1,0 +1,992 @@
+[
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022010",
+        "tps": "1172022010001",
+        "url": "11\/1172\/117202\/1172022010\/1172022010001.json",
+        "nama": "TPS 001, ANOE ITAM, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022010",
+        "tps": "1172022010002",
+        "url": "11\/1172\/117202\/1172022010\/1172022010002.json",
+        "nama": "TPS 002, ANOE ITAM, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005001",
+        "url": "11\/1172\/117202\/1172022005\/1172022005001.json",
+        "nama": "TPS 001, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005002",
+        "url": "11\/1172\/117202\/1172022005\/1172022005002.json",
+        "nama": "TPS 002, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005003",
+        "url": "11\/1172\/117202\/1172022005\/1172022005003.json",
+        "nama": "TPS 003, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005004",
+        "url": "11\/1172\/117202\/1172022005\/1172022005004.json",
+        "nama": "TPS 004, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005005",
+        "url": "11\/1172\/117202\/1172022005\/1172022005005.json",
+        "nama": "TPS 005, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005006",
+        "url": "11\/1172\/117202\/1172022005\/1172022005006.json",
+        "nama": "TPS 006, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005007",
+        "url": "11\/1172\/117202\/1172022005\/1172022005007.json",
+        "nama": "TPS 007, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005008",
+        "url": "11\/1172\/117202\/1172022005\/1172022005008.json",
+        "nama": "TPS 008, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005009",
+        "url": "11\/1172\/117202\/1172022005\/1172022005009.json",
+        "nama": "TPS 009, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022005",
+        "tps": "1172022005010",
+        "url": "11\/1172\/117202\/1172022005\/1172022005010.json",
+        "nama": "TPS 010, BALOHAN, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022006",
+        "tps": "1172022006001",
+        "url": "11\/1172\/117202\/1172022006\/1172022006001.json",
+        "nama": "TPS 001, COT ABEUK, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022006",
+        "tps": "1172022006002",
+        "url": "11\/1172\/117202\/1172022006\/1172022006002.json",
+        "nama": "TPS 002, COT ABEUK, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022006",
+        "tps": "1172022006003",
+        "url": "11\/1172\/117202\/1172022006\/1172022006003.json",
+        "nama": "TPS 003, COT ABEUK, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007001",
+        "url": "11\/1172\/117202\/1172022007\/1172022007001.json",
+        "nama": "TPS 001, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007002",
+        "url": "11\/1172\/117202\/1172022007\/1172022007002.json",
+        "nama": "TPS 002, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007003",
+        "url": "11\/1172\/117202\/1172022007\/1172022007003.json",
+        "nama": "TPS 003, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007004",
+        "url": "11\/1172\/117202\/1172022007\/1172022007004.json",
+        "nama": "TPS 004, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007005",
+        "url": "11\/1172\/117202\/1172022007\/1172022007005.json",
+        "nama": "TPS 005, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007006",
+        "url": "11\/1172\/117202\/1172022007\/1172022007006.json",
+        "nama": "TPS 006, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007007",
+        "url": "11\/1172\/117202\/1172022007\/1172022007007.json",
+        "nama": "TPS 007, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007008",
+        "url": "11\/1172\/117202\/1172022007\/1172022007008.json",
+        "nama": "TPS 008, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007009",
+        "url": "11\/1172\/117202\/1172022007\/1172022007009.json",
+        "nama": "TPS 009, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007010",
+        "url": "11\/1172\/117202\/1172022007\/1172022007010.json",
+        "nama": "TPS 010, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007011",
+        "url": "11\/1172\/117202\/1172022007\/1172022007011.json",
+        "nama": "TPS 011, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007012",
+        "url": "11\/1172\/117202\/1172022007\/1172022007012.json",
+        "nama": "TPS 012, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007013",
+        "url": "11\/1172\/117202\/1172022007\/1172022007013.json",
+        "nama": "TPS 013, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007014",
+        "url": "11\/1172\/117202\/1172022007\/1172022007014.json",
+        "nama": "TPS 014, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007015",
+        "url": "11\/1172\/117202\/1172022007\/1172022007015.json",
+        "nama": "TPS 015, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007016",
+        "url": "11\/1172\/117202\/1172022007\/1172022007016.json",
+        "nama": "TPS 016, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007017",
+        "url": "11\/1172\/117202\/1172022007\/1172022007017.json",
+        "nama": "TPS 017, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007018",
+        "url": "11\/1172\/117202\/1172022007\/1172022007018.json",
+        "nama": "TPS 018, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007019",
+        "url": "11\/1172\/117202\/1172022007\/1172022007019.json",
+        "nama": "TPS 019, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022007",
+        "tps": "1172022007020",
+        "url": "11\/1172\/117202\/1172022007\/1172022007020.json",
+        "nama": "TPS 020, COT BA U, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008001",
+        "url": "11\/1172\/117202\/1172022008\/1172022008001.json",
+        "nama": "TPS 001, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008002",
+        "url": "11\/1172\/117202\/1172022008\/1172022008002.json",
+        "nama": "TPS 002, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008003",
+        "url": "11\/1172\/117202\/1172022008\/1172022008003.json",
+        "nama": "TPS 003, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008004",
+        "url": "11\/1172\/117202\/1172022008\/1172022008004.json",
+        "nama": "TPS 004, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008005",
+        "url": "11\/1172\/117202\/1172022008\/1172022008005.json",
+        "nama": "TPS 005, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008006",
+        "url": "11\/1172\/117202\/1172022008\/1172022008006.json",
+        "nama": "TPS 006, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008007",
+        "url": "11\/1172\/117202\/1172022008\/1172022008007.json",
+        "nama": "TPS 007, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008008",
+        "url": "11\/1172\/117202\/1172022008\/1172022008008.json",
+        "nama": "TPS 008, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008009",
+        "url": "11\/1172\/117202\/1172022008\/1172022008009.json",
+        "nama": "TPS 009, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008010",
+        "url": "11\/1172\/117202\/1172022008\/1172022008010.json",
+        "nama": "TPS 010, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008011",
+        "url": "11\/1172\/117202\/1172022008\/1172022008011.json",
+        "nama": "TPS 011, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022008",
+        "tps": "1172022008012",
+        "url": "11\/1172\/117202\/1172022008\/1172022008012.json",
+        "nama": "TPS 012, IE MEULEE, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022004",
+        "tps": "1172022004001",
+        "url": "11\/1172\/117202\/1172022004\/1172022004001.json",
+        "nama": "TPS 001, JABOI, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022004",
+        "tps": "1172022004002",
+        "url": "11\/1172\/117202\/1172022004\/1172022004002.json",
+        "nama": "TPS 002, JABOI, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022009",
+        "tps": "1172022009001",
+        "url": "11\/1172\/117202\/1172022009\/1172022009001.json",
+        "nama": "TPS 001, UJOENG KAREUNG, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117202",
+        "desa": "1172022009",
+        "tps": "1172022009002",
+        "url": "11\/1172\/117202\/1172022009\/1172022009002.json",
+        "nama": "TPS 002, UJOENG KAREUNG, SUKAJAYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012005",
+        "tps": "1172012005001",
+        "url": "11\/1172\/117201\/1172012005\/1172012005001.json",
+        "nama": "TPS 001, ANEUK LAOT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012005",
+        "tps": "1172012005002",
+        "url": "11\/1172\/117201\/1172012005\/1172012005002.json",
+        "nama": "TPS 002, ANEUK LAOT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012005",
+        "tps": "1172012005003",
+        "url": "11\/1172\/117201\/1172012005\/1172012005003.json",
+        "nama": "TPS 003, ANEUK LAOT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012004",
+        "tps": "1172012004001",
+        "url": "11\/1172\/117201\/1172012004\/1172012004001.json",
+        "nama": "TPS 001, KRUENG RAYA, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012004",
+        "tps": "1172012004002",
+        "url": "11\/1172\/117201\/1172012004\/1172012004002.json",
+        "nama": "TPS 002, KRUENG RAYA, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012004",
+        "tps": "1172012004003",
+        "url": "11\/1172\/117201\/1172012004\/1172012004003.json",
+        "nama": "TPS 003, KRUENG RAYA, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012004",
+        "tps": "1172012004004",
+        "url": "11\/1172\/117201\/1172012004\/1172012004004.json",
+        "nama": "TPS 004, KRUENG RAYA, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012004",
+        "tps": "1172012004005",
+        "url": "11\/1172\/117201\/1172012004\/1172012004005.json",
+        "nama": "TPS 005, KRUENG RAYA, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008001",
+        "url": "11\/1172\/117201\/1172012008\/1172012008001.json",
+        "nama": "TPS 001, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008002",
+        "url": "11\/1172\/117201\/1172012008\/1172012008002.json",
+        "nama": "TPS 002, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008003",
+        "url": "11\/1172\/117201\/1172012008\/1172012008003.json",
+        "nama": "TPS 003, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008004",
+        "url": "11\/1172\/117201\/1172012008\/1172012008004.json",
+        "nama": "TPS 004, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008005",
+        "url": "11\/1172\/117201\/1172012008\/1172012008005.json",
+        "nama": "TPS 005, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008006",
+        "url": "11\/1172\/117201\/1172012008\/1172012008006.json",
+        "nama": "TPS 006, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008007",
+        "url": "11\/1172\/117201\/1172012008\/1172012008007.json",
+        "nama": "TPS 007, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008008",
+        "url": "11\/1172\/117201\/1172012008\/1172012008008.json",
+        "nama": "TPS 008, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008009",
+        "url": "11\/1172\/117201\/1172012008\/1172012008009.json",
+        "nama": "TPS 009, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008010",
+        "url": "11\/1172\/117201\/1172012008\/1172012008010.json",
+        "nama": "TPS 010, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012008",
+        "tps": "1172012008011",
+        "url": "11\/1172\/117201\/1172012008\/1172012008011.json",
+        "nama": "TPS 011, KUTA ATEUH, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007001",
+        "url": "11\/1172\/117201\/1172012007\/1172012007001.json",
+        "nama": "TPS 001, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007002",
+        "url": "11\/1172\/117201\/1172012007\/1172012007002.json",
+        "nama": "TPS 002, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007003",
+        "url": "11\/1172\/117201\/1172012007\/1172012007003.json",
+        "nama": "TPS 003, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007004",
+        "url": "11\/1172\/117201\/1172012007\/1172012007004.json",
+        "nama": "TPS 004, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007005",
+        "url": "11\/1172\/117201\/1172012007\/1172012007005.json",
+        "nama": "TPS 005, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007006",
+        "url": "11\/1172\/117201\/1172012007\/1172012007006.json",
+        "nama": "TPS 006, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007007",
+        "url": "11\/1172\/117201\/1172012007\/1172012007007.json",
+        "nama": "TPS 007, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007008",
+        "url": "11\/1172\/117201\/1172012007\/1172012007008.json",
+        "nama": "TPS 008, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007009",
+        "url": "11\/1172\/117201\/1172012007\/1172012007009.json",
+        "nama": "TPS 009, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012007",
+        "tps": "1172012007010",
+        "url": "11\/1172\/117201\/1172012007\/1172012007010.json",
+        "nama": "TPS 010, KUTA BARAT, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012006",
+        "tps": "1172012006001",
+        "url": "11\/1172\/117201\/1172012006\/1172012006001.json",
+        "nama": "TPS 001, KUTA TIMU, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012006",
+        "tps": "1172012006002",
+        "url": "11\/1172\/117201\/1172012006\/1172012006002.json",
+        "nama": "TPS 002, KUTA TIMU, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012006",
+        "tps": "1172012006003",
+        "url": "11\/1172\/117201\/1172012006\/1172012006003.json",
+        "nama": "TPS 003, KUTA TIMU, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012006",
+        "tps": "1172012006004",
+        "url": "11\/1172\/117201\/1172012006\/1172012006004.json",
+        "nama": "TPS 004, KUTA TIMU, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012006",
+        "tps": "1172012006005",
+        "url": "11\/1172\/117201\/1172012006\/1172012006005.json",
+        "nama": "TPS 005, KUTA TIMU, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012006",
+        "tps": "1172012006006",
+        "url": "11\/1172\/117201\/1172012006\/1172012006006.json",
+        "nama": "TPS 006, KUTA TIMU, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117201",
+        "desa": "1172012006",
+        "tps": "1172012006007",
+        "url": "11\/1172\/117201\/1172012006\/1172012006007.json",
+        "nama": "TPS 007, KUTA TIMU, SUKAKARYA, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032002",
+        "tps": "1172032002001",
+        "url": "11\/1172\/117203\/1172032002\/1172032002001.json",
+        "nama": "TPS 001, BATEE SHOK, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032002",
+        "tps": "1172032002002",
+        "url": "11\/1172\/117203\/1172032002\/1172032002002.json",
+        "nama": "TPS 002, BATEE SHOK, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032002",
+        "tps": "1172032002003",
+        "url": "11\/1172\/117203\/1172032002\/1172032002003.json",
+        "nama": "TPS 003, BATEE SHOK, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032002",
+        "tps": "1172032002004",
+        "url": "11\/1172\/117203\/1172032002\/1172032002004.json",
+        "nama": "TPS 004, BATEE SHOK, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032002",
+        "tps": "1172032002005",
+        "url": "11\/1172\/117203\/1172032002\/1172032002005.json",
+        "nama": "TPS 005, BATEE SHOK, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032006",
+        "tps": "1172032006001",
+        "url": "11\/1172\/117203\/1172032006\/1172032006001.json",
+        "nama": "TPS 001, BEURAWANG, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032001",
+        "tps": "1172032001001",
+        "url": "11\/1172\/117203\/1172032001\/1172032001001.json",
+        "nama": "TPS 001, IBOIH, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032001",
+        "tps": "1172032001002",
+        "url": "11\/1172\/117203\/1172032001\/1172032001002.json",
+        "nama": "TPS 002, IBOIH, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032001",
+        "tps": "1172032001003",
+        "url": "11\/1172\/117203\/1172032001\/1172032001003.json",
+        "nama": "TPS 003, IBOIH, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032001",
+        "tps": "1172032001004",
+        "url": "11\/1172\/117203\/1172032001\/1172032001004.json",
+        "nama": "TPS 004, IBOIH, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032005",
+        "tps": "1172032005001",
+        "url": "11\/1172\/117203\/1172032005\/1172032005001.json",
+        "nama": "TPS 001, KEUNEKAI, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032005",
+        "tps": "1172032005002",
+        "url": "11\/1172\/117203\/1172032005\/1172032005002.json",
+        "nama": "TPS 002, KEUNEKAI, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032005",
+        "tps": "1172032005003",
+        "url": "11\/1172\/117203\/1172032005\/1172032005003.json",
+        "nama": "TPS 003, KEUNEKAI, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032004",
+        "tps": "1172032004001",
+        "url": "11\/1172\/117203\/1172032004\/1172032004001.json",
+        "nama": "TPS 001, PAYA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032004",
+        "tps": "1172032004002",
+        "url": "11\/1172\/117203\/1172032004\/1172032004002.json",
+        "nama": "TPS 002, PAYA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032003",
+        "tps": "1172032003001",
+        "url": "11\/1172\/117203\/1172032003\/1172032003001.json",
+        "nama": "TPS 001, PAYA SEUNARA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032003",
+        "tps": "1172032003002",
+        "url": "11\/1172\/117203\/1172032003\/1172032003002.json",
+        "nama": "TPS 002, PAYA SEUNARA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032003",
+        "tps": "1172032003003",
+        "url": "11\/1172\/117203\/1172032003\/1172032003003.json",
+        "nama": "TPS 003, PAYA SEUNARA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032003",
+        "tps": "1172032003004",
+        "url": "11\/1172\/117203\/1172032003\/1172032003004.json",
+        "nama": "TPS 004, PAYA SEUNARA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032003",
+        "tps": "1172032003005",
+        "url": "11\/1172\/117203\/1172032003\/1172032003005.json",
+        "nama": "TPS 005, PAYA SEUNARA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032003",
+        "tps": "1172032003006",
+        "url": "11\/1172\/117203\/1172032003\/1172032003006.json",
+        "nama": "TPS 006, PAYA SEUNARA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032003",
+        "tps": "1172032003007",
+        "url": "11\/1172\/117203\/1172032003\/1172032003007.json",
+        "nama": "TPS 007, PAYA SEUNARA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    },
+    {
+        "provinsi": "11",
+        "kabupaten": "1172",
+        "kecamatan": "117203",
+        "desa": "1172032003",
+        "tps": "1172032003008",
+        "url": "11\/1172\/117203\/1172032003\/1172032003008.json",
+        "nama": "TPS 008, PAYA SEUNARA, SUKAMAKMUE, KOTA SABANG, ACEH"
+    }
+]

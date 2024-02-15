@@ -1,0 +1,2729 @@
+[
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062001",
+        "tps": "8205062001001",
+        "url": "82\/8205\/820506\/8205062001\/8205062001001.json",
+        "nama": "TPS 001, DOFA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062001",
+        "tps": "8205062001002",
+        "url": "82\/8205\/820506\/8205062001\/8205062001002.json",
+        "nama": "TPS 002, DOFA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062001",
+        "tps": "8205062001003",
+        "url": "82\/8205\/820506\/8205062001\/8205062001003.json",
+        "nama": "TPS 003, DOFA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062001",
+        "tps": "8205062001004",
+        "url": "82\/8205\/820506\/8205062001\/8205062001004.json",
+        "nama": "TPS 004, DOFA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062001",
+        "tps": "8205062001005",
+        "url": "82\/8205\/820506\/8205062001\/8205062001005.json",
+        "nama": "TPS 005, DOFA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062001",
+        "tps": "8205062001006",
+        "url": "82\/8205\/820506\/8205062001\/8205062001006.json",
+        "nama": "TPS 006, DOFA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062001",
+        "tps": "8205062001007",
+        "url": "82\/8205\/820506\/8205062001\/8205062001007.json",
+        "nama": "TPS 007, DOFA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062017",
+        "tps": "8205062017001",
+        "url": "82\/8205\/820506\/8205062017\/8205062017001.json",
+        "nama": "TPS 001, JOHOR, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062002",
+        "tps": "8205062002001",
+        "url": "82\/8205\/820506\/8205062002\/8205062002001.json",
+        "nama": "TPS 001, LEKOKADAI, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062002",
+        "tps": "8205062002002",
+        "url": "82\/8205\/820506\/8205062002\/8205062002002.json",
+        "nama": "TPS 002, LEKOKADAI, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062002",
+        "tps": "8205062002003",
+        "url": "82\/8205\/820506\/8205062002\/8205062002003.json",
+        "nama": "TPS 003, LEKOKADAI, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062002",
+        "tps": "8205062002004",
+        "url": "82\/8205\/820506\/8205062002\/8205062002004.json",
+        "nama": "TPS 004, LEKOKADAI, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062002",
+        "tps": "8205062002005",
+        "url": "82\/8205\/820506\/8205062002\/8205062002005.json",
+        "nama": "TPS 005, LEKOKADAI, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062003",
+        "tps": "8205062003001",
+        "url": "82\/8205\/820506\/8205062003\/8205062003001.json",
+        "nama": "TPS 001, LEKOSULA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062003",
+        "tps": "8205062003002",
+        "url": "82\/8205\/820506\/8205062003\/8205062003002.json",
+        "nama": "TPS 002, LEKOSULA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062003",
+        "tps": "8205062003003",
+        "url": "82\/8205\/820506\/8205062003\/8205062003003.json",
+        "nama": "TPS 003, LEKOSULA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062018",
+        "tps": "8205062018001",
+        "url": "82\/8205\/820506\/8205062018\/8205062018001.json",
+        "nama": "TPS 001, LELYABA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062009",
+        "tps": "8205062009001",
+        "url": "82\/8205\/820506\/8205062009\/8205062009001.json",
+        "nama": "TPS 001, PAS IPA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062009",
+        "tps": "8205062009002",
+        "url": "82\/8205\/820506\/8205062009\/8205062009002.json",
+        "nama": "TPS 002, PAS IPA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062009",
+        "tps": "8205062009003",
+        "url": "82\/8205\/820506\/8205062009\/8205062009003.json",
+        "nama": "TPS 003, PAS IPA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062014",
+        "tps": "8205062014001",
+        "url": "82\/8205\/820506\/8205062014\/8205062014001.json",
+        "nama": "TPS 001, PELITA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062014",
+        "tps": "8205062014002",
+        "url": "82\/8205\/820506\/8205062014\/8205062014002.json",
+        "nama": "TPS 002, PELITA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062014",
+        "tps": "8205062014003",
+        "url": "82\/8205\/820506\/8205062014\/8205062014003.json",
+        "nama": "TPS 003, PELITA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820506",
+        "desa": "8205062014",
+        "tps": "8205062014004",
+        "url": "82\/8205\/820506\/8205062014\/8205062014004.json",
+        "nama": "TPS 004, PELITA, MANGOLI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122004",
+        "tps": "8205122004001",
+        "url": "82\/8205\/820512\/8205122004\/8205122004001.json",
+        "nama": "TPS 001, AUPONHIA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122004",
+        "tps": "8205122004002",
+        "url": "82\/8205\/820512\/8205122004\/8205122004002.json",
+        "nama": "TPS 002, AUPONHIA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122004",
+        "tps": "8205122004003",
+        "url": "82\/8205\/820512\/8205122004\/8205122004003.json",
+        "nama": "TPS 003, AUPONHIA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122003",
+        "tps": "8205122003001",
+        "url": "82\/8205\/820512\/8205122003\/8205122003001.json",
+        "nama": "TPS 001, BUYA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122003",
+        "tps": "8205122003002",
+        "url": "82\/8205\/820512\/8205122003\/8205122003002.json",
+        "nama": "TPS 002, BUYA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122003",
+        "tps": "8205122003003",
+        "url": "82\/8205\/820512\/8205122003\/8205122003003.json",
+        "nama": "TPS 003, BUYA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122003",
+        "tps": "8205122003004",
+        "url": "82\/8205\/820512\/8205122003\/8205122003004.json",
+        "nama": "TPS 004, BUYA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122001",
+        "tps": "8205122001001",
+        "url": "82\/8205\/820512\/8205122001\/8205122001001.json",
+        "nama": "TPS 001, KAPORO, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122001",
+        "tps": "8205122001002",
+        "url": "82\/8205\/820512\/8205122001\/8205122001002.json",
+        "nama": "TPS 002, KAPORO, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122002",
+        "tps": "8205122002001",
+        "url": "82\/8205\/820512\/8205122002\/8205122002001.json",
+        "nama": "TPS 001, WAIKAFIA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122002",
+        "tps": "8205122002002",
+        "url": "82\/8205\/820512\/8205122002\/8205122002002.json",
+        "nama": "TPS 002, WAIKAFIA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122002",
+        "tps": "8205122002003",
+        "url": "82\/8205\/820512\/8205122002\/8205122002003.json",
+        "nama": "TPS 003, WAIKAFIA, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122005",
+        "tps": "8205122005001",
+        "url": "82\/8205\/820512\/8205122005\/8205122005001.json",
+        "nama": "TPS 001, WAILAB, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122005",
+        "tps": "8205122005002",
+        "url": "82\/8205\/820512\/8205122005\/8205122005002.json",
+        "nama": "TPS 002, WAILAB, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820512",
+        "desa": "8205122005",
+        "tps": "8205122005003",
+        "url": "82\/8205\/820512\/8205122005\/8205122005003.json",
+        "nama": "TPS 003, WAILAB, MANGOLI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112001",
+        "tps": "8205112001001",
+        "url": "82\/8205\/820511\/8205112001\/8205112001001.json",
+        "nama": "TPS 001, BURUAKOL, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112001",
+        "tps": "8205112001002",
+        "url": "82\/8205\/820511\/8205112001\/8205112001002.json",
+        "nama": "TPS 002, BURUAKOL, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112002",
+        "tps": "8205112002001",
+        "url": "82\/8205\/820511\/8205112002\/8205112002001.json",
+        "nama": "TPS 001, CAPALULU, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112002",
+        "tps": "8205112002002",
+        "url": "82\/8205\/820511\/8205112002\/8205112002002.json",
+        "nama": "TPS 002, CAPALULU, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112002",
+        "tps": "8205112002003",
+        "url": "82\/8205\/820511\/8205112002\/8205112002003.json",
+        "nama": "TPS 003, CAPALULU, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112002",
+        "tps": "8205112002004",
+        "url": "82\/8205\/820511\/8205112002\/8205112002004.json",
+        "nama": "TPS 004, CAPALULU, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112009",
+        "tps": "8205112009001",
+        "url": "82\/8205\/820511\/8205112009\/8205112009001.json",
+        "nama": "TPS 001, JERE, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112004",
+        "tps": "8205112004001",
+        "url": "82\/8205\/820511\/8205112004\/8205112004001.json",
+        "nama": "TPS 001, MANGOLI, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112004",
+        "tps": "8205112004002",
+        "url": "82\/8205\/820511\/8205112004\/8205112004002.json",
+        "nama": "TPS 002, MANGOLI, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112004",
+        "tps": "8205112004003",
+        "url": "82\/8205\/820511\/8205112004\/8205112004003.json",
+        "nama": "TPS 003, MANGOLI, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112004",
+        "tps": "8205112004004",
+        "url": "82\/8205\/820511\/8205112004\/8205112004004.json",
+        "nama": "TPS 004, MANGOLI, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112004",
+        "tps": "8205112004005",
+        "url": "82\/8205\/820511\/8205112004\/8205112004005.json",
+        "nama": "TPS 005, MANGOLI, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112004",
+        "tps": "8205112004006",
+        "url": "82\/8205\/820511\/8205112004\/8205112004006.json",
+        "nama": "TPS 006, MANGOLI, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112004",
+        "tps": "8205112004007",
+        "url": "82\/8205\/820511\/8205112004\/8205112004007.json",
+        "nama": "TPS 007, MANGOLI, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112006",
+        "tps": "8205112006001",
+        "url": "82\/8205\/820511\/8205112006\/8205112006001.json",
+        "nama": "TPS 001, PASLAL, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112003",
+        "tps": "8205112003001",
+        "url": "82\/8205\/820511\/8205112003\/8205112003001.json",
+        "nama": "TPS 001, URIFOLA, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112003",
+        "tps": "8205112003002",
+        "url": "82\/8205\/820511\/8205112003\/8205112003002.json",
+        "nama": "TPS 002, URIFOLA, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112008",
+        "tps": "8205112008001",
+        "url": "82\/8205\/820511\/8205112008\/8205112008001.json",
+        "nama": "TPS 001, WAI U, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112005",
+        "tps": "8205112005001",
+        "url": "82\/8205\/820511\/8205112005\/8205112005001.json",
+        "nama": "TPS 001, WAILOBA, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112005",
+        "tps": "8205112005002",
+        "url": "82\/8205\/820511\/8205112005\/8205112005002.json",
+        "nama": "TPS 002, WAILOBA, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112005",
+        "tps": "8205112005003",
+        "url": "82\/8205\/820511\/8205112005\/8205112005003.json",
+        "nama": "TPS 003, WAILOBA, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112007",
+        "tps": "8205112007001",
+        "url": "82\/8205\/820511\/8205112007\/8205112007001.json",
+        "nama": "TPS 001, WAITULIA, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820511",
+        "desa": "8205112007",
+        "tps": "8205112007002",
+        "url": "82\/8205\/820511\/8205112007\/8205112007002.json",
+        "nama": "TPS 002, WAITULIA, MANGOLI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012013",
+        "tps": "8205012013001",
+        "url": "82\/8205\/820501\/8205012013\/8205012013001.json",
+        "nama": "TPS 001, KARAMAT TITDOY, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012013",
+        "tps": "8205012013002",
+        "url": "82\/8205\/820501\/8205012013\/8205012013002.json",
+        "nama": "TPS 002, KARAMAT TITDOY, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012006",
+        "tps": "8205012006001",
+        "url": "82\/8205\/820501\/8205012006\/8205012006001.json",
+        "nama": "TPS 001, KAU, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012006",
+        "tps": "8205012006002",
+        "url": "82\/8205\/820501\/8205012006\/8205012006002.json",
+        "nama": "TPS 002, KAU, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012006",
+        "tps": "8205012006003",
+        "url": "82\/8205\/820501\/8205012006\/8205012006003.json",
+        "nama": "TPS 003, KAU, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012006",
+        "tps": "8205012006004",
+        "url": "82\/8205\/820501\/8205012006\/8205012006004.json",
+        "nama": "TPS 004, KAU, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012016",
+        "tps": "8205012016001",
+        "url": "82\/8205\/820501\/8205012016\/8205012016001.json",
+        "nama": "TPS 001, NAFLO, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012016",
+        "tps": "8205012016002",
+        "url": "82\/8205\/820501\/8205012016\/8205012016002.json",
+        "nama": "TPS 002, NAFLO, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012007",
+        "tps": "8205012007001",
+        "url": "82\/8205\/820501\/8205012007\/8205012007001.json",
+        "nama": "TPS 001, WAITAMELA, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012007",
+        "tps": "8205012007002",
+        "url": "82\/8205\/820501\/8205012007\/8205012007002.json",
+        "nama": "TPS 002, WAITAMELA, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012001",
+        "tps": "8205012001001",
+        "url": "82\/8205\/820501\/8205012001\/8205012001001.json",
+        "nama": "TPS 001, WAITINA, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012001",
+        "tps": "8205012001002",
+        "url": "82\/8205\/820501\/8205012001\/8205012001002.json",
+        "nama": "TPS 002, WAITINA, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012001",
+        "tps": "8205012001003",
+        "url": "82\/8205\/820501\/8205012001\/8205012001003.json",
+        "nama": "TPS 003, WAITINA, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012001",
+        "tps": "8205012001004",
+        "url": "82\/8205\/820501\/8205012001\/8205012001004.json",
+        "nama": "TPS 004, WAITINA, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012001",
+        "tps": "8205012001005",
+        "url": "82\/8205\/820501\/8205012001\/8205012001005.json",
+        "nama": "TPS 005, WAITINA, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820501",
+        "desa": "8205012001",
+        "tps": "8205012001006",
+        "url": "82\/8205\/820501\/8205012001\/8205012001006.json",
+        "nama": "TPS 006, WAITINA, MANGOLI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001001",
+        "url": "82\/8205\/820513\/8205132001\/8205132001001.json",
+        "nama": "TPS 001, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001002",
+        "url": "82\/8205\/820513\/8205132001\/8205132001002.json",
+        "nama": "TPS 002, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001003",
+        "url": "82\/8205\/820513\/8205132001\/8205132001003.json",
+        "nama": "TPS 003, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001004",
+        "url": "82\/8205\/820513\/8205132001\/8205132001004.json",
+        "nama": "TPS 004, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001005",
+        "url": "82\/8205\/820513\/8205132001\/8205132001005.json",
+        "nama": "TPS 005, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001006",
+        "url": "82\/8205\/820513\/8205132001\/8205132001006.json",
+        "nama": "TPS 006, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001007",
+        "url": "82\/8205\/820513\/8205132001\/8205132001007.json",
+        "nama": "TPS 007, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001008",
+        "url": "82\/8205\/820513\/8205132001\/8205132001008.json",
+        "nama": "TPS 008, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001009",
+        "url": "82\/8205\/820513\/8205132001\/8205132001009.json",
+        "nama": "TPS 009, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001010",
+        "url": "82\/8205\/820513\/8205132001\/8205132001010.json",
+        "nama": "TPS 010, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001011",
+        "url": "82\/8205\/820513\/8205132001\/8205132001011.json",
+        "nama": "TPS 011, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001012",
+        "url": "82\/8205\/820513\/8205132001\/8205132001012.json",
+        "nama": "TPS 012, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001013",
+        "url": "82\/8205\/820513\/8205132001\/8205132001013.json",
+        "nama": "TPS 013, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001014",
+        "url": "82\/8205\/820513\/8205132001\/8205132001014.json",
+        "nama": "TPS 014, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001015",
+        "url": "82\/8205\/820513\/8205132001\/8205132001015.json",
+        "nama": "TPS 015, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132001",
+        "tps": "8205132001016",
+        "url": "82\/8205\/820513\/8205132001\/8205132001016.json",
+        "nama": "TPS 016, FALABISAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132006",
+        "tps": "8205132006001",
+        "url": "82\/8205\/820513\/8205132006\/8205132006001.json",
+        "nama": "TPS 001, MINALULI, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132002",
+        "tps": "8205132002001",
+        "url": "82\/8205\/820513\/8205132002\/8205132002001.json",
+        "nama": "TPS 001, MODAPIA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132002",
+        "tps": "8205132002002",
+        "url": "82\/8205\/820513\/8205132002\/8205132002002.json",
+        "nama": "TPS 002, MODAPIA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132003",
+        "tps": "8205132003001",
+        "url": "82\/8205\/820513\/8205132003\/8205132003001.json",
+        "nama": "TPS 001, MODAPUHI, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132003",
+        "tps": "8205132003002",
+        "url": "82\/8205\/820513\/8205132003\/8205132003002.json",
+        "nama": "TPS 002, MODAPUHI, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132007",
+        "tps": "8205132007001",
+        "url": "82\/8205\/820513\/8205132007\/8205132007001.json",
+        "nama": "TPS 001, MODAPUHI TRANS, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132004",
+        "tps": "8205132004001",
+        "url": "82\/8205\/820513\/8205132004\/8205132004001.json",
+        "nama": "TPS 001, PASTABULU, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132004",
+        "tps": "8205132004002",
+        "url": "82\/8205\/820513\/8205132004\/8205132004002.json",
+        "nama": "TPS 002, PASTABULU, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132004",
+        "tps": "8205132004003",
+        "url": "82\/8205\/820513\/8205132004\/8205132004003.json",
+        "nama": "TPS 003, PASTABULU, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132005",
+        "tps": "8205132005001",
+        "url": "82\/8205\/820513\/8205132005\/8205132005001.json",
+        "nama": "TPS 001, SANIAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820513",
+        "desa": "8205132005",
+        "tps": "8205132005002",
+        "url": "82\/8205\/820513\/8205132005\/8205132005002.json",
+        "nama": "TPS 002, SANIAHAYA, MANGOLI UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102001",
+        "tps": "8205102001001",
+        "url": "82\/8205\/820510\/8205102001\/8205102001001.json",
+        "nama": "TPS 001, KAWATA, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102001",
+        "tps": "8205102001002",
+        "url": "82\/8205\/820510\/8205102001\/8205102001002.json",
+        "nama": "TPS 002, KAWATA, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102001",
+        "tps": "8205102001003",
+        "url": "82\/8205\/820510\/8205102001\/8205102001003.json",
+        "nama": "TPS 003, KAWATA, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102001",
+        "tps": "8205102001004",
+        "url": "82\/8205\/820510\/8205102001\/8205102001004.json",
+        "nama": "TPS 004, KAWATA, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102001",
+        "tps": "8205102001005",
+        "url": "82\/8205\/820510\/8205102001\/8205102001005.json",
+        "nama": "TPS 005, KAWATA, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102003",
+        "tps": "8205102003001",
+        "url": "82\/8205\/820510\/8205102003\/8205102003001.json",
+        "nama": "TPS 001, PELITA JAYA, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102003",
+        "tps": "8205102003002",
+        "url": "82\/8205\/820510\/8205102003\/8205102003002.json",
+        "nama": "TPS 002, PELITA JAYA, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102002",
+        "tps": "8205102002001",
+        "url": "82\/8205\/820510\/8205102002\/8205102002001.json",
+        "nama": "TPS 001, WAISAKAI, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102002",
+        "tps": "8205102002002",
+        "url": "82\/8205\/820510\/8205102002\/8205102002002.json",
+        "nama": "TPS 002, WAISAKAI, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102002",
+        "tps": "8205102002003",
+        "url": "82\/8205\/820510\/8205102002\/8205102002003.json",
+        "nama": "TPS 003, WAISAKAI, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102002",
+        "tps": "8205102002004",
+        "url": "82\/8205\/820510\/8205102002\/8205102002004.json",
+        "nama": "TPS 004, WAISAKAI, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102002",
+        "tps": "8205102002005",
+        "url": "82\/8205\/820510\/8205102002\/8205102002005.json",
+        "nama": "TPS 005, WAISAKAI, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102004",
+        "tps": "8205102004001",
+        "url": "82\/8205\/820510\/8205102004\/8205102004001.json",
+        "nama": "TPS 001, WAISUM, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820510",
+        "desa": "8205102004",
+        "tps": "8205102004002",
+        "url": "82\/8205\/820510\/8205102004\/8205102004002.json",
+        "nama": "TPS 002, WAISUM, MANGOLI UTARA TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022002",
+        "tps": "8205022002001",
+        "url": "82\/8205\/820502\/8205022002\/8205022002001.json",
+        "nama": "TPS 001, FAGUDU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022002",
+        "tps": "8205022002002",
+        "url": "82\/8205\/820502\/8205022002\/8205022002002.json",
+        "nama": "TPS 002, FAGUDU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022002",
+        "tps": "8205022002003",
+        "url": "82\/8205\/820502\/8205022002\/8205022002003.json",
+        "nama": "TPS 003, FAGUDU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022002",
+        "tps": "8205022002004",
+        "url": "82\/8205\/820502\/8205022002\/8205022002004.json",
+        "nama": "TPS 004, FAGUDU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022002",
+        "tps": "8205022002005",
+        "url": "82\/8205\/820502\/8205022002\/8205022002005.json",
+        "nama": "TPS 005, FAGUDU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022002",
+        "tps": "8205022002006",
+        "url": "82\/8205\/820502\/8205022002\/8205022002006.json",
+        "nama": "TPS 006, FAGUDU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022002",
+        "tps": "8205022002007",
+        "url": "82\/8205\/820502\/8205022002\/8205022002007.json",
+        "nama": "TPS 007, FAGUDU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022002",
+        "tps": "8205022002008",
+        "url": "82\/8205\/820502\/8205022002\/8205022002008.json",
+        "nama": "TPS 008, FAGUDU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022002",
+        "tps": "8205022002009",
+        "url": "82\/8205\/820502\/8205022002\/8205022002009.json",
+        "nama": "TPS 009, FAGUDU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022004",
+        "tps": "8205022004001",
+        "url": "82\/8205\/820502\/8205022004\/8205022004001.json",
+        "nama": "TPS 001, FALAHU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022004",
+        "tps": "8205022004002",
+        "url": "82\/8205\/820502\/8205022004\/8205022004002.json",
+        "nama": "TPS 002, FALAHU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022004",
+        "tps": "8205022004003",
+        "url": "82\/8205\/820502\/8205022004\/8205022004003.json",
+        "nama": "TPS 003, FALAHU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022004",
+        "tps": "8205022004004",
+        "url": "82\/8205\/820502\/8205022004\/8205022004004.json",
+        "nama": "TPS 004, FALAHU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022004",
+        "tps": "8205022004005",
+        "url": "82\/8205\/820502\/8205022004\/8205022004005.json",
+        "nama": "TPS 005, FALAHU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022005",
+        "tps": "8205022005001",
+        "url": "82\/8205\/820502\/8205022005\/8205022005001.json",
+        "nama": "TPS 001, FATCEI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022005",
+        "tps": "8205022005002",
+        "url": "82\/8205\/820502\/8205022005\/8205022005002.json",
+        "nama": "TPS 002, FATCEI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022005",
+        "tps": "8205022005003",
+        "url": "82\/8205\/820502\/8205022005\/8205022005003.json",
+        "nama": "TPS 003, FATCEI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022005",
+        "tps": "8205022005004",
+        "url": "82\/8205\/820502\/8205022005\/8205022005004.json",
+        "nama": "TPS 004, FATCEI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022005",
+        "tps": "8205022005005",
+        "url": "82\/8205\/820502\/8205022005\/8205022005005.json",
+        "nama": "TPS 005, FATCEI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022005",
+        "tps": "8205022005006",
+        "url": "82\/8205\/820502\/8205022005\/8205022005006.json",
+        "nama": "TPS 006, FATCEI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022005",
+        "tps": "8205022005007",
+        "url": "82\/8205\/820502\/8205022005\/8205022005007.json",
+        "nama": "TPS 007, FATCEI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022005",
+        "tps": "8205022005008",
+        "url": "82\/8205\/820502\/8205022005\/8205022005008.json",
+        "nama": "TPS 008, FATCEI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022005",
+        "tps": "8205022005009",
+        "url": "82\/8205\/820502\/8205022005\/8205022005009.json",
+        "nama": "TPS 009, FATCEI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006001",
+        "url": "82\/8205\/820502\/8205022006\/8205022006001.json",
+        "nama": "TPS 001, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006002",
+        "url": "82\/8205\/820502\/8205022006\/8205022006002.json",
+        "nama": "TPS 002, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006003",
+        "url": "82\/8205\/820502\/8205022006\/8205022006003.json",
+        "nama": "TPS 003, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006004",
+        "url": "82\/8205\/820502\/8205022006\/8205022006004.json",
+        "nama": "TPS 004, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006005",
+        "url": "82\/8205\/820502\/8205022006\/8205022006005.json",
+        "nama": "TPS 005, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006006",
+        "url": "82\/8205\/820502\/8205022006\/8205022006006.json",
+        "nama": "TPS 006, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006007",
+        "url": "82\/8205\/820502\/8205022006\/8205022006007.json",
+        "nama": "TPS 007, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006008",
+        "url": "82\/8205\/820502\/8205022006\/8205022006008.json",
+        "nama": "TPS 008, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006009",
+        "url": "82\/8205\/820502\/8205022006\/8205022006009.json",
+        "nama": "TPS 009, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006010",
+        "url": "82\/8205\/820502\/8205022006\/8205022006010.json",
+        "nama": "TPS 010, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006011",
+        "url": "82\/8205\/820502\/8205022006\/8205022006011.json",
+        "nama": "TPS 011, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006012",
+        "url": "82\/8205\/820502\/8205022006\/8205022006012.json",
+        "nama": "TPS 012, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006013",
+        "url": "82\/8205\/820502\/8205022006\/8205022006013.json",
+        "nama": "TPS 013, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006014",
+        "url": "82\/8205\/820502\/8205022006\/8205022006014.json",
+        "nama": "TPS 014, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006015",
+        "url": "82\/8205\/820502\/8205022006\/8205022006015.json",
+        "nama": "TPS 015, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006016",
+        "url": "82\/8205\/820502\/8205022006\/8205022006016.json",
+        "nama": "TPS 016, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022006",
+        "tps": "8205022006901",
+        "url": "82\/8205\/820502\/8205022006\/8205022006901.json",
+        "nama": "TPS 901, FOGI, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001001",
+        "url": "82\/8205\/820502\/8205022001\/8205022001001.json",
+        "nama": "TPS 001, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001002",
+        "url": "82\/8205\/820502\/8205022001\/8205022001002.json",
+        "nama": "TPS 002, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001003",
+        "url": "82\/8205\/820502\/8205022001\/8205022001003.json",
+        "nama": "TPS 003, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001004",
+        "url": "82\/8205\/820502\/8205022001\/8205022001004.json",
+        "nama": "TPS 004, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001005",
+        "url": "82\/8205\/820502\/8205022001\/8205022001005.json",
+        "nama": "TPS 005, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001006",
+        "url": "82\/8205\/820502\/8205022001\/8205022001006.json",
+        "nama": "TPS 006, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001007",
+        "url": "82\/8205\/820502\/8205022001\/8205022001007.json",
+        "nama": "TPS 007, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001008",
+        "url": "82\/8205\/820502\/8205022001\/8205022001008.json",
+        "nama": "TPS 008, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001009",
+        "url": "82\/8205\/820502\/8205022001\/8205022001009.json",
+        "nama": "TPS 009, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001010",
+        "url": "82\/8205\/820502\/8205022001\/8205022001010.json",
+        "nama": "TPS 010, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001011",
+        "url": "82\/8205\/820502\/8205022001\/8205022001011.json",
+        "nama": "TPS 011, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001012",
+        "url": "82\/8205\/820502\/8205022001\/8205022001012.json",
+        "nama": "TPS 012, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022001",
+        "tps": "8205022001013",
+        "url": "82\/8205\/820502\/8205022001\/8205022001013.json",
+        "nama": "TPS 013, MANGON, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022010",
+        "tps": "8205022010001",
+        "url": "82\/8205\/820502\/8205022010\/8205022010001.json",
+        "nama": "TPS 001, PASTINA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022010",
+        "tps": "8205022010002",
+        "url": "82\/8205\/820502\/8205022010\/8205022010002.json",
+        "nama": "TPS 002, PASTINA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022010",
+        "tps": "8205022010003",
+        "url": "82\/8205\/820502\/8205022010\/8205022010003.json",
+        "nama": "TPS 003, PASTINA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022009",
+        "tps": "8205022009001",
+        "url": "82\/8205\/820502\/8205022009\/8205022009001.json",
+        "nama": "TPS 001, UMALOYA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022009",
+        "tps": "8205022009002",
+        "url": "82\/8205\/820502\/8205022009\/8205022009002.json",
+        "nama": "TPS 002, UMALOYA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022009",
+        "tps": "8205022009003",
+        "url": "82\/8205\/820502\/8205022009\/8205022009003.json",
+        "nama": "TPS 003, UMALOYA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022009",
+        "tps": "8205022009004",
+        "url": "82\/8205\/820502\/8205022009\/8205022009004.json",
+        "nama": "TPS 004, UMALOYA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022009",
+        "tps": "8205022009005",
+        "url": "82\/8205\/820502\/8205022009\/8205022009005.json",
+        "nama": "TPS 005, UMALOYA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022008",
+        "tps": "8205022008001",
+        "url": "82\/8205\/820502\/8205022008\/8205022008001.json",
+        "nama": "TPS 001, WAI IPA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022008",
+        "tps": "8205022008002",
+        "url": "82\/8205\/820502\/8205022008\/8205022008002.json",
+        "nama": "TPS 002, WAI IPA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022008",
+        "tps": "8205022008003",
+        "url": "82\/8205\/820502\/8205022008\/8205022008003.json",
+        "nama": "TPS 003, WAI IPA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022008",
+        "tps": "8205022008004",
+        "url": "82\/8205\/820502\/8205022008\/8205022008004.json",
+        "nama": "TPS 004, WAI IPA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022008",
+        "tps": "8205022008005",
+        "url": "82\/8205\/820502\/8205022008\/8205022008005.json",
+        "nama": "TPS 005, WAI IPA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022008",
+        "tps": "8205022008006",
+        "url": "82\/8205\/820502\/8205022008\/8205022008006.json",
+        "nama": "TPS 006, WAI IPA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022008",
+        "tps": "8205022008007",
+        "url": "82\/8205\/820502\/8205022008\/8205022008007.json",
+        "nama": "TPS 007, WAI IPA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022008",
+        "tps": "8205022008008",
+        "url": "82\/8205\/820502\/8205022008\/8205022008008.json",
+        "nama": "TPS 008, WAI IPA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022003",
+        "tps": "8205022003001",
+        "url": "82\/8205\/820502\/8205022003\/8205022003001.json",
+        "nama": "TPS 001, WAIBAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022003",
+        "tps": "8205022003002",
+        "url": "82\/8205\/820502\/8205022003\/8205022003002.json",
+        "nama": "TPS 002, WAIBAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022003",
+        "tps": "8205022003003",
+        "url": "82\/8205\/820502\/8205022003\/8205022003003.json",
+        "nama": "TPS 003, WAIBAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022003",
+        "tps": "8205022003004",
+        "url": "82\/8205\/820502\/8205022003\/8205022003004.json",
+        "nama": "TPS 004, WAIBAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022003",
+        "tps": "8205022003005",
+        "url": "82\/8205\/820502\/8205022003\/8205022003005.json",
+        "nama": "TPS 005, WAIBAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022003",
+        "tps": "8205022003006",
+        "url": "82\/8205\/820502\/8205022003\/8205022003006.json",
+        "nama": "TPS 006, WAIBAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022007",
+        "tps": "8205022007001",
+        "url": "82\/8205\/820502\/8205022007\/8205022007001.json",
+        "nama": "TPS 001, WAIHAMA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022007",
+        "tps": "8205022007002",
+        "url": "82\/8205\/820502\/8205022007\/8205022007002.json",
+        "nama": "TPS 002, WAIHAMA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022007",
+        "tps": "8205022007003",
+        "url": "82\/8205\/820502\/8205022007\/8205022007003.json",
+        "nama": "TPS 003, WAIHAMA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022007",
+        "tps": "8205022007004",
+        "url": "82\/8205\/820502\/8205022007\/8205022007004.json",
+        "nama": "TPS 004, WAIHAMA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022007",
+        "tps": "8205022007005",
+        "url": "82\/8205\/820502\/8205022007\/8205022007005.json",
+        "nama": "TPS 005, WAIHAMA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022007",
+        "tps": "8205022007006",
+        "url": "82\/8205\/820502\/8205022007\/8205022007006.json",
+        "nama": "TPS 006, WAIHAMA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022007",
+        "tps": "8205022007007",
+        "url": "82\/8205\/820502\/8205022007\/8205022007007.json",
+        "nama": "TPS 007, WAIHAMA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022007",
+        "tps": "8205022007008",
+        "url": "82\/8205\/820502\/8205022007\/8205022007008.json",
+        "nama": "TPS 008, WAIHAMA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022007",
+        "tps": "8205022007009",
+        "url": "82\/8205\/820502\/8205022007\/8205022007009.json",
+        "nama": "TPS 009, WAIHAMA, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022011",
+        "tps": "8205022011001",
+        "url": "82\/8205\/820502\/8205022011\/8205022011001.json",
+        "nama": "TPS 001, WAILAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022011",
+        "tps": "8205022011002",
+        "url": "82\/8205\/820502\/8205022011\/8205022011002.json",
+        "nama": "TPS 002, WAILAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022011",
+        "tps": "8205022011003",
+        "url": "82\/8205\/820502\/8205022011\/8205022011003.json",
+        "nama": "TPS 003, WAILAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022011",
+        "tps": "8205022011004",
+        "url": "82\/8205\/820502\/8205022011\/8205022011004.json",
+        "nama": "TPS 004, WAILAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022011",
+        "tps": "8205022011005",
+        "url": "82\/8205\/820502\/8205022011\/8205022011005.json",
+        "nama": "TPS 005, WAILAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022011",
+        "tps": "8205022011006",
+        "url": "82\/8205\/820502\/8205022011\/8205022011006.json",
+        "nama": "TPS 006, WAILAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820502",
+        "desa": "8205022011",
+        "tps": "8205022011007",
+        "url": "82\/8205\/820502\/8205022011\/8205022011007.json",
+        "nama": "TPS 007, WAILAU, SANANA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182002",
+        "tps": "8205182002001",
+        "url": "82\/8205\/820518\/8205182002\/8205182002001.json",
+        "nama": "TPS 001, BAJO, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182002",
+        "tps": "8205182002002",
+        "url": "82\/8205\/820518\/8205182002\/8205182002002.json",
+        "nama": "TPS 002, BAJO, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182002",
+        "tps": "8205182002003",
+        "url": "82\/8205\/820518\/8205182002\/8205182002003.json",
+        "nama": "TPS 003, BAJO, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182002",
+        "tps": "8205182002004",
+        "url": "82\/8205\/820518\/8205182002\/8205182002004.json",
+        "nama": "TPS 004, BAJO, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182002",
+        "tps": "8205182002005",
+        "url": "82\/8205\/820518\/8205182002\/8205182002005.json",
+        "nama": "TPS 005, BAJO, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182007",
+        "tps": "8205182007001",
+        "url": "82\/8205\/820518\/8205182007\/8205182007001.json",
+        "nama": "TPS 001, FOKALIK, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182007",
+        "tps": "8205182007002",
+        "url": "82\/8205\/820518\/8205182007\/8205182007002.json",
+        "nama": "TPS 002, FOKALIK, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182004",
+        "tps": "8205182004001",
+        "url": "82\/8205\/820518\/8205182004\/8205182004001.json",
+        "nama": "TPS 001, FUKWEU, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182004",
+        "tps": "8205182004002",
+        "url": "82\/8205\/820518\/8205182004\/8205182004002.json",
+        "nama": "TPS 002, FUKWEU, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182004",
+        "tps": "8205182004003",
+        "url": "82\/8205\/820518\/8205182004\/8205182004003.json",
+        "nama": "TPS 003, FUKWEU, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182006",
+        "tps": "8205182006001",
+        "url": "82\/8205\/820518\/8205182006\/8205182006001.json",
+        "nama": "TPS 001, MALBUFA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182006",
+        "tps": "8205182006002",
+        "url": "82\/8205\/820518\/8205182006\/8205182006002.json",
+        "nama": "TPS 002, MALBUFA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182006",
+        "tps": "8205182006003",
+        "url": "82\/8205\/820518\/8205182006\/8205182006003.json",
+        "nama": "TPS 003, MALBUFA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182001",
+        "tps": "8205182001001",
+        "url": "82\/8205\/820518\/8205182001\/8205182001001.json",
+        "nama": "TPS 001, MAN-GEGA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182001",
+        "tps": "8205182001002",
+        "url": "82\/8205\/820518\/8205182001\/8205182001002.json",
+        "nama": "TPS 002, MAN-GEGA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182001",
+        "tps": "8205182001003",
+        "url": "82\/8205\/820518\/8205182001\/8205182001003.json",
+        "nama": "TPS 003, MAN-GEGA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182001",
+        "tps": "8205182001004",
+        "url": "82\/8205\/820518\/8205182001\/8205182001004.json",
+        "nama": "TPS 004, MAN-GEGA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182003",
+        "tps": "8205182003001",
+        "url": "82\/8205\/820518\/8205182003\/8205182003001.json",
+        "nama": "TPS 001, POHEA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182003",
+        "tps": "8205182003002",
+        "url": "82\/8205\/820518\/8205182003\/8205182003002.json",
+        "nama": "TPS 002, POHEA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182003",
+        "tps": "8205182003003",
+        "url": "82\/8205\/820518\/8205182003\/8205182003003.json",
+        "nama": "TPS 003, POHEA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182003",
+        "tps": "8205182003004",
+        "url": "82\/8205\/820518\/8205182003\/8205182003004.json",
+        "nama": "TPS 004, POHEA, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182005",
+        "tps": "8205182005001",
+        "url": "82\/8205\/820518\/8205182005\/8205182005001.json",
+        "nama": "TPS 001, WAININ, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820518",
+        "desa": "8205182005",
+        "tps": "8205182005002",
+        "url": "82\/8205\/820518\/8205182005\/8205182005002.json",
+        "nama": "TPS 002, WAININ, SANANA UTARA, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032008",
+        "tps": "8205032008001",
+        "url": "82\/8205\/820503\/8205032008\/8205032008001.json",
+        "nama": "TPS 001, KABAU DARAT, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032008",
+        "tps": "8205032008002",
+        "url": "82\/8205\/820503\/8205032008\/8205032008002.json",
+        "nama": "TPS 002, KABAU DARAT, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032006",
+        "tps": "8205032006001",
+        "url": "82\/8205\/820503\/8205032006\/8205032006001.json",
+        "nama": "TPS 001, KABAU PANTAI, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032006",
+        "tps": "8205032006002",
+        "url": "82\/8205\/820503\/8205032006\/8205032006002.json",
+        "nama": "TPS 002, KABAU PANTAI, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032006",
+        "tps": "8205032006003",
+        "url": "82\/8205\/820503\/8205032006\/8205032006003.json",
+        "nama": "TPS 003, KABAU PANTAI, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032006",
+        "tps": "8205032006004",
+        "url": "82\/8205\/820503\/8205032006\/8205032006004.json",
+        "nama": "TPS 004, KABAU PANTAI, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032009",
+        "tps": "8205032009001",
+        "url": "82\/8205\/820503\/8205032009\/8205032009001.json",
+        "nama": "TPS 001, NAHI, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032009",
+        "tps": "8205032009002",
+        "url": "82\/8205\/820503\/8205032009\/8205032009002.json",
+        "nama": "TPS 002, NAHI, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032009",
+        "tps": "8205032009003",
+        "url": "82\/8205\/820503\/8205032009\/8205032009003.json",
+        "nama": "TPS 003, NAHI, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032007",
+        "tps": "8205032007001",
+        "url": "82\/8205\/820503\/8205032007\/8205032007001.json",
+        "nama": "TPS 001, ONA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032007",
+        "tps": "8205032007002",
+        "url": "82\/8205\/820503\/8205032007\/8205032007002.json",
+        "nama": "TPS 002, ONA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032007",
+        "tps": "8205032007003",
+        "url": "82\/8205\/820503\/8205032007\/8205032007003.json",
+        "nama": "TPS 003, ONA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032007",
+        "tps": "8205032007004",
+        "url": "82\/8205\/820503\/8205032007\/8205032007004.json",
+        "nama": "TPS 004, ONA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032010",
+        "tps": "8205032010001",
+        "url": "82\/8205\/820503\/8205032010\/8205032010001.json",
+        "nama": "TPS 001, PARATINA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032010",
+        "tps": "8205032010002",
+        "url": "82\/8205\/820503\/8205032010\/8205032010002.json",
+        "nama": "TPS 002, PARATINA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032005",
+        "tps": "8205032005001",
+        "url": "82\/8205\/820503\/8205032005\/8205032005001.json",
+        "nama": "TPS 001, WAI INA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032005",
+        "tps": "8205032005002",
+        "url": "82\/8205\/820503\/8205032005\/8205032005002.json",
+        "nama": "TPS 002, WAI INA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032005",
+        "tps": "8205032005003",
+        "url": "82\/8205\/820503\/8205032005\/8205032005003.json",
+        "nama": "TPS 003, WAI INA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820503",
+        "desa": "8205032005",
+        "tps": "8205032005004",
+        "url": "82\/8205\/820503\/8205032005\/8205032005004.json",
+        "nama": "TPS 004, WAI INA, SULABESI BARAT, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092002",
+        "tps": "8205092002001",
+        "url": "82\/8205\/820509\/8205092002\/8205092002001.json",
+        "nama": "TPS 001, FUATA, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092002",
+        "tps": "8205092002002",
+        "url": "82\/8205\/820509\/8205092002\/8205092002002.json",
+        "nama": "TPS 002, FUATA, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092002",
+        "tps": "8205092002003",
+        "url": "82\/8205\/820509\/8205092002\/8205092002003.json",
+        "nama": "TPS 003, FUATA, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092004",
+        "tps": "8205092004001",
+        "url": "82\/8205\/820509\/8205092004\/8205092004001.json",
+        "nama": "TPS 001, SKOM, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092004",
+        "tps": "8205092004002",
+        "url": "82\/8205\/820509\/8205092004\/8205092004002.json",
+        "nama": "TPS 002, SKOM, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092004",
+        "tps": "8205092004003",
+        "url": "82\/8205\/820509\/8205092004\/8205092004003.json",
+        "nama": "TPS 003, SKOM, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092005",
+        "tps": "8205092005001",
+        "url": "82\/8205\/820509\/8205092005\/8205092005001.json",
+        "nama": "TPS 001, WAI TAMUA, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092005",
+        "tps": "8205092005002",
+        "url": "82\/8205\/820509\/8205092005\/8205092005002.json",
+        "nama": "TPS 002, WAI TAMUA, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092001",
+        "tps": "8205092001001",
+        "url": "82\/8205\/820509\/8205092001\/8205092001001.json",
+        "nama": "TPS 001, WAIGAI, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092001",
+        "tps": "8205092001002",
+        "url": "82\/8205\/820509\/8205092001\/8205092001002.json",
+        "nama": "TPS 002, WAIGAI, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092001",
+        "tps": "8205092001003",
+        "url": "82\/8205\/820509\/8205092001\/8205092001003.json",
+        "nama": "TPS 003, WAIGAI, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092001",
+        "tps": "8205092001004",
+        "url": "82\/8205\/820509\/8205092001\/8205092001004.json",
+        "nama": "TPS 004, WAIGAI, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092001",
+        "tps": "8205092001005",
+        "url": "82\/8205\/820509\/8205092001\/8205092001005.json",
+        "nama": "TPS 005, WAIGAI, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092003",
+        "tps": "8205092003001",
+        "url": "82\/8205\/820509\/8205092003\/8205092003001.json",
+        "nama": "TPS 001, WAINIB, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092003",
+        "tps": "8205092003002",
+        "url": "82\/8205\/820509\/8205092003\/8205092003002.json",
+        "nama": "TPS 002, WAINIB, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820509",
+        "desa": "8205092003",
+        "tps": "8205092003003",
+        "url": "82\/8205\/820509\/8205092003\/8205092003003.json",
+        "nama": "TPS 003, WAINIB, SULABESI SELATAN, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072005",
+        "tps": "8205072005001",
+        "url": "82\/8205\/820507\/8205072005\/8205072005001.json",
+        "nama": "TPS 001, BEGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072005",
+        "tps": "8205072005002",
+        "url": "82\/8205\/820507\/8205072005\/8205072005002.json",
+        "nama": "TPS 002, BEGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072005",
+        "tps": "8205072005003",
+        "url": "82\/8205\/820507\/8205072005\/8205072005003.json",
+        "nama": "TPS 003, BEGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072005",
+        "tps": "8205072005004",
+        "url": "82\/8205\/820507\/8205072005\/8205072005004.json",
+        "nama": "TPS 004, BEGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072004",
+        "tps": "8205072004001",
+        "url": "82\/8205\/820507\/8205072004\/8205072004001.json",
+        "nama": "TPS 001, FAT IBA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072004",
+        "tps": "8205072004002",
+        "url": "82\/8205\/820507\/8205072004\/8205072004002.json",
+        "nama": "TPS 002, FAT IBA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072004",
+        "tps": "8205072004003",
+        "url": "82\/8205\/820507\/8205072004\/8205072004003.json",
+        "nama": "TPS 003, FAT IBA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072006",
+        "tps": "8205072006001",
+        "url": "82\/8205\/820507\/8205072006\/8205072006001.json",
+        "nama": "TPS 001, MANAF, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072002",
+        "tps": "8205072002001",
+        "url": "82\/8205\/820507\/8205072002\/8205072002001.json",
+        "nama": "TPS 001, SOAMOLE, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072002",
+        "tps": "8205072002002",
+        "url": "82\/8205\/820507\/8205072002\/8205072002002.json",
+        "nama": "TPS 002, SOAMOLE, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072002",
+        "tps": "8205072002003",
+        "url": "82\/8205\/820507\/8205072002\/8205072002003.json",
+        "nama": "TPS 003, SOAMOLE, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072001",
+        "tps": "8205072001001",
+        "url": "82\/8205\/820507\/8205072001\/8205072001001.json",
+        "nama": "TPS 001, WAIBOGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072001",
+        "tps": "8205072001002",
+        "url": "82\/8205\/820507\/8205072001\/8205072001002.json",
+        "nama": "TPS 002, WAIBOGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072001",
+        "tps": "8205072001003",
+        "url": "82\/8205\/820507\/8205072001\/8205072001003.json",
+        "nama": "TPS 003, WAIBOGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072001",
+        "tps": "8205072001004",
+        "url": "82\/8205\/820507\/8205072001\/8205072001004.json",
+        "nama": "TPS 004, WAIBOGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072001",
+        "tps": "8205072001005",
+        "url": "82\/8205\/820507\/8205072001\/8205072001005.json",
+        "nama": "TPS 005, WAIBOGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072001",
+        "tps": "8205072001006",
+        "url": "82\/8205\/820507\/8205072001\/8205072001006.json",
+        "nama": "TPS 006, WAIBOGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072001",
+        "tps": "8205072001007",
+        "url": "82\/8205\/820507\/8205072001\/8205072001007.json",
+        "nama": "TPS 007, WAIBOGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072001",
+        "tps": "8205072001008",
+        "url": "82\/8205\/820507\/8205072001\/8205072001008.json",
+        "nama": "TPS 008, WAIBOGA, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072003",
+        "tps": "8205072003001",
+        "url": "82\/8205\/820507\/8205072003\/8205072003001.json",
+        "nama": "TPS 001, WAIMAN, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072003",
+        "tps": "8205072003002",
+        "url": "82\/8205\/820507\/8205072003\/8205072003002.json",
+        "nama": "TPS 002, WAIMAN, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820507",
+        "desa": "8205072003",
+        "tps": "8205072003003",
+        "url": "82\/8205\/820507\/8205072003\/8205072003003.json",
+        "nama": "TPS 003, WAIMAN, SULABESI TENGAH, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082002",
+        "tps": "8205082002001",
+        "url": "82\/8205\/820508\/8205082002\/8205082002001.json",
+        "nama": "TPS 001, BALEHA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082002",
+        "tps": "8205082002002",
+        "url": "82\/8205\/820508\/8205082002\/8205082002002.json",
+        "nama": "TPS 002, BALEHA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082002",
+        "tps": "8205082002003",
+        "url": "82\/8205\/820508\/8205082002\/8205082002003.json",
+        "nama": "TPS 003, BALEHA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082003",
+        "tps": "8205082003001",
+        "url": "82\/8205\/820508\/8205082003\/8205082003001.json",
+        "nama": "TPS 001, FATKAUYON, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082003",
+        "tps": "8205082003002",
+        "url": "82\/8205\/820508\/8205082003\/8205082003002.json",
+        "nama": "TPS 002, FATKAUYON, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082005",
+        "tps": "8205082005001",
+        "url": "82\/8205\/820508\/8205082005\/8205082005001.json",
+        "nama": "TPS 001, SAMA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082005",
+        "tps": "8205082005002",
+        "url": "82\/8205\/820508\/8205082005\/8205082005002.json",
+        "nama": "TPS 002, SAMA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082001",
+        "tps": "8205082001001",
+        "url": "82\/8205\/820508\/8205082001\/8205082001001.json",
+        "nama": "TPS 001, WAIGOIYOFA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082001",
+        "tps": "8205082001002",
+        "url": "82\/8205\/820508\/8205082001\/8205082001002.json",
+        "nama": "TPS 002, WAIGOIYOFA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082004",
+        "tps": "8205082004001",
+        "url": "82\/8205\/820508\/8205082004\/8205082004001.json",
+        "nama": "TPS 001, WAILIA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082004",
+        "tps": "8205082004002",
+        "url": "82\/8205\/820508\/8205082004\/8205082004002.json",
+        "nama": "TPS 002, WAILIA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082004",
+        "tps": "8205082004003",
+        "url": "82\/8205\/820508\/8205082004\/8205082004003.json",
+        "nama": "TPS 003, WAILIA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    },
+    {
+        "provinsi": "82",
+        "kabupaten": "8205",
+        "kecamatan": "820508",
+        "desa": "8205082006",
+        "tps": "8205082006001",
+        "url": "82\/8205\/820508\/8205082006\/8205082006001.json",
+        "nama": "TPS 001, WAISEPA, SULABESI TIMUR, KEPULAUAN SULA, MALUKU UTARA"
+    }
+]

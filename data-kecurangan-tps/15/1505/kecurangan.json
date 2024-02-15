@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "15",
+        "kabupaten": "1505",
+        "kecamatan": "150510",
+        "desa": "1505102010",
+        "tps": "1505102010015",
+        "nama": "TPS 015, TANJUNG LEBAR, BAHAR SELATAN,  MUARO JAMBI, JAMBI",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1505\/150510\/1505102010\/1505102010015"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1505",
+        "kecamatan": "150501",
+        "desa": "1505012016",
+        "tps": "1505012016005",
+        "nama": "TPS 005, MUHAJIRIN, JAMBI LUAR KOTA,  MUARO JAMBI, JAMBI",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1505\/150501\/1505012016\/1505012016005"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1505",
+        "kecamatan": "150502",
+        "desa": "1505022013",
+        "tps": "1505022013011",
+        "nama": "TPS 011, BUKIT BALING, SEKERNAN,  MUARO JAMBI, JAMBI",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1505\/150502\/1505022013\/1505022013011"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1505",
+        "kecamatan": "150502",
+        "desa": "1505022015",
+        "tps": "1505022015019",
+        "nama": "TPS 019, SUKO AWIN JAYA, SEKERNAN,  MUARO JAMBI, JAMBI",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1505\/150502\/1505022015\/1505022015019"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1505",
+        "kecamatan": "150507",
+        "desa": "1505072006",
+        "tps": "1505072006007",
+        "nama": "TPS 007, PANCA MULYA, SUNGAI BAHAR,  MUARO JAMBI, JAMBI",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1505\/150507\/1505072006\/1505072006007"
+    },
+    {
+        "provinsi": "15",
+        "kabupaten": "1505",
+        "kecamatan": "150507",
+        "desa": "1505072006",
+        "tps": "1505072006007",
+        "nama": "TPS 007, PANCA MULYA, SUNGAI BAHAR,  MUARO JAMBI, JAMBI",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/15\/1505\/150507\/1505072006\/1505072006007"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1223",
+        "kecamatan": "122301",
+        "desa": "1223012013",
+        "tps": "1223012013005",
+        "nama": "TPS 005, SUKARAME BARU, KUALUH HULU, LABUHANBATU UTARA, SUMATERA UTARA",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1223\/122301\/1223012013\/1223012013005"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1223",
+        "kecamatan": "122302",
+        "desa": "1223021001",
+        "tps": "1223021001013",
+        "nama": "TPS 013, TANJUNG LEIDONG, KUALUH LEIDONG, LABUHANBATU UTARA, SUMATERA UTARA",
+        "selisih": -6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1223\/122302\/1223021001\/1223021001013"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1223",
+        "kecamatan": "122308",
+        "desa": "1223081001",
+        "tps": "1223081001002",
+        "nama": "TPS 002, GUNTING SAGA, KUALUH SELATAN, LABUHANBATU UTARA, SUMATERA UTARA",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1223\/122308\/1223081001\/1223081001002"
+    }
+]

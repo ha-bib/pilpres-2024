@@ -1,0 +1,52 @@
+[
+    {
+        "provinsi": "19",
+        "kabupaten": "1971",
+        "kecamatan": "197105",
+        "desa": "1971051006",
+        "tps": "1971051006005",
+        "nama": "TPS 005, KACANG PEDANG, GERUNGGANG, KOTA PANGKAL PINANG, KEPULAUAN BANGKA BELITUNG",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/19\/1971\/197105\/1971051006\/1971051006005"
+    },
+    {
+        "provinsi": "19",
+        "kabupaten": "1971",
+        "kecamatan": "197104",
+        "desa": "1971041009",
+        "tps": "1971041009003",
+        "nama": "TPS 003, KERAMAT, RANGKUI, KOTA PANGKAL PINANG, KEPULAUAN BANGKA BELITUNG",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/19\/1971\/197104\/1971041009\/1971041009003"
+    },
+    {
+        "provinsi": "19",
+        "kabupaten": "1971",
+        "kecamatan": "197104",
+        "desa": "1971041001",
+        "tps": "1971041001005",
+        "nama": "TPS 005, PINTU AIR, RANGKUI, KOTA PANGKAL PINANG, KEPULAUAN BANGKA BELITUNG",
+        "selisih": -500,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/19\/1971\/197104\/1971041001\/1971041001005"
+    },
+    {
+        "provinsi": "19",
+        "kabupaten": "1971",
+        "kecamatan": "197104",
+        "desa": "1971041009",
+        "tps": "1971041009020",
+        "nama": "TPS 020, KERAMAT, RANGKUI, KOTA PANGKAL PINANG, KEPULAUAN BANGKA BELITUNG",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/19\/1971\/197104\/1971041009\/1971041009020"
+    },
+    {
+        "provinsi": "19",
+        "kabupaten": "1971",
+        "kecamatan": "197104",
+        "desa": "1971041009",
+        "tps": "1971041009020",
+        "nama": "TPS 020, KERAMAT, RANGKUI, KOTA PANGKAL PINANG, KEPULAUAN BANGKA BELITUNG",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/19\/1971\/197104\/1971041009\/1971041009020"
+    }
+]

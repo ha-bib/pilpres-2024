@@ -1,0 +1,762 @@
+[
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320322",
+        "desa": "3203222019",
+        "tps": "3203222019010",
+        "nama": "TPS 010, MEKARSARI, AGRABINTA, CIANJUR, JAWA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320322\/3203222019\/3203222019010"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320322",
+        "desa": "3203222018",
+        "tps": "3203222018001",
+        "nama": "TPS 001, TANJUNG SARI, AGRABINTA, CIANJUR, JAWA BARAT",
+        "selisih": -5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320322\/3203222018\/3203222018001"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320306",
+        "desa": "3203062008",
+        "tps": "3203062008003",
+        "nama": "TPS 003, JATI, BOJONGPICUNG, CIANJUR, JAWA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320306\/3203062008\/3203062008003"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320306",
+        "desa": "3203062010",
+        "tps": "3203062010008",
+        "nama": "TPS 008, SUKARAMA, BOJONGPICUNG, CIANJUR, JAWA BARAT",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320306\/3203062010\/3203062010008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320315",
+        "desa": "3203152009",
+        "tps": "3203152009005",
+        "nama": "TPS 005, WANGUNJAYA, CAMPAKA, CIANJUR, JAWA BARAT",
+        "selisih": -40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320315\/3203152009\/3203152009005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320325",
+        "desa": "3203252004",
+        "tps": "3203252004007",
+        "nama": "TPS 007, CAMPAKAMULYA, CAMPAKAMULYA, CIANJUR, JAWA BARAT",
+        "selisih": -11,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320325\/3203252004\/3203252004007"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320301",
+        "desa": "3203012005",
+        "tps": "3203012005012",
+        "nama": "TPS 012, LIMBANGANSARI, CIANJUR, CIANJUR, JAWA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320301\/3203012005\/3203012005012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320301",
+        "desa": "3203011011",
+        "tps": "3203011011006",
+        "nama": "TPS 006, MUKA, CIANJUR, CIANJUR, JAWA BARAT",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320301\/3203011011\/3203011011006"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320301",
+        "desa": "3203012002",
+        "tps": "3203012002001",
+        "nama": "TPS 001, NAGRAK, CIANJUR, CIANJUR, JAWA BARAT",
+        "selisih": -460,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320301\/3203012002\/3203012002001"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320301",
+        "desa": "3203011009",
+        "tps": "3203011009015",
+        "nama": "TPS 015, SAYANG, CIANJUR, CIANJUR, JAWA BARAT",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320301\/3203011009\/3203011009015"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320301",
+        "desa": "3203011009",
+        "tps": "3203011009017",
+        "nama": "TPS 017, SAYANG, CIANJUR, CIANJUR, JAWA BARAT",
+        "selisih": 148,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320301\/3203011009\/3203011009017"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320301",
+        "desa": "3203011010",
+        "tps": "3203011010036",
+        "nama": "TPS 036, SOLOKPANDAN, CIANJUR, CIANJUR, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320301\/3203011010\/3203011010036"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320303",
+        "desa": "3203032006",
+        "tps": "3203032006028",
+        "nama": "TPS 028, PEUTEUYCONDONG, CIBEBER, CIANJUR, JAWA BARAT",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320303\/3203032006\/3203032006028"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320303",
+        "desa": "3203032010",
+        "tps": "3203032010018",
+        "nama": "TPS 018, SELAGEDANG, CIBEBER, CIANJUR, JAWA BARAT",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320303\/3203032010\/3203032010018"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320320",
+        "desa": "3203202006",
+        "tps": "3203202006010",
+        "nama": "TPS 010, CIMASKARA, CIBINONG, CIANJUR, JAWA BARAT",
+        "selisih": 30,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320320\/3203202006\/3203202006010"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320320",
+        "desa": "3203202010",
+        "tps": "3203202010002",
+        "nama": "TPS 002, HAMERANG, CIBINONG, CIANJUR, JAWA BARAT",
+        "selisih": 200,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320320\/3203202010\/3203202010002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320320",
+        "desa": "3203202003",
+        "tps": "3203202003004",
+        "nama": "TPS 004, SUKAJADI, CIBINONG, CIANJUR, JAWA BARAT",
+        "selisih": 3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320320\/3203202003\/3203202003004"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320323",
+        "desa": "3203232009",
+        "tps": "3203232009018",
+        "nama": "TPS 018, KARANGWANGI, CIDAUN, CIANJUR, JAWA BARAT",
+        "selisih": 3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320323\/3203232009\/3203232009018"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320323",
+        "desa": "3203232006",
+        "tps": "3203232006017",
+        "nama": "TPS 017, KERTAJADI, CIDAUN, CIANJUR, JAWA BARAT",
+        "selisih": -6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320323\/3203232006\/3203232006017"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320323",
+        "desa": "3203232012",
+        "tps": "3203232012009",
+        "nama": "TPS 009, NEGLASARI, CIDAUN, CIANJUR, JAWA BARAT",
+        "selisih": 800,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320323\/3203232012\/3203232012009"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320312",
+        "desa": "3203122003",
+        "tps": "3203122003009",
+        "nama": "TPS 009, CINANGSI, CIKALONGKULON, CIANJUR, JAWA BARAT",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320312\/3203122003\/3203122003009"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320312",
+        "desa": "3203122009",
+        "tps": "3203122009005",
+        "nama": "TPS 005, MEKARJAYA, CIKALONGKULON, CIANJUR, JAWA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320312\/3203122009\/3203122009005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320312",
+        "desa": "3203122017",
+        "tps": "3203122017003",
+        "nama": "TPS 003, MEKARSARI, CIKALONGKULON, CIANJUR, JAWA BARAT",
+        "selisih": 421,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320312\/3203122017\/3203122017003"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320312",
+        "desa": "3203122011",
+        "tps": "3203122011006",
+        "nama": "TPS 006, PADAJAYA, CIKALONGKULON, CIANJUR, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320312\/3203122011\/3203122011006"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320312",
+        "desa": "3203122011",
+        "tps": "3203122011011",
+        "nama": "TPS 011, PADAJAYA, CIKALONGKULON, CIANJUR, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320312\/3203122011\/3203122011011"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320312",
+        "desa": "3203122011",
+        "tps": "3203122011013",
+        "nama": "TPS 013, PADAJAYA, CIKALONGKULON, CIANJUR, JAWA BARAT",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320312\/3203122011\/3203122011013"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320312",
+        "desa": "3203122011",
+        "tps": "3203122011014",
+        "nama": "TPS 014, PADAJAYA, CIKALONGKULON, CIANJUR, JAWA BARAT",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320312\/3203122011\/3203122011014"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320312",
+        "desa": "3203122001",
+        "tps": "3203122001007",
+        "nama": "TPS 007, SUKAGALIH, CIKALONGKULON, CIANJUR, JAWA BARAT",
+        "selisih": 888,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320312\/3203122001\/3203122001007"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320304",
+        "desa": "3203042005",
+        "tps": "3203042005012",
+        "nama": "TPS 012, CIBINONGHILIR, CILAKU, CIANJUR, JAWA BARAT",
+        "selisih": 600,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320304\/3203042005\/3203042005012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320304",
+        "desa": "3203042006",
+        "tps": "3203042006004",
+        "nama": "TPS 004, RAHONG, CILAKU, CIANJUR, JAWA BARAT",
+        "selisih": 10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320304\/3203042006\/3203042006004"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320328",
+        "desa": "3203282003",
+        "tps": "3203282003028",
+        "nama": "TPS 028, CILOTO, CIPANAS, CIANJUR, JAWA BARAT",
+        "selisih": -11,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320328\/3203282003\/3203282003028"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320328",
+        "desa": "3203282002",
+        "tps": "3203282002037",
+        "nama": "TPS 037, CIMACAN, CIPANAS, CIANJUR, JAWA BARAT",
+        "selisih": -40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320328\/3203282002\/3203282002037"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320328",
+        "desa": "3203282006",
+        "tps": "3203282006026",
+        "nama": "TPS 026, PALASARI, CIPANAS, CIANJUR, JAWA BARAT",
+        "selisih": 160,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320328\/3203282006\/3203282006026"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320305",
+        "desa": "3203052001",
+        "tps": "3203052001026",
+        "nama": "TPS 026, CIRANJANG, CIRANJANG, CIANJUR, JAWA BARAT",
+        "selisih": 20,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320305\/3203052001\/3203052001026"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320305",
+        "desa": "3203052001",
+        "tps": "3203052001054",
+        "nama": "TPS 054, CIRANJANG, CIRANJANG, CIANJUR, JAWA BARAT",
+        "selisih": 2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320305\/3203052001\/3203052001054"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320305",
+        "desa": "3203052001",
+        "tps": "3203052001056",
+        "nama": "TPS 056, CIRANJANG, CIRANJANG, CIANJUR, JAWA BARAT",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320305\/3203052001\/3203052001056"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320311",
+        "desa": "3203112013",
+        "tps": "3203112013008",
+        "nama": "TPS 008, WANGUNJAYA, CUGENANG, CIANJUR, JAWA BARAT",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320311\/3203112013\/3203112013008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320311",
+        "desa": "3203112013",
+        "tps": "3203112013010",
+        "nama": "TPS 010, WANGUNJAYA, CUGENANG, CIANJUR, JAWA BARAT",
+        "selisih": 100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320311\/3203112013\/3203112013010"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320327",
+        "desa": "3203272007",
+        "tps": "3203272007012",
+        "nama": "TPS 012, CIKAHURIPAN, GEKBRONG, CIANJUR, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320327\/3203272007\/3203272007012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320327",
+        "desa": "3203272006",
+        "tps": "3203272006024",
+        "nama": "TPS 024, GEKBRONG, GEKBRONG, CIANJUR, JAWA BARAT",
+        "selisih": 36,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320327\/3203272006\/3203272006024"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320331",
+        "desa": "3203312002",
+        "tps": "3203312002007",
+        "nama": "TPS 007, CIHEA, HAURWANGI, CIANJUR, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320331\/3203312002\/3203312002007"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320331",
+        "desa": "3203312002",
+        "tps": "3203312002024",
+        "nama": "TPS 024, CIHEA, HAURWANGI, CIANJUR, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320331\/3203312002\/3203312002024"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320317",
+        "desa": "3203172006",
+        "tps": "3203172006010",
+        "nama": "TPS 010, PASIRDALEM, KADUPANDAK, CIANJUR, JAWA BARAT",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320317\/3203172006\/3203172006010"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320317",
+        "desa": "3203172023",
+        "tps": "3203172023001",
+        "nama": "TPS 001, SINDANGSARI, KADUPANDAK, CIANJUR, JAWA BARAT",
+        "selisih": 300,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320317\/3203172023\/3203172023001"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320317",
+        "desa": "3203172010",
+        "tps": "3203172010012",
+        "nama": "TPS 012, WARGAASIH, KADUPANDAK, CIANJUR, JAWA BARAT",
+        "selisih": 1230,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320317\/3203172010\/3203172010012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320307",
+        "desa": "3203072010",
+        "tps": "3203072010026",
+        "nama": "TPS 026, SABANDAR, KARANGTENGAH, CIANJUR, JAWA BARAT",
+        "selisih": 74,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320307\/3203072010\/3203072010026"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320307",
+        "desa": "3203072003",
+        "tps": "3203072003024",
+        "nama": "TPS 024, SINDANGLAKA, KARANGTENGAH, CIANJUR, JAWA BARAT",
+        "selisih": 7,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320307\/3203072003\/3203072003024"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320307",
+        "desa": "3203072007",
+        "tps": "3203072007010",
+        "nama": "TPS 010, SUKASARANA, KARANGTENGAH, CIANJUR, JAWA BARAT",
+        "selisih": 23,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320307\/3203072007\/3203072007010"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320307",
+        "desa": "3203072012",
+        "tps": "3203072012007",
+        "nama": "TPS 007, SUKATARIS, KARANGTENGAH, CIANJUR, JAWA BARAT",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320307\/3203072012\/3203072012007"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320330",
+        "desa": "3203302010",
+        "tps": "3203302010002",
+        "nama": "TPS 002, KARYAMUKTI, LELES, CIANJUR, JAWA BARAT",
+        "selisih": -14,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320330\/3203302010\/3203302010002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320330",
+        "desa": "3203302010",
+        "tps": "3203302010007",
+        "nama": "TPS 007, KARYAMUKTI, LELES, CIANJUR, JAWA BARAT",
+        "selisih": -6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320330\/3203302010\/3203302010007"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320330",
+        "desa": "3203302004",
+        "tps": "3203302004006",
+        "nama": "TPS 006, PUNCAKWANGI, LELES, CIANJUR, JAWA BARAT",
+        "selisih": -6,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320330\/3203302004\/3203302004006"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320330",
+        "desa": "3203302009",
+        "tps": "3203302009001",
+        "nama": "TPS 001, SIRNASARI, LELES, CIANJUR, JAWA BARAT",
+        "selisih": 840,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320330\/3203302009\/3203302009001"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320330",
+        "desa": "3203302009",
+        "tps": "3203302009002",
+        "nama": "TPS 002, SIRNASARI, LELES, CIANJUR, JAWA BARAT",
+        "selisih": 194,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320330\/3203302009\/3203302009002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320330",
+        "desa": "3203302007",
+        "tps": "3203302007005",
+        "nama": "TPS 005, SUKASIRNA, LELES, CIANJUR, JAWA BARAT",
+        "selisih": 500,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320330\/3203302007\/3203302007005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320308",
+        "desa": "3203082012",
+        "tps": "3203082012004",
+        "nama": "TPS 004, MURNISARI, MANDE, CIANJUR, JAWA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320308\/3203082012\/3203082012004"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320308",
+        "desa": "3203082012",
+        "tps": "3203082012005",
+        "nama": "TPS 005, MURNISARI, MANDE, CIANJUR, JAWA BARAT",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320308\/3203082012\/3203082012005"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320308",
+        "desa": "3203082008",
+        "tps": "3203082008006",
+        "nama": "TPS 006, SUKAMANAH, MANDE, CIANJUR, JAWA BARAT",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320308\/3203082008\/3203082008006"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320324",
+        "desa": "3203242005",
+        "tps": "3203242005008",
+        "nama": "TPS 008, CINERANG, NARINGGUL, CIANJUR, JAWA BARAT",
+        "selisih": -50,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320324\/3203242005\/3203242005008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320324",
+        "desa": "3203242003",
+        "tps": "3203242003012",
+        "nama": "TPS 012, WANGUNJAYA, NARINGGUL, CIANJUR, JAWA BARAT",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320324\/3203242003\/3203242003012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320310",
+        "desa": "3203102003",
+        "tps": "3203102003015",
+        "nama": "TPS 015, CIBODAS, PACET, CIANJUR, JAWA BARAT",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320310\/3203102003\/3203102003015"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320310",
+        "desa": "3203102001",
+        "tps": "3203102001004",
+        "nama": "TPS 004, CIHERANG, PACET, CIANJUR, JAWA BARAT",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320310\/3203102001\/3203102001004"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320310",
+        "desa": "3203102012",
+        "tps": "3203102012012",
+        "nama": "TPS 012, GADOG, PACET, CIANJUR, JAWA BARAT",
+        "selisih": -4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320310\/3203102012\/3203102012012"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320310",
+        "desa": "3203102012",
+        "tps": "3203102012016",
+        "nama": "TPS 016, GADOG, PACET, CIANJUR, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320310\/3203102012\/3203102012016"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320318",
+        "desa": "3203182012",
+        "tps": "3203182012003",
+        "nama": "TPS 003, KERTARAHARJA, PAGELARAN, CIANJUR, JAWA BARAT",
+        "selisih": 40,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320318\/3203182012\/3203182012003"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320318",
+        "desa": "3203182012",
+        "tps": "3203182012011",
+        "nama": "TPS 011, KERTARAHARJA, PAGELARAN, CIANJUR, JAWA BARAT",
+        "selisih": -100,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320318\/3203182012\/3203182012011"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320318",
+        "desa": "3203182014",
+        "tps": "3203182014013",
+        "nama": "TPS 013, PADAMAJU, PAGELARAN, CIANJUR, JAWA BARAT",
+        "selisih": 899,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320318\/3203182014\/3203182014013"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320332",
+        "desa": "3203322004",
+        "tps": "3203322004011",
+        "nama": "TPS 011, KUBANG, PASIRKUDA, CIANJUR, JAWA BARAT",
+        "selisih": 500,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320332\/3203322004\/3203322004011"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320332",
+        "desa": "3203322004",
+        "tps": "3203322004013",
+        "nama": "TPS 013, KUBANG, PASIRKUDA, CIANJUR, JAWA BARAT",
+        "selisih": 428,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320332\/3203322004\/3203322004013"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320321",
+        "desa": "3203212002",
+        "tps": "3203212002006",
+        "nama": "TPS 006, MUARACIKADU, SINDANGBARANG, CIANJUR, JAWA BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320321\/3203212002\/3203212002006"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320309",
+        "desa": "3203092007",
+        "tps": "3203092007009",
+        "nama": "TPS 009, SUKASIRNA, SUKALUYU, CIANJUR, JAWA BARAT",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320309\/3203092007\/3203092007009"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320313",
+        "desa": "3203132002",
+        "tps": "3203132002008",
+        "nama": "TPS 008, CIKANCANA, SUKARESMI, CIANJUR, JAWA BARAT",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320313\/3203132002\/3203132002008"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320313",
+        "desa": "3203132004",
+        "tps": "3203132004018",
+        "nama": "TPS 018, KAWUNGLUWUK, SUKARESMI, CIANJUR, JAWA BARAT",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320313\/3203132004\/3203132004018"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320319",
+        "desa": "3203192014",
+        "tps": "3203192014002",
+        "nama": "TPS 002, SUKAJAYA, TANGGEUNG, CIANJUR, JAWA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320319\/3203192014\/3203192014002"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320302",
+        "desa": "3203022007",
+        "tps": "3203022007001",
+        "nama": "TPS 001, CIKAROYA, WARUNGKONDANG, CIANJUR, JAWA BARAT",
+        "selisih": -10,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320302\/3203022007\/3203022007001"
+    },
+    {
+        "provinsi": "32",
+        "kabupaten": "3203",
+        "kecamatan": "320302",
+        "desa": "3203022009",
+        "tps": "3203022009030",
+        "nama": "TPS 030, CIWALEN, WARUNGKONDANG, CIANJUR, JAWA BARAT",
+        "selisih": 1280,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/32\/3203\/320302\/3203022009\/3203022009030"
+    }
+]

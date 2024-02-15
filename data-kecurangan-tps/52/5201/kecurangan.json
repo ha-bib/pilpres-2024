@@ -1,0 +1,62 @@
+[
+    {
+        "provinsi": "52",
+        "kabupaten": "5201",
+        "kecamatan": "520114",
+        "desa": "5201142002",
+        "tps": "5201142002016",
+        "nama": "TPS 016, MENINTING, BATU LAYAR, LOMBOK BARAT, NUSA TENGGARA BARAT",
+        "selisih": 1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/52\/5201\/520114\/5201142002\/5201142002016"
+    },
+    {
+        "provinsi": "52",
+        "kabupaten": "5201",
+        "kecamatan": "520101",
+        "desa": "5201011004",
+        "tps": "5201011004008",
+        "nama": "TPS 008, DASAN GERES, GERUNG, LOMBOK BARAT, NUSA TENGGARA BARAT",
+        "selisih": 20,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/52\/5201\/520101\/5201011004\/5201011004008"
+    },
+    {
+        "provinsi": "52",
+        "kabupaten": "5201",
+        "kecamatan": "520102",
+        "desa": "5201022004",
+        "tps": "5201022004002",
+        "nama": "TPS 002, GELOGOR, KEDIRI, LOMBOK BARAT, NUSA TENGGARA BARAT",
+        "selisih": -8,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/52\/5201\/520102\/5201022004\/5201022004002"
+    },
+    {
+        "provinsi": "52",
+        "kabupaten": "5201",
+        "kecamatan": "520112",
+        "desa": "5201122007",
+        "tps": "5201122007002",
+        "nama": "TPS 002, DASAN GERIA, LINGSAR, LOMBOK BARAT, NUSA TENGGARA BARAT",
+        "selisih": -1,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/52\/5201\/520112\/5201122007\/5201122007002"
+    },
+    {
+        "provinsi": "52",
+        "kabupaten": "5201",
+        "kecamatan": "520112",
+        "desa": "5201122008",
+        "tps": "5201122008009",
+        "nama": "TPS 009, PETELUAN INDAH, LINGSAR, LOMBOK BARAT, NUSA TENGGARA BARAT",
+        "selisih": 218,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/52\/5201\/520112\/5201122008\/5201122008009"
+    },
+    {
+        "provinsi": "52",
+        "kabupaten": "5201",
+        "kecamatan": "520107",
+        "desa": "5201072003",
+        "tps": "5201072003012",
+        "nama": "TPS 012, PELANGAN, SEKOTONG, LOMBOK BARAT, NUSA TENGGARA BARAT",
+        "selisih": -2,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/52\/5201\/520107\/5201072003\/5201072003012"
+    }
+]

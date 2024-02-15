@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "81",
+        "kabupaten": "8172",
+        "kecamatan": "817202",
+        "desa": "8172021003",
+        "tps": "8172021003002",
+        "nama": "TPS 002, KETSOBLAK, PULAU DULLAH SELATAN, KOTA TUAL, MALUKU",
+        "selisih": -3,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/81\/8172\/817202\/8172021003\/8172021003002"
+    },
+    {
+        "provinsi": "81",
+        "kabupaten": "8172",
+        "kecamatan": "817202",
+        "desa": "8172022002",
+        "tps": "8172022002002",
+        "nama": "TPS 002, TAAR, PULAU DULLAH SELATAN, KOTA TUAL, MALUKU",
+        "selisih": -12,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/81\/8172\/817202\/8172022002\/8172022002002"
+    },
+    {
+        "provinsi": "81",
+        "kabupaten": "8172",
+        "kecamatan": "817205",
+        "desa": "8172052005",
+        "tps": "8172052005001",
+        "nama": "TPS 001, HIRIT, KUR SELATAN, KOTA TUAL, MALUKU",
+        "selisih": 603,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/81\/8172\/817205\/8172052005\/8172052005001"
+    }
+]

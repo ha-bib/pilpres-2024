@@ -1,0 +1,32 @@
+[
+    {
+        "provinsi": "12",
+        "kabupaten": "1201",
+        "kecamatan": "120115",
+        "desa": "1201151002",
+        "tps": "1201151002009",
+        "nama": "TPS 009, LOPIAN, BADIRI, TAPANULI TENGAH, SUMATERA UTARA",
+        "selisih": 4,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1201\/120115\/1201151002\/1201151002009"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1201",
+        "kecamatan": "120110",
+        "desa": "1201102018",
+        "tps": "1201102018003",
+        "nama": "TPS 003, SORKAM KANAN, SORKAM BARAT, TAPANULI TENGAH, SUMATERA UTARA",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1201\/120110\/1201102018\/1201102018003"
+    },
+    {
+        "provinsi": "12",
+        "kabupaten": "1201",
+        "kecamatan": "120107",
+        "desa": "1201072007",
+        "tps": "1201072007005",
+        "nama": "TPS 005, MELA I, TAPIAN NAULI, TAPANULI TENGAH, SUMATERA UTARA",
+        "selisih": 5,
+        "url": "https:\/\/pemilu2024.kpu.go.id\/pilpres\/hitung-suara\/12\/1201\/120107\/1201072007\/1201072007005"
+    }
+]
